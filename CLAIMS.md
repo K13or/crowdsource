@@ -142,7 +142,7 @@
 | `minis_001.csv` | minis | 49 | 4,457 | Combine 3 Mini Baron von Scrufflebutts in the |  |  |
 | `misc_001.csv` | misc | 1 | 19 | Visions of Eternity |  |  |
 | `ui_001.csv` | ui | 500 | 60,546 | [null] |  |  |
-| `ui_002.csv` | ui | 500 | 15,699 | %str1% (%num1%/%num2% complete) | ✅ | Claude |
+| `ui_002.csv` | ui | 500 | 15,699 | %str1% (%num1%/%num2% complete) | ✅ | Магистр Клод |
 | `ui_003.csv` | ui | 500 | 21,964 | %str1%%str2%Abyssal Fractal Dagger%str3%%str4 |  |  |
 | `ui_004.csv` | ui | 500 | 21,277 | %str1%%str2%Beach Trunks%str3%%str4% |  |  |
 | `ui_005.csv` | ui | 500 | 21,093 | %str1%%str2%Commander's Helm%str3%%str4% |  |  |
@@ -170,7 +170,7 @@
 | `ui_027.csv` | ui | 500 | 21,520 | Allied Heal |  |  |
 | `ui_028.csv` | ui | 500 | 25,116 | Ancient Scepter Core[s] |  |  |
 | `ui_029.csv` | ui | 500 | 37,714 | Area Weakness |  |  |
-| `ui_030.csv` | ui | 500 | 33,476 | Assist the asuran researchers in Ember Bay. | ✅ | Claude |
+| `ui_030.csv` | ui | 500 | 33,476 | Assist the asuran researchers in Ember Bay. | ✅ | Магистр Клод |
 | `ui_031.csv` | ui | 500 | 15,587 | Avatar Amulet |  |  |
 | `ui_032.csv` | ui | 500 | 24,164 | Base defenders killed |  |  |
 | `ui_033.csv` | ui | 500 | 15,804 | Best Performance |  |  |
