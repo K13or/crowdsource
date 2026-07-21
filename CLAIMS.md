@@ -170,7 +170,7 @@
 | `ui_027.csv` | ui | 500 | 21,520 | Allied Heal |  |  |
 | `ui_028.csv` | ui | 500 | 25,116 | Ancient Scepter Core[s] |  |  |
 | `ui_029.csv` | ui | 500 | 37,714 | Area Weakness |  |  |
-| `ui_030.csv` | ui | 500 | 33,476 | Assist the asuran researchers in Ember Bay. |  |  |
+| `ui_030.csv` | ui | 500 | 33,476 | Assist the asuran researchers in Ember Bay. | 🔨 | Claude |
 | `ui_031.csv` | ui | 500 | 15,587 | Avatar Amulet |  |  |
 | `ui_032.csv` | ui | 500 | 24,164 | Base defenders killed |  |  |
 | `ui_033.csv` | ui | 500 | 15,804 | Best Performance |  |  |
