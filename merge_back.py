@@ -19,7 +19,10 @@
 """
 import csv, io, re, glob, os, sys
 
-TOK = re.compile(r'%\w+%|<[^>]+>|\[[a-zA-Z]+\]')
+# Обязательны к сохранению: %подстановки%, <теги>, литеральные скобки [lbracket]/[rbracket]/[null].
+# А вот [s] / [pl:"..."] (мн. число) ПРАВИЛЬНО превращаются в русское [форма1|форма2|форма3],
+# поэтому в проверку токенов их НЕ включаем.
+TOK = re.compile(r'%\w+%|<[^>]+>|\[lbracket\]|\[rbracket\]|\[null\]')
 
 def tokens(s):
     return sorted(TOK.findall(s))
