@@ -1,501 +1,501 @@
 english,translate
-%str1%%str2%Abyssal Fractal Dagger%str3%%str4%,
-%str1%%str2%Abyssal Fractal Focus%str3%%str4%,
-%str1%%str2%Abyssal Fractal Greatsword%str3%%str4%,
-%str1%%str2%Abyssal Fractal Hammer%str3%%str4%,
-%str1%%str2%Abyssal Fractal Harpoon%str3%%str4%,
-%str1%%str2%Abyssal Fractal Longbow%str3%%str4%,
-%str1%%str2%Abyssal Fractal Mace%str3%%str4%,
-%str1%%str2%Abyssal Fractal Pistol%str3%%str4%,
-%str1%%str2%Abyssal Fractal Rifle%str3%%str4%,
-%str1%%str2%Abyssal Fractal Scepter%str3%%str4%,
-%str1%%str2%Abyssal Fractal Shield%str3%%str4%,
-%str1%%str2%Abyssal Fractal Short Bow%str3%%str4%,
-%str1%%str2%Abyssal Fractal Speargun%str3%%str4%,
-%str1%%str2%Abyssal Fractal Staff%str3%%str4%,
-%str1%%str2%Abyssal Fractal Sword%str3%%str4%,
-%str1%%str2%Abyssal Fractal Torch%str3%%str4%,
-%str1%%str2%Abyssal Fractal Trident%str3%%str4%,
-%str1%%str2%Abyssal Fractal Warhorn%str3%%str4%,
-%str1%%str2%Abyssal Scepter%str3%%str4%,
-%str1%%str2%Accursed Chains%str3%%str4%,
-%str1%%str2%Accursed Guise%str3%%str4%,
-%str1%%str2%Accursed Leggings%str3%%str4%,
-%str1%%str2%Accursed Shoulders%str3%%str4%,
-%str1%%str2%Accursed Treads%str3%%str4%,
-%str1%%str2%Accursed Vambraces%str3%%str4%,
-%str1%%str2%Accursed Visage%str3%%str4%,
-%str1%%str2%Acolyte Boots%str3%%str4%,
-%str1%%str2%Acolyte Coat%str3%%str4%,
-%str1%%str2%Acolyte Gloves%str3%%str4%,
-%str1%%str2%Acolyte Mantle%str3%%str4%,
-%str1%%str2%Acolyte Mask%str3%%str4%,
-%str1%%str2%Acolyte Pants%str3%%str4%,
-%str1%%str2%Adam%str3%%str4%,
-%str1%%str2%Adamant Guard Axe%str3%%str4%,
-%str1%%str2%Adamant Guard Blade%str3%%str4%,
-%str1%%str2%Adamant Guard Bow%str3%%str4%,
-%str1%%str2%Adamant Guard Cannon%str3%%str4%,
-%str1%%str2%Adamant Guard Dagger%str3%%str4%,
-%str1%%str2%Adamant Guard Gizmo%str3%%str4%,
-%str1%%str2%Adamant Guard Greatsword%str3%%str4%,
-%str1%%str2%Adamant Guard Hammer%str3%%str4%,
-%str1%%str2%Adamant Guard Mace%str3%%str4%,
-%str1%%str2%Adamant Guard Pistol%str3%%str4%,
-%str1%%str2%Adamant Guard Rifle%str3%%str4%,
-%str1%%str2%Adamant Guard Scepter%str3%%str4%,
-%str1%%str2%Adamant Guard Shield%str3%%str4%,
-%str1%%str2%Adamant Guard Short Bow%str3%%str4%,
-%str1%%str2%Adamant Guard Spear%str3%%str4%,
-%str1%%str2%Adamant Guard Staff%str3%%str4%,
-%str1%%str2%Adamant Guard Torch%str3%%str4%,
-%str1%%str2%Adamant Guard Trident%str3%%str4%,
-%str1%%str2%Adamant Guard Warhorn%str3%%str4%,
-%str1%%str2%Adept Boots%str3%%str4%,
-%str1%%str2%Adept Coat%str3%%str4%,
-%str1%%str2%Adept Epaulets%str3%%str4%,
-%str1%%str2%Adept Gloves%str3%%str4%,
-%str1%%str2%Adept Helm%str3%%str4%,
-%str1%%str2%Adept Leggings%str3%%str4%,
-%str1%%str2%Advanced Spinal Blades%str3%%str4%,
-%str1%%str2%Adventurer's Mantle%str3%%str4%,
-%str1%%str2%Adventurer's Scarf%str3%%str4%,
-%str1%%str2%Adventurer's Spectacles%str3%%str4%,
-%str1%%str2%Aether%str3%%str4%,
-%str1%%str2%Aetherblade Blindfold%str3%%str4%,
-%str1%%str2%Aetherblade Heavy Gauntlets%str3%%str4%,
-%str1%%str2%Aetherblade Heavy Legplates%str3%%str4%,
-%str1%%str2%Aetherblade Heavy Pauldrons%str3%%str4%,
-%str1%%str2%Aetherblade Heavy Warboots%str3%%str4%,
-%str1%%str2%Aetherblade Heavy Warhelm%str3%%str4%,
-%str1%%str2%Aetherblade Heavy Warplate%str3%%str4%,
-%str1%%str2%Aetherblade Light Gloves%str3%%str4%,
-%str1%%str2%Aetherblade Light Goggles%str3%%str4%,
-%str1%%str2%Aetherblade Light Mantle%str3%%str4%,
-%str1%%str2%Aetherblade Light Pants%str3%%str4%,
-%str1%%str2%Aetherblade Light Shoes%str3%%str4%,
-%str1%%str2%Aetherblade Light Vest%str3%%str4%,
-%str1%%str2%Aetherblade Medium Armguards%str3%%str4%,
-%str1%%str2%Aetherblade Medium Boots%str3%%str4%,
-%str1%%str2%Aetherblade Medium Helmet%str3%%str4%,
-%str1%%str2%Aetherblade Medium Jerkin%str3%%str4%,
-%str1%%str2%Aetherblade Medium Leggings%str3%%str4%,
-%str1%%str2%Aetherblade Medium Shoulderpads%str3%%str4%,
-%str1%%str2%Aetherized Arsenite Greatsword%str3%%str4%,
-%str1%%str2%Aetherized Arsenite Hammer%str3%%str4%,
-%str1%%str2%Aetherized Arsenite Staff%str3%%str4%,
-%str1%%str2%Aetherized Axe%str3%%str4%,
-%str1%%str2%Aetherized Dagger%str3%%str4%,
-"%str1%%str2%Aetherized Focus[pl:""Foci""]%str3%%str4%",
-%str1%%str2%Aetherized Greatsword%str3%%str4%,
-%str1%%str2%Aetherized Hammer%str3%%str4%,
-%str1%%str2%Aetherized Harpoon Gun%str3%%str4%,
-%str1%%str2%Aetherized Indigo Greatsword%str3%%str4%,
-%str1%%str2%Aetherized Indigo Hammer%str3%%str4%,
-%str1%%str2%Aetherized Indigo Staff%str3%%str4%,
-%str1%%str2%Aetherized Longbow%str3%%str4%,
-%str1%%str2%Aetherized Mace%str3%%str4%,
-%str1%%str2%Aetherized Pistol%str3%%str4%,
-%str1%%str2%Aetherized Rifle%str3%%str4%,
-%str1%%str2%Aetherized Scepter%str3%%str4%,
-%str1%%str2%Aetherized Shield%str3%%str4%,
-%str1%%str2%Aetherized Short Bow%str3%%str4%,
-%str1%%str2%Aetherized Spear%str3%%str4%,
-%str1%%str2%Aetherized Staff%str3%%str4%,
-%str1%%str2%Aetherized Sword%str3%%str4%,
-"%str1%%str2%Aetherized Torch[pl:""Torches""]%str3%%str4%",
-%str1%%str2%Aetherized Trident%str3%%str4%,
-%str1%%str2%Aetherized Vermilion Greatsword%str3%%str4%,
-%str1%%str2%Aetherized Vermilion Hammer%str3%%str4%,
-%str1%%str2%Aetherized Vermilion Staff%str3%%str4%,
-%str1%%str2%Aetherized Warhorn%str3%%str4%,
-%str1%%str2%Air-Filtration Device%str3%%str4%,
-%str1%%str2%Ak-Muhl's Jaw%str3%%str4%,
-%str1%%str2%Al'ir'aska%str3%%str4%,
-%str1%%str2%Alabaster Spider's Axe%str3%%str4%,
-%str1%%str2%Alabaster Spider's Dagger%str3%%str4%,
-%str1%%str2%Alabaster Spider's Focus%str3%%str4%,
-%str1%%str2%Alabaster Spider's Greatsword%str3%%str4%,
-%str1%%str2%Alabaster Spider's Hammer%str3%%str4%,
-%str1%%str2%Alabaster Spider's Longbow%str3%%str4%,
-%str1%%str2%Alabaster Spider's Mace%str3%%str4%,
-%str1%%str2%Alabaster Spider's Pistol%str3%%str4%,
-%str1%%str2%Alabaster Spider's Rifle%str3%%str4%,
-%str1%%str2%Alabaster Spider's Scepter%str3%%str4%,
-%str1%%str2%Alabaster Spider's Shield%str3%%str4%,
-%str1%%str2%Alabaster Spider's Short Bow%str3%%str4%,
-%str1%%str2%Alabaster Spider's Spear%str3%%str4%,
-%str1%%str2%Alabaster Spider's Staff%str3%%str4%,
-%str1%%str2%Alabaster Spider's Sword%str3%%str4%,
-%str1%%str2%Alabaster Spider's Torch%str3%%str4%,
-%str1%%str2%Alabaster Spider's Warhorn%str3%%str4%,
-%str1%%str2%Alderune's Last Stand%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Heavy Boots%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Heavy Gloves%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Heavy Helmet%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Heavy Jacket%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Heavy Leggings%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Heavy Mantle%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Light Boots%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Light Gloves%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Light Helmet%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Light Jacket%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Light Leggings%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Light Mantle%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Medium Boots%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Medium Gloves%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Medium Helmet%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Medium Jacket%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Medium Leggings%str3%%str4%,
-%str1%%str2%Alliance Field Operative's Medium Mantle%str3%%str4%,
-%str1%%str2%Ambrosia%str3%%str4%,
-%str1%%str2%Ambrosial Chef's Backpack%str3%%str4%,
-%str1%%str2%Amethyst Shield%str3%%str4%,
-%str1%%str2%Ancient Boreal Axe%str3%%str4%,
-%str1%%str2%Ancient Boreal Dagger%str3%%str4%,
-%str1%%str2%Ancient Boreal Focus%str3%%str4%,
-%str1%%str2%Ancient Boreal Greatsword%str3%%str4%,
-%str1%%str2%Ancient Boreal Hammer%str3%%str4%,
-%str1%%str2%Ancient Boreal Longbow%str3%%str4%,
-%str1%%str2%Ancient Boreal Mace%str3%%str4%,
-%str1%%str2%Ancient Boreal Pistol%str3%%str4%,
-%str1%%str2%Ancient Boreal Rifle%str3%%str4%,
-%str1%%str2%Ancient Boreal Scepter%str3%%str4%,
-%str1%%str2%Ancient Boreal Shield%str3%%str4%,
-%str1%%str2%Ancient Boreal Short Bow%str3%%str4%,
-%str1%%str2%Ancient Boreal Sword%str3%%str4%,
-%str1%%str2%Ancient Boreal Torch%str3%%str4%,
-%str1%%str2%Ancient Boreal Warhorn%str3%%str4%,
-%str1%%str2%Ancient Canthan Gambeson%str3%%str4%,
-%str1%%str2%Ancient Canthan Gauntlets%str3%%str4%,
-%str1%%str2%Ancient Canthan Greaves%str3%%str4%,
-%str1%%str2%Ancient Canthan Helm%str3%%str4%,
-%str1%%str2%Ancient Canthan Jacket%str3%%str4%,
-%str1%%str2%Ancient Canthan Light Boots%str3%%str4%,
-%str1%%str2%Ancient Canthan Light Gloves%str3%%str4%,
-%str1%%str2%Ancient Canthan Light Helm%str3%%str4%,
-%str1%%str2%Ancient Canthan Light Leggings%str3%%str4%,
-%str1%%str2%Ancient Canthan Light Shoulderpads%str3%%str4%,
-%str1%%str2%Ancient Canthan Medium Boots%str3%%str4%,
-%str1%%str2%Ancient Canthan Medium Gloves%str3%%str4%,
-%str1%%str2%Ancient Canthan Medium Helm%str3%%str4%,
-%str1%%str2%Ancient Canthan Medium Leggings%str3%%str4%,
-%str1%%str2%Ancient Canthan Medium Shoulderpads%str3%%str4%,
-%str1%%str2%Ancient Canthan Spaulders%str3%%str4%,
-%str1%%str2%Ancient Canthan Tassets%str3%%str4%,
-%str1%%str2%Ancient Canthan Tunic%str3%%str4%,
-%str1%%str2%Ancient Kraken Cuirass%str3%%str4%,
-%str1%%str2%Ancient Kraken Gauntlets%str3%%str4%,
-%str1%%str2%Ancient Kraken Greaves%str3%%str4%,
-%str1%%str2%Ancient Kraken Helmet%str3%%str4%,
-%str1%%str2%Ancient Kraken Pauldrons%str3%%str4%,
-%str1%%str2%Ancient Kraken Tassets%str3%%str4%,
-%str1%%str2%Ancient Ritualist Cowl%str3%%str4%,
-%str1%%str2%Ancient Ritualist Gloves%str3%%str4%,
-%str1%%str2%Ancient Ritualist Mantle%str3%%str4%,
-%str1%%str2%Ancient Ritualist Pants%str3%%str4%,
-%str1%%str2%Ancient Ritualist Shoes%str3%%str4%,
-%str1%%str2%Ancient Ritualist Vestments%str3%%str4%,
-%str1%%str2%Ancient Tahkayun Boots%str3%%str4%,
-%str1%%str2%Ancient Tahkayun Jerkin%str3%%str4%,
-%str1%%str2%Ancient Tahkayun Leggings%str3%%str4%,
-%str1%%str2%Ancient Tahkayun Mask%str3%%str4%,
-%str1%%str2%Ancient Tahkayun Shoulders%str3%%str4%,
-%str1%%str2%Ancient Tahkayun Vambraces%str3%%str4%,
-%str1%%str2%Ancora Bellum%str3%%str4%,
-%str1%%str2%Ancora Pax%str3%%str4%,
-%str1%%str2%Angler Hat%str3%%str4%,
-%str1%%str2%Angler Vest%str3%%str4%,
-%str1%%str2%Anima%str3%%str4%,
-%str1%%str2%Annelid Rifle%str3%%str4%,
-%str1%%str2%Anonymity Mask%str3%%str4%,
-%str1%%str2%Antitoxin Injector%str3%%str4%,
-%str1%%str2%Anton's Boot Blade%str3%%str4%,
-%str1%%str2%Anura%str3%%str4%,
-%str1%%str2%Apidae%str3%%str4%,
-%str1%%str2%Apostle Cassock%str3%%str4%,
-%str1%%str2%Apostle Cowl%str3%%str4%,
-%str1%%str2%Apostle Epaulets%str3%%str4%,
-%str1%%str2%Apostle Leggings%str3%%str4%,
-%str1%%str2%Apostle Shoes%str3%%str4%,
-%str1%%str2%Apostle Wraps%str3%%str4%,
-%str1%%str2%Apprentice Band%str3%%str4%,
-%str1%%str2%Apprentice Coat%str3%%str4%,
-%str1%%str2%Apprentice Gloves%str3%%str4%,
-%str1%%str2%Apprentice Pants%str3%%str4%,
-%str1%%str2%Apprentice Shoes%str3%%str4%,
-%str1%%str2%Apprentice Shoulders%str3%%str4%,
-%str1%%str2%Arachnophobia%str3%%str4%,
-%str1%%str2%Arborist Boots%str3%%str4%,
-%str1%%str2%Arborist Coat%str3%%str4%,
-%str1%%str2%Arborist Gloves%str3%%str4%,
-%str1%%str2%Arborist Helm%str3%%str4%,
-%str1%%str2%Arborist Leggings%str3%%str4%,
-%str1%%str2%Arborist Shoulderguards%str3%%str4%,
-%str1%%str2%Arc%str3%%str4%,
-%str1%%str2%Arcanus Obscurus%str3%%str4%,
-%str1%%str2%Archon Boots%str3%%str4%,
-%str1%%str2%Archon Coat%str3%%str4%,
-%str1%%str2%Archon Gloves%str3%%str4%,
-%str1%%str2%Archon Helm%str3%%str4%,
-%str1%%str2%Archon Leggings%str3%%str4%,
-%str1%%str2%Archon Shoulders%str3%%str4%,
-%str1%%str2%Ardent Glorious Armguards%str3%%str4%,
-%str1%%str2%Ardent Glorious Breastplate%str3%%str4%,
-%str1%%str2%Ardent Glorious Brigandine%str3%%str4%,
-%str1%%str2%Ardent Glorious Cap%str3%%str4%,
-%str1%%str2%Ardent Glorious Crown%str3%%str4%,
-%str1%%str2%Ardent Glorious Epaulets%str3%%str4%,
-%str1%%str2%Ardent Glorious Footgear%str3%%str4%,
-%str1%%str2%Ardent Glorious Gauntlets%str3%%str4%,
-%str1%%str2%Ardent Glorious Leggings%str3%%str4%,
-%str1%%str2%Ardent Glorious Legguards%str3%%str4%,
-%str1%%str2%Ardent Glorious Legplates%str3%%str4%,
-%str1%%str2%Ardent Glorious Pauldrons%str3%%str4%,
-%str1%%str2%Ardent Glorious Plate Helm%str3%%str4%,
-%str1%%str2%Ardent Glorious Raiment%str3%%str4%,
-%str1%%str2%Ardent Glorious Shinplates%str3%%str4%,
-%str1%%str2%Ardent Glorious Shoulderguards%str3%%str4%,
-%str1%%str2%Ardent Glorious Wargreaves%str3%%str4%,
-%str1%%str2%Ardent Glorious Wristplates%str3%%str4%,
-%str1%%str2%Aristocrat's Coat%str3%%str4%,
-%str1%%str2%Aristocrat's Epaulets%str3%%str4%,
-%str1%%str2%Aristocrat's Livery%str3%%str4%,
-%str1%%str2%Aristocrat's Masque%str3%%str4%,
-%str1%%str2%Aristocrat's Pants%str3%%str4%,
-%str1%%str2%Aristocrat's Shoes%str3%%str4%,
-%str1%%str2%Arkhalos%str3%%str4%,
-%str1%%str2%Armageddon Breastplate%str3%%str4%,
-%str1%%str2%Armageddon Gauntlets%str3%%str4%,
-%str1%%str2%Armageddon Greaves%str3%%str4%,
-%str1%%str2%Armageddon Helm%str3%%str4%,
-%str1%%str2%Armageddon Leggings%str3%%str4%,
-%str1%%str2%Armageddon Pauldrons%str3%%str4%,
-%str1%%str2%Arms of Koda%str3%%str4%,
-%str1%%str2%Ars Goetia%str3%%str4%,
-%str1%%str2%Arthropoda%str3%%str4%,
-%str1%%str2%Artifact of the Broken Voice%str3%%str4%,
-%str1%%str2%Artifact of the Scion%str3%%str4%,
-%str1%%str2%Artifact of the Sunless%str3%%str4%,
-%str1%%str2%Ascalonian Performer Gloves%str3%%str4%,
-%str1%%str2%Ascalonian Performer Mantle%str3%%str4%,
-%str1%%str2%Ascalonian Performer Mask%str3%%str4%,
-%str1%%str2%Ascalonian Performer Pants%str3%%str4%,
-%str1%%str2%Ascalonian Performer Shoes%str3%%str4%,
-%str1%%str2%Ascalonian Performer Vestments%str3%%str4%,
-%str1%%str2%Ascalonian Protector Breastplate%str3%%str4%,
-%str1%%str2%Ascalonian Protector Gauntlets%str3%%str4%,
-%str1%%str2%Ascalonian Protector Greaves%str3%%str4%,
-%str1%%str2%Ascalonian Protector Helm%str3%%str4%,
-%str1%%str2%Ascalonian Protector Legguards%str3%%str4%,
-%str1%%str2%Ascalonian Protector Pauldrons%str3%%str4%,
-%str1%%str2%Ascalonian Sentry Boots%str3%%str4%,
-%str1%%str2%Ascalonian Sentry Chestguard%str3%%str4%,
-%str1%%str2%Ascalonian Sentry Gloves%str3%%str4%,
-%str1%%str2%Ascalonian Sentry Hat%str3%%str4%,
-%str1%%str2%Ascalonian Sentry Leggings%str3%%str4%,
-%str1%%str2%Ascalonian Sentry Shoulderguards%str3%%str4%,
-%str1%%str2%Asef's Brew%str3%%str4%,
-%str1%%str2%Ash Dominion Pistol%str3%%str4%,
-%str1%%str2%Ash Legion Combat Blade%str3%%str4%,
-%str1%%str2%Ash Legion Flamesaw%str3%%str4%,
-%str1%%str2%Ash Legion Longshot%str3%%str4%,
-%str1%%str2%Ash Legion Pistol%str3%%str4%,
-%str1%%str2%Ash Legion Shield%str3%%str4%,
-%str1%%str2%Ash Legion Staff%str3%%str4%,
-%str1%%str2%Assassin's Boots%str3%%str4%,
-%str1%%str2%Assassin's Coat%str3%%str4%,
-%str1%%str2%Assassin's Gloves%str3%%str4%,
-%str1%%str2%Assassin's Leggings%str3%%str4%,
-%str1%%str2%Assassin's Mask%str3%%str4%,
-%str1%%str2%Assassin's Shoulderpads%str3%%str4%,
-%str1%%str2%Astral Apparatus%str3%%str4%,
-%str1%%str2%Astral Avenger%str3%%str4%,
-%str1%%str2%Astral Beacon%str3%%str4%,
-%str1%%str2%Astral Cannon%str3%%str4%,
-%str1%%str2%Astral Cleaver%str3%%str4%,
-%str1%%str2%Astral Conduit%str3%%str4%,
-%str1%%str2%Astral Disk%str3%%str4%,
-%str1%%str2%Astral Harbinger%str3%%str4%,
-%str1%%str2%Astral Khopesh%str3%%str4%,
-%str1%%str2%Astral Knobkerrie%str3%%str4%,
-%str1%%str2%Astral Longbow%str3%%str4%,
-%str1%%str2%Astral Orrery%str3%%str4%,
-%str1%%str2%Astral Razor%str3%%str4%,
-%str1%%str2%Astral Revolver%str3%%str4%,
-%str1%%str2%Astral Scepter%str3%%str4%,
-%str1%%str2%Astral Short Bow%str3%%str4%,
-%str1%%str2%Astral Spire%str3%%str4%,
-%str1%%str2%Astral Ward Heavy Boots%str3%%str4%,
-%str1%%str2%Astral Ward Heavy Coat%str3%%str4%,
-%str1%%str2%Astral Ward Heavy Gloves%str3%%str4%,
-%str1%%str2%Astral Ward Heavy Helm%str3%%str4%,
-%str1%%str2%Astral Ward Heavy Leggings%str3%%str4%,
-%str1%%str2%Astral Ward Heavy Shoulders%str3%%str4%,
-%str1%%str2%Astral Ward Light Boots%str3%%str4%,
-%str1%%str2%Astral Ward Light Coat%str3%%str4%,
-%str1%%str2%Astral Ward Light Gloves%str3%%str4%,
-%str1%%str2%Astral Ward Light Helm%str3%%str4%,
-%str1%%str2%Astral Ward Light Leggings%str3%%str4%,
-%str1%%str2%Astral Ward Light Shoulders%str3%%str4%,
-%str1%%str2%Astral Ward Medium Boots%str3%%str4%,
-%str1%%str2%Astral Ward Medium Coat%str3%%str4%,
-%str1%%str2%Astral Ward Medium Gloves%str3%%str4%,
-%str1%%str2%Astral Ward Medium Helm%str3%%str4%,
-%str1%%str2%Astral Ward Medium Leggings%str3%%str4%,
-%str1%%str2%Astral Ward Medium Shoulders%str3%%str4%,
-%str1%%str2%Astralaria%str3%%str4%,
-%str1%%str2%Augury of Death%str3%%str4%,
-%str1%%str2%Aureate Axe%str3%%str4%,
-%str1%%str2%Aureate Charm%str3%%str4%,
-%str1%%str2%Aureate Dirk%str3%%str4%,
-%str1%%str2%Aureate Highlander Greatsword%str3%%str4%,
-%str1%%str2%Aureate Longbow%str3%%str4%,
-%str1%%str2%Aureate Mace%str3%%str4%,
-%str1%%str2%Aureate Musket%str3%%str4%,
-%str1%%str2%Aureate Partisan%str3%%str4%,
-%str1%%str2%Aureate Pistol%str3%%str4%,
-%str1%%str2%Aureate Rinblade%str3%%str4%,
-%str1%%str2%Aureate Sconce%str3%%str4%,
-%str1%%str2%Aureate Short Bow%str3%%str4%,
-%str1%%str2%Aureate Spear%str3%%str4%,
-%str1%%str2%Aureate Speargun%str3%%str4%,
-%str1%%str2%Aureate Staff%str3%%str4%,
-%str1%%str2%Aureate Targe%str3%%str4%,
-%str1%%str2%Aureate Trident%str3%%str4%,
-%str1%%str2%Aureate Virge%str3%%str4%,
-%str1%%str2%Aureate Warhammer%str3%%str4%,
-%str1%%str2%Aureate Warhorn%str3%%str4%,
-%str1%%str2%Auric Axe%str3%%str4%,
-%str1%%str2%Auric Backplate%str3%%str4%,
-%str1%%str2%Auric Dagger%str3%%str4%,
-%str1%%str2%Auric Focus%str3%%str4%,
-%str1%%str2%Auric Greatsword%str3%%str4%,
-%str1%%str2%Auric Hammer%str3%%str4%,
-%str1%%str2%Auric Longbow%str3%%str4%,
-%str1%%str2%Auric Mace%str3%%str4%,
-%str1%%str2%Auric Pistol%str3%%str4%,
-%str1%%str2%Auric Rifle%str3%%str4%,
-%str1%%str2%Auric Scepter%str3%%str4%,
-%str1%%str2%Auric Shield%str3%%str4%,
-%str1%%str2%Auric Short Bow%str3%%str4%,
-%str1%%str2%Auric Staff%str3%%str4%,
-%str1%%str2%Auric Sword%str3%%str4%,
-%str1%%str2%Auric Torch%str3%%str4%,
-%str1%%str2%Auric Warhorn%str3%%str4%,
-%str1%%str2%Aurora Garb%str3%%str4%,
-%str1%%str2%Aurora Gloves%str3%%str4%,
-%str1%%str2%Aurora Helm%str3%%str4%,
-%str1%%str2%Aurora Leggings%str3%%str4%,
-%str1%%str2%Aurora Mantle%str3%%str4%,
-%str1%%str2%Aurora Shoes%str3%%str4%,
-%str1%%str2%Auxiliary Powered Boots%str3%%str4%,
-%str1%%str2%Auxiliary Powered Coat%str3%%str4%,
-%str1%%str2%Auxiliary Powered Epaulets%str3%%str4%,
-%str1%%str2%Auxiliary Powered Gloves%str3%%str4%,
-%str1%%str2%Auxiliary Powered Helm%str3%%str4%,
-%str1%%str2%Auxiliary Powered Leggings%str3%%str4%,
-%str1%%str2%Avarice's Command%str3%%str4%,
-%str1%%str2%Avenger's Armor%str3%%str4%,
-%str1%%str2%Avenger's Chausses%str3%%str4%,
-%str1%%str2%Avenger's Footgear%str3%%str4%,
-%str1%%str2%Avenger's Gauntlets%str3%%str4%,
-%str1%%str2%Avenger's Helm%str3%%str4%,
-%str1%%str2%Avenger's Shoulderplates%str3%%str4%,
-%str1%%str2%Avirdanag%str3%%str4%,
-%str1%%str2%Awakened Axe%str3%%str4%,
-%str1%%str2%Awakened Dagger%str3%%str4%,
-%str1%%str2%Awakened Focus%str3%%str4%,
-%str1%%str2%Awakened Greatsword%str3%%str4%,
-%str1%%str2%Awakened Hammer%str3%%str4%,
-%str1%%str2%Awakened Longbow%str3%%str4%,
-%str1%%str2%Awakened Mace%str3%%str4%,
-%str1%%str2%Awakened Pistol%str3%%str4%,
-%str1%%str2%Awakened Rifle%str3%%str4%,
-%str1%%str2%Awakened Scepter%str3%%str4%,
-%str1%%str2%Awakened Shield%str3%%str4%,
-%str1%%str2%Awakened Short Bow%str3%%str4%,
-%str1%%str2%Awakened Staff%str3%%str4%,
-%str1%%str2%Awakened Sword%str3%%str4%,
-%str1%%str2%Awakened Torch%str3%%str4%,
-%str1%%str2%Awakened Warhorn%str3%%str4%,
-%str1%%str2%Axe of the Dragon's Deep%str3%%str4%,
-%str1%%str2%Axe%str3%%str4%,
-%str1%%str2%Azimuth%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Axe%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Dagger%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Focus%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Greatsword%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Hammer%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Longbow%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Mace%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Pistol%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Rifle%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Scepter%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Shield%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Short Bow%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Staff%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Sword%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Torch%str3%%str4%,
-%str1%%str2%Azure Dragon Slayer Warhorn%str3%%str4%,
-%str1%%str2%Azure Railgun%str3%%str4%,
-%str1%%str2%Azureflame%str3%%str4%,
-%str1%%str2%Balthazar's Axe%str3%%str4%,
-%str1%%str2%Balthazar's Dagger%str3%%str4%,
-%str1%%str2%Balthazar's Focus%str3%%str4%,
-%str1%%str2%Balthazar's Greatsword%str3%%str4%,
-%str1%%str2%Balthazar's Hammer%str3%%str4%,
-%str1%%str2%Balthazar's Longbow%str3%%str4%,
-%str1%%str2%Balthazar's Mace%str3%%str4%,
-%str1%%str2%Balthazar's Pistol%str3%%str4%,
-%str1%%str2%Balthazar's Rifle%str3%%str4%,
-%str1%%str2%Balthazar's Scepter%str3%%str4%,
-%str1%%str2%Balthazar's Shield%str3%%str4%,
-%str1%%str2%Balthazar's Short Bow%str3%%str4%,
-%str1%%str2%Balthazar's Staff%str3%%str4%,
-%str1%%str2%Balthazar's Sword%str3%%str4%,
-%str1%%str2%Balthazar's Torch%str3%%str4%,
-%str1%%str2%Balthazar's Warhorn%str3%%str4%,
-%str1%%str2%Bandage Bomber%str3%%str4%,
-%str1%%str2%Banded Coat%str3%%str4%,
-%str1%%str2%Banded Gauntlets%str3%%str4%,
-%str1%%str2%Banded Greaves%str3%%str4%,
-%str1%%str2%Banded Helm%str3%%str4%,
-%str1%%str2%Banded Legs%str3%%str4%,
-%str1%%str2%Banded Pauldrons%str3%%str4%,
-%str1%%str2%Bandit Baton%str3%%str4%,
-%str1%%str2%Bandit Bugle%str3%%str4%,
-%str1%%str2%Bandit Cleaver%str3%%str4%,
-%str1%%str2%Bandit Demolisher%str3%%str4%,
-%str1%%str2%Bandit Focus%str3%%str4%,
-%str1%%str2%Bandit Harpoon Gun%str3%%str4%,
-%str1%%str2%Bandit Longbow%str3%%str4%,
-%str1%%str2%Bandit Mallet%str3%%str4%,
-%str1%%str2%Bandit Musket%str3%%str4%,
-%str1%%str2%Bandit Revolver%str3%%str4%,
-%str1%%str2%Bandit Shiv%str3%%str4%,
-%str1%%str2%Bandit Short Bow%str3%%str4%,
-%str1%%str2%Bandit Slicer%str3%%str4%,
-%str1%%str2%Bandit Spear%str3%%str4%,
-%str1%%str2%Bandit Spire%str3%%str4%,
-%str1%%str2%Bandit Sunderer%str3%%str4%,
-%str1%%str2%Bandit Torch%str3%%str4%,
-%str1%%str2%Bandit Trident%str3%%str4%,
-%str1%%str2%Bandit Ward%str3%%str4%,
-%str1%%str2%Banner of the Ash Legion%str3%%str4%,
-%str1%%str2%Banner of the Blood Legion%str3%%str4%,
-%str1%%str2%Banner of the Flame Legion%str3%%str4%,
-%str1%%str2%Banner of the Iron Legion%str3%%str4%,
-%str1%%str2%Banner of the Steel Warband%str3%%str4%,
-%str1%%str2%Barbaric Boots%str3%%str4%,
-%str1%%str2%Barbaric Coat%str3%%str4%,
-%str1%%str2%Barbaric Gloves%str3%%str4%,
-%str1%%str2%Barbaric Helm%str3%%str4%,
-%str1%%str2%Barbaric Legplates%str3%%str4%,
-%str1%%str2%Barbaric Pauldrons%str3%%str4%,
-%str1%%str2%Barud's Blunderbuss%str3%%str4%,
-%str1%%str2%Basic Chef's Backpack%str3%%str4%,
-%str1%%str2%Bastion of the Broken Voice%str3%%str4%,
-%str1%%str2%Bastion of the Scion%str3%%str4%,
-%str1%%str2%Bastion of the Sunless%str3%%str4%,
-%str1%%str2%Battle-Worn%str3%%str4%,
+%str1%%str2%Abyssal Fractal Dagger%str3%%str4%,%str1%%str2%Кинжал Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Focus%str3%%str4%,%str1%%str2%Фокус Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Greatsword%str3%%str4%,%str1%%str2%Двуручный меч Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Hammer%str3%%str4%,%str1%%str2%Молот Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Harpoon%str3%%str4%,%str1%%str2%Гарпун Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Longbow%str3%%str4%,%str1%%str2%Длинный лук Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Mace%str3%%str4%,%str1%%str2%Булава Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Pistol%str3%%str4%,%str1%%str2%Пистолет Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Rifle%str3%%str4%,%str1%%str2%Ружьё Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Scepter%str3%%str4%,%str1%%str2%Скипетр Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Shield%str3%%str4%,%str1%%str2%Щит Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Short Bow%str3%%str4%,%str1%%str2%Короткий лук Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Speargun%str3%%str4%,%str1%%str2%Гарпунное ружьё Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Staff%str3%%str4%,%str1%%str2%Посох Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Sword%str3%%str4%,%str1%%str2%Меч Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Torch%str3%%str4%,%str1%%str2%Факел Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Trident%str3%%str4%,%str1%%str2%Трезубец Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Fractal Warhorn%str3%%str4%,%str1%%str2%Боевой рог Бездонного фрактала%str3%%str4%
+%str1%%str2%Abyssal Scepter%str3%%str4%,%str1%%str2%Бездонный скипетр%str3%%str4%
+%str1%%str2%Accursed Chains%str3%%str4%,%str1%%str2%Проклятые цепи%str3%%str4%
+%str1%%str2%Accursed Guise%str3%%str4%,%str1%%str2%Проклятая личина%str3%%str4%
+%str1%%str2%Accursed Leggings%str3%%str4%,%str1%%str2%Проклятые поножи%str3%%str4%
+%str1%%str2%Accursed Shoulders%str3%%str4%,%str1%%str2%Проклятые наплечники%str3%%str4%
+%str1%%str2%Accursed Treads%str3%%str4%,%str1%%str2%Проклятые башмаки%str3%%str4%
+%str1%%str2%Accursed Vambraces%str3%%str4%,%str1%%str2%Проклятые наручи%str3%%str4%
+%str1%%str2%Accursed Visage%str3%%str4%,%str1%%str2%Проклятый лик%str3%%str4%
+%str1%%str2%Acolyte Boots%str3%%str4%,%str1%%str2%Сапоги послушника%str3%%str4%
+%str1%%str2%Acolyte Coat%str3%%str4%,%str1%%str2%Куртка послушника%str3%%str4%
+%str1%%str2%Acolyte Gloves%str3%%str4%,%str1%%str2%Перчатки послушника%str3%%str4%
+%str1%%str2%Acolyte Mantle%str3%%str4%,%str1%%str2%Накидка послушника%str3%%str4%
+%str1%%str2%Acolyte Mask%str3%%str4%,%str1%%str2%Маска послушника%str3%%str4%
+%str1%%str2%Acolyte Pants%str3%%str4%,%str1%%str2%Штаны послушника%str3%%str4%
+%str1%%str2%Adam%str3%%str4%,%str1%%str2%«Адам»%str3%%str4%
+%str1%%str2%Adamant Guard Axe%str3%%str4%,%str1%%str2%Топор Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Blade%str3%%str4%,%str1%%str2%Клинок Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Bow%str3%%str4%,%str1%%str2%Лук Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Cannon%str3%%str4%,%str1%%str2%Пушка Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Dagger%str3%%str4%,%str1%%str2%Кинжал Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Gizmo%str3%%str4%,%str1%%str2%Устройство Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Greatsword%str3%%str4%,%str1%%str2%Двуручный меч Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Hammer%str3%%str4%,%str1%%str2%Молот Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Mace%str3%%str4%,%str1%%str2%Булава Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Pistol%str3%%str4%,%str1%%str2%Пистолет Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Rifle%str3%%str4%,%str1%%str2%Ружьё Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Scepter%str3%%str4%,%str1%%str2%Скипетр Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Shield%str3%%str4%,%str1%%str2%Щит Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Short Bow%str3%%str4%,%str1%%str2%Короткий лук Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Spear%str3%%str4%,%str1%%str2%Копьё Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Staff%str3%%str4%,%str1%%str2%Посох Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Torch%str3%%str4%,%str1%%str2%Факел Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Trident%str3%%str4%,%str1%%str2%Трезубец Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adamant Guard Warhorn%str3%%str4%,%str1%%str2%Боевой рог Адамантовой Стражи%str3%%str4%
+%str1%%str2%Adept Boots%str3%%str4%,%str1%%str2%Сапоги адепта%str3%%str4%
+%str1%%str2%Adept Coat%str3%%str4%,%str1%%str2%Куртка адепта%str3%%str4%
+%str1%%str2%Adept Epaulets%str3%%str4%,%str1%%str2%Эполеты адепта%str3%%str4%
+%str1%%str2%Adept Gloves%str3%%str4%,%str1%%str2%Перчатки адепта%str3%%str4%
+%str1%%str2%Adept Helm%str3%%str4%,%str1%%str2%Шлем адепта%str3%%str4%
+%str1%%str2%Adept Leggings%str3%%str4%,%str1%%str2%Поножи адепта%str3%%str4%
+%str1%%str2%Advanced Spinal Blades%str3%%str4%,%str1%%str2%Улучшенные спинные клинки%str3%%str4%
+%str1%%str2%Adventurer's Mantle%str3%%str4%,%str1%%str2%Накидка искателя приключений%str3%%str4%
+%str1%%str2%Adventurer's Scarf%str3%%str4%,%str1%%str2%Шарф искателя приключений%str3%%str4%
+%str1%%str2%Adventurer's Spectacles%str3%%str4%,%str1%%str2%Очки искателя приключений%str3%%str4%
+%str1%%str2%Aether%str3%%str4%,%str1%%str2%«Эфир»%str3%%str4%
+%str1%%str2%Aetherblade Blindfold%str3%%str4%,%str1%%str2%Повязка Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Heavy Gauntlets%str3%%str4%,%str1%%str2%Тяжёлые латные перчатки Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Heavy Legplates%str3%%str4%,%str1%%str2%Тяжёлые латные поножи Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Heavy Pauldrons%str3%%str4%,%str1%%str2%Тяжёлые наплечники Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Heavy Warboots%str3%%str4%,%str1%%str2%Тяжёлые боевые сапоги Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Heavy Warhelm%str3%%str4%,%str1%%str2%Тяжёлый боевой шлем Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Heavy Warplate%str3%%str4%,%str1%%str2%Тяжёлый боевой панцирь Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Light Gloves%str3%%str4%,%str1%%str2%Лёгкие перчатки Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Light Goggles%str3%%str4%,%str1%%str2%Лёгкие очки Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Light Mantle%str3%%str4%,%str1%%str2%Лёгкая накидка Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Light Pants%str3%%str4%,%str1%%str2%Лёгкие штаны Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Light Shoes%str3%%str4%,%str1%%str2%Лёгкие туфли Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Light Vest%str3%%str4%,%str1%%str2%Лёгкий жилет Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Medium Armguards%str3%%str4%,%str1%%str2%Средние наручи Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Medium Boots%str3%%str4%,%str1%%str2%Средние сапоги Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Medium Helmet%str3%%str4%,%str1%%str2%Средний шлем Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Medium Jerkin%str3%%str4%,%str1%%str2%Средний колет Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Medium Leggings%str3%%str4%,%str1%%str2%Средние поножи Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherblade Medium Shoulderpads%str3%%str4%,%str1%%str2%Средние наплечники Эфирных клинков%str3%%str4%
+%str1%%str2%Aetherized Arsenite Greatsword%str3%%str4%,%str1%%str2%Эфирный арсенитовый двуручный меч%str3%%str4%
+%str1%%str2%Aetherized Arsenite Hammer%str3%%str4%,%str1%%str2%Эфирный арсенитовый молот%str3%%str4%
+%str1%%str2%Aetherized Arsenite Staff%str3%%str4%,%str1%%str2%Эфирный арсенитовый посох%str3%%str4%
+%str1%%str2%Aetherized Axe%str3%%str4%,%str1%%str2%Эфирный топор%str3%%str4%
+%str1%%str2%Aetherized Dagger%str3%%str4%,%str1%%str2%Эфирный кинжал%str3%%str4%
+"%str1%%str2%Aetherized Focus[pl:""Foci""]%str3%%str4%",%str1%%str2%[Эфирный фокус|эфирных фокуса|эфирных фокусов]%str3%%str4%
+%str1%%str2%Aetherized Greatsword%str3%%str4%,%str1%%str2%Эфирный двуручный меч%str3%%str4%
+%str1%%str2%Aetherized Hammer%str3%%str4%,%str1%%str2%Эфирный молот%str3%%str4%
+%str1%%str2%Aetherized Harpoon Gun%str3%%str4%,%str1%%str2%Эфирная гарпунная пушка%str3%%str4%
+%str1%%str2%Aetherized Indigo Greatsword%str3%%str4%,%str1%%str2%Эфирный индиговый двуручный меч%str3%%str4%
+%str1%%str2%Aetherized Indigo Hammer%str3%%str4%,%str1%%str2%Эфирный индиговый молот%str3%%str4%
+%str1%%str2%Aetherized Indigo Staff%str3%%str4%,%str1%%str2%Эфирный индиговый посох%str3%%str4%
+%str1%%str2%Aetherized Longbow%str3%%str4%,%str1%%str2%Эфирный длинный лук%str3%%str4%
+%str1%%str2%Aetherized Mace%str3%%str4%,%str1%%str2%Эфирная булава%str3%%str4%
+%str1%%str2%Aetherized Pistol%str3%%str4%,%str1%%str2%Эфирный пистолет%str3%%str4%
+%str1%%str2%Aetherized Rifle%str3%%str4%,%str1%%str2%Эфирное ружьё%str3%%str4%
+%str1%%str2%Aetherized Scepter%str3%%str4%,%str1%%str2%Эфирный скипетр%str3%%str4%
+%str1%%str2%Aetherized Shield%str3%%str4%,%str1%%str2%Эфирный щит%str3%%str4%
+%str1%%str2%Aetherized Short Bow%str3%%str4%,%str1%%str2%Эфирный короткий лук%str3%%str4%
+%str1%%str2%Aetherized Spear%str3%%str4%,%str1%%str2%Эфирное копьё%str3%%str4%
+%str1%%str2%Aetherized Staff%str3%%str4%,%str1%%str2%Эфирный посох%str3%%str4%
+%str1%%str2%Aetherized Sword%str3%%str4%,%str1%%str2%Эфирный меч%str3%%str4%
+"%str1%%str2%Aetherized Torch[pl:""Torches""]%str3%%str4%",%str1%%str2%[Эфирный факел|эфирных факела|эфирных факелов]%str3%%str4%
+%str1%%str2%Aetherized Trident%str3%%str4%,%str1%%str2%Эфирный трезубец%str3%%str4%
+%str1%%str2%Aetherized Vermilion Greatsword%str3%%str4%,%str1%%str2%Эфирный алый двуручный меч%str3%%str4%
+%str1%%str2%Aetherized Vermilion Hammer%str3%%str4%,%str1%%str2%Эфирный алый молот%str3%%str4%
+%str1%%str2%Aetherized Vermilion Staff%str3%%str4%,%str1%%str2%Эфирный алый посох%str3%%str4%
+%str1%%str2%Aetherized Warhorn%str3%%str4%,%str1%%str2%Эфирный боевой рог%str3%%str4%
+%str1%%str2%Air-Filtration Device%str3%%str4%,%str1%%str2%Устройство фильтрации воздуха%str3%%str4%
+%str1%%str2%Ak-Muhl's Jaw%str3%%str4%,%str1%%str2%«Челюсть Ак-Муля»%str3%%str4%
+%str1%%str2%Al'ir'aska%str3%%str4%,%str1%%str2%«Аль'ир'аска»%str3%%str4%
+%str1%%str2%Alabaster Spider's Axe%str3%%str4%,%str1%%str2%Топор Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Dagger%str3%%str4%,%str1%%str2%Кинжал Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Focus%str3%%str4%,%str1%%str2%Фокус Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Greatsword%str3%%str4%,%str1%%str2%Двуручный меч Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Hammer%str3%%str4%,%str1%%str2%Молот Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Longbow%str3%%str4%,%str1%%str2%Длинный лук Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Mace%str3%%str4%,%str1%%str2%Булава Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Pistol%str3%%str4%,%str1%%str2%Пистолет Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Rifle%str3%%str4%,%str1%%str2%Ружьё Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Scepter%str3%%str4%,%str1%%str2%Скипетр Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Shield%str3%%str4%,%str1%%str2%Щит Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Short Bow%str3%%str4%,%str1%%str2%Короткий лук Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Spear%str3%%str4%,%str1%%str2%Копьё Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Staff%str3%%str4%,%str1%%str2%Посох Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Sword%str3%%str4%,%str1%%str2%Меч Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Torch%str3%%str4%,%str1%%str2%Факел Алебастрового паука%str3%%str4%
+%str1%%str2%Alabaster Spider's Warhorn%str3%%str4%,%str1%%str2%Боевой рог Алебастрового паука%str3%%str4%
+%str1%%str2%Alderune's Last Stand%str3%%str4%,%str1%%str2%«Последний рубеж Альдеруна»%str3%%str4%
+%str1%%str2%Alliance Field Operative's Heavy Boots%str3%%str4%,%str1%%str2%Тяжёлые сапоги полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Heavy Gloves%str3%%str4%,%str1%%str2%Тяжёлые перчатки полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Heavy Helmet%str3%%str4%,%str1%%str2%Тяжёлый шлем полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Heavy Jacket%str3%%str4%,%str1%%str2%Тяжёлый жакет полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Heavy Leggings%str3%%str4%,%str1%%str2%Тяжёлые поножи полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Heavy Mantle%str3%%str4%,%str1%%str2%Тяжёлая накидка полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Light Boots%str3%%str4%,%str1%%str2%Лёгкие сапоги полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Light Gloves%str3%%str4%,%str1%%str2%Лёгкие перчатки полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Light Helmet%str3%%str4%,%str1%%str2%Лёгкий шлем полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Light Jacket%str3%%str4%,%str1%%str2%Лёгкий жакет полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Light Leggings%str3%%str4%,%str1%%str2%Лёгкие поножи полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Light Mantle%str3%%str4%,%str1%%str2%Лёгкая накидка полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Medium Boots%str3%%str4%,%str1%%str2%Средние сапоги полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Medium Gloves%str3%%str4%,%str1%%str2%Средние перчатки полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Medium Helmet%str3%%str4%,%str1%%str2%Средний шлем полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Medium Jacket%str3%%str4%,%str1%%str2%Средний жакет полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Medium Leggings%str3%%str4%,%str1%%str2%Средние поножи полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Alliance Field Operative's Medium Mantle%str3%%str4%,%str1%%str2%Средняя накидка полевого оперативника Альянса%str3%%str4%
+%str1%%str2%Ambrosia%str3%%str4%,%str1%%str2%«Амброзия»%str3%%str4%
+%str1%%str2%Ambrosial Chef's Backpack%str3%%str4%,%str1%%str2%Амброзийный рюкзак повара%str3%%str4%
+%str1%%str2%Amethyst Shield%str3%%str4%,%str1%%str2%Аметистовый щит%str3%%str4%
+%str1%%str2%Ancient Boreal Axe%str3%%str4%,%str1%%str2%Древний северный топор%str3%%str4%
+%str1%%str2%Ancient Boreal Dagger%str3%%str4%,%str1%%str2%Древний северный кинжал%str3%%str4%
+%str1%%str2%Ancient Boreal Focus%str3%%str4%,%str1%%str2%Древний северный фокус%str3%%str4%
+%str1%%str2%Ancient Boreal Greatsword%str3%%str4%,%str1%%str2%Древний северный двуручный меч%str3%%str4%
+%str1%%str2%Ancient Boreal Hammer%str3%%str4%,%str1%%str2%Древний северный молот%str3%%str4%
+%str1%%str2%Ancient Boreal Longbow%str3%%str4%,%str1%%str2%Древний северный длинный лук%str3%%str4%
+%str1%%str2%Ancient Boreal Mace%str3%%str4%,%str1%%str2%Древняя северная булава%str3%%str4%
+%str1%%str2%Ancient Boreal Pistol%str3%%str4%,%str1%%str2%Древний северный пистолет%str3%%str4%
+%str1%%str2%Ancient Boreal Rifle%str3%%str4%,%str1%%str2%Древнее северное ружьё%str3%%str4%
+%str1%%str2%Ancient Boreal Scepter%str3%%str4%,%str1%%str2%Древний северный скипетр%str3%%str4%
+%str1%%str2%Ancient Boreal Shield%str3%%str4%,%str1%%str2%Древний северный щит%str3%%str4%
+%str1%%str2%Ancient Boreal Short Bow%str3%%str4%,%str1%%str2%Древний северный короткий лук%str3%%str4%
+%str1%%str2%Ancient Boreal Sword%str3%%str4%,%str1%%str2%Древний северный меч%str3%%str4%
+%str1%%str2%Ancient Boreal Torch%str3%%str4%,%str1%%str2%Древний северный факел%str3%%str4%
+%str1%%str2%Ancient Boreal Warhorn%str3%%str4%,%str1%%str2%Древний северный боевой рог%str3%%str4%
+%str1%%str2%Ancient Canthan Gambeson%str3%%str4%,%str1%%str2%Древний кантанский гамбезон%str3%%str4%
+%str1%%str2%Ancient Canthan Gauntlets%str3%%str4%,%str1%%str2%Древние кантанские латные перчатки%str3%%str4%
+%str1%%str2%Ancient Canthan Greaves%str3%%str4%,%str1%%str2%Древние кантанские наголенники%str3%%str4%
+%str1%%str2%Ancient Canthan Helm%str3%%str4%,%str1%%str2%Древний кантанский шлем%str3%%str4%
+%str1%%str2%Ancient Canthan Jacket%str3%%str4%,%str1%%str2%Древний кантанский жакет%str3%%str4%
+%str1%%str2%Ancient Canthan Light Boots%str3%%str4%,%str1%%str2%Древние кантанские лёгкие сапоги%str3%%str4%
+%str1%%str2%Ancient Canthan Light Gloves%str3%%str4%,%str1%%str2%Древние кантанские лёгкие перчатки%str3%%str4%
+%str1%%str2%Ancient Canthan Light Helm%str3%%str4%,%str1%%str2%Древний кантанский лёгкий шлем%str3%%str4%
+%str1%%str2%Ancient Canthan Light Leggings%str3%%str4%,%str1%%str2%Древние кантанские лёгкие поножи%str3%%str4%
+%str1%%str2%Ancient Canthan Light Shoulderpads%str3%%str4%,%str1%%str2%Древние кантанские лёгкие наплечники%str3%%str4%
+%str1%%str2%Ancient Canthan Medium Boots%str3%%str4%,%str1%%str2%Древние кантанские средние сапоги%str3%%str4%
+%str1%%str2%Ancient Canthan Medium Gloves%str3%%str4%,%str1%%str2%Древние кантанские средние перчатки%str3%%str4%
+%str1%%str2%Ancient Canthan Medium Helm%str3%%str4%,%str1%%str2%Древний кантанский средний шлем%str3%%str4%
+%str1%%str2%Ancient Canthan Medium Leggings%str3%%str4%,%str1%%str2%Древние кантанские средние поножи%str3%%str4%
+%str1%%str2%Ancient Canthan Medium Shoulderpads%str3%%str4%,%str1%%str2%Древние кантанские средние наплечники%str3%%str4%
+%str1%%str2%Ancient Canthan Spaulders%str3%%str4%,%str1%%str2%Древние кантанские оплечья%str3%%str4%
+%str1%%str2%Ancient Canthan Tassets%str3%%str4%,%str1%%str2%Древние кантанские набедренники%str3%%str4%
+%str1%%str2%Ancient Canthan Tunic%str3%%str4%,%str1%%str2%Древняя кантанская туника%str3%%str4%
+%str1%%str2%Ancient Kraken Cuirass%str3%%str4%,%str1%%str2%Кираса древнего кракена%str3%%str4%
+%str1%%str2%Ancient Kraken Gauntlets%str3%%str4%,%str1%%str2%Латные перчатки древнего кракена%str3%%str4%
+%str1%%str2%Ancient Kraken Greaves%str3%%str4%,%str1%%str2%Наголенники древнего кракена%str3%%str4%
+%str1%%str2%Ancient Kraken Helmet%str3%%str4%,%str1%%str2%Шлем древнего кракена%str3%%str4%
+%str1%%str2%Ancient Kraken Pauldrons%str3%%str4%,%str1%%str2%Наплечники древнего кракена%str3%%str4%
+%str1%%str2%Ancient Kraken Tassets%str3%%str4%,%str1%%str2%Набедренники древнего кракена%str3%%str4%
+%str1%%str2%Ancient Ritualist Cowl%str3%%str4%,%str1%%str2%Клобук древнего ритуалиста%str3%%str4%
+%str1%%str2%Ancient Ritualist Gloves%str3%%str4%,%str1%%str2%Перчатки древнего ритуалиста%str3%%str4%
+%str1%%str2%Ancient Ritualist Mantle%str3%%str4%,%str1%%str2%Накидка древнего ритуалиста%str3%%str4%
+%str1%%str2%Ancient Ritualist Pants%str3%%str4%,%str1%%str2%Штаны древнего ритуалиста%str3%%str4%
+%str1%%str2%Ancient Ritualist Shoes%str3%%str4%,%str1%%str2%Туфли древнего ритуалиста%str3%%str4%
+%str1%%str2%Ancient Ritualist Vestments%str3%%str4%,%str1%%str2%Одеяния древнего ритуалиста%str3%%str4%
+%str1%%str2%Ancient Tahkayun Boots%str3%%str4%,%str1%%str2%Сапоги древнего тахкаюна%str3%%str4%
+%str1%%str2%Ancient Tahkayun Jerkin%str3%%str4%,%str1%%str2%Колет древнего тахкаюна%str3%%str4%
+%str1%%str2%Ancient Tahkayun Leggings%str3%%str4%,%str1%%str2%Поножи древнего тахкаюна%str3%%str4%
+%str1%%str2%Ancient Tahkayun Mask%str3%%str4%,%str1%%str2%Маска древнего тахкаюна%str3%%str4%
+%str1%%str2%Ancient Tahkayun Shoulders%str3%%str4%,%str1%%str2%Наплечники древнего тахкаюна%str3%%str4%
+%str1%%str2%Ancient Tahkayun Vambraces%str3%%str4%,%str1%%str2%Наручи древнего тахкаюна%str3%%str4%
+%str1%%str2%Ancora Bellum%str3%%str4%,%str1%%str2%«Анкора Беллум»%str3%%str4%
+%str1%%str2%Ancora Pax%str3%%str4%,%str1%%str2%«Анкора Пакс»%str3%%str4%
+%str1%%str2%Angler Hat%str3%%str4%,%str1%%str2%Шляпа рыболова%str3%%str4%
+%str1%%str2%Angler Vest%str3%%str4%,%str1%%str2%Жилет рыболова%str3%%str4%
+%str1%%str2%Anima%str3%%str4%,%str1%%str2%«Анима»%str3%%str4%
+%str1%%str2%Annelid Rifle%str3%%str4%,%str1%%str2%Ружьё «Аннелид»%str3%%str4%
+%str1%%str2%Anonymity Mask%str3%%str4%,%str1%%str2%Маска анонимности%str3%%str4%
+%str1%%str2%Antitoxin Injector%str3%%str4%,%str1%%str2%Антитоксиновый инжектор%str3%%str4%
+%str1%%str2%Anton's Boot Blade%str3%%str4%,%str1%%str2%Сапожный клинок Антона%str3%%str4%
+%str1%%str2%Anura%str3%%str4%,%str1%%str2%«Анура»%str3%%str4%
+%str1%%str2%Apidae%str3%%str4%,%str1%%str2%«Апидэ»%str3%%str4%
+%str1%%str2%Apostle Cassock%str3%%str4%,%str1%%str2%Ряса апостола%str3%%str4%
+%str1%%str2%Apostle Cowl%str3%%str4%,%str1%%str2%Клобук апостола%str3%%str4%
+%str1%%str2%Apostle Epaulets%str3%%str4%,%str1%%str2%Эполеты апостола%str3%%str4%
+%str1%%str2%Apostle Leggings%str3%%str4%,%str1%%str2%Поножи апостола%str3%%str4%
+%str1%%str2%Apostle Shoes%str3%%str4%,%str1%%str2%Туфли апостола%str3%%str4%
+%str1%%str2%Apostle Wraps%str3%%str4%,%str1%%str2%Обмотки апостола%str3%%str4%
+%str1%%str2%Apprentice Band%str3%%str4%,%str1%%str2%Кольцо ученика%str3%%str4%
+%str1%%str2%Apprentice Coat%str3%%str4%,%str1%%str2%Куртка ученика%str3%%str4%
+%str1%%str2%Apprentice Gloves%str3%%str4%,%str1%%str2%Перчатки ученика%str3%%str4%
+%str1%%str2%Apprentice Pants%str3%%str4%,%str1%%str2%Штаны ученика%str3%%str4%
+%str1%%str2%Apprentice Shoes%str3%%str4%,%str1%%str2%Туфли ученика%str3%%str4%
+%str1%%str2%Apprentice Shoulders%str3%%str4%,%str1%%str2%Наплечники ученика%str3%%str4%
+%str1%%str2%Arachnophobia%str3%%str4%,%str1%%str2%«Арахнофобия»%str3%%str4%
+%str1%%str2%Arborist Boots%str3%%str4%,%str1%%str2%Сапоги лесовода%str3%%str4%
+%str1%%str2%Arborist Coat%str3%%str4%,%str1%%str2%Куртка лесовода%str3%%str4%
+%str1%%str2%Arborist Gloves%str3%%str4%,%str1%%str2%Перчатки лесовода%str3%%str4%
+%str1%%str2%Arborist Helm%str3%%str4%,%str1%%str2%Шлем лесовода%str3%%str4%
+%str1%%str2%Arborist Leggings%str3%%str4%,%str1%%str2%Поножи лесовода%str3%%str4%
+%str1%%str2%Arborist Shoulderguards%str3%%str4%,%str1%%str2%Оплечья лесовода%str3%%str4%
+%str1%%str2%Arc%str3%%str4%,%str1%%str2%«Дуга»%str3%%str4%
+%str1%%str2%Arcanus Obscurus%str3%%str4%,%str1%%str2%«Арканус Обскурус»%str3%%str4%
+%str1%%str2%Archon Boots%str3%%str4%,%str1%%str2%Сапоги архонта%str3%%str4%
+%str1%%str2%Archon Coat%str3%%str4%,%str1%%str2%Куртка архонта%str3%%str4%
+%str1%%str2%Archon Gloves%str3%%str4%,%str1%%str2%Перчатки архонта%str3%%str4%
+%str1%%str2%Archon Helm%str3%%str4%,%str1%%str2%Шлем архонта%str3%%str4%
+%str1%%str2%Archon Leggings%str3%%str4%,%str1%%str2%Поножи архонта%str3%%str4%
+%str1%%str2%Archon Shoulders%str3%%str4%,%str1%%str2%Наплечники архонта%str3%%str4%
+%str1%%str2%Ardent Glorious Armguards%str3%%str4%,%str1%%str2%Пылкие славные наручи%str3%%str4%
+%str1%%str2%Ardent Glorious Breastplate%str3%%str4%,%str1%%str2%Пылкий славный нагрудник%str3%%str4%
+%str1%%str2%Ardent Glorious Brigandine%str3%%str4%,%str1%%str2%Пылкая славная бригантина%str3%%str4%
+%str1%%str2%Ardent Glorious Cap%str3%%str4%,%str1%%str2%Пылкая славная шапка%str3%%str4%
+%str1%%str2%Ardent Glorious Crown%str3%%str4%,%str1%%str2%Пылкая славная корона%str3%%str4%
+%str1%%str2%Ardent Glorious Epaulets%str3%%str4%,%str1%%str2%Пылкие славные эполеты%str3%%str4%
+%str1%%str2%Ardent Glorious Footgear%str3%%str4%,%str1%%str2%Пылкая славная обувь%str3%%str4%
+%str1%%str2%Ardent Glorious Gauntlets%str3%%str4%,%str1%%str2%Пылкие славные латные перчатки%str3%%str4%
+%str1%%str2%Ardent Glorious Leggings%str3%%str4%,%str1%%str2%Пылкие славные поножи%str3%%str4%
+%str1%%str2%Ardent Glorious Legguards%str3%%str4%,%str1%%str2%Пылкие славные набедренники%str3%%str4%
+%str1%%str2%Ardent Glorious Legplates%str3%%str4%,%str1%%str2%Пылкие славные латные поножи%str3%%str4%
+%str1%%str2%Ardent Glorious Pauldrons%str3%%str4%,%str1%%str2%Пылкие славные наплечники%str3%%str4%
+%str1%%str2%Ardent Glorious Plate Helm%str3%%str4%,%str1%%str2%Пылкий славный латный шлем%str3%%str4%
+%str1%%str2%Ardent Glorious Raiment%str3%%str4%,%str1%%str2%Пылкое славное одеяние%str3%%str4%
+%str1%%str2%Ardent Glorious Shinplates%str3%%str4%,%str1%%str2%Пылкие славные наголенники%str3%%str4%
+%str1%%str2%Ardent Glorious Shoulderguards%str3%%str4%,%str1%%str2%Пылкие славные оплечья%str3%%str4%
+%str1%%str2%Ardent Glorious Wargreaves%str3%%str4%,%str1%%str2%Пылкие славные боевые наголенники%str3%%str4%
+%str1%%str2%Ardent Glorious Wristplates%str3%%str4%,%str1%%str2%Пылкие славные наручные пластины%str3%%str4%
+%str1%%str2%Aristocrat's Coat%str3%%str4%,%str1%%str2%Куртка аристократа%str3%%str4%
+%str1%%str2%Aristocrat's Epaulets%str3%%str4%,%str1%%str2%Эполеты аристократа%str3%%str4%
+%str1%%str2%Aristocrat's Livery%str3%%str4%,%str1%%str2%Ливрея аристократа%str3%%str4%
+%str1%%str2%Aristocrat's Masque%str3%%str4%,%str1%%str2%Полумаска аристократа%str3%%str4%
+%str1%%str2%Aristocrat's Pants%str3%%str4%,%str1%%str2%Штаны аристократа%str3%%str4%
+%str1%%str2%Aristocrat's Shoes%str3%%str4%,%str1%%str2%Туфли аристократа%str3%%str4%
+%str1%%str2%Arkhalos%str3%%str4%,%str1%%str2%«Аркхалос»%str3%%str4%
+%str1%%str2%Armageddon Breastplate%str3%%str4%,%str1%%str2%Нагрудник Армагеддона%str3%%str4%
+%str1%%str2%Armageddon Gauntlets%str3%%str4%,%str1%%str2%Латные перчатки Армагеддона%str3%%str4%
+%str1%%str2%Armageddon Greaves%str3%%str4%,%str1%%str2%Наголенники Армагеддона%str3%%str4%
+%str1%%str2%Armageddon Helm%str3%%str4%,%str1%%str2%Шлем Армагеддона%str3%%str4%
+%str1%%str2%Armageddon Leggings%str3%%str4%,%str1%%str2%Поножи Армагеддона%str3%%str4%
+%str1%%str2%Armageddon Pauldrons%str3%%str4%,%str1%%str2%Наплечники Армагеддона%str3%%str4%
+%str1%%str2%Arms of Koda%str3%%str4%,%str1%%str2%Оружие Коды%str3%%str4%
+%str1%%str2%Ars Goetia%str3%%str4%,%str1%%str2%«Арс Гоэтия»%str3%%str4%
+%str1%%str2%Arthropoda%str3%%str4%,%str1%%str2%«Артропода»%str3%%str4%
+%str1%%str2%Artifact of the Broken Voice%str3%%str4%,%str1%%str2%Артефакт Сломленного Голоса%str3%%str4%
+%str1%%str2%Artifact of the Scion%str3%%str4%,%str1%%str2%Артефакт Отпрыска%str3%%str4%
+%str1%%str2%Artifact of the Sunless%str3%%str4%,%str1%%str2%Артефакт Бессолнечного%str3%%str4%
+%str1%%str2%Ascalonian Performer Gloves%str3%%str4%,%str1%%str2%Перчатки аскалонского артиста%str3%%str4%
+%str1%%str2%Ascalonian Performer Mantle%str3%%str4%,%str1%%str2%Накидка аскалонского артиста%str3%%str4%
+%str1%%str2%Ascalonian Performer Mask%str3%%str4%,%str1%%str2%Маска аскалонского артиста%str3%%str4%
+%str1%%str2%Ascalonian Performer Pants%str3%%str4%,%str1%%str2%Штаны аскалонского артиста%str3%%str4%
+%str1%%str2%Ascalonian Performer Shoes%str3%%str4%,%str1%%str2%Туфли аскалонского артиста%str3%%str4%
+%str1%%str2%Ascalonian Performer Vestments%str3%%str4%,%str1%%str2%Одеяния аскалонского артиста%str3%%str4%
+%str1%%str2%Ascalonian Protector Breastplate%str3%%str4%,%str1%%str2%Нагрудник аскалонского защитника%str3%%str4%
+%str1%%str2%Ascalonian Protector Gauntlets%str3%%str4%,%str1%%str2%Латные перчатки аскалонского защитника%str3%%str4%
+%str1%%str2%Ascalonian Protector Greaves%str3%%str4%,%str1%%str2%Наголенники аскалонского защитника%str3%%str4%
+%str1%%str2%Ascalonian Protector Helm%str3%%str4%,%str1%%str2%Шлем аскалонского защитника%str3%%str4%
+%str1%%str2%Ascalonian Protector Legguards%str3%%str4%,%str1%%str2%Набедренники аскалонского защитника%str3%%str4%
+%str1%%str2%Ascalonian Protector Pauldrons%str3%%str4%,%str1%%str2%Наплечники аскалонского защитника%str3%%str4%
+%str1%%str2%Ascalonian Sentry Boots%str3%%str4%,%str1%%str2%Сапоги аскалонского часового%str3%%str4%
+%str1%%str2%Ascalonian Sentry Chestguard%str3%%str4%,%str1%%str2%Нагрудный щиток аскалонского часового%str3%%str4%
+%str1%%str2%Ascalonian Sentry Gloves%str3%%str4%,%str1%%str2%Перчатки аскалонского часового%str3%%str4%
+%str1%%str2%Ascalonian Sentry Hat%str3%%str4%,%str1%%str2%Шляпа аскалонского часового%str3%%str4%
+%str1%%str2%Ascalonian Sentry Leggings%str3%%str4%,%str1%%str2%Поножи аскалонского часового%str3%%str4%
+%str1%%str2%Ascalonian Sentry Shoulderguards%str3%%str4%,%str1%%str2%Оплечья аскалонского часового%str3%%str4%
+%str1%%str2%Asef's Brew%str3%%str4%,%str1%%str2%Варево Асефа%str3%%str4%
+%str1%%str2%Ash Dominion Pistol%str3%%str4%,%str1%%str2%Пистолет Доминиона Пепла%str3%%str4%
+%str1%%str2%Ash Legion Combat Blade%str3%%str4%,%str1%%str2%Боевой клинок Пепельного легиона%str3%%str4%
+%str1%%str2%Ash Legion Flamesaw%str3%%str4%,%str1%%str2%Огнепила Пепельного легиона%str3%%str4%
+%str1%%str2%Ash Legion Longshot%str3%%str4%,%str1%%str2%Дальнобой Пепельного легиона%str3%%str4%
+%str1%%str2%Ash Legion Pistol%str3%%str4%,%str1%%str2%Пистолет Пепельного легиона%str3%%str4%
+%str1%%str2%Ash Legion Shield%str3%%str4%,%str1%%str2%Щит Пепельного легиона%str3%%str4%
+%str1%%str2%Ash Legion Staff%str3%%str4%,%str1%%str2%Посох Пепельного легиона%str3%%str4%
+%str1%%str2%Assassin's Boots%str3%%str4%,%str1%%str2%Сапоги Ассасина%str3%%str4%
+%str1%%str2%Assassin's Coat%str3%%str4%,%str1%%str2%Куртка Ассасина%str3%%str4%
+%str1%%str2%Assassin's Gloves%str3%%str4%,%str1%%str2%Перчатки Ассасина%str3%%str4%
+%str1%%str2%Assassin's Leggings%str3%%str4%,%str1%%str2%Поножи Ассасина%str3%%str4%
+%str1%%str2%Assassin's Mask%str3%%str4%,%str1%%str2%Маска Ассасина%str3%%str4%
+%str1%%str2%Assassin's Shoulderpads%str3%%str4%,%str1%%str2%Наплечники Ассасина%str3%%str4%
+%str1%%str2%Astral Apparatus%str3%%str4%,%str1%%str2%Астральный аппарат%str3%%str4%
+%str1%%str2%Astral Avenger%str3%%str4%,%str1%%str2%Астральный мститель%str3%%str4%
+%str1%%str2%Astral Beacon%str3%%str4%,%str1%%str2%Астральный маяк%str3%%str4%
+%str1%%str2%Astral Cannon%str3%%str4%,%str1%%str2%Астральная пушка%str3%%str4%
+%str1%%str2%Astral Cleaver%str3%%str4%,%str1%%str2%Астральный тесак%str3%%str4%
+%str1%%str2%Astral Conduit%str3%%str4%,%str1%%str2%Астральный проводник%str3%%str4%
+%str1%%str2%Astral Disk%str3%%str4%,%str1%%str2%Астральный диск%str3%%str4%
+%str1%%str2%Astral Harbinger%str3%%str4%,%str1%%str2%Астральный предвестник%str3%%str4%
+%str1%%str2%Astral Khopesh%str3%%str4%,%str1%%str2%Астральный хопеш%str3%%str4%
+%str1%%str2%Astral Knobkerrie%str3%%str4%,%str1%%str2%Астральная палица%str3%%str4%
+%str1%%str2%Astral Longbow%str3%%str4%,%str1%%str2%Астральный длинный лук%str3%%str4%
+%str1%%str2%Astral Orrery%str3%%str4%,%str1%%str2%Астральный планетарий%str3%%str4%
+%str1%%str2%Astral Razor%str3%%str4%,%str1%%str2%Астральная бритва%str3%%str4%
+%str1%%str2%Astral Revolver%str3%%str4%,%str1%%str2%Астральный револьвер%str3%%str4%
+%str1%%str2%Astral Scepter%str3%%str4%,%str1%%str2%Астральный скипетр%str3%%str4%
+%str1%%str2%Astral Short Bow%str3%%str4%,%str1%%str2%Астральный короткий лук%str3%%str4%
+%str1%%str2%Astral Spire%str3%%str4%,%str1%%str2%Астральный шпиль%str3%%str4%
+%str1%%str2%Astral Ward Heavy Boots%str3%%str4%,%str1%%str2%Тяжёлые сапоги Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Heavy Coat%str3%%str4%,%str1%%str2%Тяжёлая куртка Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Heavy Gloves%str3%%str4%,%str1%%str2%Тяжёлые перчатки Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Heavy Helm%str3%%str4%,%str1%%str2%Тяжёлый шлем Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Heavy Leggings%str3%%str4%,%str1%%str2%Тяжёлые поножи Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Heavy Shoulders%str3%%str4%,%str1%%str2%Тяжёлые наплечники Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Light Boots%str3%%str4%,%str1%%str2%Лёгкие сапоги Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Light Coat%str3%%str4%,%str1%%str2%Лёгкая куртка Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Light Gloves%str3%%str4%,%str1%%str2%Лёгкие перчатки Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Light Helm%str3%%str4%,%str1%%str2%Лёгкий шлем Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Light Leggings%str3%%str4%,%str1%%str2%Лёгкие поножи Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Light Shoulders%str3%%str4%,%str1%%str2%Лёгкие наплечники Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Medium Boots%str3%%str4%,%str1%%str2%Средние сапоги Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Medium Coat%str3%%str4%,%str1%%str2%Средняя куртка Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Medium Gloves%str3%%str4%,%str1%%str2%Средние перчатки Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Medium Helm%str3%%str4%,%str1%%str2%Средний шлем Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Medium Leggings%str3%%str4%,%str1%%str2%Средние поножи Астрального дозора%str3%%str4%
+%str1%%str2%Astral Ward Medium Shoulders%str3%%str4%,%str1%%str2%Средние наплечники Астрального дозора%str3%%str4%
+%str1%%str2%Astralaria%str3%%str4%,%str1%%str2%«Астралария»%str3%%str4%
+%str1%%str2%Augury of Death%str3%%str4%,%str1%%str2%«Предвестие смерти»%str3%%str4%
+%str1%%str2%Aureate Axe%str3%%str4%,%str1%%str2%Золочёный топор%str3%%str4%
+%str1%%str2%Aureate Charm%str3%%str4%,%str1%%str2%Золочёный оберег%str3%%str4%
+%str1%%str2%Aureate Dirk%str3%%str4%,%str1%%str2%Золочёный кортик%str3%%str4%
+%str1%%str2%Aureate Highlander Greatsword%str3%%str4%,%str1%%str2%Золочёный горский двуручный меч%str3%%str4%
+%str1%%str2%Aureate Longbow%str3%%str4%,%str1%%str2%Золочёный длинный лук%str3%%str4%
+%str1%%str2%Aureate Mace%str3%%str4%,%str1%%str2%Золочёная булава%str3%%str4%
+%str1%%str2%Aureate Musket%str3%%str4%,%str1%%str2%Золочёный мушкет%str3%%str4%
+%str1%%str2%Aureate Partisan%str3%%str4%,%str1%%str2%Золочёный протазан%str3%%str4%
+%str1%%str2%Aureate Pistol%str3%%str4%,%str1%%str2%Золочёный пистолет%str3%%str4%
+%str1%%str2%Aureate Rinblade%str3%%str4%,%str1%%str2%Золочёный ринклинок%str3%%str4%
+%str1%%str2%Aureate Sconce%str3%%str4%,%str1%%str2%Золочёный светоч%str3%%str4%
+%str1%%str2%Aureate Short Bow%str3%%str4%,%str1%%str2%Золочёный короткий лук%str3%%str4%
+%str1%%str2%Aureate Spear%str3%%str4%,%str1%%str2%Золочёное копьё%str3%%str4%
+%str1%%str2%Aureate Speargun%str3%%str4%,%str1%%str2%Золочёное гарпунное ружьё%str3%%str4%
+%str1%%str2%Aureate Staff%str3%%str4%,%str1%%str2%Золочёный посох%str3%%str4%
+%str1%%str2%Aureate Targe%str3%%str4%,%str1%%str2%Золочёный тарч%str3%%str4%
+%str1%%str2%Aureate Trident%str3%%str4%,%str1%%str2%Золочёный трезубец%str3%%str4%
+%str1%%str2%Aureate Virge%str3%%str4%,%str1%%str2%Золочёный жезл%str3%%str4%
+%str1%%str2%Aureate Warhammer%str3%%str4%,%str1%%str2%Золочёный боевой молот%str3%%str4%
+%str1%%str2%Aureate Warhorn%str3%%str4%,%str1%%str2%Золочёный боевой рог%str3%%str4%
+%str1%%str2%Auric Axe%str3%%str4%,%str1%%str2%Аурический топор%str3%%str4%
+%str1%%str2%Auric Backplate%str3%%str4%,%str1%%str2%Аурический наспинник%str3%%str4%
+%str1%%str2%Auric Dagger%str3%%str4%,%str1%%str2%Аурический кинжал%str3%%str4%
+%str1%%str2%Auric Focus%str3%%str4%,%str1%%str2%Аурический фокус%str3%%str4%
+%str1%%str2%Auric Greatsword%str3%%str4%,%str1%%str2%Аурический двуручный меч%str3%%str4%
+%str1%%str2%Auric Hammer%str3%%str4%,%str1%%str2%Аурический молот%str3%%str4%
+%str1%%str2%Auric Longbow%str3%%str4%,%str1%%str2%Аурический длинный лук%str3%%str4%
+%str1%%str2%Auric Mace%str3%%str4%,%str1%%str2%Аурическая булава%str3%%str4%
+%str1%%str2%Auric Pistol%str3%%str4%,%str1%%str2%Аурический пистолет%str3%%str4%
+%str1%%str2%Auric Rifle%str3%%str4%,%str1%%str2%Аурическое ружьё%str3%%str4%
+%str1%%str2%Auric Scepter%str3%%str4%,%str1%%str2%Аурический скипетр%str3%%str4%
+%str1%%str2%Auric Shield%str3%%str4%,%str1%%str2%Аурический щит%str3%%str4%
+%str1%%str2%Auric Short Bow%str3%%str4%,%str1%%str2%Аурический короткий лук%str3%%str4%
+%str1%%str2%Auric Staff%str3%%str4%,%str1%%str2%Аурический посох%str3%%str4%
+%str1%%str2%Auric Sword%str3%%str4%,%str1%%str2%Аурический меч%str3%%str4%
+%str1%%str2%Auric Torch%str3%%str4%,%str1%%str2%Аурический факел%str3%%str4%
+%str1%%str2%Auric Warhorn%str3%%str4%,%str1%%str2%Аурический боевой рог%str3%%str4%
+%str1%%str2%Aurora Garb%str3%%str4%,%str1%%str2%Одеяние Авроры%str3%%str4%
+%str1%%str2%Aurora Gloves%str3%%str4%,%str1%%str2%Перчатки Авроры%str3%%str4%
+%str1%%str2%Aurora Helm%str3%%str4%,%str1%%str2%Шлем Авроры%str3%%str4%
+%str1%%str2%Aurora Leggings%str3%%str4%,%str1%%str2%Поножи Авроры%str3%%str4%
+%str1%%str2%Aurora Mantle%str3%%str4%,%str1%%str2%Накидка Авроры%str3%%str4%
+%str1%%str2%Aurora Shoes%str3%%str4%,%str1%%str2%Туфли Авроры%str3%%str4%
+%str1%%str2%Auxiliary Powered Boots%str3%%str4%,%str1%%str2%Механизированные сапоги%str3%%str4%
+%str1%%str2%Auxiliary Powered Coat%str3%%str4%,%str1%%str2%Механизированная куртка%str3%%str4%
+%str1%%str2%Auxiliary Powered Epaulets%str3%%str4%,%str1%%str2%Механизированные эполеты%str3%%str4%
+%str1%%str2%Auxiliary Powered Gloves%str3%%str4%,%str1%%str2%Механизированные перчатки%str3%%str4%
+%str1%%str2%Auxiliary Powered Helm%str3%%str4%,%str1%%str2%Механизированный шлем%str3%%str4%
+%str1%%str2%Auxiliary Powered Leggings%str3%%str4%,%str1%%str2%Механизированные поножи%str3%%str4%
+%str1%%str2%Avarice's Command%str3%%str4%,%str1%%str2%«Веление Алчности»%str3%%str4%
+%str1%%str2%Avenger's Armor%str3%%str4%,%str1%%str2%Доспех мстителя%str3%%str4%
+%str1%%str2%Avenger's Chausses%str3%%str4%,%str1%%str2%Шоссы мстителя%str3%%str4%
+%str1%%str2%Avenger's Footgear%str3%%str4%,%str1%%str2%Обувь мстителя%str3%%str4%
+%str1%%str2%Avenger's Gauntlets%str3%%str4%,%str1%%str2%Латные перчатки мстителя%str3%%str4%
+%str1%%str2%Avenger's Helm%str3%%str4%,%str1%%str2%Шлем мстителя%str3%%str4%
+%str1%%str2%Avenger's Shoulderplates%str3%%str4%,%str1%%str2%Наплечные пластины мстителя%str3%%str4%
+%str1%%str2%Avirdanag%str3%%str4%,%str1%%str2%«Авирданаг»%str3%%str4%
+%str1%%str2%Awakened Axe%str3%%str4%,%str1%%str2%Топор Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Dagger%str3%%str4%,%str1%%str2%Кинжал Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Focus%str3%%str4%,%str1%%str2%Фокус Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Greatsword%str3%%str4%,%str1%%str2%Двуручный меч Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Hammer%str3%%str4%,%str1%%str2%Молот Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Longbow%str3%%str4%,%str1%%str2%Длинный лук Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Mace%str3%%str4%,%str1%%str2%Булава Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Pistol%str3%%str4%,%str1%%str2%Пистолет Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Rifle%str3%%str4%,%str1%%str2%Ружьё Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Scepter%str3%%str4%,%str1%%str2%Скипетр Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Shield%str3%%str4%,%str1%%str2%Щит Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Short Bow%str3%%str4%,%str1%%str2%Короткий лук Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Staff%str3%%str4%,%str1%%str2%Посох Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Sword%str3%%str4%,%str1%%str2%Меч Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Torch%str3%%str4%,%str1%%str2%Факел Пробуждённых%str3%%str4%
+%str1%%str2%Awakened Warhorn%str3%%str4%,%str1%%str2%Боевой рог Пробуждённых%str3%%str4%
+%str1%%str2%Axe of the Dragon's Deep%str3%%str4%,%str1%%str2%Топор Драконьей Пучины%str3%%str4%
+%str1%%str2%Axe%str3%%str4%,%str1%%str2%Топор%str3%%str4%
+%str1%%str2%Azimuth%str3%%str4%,%str1%%str2%«Азимут»%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Axe%str3%%str4%,%str1%%str2%Лазурный топор убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Dagger%str3%%str4%,%str1%%str2%Лазурный кинжал убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Focus%str3%%str4%,%str1%%str2%Лазурный фокус убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Greatsword%str3%%str4%,%str1%%str2%Лазурный двуручный меч убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Hammer%str3%%str4%,%str1%%str2%Лазурный молот убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Longbow%str3%%str4%,%str1%%str2%Лазурный длинный лук убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Mace%str3%%str4%,%str1%%str2%Лазурная булава убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Pistol%str3%%str4%,%str1%%str2%Лазурный пистолет убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Лазурное ружьё убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Scepter%str3%%str4%,%str1%%str2%Лазурный скипетр убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Shield%str3%%str4%,%str1%%str2%Лазурный щит убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Short Bow%str3%%str4%,%str1%%str2%Лазурный короткий лук убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Staff%str3%%str4%,%str1%%str2%Лазурный посох убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Sword%str3%%str4%,%str1%%str2%Лазурный меч убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Torch%str3%%str4%,%str1%%str2%Лазурный факел убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Warhorn%str3%%str4%,%str1%%str2%Лазурный боевой рог убийцы драконов%str3%%str4%
+%str1%%str2%Azure Railgun%str3%%str4%,%str1%%str2%«Лазурный рельсотрон»%str3%%str4%
+%str1%%str2%Azureflame%str3%%str4%,%str1%%str2%«Лазурное пламя»%str3%%str4%
+%str1%%str2%Balthazar's Axe%str3%%str4%,%str1%%str2%Топор Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Dagger%str3%%str4%,%str1%%str2%Кинжал Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Focus%str3%%str4%,%str1%%str2%Фокус Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Greatsword%str3%%str4%,%str1%%str2%Двуручный меч Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Hammer%str3%%str4%,%str1%%str2%Молот Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Longbow%str3%%str4%,%str1%%str2%Длинный лук Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Mace%str3%%str4%,%str1%%str2%Булава Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Pistol%str3%%str4%,%str1%%str2%Пистолет Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Rifle%str3%%str4%,%str1%%str2%Ружьё Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Scepter%str3%%str4%,%str1%%str2%Скипетр Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Shield%str3%%str4%,%str1%%str2%Щит Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Short Bow%str3%%str4%,%str1%%str2%Короткий лук Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Staff%str3%%str4%,%str1%%str2%Посох Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Sword%str3%%str4%,%str1%%str2%Меч Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Torch%str3%%str4%,%str1%%str2%Факел Бальтазара%str3%%str4%
+%str1%%str2%Balthazar's Warhorn%str3%%str4%,%str1%%str2%Боевой рог Бальтазара%str3%%str4%
+%str1%%str2%Bandage Bomber%str3%%str4%,%str1%%str2%«Бинтомёт»%str3%%str4%
+%str1%%str2%Banded Coat%str3%%str4%,%str1%%str2%Полосная куртка%str3%%str4%
+%str1%%str2%Banded Gauntlets%str3%%str4%,%str1%%str2%Полосные латные перчатки%str3%%str4%
+%str1%%str2%Banded Greaves%str3%%str4%,%str1%%str2%Полосные наголенники%str3%%str4%
+%str1%%str2%Banded Helm%str3%%str4%,%str1%%str2%Полосный шлем%str3%%str4%
+%str1%%str2%Banded Legs%str3%%str4%,%str1%%str2%Полосные поножи%str3%%str4%
+%str1%%str2%Banded Pauldrons%str3%%str4%,%str1%%str2%Полосные наплечники%str3%%str4%
+%str1%%str2%Bandit Baton%str3%%str4%,%str1%%str2%Бандитская дубинка%str3%%str4%
+%str1%%str2%Bandit Bugle%str3%%str4%,%str1%%str2%Бандитский горн%str3%%str4%
+%str1%%str2%Bandit Cleaver%str3%%str4%,%str1%%str2%Бандитский тесак%str3%%str4%
+%str1%%str2%Bandit Demolisher%str3%%str4%,%str1%%str2%Бандитский разрушитель%str3%%str4%
+%str1%%str2%Bandit Focus%str3%%str4%,%str1%%str2%Бандитский фокус%str3%%str4%
+%str1%%str2%Bandit Harpoon Gun%str3%%str4%,%str1%%str2%Бандитская гарпунная пушка%str3%%str4%
+%str1%%str2%Bandit Longbow%str3%%str4%,%str1%%str2%Бандитский длинный лук%str3%%str4%
+%str1%%str2%Bandit Mallet%str3%%str4%,%str1%%str2%Бандитская киянка%str3%%str4%
+%str1%%str2%Bandit Musket%str3%%str4%,%str1%%str2%Бандитский мушкет%str3%%str4%
+%str1%%str2%Bandit Revolver%str3%%str4%,%str1%%str2%Бандитский револьвер%str3%%str4%
+%str1%%str2%Bandit Shiv%str3%%str4%,%str1%%str2%Бандитская заточка%str3%%str4%
+%str1%%str2%Bandit Short Bow%str3%%str4%,%str1%%str2%Бандитский короткий лук%str3%%str4%
+%str1%%str2%Bandit Slicer%str3%%str4%,%str1%%str2%Бандитский резак%str3%%str4%
+%str1%%str2%Bandit Spear%str3%%str4%,%str1%%str2%Бандитское копьё%str3%%str4%
+%str1%%str2%Bandit Spire%str3%%str4%,%str1%%str2%Бандитский шпиль%str3%%str4%
+%str1%%str2%Bandit Sunderer%str3%%str4%,%str1%%str2%Бандитский раскалыватель%str3%%str4%
+%str1%%str2%Bandit Torch%str3%%str4%,%str1%%str2%Бандитский факел%str3%%str4%
+%str1%%str2%Bandit Trident%str3%%str4%,%str1%%str2%Бандитский трезубец%str3%%str4%
+%str1%%str2%Bandit Ward%str3%%str4%,%str1%%str2%Бандитский заслон%str3%%str4%
+%str1%%str2%Banner of the Ash Legion%str3%%str4%,%str1%%str2%Знамя Пепельного легиона%str3%%str4%
+%str1%%str2%Banner of the Blood Legion%str3%%str4%,%str1%%str2%Знамя Кровавого легиона%str3%%str4%
+%str1%%str2%Banner of the Flame Legion%str3%%str4%,%str1%%str2%Знамя Легиона Огня%str3%%str4%
+%str1%%str2%Banner of the Iron Legion%str3%%str4%,%str1%%str2%Знамя Железного легиона%str3%%str4%
+%str1%%str2%Banner of the Steel Warband%str3%%str4%,%str1%%str2%Знамя Стального отряда%str3%%str4%
+%str1%%str2%Barbaric Boots%str3%%str4%,%str1%%str2%Варварские сапоги%str3%%str4%
+%str1%%str2%Barbaric Coat%str3%%str4%,%str1%%str2%Варварская куртка%str3%%str4%
+%str1%%str2%Barbaric Gloves%str3%%str4%,%str1%%str2%Варварские перчатки%str3%%str4%
+%str1%%str2%Barbaric Helm%str3%%str4%,%str1%%str2%Варварский шлем%str3%%str4%
+%str1%%str2%Barbaric Legplates%str3%%str4%,%str1%%str2%Варварские латные поножи%str3%%str4%
+%str1%%str2%Barbaric Pauldrons%str3%%str4%,%str1%%str2%Варварские наплечники%str3%%str4%
+%str1%%str2%Barud's Blunderbuss%str3%%str4%,%str1%%str2%Мушкетон Баруда%str3%%str4%
+%str1%%str2%Basic Chef's Backpack%str3%%str4%,%str1%%str2%Базовый рюкзак повара%str3%%str4%
+%str1%%str2%Bastion of the Broken Voice%str3%%str4%,%str1%%str2%Бастион Сломленного Голоса%str3%%str4%
+%str1%%str2%Bastion of the Scion%str3%%str4%,%str1%%str2%Бастион Отпрыска%str3%%str4%
+%str1%%str2%Bastion of the Sunless%str3%%str4%,%str1%%str2%Бастион Бессолнечного%str3%%str4%
+%str1%%str2%Battle-Worn%str3%%str4%,%str1%%str2%Закалённый в боях%str3%%str4%
