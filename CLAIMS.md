@@ -16,7 +16,7 @@
 | `items_010.csv` | items | 500 | 45,182 | A recipe to make ascended heavy leggings with |  |  |
 | `items_011.csv` | items | 500 | 30,675 | A recipe to make Trailblazer's Draconic Legs. |  |  |
 | `items_012.csv` | items | 500 | 20,463 | Advanced Harvesting Sickle |  |  |
-| `items_013.csv` | items | 500 | 12,145 | Ancient Boreal Focus Skin |  |  |
+| `items_013.csv` | items | 500 | 12,145 | Ancient Boreal Focus Skin | ✅ | Магистр Клод, Приорат Дурманд |
 | `items_014.csv` | items | 500 | 12,594 | Araneae Longbow Skin |  |  |
 | `items_015.csv` | items | 500 | 13,707 | Assassin's Rascal Mask |  |  |
 | `items_016.csv` | items | 500 | 11,099 | Aureate Warhammer of Water |  |  |
