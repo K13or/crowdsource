@@ -287,7 +287,7 @@
 | `ui_144.csv` | ui | 500 | 58,395 | The citizens of Nebo Terrace salute you for y | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_145.csv` | ui | 500 | 56,531 | The Hero Kilroy's Story | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_146.csv` | ui | 500 | 55,835 | The Only Way Season | ✅ | Магистр Клод, Приорат Дурманд |
-| `ui_147.csv` | ui | 500 | 52,852 | The Tower of Nightmares has been cleared! |  |  |
+| `ui_147.csv` | ui | 500 | 52,852 | The Tower of Nightmares has been cleared! | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_148.csv` | ui | 500 | 62,922 | This bag contains six items in at least the m |  |  |
 | `ui_149.csv` | ui | 500 | 34,789 | This panel displays all your available utilit |  |  |
 | `ui_150.csv` | ui | 500 | 16,879 | Throw Jar |  |  |
