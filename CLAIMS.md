@@ -220,7 +220,7 @@
 | `ui_077.csv` | ui | 500 | 32,323 | Help collect dwarven artifacts. |  |  |
 | `ui_078.csv` | ui | 500 | 20,542 | Hint: Plays amidst the monastery's landscapin |  |  |
 | `ui_079.csv` | ui | 500 | 26,290 | Honk the party horn at the attendees to stop |  |  |
-| `ui_080.csv` | ui | 500 | 98,111 | I can't fathom how you were able to take out |  |  |
+| `ui_080.csv` | ui | 500 | 98,111 | I can't fathom how you were able to take out | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_081.csv` | ui | 500 | 35,489 | Ignore Event |  |  |
 | `ui_082.csv` | ui | 500 | 20,818 | Increase Inflicted Bleeding Duration: 25%% |  |  |
 | `ui_083.csv` | ui | 500 | 18,443 | Inquest looting finished in: %str1% |  |  |
