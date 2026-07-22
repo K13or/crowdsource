@@ -87,10 +87,7 @@ def main():
     tmap = load_completed(completed)
     if not tmap:
         print("Нет переводов для вливания."); return
-    # off_dict_*.csv — временно отключённые словари (toggle_dict.bat):
-    # переводы вливаем и в них, чтобы ничего не терялось, пока словарь выключен
     targets = sorted(glob.glob(os.path.join(cyr_dir, 'dict_*.csv'))) \
-              + sorted(glob.glob(os.path.join(cyr_dir, 'off_dict_*.csv'))) \
               + [os.path.join(cyr_dir, 'cyrillic_strings.csv')]
     total = 0
     report = []
