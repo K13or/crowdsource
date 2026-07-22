@@ -144,7 +144,7 @@
 | `ui_001.csv` | ui | 500 | 60,546 | [null] |  |  |
 | `ui_002.csv` | ui | 500 | 15,699 | %str1% (%num1%/%num2% complete) | ✅ | Магистр Клод |
 | `ui_003.csv` | ui | 500 | 21,964 | %str1%%str2%Abyssal Fractal Dagger%str3%%str4 | ✅ | Магистр Клод, Приорат Дурманд |
-| `ui_004.csv` | ui | 500 | 21,277 | %str1%%str2%Beach Trunks%str3%%str4% |  |  |
+| `ui_004.csv` | ui | 500 | 21,277 | %str1%%str2%Beach Trunks%str3%%str4% | ✅ | Магистр Клод, Приорат Дурманд |
 | `ui_005.csv` | ui | 500 | 21,093 | %str1%%str2%Commander's Helm%str3%%str4% |  |  |
 | `ui_006.csv` | ui | 500 | 21,153 | %str1%%str2%Eagle Eye Shield%str3%%str4% |  |  |
 | `ui_007.csv` | ui | 500 | 20,851 | %str1%%str2%Full Moon Scepter%str3%%str4% |  |  |
