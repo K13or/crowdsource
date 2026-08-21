@@ -5,6 +5,7 @@
     python tools/langfilter.py check [new/new_125.csv ...]   # список, без правок
     python tools/langfilter.py apply [new/new_125.csv ...]   # удалить уверенные
     python tools/langfilter.py apply --all [...]             # и «под вопросом» тоже
+    python tools/langfilter.py markers                       # пересобрать словарь снятого
 
 Зачем. Синк тянет строки с прокси, а прокси видел не только английский клиент:
 в колонку `english` попадают французские (реже немецкие и испанские) строки.
@@ -16,13 +17,15 @@
 языка, диакритику и характерные хвосты команд — и сравниваем с английскими
 служебными словами. Отчёт всегда пишется целиком, удаляются только уверенные.
 """
-import csv, glob, io, os, re, sys, collections
+import csv, glob, io, json, os, re, subprocess, sys, collections
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 HERE = os.path.dirname(os.path.abspath(__file__))
 CROWD = os.path.dirname(HERE)
 REPORT = os.path.join(CROWD, "sync", "reports", "non_english.csv")
 REPORT_APPLIED = os.path.join(CROWD, "sync", "reports", "non_english_deleted.csv")
+# Слова, снятые прошлыми чистками: собираются командой `markers`, лежат рядом.
+MARKERS = os.path.join(HERE, "lang_markers.json")
 
 # Слова языка делятся надвое, иначе английское уходит в удаление.
 # STRONG — французские и только французские. WEAK — те, что есть и в английском:
@@ -72,8 +75,66 @@ PRODUCT = re.compile(r"Guild Wars 2|Secrets of the Obscure|Heart of Thorns|Path 
                      r"End of Dragons|Janthir Wilds|Visions of Eternity|Living World", re.I)
 
 
-def verdict(en_text):
-    """('fr'|'de'|'es'|'', уверенность, почему)."""
+# Списки слов молчат на коротких названиях: «Revanche», «Rifle rapide», «Sol nu»
+# служебных слов не содержат, диакритики тоже. Поэтому есть два словаря.
+#
+# EN собирается из строк корпуса, У КОТОРЫХ ЕСТЬ ПЕРЕВОД. Ход не случайный:
+# французские хвосты синка лежат непереведёнными, значит в такой словарь они не
+# попадут, и язык не выучится на том же мусоре, который ищем.
+#
+# MARKERS — слова из строк, снятых прошлыми чистками (команда `markers` собирает
+# их из git-истории). Слово оттуда, которого английский корпус почти не знает,
+# перевешивает соседей-когнатов: «revolver» и «rifle» есть в обоих языках, а
+# «assaillant» и «rapide» — только во французском.
+WORD = re.compile(r"[A-Za-zÀ-ÿ][A-Za-zÀ-ÿ']{2,}")
+_LEX = {}
+
+
+def lexicons():
+    if _LEX:
+        return _LEX
+    en = collections.Counter()
+    for fp in sorted(glob.glob(os.path.join(CROWD, "*", "*.csv"))):
+        if os.path.basename(os.path.dirname(fp)) in ("sync", "tools", ".batch_bak"):
+            continue
+        try:
+            rows = list(csv.reader(io.open(fp, encoding="utf-8-sig", newline="")))
+        except OSError:
+            continue
+        for i, r in enumerate(rows):
+            if i and len(r) > 1 and r[1].strip():
+                for w in WORD.findall(r[0]):
+                    en[w.lower()] += 1
+    try:
+        marks = set(json.load(io.open(MARKERS, encoding="utf-8")))
+    except (OSError, ValueError):
+        marks = set()
+    _LEX.update(en=en, marks=marks)
+    return _LEX
+
+
+def foreign_words(e):
+    """Слова строки, которые знает только снятый корпус."""
+    lex = lexicons()
+    return [w for w in WORD.findall(e)
+            if w.lower() in lex["marks"] and lex["en"].get(w.lower(), 0) <= 1]
+
+
+def unknown_to_english(e):
+    """Ни одно слово строки английскому корпусу не знакомо."""
+    lex = lexicons()
+    words = WORD.findall(e)
+    return bool(words) and not any(lex["en"].get(w.lower(), 0) >= 5 for w in words)
+
+
+def verdict(en_text, ru_text=""):
+    """('fr'|'de'|'es'|'', уверенность, почему).
+
+    Перевод нужен не для проверки языка, а как отсечка для самого слабого
+    признака: у строки, которую человек уже перевёл, повода подозревать чужой
+    язык нет, и незнакомые корпусу слова там — это имена и звуки («Abbik»,
+    «(huffs)»), а не французский.
+    """
     e = en_text
     bare = PRODUCT.sub(" ", QUOTED.sub(" ", e))
     n_en = len(EN.findall(bare))
@@ -84,6 +145,18 @@ def verdict(en_text):
         return "fr", "уверенно", "команда или звук французского клиента"
     if NBSP_FR.search(e):
         return "fr", "уверенно", "неразрывный пробел перед знаком — французская типографика"
+    # Улика из словаря снятого корпуса. Порог — ДВА слова: одного мало, на нём
+    # правило цепляло английские названия («Abandon ship without a chute!»,
+    # «Amduat Sceptre» — «chute» и «sceptre» частотны у снятых и почти не
+    # встречаются у английских). Проверено по всему корпусу: при двух словах на
+    # 477 374 переведённых строк срабатываний-ошибок нет ни одного, а найденные
+    # семь оказались немецкими и испанскими строками, которые кто-то перевёл
+    # транслитом («Alte Frau» -> «Альте Фрау») вместо того, чтобы снять.
+    fw = foreign_words(e)
+    if len(fw) >= 2 and n_en == 0:
+        return lang, "уверенно", "слова только из снятого корпуса: %s" % ", ".join(fw[:3])
+    if fw:
+        return lang, "под вопросом", ("слова из снятого корпуса: %s" % ", ".join(fw[:3]))
     if n >= 2 and n > n_en:
         return lang, "уверенно", "служебных слов языка %d против английских %d" % (n, n_en)
     dia = ("fr" if DIA_FR.search(e) else "de" if DIA_DE.search(e) else
@@ -103,6 +176,12 @@ def verdict(en_text):
     weak = len(FR_WEAK.findall(e))
     if n >= 1 and weak >= 1 and n_en == 0 and len(e.split()) >= 2:
         return lang, "под вопросом", "надёжное слово языка %d + двусмысленных %d" % (n, weak)
+    # Последний, самый слабый признак: корпус не знает ни одного слова строки.
+    # Так выглядит и чужой язык, и редкое английское название вроде «Rimebreath»,
+    # поэтому только «под вопросом» — apply такие не трогает. И только для
+    # непереведённых строк: у переведённых это имена и звуки, а не язык.
+    if not ru_text.strip() and n_en == 0 and unknown_to_english(e):
+        return lang, "под вопросом", "английскому корпусу не знакомо ни одно слово"
     return "", "", ""
 
 
@@ -113,7 +192,7 @@ def scan(paths):
         for i, r in enumerate(rows[1:], start=2):
             if not r or not r[0].strip():
                 continue
-            lang, conf, why = verdict(r[0])
+            lang, conf, why = verdict(r[0], r[1] if len(r) > 1 else "")
             if lang:
                 out.append((os.path.basename(fp), i, lang, conf, why, r[0]))
     return out
@@ -185,7 +264,60 @@ def cmd_apply(args):
     print("не забудь пересчитать доску: python stats.py --mark-done")
 
 
-CMDS = {"check": cmd_check, "apply": cmd_apply}
+def cmd_markers(args):
+    """Пересобрать tools/lang_markers.json из истории репозитория.
+
+    Каждая прошлая чистка подписана «снято N французских», и снятые строки лежат
+    в git. Брать все строки со знаком «минус» нельзя: в тех же коммитах правились
+    переводы, а правка выглядит как «-строка/+строка». Настоящее удаление — это
+    english-ключ, который в коммите исчез и обратно не появился.
+    """
+    def git(*a):
+        r = subprocess.run(["git"] + list(a), cwd=CROWD, capture_output=True)
+        return r.stdout.decode("utf-8", "replace")
+
+    def key(line):
+        try:
+            return next(csv.reader([line]))[0]
+        except Exception:
+            return line.split(",", 1)[0].strip('"')
+
+    shas = []
+    for pat in ("французск", "не-английск"):
+        shas += [s for s in git("log", "--all", "--format=%H", "--grep=" + pat, "-i").split() if s]
+    shas = list(dict.fromkeys(shas))
+    dirs = [d for d in sorted(os.listdir(CROWD))
+            if os.path.isdir(os.path.join(CROWD, d)) and not d.startswith(".")
+            and d not in ("sync", "tools", "skills", "__pycache__")]
+    removed = []
+    for sha in shas:
+        diff = git("show", "--format=", "--unified=0", sha, "--", *dirs)
+        minus, plus = [], set()
+        for ln in diff.splitlines():
+            if ln.startswith("---") or ln.startswith("+++"):
+                continue
+            if ln.startswith("-"):
+                minus.append(key(ln[1:]))
+            elif ln.startswith("+"):
+                plus.add(key(ln[1:]))
+        removed += [k for k in minus if k and k not in plus and len(k) > 2]
+    removed = set(removed)
+    print("коммитов с чисткой: %d | снятых записей: %d" % (len(shas), len(removed)))
+
+    freq = collections.Counter()
+    for e in removed:
+        for w in WORD.findall(e):
+            freq[w.lower()] += 1
+    en = lexicons()["en"]
+    # порог 5 против 1: слово должно быть частым у снятых и почти отсутствовать
+    # у английских, иначе в список попадут когнаты вроде «rifle» и «revolver»
+    marks = sorted(w for w, c in freq.items() if c >= 5 and en.get(w, 0) <= 1)
+    with io.open(MARKERS, "w", encoding="utf-8") as f:
+        json.dump(marks, f, ensure_ascii=False, indent=0)
+    print("слов в словаре: %d -> %s" % (len(marks), os.path.relpath(MARKERS, CROWD)))
+
+
+CMDS = {"check": cmd_check, "apply": cmd_apply, "markers": cmd_markers}
 
 if __name__ == "__main__":
     if len(sys.argv) < 2 or sys.argv[1] not in CMDS:
