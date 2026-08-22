@@ -477,7 +477,7 @@ Carrying this item increases the chance of Bandit Executioners attacking during 
 <c=@flavor>Your hands seem to sink into the grip of this sword.</c>,"<c=@flavor>Кажется, будто твои руки утопают в рукояти этого меча.</c>"
 <c=@flavor>Your name is on the tag. What a nice gift. Double-click to open.</c>,"<c=@flavor>На бирке твоё имя. Какой приятный подарок. Дважды щёлкните, чтобы открыть.</c>"
 <c=@reminder> This coat overrides legging art</c>,<c=@reminder> Эта куртка перекрывает отображение ножной брони</c>
-<c=@reminder>Complete the first story chapter of Guild Wars 2: End of Dragons to unlock this feature.</c>,"<c=@reminder>Пройдите первую главу истории Guild Wars 2: End of Dragons, чтобы открыть эту возможность.</c>"
+<c=@reminder>Complete the first story chapter of Guild Wars 2: End of Dragons to unlock this feature.</c>,"<c=@reminder>Пройдите первую главу истории Guild Wars 2: Конец Драконов, чтобы открыть эту возможность.</c>"
 "<c=@reminder>Contains loot stolen from the Black Lion Trading Company by the Knife Tail Gang.</c=@reminder>
 
 Use the box to randomly unlock a Black Lion wardrobe item you don't already have. Some items—in particular mounts and some weapon sets—are less common than others. Preview to see everything available.","<c=@reminder>Содержит добычу, украденную у Торговой компании Чёрного Льва бандой Ножехвостых.</c=@reminder>
@@ -546,7 +546,7 @@ A book fragment worn away by the desert sands. It will need to be completed befo
 A book of homestead decoration recipes needed to craft arches and pillars.,"Книга рецептов украшений усадьбы, нужных для изготовления: арок и колонн."
 "A book of homestead decoration recipes needed to craft Awakened-themed objects.
 Components may require Guild Wars 2: Path of Fire.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов в стиле Пробуждённых.
-Для компонентов может потребоваться Guild Wars 2: Path of Fire."
+Для компонентов может потребоваться Guild Wars 2: Путь Огня."
 A book of homestead decoration recipes needed to craft balloons.,"Книга рецептов украшений усадьбы, нужных для изготовления: воздушных шаров."
 A book of homestead decoration recipes needed to craft banners.,"Книга рецептов украшений усадьбы, нужных для изготовления: знамён."
 A book of homestead decoration recipes needed to craft basic items.,"Книга рецептов украшений усадьбы, нужных для изготовления: простых предметов."
@@ -566,26 +566,26 @@ A book of homestead decoration recipes needed to craft Lunar New Year items.,"К
 A book of homestead decoration recipes needed to craft miscellaneous items.,"Книга рецептов украшений усадьбы, нужных для изготовления: разных предметов."
 "A book of homestead decoration recipes needed to craft objects from Amnytas. 
 Components may require Guild Wars 2: Secrets of the Obscure.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Амнитаса.
-Для компонентов может потребоваться Guild Wars 2: Secrets of the Obscure."
+Для компонентов может потребоваться Guild Wars 2: Тайны Сокрытого."
 "A book of homestead decoration recipes needed to craft objects from Auric Basin.
 Components may require Guild Wars 2: Heart of Thorns.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Золотого Бассейна.
-Для компонентов может потребоваться Guild Wars 2: Heart of Thorns."
+Для компонентов может потребоваться Guild Wars 2: Сердце Терний."
 "A book of homestead decoration recipes needed to craft objects from Dragon's End.
 Components may require Guild Wars 2: End of Dragons.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Драконьего Предела.
-Для компонентов может потребоваться Guild Wars 2: End of Dragons."
+Для компонентов может потребоваться Guild Wars 2: Конец Драконов."
 "A book of homestead decoration recipes needed to craft objects from Dragon's Stand.
 Components may require Guild Wars 2: Heart of Thorns.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Драконьей Твердыни.
-Для компонентов может потребоваться Guild Wars 2: Heart of Thorns."
+Для компонентов может потребоваться Guild Wars 2: Сердце Терний."
 A book of homestead decoration recipes needed to craft objects from Fractals of the Mists.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Фракталов Тумана."
 "A book of homestead decoration recipes needed to craft objects from Grothmar Valley.
 Components may require access to Prologue: Bound by Blood in the Icebrood Saga.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Долины Гротмар.
 Для компонентов может потребоваться доступ к «Прологу: Узы крови» в «Саге о ледышках»."
 "A book of homestead decoration recipes needed to craft objects from Inner Nayos.
 Components may require Guild Wars 2: Secrets of the Obscure.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Внутреннего Найоса.
-Для компонентов может потребоваться Guild Wars 2: Secrets of the Obscure."
+Для компонентов может потребоваться Guild Wars 2: Тайны Сокрытого."
 "A book of homestead decoration recipes needed to craft objects from Skywatch Archipelago.
 Components may require Guild Wars 2: Secrets of the Obscure.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из архипелага Небесного Дозора.
-Для компонентов может потребоваться Guild Wars 2: Secrets of the Obscure."
+Для компонентов может потребоваться Guild Wars 2: Тайны Сокрытого."
 A book of homestead decoration recipes needed to craft paintings and shelves.,"Книга рецептов украшений усадьбы, нужных для изготовления: картин и полок."
 "A book of homestead decoration recipes needed to craft paintings, walls, and fountains.","Книга рецептов украшений усадьбы, нужных для изготовления: картин, стен и фонтанов."
 A book of homestead decoration recipes needed to craft pillars.,"Книга рецептов украшений усадьбы, нужных для изготовления: колонн."
