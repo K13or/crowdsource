@@ -610,7 +610,7 @@ The next time you use Gleaming Blade, it deals increased damage and immobilizes 
 <c=@abilitytype>Активация:</c> Рывок вперёд; при остановке исцеляет союзников в области."
 "<c=@abilitytype>Virtue:</c> Regenerates health.</c>
 <c=@abilitytype>Activate:</c> Heal yourself and nearby allies while granting light aura. The next time you use Luminous Staff, it heals allies and grants them regeneration.","<c=@abilitytype>Добродетель:</c> Восстанавливает здоровье.</c>
-<c=@abilitytype>Активация:</c> Лечит вас и ближайших союзников, а также дарует им эффект ""Светлый щит"". При следующем использовании ""Сияющего посоха"" он лечит союзников и дарует им регенерацию."
+<c=@abilitytype>Активация:</c> Лечит вас и ближайших союзников, а также дарует им эффект «Светлый щит». При следующем использовании «Сияющего посоха» он лечит союзников и дарует им регенерацию."
 "<c=@abilitytype>Virtue:</c> Regenerates health.</c>
 <c=@abilitytype>Activate:</c> Heal yourself and nearby allies.","<c=@abilitytype>Добродетель:</c> Восстанавливает здоровье.</c>
 <c=@abilitytype>Активация:</c> Исцелите себя и союзников поблизости."

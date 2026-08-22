@@ -37,7 +37,7 @@ Hello! Are you here to test out our latest Xunlai Jade Guard models? They're spe
 Hello! Can someone help me please? You there?,"Привет! Кто-нибудь может мне помочь, пожалуйста? Вы здесь?"
 Hello! Have you come because of the tree as well?,Здравствуйте! Вы тоже пришли из-за этого дерева?
 "Hello! Help, please!",Здравствуйте! Чем могу помочь?
-"Hello! You're %str1%, aren't you? I know how busy you must be, but let me tell you about my krewe. I'm part of the Brill Alliance krewe. It's one of a kind.","Привет! Ты же %str1%, верно? Я знаю, как ты занят, но позволь мне рассказать тебе о моей команде. Я состою в команде ""Бриллиантовый Альянс"". Она уникальна в своем роде."
+"Hello! You're %str1%, aren't you? I know how busy you must be, but let me tell you about my krewe. I'm part of the Brill Alliance krewe. It's one of a kind.","Привет! Ты же %str1%, верно? Я знаю, как ты занят, но позволь мне рассказать тебе о моей команде. Я состою в команде «Бриллиантовый Альянс». Она уникальна в своем роде."
 "Hello, %str1%. Captain Thackeray has mentioned that you've been assisting him. Kryta is grateful for your service.","Приветствую, %str1%. Капитан Такери упоминал, что вы ему помогаете. Крайта / крайтанский благодарна за вашу службу."
 "Hello, Commander. Got some supplies if you need to buy any.","Приветствую, командир. У меня есть припасы, если вам что-нибудь понадобится."
 "Hello, Wayfinder! Would you have time to help me with a study I've currently got going on? There are some odd wisp-like creatures that inhabit this space that I'd like to get some field data on.","Приветствую, Путешественник! Не найдётся ли у тебя времени помочь мне с исследованием, которым я сейчас занимаюсь? В этом месте обитают странные существа, похожие на светящиеся сферы, и мне бы хотелось собрать о них немного данных в полевых условиях."
@@ -69,7 +69,7 @@ Help Rasolov free workers by defeating foremen.,"Помогите Расолов
 Help Rox and Braham defend the Trader's Forum.,Помогите Роксу и Брейхаму защитить Торговую площадь.
 Help Taimi investigate the dragon energy readings in Wildflame Caverns.,Помогите Тайми исследовать показания датчиков энергии дракона в Диких Огненных Пещерах.
 Help Tekki fight off creatures swarming through the asura gate.,"Помогите Tekki отбиться от существ, лезущих через асурийские врата."
-Help Venpa finish the Ettin Proof Suit Mark II.,"Помогите Венпе завершить создание комплекта брони ""Непробиваемый костюм эттина"" второй модели."
+Help Venpa finish the Ettin Proof Suit Mark II.,"Помогите Венпе завершить создание комплекта брони «Непробиваемый костюм эттина» второй модели."
 Help Vincere Shieldstep find the scattered members of his team.,Помогите Vincere Shieldstep найти разбросанных членов его отряда.
 Help Vishen secure the camp's forward perimeter.,Помогите Вишену укрепить передовой периметр лагеря.
 Help allies and evacuate citizens before the miasma becomes lethal.,"Помогите союзникам и эвакуируйте мирных жителей, пока ядовитый туман не стал смертельным."
@@ -266,7 +266,7 @@ Hey! You looking for a job?,Эй! Ты ищешь работу?
 "Hey, you get a chance to explore later and find anything interesting—exotic plants, ornery beasties—be sure to tell me!","Эй, если тебе удастся позже исследовать окрестности и найти что-нибудь интересное — экзотические растения, вредных зверушек — обязательно расскажи мне!"
 "Hey, you look like someone who doesn't mind gettin' a little soot on ya. Eh?","Эй, ты выглядишь как человек, которому не чужда небольшая порция сажи. Не так ли?"
 "Hey, you look new to this area. You probably want to get a bit more seasoning before heading out this way.","Эй, похоже, ты здесь новичок. Тебе, наверное, стоит немного потренироваться, прежде чем отправляться в эти края."
-"Hey, you look pretty smart. We know everything there is to know about Destiny's Edge. Come prove that you know as much as we do, if you think you can!","Эй, ты выглядишь довольно сообразительным. Мы знаем о ""Рубеже Судьбы"" всё. Докажи, что знаешь не меньше нас, если осмелишься!"
+"Hey, you look pretty smart. We know everything there is to know about Destiny's Edge. Come prove that you know as much as we do, if you think you can!","Эй, ты выглядишь довольно сообразительным. Мы знаем о «Рубеже Судьбы» всё. Докажи, что знаешь не меньше нас, если осмелишься!"
 "Hey, you want to leave? Go ahead. It's my discovery anyway.","Эй, хочешь уйти? Вперёд. Всё равно это моё открытие."
 "Hey, you! Hey!","Эй, ты! Эй!"
 "Hey, you! Is Darrin still away in Claypool?","Эй, ты! Даррин все ещё в Клейпуле?"
@@ -338,7 +338,7 @@ Himmelsschuppen-Rettung,Спасение Химмельшкуппена
 Himmelsschuppen-Ritt,Полёт над Небесными Чешуйками
 Himmelsschuppen-Sattel,Седело Небесной чешуи
 Himmelsschuppen-Schuppen,Химмельшчуппен-Шчуппен
-Himmelsschuppen-Spielzeug,"Игрушка ""Небесная чешуйка"""
+Himmelsschuppen-Spielzeug,"Игрушка «Небесная чешуйка»"
 Himmelsschuppen-Spielzeug-Training,Тренировка с игрушечным небесным челноком
 Himmelsschuppen-Tarnung,Маскировка «Небесная чешуя»
 Himmelsschuppenritt am Sternguckergrat,Полёт над звёздным хребтом

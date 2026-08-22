@@ -36,7 +36,7 @@ Choose a second generation weapon or two alternative legendary items to be place
 Выберите оружие второго поколения или два альтернативных легендарных предмета для размещения в вашем Легендарном Арсенале."
 "Double-click to open.,
 Choose a second-generation weapon or an alternative legendary item to be placed in your Legendary Armory.","Дважды щёлкните, чтобы открыть.
-Выберите оружие второго поколения или альтернативный легендарный предмет для размещения в вашем Легендарном арсенале."""
+Выберите оружие второго поколения или альтернативный легендарный предмет для размещения в вашем Легендарном арсенале".""
 "Double-click to open.,
 Choose from a subset of first-generation weapons or backpieces to be placed in your legendary armory.","Дважды щёлкните, чтобы открыть.,
 Выберите из набора оружия первого поколения или наплечных сумок, чтобы поместить их в вашу легендарную оружейную."
@@ -70,7 +70,7 @@ Double-click to open.","Дважды щёлкните, чтобы открыть
 Contains 100 assorted vials of blood.,Содержит 100 различных склянок с кровью.
 <c=@flavor>""I suppose it makes sense. They are the Blood Legion.""</c>","Дважды щёлкните, чтобы открыть.,
 Содержит 100 различных склянок с кровью.,Содержит 100 различных склянок с кровью.
-<c=@flavor>""Полагаю, это имеет смысл. Они — Кровавый легион.""</c>"
+<c=@flavor>""Полагаю, это имеет смысл. Они — Кровавый легион"".</c>"
 "Double-click to open.,
 Contains 25 assorted molten materials.,
 '<c=@flavor>Fire. It''s a box of fire. Because the Flame Legion loves fire.</c>'","Дважды щёлкните, чтобы открыть.,
@@ -136,7 +136,7 @@ Contains materials from Amnytas.","Дважды щёлкните, чтобы о�
 Содержит материалы из Амнитаса."
 "Double-click to open.,
 Contains materials from Skywatch Archipelago.","Дважды щёлкните, чтобы открыть.
-Содержит материалы из Архипелага Небесного Дозора."""
+Содержит материалы из Архипелага Небесного Дозора".""
 "Double-click to pick a recipe for Spearmarshal Coats. Can be learned by armorsmiths, leatherworkers
 Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.","Дважды щёлкните, чтобы выбрать рецепт для мундиров маршала копья. Могут выучить броненосцы и кожевники.
 Купите эти рецепты у известных торговцев в Элоне после изучения базовых рецептов из сюжета."
@@ -174,7 +174,7 @@ Double-click to read. Can be safely discarded after acquiring.,"Дважды щ�
 "Double-click to shine on your Pet Shoot.,
 <c=@flavor>Armed with a light that shone in the dark, this lamp is very powerful.</c>","Дважды щёлкните, чтобы посветить на вашего питомца.,
 <c=@flavor>Обладая светом, сиявшим в темноте, этот фонарь очень мощный.</c>"
-"Double-click to show.""","Дважды щёлкните, чтобы показать."""
+"Double-click to show.""","Дважды щёлкните, чтобы показать".""
 "Double-click to start the party!""","Дважды щёлкните, чтобы начать вечеринку!"
 "Double-click to summon a pet Jade Armor for 5 minutes. This can only be used once every 30 minutes.,'Дважды щёлкните",чтобы призвать питомца-нефритового стража на 5 минут. Можно использовать не чаще одного раза в 30 минут.'
 "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.,
@@ -209,12 +209,12 @@ Double-click to transform into a Janthiri floppy fish.,"Дважды щёлкн�
 <c=@flavor>""Still pretty big for a shrimp, if you ask me!""</c>","Дважды щёлкните, чтобы превратиться в громокреветку.
 <c=@flavor>""Все равно креветка, пусть и громовая!""</c>"
 Double-click to transform into a tropical crab.,"Дважды щёлкните, чтобы превратиться в тропического краба."
-"Double-click to unpack and bind this item to your account.""","Дважды щёлкните, чтобы распаковать и привязать этот предмет к вашей учётной записи."""
-"Double-click to unpack.""","Дважды щёлкните, чтобы распаковать."""
+"Double-click to unpack and bind this item to your account.""","Дважды щёлкните, чтобы распаковать и привязать этот предмет к вашей учётной записи".""
+"Double-click to unpack.""","Дважды щёлкните, чтобы распаковать".""
 "Double-click to use.,
 This item contains the Ghoul Backpack and Mini Ghoul Legs.","Дважды щёлкните, чтобы использовать.,
 Этот предмет содержит рюкзак вурдалака и мини-ноги вурдалака."
-"Double-click to view his location.""","Дважды щёлкните, чтобы увидеть его местоположение."""
+"Double-click to view his location.""","Дважды щёлкните, чтобы увидеть его местоположение".""
 "Double-click to warm your Pet Plantling.,
 '<c=@flavor>Special care should be taken with this hot stone if you don''t want to get burned.</c>'","Дважды щёлкните, чтобы согреть ваше растение-питомца.,
 '<c=@flavor>С этим горячим камнем следует обращаться осторожно, если вы не хотите обжечься.</c>'"
@@ -303,7 +303,7 @@ Fashion Template tabs allow accounts to swap and store an additional set of cosm
 Filled with all the nutrients a growing raptor needs! Double-click to feed this to your raptor.,"Содержит все питательные вещества, необходимые растущему раптору! Дважды щёлкните, чтобы накормить этим вашего раптора."
 "Filled with all the nutrients a growing springer needs! Double-click to feed this to your springer.,'«Содержит все питательные вещества, необходимые растущему прыгуну! Дважды щёлкните, чтобы накормить своего прыгуна.»'
 Gives bonus Mastery experience once per day.","Содержит все питательные вещества, необходимые растущему спрингеру! Дважды щёлкните, чтобы скормить это вашему спрингеру.,
-Даёт дополнительный опыт мастерства один раз в день."
+Даёт дополнительный опыт мастерства один раз в день".
 Filled with all the nutrients a growing warclaw needs! Double-click to feed this to your warclaw.,"Содержит все питательные вещества, необходимые растущему боевому когтю! Дважды щёлкните, чтобы накормить этим вашего боевого когтя."
 First Drop:,Первая капля:
 Found by completing the meta-event finale in Gyala Delve.,Найдено при завершении финала мета-события в Ущелье Гьялы.
@@ -311,7 +311,7 @@ Found by defeating strike missions in Cantha.,Найдено при победе
 Found by defeating the Aetherblade boss in Seitung Province.,Найдено при победе над боссом Эфирного клинка в провинции Сейтун.
 Found by defeating the Jade Behemoth in New Kaineng City.,Найдено при победе над Нефритовым Бегемотом в Новом Кайненге.
 Found by defeating the Prototype XJ-1 in Echovald Wilds.,Найдено при победе над Прототипом XJ-1 в Лесах Эховальда.
-"Found in a Pact camp in Jahai Bluffs.""","Найдено в лагере Союза в ущельях Джахай."""
+"Found in a Pact camp in Jahai Bluffs.""","Найдено в лагере Союза в ущельях Джахай".""
 Found rarely by completing events and jumping puzzles in Starlit Weald or purchased from Starlit Weald renown heart vendors.,Редко встречается при выполнении событий и прыжковых головоломок в Звёздной чаще или покупается у торговцев сердца известности в Звёздной чаще.
 Found rarely from completing events and jumping puzzles in Shipwreck Strand or purchased from the Glimmering Arches renown heart vendor.,Изредка выпадает за выполнение событий и головоломок с прыжками на Корабельной мели или приобретается у торговца сердца известности в Мерцающих арках.
 Fourth Drop:,Четвёртая капля:
@@ -328,7 +328,7 @@ Natural","Гидеон Хоторн II,
 003 Тид IIX0,
 Натуральный"
 Gives bonus Mastery experience once per day.,Раз в день даёт дополнительный опыт мастерства.
-"Gives bonus Mastery experience once per day.""","Даёт дополнительный опыт мастерства один раз в день."""
+"Gives bonus Mastery experience once per day.""","Даёт дополнительный опыт мастерства один раз в день".""
 "Gives one standalone homestead decoration of Orrax Contained.,Даёт одно отдельное украшение жилища «Орракс заточён».
 This homestead decoration cannot be crafted.","Даёт одно отдельное украшение усадьбы «Орракс заточён».
 Это украшение усадьбы нельзя создать."
@@ -908,7 +908,7 @@ Invitation to """"Lily of the Elon""""""","Интеллект, сила воли
 Приглашение
 Приглашение от королевы Дженны
 Приглашение на «Лилию Элоны»"
-"Interacting with an active device will disable it.""","Взаимодействие с активным устройством отключит его."""
+"Interacting with an active device will disable it.""","Взаимодействие с активным устройством отключит его".""
 It smells like singed fur and feathers. Use this item to transform into...something. The bottle seems to be self-replenishing.,"Пахнет опалённым мехом и перьями. Используйте этот предмет, чтобы превратиться в... кого-то. Бутылка, кажется, самовосполняется."
 It smells like some sort of furniture polish. Use this item to transform into...something. The bottle seems to be self-replenishing.,"Пахнет каким-то средством для мебели. Используйте этот предмет, чтобы превратиться в... кого-то. Бутылка, кажется, самовосполняется."
 It smells of the forest. Use this item to transform into...something. The bottle seems to be self-replenishing.,"Пахнет лесом. Используйте этот предмет, чтобы превратиться в... нечто. Бутылка, похоже, самовосполняется."
@@ -1214,16 +1214,16 @@ Purchase the recipe for this item from any Mystic Forge vendor and reach a jewel
 "Purchase the recipe for this item from any Mystic Forge vendor and reach a jeweler rating of 400 to craft.""","Купите рецепт этого предмета у любого торговца Мистической кузницы и достигните рейтинга ювелира 400, чтобы создать его."
 Purchase the recipe for this item from any Mystic Forge vendor and reach a leatherworker rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень кожевника 400.
 Purchase the recipe for this item from any Mystic Forge vendor and reach a tailor rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень портного 400.
-"Purchase the recipe for this item from any Mystic Forge vendor and reach a tailor rating of 400 to craft.""","Купите рецепт этого предмета у любого торговца Мистической кузницы и достигните 400 уровня портняжного дела, чтобы создать."""
+"Purchase the recipe for this item from any Mystic Forge vendor and reach a tailor rating of 400 to craft.""","Купите рецепт этого предмета у любого торговца Мистической кузницы и достигните 400 уровня портняжного дела, чтобы создать".""
 Purchase the recipe for this item from any Mystic Forge vendor and reach a weaponsmith rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень оружейника 400.
 Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень бронника 400.
 "Purchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.""","Приобретите рецепт этого предмета у любого торговца Мистической кузницы и достигните уровня кузнеца брони 400, чтобы создать его."
 Purchase the recipe for this item from any Mystic Forge vendor and reach an artificer rating of 400 to craft.,Рецепт этого предмета покупается у любого торговца Мистической кузницы; для изготовления нужен уровень артифактора 400.
-"Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.""","Приобретите эти рецепты у известных торговцев в Элоне после изучения базовых рецептов из сюжета."""
+"Purchase these recipes from renown merchants in Elona after learning the base recipes from the story.""","Приобретите эти рецепты у известных торговцев в Элоне после изучения базовых рецептов из сюжета".""
 Purchased from Huntmaster Arnorr in Untamed Crags in Starlit Weald after completing the Starlit Weald Mastery achievement.,Покупается у Хантмастера Арнорра в Неукрощённых утёсах в Звёздной роще после выполнения достижения «Мастерство Звёздной рощи».
 Purchased from Rojan the Penitent in Frostgorge Sound after successfully defeating the Claw of Jormag.,Покупается у Роджана Кающегося в Заливе Морозного Ущелья после успешного поражения Когтя Йормага.
 Purchased from Tyrian Alliance Representative Sharpwhisker in Glimmering Arches in Shipwreck Strand after completing the Shipwreck Strand Mastery achievement.,Покупается у представителя Тирийского альянса Остроуса в Мерцающих арках на Кораблекрушенном берегу после выполнения достижения «Мастерство Кораблекрушенного берега».
-"Purchased from Visions of Eternity renown heart vendors.""","Куплено у продавцов заданий сердца «Видения вечности»."""
+"Purchased from Visions of Eternity renown heart vendors.""","Куплено у продавцов заданий сердца «Видения вечности»".""
 Purchased from dungeon vendors for 500 Tales of Dungeon Delving.,Покупается у торговцев подземелий за 500 Tales of Dungeon Delving.
 Rare or uncommon dye chances:,Шансы на редкие или необычные красители:
 "Really enjoys facing north for some reason.,Почему-то очень любит смотреть на север.",Почему-то очень любит смотреть на север.
@@ -1260,7 +1260,7 @@ Double-click to activate.","Переупаковывает усиления в �
 • Усилитель восстановления (1),
 Дважды щёлкните, чтобы активировать."
 "Requires """"A Crack in the Ice.""""""",Требуется «Трещина во льду».
-"Requires The Head of the Snake.""","Требуется «Голова змеи»."""
+"Requires The Head of the Snake.""","Требуется «Голова змеи»".""
 Rewarded for finishing first in the World Tournament Series!,Награда за первое место в мировом турнире!
 Rewarded for finishing fourth in the World Tournament Series!,Награда за четвертое место в мировом турнире!
 Rewarded for finishing second in the World Tournament Series!,Награда за второе место в мировом турнире!!
@@ -1312,7 +1312,7 @@ This item only has value as part of the Missing Brood collection.","Сувени
 Speak to a Black Lion Armor Trader at the trading post in any major city to exchange this item for an outfit wearable in combat.,"Поговорите с торговцом доспехами из Чёрного льва на торговом посту в любом крупном городе, чтобы обменять этот предмет на наряд, который можно носить в бою."
 Speak to a Black Lion Armor Trader in any major city to exchange this for a helmet skin with the same look.,"Поговорите с торговцем доспехами из Чёрного льва в любом крупном городе, чтобы обменять это на облик шлема с таким же внешним видом."
 Speak to a Black Lion Armor Trader to exchange this for a portable bundle item.,"Поговорите с торговцем доспехами из Чёрного льва, чтобы обменять это на переносной связной предмет."
-"Speak with a quaestor in the Drizzlewood Coast to change your legion preference.""","Поговорите с квестором на Побережье Мороси, чтобы изменить предпочтение легиона."""
+"Speak with a quaestor in the Drizzlewood Coast to change your legion preference.""","Поговорите с квестором на Побережье Мороси, чтобы изменить предпочтение легиона".""
 Store Living World portal scrolls inside of this tome.,Храните свитки порталов Живого мира внутри этого фолианта.
 "Surprisingly,' newborn skimmer pups don''t need any parental care after birth.
 Combine 1 Black and 2 Gold Mini Skimmer Pups with 20 Unidentified Dyes in the Mystic Forge to create a Mini Lantern Skimmer Pup.'","Как ни странно, новорожденные детеныши скатов-прыгунов не нуждаются в родительской опеке после рождения.
@@ -1334,7 +1334,7 @@ Combine 1 Purple and 2 White Mini Skimmer Pups with 12 Unidentified Dyes in the 
 Taimi keeps studious and thorough notes.,Тайми ведёт усердные и подробные записи.
 Take your chest to Evon Gnashblade to learn more about this mini.,"Отнесите свой сундук Эвону Нэшблэйду, чтобы узнать больше об этом мини."
 Talk to Collector Terksli to unwrap this seasonal oddity.,"Поговорите с коллекционером Терксли, чтобы развернуть этот сезонный диковинный предмет."
-"Ten-minute cooldown. Can only be used by characters level 10 or greater.""","Десятиминутное восстановление. Может использоваться только персонажами 10 уровня и выше."""
+"Ten-minute cooldown. Can only be used by characters level 10 or greater.""","Десятиминутное восстановление. Может использоваться только персонажами 10 уровня и выше".""
 "The 8th Anniversary Supply Drop,
 Use this to sign your account up for weekly 8th Anniversary Supply Drops. Receive the first drop immediately and three more between now and September 15.,
 First Drop:,
@@ -1542,7 +1542,7 @@ The finer details have been worn away from centuries in the sand.,"Мелкие 
 "The unlocked coffer contains rift essence of various tiers.,
 Double-click to open.","Открытый сундук содержит эссенции разломов разных уровней.,
 Дважды щёлкните, чтобы открыть."
-"There might be someone in Yatendi village looking for this.""","Возможно, кто-то в деревне Ятенди ищет это."""
+"There might be someone in Yatendi village looking for this.""","Возможно, кто-то в деревне Ятенди ищет это".""
 Third Drop:,Третья капля:
 "This adds a Black Lion Expedition Board to your home instance, which can be used to collect exotic resources from across Tyria and the Mists. 
 Expedition options include the following:,
@@ -1598,7 +1598,7 @@ This back slot skin has no stats of its own.,Этот облик для ячей
 "This chest may contain items required to complete the Envoy Armor I: Experimental Armor achievement, if the achievement is currently in progress.","Этот сундук может содержать предметы, необходимые для завершения достижения «Броня посланника I: Экспериментальная броня», если это достижение в настоящее время выполняется."
 "This contains a matching backpack and glider set.,
 Double-click to unpack.","Содержит подходящий набор из рюкзака и планера.
-Дважды щёлкните, чтобы распаковать."
+Дважды щёлкните, чтобы распаковать".
 "This device detects power caches by attuning its frequency to one of the four types of matter: aqueous, gaseous
 This device has recorded several conversations. Agent Brandubh in Diessa Plateau will want this information.,Это устройство записало несколько разговоров. Агенту Брандубу в Диессе-Плато понадобится эта информация.
 This device is designed to transcribe the unique energy signatures of the krait obelisk shards for further study.,
@@ -1622,7 +1622,7 @@ This fish has been preserved through smoking and was given to you by the Priory 
 "This full set of light armor skins can replace the appearance of light armor pieces, once per slot. The skins will also be unlocked in your account wardrobe.","Этот полный набор обликов лёгкой брони может заменить внешний вид предметов лёгкой брони, один раз на слот. Облики также будут разблокированы в вашем гардеробе аккаунта."
 "This full set of medium armor skins can replace the appearance of medium armor pieces, once per slot. The skins will also be unlocked in your account wardrobe.","Этот полный набор обликов средней брони может заменить внешний вид предметов средней брони, один раз на слот. Облики также будут разблокированы в вашем гардеробе аккаунта."
 "This helm skin has no stats of its own.""",У этого шлема нет своих характеристик.
-"This is a permanent account unlock.""","Это постоянная разблокировка аккаунта."""
+"This is a permanent account unlock.""","Это постоянная разблокировка аккаунта".""
 "This item can be safely sold.,
 <c=@flavor>Castoran choya have developed a therapeutic treatment in which they bathe themselves in hot water mixed with diced fruit.</c>","Этот предмет можно безопасно продать.,
 <c=@flavor>Касторанские чойи разработали терапевтическое лечение, при котором они купаются в горячей воде с нарезанными фруктами.</c>"
@@ -1634,12 +1634,12 @@ This item has no value outside of a collection and may be sold to vendors.,Эт�
 This item has no value outside of a collection and may be sold to vendors.","Этот предмет не имеет ценности вне коллекции и может быть продан торговцам.,
 <c=@Flavor>Эта древесина, добытая в горах Пустынных Нагорий
 Этот предмет не имеет ценности вне коллекции и может быть продан торговцам."
-"This item has no value outside of a collection.""","Этот предмет не имеет ценности вне коллекции."""
+"This item has no value outside of a collection.""","Этот предмет не имеет ценности вне коллекции".""
 "This item is acquired from the achievement """"Klobjarne Geirr: Janthir Spear Kills.""""""",Этот предмет получен за достижение «Клобьярне Гейрр: убийства копьём в Джантуре».
 "This item is automatically consumed upon receiving it, and its only purpose is as part of a collection.","Этот предмет поглощается сразу при получении, и его единственное назначение — быть частью коллекции."
-"This item is consumed immediately.""","Этот предмет потребляется сразу."""
+"This item is consumed immediately.""","Этот предмет потребляется сразу".""
 This item only has value as part of a collection and can be consumed without preventing progress.,Этот предмет имеет ценность только как часть коллекции и может быть потреблен без ущерба для прогресса.
-"This item only has value as part of a collection. Consume to add to collection.""","Этот предмет имеет ценность только как часть коллекции. Используйте, чтобы добавить в коллекцию."""
+"This item only has value as part of a collection. Consume to add to collection.""","Этот предмет имеет ценность только как часть коллекции. Используйте, чтобы добавить в коллекцию".""
 This item only has value as part of the Missing Brood collection.,Этот предмет ценен лишь как часть коллекции «Пропавший выводок».
 "This item only has value as part of the Missing Brood collection.""",Этот предмет имеет ценность только как часть коллекции «Пропавший выводок».
 "This item was gifted to you for taking the time to appreciate the culture of the Itzel.,
@@ -1728,7 +1728,7 @@ This works in WvW and PvP.,Это работает в WvW и PvP.
 • 1 Gift of Condensed Might
 • 1 Gift of Condensed Magic"
 Town clothes can no longer be equipped separately.,Городскую одежду больше нельзя экипировать отдельно.
-"Trade to Berghild in the Eye of the North for pants.""","Обменять у Бергильд в Оке Севера на штаны."""
+"Trade to Berghild in the Eye of the North for pants.""","Обменять у Бергильд в Оке Севера на штаны".""
 "Transforms you into a random Branded creature.,
 Account bound on use.","Превращает вас в случайное создание из Клейма.,
 Привязывается к учётной записи при использовании."
@@ -1799,13 +1799,13 @@ Use this to sign your account up for weekly Visions of Eternity Launch Supply Dr
 5 ключей от сундука Чёрного льва, 2 билета на миниатюру Чёрного льва
 Используйте это, чтобы подписаться на еженедельные припасы запуска «Видения вечности». Получите первую каплю немедленно и ещё три до 25 ноября."
 Use this to sign your account up for weekly War Eternal Supply Drops. Receive the first immediately and three more between now and May 21.,"Используйте это, чтобы подписать свой аккаунт на еженедельные поставки Войны вечности. Первая доставка будет сразу, ещё три — с сегодняшнего дня по 21 мая."
-"Use to gain a Target Painter trap. This trap marks up to 50 enemies when activated. Costs 5 supply to deploy. Cannot be avoided.,'Используйте","чтобы получить ловушку «Целеуказатель». Эта ловушка отмечает до 50 врагов при активации. Стоит 5 единиц припасов для установки. Нельзя избежать.""'"
+"Use to gain a Target Painter trap. This trap marks up to 50 enemies when activated. Costs 5 supply to deploy. Cannot be avoided.,'Используйте","чтобы получить ловушку «Целеуказатель». Эта ловушка отмечает до 50 врагов при активации. Стоит 5 единиц припасов для установки. Нельзя избежать"".'"
 Used by jade bot technicians to upgrade to Mount Energy Booster 3.,Используется техниками джейд-ботов для улучшения до Усилителя энергии скакуна 3.
 Used by jade bot technicians to upgrade to Rescue Protocol Recharge 3.,Используется техниками джейд-ботов для улучшения до Восстановления протокола спасения 3.
 Used by jade bot technicians to upgrade to Skiff Supercharger 3.,Используется техниками джейд-ботов для улучшения до Суперзарядчика скифа 3.
 Used by jade bot technicians to upgrade to Treasure Hunter Protocol 3.,Используется техниками джейд-ботов для улучшения до Протокола охотника за сокровищами 3.
 Used by jade bot technicians to upgrade to Turtle Pilot Booster 3.,Используется техниками джейд-ботов для улучшения до Ускорителя черепашьего пилота 3.
-"Used by jade bot technicians to upgrade to Turtle Siege Enhancer 3.""","Используется техниками джет-ботов для улучшения до Усилителя осады черепахи 3."""
+"Used by jade bot technicians to upgrade to Turtle Siege Enhancer 3.""","Используется техниками джет-ботов для улучшения до Усилителя осады черепахи 3".""
 Used by jade bot technicians to upgrade to the third tier of your Jade Bot Glide Booster.,Используется техниками джейд-ботов для улучшения до третьего уровня Ускорителя планирования джейд-бота.
 "Used in crafting Jade Tech and Monastery armor sets,' using the Dragon''s (+Power'
 Used in crafting Olmakhan bandoliers. Can also be salvaged for volatile magic.,Используется в создании банольеров Олмакхана. Также можно разобрать на нестабильную магию.
@@ -1904,7 +1904,7 @@ Replaces gathering results with ores used in higher-level crafting recipes. Mate
 "Used to open trade crates in the Crystal Desert.,
 '<c=@flavor>""Don''t waste time watching a merchant''s eyes or lips; watch their hands to find their keys.""','<c=@flavor>""Не трать время, глядя в глаза или на губы торговца; следи за руками, чтобы найти ключи.""'
 —Zalambur.</c>","Используется для открытия торговых ящиков в Пустыне Хрустала.,
-'<c=@flavor>""Не трать время, глядя в глаза или на губы торговца; следи за руками, чтобы найти ключи.""','<c=@flavor>""Не трать время, глядя в глаза или на губы торговца; следи за руками, чтобы найти ключи.""'
+'<c=@flavor>""Не трать время, глядя в глаза или на губы торговца; следи за руками, чтобы найти ключи"".','<c=@flavor>""Не трать время, глядя в глаза или на губы торговца; следи за руками, чтобы найти ключи"".'
 —Заламбур.</c>"
 "Used to refine Crystalline Ore into Crystalline Ingots. Crafted from Obsidian Shards, Airship Oil
 Used to refine Meteorite Ore.,Используется для очистки Метеоритной руды.
@@ -1949,7 +1949,7 @@ Wings of Dwayna,Крылья Двайны
 "Winter in Summer
 Mystery Box","Зима летом
 Таинственная коробка"
-"WvW Season Reward Chests are awarded at the end of a WvW season to all players who achieved the meta-achievement for the season.""","Сундуки с наградами за сезон WvW выдаются в конце сезона WvW всем игрокам, выполнившим мета-достижение сезона."""
+"WvW Season Reward Chests are awarded at the end of a WvW season to all players who achieved the meta-achievement for the season.""","Сундуки с наградами за сезон WvW выдаются в конце сезона WvW всем игрокам, выполнившим мета-достижение сезона".""
 "Yexxi the Stern,
 092 Tide 00XI,
 Knowledge","Йеккси Строгий,

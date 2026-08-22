@@ -23,9 +23,9 @@ english,translate
 <center>Soo-Won: WE WILL NOT BE UNDONE.</center>,<center>Су-Вон: МЫ НЕ БУДЕМ УНИЧТОЖЕНЫ.</center>
 "<i>In order to enter this raid encounter, you must have completed Chapter 5 of ""Bound by Blood.""</i>","<i>Чтобы попасть в это рейдовое событие, вы должны завершить главу 5 ""Скреплённые кровью"".</i>"
 "<i>In order to enter this raid encounter, your squad leader must have completed Chapter 5 of ""Bound by Blood.""</i>","<i>Чтобы попасть в это рейдовое событие, ваш командир отряда должен завершить главу 5 ""Скреплённые кровью"".</i>"
-<i>Note: A jackal mount with the Shifting Sands Mastery is required to successfully complete some aspects of this content.</i>,"<i>Примечание: для успешного прохождения некоторых аспектов этого контента требуется скакун-шакал с мастерством ""Движущиеся пески"".</i>"
-<i>Note: Glider Basics and Updraft Use Masteries are required to successfully complete some encounters.</i>,"<i>Примечание: для успешного прохождения некоторых событий требуются мастерства ""Основы глайдинга"" и ""Использование восходящих потоков"".</i>"
-<i>Note: Raptor mount with Canyon Jumping and springer mount with High Vault are required to successfully complete some aspects of this content.</i>,"<i>Примечание: для успешного прохождения некоторых аспектов этого контента требуются скакун-раптор с ""Прыжком через каньон"" и скакун-спрингер с ""Высоким прыжком"".</i>"
+<i>Note: A jackal mount with the Shifting Sands Mastery is required to successfully complete some aspects of this content.</i>,"<i>Примечание: для успешного прохождения некоторых аспектов этого контента требуется скакун-шакал с мастерством «Движущиеся пески».</i>"
+<i>Note: Glider Basics and Updraft Use Masteries are required to successfully complete some encounters.</i>,"<i>Примечание: для успешного прохождения некоторых событий требуются мастерства «Основы глайдинга» и «Использование восходящих потоков».</i>"
+<i>Note: Raptor mount with Canyon Jumping and springer mount with High Vault are required to successfully complete some aspects of this content.</i>,"<i>Примечание: для успешного прохождения некоторых аспектов этого контента требуются скакун-раптор с «Прыжком через каньон» и скакун-спрингер с «Высоким прыжком».</i>"
 <pg>[b],<pg>[b]
 <quote>%str1%,<quote>%str1%
 <quote>%str1% %str2%,<quote>%str1% %str2%
@@ -33,7 +33,7 @@ english,translate
 ">>Decoration layout: ""%str1%""",">>Расположение декораций: ""%str1%"""
 ???: Getting ready to fly to a park.,???: Готовится лететь в парк.
 ???: Looking up at a theater.,???: Смотрит на театр.
-???: Trying to skip rocks among the clouds.,"???: Пытается пускать ""блинчики"" по облакам."
+???: Trying to skip rocks among the clouds.,"???: Пытается пускать «блинчики» по облакам."
 [F]Catapul琀攀,[F]Катапульта
 [F]Masse séraphine,[F]Масса серафимов
 [F]Reichhaltige Orichalcum-Ader,[F]Богатая орихалковая жила

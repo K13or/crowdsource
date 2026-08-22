@@ -356,8 +356,8 @@ Entangling Asp,Опутывающая гадюка
 Entangling Web,Опутывающая паутина
 "Enter Harbinger Shroud, granting powerful offensive skills but leaving you vulnerable to attack.
 As you remain in Harbinger Shroud, you accumulate blight over time.
-<c=@reminder>Blight decreases your maximum health.</c>","Активируйте ""Саван Предвестника"", чтобы получить мощные атакующие умения, но при этом вы станете уязвимы для атак.
-Пока действует ""Саван Предвестника"", вы постепенно накапливаете скверну.
+<c=@reminder>Blight decreases your maximum health.</c>","Активируйте «Саван Предвестника», чтобы получить мощные атакующие умения, но при этом вы станете уязвимы для атак.
+Пока действует «Саван Предвестника», вы постепенно накапливаете скверну.
 <c=@reminder>Скверна уменьшает ваш максимальный запас здоровья.</c>"
 Enter Radiant Forge,Войдите в Сияющую Кузню
 Enter Radiant Forge. The recharge time of this skill is reduced for each unused radiant weapon in shroud.,"Активировать сияющую кузницу. Время перезарядки этого умения уменьшается за каждое лучезарное оружие, которое не было использовано в саване."

@@ -149,7 +149,7 @@ Rytlock? Logan? Together?,Ритлок? Логан? Вместе?
 S41ty D0g,S41ty D0g
 STA-7012,СТА-7012
 STA/B-0,СТА/Б-0
-STATUS: Alarmed—but—ready.<br>REQUEST: Please—input—experiment—parameter—alpha.,"СОСТОЯНИЕ: В тревоге, но готов к действию.<br>ЗАПРОС: Пожалуйста, введите параметры эксперимента ""альфа""."
+STATUS: Alarmed—but—ready.<br>REQUEST: Please—input—experiment—parameter—alpha.,"СОСТОЯНИЕ: В тревоге, но готов к действию.<br>ЗАПРОС: Пожалуйста, введите параметры эксперимента «альфа»."
 STATUS: At—your—service.<br>REQUEST: Please—input—experiment—parameter—beta.,"СТАТУС: К вашим услугам.<br>ЗАПРОС: Пожалуйста, введите параметр эксперимента beta."
 STATUS: Awaiting—instruction.<br>REQUEST: Please—input—experiment—parameter—alpha.,"СТАТУС: Ожидание инструкций.<br>ЗАПРОС: Пожалуйста, введите параметры эксперимента – альфа."
 STATUS: Displaying—virtue: patience.<br>REQUEST: Please input experiment parameter beta.,СТАТУС: Отображается добродетель терпения.<br>ЗАПРОС: Введите параметр эксперимента бета.
@@ -215,7 +215,7 @@ Saludo astral,Астральное приветствие
 Salutations!,Приветствую!
 "Salutations, Commander! I'm here to represent the Consortium's obligations in cleaning up this little fractal fracas. Just let me know what you need! (Some terms and conditions apply.)","Приветствую, командующий! Я здесь, чтобы представлять интересы Консорциума в решении этой небольшой проблемы с фракталами. Просто скажите мне, что вам нужно! (Действуют некоторые условия.)"
 "Salutations, friend %str2%! I have delicious foodstuffs for all walks of life. What can I offer you?","Приветствую, друг %str2%! У меня есть вкуснейшие блюда для всех! Что я могу вам предложить?"
-"Salutations, hero! The Tyrian Holo-News Krewe is on track for the latest street-racing sensation: roller beetle racing!","Приветствую, герой! Команда ""Тирийских голо-новостей"" готова осветить новейшие уличные гонки: гонки на кругложуках!"
+"Salutations, hero! The Tyrian Holo-News Krewe is on track for the latest street-racing sensation: roller beetle racing!","Приветствую, герой! Команда «Тирийских голо-новостей» готова осветить новейшие уличные гонки: гонки на кругложуках!"
 Salvage Director Gorp,Директор по разборке Горп
 Salvage equipment from the wreckage to strengthen the survivors' defenses.,"Собирайте оборудование из обломков, чтобы укрепить оборону выживших."
 Salvageable Gear,"Предметы, из которых можно получить ресурсы"

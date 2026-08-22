@@ -2,16 +2,16 @@ english,translate
 "<c=@flavor>""Used strictly for religious purposes, of course.""
 —Cin</c>","<c=@flavor>«Используется строго в религиозных целях, разумеется».
 —Син</c>"
-"<c=@flavor>""Was hoping to get weapons or food. Got this instead."",<c=@flavor>""""Надеялся получить оружие или еду. А получил вот это.""""","<c=@flavor>""Надеялся получить оружие или еду. А получил вот это."",<c=@flavor>""""Надеялся получить оружие или еду. А получил вот это."""""
+"<c=@flavor>""Was hoping to get weapons or food. Got this instead."",<c=@flavor>""""Надеялся получить оружие или еду. А получил вот это.""""","<c=@flavor>""Надеялся получить оружие или еду. А получил вот это"".,<c=@flavor>""""Надеялся получить оружие или еду. А получил вот это""""."
 "<c=@flavor>""We had to completely re-engineer the insides of these weapons to not get gummed up."",
 —Engineer Verutum</c>","<c=@flavor>«Нам пришлось полностью переработать внутренности этого оружия, чтобы оно не забивалось»,
 — инженер Верутум</c>"
 "<c=@flavor>""We had to modify these to free us up during scouting expeditions."",
 —Fahrtak </c>","<c=@flavor>«Нам пришлось их модифицировать, чтобы освободить руки во время разведывательных вылазок»,
 — Фартак </c>"
-"<c=@flavor>""We just have to be stronger and faster than the centaurs."",<c=@flavor>""""Мы просто должны быть сильнее и быстрее кентавров.""""","<c=@flavor>""Мы просто должны быть сильнее и быстрее кентавров."",<c=@flavor>""""Мы просто должны быть сильнее и быстрее кентавров."""""
-"<c=@flavor>""We must each bring balance in our own ways."",<c=@flavor>""""Каждый из нас должен привносить равновесие по-своему.""""","<c=@flavor>""Каждый из нас должен привносить равновесие по-своему."",<c=@flavor>""""Каждый из нас должен привносить равновесие по-своему."""""
-"<c=@flavor>""We wont be a secret here for long."",<c=@flavor>""""Мы здесь долго не останемся незамеченными.""""","<c=@flavor>""Мы здесь долго не останемся незамеченными."",<c=@flavor>""""Мы здесь долго не останемся незамеченными."""""
+"<c=@flavor>""We just have to be stronger and faster than the centaurs."",<c=@flavor>""""Мы просто должны быть сильнее и быстрее кентавров.""""","<c=@flavor>""Мы просто должны быть сильнее и быстрее кентавров"".,<c=@flavor>""""Мы просто должны быть сильнее и быстрее кентавров""""."
+"<c=@flavor>""We must each bring balance in our own ways."",<c=@flavor>""""Каждый из нас должен привносить равновесие по-своему.""""","<c=@flavor>""Каждый из нас должен привносить равновесие по-своему"".,<c=@flavor>""""Каждый из нас должен привносить равновесие по-своему""""."
+"<c=@flavor>""We wont be a secret here for long."",<c=@flavor>""""Мы здесь долго не останемся незамеченными.""""","<c=@flavor>""Мы здесь долго не останемся незамеченными"".,<c=@flavor>""""Мы здесь долго не останемся незамеченными""""."
 "<c=@flavor>""Well,' he wasn''t using it anymore."" —Rox</c>'","<c=@flavor>«Ну, он же всё равно не пользовался». — Рокс</c>"
 "<c=@flavor>""What they lack in common sense, they make up for in their ability to collect scraps. In this case
 <c=@flavor>""""What were these doing back there?""""","<c=@flavor>""Чего им не хватает в здравом смысле, они компенсируют умением собирать обрезки. В данном случае
@@ -20,7 +20,7 @@ english,translate
 —Sergeant Yarbrough</c>'","<c=@flavor>«Пока некоторые молятся Бальтазару, это напоминает мне, что покой солдата неизбежен».
 —Сержант Ярбро</c>"
 "<c=@flavor>""Who's a good little journeykit?""</c>",<c=@flavor>«Кто тут хороший маленький путешественник?»</c>
-"<c=@flavor>""Why did they come here? What were these used for? If only I could find the answers."",<c=@flavor>""""Зачем они пришли? Для чего это использовалось? Если бы я только мог найти ответы.""""","<c=@flavor>""Зачем они пришли? Для чего это использовалось? Если бы я только мог найти ответы."",<c=@flavor>""""Зачем они пришли? Для чего это использовалось? Если бы я только мог найти ответы."""""
+"<c=@flavor>""Why did they come here? What were these used for? If only I could find the answers."",<c=@flavor>""""Зачем они пришли? Для чего это использовалось? Если бы я только мог найти ответы.""""","<c=@flavor>""Зачем они пришли? Для чего это использовалось? Если бы я только мог найти ответы"".,<c=@flavor>""""Зачем они пришли? Для чего это использовалось? Если бы я только мог найти ответы""""."
 "<c=@flavor>""With a hero like you around, the Flame Legion doesn't stand a chance.""
 —Corva Sharpclaw</c>","<c=@flavor>«С таким героем, как ты, рядом у Легиона Пламени нет шансов».
 —Корва Остроког</c>"
@@ -29,16 +29,16 @@ english,translate
 —Cin</c>","<c=@flavor>«Да, да, это была трагедия. Но и возможность тоже! Эти куски дамбы — исторические артефакты!»
 —Син</c>"
 "<c=@flavor>""You can hear this from the highest peaks"",<c=@flavor>""""Ты можешь услышать это с высочайших вершин""""","<c=@flavor>""Это можно услышать с высочайших вершин"",<c=@flavor>""""Ты можешь услышать это с высочайших вершин"""""
-"<c=@flavor>""You can hit them even harder with my special gloves."",<c=@flavor>""""Мои особые перчатки помогут вам бить их ещё сильнее.""""","<c=@flavor>""Вы можете бить их ещё сильнее с моими особыми перчатками."",<c=@flavor>""""Мои особые перчатки помогут вам бить их ещё сильнее."""""
+"<c=@flavor>""You can hit them even harder with my special gloves."",<c=@flavor>""""Мои особые перчатки помогут вам бить их ещё сильнее.""""","<c=@flavor>""Вы можете бить их ещё сильнее с моими особыми перчатками"".,<c=@flavor>""""Мои особые перчатки помогут вам бить их ещё сильнее""""."
 "<c=@flavor>""You can read between the lines. More harnesses than dolyaks."",
 —Warmaster Jofast</c>","<c=@flavor>«Вы умеете читать между строк. Больше упряжи, чем доликов».
 —Warmaster Jofast</c>"
-"<c=@flavor>""You could sneak up on the Master of Whispers in these things."",<c=@flavor>""""В этом можно подкрасться к Мастеру Шепотов.""""","<c=@flavor>""В этом можно подкрасться к Мастеру Шепотов."",<c=@flavor>""""В этом можно подкрасться к Мастеру Шепотов."""""
-"<c=@flavor>""You must outthink them."",<c=@flavor>""""Вы должны перехитрить их.""""","<c=@flavor>""Вы должны перехитрить их."",<c=@flavor>""""Вы должны перехитрить их."""""
+"<c=@flavor>""You could sneak up on the Master of Whispers in these things."",<c=@flavor>""""В этом можно подкрасться к Мастеру Шепотов.""""","<c=@flavor>""В этом можно подкрасться к Мастеру Шепотов"".,<c=@flavor>""""В этом можно подкрасться к Мастеру Шепотов""""."
+"<c=@flavor>""You must outthink them."",<c=@flavor>""""Вы должны перехитрить их.""""","<c=@flavor>""Вы должны перехитрить их"".,<c=@flavor>""""Вы должны перехитрить их""""."
 "<c=@flavor>""You scratched my back,' and now I''ll scratch yours. Take a look at this crate of rifles we recovered from the wreck of the Argent Warrior. See any you like?"" 
-—Admiral Clarinda Demard</c>'","<c=@flavor>«Ты почесал мне спинку, и теперь я почешу твою. Взгляни на этот ящик с винтовками, которые мы извлекли из обломков «Аргент Уорриор». Видишь какие-нибудь, что тебе по душе?» 
+—Admiral Clarinda Demard</c>'","<c=@flavor>«Ты почесал мне спинку, и теперь я почешу твою. Взгляни на этот ящик с винтовками, которые мы извлекли из обломков „Аргент Уорриор“. Видишь какие-нибудь, что тебе по душе?» 
 —Адмирал Кларинда Демард</c>"
-"<c=@flavor>""You see it; you can shoot it."",<c=@flavor>""""Видишь — стреляй.""""","<c=@flavor>""Видишь — стреляй."",<c=@flavor>""""Видишь — стреляй."""""
+"<c=@flavor>""You see it; you can shoot it."",<c=@flavor>""""Видишь — стреляй.""""","<c=@flavor>""Видишь — стреляй"".,<c=@flavor>""""Видишь — стреляй""""."
 "<c=@flavor>""You'll need a shield when they start throwing bottles, gears, and the occasional bomb.""
 —Scholar Antal the Patient</c>","<c=@flavor>«Тебе понадобится щит, когда полетят бутылки, шестерни и случайная бомба».
 —Учёная Антал Терпеливая</c>"
@@ -53,7 +53,7 @@ english,translate
 <c=@flavor>Amira asked you to be careful with these.</c>,<c=@flavor>Амира просила вас быть осторожными с ними.</c>
 "<c=@flavor>An attached note reads, ""Until the last enemy of Kryta falls
 Double-click to open.","<c=@flavor>Прилагаемая записка гласит: «Пока не падет последний враг Крайта
-Дважды щёлкните, чтобы открыть.»"
+Дважды щёлкните, чтобы открыть»."
 "<c=@flavor>And just like that,' he''s gone. A bag of his old belongings is all that''s left.</c>'","<c=@flavor>И вот так,' он ушёл. Мешок с его старыми вещами — все, что осталось.</c>'"
 <c=@flavor>Be sure to pet the jade behemoth. Who's a good jade behemoth?</c>,<c=@flavor>Обязательно погладьте нефритового бегемота. Кто у нас хороший нефритовый бегемот?</c>
 "<c=@flavor>Dear brothers, when will we sing again? I'm beginning to forget our song.</c>","<c=@flavor>Братья мои, когда мы снова запоём? Я начинаю забывать нашу песню.</c>"
@@ -497,20 +497,20 @@ Double-click to read.","Запись ваших достижений как на
 A relic from a time when heket were common throughout Kourna.,"Реликвия времен, когда хекеты были обычны в Курне."
 "A secret letter for Aisha Jedgok, who is undercover among the ghosts of the Lair of the Forgotten.
 Double-click to locate.","Секретное письмо для Айши Джедгок, которая скрывается среди призраков Логова Забытых.
-Дважды щёлкните, чтобы найти."
+Дважды щёлкните, чтобы найти".
 "A secret letter for Nori Mahat, who is currently undercover in the village of Purity among local villagers.
 Double-click to locate.","Секретное письмо для Нори Махат, которая в настоящее время находится под прикрытием в деревне среди местных жителей.
-Дважды щёлкните, чтобы найти."
+Дважды щёлкните, чтобы найти".
 "A secret letter that should be brought to Ahel Nakat, who is undercover in the Ruination among the Order of Shadows.
 Double-click to locate.","Секретное письмо, которое следует передать Ахел Накат, работающему под прикрытием в Руинации среди Ордена Теней.
-Дважды щёлкните, чтобы найти."
+Дважды щёлкните, чтобы найти".
 "A sliver of potential solidified from the Mists.,
 Use 12 petals to crystalize a Teal Bloom.,
 <c=@reminder>May be sold to vendors.</c>","Осколок потенциала, затвердевший из Туманов.,
 Используйте 12 лепестков, чтобы кристаллизовать бирюзовый цветок.,
 <c=@reminder>Можно продать торговцам.</c>"
 "A special explosive that destroys steam creatures. Remember,' don''t use too much.'","Особая взрывчатка, уничтожающая паровых созданий. Помните, не используйте слишком много."
-"A sugary root grown in the choya village.""","Сладкий корень, выращенный в деревне чойя."""
+"A sugary root grown in the choya village.""","Сладкий корень, выращенный в деревне чойя".""
 "A tarnished silver locket containing an exquisite miniature family portrait. At least, it was exquisite before it was defaced.","Потускневший серебряный медальон с изысканным миниатюрным семейным портретом. По крайней мере, он был изысканным, пока его не испортили."
 "A treat that combines the flavors of common crustaceans and three types of fish. Double-click to feed this to your skimmer.,'«Угощение, сочетающее вкусы обычных ракообразных и трёх видов рыбы». Дважды щёлкните, чтобы скормить его скату.'
 Gives bonus Mastery experience once per day.","Угощение, сочетающее вкусы обычных ракообразных и трёх видов рыбы. Дважды щёлкните, чтобы скормить его скиммеру.,
@@ -574,7 +574,7 @@ Abelin Favre","Потертое письмо, написанное от руки
 Account bound on use.,Привязывается к учётной записи при использовании.
 Acquired by completing the Forge Guard's armor collection. Purchased from Visions of Eternity map vendors afterward.,Получено за завершение коллекции брони Стража Кузни. Впоследствии можно купить у торговцев на карте «Видения вечности».
 Acquired by completing the Glimmering Resin weapon collection. Purchased from Visions of Eternity map vendors afterward.,Получено за завершение коллекции оружия «Мерцающая смола». Впоследствии можно купить у торговцев на карте «Видения вечности».
-"Acquired by completing the Visions of Eternity launch story the first time. Purchased from Visions of Eternity map vendors afterward.""","Получен при первом прохождении вступительной истории «Видения вечности». После этого можно купить у торговцев на карте «Видения вечности»."""
+"Acquired by completing the Visions of Eternity launch story the first time. Purchased from Visions of Eternity map vendors afterward.""","Получен при первом прохождении вступительной истории «Видения вечности». После этого можно купить у торговцев на карте «Видения вечности»".""
 "Acquired from Ward Trader Sampaguita in Bava Nisos.
 This item is used to craft or purchase Slumbering Lightborne weapons, which she sells crafting recipes or assistance for.","Получено у торговца отряда Сампагиты в Бава Нисос.
 Этот предмет используется для создания или покупки оружия «Дремлющий Светонос», для которого она продаёт рецепты или помощь."
@@ -629,7 +629,7 @@ Obscure","Арина ,
 892 Снег 0XV1,
 Неизвестный"
 Ascended Aurene Clothing Outfit,Наряд восходящей одежды Аурены
-"Banned for sedition against the God King and sealed in the warehouse of Vehtendi Academy in the Domain of Vabbi.""","Запрещён за подстрекательство против Бога-Короля и запечатан на складе Академии Вехтенди в области Вобби."""
+"Banned for sedition against the God King and sealed in the warehouse of Vehtendi Academy in the Domain of Vabbi.""","Запрещён за подстрекательство против Бога-Короля и запечатан на складе Академии Вехтенди в области Вобби".""
 "Become one with the Mists and gain the following:,
 • The ""Fractal Champion"" title,
 • 5 agony resistance, 2%% increased outgoing damage
@@ -658,15 +658,15 @@ Level 1 of 4","Станьте единым с Туманами и получит
 • 1 дополнительный фрактальный шифр и мешок фрактальных реликвий из последнего сундука в каждом фрактале,
 Уровень 1 из 4"
 Become the Midnight King with this combat tonic.,Станьте Королём Полуночи с помощью этого боевого тоника.
-"Black Lion Chests can be found randomly on enemies or bought from the trading post.""","Чёрные сундуки можно случайно найти на врагах или купить на торговом посту."""
-"Bring the egg to Gorrik in Arborstone.""","Отнесите яйцо Горрику в Каменный сад."""
+"Black Lion Chests can be found randomly on enemies or bought from the trading post.""","Чёрные сундуки можно случайно найти на врагах или купить на торговом посту".""
+"Bring the egg to Gorrik in Arborstone.""","Отнесите яйцо Горрику в Каменный сад".""
 Build Template tabs allow a character to create and swap to an additional build.,Вкладки шаблонов сборок позволяют персонажу создавать и переключаться на дополнительную сборку.
 "By rebuilding the sanctuary,' you will be granted access to Kormir''s sanctum.'","Восстановив святилище,' вы получите доступ к святилищу Кормир.'"
 "Can be attained from the Shiverpeaks Pass raid encounter.,Можно получить в рейдовом столкновении «Перевал Дрожащих пиков».",Можно получить в рейдовом столкновении «Перевал Дрожащих пиков».
 "Can be consumed for Crystal Desert Mastery experience or traded at Grand Sahil Casino for other rewards.,Можно использовать для получения опыта мастерства Пустыни Кристалла или обменять в казино «Гранд Сахил» на другие награды.",Можно использовать для получения опыта мастерства Пустыни Кристалла или обменять в казино «Гранд Сахил» на другие награды.
 Can be exchanged for a non-soulbound version at merchants in Amnoon.,Можно обменять на версию без привязки к душе у торговцев в Амнуне.
 Can be exchanged for raid currency at specific vendors.,Можно обменять на рейдовую валюту у определенных торговцев.
-"Can be found at the same location as elegy mosaics.""","Можно найти там же, где и мозаики элегии."""
+"Can be found at the same location as elegy mosaics.""","Можно найти там же, где и мозаики элегии".""
 Can be traded with Mordrem researchers across Tyria for valuable items.,Можно обменять у исследователей Мордрем по всей Тирии на ценные предметы.
 "Can be used in the Mystic Forge in place of Twilight to add the greatsword Eternity to your Legendary Armory.,
 <c=@warning>If you have two instances of Eternity unlocked in the armory, please contact Customer Support.</c>","Может быть использован в Мистической кузнице вместо Сумерек, чтобы добавить большой меч Вечность в вашу Легендарную оружейную.,
@@ -768,7 +768,7 @@ Checked out by Captain Sutekh. Last seen in the Great Hall.,Выдано кап�
 Checked out by Junior Astrologist Hamia. Last seen in the Plains of Jarin.,Выдано: младший астролог Хамия. Последний раз замечена на Равнинах Джарина.
 Checked out by Koss Dejarin of Kourna. Location unknown.,Выдано: Косс Дежарин из Курны. Местоположение неизвестно.
 Checked out by Lord Azeem. Last seen in the Temple of Joko in Palawadan.,Выдано: лорд Азим. Последний раз замечен в Храме Джоко в Палавадане.
-"Choose a piece of legendary armor to be placed in your Legendary Armory.""","Выберите часть легендарной брони для помещения в Легендарный арсенал."""
+"Choose a piece of legendary armor to be placed in your Legendary Armory.""","Выберите часть легендарной брони для помещения в Легендарный арсенал".""
 Collect this and return it to the Sanctuary.,Соберите это и верните в Святилище.
 Collecting this will also provide bonus desert Mastery experience.,Сбор этого также даст бонусный опыт пустынного Мастерства.
 "Combine 25 Tales of Adventure, a Gift of Bones
@@ -1233,8 +1233,8 @@ Combine this weapon in the Mystic Forge with:,Соедините это оруж
 • 1 Gift of Twilight
 • 1 Gift of Mastery
 • 1 Gift of Fortune</c>"
-"Components may require Guild Wars 2: Heart of Thorns.""","Компоненты могут требовать Guild Wars 2: Сердце Терний."""
-"Consult your druid before use.""","Проконсультируйтесь со своим друидом перед использованием."""
+"Components may require Guild Wars 2: Heart of Thorns.""","Компоненты могут требовать Guild Wars 2: Сердце Терний".""
+"Consult your druid before use.""","Проконсультируйтесь со своим друидом перед использованием".""
 "Consumed automatically when acquired. Grants a small amount of volatile magic.
 Traditional Olmakhan song. <c=@flavor>""We sing her to rest,' in Nature''s arms...""</c>'","Потребляется автоматически при получении. Даёт небольшое количество нестабильной магии.
 Традиционная песня олмакханов. <c=@flavor>«Мы поём ей покой в объятиях Природы...»</c>"
@@ -1264,14 +1264,14 @@ Each mini can be activated from your inventory to follow you around the world.",
 • Миниатюра Адмирала Эфирного клинка"
 "Contains 100 assorted pieces of ore and wood.""",Содержит 100 различных кусков руды и древесины.
 Contains 100 assorted venom sacs.,Содержит 100 различных мешочков с ядом.
-"Contains 5 Mocha of the Mists Coffee Pitchers and 1 Metabolic Primer.""","Содержит 5 кувшинов кофе «Мокка Туманного Предела» и 1 метаболический праймер."""
+"Contains 5 Mocha of the Mists Coffee Pitchers and 1 Metabolic Primer.""","Содержит 5 кувшинов кофе «Мокка Туманного Предела» и 1 метаболический праймер".""
 "Contains 5000 Karma.,
 <c=@flavor>Thank you for all of your support over the years!</c>","Содержит 5000 кармы.,
 <c=@flavor>Спасибо за вашу поддержку на протяжении многих лет!</c>"
 Contains Pieces of Rare Unidentified Gear and a chest to pick your choice of items.,"Содержит части редкого неопознанного снаряжения и сундук, из которого можно выбрать предметы."
 "Contains WvW Tournament Claim Tickets.,
 Double-click to open.","Содержит билеты турнира Мир-Мир.,
-Дважды щёлкните, чтобы открыть."
+Дважды щёлкните, чтобы открыть".
 "Contains a Bloody Prince outfit, which is usable in combat
 Outfits are full sets of clothing that hide other armor. This will not change individual armor pieces, and you will still receive your current armor stats.","Содержит наряд Кровавого принца, который можно использовать в бою.
 Наряды — это полные комплекты одежды, скрывающие другую броню. Это не изменит отдельные части брони, и вы по-прежнему будете получать текущие характеристики брони."
@@ -1295,11 +1295,11 @@ Outfits are full sets of clothing that hide other armor. This will not change in
 Contains every Oracle Card collected.,Содержит все собранные карты Оракула.
 "Contains loot useful in exploring Auric Basin.,'«Содержит добычу, полезную при исследовании Золотой Чаши.'
 Double-click to open.","Содержит добычу, полезную при исследовании Золотой Чаши.
-Дважды щёлкните, чтобы открыть."
+Дважды щёлкните, чтобы открыть".
 Contains loot useful in exploring Verdant Brink.,"Содержит добычу, полезную для исследования Зелёного Уступа."
 "Contains obsidian shards.,
 Double-click to open.","Содержит осколки обсидиана.,
-Дважды щёлкните, чтобы открыть."
+Дважды щёлкните, чтобы открыть".
 "Contains one of 25 random colors reminiscent of the good dragon, Glint. Includes the possibility of six exclusive winter colors created in honor of her struggle against Kralkatorrik.","Содержит один из 25 случайных цветов, напоминающих доброго дракона Глинта. Включает возможность выпадения шести эксклюзивных зимних цветов, созданных в честь её борьбы против Кралькаторрика."
 Contains one random armor dye from a pool of 25 colors that includes 10 exclusive colors.,"Содержит один случайный краситель брони из набора 25 цветов, включающего 10 эксклюзивных цветов."
 Contains one random armor dye from a pool of 25 colors that includes nine exclusive new shades of blue.,"Содержит один случайный краситель брони из набора 25 цветов, включающего девять эксклюзивных новых оттенков синего."
@@ -1307,7 +1307,7 @@ Contains one random armor dye from a pool of 25 colors that includes nine exclus
 <c=#FFC957>All dyes have an equal chance to drop.</c>","Содержит один случайный эксклюзивный редкий предмет
 <c=#FFC957>Все красители имеют равные шансы выпадения.</c>"
 "Contains only one-handed weapons.""",Содержит только одноручное оружие.
-"Contains only two-handed weapons.""","Содержит только двуручное оружие."""
+"Contains only two-handed weapons.""","Содержит только двуручное оружие".""
 "Contains random loot.,Содержит случайную добычу.","Содержит случайную добычу.,Содержит случайную добычу."
 Contains various historical accounts from Shing Jea Island.,Содержит различные исторические записи с острова Шинг Джи.
 Contains various stories from Drizzlewood Coast.,Содержит различные истории с побережья Морось-Лес.
@@ -1403,8 +1403,8 @@ Task Item","Доставить вице-главарю изгоев.,
 Event Item","Незаметно отнесите это агенту Кавусу во время расследования склада рядом с Академией Вехтенди.,
 Предмет события"
 Double-click from inventory to read.,"Дважды щёлкните, чтобы прочитать."
-"Double-click from inventory to read.""","Дважды щёлкните в инвентаре, чтобы прочитать."""
-"Double-click to access your tiger den.""","Дважды щёлкните, чтобы войти в своё логово тигра."""
+"Double-click from inventory to read.""","Дважды щёлкните в инвентаре, чтобы прочитать".""
+"Double-click to access your tiger den.""","Дважды щёлкните, чтобы войти в своё логово тигра".""
 Double-click to acquire the account-bound forms of Ancora.,"Дважды щёлкните, чтобы получить привязанные к учётной записи формы Анкоры."
 "Double-click to activate a single-use firework.,
 Cannot be used in WvW.,Нельзя использовать в WvW.
@@ -1473,8 +1473,8 @@ Double-click to apply this look to any other helmet. This skin will be unlocked 
 "Double-click to apply this look to any other staff. This will also unlock this skin for your wardrobe.,'«Дважды щёлкните, чтобы применить этот облик к любому другому посоху. Это также разблокирует этот скин в вашем гардеробе.'
 <c=@flavor>It is said that this staff was carried by Heleyne, one of the Envoys that served as shepherds of souls into the Mists.</c>","Дважды щёлкните, чтобы применить этот облик к любому другому посоху. Это также разблокирует этот облик в вашем гардеробе.
 <c=@flavor>Говорят, что этот посох носила Хелейн, одна из Посланников, служивших пастырями душ в Туман.</c>"
-"Double-click to apply to a piece of armor.""","Дважды щёлкните, чтобы применить к элементу брони."""
-"Double-click to apply to a weapon.""","Дважды щёлкните, чтобы применить к оружию."""
+"Double-click to apply to a piece of armor.""","Дважды щёлкните, чтобы применить к элементу брони".""
+"Double-click to apply to a weapon.""","Дважды щёлкните, чтобы применить к оружию".""
 "Double-click to apply to an accessory, amulet
 Double-click to apply to an item with an unused upgrade slot.,'Дважды щелкните, чтобы применить к предмету с неиспользуемым слотом улучшения.'
 Double-click to apply to an unused aquatic headgear infusion slot.,'Дважды щелкните, чтобы применить к неиспользуемому слоту инфузии для подводного головного убора.'
@@ -1577,7 +1577,7 @@ Double-click to feed this tasty treat to your roller beetle.,"Дважды щё�
 "Double-click to feed to your Pet Sprout.,
 <c=@flavor>Soaked in water from the Font of Rhand.</c>","Дважды щёлкните, чтобы накормить вашего питомца-росток.,
 <c=@flavor>Пропитано водой из Источника Ранда.</c>"
-"Double-click to gain 50 luck.""","Дважды щёлкните, чтобы получить 50 удачи."""
+"Double-click to gain 50 luck.""","Дважды щёлкните, чтобы получить 50 удачи".""
 "Double-click to gain Obsidian Shards, a Machete
 Double-click to gain Silky Sand and loot.,'Дважды щелкните, чтобы получить Шелковистый песок и добычу.'
 Double-click to gain a Bombardment Target Marker.,'Дважды щелкните, чтобы получить Маркер цели бомбардировки.'
@@ -1599,7 +1599,7 @@ Double-click to gain a Sylvari Seed Pod.","Дважды щёлкните, что
 "Double-click to gain a Turret.,
 '<c=@flavor>""It''s amazing the wonders that hide inside the hard shell of a seed.""
 —Qoetl</c>'","Дважды щёлкните, чтобы получить турель.,
-'<c=@flavor>""Удивительно, какие чудеса скрываются внутри твёрдой скорлупы семени.""
+'<c=@flavor>""Удивительно, какие чудеса скрываются внутри твёрдой скорлупы семени"".
 —Кветль</c>'"
 "Double-click to gain a Vigil bomb.,
 <c=@flavor>""We need big explosions to keep the undead at bay. This should have enough yield.""
@@ -1667,11 +1667,11 @@ Double-click to gain one random color. Includes six exclusive bloodstone colors.
 Double-click to gain one random metal-themed color. Includes six exclusive colors.,"Дважды щёлкните, чтобы получить один случайный цвет на металлическую тематику. Включает шесть эксклюзивных цветов."
 Double-click to gain one random toxic-inspired color. Includes a chance at 1 of 6 exclusive colors.,"Дважды щёлкните, чтобы получить один случайный цвет в токсичном стиле. Включает шанс получить 1 из 6 эксклюзивных цветов."
 Double-click to gain one random vibrant color. Includes a chance at 1 of 6 exclusive colors.,"Дважды щёлкните, чтобы получить один случайный яркий цвет. Включает шанс получить 1 из 6 эксклюзивных цветов."
-"Double-click to get a reading.""","Дважды щёлкните, чтобы получить показания."""
+"Double-click to get a reading.""","Дважды щёлкните, чтобы получить показания".""
 Double-click to locate a memorial site.,"Дважды щёлкните, чтобы найти мемориальное место."
 Double-click to locate a nearby Mordrem researcher.,"Дважды щёлкните, чтобы найти ближайшего исследователя Мордрем."
 Double-click to locate.,"Дважды щёлкните, чтобы найти на карте."
-"Double-click to locate.""","Дважды щёлкните, чтобы найти."""
+"Double-click to locate.""","Дважды щёлкните, чтобы найти".""
 "Double-click to open. ,
 Contains a Legendary Insight, a boss token used to obtain guild or homestead decorations
 Double-click to open. <c=@flavor>Finders keepers!</c>,'Дважды щелкните, чтобы открыть. <c=@flavor>Кто нашел, того и вещь!</c>'
@@ -1698,7 +1698,7 @@ Double-click to open. Right-click to preview.","Дважды щёлкните, �
 "Double-click to open. Right-click to preview.,
 Contains highly sought-after prizes.","Дважды щёлкните, чтобы открыть. Щёлкните правой кнопкой мыши для предварительного просмотра.,
 Содержит очень востребованные призы."
-"Double-click to open.""","Дважды щёлкните, чтобы открыть."""
+"Double-click to open.""","Дважды щёлкните, чтобы открыть".""
 "Double-click to open.,
 'Choose an account-bound Alliance Field Operative''s Boots.'","Дважды щёлкните, чтобы открыть.,
 'Выберите привязанные к учётной записи сапоги полевого оперативника Альянса.'"
