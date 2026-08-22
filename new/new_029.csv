@@ -184,7 +184,7 @@ Track down the Aspect Masters.,Разыщите мастеров аспекто�
 Track down the Dengatl thieves.,Разыщите воров из племени Денгатль.
 Track down the magical object detected by the VOED.,"Разыщите магический объект, обнаруженный ВОЭД."
 "Track the soldier, last seen heading northeast.","Идите по следу солдата, которого последний раз видели идущим на северо-восток."
-Tracked %num1%/%num2% Mushroom King[s] in the Lower Canopy,Выслежено %num1%/%num2% грибных королей в Нижнем ярусе
+Tracked %num1%/%num2% Mushroom King[s] in the Lower Canopy,Выслежено %num1%/%num2% [грибного короля|грибных короля|грибных королей] в Нижнем ярусе
 Tracked %num1%/%num2% Titan Stench,Выслежено %num1%/%num2% титаньего смрада
 Tracked %num2% titan stench in Mount Balrior Convergences.,Выследите %num2% источников титаньего смрада в Схождениях на горе Балриор.
 Tracked the Inquest's Trail in the Allotted Time,След Инквеста прослежен в отведённое время
@@ -197,8 +197,8 @@ Trades Rift Essence for Useful Items,Меняет эссенцию разлом�
 "Trahearne has suggested that Malyck speak with Amaranda, a scholar of the Dream. Perhaps if Malyck can remember his Dream, he can explain how he became separated from the Pale Tree.","Трихерн предложил, чтобы Малик поговорил с Амарандой, знатоком Грёзы. Возможно, если Малик вспомнит свою Грёзу, он сможет объяснить, как оказался оторван от Бледного Древа."
 Trailing Terror,Крадущийся ужас
 Train all you want. It'll never really prepare you for war.,Тренируйся сколько угодно. По-настоящему к войне это не подготовит.
-Trained %num1%/%num2% Crafting Discipline[s],Освоено %num1%/%num2% ремесленных дисциплин
-Trained %num1%/%num2% Skill[s],Изучено %num1%/%num2% умений
+Trained %num1%/%num2% Crafting Discipline[s],Освоено %num1%/%num2% [ремесленную дисциплину|ремесленные дисциплины|ремесленных дисциплин]
+Trained %num1%/%num2% Skill[s],Изучено %num1%/%num2% [умение|умения|умений]
 Trained Devourer,Обученный пожиратель
 Trained Pet,Обученный питомец
 Trained Shark,Обученная акула
@@ -222,7 +222,7 @@ Transcended Swiftwing,Вознесённый быстрокрыл
 Transcended Ward,Вознесённый оберег
 Transcended Wavehawk,Вознесённый волноястреб
 Transcriber Received,Транскриптор получен
-Transfer power to %num2% jade lantern[s] at points of interest in the Echovald Wilds. These lanterns will only appear after 100%% map exploration.,Передайте энергию %num2% нефритовым фонарям в достопримечательностях Дебрей Эховальд. Эти фонари появятся только после 100%% исследования карты.
+Transfer power to %num2% jade lantern[s] at points of interest in the Echovald Wilds. These lanterns will only appear after 100%% map exploration.,Передайте энергию %num2% [нефритовому фонарю|нефритовым фонарям|нефритовым фонарям] в достопримечательностях Дебрей Эховальд. Эти фонари появятся только после 100%% исследования карты.
 Transfer power to %num2% jade lanterns at points of interest in Dragon's End. These lanterns will only appear after 100%% map exploration.,Передайте энергию %num2% нефритовым фонарям в достопримечательностях Драконьего Предела. Эти фонари появятся только после 100%% исследования карты.
 Transfer power to %num2% jade lanterns at points of interest in New Kaineng City. These lanterns will only appear after 100%% map exploration.,Передайте энергию %num2% нефритовым фонарям в достопримечательностях Нового Кайненга. Эти фонари появятся только после 100%% исследования карты.
 Transfer power to %num2% jade lanterns at points of interest in Seitung Province. These lanterns will only appear after 100%% map exploration.,Передайте энергию %num2% нефритовым фонарям в достопримечательностях Провинции Сейтун. Эти фонари появятся только после 100%% исследования карты.
@@ -237,7 +237,7 @@ Transformed into an Avatar of Melandru,Превращён в аватара Ме
 Transforms • Enhances Self • Protection,Превращается • Усиливает себя • Протекция
 Translucent oozes,Полупрозрачные слизни
 Transmute %num2% items.,Преобразите %num2% предметов.
-Transmuted %num1%/%num2% Skin[s],Преображено %num1%/%num2% обликов
+Transmuted %num1%/%num2% Skin[s],Преображено %num1%/%num2% [облик|облика|обликов]
 Trap Remote,Пульт ловушки
 Trapped Crash Survivor,Запертый выживший после крушения
 Trapped Saurians without Using Excess Bait,Завры пойманы без лишней приманки
@@ -268,8 +268,8 @@ Tree Sap and Research Notes,Древесный сок и записи иссле
 Tree Tender Arlene,Смотрительница деревьев Арлин
 Trenur,Тренур
 Tresse,Тресс
-Tri-Key Chest Opened %num1%/%num2% Time[s],Сундук с тремя ключами открыт %num1%/%num2% раз
-Tri-Key Chest Opened %num1%/%num2% Times,Сундук с тремя ключами открыт %num1%/%num2% раз
+Tri-Key Chest Opened %num1%/%num2% Time[s],Сундук с тремя ключами открыт %num1%/%num2% [раз|раза|раз]
+Tri-Key Chest Opened %num1%/%num2% Times,Сундук с тремя ключами открыт %num1%/%num2% [раз|раза|раз]
 Tribe!,Племя!
 Tribune Fierhan Sparwind,Трибун Фирхан Копьеветр
 Trick the Dengatl tribe.,Обманите племя Денгатль.
@@ -410,9 +410,9 @@ Unlock %num2% Azure Dragon Slayer weapon skins in your wardrobe.,Разблок�
 Unlock %num2% Bounty Hunter's skins in your wardrobe by crafting or using the Trading Post. Recipes can be found by completing bounties or purchased from Elisa the Traveling Researcher in the Crystal Desert.,"Разблокируйте %num2% обликов охотника за головами в своём гардеробе, изготовив их или купив на торговом посту. Рецепты можно получить, выполняя заказы на головы, или купить у странствующей исследовательницы Элизы в Кристальной пустыне."
 Unlock %num2% Crimson Dragon Slayer weapon skins in your wardrobe.,Разблокируйте %num2% обликов багрового оружия убийцы драконов в своём гардеробе.
 Unlock %num2% Dragon Slayer weapon skins in your wardrobe.,Разблокируйте %num2% обликов оружия убийцы драконов в своём гардеробе.
-Unlock %num2% Fiery Dragon Slayer weapon skin[s] in your wardrobe.,Разблокируйте %num2% обликов огненного оружия убийцы драконов в своём гардеробе.
+Unlock %num2% Fiery Dragon Slayer weapon skin[s] in your wardrobe.,Разблокируйте %num2% [облик огненного оружия убийцы драконов|облика огненного оружия убийцы драконов|обликов огненного оружия убийцы драконов] в своём гардеробе.
 Unlock %num2% Funerary Armor Skins by purchasing them from the Primeval Steward in the Tomb of Primeval Kings after completing the appropriate collections.,"Разблокируйте %num2% обликов погребальной брони, купив их у Первобытного стюарда в Гробнице первобытных королей после завершения соответствующих коллекций."
-Unlock %num2% Icy Dragon Slayer weapon skin[s] in your wardrobe.,Разблокируйте %num2% обликов ледяного оружия убийцы драконов в своём гардеробе.
+Unlock %num2% Icy Dragon Slayer weapon skin[s] in your wardrobe.,Разблокируйте %num2% [облик ледяного оружия убийцы драконов|облика ледяного оружия убийцы драконов|обликов ледяного оружия убийцы драконов] в своём гардеробе.
 Unlock %num2% Mordant skins in your wardrobe by crafting or using the Trading Post. Recipes can be purchased from renown vendors in the Crystal Desert after unlocking Awakened weapon skins.,"Разблокируйте %num2% обликов Едкого Полумесяца в своём гардеробе, изготовив их или купив на торговом посту. Рецепты можно купить у торговцев сердец почёта в Кристальной пустыне после разблокировки обликов оружия Пробуждённых."
 Unlock %num2% Requiem armor pieces by crafting and completing collections.,"Разблокируйте %num2% предметов брони «Реквием», изготавливая их и завершая коллекции."
 Unlock %num2% Warbeast skins in your wardrobe by crafting or using the Trading Post. Recipes can be found from Forged foes or from chests in the Crystal Desert.,"Разблокируйте %num2% обликов «Боевой зверь» в своём гардеробе, изготовив их или купив на торговом посту. Рецепты выпадают с врагов-Кованых или из сундуков в Кристальной пустыне."

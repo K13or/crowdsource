@@ -315,16 +315,16 @@ Playback Mode,Режим воспроизведения
 "Played %num1%/%num2% Ranked Match[pl:""Matches""] during 2v2 Season Five",Сыграно %num1%/%num2% рейтинговых матч[а|ей|ей] в пятом сезоне 2×2
 "Played %num1%/%num2% Ranked Match[pl:""Matches""] during 2v2 Season Seven",Сыграно %num1%/%num2% рейтинговых матч[а|ей|ей] в седьмом сезоне 2×2
 "Played %num1%/%num2% Ranked Match[pl:""Matches""] during 2v2 Season Ten",Сыграно %num1%/%num2% рейтинговых матч[а|ей|ей] в десятом сезоне 2×2
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Forty",Сыграно %num1%/%num2% рейтинговых матчей в течение Сорок Сезона Завоеваний
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Forty",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в течение Сорок Сезона Завоеваний
 "Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Forty-Four",Сыграно %num1%/%num2% рейтинговых матч[а|ей|ей] в сорок четвёртом сезоне завоевания
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Forty-One",Сыграно %num1%/%num2% рейтинговых матч во время Сезона Завоеваний Сорок Первый.
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Forty-One",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] во время Сезона Завоеваний Сорок Первый.
 "Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Forty-Two",Сыграно %num1%/%num2% рейтинговых матч[а|ей|ей] в Forty-Two сезоне завоевания
 "Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Eight",Сыграно %num1%/%num2% рейтинговых матч[а|ей|ей] в тридцать восьмом сезоне завоевания
 "Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Five",Сыграно %num1%/%num2% рейтинговых матч[а|ей|ей] в тридцать пятом сезоне завоевания
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Nine",Сыграно %num1%/%num2% рейтинговых матчей в рамках Состязательного сезона тридцать девятого
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Nine",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в рамках Состязательного сезона тридцать девятого
 "Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-One",Сыграно %num1%/%num2% рейтинговых матч[а|ей|ей] в Thirty-One сезоне завоевания
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Seven",Сыграно %num1%/%num2% рейтинговых матчей в сезоне Завоеваний тридцать Семь
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Six",Сыграли %num1%/%num2% рейтинговых матч в течение Сезона Завоеваний тридцать Шесть.
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Seven",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в сезоне Завоеваний тридцать Семь
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Six",Сыграли %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в течение Сезона Завоеваний тридцать Шесть.
 Played %num1%/%num2% Ranked Matches during 3v3 Season Eight,Сыграно %num1%/%num2% рейтинговых матчей во время Восьмого сезона 3×3
 Played %num1%/%num2% Ranked Matches during 3v3 Season Five,Сыграно %num1%/%num2% рейтинговых матчей в 5-м сезоне «3 на 3»
 Played %num1%/%num2% Ranked Matches during 3v3 Season Four,Сыграно %num1%/%num2% рейтинговых матчей в 4-м сезоне «3×3»

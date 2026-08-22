@@ -117,7 +117,7 @@ Revive Webb Daukins.,Воскресите Уэбба Докинса.
 Revive Yerkk.,Воскресите Йерка.
 Revive the Pact submarine team.,Воскресите команду подводной лодки Пакта.
 Revive the supply bull.,Воскресите быка снабжения.
-"Revived %num1%/%num2% Ally[pl:""Allies""]",Воскрешено %num1%/%num2% союзников
+"Revived %num1%/%num2% Ally[pl:""Allies""]",Воскрешено %num1%/%num2% [союзника|союзника|союзников]
 Revived %num1%/%num2% Guards,Воскрешено %num1%/%num2% стражников
 Revived the Five Ordnance Masters on the Way to the Prison Camp,Пятеро артиллерийских мастеров воскрешены по пути к лагерю для пленных
 Revives allies or finishes off foes on your behalf.,Воскрешает союзников или добивает врагов от вашего имени.
@@ -255,9 +255,9 @@ Saartje,Саартье
 Sabinus Cointooth,Сабинус Монетозуб
 Sabotage Strike,Диверсионный удар
 Sabotaged the Jade Brotherhood to Acquire Intel on Ankka,Устроена диверсия против Нефритового братства ради сведений об Анкке
-Sabotaged the Jade Brotherhood's Efforts %num1%/%num2% Time[s],Сорваны планы Нефритового братства %num1%/%num2% раз
+Sabotaged the Jade Brotherhood's Efforts %num1%/%num2% Time[s],Сорваны планы Нефритового братства %num1%/%num2% [раз|раза|раз]
 Sabotaged the Speakers to Acquire Intel on Ankka,Устроена диверсия против Глашатаев ради сведений об Анкке
-Sabotaged the Speakers' Operations %num1%/%num2% Time[s],Сорваны операции Глашатаев %num1%/%num2% раз
+Sabotaged the Speakers' Operations %num1%/%num2% Time[s],Сорваны операции Глашатаев %num1%/%num2% [раз|раза|раз]
 Sack[s] of Booty,Мешоч[ек добычи|ки добычи|ков добычи]
 Sack[s] of Skritt Shinies,Мешоч[ек блестяшек скриттов|ки блестяшек скриттов|ков блестяшек скриттов]
 Sack[s] of Supplies,Мешоч[ек припасов|ки припасов|ков припасов]
@@ -289,7 +289,7 @@ Saluted Members of the Astral Ward,Отдана честь членам Астр
 Salvage %num2% items.,Переработайте %num2% предметов.
 Salvage Specialist,Специалист по переработке
 Salvage weapon parts from the wrecking yard.,Извлеките детали оружия со свалки.
-Salvaged %num1%/%num2% Item[s],Разобрано %num1%/%num2% предметов
+Salvaged %num1%/%num2% Item[s],Разобрано %num1%/%num2% [предмет|предмета|предметов]
 Salvation Pass Achievement,Достижение «Перевал Спасения»
 "Sample 35: Crystal, 5 units long, 6 units wide, 2 units deep. Volume = WARNING: Volume calculation unconfirmed. Manual input required.","Образец 35: кристалл, 5 единиц длиной, 6 единиц шириной, 2 единицы глубиной. Объём = ВНИМАНИЕ: расчёт объёма не подтверждён. Требуется ручной ввод."
 Sample of Inquest Magitech,Образец магитеха Инквеста

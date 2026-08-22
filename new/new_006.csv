@@ -1,7 +1,7 @@
 english,translate
 Caught the Beast in Record Time,Зверь пойман за рекордное время
 Caught the Beast of the Valley Five Times,Зверь Долины пойман пять раз
-Cause %num2% fumble[s] in keg brawls.,Вызовите %num2% промахов в бочковых потасовках.
+Cause %num2% fumble[s] in keg brawls.,Вызовите %num2% [промах|промаха|промахов] в бочковых потасовках.
 Cause an explosion fueled by the death of a foe.,"Вызывает взрыв, питаемый гибелью врага."
 Cause burning every few attacks.,Накладывает горение каждые несколько атак.
 Cause weakness to the target area.,Накладывает слабость в целевой области.
@@ -191,7 +191,7 @@ Circle around!,Заходи в обход!
 Cita Commandheart,Сита Командосердце
 Citadel of Zakiros: Hero's Choice Chest[s],Цитадель Закирос: сундук[|а|ов] выбора героя
 Citizen.,Гражданин.
-Claimed %num1%/%num2% Wizard's Vault Daily Meta Reward[s],Получено %num1%/%num2% ежедневных мета-наград Хранилища Волшебника
+Claimed %num1%/%num2% Wizard's Vault Daily Meta Reward[s],Получено %num1%/%num2% [ежедневную мета-награду Хранилища Волшебника|ежедневные мета-награды Хранилища Волшебника|ежедневных мета-наград Хранилища Волшебника]
 Claimed Knut Whitebear's Seat,Место Кнута Белого Медведя занято
 Clara Otterly,Клара Оттерли
 Claw of Nayos,Коготь Найоса
@@ -243,7 +243,7 @@ Clones Itself • Destroys Tiles • Teleports,Клонирует себя • �
 "Close those rifts, quickly!","Закрывай эти разломы, живо!"
 Close to dying.,На грани смерти.
 Close-range radius,Радиус ближнего боя
-Closed %num1%/%num2% Portal[s] in under 10 Minutes,Закрыто %num1%/%num2% порталов менее чем за 10 минут
+Closed %num1%/%num2% Portal[s] in under 10 Minutes,Закрыто %num1%/%num2% [портал менее чем|портала менее чем|порталов менее чем] за 10 минут
 Closed %num1%/%num2% Rifts,Закрыто %num1%/%num2% разломов
 Closed %num1%/%num2% Tentacle Rifts,Закрыто %num1%/%num2% разломов со щупальцами
 Closing the gap!,Сокращаю дистанцию!
@@ -324,8 +324,8 @@ Collect %num2% songs from the Path of Fire soundtrack.,Соберите %num2% �
 Collect %num2% songs from the Secrets of the Obscure soundtrack.,Соберите %num2% композиций из саундтрека Secrets of the Obscure.
 Collect %num2% songs from the Super Adventure Box soundtrack.,Соберите %num2% композиций из саундтрека Super Adventure Box.
 Collect %num2% toxic spore samples.,Соберите %num2% образцов токсичных спор.
-Collect %num2% unique legendary Obsidian armor skin[s].,Соберите %num2% уникальных обликов легендарной обсидиановой брони.
-Collect %num2% unique legendary Suffused Obsidian armor skin[s].,Соберите %num2% уникальных обликов легендарной насыщенной обсидиановой брони.
+Collect %num2% unique legendary Obsidian armor skin[s].,Соберите %num2% [уникальный облик легендарной обсидиановой брони|уникальных облика легендарной обсидиановой брони|уникальных обликов легендарной обсидиановой брони].
+Collect %num2% unique legendary Suffused Obsidian armor skin[s].,Соберите %num2% [уникальный облик легендарной насыщенной обсидиановой брони|уникальных облика легендарной насыщенной обсидиановой брони|уникальных обликов легендарной насыщенной обсидиановой брони].
 Collect 10 orbs around the area to gain the ability to teleport and complete the puzzle.,"Соберите 10 сфер по округе, чтобы получить способность телепортироваться и пройти головоломку."
 Collect 4 Relics from Visions of Eternity Set 1,Соберите 4 реликвии из набора 1 Visions of Eternity
 Collect 4 relics from Visions of Eternity Relic Set 3.,Соберите 4 реликвии из набора реликвий 3 Visions of Eternity.
@@ -426,7 +426,7 @@ Collected %num1%/%num2% Ancient Boreal Weapons,Собрано %num1%/%num2% др
 Collected %num1%/%num2% Artifacts,Собрано %num1%/%num2% артефактов
 Collected %num1%/%num2% Balthazar Pages,Собрано %num1%/%num2% страниц Бальтазара
 Collected %num1%/%num2% Book Pages,Собрано %num1%/%num2% книжных страниц
-"Collected %num1%/%num2% Branded Mass[pl:""Masses""]",Собрано %num1%/%num2% клеймёных масс
+"Collected %num1%/%num2% Branded Mass[pl:""Masses""]",Собрано %num1%/%num2% [клеймёную массу|клеймёные массы|клеймёных масс]
 Collected %num1%/%num2% Calibrated Essence,Собрано %num1%/%num2% калиброванной эссенции
 Collected %num1%/%num2% Campaign Medals,Собрано %num1%/%num2% медалей кампании
 Collected %num1%/%num2% Charr Salvage,Собрано %num1%/%num2% утиля чарров
@@ -469,9 +469,9 @@ Collected %num1%/%num2% Misty Cape Scraps,Собрано %num1%/%num2% обры�
 Collected %num1%/%num2% Notebook Pages,Собрано %num1%/%num2% страниц блокнота
 Collected %num1%/%num2% Ornaments,Собрано %num1%/%num2% украшений
 Collected %num1%/%num2% Pieces of Meat,Собрано %num1%/%num2% кусков мяса
-Collected %num1%/%num2% Recipe[s],Собрано %num1%/%num2% рецептов
-Collected %num1%/%num2% Recipes,Собрано %num1%/%num2% рецептов
-Collected %num1%/%num2% Relic[s],Собрано %num1%/%num2% реликвий
+Collected %num1%/%num2% Recipe[s],Собрано %num1%/%num2% [рецепт|рецепта|рецептов]
+Collected %num1%/%num2% Recipes,Собрано %num1%/%num2% [рецепт|рецепта|рецептов]
+Collected %num1%/%num2% Relic[s],Собрано %num1%/%num2% [реликвию|реликвии|реликвий]
 Collected %num1%/%num2% Report Pages,Собрано %num1%/%num2% страниц отчёта
 Collected %num1%/%num2% Restored Boreal Weapons,Собрано %num1%/%num2% восстановленных бореальных орудий
 Collected %num1%/%num2% Samples of Branded Crystal,Собрано %num1%/%num2% образцов клеймёного кристалла
@@ -481,7 +481,7 @@ Collected %num1%/%num2% Skins,Собрано %num1%/%num2% обликов
 Collected %num1%/%num2% Spoons,Собрано %num1%/%num2% ложек
 Collected %num1%/%num2% Statuettes,Собрано %num1%/%num2% статуэток
 Collected %num1%/%num2% Sunspear Medals,Собрано %num1%/%num2% медалей Солнечных Копий
-Collected %num1%/%num2% Sunspear Relics,Собрано %num1%/%num2% реликвий Солнечных Копий
+Collected %num1%/%num2% Sunspear Relics,Собрано %num1%/%num2% [реликвию|реликвии|реликвий] Солнечных Копий
 Collected %num1%/%num2% Supply Drops for Ranoah,Собрано %num1%/%num2% грузов припасов для Раноа
 Collected %num1%/%num2% Treasures,Собрано %num1%/%num2% сокровищ
 Collected %num1%/%num2% Volatile Magic,Собрано %num1%/%num2% летучей магии

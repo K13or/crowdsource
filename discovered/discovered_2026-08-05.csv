@@ -413,12 +413,12 @@ Defeated the Claw of Jormag,Победили Коготь Йормаги
 <c=@reminder>Навыки можно изучать на вкладке «Обучение» панели героя, тратя очки героя. </c>"
 "View %num1%/%num2% vista[s] in Snowden Drifts, Diessa Plateau, Brisban Wildlands, or Kessex Hills.
 
-<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотрите %num1%/%num2% виды в Сноуденских пустошах, на плато Диесса, в Брисбанских диких землях или в Кессекских холмах.
+<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотрите %num1%/%num2% [вид|вида|видов] в Сноуденских пустошах, на плато Диесса, в Брисбанских диких землях или в Кессекских холмах.
 
 <c=@reminder>Виды — это живописные места, с которых открывается новый вид на мир. На карте они отмечены красным треугольником.</c>"
 "View %num1%/%num2% vista[s] in Ruins of Orr or Frostgorge Sound.
 
-<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотрите %num1%/%num2% панорамы в Руинах Орра или Фростгорж-Саунде.
+<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотрите %num1%/%num2% [панораму|панорамы|панорам] в Руинах Орра или Фростгорж-Саунде.
 
 <c=@reminder>Панорамы — это живописные места, откуда открывается новый вид на мир; они отмечены красным треугольным значком на карте.</c>"
 "Mastery of tengu wind magic allows you to conjure the Cyclone Bow at will. Using arrow-consuming skills grants Wind Force. After you reach the Wind Force threshold, you are able to use Hawkeye. Gain access to <c=@abilitytype>Squalls</c>.<br><c=@reminder>Using Cyclone Bow skills consumes arrows. You generate arrows every interval.</c>","Благодаря мастерству владения магией ветра тэнгу вы можете по своему желанию создавать Циклонный лук. Использование навыков, потребляющих стрелы, даёт эффект «Сила ветра». Достигнув определенного уровня эффекта «Сила ветра», вы сможете использовать умение «Ястребиный глаз». Получите доступ к <c=@abilitytype>Вихрям</c>.<br><c=@reminder>Использование навыков Циклонного лука потребляет стрелы. Стрелы восстанавливаются через определенные промежутки времени.</c>"
@@ -516,7 +516,7 @@ This achievement can be reset by purchasing Recollection of Bearkin's Adversarie
 
 Это достижение можно сбросить, приобретя «Воспоминания о врагах Медведя», чтобы получить дополнительные копии награды."
 "Collect %num2% calibrated essence[s] in Mount Balrior Convergences. 
-(Gain less progress when collecting essence as a wisp.)","Соберите %num2% откалиброванные эссенции в схождениях горы Бальриор. 
+(Gain less progress when collecting essence as a wisp.)","Соберите %num2% [откалиброванную эссенцию|откалиброванные эссенции|откалиброванных эссенций] в схождениях горы Бальриор. 
 (Получаете меньше прогресса при сборе эссенции в виде духа.)"
 "Grant boons to nearby allies when you successfully combo a field with a blast, leap, or whirl finisher. Your function gyro is now a blast finisher.<br><c=@reminder>Whirl finishers can only trigger this trait once per interval.</c>","Наносите благословения ближайшим союзникам при успешном завершении серии ударов взрывным, прыжком или вихревым приёмом. Теперь ваш функциональный гироскоп является взрывным приёмом.<br><c=@reminder>Вихревые приёмы могут активировать эту черту только один раз за интервал.</c>"
 "Gain protection when you are disabled.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.","Получайте эффект «Протекция», когда вы обездвижены. <br><c=@reminder>Обездвиживание включает в себя оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подъём, отталкивание, насмешку и страх."
@@ -693,12 +693,12 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 "When you interrupt a foe, recharge one of your equipped-weapon skills at random.<br><c=@reminder>Only affects weapon skills that are recharging.</c>","Когда вы прерываете атаку противника, одна из выбранных вами боевых навыков перезаряжается случайным образом.<br><c=@reminder>Влияет только на те навыки оружия, которые находятся в процессе перезарядки.</c>"
 "Complete %num2% renown heart[s] in Frostgorge Sound.
 
-<c=@reminder>Renown hearts are marked with a golden heart icon on the map. Every renown heart is different, so check your HUD when nearby to find out how you can assist.</c>","Выполните %num2% задания на повышение репутации в Фростгорж-Саунд.
+<c=@reminder>Renown hearts are marked with a golden heart icon on the map. Every renown heart is different, so check your HUD when nearby to find out how you can assist.</c>","Выполните %num2% [задание|задания|заданий] на повышение репутации в Фростгорж-Саунд.
 
 <c=@reminder>Задания на повышение репутации отмечены на карте золотым значком сердца. Каждое задание уникально, поэтому, когда вы окажетесь рядом, проверьте интерфейс, чтобы узнать, чем вы можете помочь.</c>"
 "Dodge %num2% incoming attack[s] from enemies.
 
-<c=@reminder>Dodging allows you to evade incoming attacks by spending endurance to roll out of danger, making you temporarily invulnerable. ""Evaded!"" will appear over your character when you successfully dodge an attack.</c>","Уклоняйтесь от %num2% атак противников.
+<c=@reminder>Dodging allows you to evade incoming attacks by spending endurance to roll out of danger, making you temporarily invulnerable. ""Evaded!"" will appear over your character when you successfully dodge an attack.</c>","Уклоняйтесь от %num2% [атаку противников|атаки противников|атак противников].
 
 Уклонение позволяет избежать входящих атак, потратив выносливость на кувырок в сторону и временно становясь неуязвимым. Над вашим персонажем появится надпись «Уклонено!», если вам удалось успешно уклониться от атаки. <c=@reminder></c>"
 "Activate your profession mechanic skills %num2% times.
@@ -708,7 +708,7 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Навыки профессии отображаются над вашими боевыми навыками и обладают уникальными эффектами в зависимости от выбранной вами профессии.</c>"
 "Gather %num2% material[s] from resource nodes.
 
-<c=@reminder>Resource nodes are clumps of ore, saplings, and plants that can be gathered using gathering tools. Nodes can be found by exploring the world.</c>","Собирайте %num2% материалы с ресурсных точек.
+<c=@reminder>Resource nodes are clumps of ore, saplings, and plants that can be gathered using gathering tools. Nodes can be found by exploring the world.</c>","Собирайте %num2% [материал|материала|материалов] с ресурсных точек.
 
 <c=@reminder>Ресурсные точки — это скопления руды, саженцев и растений, которые можно добывать с помощью инструментов для сбора ресурсов. Точки можно найти, исследуя мир.</c>"
 "Earn experience to level up this character to level 10.
@@ -728,17 +728,17 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder> Разведчики отображаются на вашей карте значком подзорной трубы. Они могут указать вам ближайшие цели и достопримечательности, если вы с ними поговорите.</c>"
 "Use your utility skills %num2% time[s].
 
-<c=@reminder>Utility skills are unlocked from the training menu in the Hero panel after reaching level 11 by spending Hero points, and they are equipped to the three utility slots on the right side of the skill bar. </c>","Используйте свои вспомогательные умения %num2% раз(а).
+<c=@reminder>Utility skills are unlocked from the training menu in the Hero panel after reaching level 11 by spending Hero points, and they are equipped to the three utility slots on the right side of the skill bar. </c>","Используйте свои вспомогательные умения %num2% [раз|раза|раз].
 
 <c=@reminder>Вспомогательные умения открываются в меню обучения на панели героя после достижения 11-го уровня, за что нужно потратить очки героя. Они экипируются в три слота для вспомогательных умений справа от панели навыков. </c>"
 "Use the weapon-swap button to switch your active weapon %num2% time[s].
 
-<c=@reminder>Weapon swap allows you to change between your equipped weapons to access different skills. This mechanic is unlocked at level 10.</c>","Используйте кнопку смены оружия, чтобы переключить активное оружие %num2% раз(а).
+<c=@reminder>Weapon swap allows you to change between your equipped weapons to access different skills. This mechanic is unlocked at level 10.</c>","Используйте кнопку смены оружия, чтобы переключить активное оружие %num2% [раз|раза|раз].
 
 <c=@reminder>Смена оружия позволяет вам переключаться между экипированным оружием для доступа к различным навыкам. Эта механика открывается на 10-м уровне.</c>"
 "Use %num2% consumable food item[s] to obtain nourishment bonuses.
 
-<c=@reminder>Food consumables boost attributes when eaten. Hover your mouse over a consumable to see what it does.</c>","Используйте %num2% съедобные продукты, чтобы получить бонусы к характеристикам.
+<c=@reminder>Food consumables boost attributes when eaten. Hover your mouse over a consumable to see what it does.</c>","Используйте %num2% [съедобный продукт|съедобных продукта|съедобных продуктов], чтобы получить бонусы к характеристикам.
 
 <c=@reminder>Употребление пищи даёт временное увеличение атрибутов. Наведите курсор на продукт, чтобы узнать, какие эффекты он оказывает.</c>"
 "Earn experience to level up this character to level 30.
@@ -758,12 +758,12 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Хранилище материалов — это вкладка в вашем личном хранилище, которая позволяет хранить материалы для крафта и легко получать к ним доступ во время создания предметов. Вы можете помещать предметы непосредственно в хранилище материалов из своего инвентаря в любое время.</c>"
 "Consume %num2% utility item[s] to obtain utility enhancements.
 
-<c=@reminder>Utility consumables are items that increase specific combat abilities. Double-click utility consumables to use them.</c>","Используйте %num2% предметы, чтобы получить улучшения характеристик.
+<c=@reminder>Utility consumables are items that increase specific combat abilities. Double-click utility consumables to use them.</c>","Используйте %num2% [предмет|предмета|предметов], чтобы получить улучшения характеристик.
 
 <c=@reminder>Предметы, повышающие характеристики, — это предметы, которые увеличивают определенные боевые способности. Дважды щёлкните по предмету, чтобы использовать его.</c>"
 "Complete %num2% map[s].
 
-<c=@reminder>Map-complete rewards are special bonuses earned by visiting all points of interest, vistas, waypoints, hero challenges, and renown hearts on a map.</c>","Заверши %num2% карты.
+<c=@reminder>Map-complete rewards are special bonuses earned by visiting all points of interest, vistas, waypoints, hero challenges, and renown hearts on a map.</c>","Заверши %num2% [карту|карты|карт].
 
 Награды за завершение <c=@reminder>карты — это особые бонусы, получаемые при посещении всех достопримечательностей, смотровых площадок, порталов героев, испытаний героя и известных сердец на карте.</c>"
 "Deposit %num2% item[s] in your account bank.
@@ -778,7 +778,7 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Мировые боссы — это сложные события, которые происходят в определённое время суток по всей Тирии. Победив их, вы получите сундуки с редким снаряжением и материалами для крафта. </c>"
 "Use %num2% emote[s] to express yourself!
 
-<c=@reminder>Emotes allow your character to show their feelings to the world. Type ""/emotelist"" in your chat for a list of possible emotes.</c>","Используйте %num2% эмоции, чтобы выразить себя!
+<c=@reminder>Emotes allow your character to show their feelings to the world. Type ""/emotelist"" in your chat for a list of possible emotes.</c>","Используйте %num2% [эмоцию|эмоции|эмоций], чтобы выразить себя!
 
 <c=@reminder>Эмоции позволяют вашему персонажу демонстрировать свои чувства окружающим. Введите в чат команду ""/emotelist"", чтобы увидеть список доступных эмоций.</c>"
 "Complete 3 maps.
@@ -788,7 +788,7 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Награды за полное исследование карт — это особые бонусы, которые можно получить, посетив все интересные места, смотровые площадки, точки быстрого перемещения, выполнив испытания и задания на карте.</c>"
 "Participate in %num2% event[s].
 
-<c=@reminder>You can find events while exploring the world. Events are marked by an orange circle on your map when you're nearby.</c>","Участвуй в %num2% событиях.
+<c=@reminder>You can find events while exploring the world. Events are marked by an orange circle on your map when you're nearby.</c>","Участвуй в %num2% [событии|событиях|событиях].
 
 <c=@reminder>События можно найти, исследуя мир. На карте они обозначаются оранжевым кружком, когда вы находитесь поблизости.</c>"
 "Travel using a waypoint.
@@ -818,32 +818,32 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Создавайте предметы, чтобы получать опыт в выбранной профессии и создавать более мощные вещи.</c>"
 "Complete %num2% jumping puzzle[s].
 
-<c=@reminder>Jumping puzzles are discoverable environmental challenges that test your exploration and aerial abilities. Search these puzzles out to learn what secrets they hold!</c>","Выполните %num2% головоломки с прыжками.
+<c=@reminder>Jumping puzzles are discoverable environmental challenges that test your exploration and aerial abilities. Search these puzzles out to learn what secrets they hold!</c>","Выполните %num2% [головоломку|головоломки|головоломок] с прыжками.
 
 <c=@reminder>Головоломки с прыжками — это скрытые испытания, которые проверят ваши навыки исследования и передвижения по воздуху. Найдите эти головоломки, чтобы узнать, какие секреты они хранят!</c>"
 "Use %num2% elite skill[s].
 
-<c=@reminder>Elite skills are powerful abilities assigned to the last slot of your skill bar.</c>","Используйте %num2% элитные умения.
+<c=@reminder>Elite skills are powerful abilities assigned to the last slot of your skill bar.</c>","Используйте %num2% [элитное умение|элитных умения|элитных умений].
 
 <c=@reminder>Элитные умения — это мощные способности, которые назначаются последнему слоту панели умений.</c>"
 "Use a salvage kit to salvage %num2% item[s].
 
-<c=@reminder>Some items you'll find will be salvageable. Use a salvage kit to break them down into crafting materials.</c>","Используйте набор для разборки, чтобы разобрать %num2% предмет/предметов.
+<c=@reminder>Some items you'll find will be salvageable. Use a salvage kit to break them down into crafting materials.</c>","Используйте набор для разборки, чтобы разобрать %num2% [предмет|предмета|предметов].
 
 <c=@reminder>Некоторые предметы можно разобрать на компоненты для крафта. Используйте набор для разборки, чтобы получить из них материалы.</c>"
 "Create %num2% item[s] in the Mystic Forge.
 
-<c=@reminder>The Mystic Forge transforms items in a variety of ways, including raising the tier of crafting materials and upgrading equipment. The forge can be accessed from major cities throughout Tyria.</c>","Создайте %num2% предмет(ы) в Мистической кузнице.
+<c=@reminder>The Mystic Forge transforms items in a variety of ways, including raising the tier of crafting materials and upgrading equipment. The forge can be accessed from major cities throughout Tyria.</c>","Создайте %num2% [предмет|предмета|предметов] в Мистической кузнице.
 
 <c=@reminder>Мистическая кузница преобразует предметы различными способами, включая повышение уровня материалов для крафта и улучшение снаряжения. Кузница доступна из крупных городов по всей Тирии.</c>"
 "Discover %num2% point[s] of interest in Queensdale, Metrica Province, Caledon Forest, Wayfarer Foothills, or the Plains of Ashford.
 
-<c=@reminder>Points of interest are special locations marked by name in the world, indicated by a square icon on the map. </c>","Откройте %num2% интересных мест в Квинсдейле, провинции Метрика, лесу Каледон, Предгорьях Странника или равнинах Эшфорда.
+<c=@reminder>Points of interest are special locations marked by name in the world, indicated by a square icon on the map. </c>","Откройте %num2% [интересное место|интересных места|интересных мест] в Квинсдейле, провинции Метрика, лесу Каледон, Предгорьях Странника или равнинах Эшфорда.
 
 <c=@reminder>Интересные места — это особые локации, отмеченные на карте квадратным значком и выделенные названием. </c>"
 "View %num1%/%num2% vista[s].
 
-<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотр %num1%/%num2% видов.
+<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотр %num1%/%num2% [вид|вида|видов].
 
 <c=@reminder>Виды — это живописные места, с которых открывается новый вид на мир. На карте они отмечены красным треугольным значком.</c>"
 "Loot %num2% defeated enemies.
@@ -853,17 +853,17 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Иногда при поражении враги сбрасывают предметы, о чём свидетельствует золотое мерцание вокруг их тела. Взаимодействуйте с этими врагами, чтобы собрать эти предметы и добавить их в свой инвентарь.</c>"
 "Rally from a downed state %num2% time[s].
 
-<c=@reminder>Rallying allows you to recover from a downed state by defeating a foe that grants experience.</c>","Восстановитесь после падения за %num2% время.
+<c=@reminder>Rallying allows you to recover from a downed state by defeating a foe that grants experience.</c>","Восстановитесь после падения за %num2% [раз|раза|раз].
 
 <c=@reminder>Восстановление позволяет оправиться от состояния падения, победив врага, дающего опыт.</c>"
 "Complete %num2% renown heart[s].
 
-<c=@reminder>Renown hearts are marked with a golden heart icon on the map. Every renown heart is different, so check your HUD when nearby to find out how you can assist.</c>","Выполните %num2% задания для получения очков репутации.
+<c=@reminder>Renown hearts are marked with a golden heart icon on the map. Every renown heart is different, so check your HUD when nearby to find out how you can assist.</c>","Выполните %num2% [задание|задания|заданий] для получения очков репутации.
 
 <c=@reminder>Значки заданий для повышения репутации отмечены на карте золотым сердечком. Каждое задание уникально, поэтому обращайте внимание на подсказки в интерфейсе, когда будете рядом, чтобы узнать, как вы можете помочь.</c>"
 "Use %num2% combo skill[s].
 
-<c=@reminder>Combo skills are performed by using a skill marked as a combo finisher while inside a combo field generated by another ability. Check the tooltips for your weapon and utility skills to find potential combinations!</c>","Используйте %num2% комбо-навыки.
+<c=@reminder>Combo skills are performed by using a skill marked as a combo finisher while inside a combo field generated by another ability. Check the tooltips for your weapon and utility skills to find potential combinations!</c>","Используйте %num2% [комбо-навык|комбо-навыка|комбо-навыков].
 
 <c=@reminder>Комбо-навыки выполняются при использовании навыка, помеченного как завершающий удар комбо, находясь в зоне комбо, созданной другим умением. Проверьте подсказки для вашего оружия и вспомогательных навыков, чтобы найти возможные комбинации!</c>"
 "Train in a crafting discipline from a crafting master.
@@ -883,7 +883,7 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Точки быстрого перемещения позволяют быстро путешествовать по миру. Они открываются после первого посещения. Вы можете телепортироваться к любой открытой точке быстрого перемещения за небольшую плату.</c>"
 "View %num1%/%num2% vista[s] in the Fields of Ruin, Blazeridge Steppes, Lornar's Pass, Dredgehaunt Cliffs, or the Harathi Hinterlands.
 
-<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотрите %num1%/%num2% виды в Полях Руин, Высотницах Блейзерриджа, Проходе Лорнара, Скалах Дреджей или Харатиских Запустениях.
+<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотрите %num1%/%num2% [вид|вида|видов] в Полях Руин, Высотницах Блейзерриджа, Проходе Лорнара, Скалах Дреджей или Харатиских Запустениях.
 
 <c=@reminder>Виды — это живописные места, с которых открывается новый вид на мир. На карте они отмечены красным треугольным значком.</c>"
 "Discover 5 waypoints in in the Fields of Ruin, Blazeridge Steppes, Lornar's Pass, Dredgehaunt Cliffs, or the Harathi Hinterlands.
@@ -903,7 +903,7 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Точки быстрого перемещения позволяют быстро путешествовать по миру. Они открываются после первого посещения. Вы можете телепортироваться к любой открытой точке быстрого перемещения за небольшую плату.</c>"
 "View %num1%/%num2% vista[s] in Sparkfly Fen, Mount Maelstrom, Iron Marches, Fireheart Rise, or Timberline Falls.
 
-<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотрите %num1%/%num2% виды в Топких Болотах, на горе Мальстрём, в Железных Топях, в Огненной Долине или у Тимберлайн-Фоллс.
+<c=@reminder>Vistas are scenic locations that show the world from a new perspective, and they are marked with a red triangle icon on the map.</c>","Осмотрите %num1%/%num2% [вид|вида|видов] в Топких Болотах, на горе Мальстрём, в Железных Топях, в Огненной Долине или у Тимберлайн-Фоллс.
 
 <c=@reminder>Виды — это живописные места, с которых открывается новый вид на мир. На карте они отмечены красным треугольным значком.</c>"
 "Discover 5 points of interest in Sparkfly Fen, Mount Maelstrom, the Iron Marches, the Fireheart Rise, or Timberline Falls.
@@ -913,12 +913,12 @@ Unlock the siege turtle mount, jade bots, skiffs, fishing, nine new elite specia
 <c=@reminder>Интересные места — это особые локации с названиями, которые отображаются на карте квадратным значком. </c>"
 "Enter %num2% World vs. World map[s].
 
-<c=@reminder>Storm castles and conquer territories in World vs. World! Enter the Mists from Eternal Battlegrounds asura gates in Lion's Arch, which can be traveled to from major cities, or by clicking the castle icon in the top-left corner of your screen.</c>","Войдите в %num2% карту режима «World vs. World».
+<c=@reminder>Storm castles and conquer territories in World vs. World! Enter the Mists from Eternal Battlegrounds asura gates in Lion's Arch, which can be traveled to from major cities, or by clicking the castle icon in the top-left corner of your screen.</c>","Войдите в %num2% [карту режима|карты режима|карт режима] «World vs. World».
 
 <c=@reminder>Штурмуйте замки и захватывайте территории в режиме «World vs. World»! Воспользуйтесь вратами асуры из Вечных битв, расположенными в Туманах, чтобы попасть туда. Врата можно найти в крупных городах или нажав на значок замка в верхнем левом углу экрана.</c>"
 "Use a healing skill %num2% time[s].
 
-<c=@reminder>Healing skills are located on the sixth skill slot of every character's skill bar.</c>","Используйте навык лечения %num2% раз(а).
+<c=@reminder>Healing skills are located on the sixth skill slot of every character's skill bar.</c>","Используйте навык лечения %num2% [раз|раза|раз].
 
 <c=@reminder>Навыки лечения находятся на шестой ячейке панели умений у каждого персонажа.</c>"
 "Complete chapter 3 of your story.
@@ -1147,7 +1147,7 @@ Overheat now blasts damage to nearby foes and no longer deals its initial damage
 Gain health per unit of heat lost.<br><c=@reminder>This trait does not function while cooling due to an overheat unless Photonic Blasting Module is equipped.</c>,"Восстанавливайте здоровье за каждую единицу потерянного тепла.<br><c=@reminder>Эта черта не действует во время охлаждения из-за перегрева, если не оснащён модуль «Фотонный взрыв».</c>"
 "Complete %num2% renown heart[s] in the Fields of Ruin, Blazeridge Steppes, Lornar's Pass, Dredgehaunt Cliffs, or the Harathi Hinterlands.
 
-<c=@reminder>Renown hearts are marked with a golden heart icon on the map. Every renown heart is different, so check your HUD when nearby to find out how you can assist.</c>","Выполните %num2% задания в локациях: Поля Руин, Равнины Блейзербридж, Перевал Лорнара, Скалы Дреджей или Внутренние земли Харати.
+<c=@reminder>Renown hearts are marked with a golden heart icon on the map. Every renown heart is different, so check your HUD when nearby to find out how you can assist.</c>","Выполните %num2% [задание|задания|заданий] в локациях: Поля Руин, Равнины Блейзербридж, Перевал Лорнара, Скалы Дреджей или Внутренние земли Харати.
 
 <c=@reminder>Задания отмечены на карте золотым значком сердца. Каждое задание уникально, поэтому, оказавшись рядом, проверьте интерфейс, чтобы узнать, чем вы можете помочь.</c>"
 "Earn experience to level up this character to level 70.
@@ -1157,32 +1157,32 @@ Gain health per unit of heat lost.<br><c=@reminder>This trait does not function 
 <c=@reminder>Опыт можно получить за победу над врагами, участие в событиях и выполнении заданий на получение репутации, прохождение сюжетных глав и создание предметов.</c>"
 "Complete %num2% renown heart[s] in Sparkfly Fen, Mount Maelstrom, Iron Marches, Fireheart Rise, or Timberline Falls.
 
-<c=@reminder>Renown hearts are marked with a golden heart icon on the map. Every renown heart is different, so check your HUD when nearby to find out how you can assist.</c>","Выполните %num2% задания на получение репутации в локациях: Болотистая низина Спаркфлай, Гора Мэлстром, Железные Топи, Огненная возвышенность или Тимберлайн-Фолс.
+<c=@reminder>Renown hearts are marked with a golden heart icon on the map. Every renown heart is different, so check your HUD when nearby to find out how you can assist.</c>","Выполните %num2% [задание|задания|заданий] на получение репутации в локациях: Болотистая низина Спаркфлай, Гора Мэлстром, Железные Топи, Огненная возвышенность или Тимберлайн-Фолс.
 
 <c=@reminder>Задания на получение репутации отмечены на карте золотым значком сердца. Каждое задание уникально, поэтому, оказавшись рядом, проверьте интерфейс, чтобы узнать, чем вы можете помочь.</c>"
 "Complete %num2% renown heart[s] in Snowden Drifts, Diessa Plateau, Brisban Wildlands, or Kessex Hills.
 
-<c=@reminder>Renown hearts are marked with a golden heart icon on the map. Every renown heart is different, so check your HUD when nearby to find out how you can assist.</c>","Выполните %num2% задания на получение репутации в Сноуден Дрифтс, Диесса Плато, Брисбан Уайлдлендс или Кессекс Хиллз.
+<c=@reminder>Renown hearts are marked with a golden heart icon on the map. Every renown heart is different, so check your HUD when nearby to find out how you can assist.</c>","Выполните %num2% [задание|задания|заданий] на получение репутации в Сноуден Дрифтс, Диесса Плато, Брисбан Уайлдлендс или Кессекс Хиллз.
 
 <c=@reminder>Задания на получение репутации отмечены золотым значком сердца на карте. Каждое задание уникально, поэтому проверяйте интерфейс, когда будете рядом, чтобы узнать, чем вы можете помочь.</c>"
 "Harvest %num2% material[s] from resource nodes in the Ruins of Orr, Frostgorge Sound, or Southsun Cove.
 
-<c=@reminder>Resource nodes are clumps of ore, saplings, and plants that can be gathered using gathering tools. Nodes can be found by exploring the world.</c>","Добывайте %num2% материалы из ресурсных узлов в Руинах Орра, Фростгорж-Саунде или Саутсан-Кове.
+<c=@reminder>Resource nodes are clumps of ore, saplings, and plants that can be gathered using gathering tools. Nodes can be found by exploring the world.</c>","Добывайте %num2% [материал|материала|материалов] из ресурсных узлов в Руинах Орра, Фростгорж-Саунде или Саутсан-Кове.
 
 <c=@reminder>Ресурсные узлы — это скопления руды, саженцев и растений, которые можно собирать с помощью инструментов для сбора ресурсов. Узлы можно найти, исследуя мир.</c>"
 "Participate in %num2% event[s].
 
-<c=@reminder>You can find events while exploring the world. Events in progress are marked by an orange circle on your map when you're nearby.</c>","Участвуй в %num2% событиях.
+<c=@reminder>You can find events while exploring the world. Events in progress are marked by an orange circle on your map when you're nearby.</c>","Участвуй в %num2% [событии|событиях|событиях].
 
 <c=@reminder>События можно найти, исследуя мир. Идющие события отмечены на карте оранжевым кружком, когда вы находитесь рядом.</c>"
 "Gather %num2% material[s] with a logging axe in Sparkfly Fen, Mount Maelstrom, the Iron Marches, Fireheart Rise, or Timberline Falls.
 
-<c=@reminder>Resource nodes are clumps of ore, saplings, and plants that can be gathered using gathering tools. Nodes can be found by exploring the world.</c>","Собирайте %num2% материалы с помощью лесорубного топора в Болотистой низине, на горе Мальстрём, в Железных Топях, Огненной возвышенности или у Водопадных скал.
+<c=@reminder>Resource nodes are clumps of ore, saplings, and plants that can be gathered using gathering tools. Nodes can be found by exploring the world.</c>","Собирайте %num2% [материал|материала|материалов] с помощью лесорубного топора в Болотистой низине, на горе Мальстрём, в Железных Топях, Огненной возвышенности или у Водопадных скал.
 
 <c=@reminder>Ресурсные узлы — это скопления руды, саженцы и растения, которые можно собирать с помощью инструментов для сбора ресурсов. Узлы можно найти, исследуя мир.</c>"
 "Participate in %num2% event[s] in the Fields of Ruin, Blazeridge Steppes, Lornar's Pass, Dredgehaunt Cliffs, or the Harathi Hinterlands.
 
-<c=@reminder>You can find events while exploring the world. Events in progress are marked by an orange circle on your map when you're nearby.</c>","Участвуйте в %num2% событиях в Пустошах Руин, Равнинах Блейзерриджа, Проходе Лорнара, Скалах Дреджей или Харатиских Заземьях.
+<c=@reminder>You can find events while exploring the world. Events in progress are marked by an orange circle on your map when you're nearby.</c>","Участвуйте в %num2% [событии|событиях|событиях] в Пустошах Руин, Равнинах Блейзерриджа, Проходе Лорнара, Скалах Дреджей или Харатиских Заземьях.
 
 <c=@reminder>Вы можете найти события, исследуя мир. Идющие события отмечены оранжевым кружком на карте, когда вы находитесь рядом.</c>"
 "Transmute %num2% item[s].
@@ -1217,12 +1217,12 @@ Gain health per unit of heat lost.<br><c=@reminder>This trait does not function 
 <c=@reminder>Ресурсные точки — это скопления руды, саженцы и растения, которые можно собирать с помощью инструментов для сбора ресурсов. Точки можно найти, исследуя мир.</c>"
 "Participate in %num2% event[s] in Sparkfly Fen, Mount Maelstrom, Iron Marches, Fireheart Rise, or Timberline Falls.
 
-<c=@reminder>You can find events while exploring the world. Events in progress are marked by an orange circle on your map when you're nearby.</c>","Участвуйте в %num2% событиях в Топких болотах, на горе Мэлстром, в Железных Топях, Огненной возвышенности или в Таймберлейн-Фолс.
+<c=@reminder>You can find events while exploring the world. Events in progress are marked by an orange circle on your map when you're nearby.</c>","Участвуйте в %num2% [событии|событиях|событиях] в Топких болотах, на горе Мэлстром, в Железных Топях, Огненной возвышенности или в Таймберлейн-Фолс.
 
 <c=@reminder>Вы можете найти события, исследуя мир. Идющие события отмечены оранжевым кружком на вашей карте, когда вы находитесь рядом.</c>"
 "Participate in %num2% event[s] in the Ruins of Orr, Frostgorge Sound, or Southsun Cove.
 
-<c=@reminder>You can find events while exploring the world. Events in progress are marked by an orange circle on your map when you're nearby.</c>","Участвуйте в %num2% событиях в Руинах Орра, Фростгорж-Саунде или Саутсан-Кове.
+<c=@reminder>You can find events while exploring the world. Events in progress are marked by an orange circle on your map when you're nearby.</c>","Участвуйте в %num2% [событии|событиях|событиях] в Руинах Орра, Фростгорж-Саунде или Саутсан-Кове.
 
 <c=@reminder>Вы можете найти события, исследуя мир. Идющие события отмечены на карте оранжевым кругом, когда вы находитесь рядом.</c>"
 "Defeat %num2% of the world bosses in Bloodtide Coast, Blazeridge Steppes, or Harathi Hinterlands.
@@ -1469,7 +1469,7 @@ The Guild Wars 2: Visions of Eternity expansion is required to access the releva
 Для доступа к соответствующему контенту необходимо приобрести дополнение Guild Wars 2: Visions of Eternity."
 "Gain resolution and aegis when disabled.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Получайте эффект «Решимость» и «Эгида», когда находитесь в состоянии отключения.<br><c=@reminder>К состояниям отключения относятся оглушение, ошеломление, отбрасывание, притягивание, сбивание с ног, погружение, подброс, насмешка и страх.</c>"
 "Bind %num2% legendary rune[s].
-(Players with existing legendary runes can update this achievement when visiting Lion's Arch or the Wizard's Tower.)","Привяжите %num2% легендарную руну (руны).
+(Players with existing legendary runes can update this achievement when visiting Lion's Arch or the Wizard's Tower.)","Привяжите %num2% [легендарную руну|легендарные руны|легендарных рун] (руны).
 (Игроки, у которых уже есть легендарные руны, могут выполнить это достижение при посещении Королевского города или Башни магов.)"
 Destroy the Forged Assemblers keeping the barrier active.,"Уничтожьте созданные кузнецы, поддерживающие барьер."
 "Interrupting a foe inflicts blind, and blinding a foe inflicts confusion.<br><c=@reminder>This trait can only activate on enemies with defiance bars once per interval.</c>","Прерывание действия противника вызывает ослепление, а ослепление противника — смятение. <br><c=@reminder>Эта черта может активироваться только на врагах с полосками сопротивления не чаще одного раза за интервал.</c>"

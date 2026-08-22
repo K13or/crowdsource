@@ -420,7 +420,7 @@ english,translate
 %num1%/%num2% Winner[s] Picked,Выбрано победителей: %num1%/%num2%
 %num1%/%num2% Zhaitan Weapon Variants Unlocked,Разблокировано вариантов оружия Зайтана: %num1%/%num2%
 %num1%/%num2% areas,%num1%/%num2% зон
-%num1%/%num2% kill[s] in PvP.,%num1%/%num2% убийств в PvP.
+%num1%/%num2% kill[s] in PvP.,%num1%/%num2% [убийство|убийства|убийств] в PvP.
 %num1%/%num2% map completion parts completed.,%num1%/%num2% частей исследования карты завершено.
 %num1%/%num2% of Scarlet's Factions Killed,%num1%/%num2% фракций Скарлет уничтожено
 %num1%/%num2% permanent steps completed.,%num1%/%num2% постоянных шагов завершено.

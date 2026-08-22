@@ -139,7 +139,7 @@ At ease.,Вольно.
 "At the very least, you're a quicker wit than those weepy fools over there.","По крайней мере, ты соображаешь быстрее тех плаксивых глупцов вон там."
 At your service.,К вашим услугам.
 Atalia Steelshaper,Аталия Сталевар
-Ate %num1%/%num2% Food Consumable[s],Съедено %num1%/%num2% съедобных расходников
+Ate %num1%/%num2% Food Consumable[s],Съедено %num1%/%num2% [съедобный расходник|съедобных расходника|съедобных расходников]
 Ate %num1%/%num2% Foods,Съедено %num1%/%num2% блюд
 Atrona,Атрона
 Atropos,Атропос
@@ -149,8 +149,8 @@ Attack from up close to identify weak point.,"Атакуйте вблизи, ч�
 Attack repelled in: %str1%,Атака отражена через: %str1%
 Attack rock dogs until they rebel against the centaurs.,"Атакуйте каменных псов, пока они не взбунтуются против кентавров."
 Attack the cultist-led bandit camp and defeat the White Mantle.,Атакуйте бандитский лагерь во главе с культистами и победите Белую Мантию.
-Attacked Jormag %num1% Time[s],Атакован Йормаг %num1% раз
-Attacked Primordus %num1% Time[s],Атакован Примордус %num1% раз
+Attacked Jormag %num1% Time[s],Атакован Йормаг %num1% [раз|раза|раз]
+Attacked Primordus %num1% Time[s],Атакован Примордус %num1% [раз|раза|раз]
 Attacking Kryptis removes the scent masker. Return to Eurydice to get another spray.,Атака на криптисов снимает маскирующий запах. Вернитесь к Эвридике за новым распылителем.
 Attacking enemy targets.,Атакует вражеские цели.
 Attacking faster and for more damage.,Атакует быстрее и наносит больше урона.
@@ -432,7 +432,7 @@ Beyond Reality,За пределами реальности
 Bhuer Goreblade,Бхуэр Горевой Клинок
 Billy,Билли
 Bind %num2% Core Set 2 relics to your account by crafting them or purchasing them from the Trading Post.,"Привяжите %num2% реликвий базового набора 2 к своей учётной записи, изготовив их или купив на торговом посту."
-Bind %num2% unique legendary Perfected Envoy armor skin[s].,Привяжите %num2% уникальных обликов легендарной брони «Идеальный посланник».
+Bind %num2% unique legendary Perfected Envoy armor skin[s].,Привяжите %num2% [уникальный облик легендарной брони|уникальных облика легендарной брони|уникальных обликов легендарной брони] «Идеальный посланник».
 Bind %num2% unique legendary weapon[s] or trinket[s].,Привяжите %num2% уникальн[ое|ых|ых] легендарн[ое|ых|ых] оружи[е|я|й] или побрякуш[ку|ки|ек].
 Bind all %num2% Slumbering Lightborne weapon skins. These weapons are earned in Bava Nisos or by purchasing them from the Trading Post.,Привяжите все %num2% обликов оружия «Дремлющий Светорождённый». Это оружие можно получить в Бава Нисос или купить на торговом посту.
 Binding Chains,Сковывающие цепи

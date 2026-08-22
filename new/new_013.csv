@@ -20,7 +20,7 @@ Fed %num1%/%num2% Hungry Sentries,Накормлено %num1%/%num2% голод�
 Fed %num1%/%num2% Skyscales,Накормлено %num1%/%num2% скайскейлов
 Fed %num1%/%num2% Starving Kryptis,Накормлено %num1%/%num2% голодающих криптисов
 Fed %num1%/%num2% Trolls,Накормлено %num1%/%num2% троллей
-Fed Grawnk %num2% Time[s],Гронк накормлен %num2% раз
+Fed Grawnk %num2% Time[s],Гронк накормлен %num2% [раз|раза|раз]
 Fed the Villager on %num1%/%num2% Different Days,Житель деревни накормлен в %num1%/%num2% разных дней
 Feed %num2% hungry villagers in Champion's Dawn.,Накормите %num2% голодных жителей деревни на Рассвете Чемпиона.
 Feed Bucket,Ведро для кормёжки
@@ -95,7 +95,7 @@ Find a way through the traps and into Mazdak's tomb.,Найдите путь ч�
 Find a way to reunite with your team.,Найдите способ воссоединиться с командой.
 Find all 10 hidden chests.,Найдите все 10 скрытых сундуков.
 Find an active ley-energy orb to discharge.,"Найдите активную сферу лей-энергии, чтобы разрядить её."
-Find and hit %num1%/%num2% mushroom king[s] hiding in the lower Tarnished Treetop.,"Найдите и ударьте %num1%/%num2% грибных королей, прячущихся в нижнем ярусе Потускневших Крон."
+Find and hit %num1%/%num2% mushroom king[s] hiding in the lower Tarnished Treetop.,"Найдите и ударьте %num1%/%num2% [грибного короля|грибных короля|грибных королей], прячущихся в нижнем ярусе Потускневших Крон."
 Find and open %num2% buried bandit chest[s] in the Silverwastes.,Найдите и вскройте %num2% закопанн[ый|ых|ых] бандитск[ий|их|их] сундук[|а|ов] в Серебряных Пустошах.
 Find and open %num2% buried locked chest[s] in Challenger Cliffs.,Найдите и вскройте %num2% закопанн[ый|ых|ых] заперт[ый|ых|ых] сундук[|а|ов] на Утёсах Претендента.
 "Find and open %num2% buried locked chest[s] in Prospect Valley, Dry Top.","Найдите и вскройте %num2% закопанн[ый|ых|ых] заперт[ый|ых|ых] сундук[|а|ов] в Долине Старателей, на Сухой Вершине."
@@ -367,8 +367,8 @@ Found %num1%/%num2% Diving Goggles in Istan,Найдено %num1%/%num2% очк�
 Found %num1%/%num2% Dwarven Chests,Найдено %num1%/%num2% дворфийских сундуков
 Found %num1%/%num2% Heirlooms,Найдено %num1%/%num2% реликвий
 Found %num1%/%num2% Hidden Dwarven Treasures,Найдено %num1%/%num2% скрытых дворфийских сокровищ
-"Found %num1%/%num2% Instability[pl:""Instabilities""] in Echovald Wilds",Найдено %num1%/%num2% нестабильностей в Дебрях Эховальд
-"Found %num1%/%num2% Instability[pl:""Instabilities""] in Kaineng",Найдено %num1%/%num2% нестабильностей в Кайненге
+"Found %num1%/%num2% Instability[pl:""Instabilities""] in Echovald Wilds",Найдено %num1%/%num2% [нестабильность|нестабильности|нестабильностей] в Дебрях Эховальд
+"Found %num1%/%num2% Instability[pl:""Instabilities""] in Kaineng",Найдено %num1%/%num2% [нестабильность|нестабильности|нестабильностей] в Кайненге
 Found %num1%/%num2% Interactive Objects,Найдено %num1%/%num2% интерактивных объектов
 Found %num1%/%num2% Keepsakes,Найдено %num1%/%num2% памятных вещей
 Found %num1%/%num2% New Kaineng Lore Tablets,Найдено %num1%/%num2% табличек с преданиями Нового Кайненга

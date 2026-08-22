@@ -18,7 +18,7 @@ Destroy %num2% Dominion heavy artillery in the Northern Drizzlewood Coast.,Ун�
 Destroy %num2% Dominion supply caravans in Northern Drizzlewood Coast.,Уничтожьте %num2% караванов снабжения Доминиона на севере Моросистого побережья.
 Destroy %num2% Dominion tents in the Northern Drizzlewood Coast.,Уничтожьте %num2% шатров Доминиона на севере Моросистого побережья.
 Destroy %num2% Kryptis turrets.,Уничтожьте %num2% турелей криптисов.
-Destroy %num2% bridge[s].,Уничтожьте %num2% мостов.
+Destroy %num2% bridge[s].,Уничтожьте %num2% [мост|моста|мостов].
 Destroy %num2% corrupted shards in Northern Drizzlewood Coast.,Уничтожьте %num2% порченых осколков на севере Моросистого побережья.
 Destroy %num2% flotsams with your boat in New Kaineng City.,Уничтожьте %num2% обломков своей лодкой в Новом Кайненге.
 Destroy %num2% ice shards trapping allies.,"Уничтожьте %num2% ледяных осколков, сковавших союзников."
@@ -36,7 +36,7 @@ Destroy %num2% structures at the Vloxen Mine in the Drizzlewood Coast.,Унич�
 "Destroy %num2% turrets near Lighthouse Point, Vloxen Mine, Petraj Overlook, or Leadfoot Village in the Drizzlewood Coast.","Уничтожьте %num2% турелей у мыса Маяк, Влоксенской шахты, Петражского Уступа или деревни Свинцовая Стопа на Моросистом побережье."
 Destroy Flag,Уничтожить флаг
 Destroy Prototype X.,Уничтожьте Прототип X.
-Destroy energy probes or investigate energy probe wreckage in %num2% different map[s].,Уничтожьте энергетические зонды или осмотрите их обломки на %num2% разных картах.
+Destroy energy probes or investigate energy probe wreckage in %num2% different map[s].,Уничтожьте энергетические зонды или осмотрите их обломки на %num2% [разной карте|разных картах|разных картах].
 Destroy the Awakened and Forged Siege Camps with a Full Junundu Clew,Осадные лагеря Пробуждённых и Кованых уничтожены полным выводком джунунду
 Destroy the Shadow of the Dragon.,Уничтожьте Тень Дракона.
 Destroy the White Mantle cell.,Уничтожьте ячейку Белой Мантии.
@@ -49,7 +49,7 @@ Destroy you.,Уничтожить тебя.
 Destroy!,Уничтожить!
 Destroyed %num1% of %num2% Fountains of Joko,Уничтожено %num1% из %num2% фонтанов Джоко
 Destroyed %num1%/%num2% Bridges,Уничтожено %num1%/%num2% мостов
-Destroyed %num1%/%num2% Caravan[s],Уничтожено %num1%/%num2% караванов
+Destroyed %num1%/%num2% Caravan[s],Уничтожено %num1%/%num2% [караван|каравана|караванов]
 Destroyed %num1%/%num2% Corrupted Shards,Уничтожено %num1%/%num2% порченых осколков
 Destroyed %num1%/%num2% Dominion Artillery,Уничтожено %num1%/%num2% артиллерии Доминиона
 Destroyed %num1%/%num2% Dominion Choppers,Уничтожено %num1%/%num2% вертолётов Доминиона
@@ -57,14 +57,14 @@ Destroyed %num1%/%num2% Dominion Communications Towers,Уничтожено %num
 Destroyed %num1%/%num2% Dominion Tents,Уничтожено %num1%/%num2% шатров Доминиона
 Destroyed %num1%/%num2% Enemy Supply Caravans,Уничтожено %num1%/%num2% вражеских караванов снабжения
 Destroyed %num1%/%num2% Flotsams,Уничтожено %num1%/%num2% обломков
-Destroyed %num1%/%num2% Haze Heart[s],Уничтожено %num1%/%num2% сердец дымки
+Destroyed %num1%/%num2% Haze Heart[s],Уничтожено %num1%/%num2% [сердце дымки|сердца дымки|сердец дымки]
 Destroyed %num1%/%num2% Illusions,Уничтожено %num1%/%num2% иллюзий
 Destroyed %num1%/%num2% Kryptis Turrets,Уничтожено %num1%/%num2% турелей криптисов
 Destroyed %num1%/%num2% Malfunctioning Jade Mechs,Уничтожено %num1%/%num2% неисправных нефритовых мехов
 Destroyed %num1%/%num2% Portals of Jormag's Minions,Уничтожено %num1%/%num2% порталов прислужников Йормага
 Destroyed %num1%/%num2% Propaganda Balloons,Уничтожено %num1%/%num2% пропагандистских шаров
 Destroyed %num1%/%num2% Propaganda Speakers,Уничтожено %num1%/%num2% пропагандистских громкоговорителей
-Destroyed %num1%/%num2% Pulsating Crystal Node[s] during the Shatterer Battle,Уничтожено %num1%/%num2% пульсирующих кристаллических узлов в битве с Крушителем
+Destroyed %num1%/%num2% Pulsating Crystal Node[s] during the Shatterer Battle,Уничтожено %num1%/%num2% [пульсирующий кристаллический узел|пульсирующих кристаллических узла|пульсирующих кристаллических узлов] в битве с Крушителем
 Destroyed %num1%/%num2% Siege Engines,Уничтожено %num1%/%num2% осадных орудий
 Destroyed %num1%/%num2% Small Jormag Idols,Уничтожено %num1%/%num2% малых идолов Йормага
 Destroyed %num1%/%num2% Structures,Уничтожено %num1%/%num2% построек
@@ -171,13 +171,13 @@ Discovered %num1%/%num2% Hidden Records,Найдено %num1%/%num2% скрыт�
 Discovered %num1%/%num2% Impressive Maneuvers,Найдено %num1%/%num2% впечатляющих манёвров
 Discovered %num1%/%num2% Interesting Tidbits in the Throne Room,Найдено %num1%/%num2% любопытных мелочей в тронном зале
 Discovered %num1%/%num2% Itzel Totems,Найдено %num1%/%num2% тотемов ицелей
-Discovered %num1%/%num2% Mastery Insight,Найдено %num1%/%num2% прозрений мастерства
-Discovered %num1%/%num2% Mastery Insight[s],Найдено %num1%/%num2% прозрений мастерства
-Discovered %num1%/%num2% Point[s] of Interest,Найдено %num1%/%num2% точек интереса
+Discovered %num1%/%num2% Mastery Insight,Найдено %num1%/%num2% [прозрение мастерства|прозрения мастерства|прозрений мастерства]
+Discovered %num1%/%num2% Mastery Insight[s],Найдено %num1%/%num2% [прозрение мастерства|прозрения мастерства|прозрений мастерства]
+Discovered %num1%/%num2% Point[s] of Interest,Найдено %num1%/%num2% [точку интереса|точки интереса|точек интереса]
 Discovered %num1%/%num2% Raven Sanctum Blessings,Найдено %num1%/%num2% благословений святилища Ворона
 Discovered %num1%/%num2% Secret Chests,Найдено %num1%/%num2% тайных сундуков
 Discovered %num1%/%num2% Shadows Provisions,Найдено %num1%/%num2% припасов Теней
-Discovered %num1%/%num2% Waypoint[s],Найдено %num1%/%num2% точек перемещения
+Discovered %num1%/%num2% Waypoint[s],Найдено %num1%/%num2% [точку перемещения|точки перемещения|точек перемещения]
 Discovered %num1%/45 Prophecy Verses,Найдено %num1%/45 стихов пророчества
 Discovered Highest Vantage in Prismatic Postpile,Найдена высшая обзорная точка Призматических Столбов
 Discovered Inquest Secrets,Раскрыты тайны Инквеста
@@ -264,10 +264,10 @@ Do you think the council will authorize overtime pay?,"Думаешь, сове�
 Do you work for me?,Ты на меня работаешь?
 Doc Stone,Док Стоун
 Docks Cleared within the Time Limit,Доки зачищены в отведённое время
-Dodge %num1%/%num2% Attack[s],Уклонитесь от %num1%/%num2% атак
-Dodge the Shatterer's Focused Lightning Attack %num2% time[s] while gliding.,Уклонитесь от сфокусированной молнии Крушителя %num2% раз в полёте на планёре.
+Dodge %num1%/%num2% Attack[s],Уклонитесь от %num1%/%num2% [атаку|атаки|атак]
+Dodge the Shatterer's Focused Lightning Attack %num2% time[s] while gliding.,Уклонитесь от сфокусированной молнии Крушителя %num2% [раз|раза|раз] в полёте на планёре.
 Dodge this!,Уклонись от этого!
-Dodged %num1%/%num2% Attack[s],Уклонились от %num1%/%num2% атак
+Dodged %num1%/%num2% Attack[s],Уклонились от %num1%/%num2% [атаку|атаки|атак]
 Dodged %num1%/%num2% Darknesses,Уклонились от %num1%/%num2% сгустков тьмы
 Dodged %num1%/%num2% Full-Sized Tsunamis,Уклонились от %num1%/%num2% полноразмерных цунами
 Dodged Drakkar's Emergence Attack,Уклонились от атаки Драккара при появлении
@@ -300,7 +300,7 @@ Don't miss our next exciting event!,Не пропустите наше след�
 Don't test me...,Не испытывай меня...
 Don't worry; we'll find a way.,"Не волнуйся, мы найдём способ."
 Donate to each of the %num2% tiers of giving to the Mystic Forge research in Lion's Arch.,Пожертвуйте на каждом из %num2% уровней дарения на исследование Мистической кузницы во Львиной Арке.
-Donated %num1%/%num2% Time[s],Пожертвовано %num1%/%num2% раз
+Donated %num1%/%num2% Time[s],Пожертвовано %num1%/%num2% [раз|раза|раз]
 Donated Materials for %num1%/%num2% Commendation Types,Пожертвованы материалы для %num1%/%num2% видов благодарностей
 Done,Готово
 Doomsayer Senug,Провозвестник беды Сенуг
@@ -427,12 +427,12 @@ Dungeon Transportation,Переброска в подземелья
 Duration:,Длительность:
 "During Lunar New Year, Provides 25%% Magic Find",Во время Лунного Нового года даёт +25%% к поиску магии
 "During the ""Stop loyalists from stealing supplies"" event, prevent any supplies from being stolen by Eparch's loyalists.",В событии «Не дайте лоялистам украсть припасы» не позвольте лоялистам Эпарха украсть ни одного припаса.
-"During the Dragonstorm encounter, attack Jormag %num2% time[s] while they are exposed.","В столкновении «Драконья Буря» атакуйте Йормага %num2% раз, пока он уязвлён."
-"During the Dragonstorm encounter, attack Primordus %num2% time[s] while he is exposed.","В столкновении «Драконья Буря» атакуйте Примордуса %num2% раз, пока он уязвлён."
-"During the Dragonstorm encounter, dodge Primordus's Apocalypse Rain attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки Примордуса «Дождь апокалипсиса» %num2% раз.
-"During the Dragonstorm encounter, dodge the Breath of Jormag attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки «Дыхание Йормага» %num2% раз.
-"During the Dragonstorm encounter, prevent Jormag's champion from using his elite skill %num2% time[s].",В столкновении «Драконья Буря» не дайте чемпиону Йормага применить элитное умение %num2% раз.
-"During the Dragonstorm encounter, prevent Primordus's champion from using his elite skill %num2% time[s].",В столкновении «Драконья Буря» не дайте чемпиону Примордуса применить элитное умение %num2% раз.
+"During the Dragonstorm encounter, attack Jormag %num2% time[s] while they are exposed.","В столкновении «Драконья Буря» атакуйте Йормага %num2% [раз|раза|раз], пока он уязвлён."
+"During the Dragonstorm encounter, attack Primordus %num2% time[s] while he is exposed.","В столкновении «Драконья Буря» атакуйте Примордуса %num2% [раз|раза|раз], пока он уязвлён."
+"During the Dragonstorm encounter, dodge Primordus's Apocalypse Rain attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки Примордуса «Дождь апокалипсиса» %num2% [раз|раза|раз].
+"During the Dragonstorm encounter, dodge the Breath of Jormag attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки «Дыхание Йормага» %num2% [раз|раза|раз].
+"During the Dragonstorm encounter, prevent Jormag's champion from using his elite skill %num2% time[s].",В столкновении «Драконья Буря» не дайте чемпиону Йормага применить элитное умение %num2% [раз|раза|раз].
+"During the Dragonstorm encounter, prevent Primordus's champion from using his elite skill %num2% time[s].",В столкновении «Драконья Буря» не дайте чемпиону Примордуса применить элитное умение %num2% [раз|раза|раз].
 Durmand Priory Explorer Bink,Исследователь Приората Дурманд Бинк
 "Dust to dust, sand to sand.","Прах к праху, песок к песку."
 Dusty Otterly,Дасти Оттерли
@@ -466,9 +466,9 @@ Earn experience in Lowland Shore and Janthir Syntri to unlock the spear.,"Зар
 Earn gold rank in Convergences with challenge mode active for all legendary creatures.,Получите золотой ранг в Схождениях с активным режимом испытания для всех легендарных существ.
 Earn map complete on all %num2% Crystal Desert maps.,Полностью исследуйте все %num2% карт Кристальной пустыни.
 Earn your Glider Basics Mastery to continue your story.,"Освойте мастерство «Основы планёра», чтобы продолжить сюжет."
-Earned %num1%/%num2% Level[s],Получено %num1%/%num2% уровней
+Earned %num1%/%num2% Level[s],Получено %num1%/%num2% [уровень|уровня|уровней]
 Earned %num1%/%num2% Progress Points,Заработано %num1%/%num2% очков прогресса
-Earned %num1%/%num2% Proof[s] of Glory,Получено %num1%/%num2% доказательств славы
+Earned %num1%/%num2% Proof[s] of Glory,Получено %num1%/%num2% [доказательство славы|доказательства славы|доказательств славы]
 Earned %num1%/100 Shadow Seals,Получено %num1%/100 теневых печатей
 Earned Bronze or Better on %num1%/5 Adventures,Бронза или лучше в %num1%/5 приключениях
 Earned Gold Participation in %num1%/%num2% Idol of Jormag Events,Золотое участие в %num1%/%num2% событиях «Идол Йормага»

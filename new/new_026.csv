@@ -251,8 +251,8 @@ Stop the skritt burglar before it escapes with the treasure.,"Остановит
 "Stop whining. Look, that did something. Why don't you go take a look at that orb? We'll wait here.","Хватит ныть. Смотри, что-то сработало. Может, сходишь и глянешь на ту сферу? Мы подождём здесь."
 Stop! Don't let them escape!,Стой! Не дайте им уйти!
 "Stop, you fool! They must be delivered to the king!","Стой, глупец! Их нужно доставить королю!"
-Stopped %num1%/%num2% Invasion[s] as a Watchknight,Остановлено %num1%/%num2% вторжений в облике Часового рыцаря
-Stopped %num1%/%num2% Portal Invasion[s],Остановлено %num1%/%num2% вторжений через порталы
+Stopped %num1%/%num2% Invasion[s] as a Watchknight,Остановлено %num1%/%num2% [вторжение|вторжения|вторжений] в облике Часового рыцаря
+Stopped %num1%/%num2% Portal Invasion[s],Остановлено %num1%/%num2% [вторжение|вторжения|вторжений] через порталы
 Stopped Aurene's Shield from Dropping below 50%% Health,Щит Аурены не опустился ниже 50%% прочности
 Stopped Bandit Spirits from Stealing Lumber,Бандитские духи не украли ни одного бревна
 Stopped Manikaz,Маниказ остановлен
@@ -402,10 +402,10 @@ Successfully Pumped the Bellows %num1%/15 Times in a Row,Меха успешно
 Successfully Started 15 Conversations between Chantry Factions,Успешно начато 15 разговоров между фракциями Молельни
 Successfully Talked Captain Fa Out of Arresting You,Капитана Фа удалось отговорить от вашего ареста
 Successfully avoided Crecia's Flame Jet Attack,Успешно уклонился от атаки Креции «Струя пламени»
-Successfully complete %num2% (Weekly) Convergence[s]: Mount Balrior.,Успешно завершите %num2% (еженедельных) Схождений: гора Балриор.
-Successfully complete %num2% unique Weekly Convergence[s]: Mount Balrior with challenge mode active.,Успешно завершите %num2% уникальных еженедельных Схождений: гора Балриор с активным режимом испытания.
-Successfully complete %num2% unique Weekly Convergence[s]: Outer Nayos with challenge mode active.,Успешно завершите %num2% уникальных еженедельных Схождений: Внешний Найос с активным режимом испытания.
-Successfully complete %num2% weekly Convergence[s].,Успешно завершите %num2% еженедельных Схождений.
+Successfully complete %num2% (Weekly) Convergence[s]: Mount Balrior.,Успешно завершите %num2% [(еженедельное) Схождение|(еженедельных) Схождения|(еженедельных) Схождений]: гора Балриор.
+Successfully complete %num2% unique Weekly Convergence[s]: Mount Balrior with challenge mode active.,Успешно завершите %num2% [уникальное еженедельное Схождение|уникальных еженедельных Схождения|уникальных еженедельных Схождений]: гора Балриор с активным режимом испытания.
+Successfully complete %num2% unique Weekly Convergence[s]: Outer Nayos with challenge mode active.,Успешно завершите %num2% [уникальное еженедельное Схождение|уникальных еженедельных Схождения|уникальных еженедельных Схождений]: Внешний Найос с активным режимом испытания.
+Successfully complete %num2% weekly Convergence[s].,Успешно завершите %num2% [еженедельное Схождение|еженедельных Схождения|еженедельных Схождений].
 Successfully complete the Alliance Staging Ground Renown Heart on %num2% unique days.,Успешно завершите сердце почёта «Плацдарм Альянса» в %num2% разных дней.
 Successfully complete the Artificer's Islet renown heart on %num2% unique days.,Успешно завершите сердце почёта «Островок Артифактора» в %num2% разных дней.
 Successfully complete the Autumn's Vale Renown Heart on %num2% unique days.,Успешно завершите сердце почёта «Осенняя долина» в %num2% разных дней.
@@ -423,7 +423,7 @@ Successfully complete the Stricken Plains Renown Heart on %num2% unique days.,У
 Successfully complete the Untamed Crags renown heart on %num2% unique days.,Успешно завершите сердце почёта «Неукрощённые утёсы» в %num2% разных дней.
 Successfully complete the event without any allied drinkers dying after being revived.,"Завершите событие так, чтобы ни один воскрешённый союзник-выпивоха не погиб."
 Successfully disperse %num2% Ley-Line Anomalies before they overload.,Успешно рассейте %num2% аномалий лей-линий до их перегрузки.
-Successfully escort %num2% supply caravan[s].,Успешно сопроводите %num2% караванов с припасами.
+Successfully escort %num2% supply caravan[s].,Успешно сопроводите %num2% [караван|каравана|караванов] с припасами.
 Successfully gather resources %num2% times.,Успешно соберите ресурсы %num2% раз.
 Successfully prepare 10 ingredients in a row during a single event.,Успешно подготовьте 10 ингредиентов подряд за одно событие.
 Successfully stop the Inquest from capturing %num2% ley-line coalescences.,Не дайте Инквесту захватить %num2% слияний лей-линий.
@@ -445,7 +445,7 @@ Summer Runner Vest,Майка бегуна «Лето»
 Summer Runner Vest Skin[s],Облик[|а|ов] майки бегуна «Лето»
 Summer Runner Visor,Козырёк бегуна «Лето»
 Summer Runner Visor Skin[s],Облик[|а|ов] козырька бегуна «Лето»
-Summon %num2% archer[s] or door breaker[s] during Battle of Champion's Dusk rated matches.,Призовите %num2% лучников или таранщиков в рейтинговых матчах «Битва в Сумерках Чемпиона».
+Summon %num2% archer[s] or door breaker[s] during Battle of Champion's Dusk rated matches.,Призовите %num2% [лучника|лучника|лучников] или таранщиков в рейтинговых матчах «Битва в Сумерках Чемпиона».
 Summon Conjured Doorway,Призвать сотворённый проход
 Summon Prey,Призвать добычу
 Summon Shark,Призвать акулу
@@ -453,7 +453,7 @@ Summon a poisonous pool that inflicts poison and cripple on the skill target or 
 Summon a temporal defender that throws its shield to protect allies and blind enemies.,"Призывает временного защитника, который бросает щит, защищая союзников и ослепляя врагов."
 "Summon an Eye of Cerus that emits a rotating line attack, dealing damage and corrupting boons.","Призывает Око Керуса, испускающее вращающийся луч, который наносит урон и оскверняет благодати."
 Summon and board your skiff.<BR><BR>Must be on the surface of the water.,Призовите свой ялик и взойдите на борт.<BR><BR>Нужно находиться на поверхности воды.
-Summon and defeat %num1%/%num2% tarnished traitor[s].,Призовите и победите %num1%/%num2% потускневших предателей.
+Summon and defeat %num1%/%num2% tarnished traitor[s].,Призовите и победите %num1%/%num2% [потускневшего предателя|потускневших предателя|потускневших предателей].
 Summon and mount your jackal.,Призовите шакала и оседлайте его.
 Summon and mount your roller beetle.,Призовите кругложука и оседлайте его.
 Summon and mount your skyscale.,Призовите скайскейла и оседлайте его.

@@ -31,7 +31,7 @@ Frustrated Isgarren by Not Following His Command,Исгаррен раздоса
 Fuel Remaining,Осталось топлива
 "Full meltdown is moments away. You have to get by that thing, and fast. If it doesn't kill you, the radiation will.","До полного расплавления считаные мгновения. Тебе надо пройти мимо этой твари, и быстро. Если она тебя не убьёт, убьёт радиация."
 Full of adrenaline!,Полон адреналина!
-Fully Charged %num1%/%num2% Time[s],Полностью заряжено %num1%/%num2% раз
+Fully Charged %num1%/%num2% Time[s],Полностью заряжено %num1%/%num2% [раз|раза|раз]
 Fully Unlocked a Visions of Eternity Elite Specialization,Полностью открыта элитная специализация Visions of Eternity
 Fully adrenalized!,Адреналин на пределе!
 Fully functional again.,Снова полностью исправен.
@@ -146,11 +146,11 @@ Gather some wood from a nearby tree.,Соберите немного древе�
 Gather the necessary components to help your allies.,"Соберите необходимые компоненты, чтобы помочь союзникам."
 Gathered %num1%/%num2% Decorations for Aurene's Nest,Собрано %num1%/%num2% украшений для гнезда Аурены
 Gathered %num1%/%num2% Emotional Attunements While Fighting Karax or Eparch,Собрано %num1%/%num2% эмоциональных настроек в бою с Караксом или Эпархом
-Gathered %num1%/%num2% Eternal Ice Shard[s],Собрано %num1%/%num2% осколков вечного льда
+Gathered %num1%/%num2% Eternal Ice Shard[s],Собрано %num1%/%num2% [осколок вечного льда|осколка вечного льда|осколков вечного льда]
 Gathered %num1%/%num2% Fire Orchids,Собрано %num1%/%num2% огненных орхидей
 Gathered %num1%/%num2% Ingredients,Собрано %num1%/%num2% ингредиентов
 Gathered %num1%/%num2% Lumber in End of Dragons,Собрано %num1%/%num2% древесины в End of Dragons
-Gathered %num1%/%num2% Material[s],Собрано %num1%/%num2% материалов
+Gathered %num1%/%num2% Material[s],Собрано %num1%/%num2% [материал|материала|материалов]
 Gathered %num1%/%num2% Orbs,Собрано %num1%/%num2% сфер
 Gathered %num1%/%num2% Pieces of Evidence,Собрано %num1%/%num2% улик
 Gathered %num1%/%num2% Plants,Собрано %num1%/%num2% растений
@@ -411,7 +411,7 @@ Grog,Грог
 Grokor,Грокор
 Gross! This magic concoction is really just beetle dung. Yuck!,Фу! Это магическое снадобье — просто жучиный навоз. Гадость!
 Grothmar Valley Field Assisted,Помощь оказана в поле Долины Гротмар
-Grounded the Shatterer %num2% Time[s],Крушитель приземлён %num2% раз
+Grounded the Shatterer %num2% Time[s],Крушитель приземлён %num2% [раз|раза|раз]
 Groundskeeper Jarren,Смотритель угодий Джаррен
 Group Battle Pit,Групповая боевая яма
 Group Battle Pit Cage,Клетка групповой боевой ямы

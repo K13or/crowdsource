@@ -1,5 +1,5 @@
 english,translate
-Constructed %num1%/%num2% Portal Device[s],Собрано %num1%/%num2% портальных устройств
+Constructed %num1%/%num2% Portal Device[s],Собрано %num1%/%num2% [портальное устройство|портальных устройства|портальных устройств]
 Constructing the Stewards,Создание стюардов
 Construction complete: %num1%%%,Строительство завершено: %num1%%%
 Construction continues.,Строительство продолжается.
@@ -16,7 +16,7 @@ Consume a utility item to regain enhancement.,"Употребите вспомо
 Consumed %num1%/%num2% Ales,Употреблено %num1%/%num2% сортов эля
 Consumed %num1%/%num2% Bottles of Wine,Употреблено %num1%/%num2% бутылок вина
 Consumed %num1%/%num2% Tonics of Icebrood Corruption,Употреблено %num1%/%num2% тоников порчи ледяных отродий
-Consumed %num1%/%num2% Utility Item[s],Употреблено %num1%/%num2% вспомогательных предметов
+Consumed %num1%/%num2% Utility Item[s],Употреблено %num1%/%num2% [вспомогательный предмет|вспомогательных предмета|вспомогательных предметов]
 Consumed %num1%/%num2% of Steaks,Употреблено %num1%/%num2% стейков
 Consumed a Peach,Съеден персик
 Consumed after gathering. Applies +100%% chance of extra gathering strikes when gathering from resource nodes. Harvesting nodes consume additional charges.,Расходуется после сбора. Даёт +100%% шанса дополнительных ударов при сборе с залежей ресурсов. Сбор урожая с залежей расходует дополнительные заряды.
@@ -46,7 +46,7 @@ Containment Failure,Сбой сдерживания
 Contains a selection of crafting materials—hand selected for quality by highly trained Black Lion buyers or gathered by licensed Black Lion hunters from all across the world.,Содержит подборку ремесленных материалов — отобранных вручную по качеству опытными закупщиками Чёрного льва или собранных лицензированными охотниками Чёрного льва со всего света.
 "Contains single-use armor skins for the helm, shoulder, coat, gloves, legs, and boots.","Содержит одноразовые облики брони для шлема, наплечников, куртки, перчаток, поножей и сапог."
 Content Bull,Довольный бык
-Contest the capture point for %num2% pulse[s].,Удерживайте точку захвата в течение %num2% импульса.
+Contest the capture point for %num2% pulse[s].,Удерживайте точку захвата в течение %num2% [импульс|импульса|импульсов].
 Contested %num1%/%num2% Pulses,Оспорено %num1%/%num2% импульсов
 Continually grants protection and resolution to allies.,Постоянно даёт союзникам протекцию и решимость.
 Continue descending the Spire of Creation.,Продолжите спуск по Шпилю Созидания.
@@ -160,9 +160,9 @@ Craft %num2% masterwork item[s].,Изготовьте %num2% предмет[|а|
 Craft 3 Masterwork Items,Изготовьте 3 предмета мастерского качества
 Craft an astral weapon.,Изготовьте астральное оружие.
 Crafted %num1%/%num2% Glove,Изготовлено %num1%/%num2% перчаток
-Crafted %num1%/%num2% Item[s],Изготовлено %num1%/%num2% предметов
-Crafted %num1%/%num2% Masterwork Item[s],Изготовлено %num1%/%num2% предметов мастерского качества
-Crafted %num1%/%num2% Weapon[s],Изготовлено %num1%/%num2% единиц оружия
+Crafted %num1%/%num2% Item[s],Изготовлено %num1%/%num2% [предмет|предмета|предметов]
+Crafted %num1%/%num2% Masterwork Item[s],Изготовлено %num1%/%num2% [предмет|предмета|предметов] мастерского качества
+Crafted %num1%/%num2% Weapon[s],Изготовлено %num1%/%num2% [единицу оружия|единицы оружия|единиц оружия]
 Crafted Bows without Missing a Stroke,Луки изготовлены без единого промаха
 Crafting Disciplines Mastered: %num1%,Освоено ремесленных дисциплин: %num1%
 Crag Wilcrucks,Крэг Уилкракс
@@ -184,7 +184,7 @@ Create a wall of ice that you can shatter.,"Создаёт ледяную сте
 "Create a whispering blade that flies toward a nearby enemy after a short delay, applying torment and increasing your next strike's damage against that target.","Создаёт шепчущий клинок, который после короткой задержки летит к ближайшему врагу, накладывая Боль и увеличивая урон вашего следующего удара по этой цели."
 "Create an area that warps time, granting you and your allies quickness.","Создаёт область, искривляющую время и дающую вам и вашим союзникам проворство."
 Create the illusion of a Sunspear uprising.,Создайте видимость восстания Солнечных Копий.
-Created %num1%/%num2% Item[s],Создано %num1%/%num2% предметов
+Created %num1%/%num2% Item[s],Создано %num1%/%num2% [предмет|предмета|предметов]
 Created a Prototype Dragonsblood Weapon,Создано опытное оружие драконьей крови
 Creates Crippling Wells • Sacrifices Health for Damage Increase,Создаёт колодцы хромоты • Жертвует здоровьем ради увеличения урона
 Creates Poison Fields • Knocks Back,Создаёт ядовитые поля • Отталкивает
@@ -429,13 +429,13 @@ Deepmire Diver,Ныряльщик Глубокой Топи
 Deepwood Waypoint,Точка перемещения «Дремучий Лес»
 Defated Decima without Being Downed,"Децима побеждена, ни разу не будучи поверженным"
 Defeat %num1% krait.,Победите %num1% краитов.
-Defeat %num1%/%num2% Tarnished Traitor[s],Побеждено %num1%/%num2% потускневших предателей
+Defeat %num1%/%num2% Tarnished Traitor[s],Побеждено %num1%/%num2% [потускневшего предателя|потускневших предателя|потускневших предателей]
 Defeat %num1%/%num2% legendary creatures during the final assault against Kralkatorrik in Dragonfall.,Победите %num1%/%num2% легендарных существ во время последнего штурма против Кралькаторрика в Драконьем Падении.
 "Defeat %num2% Abberant, Fallen, Sons of Svanir, or Frost Legion.","Победите %num2% аберрантов, падших, Сынов Сванира или бойцов Морозного Легиона."
 Defeat %num2% Aberrant in Northern Drizzlewood Coast.,Победите %num2% аберрантов на севере Моросистого побережья.
 Defeat %num2% Avatars of Spite.,Победите %num2% воплощений Злобы.
-"Defeat %num2% Branded, Destroyer, Icebrood, or Mordrem enemy[pl:""enemies""].","Победите %num2% врагов из числа клеймёных, разрушителей, ледяных отродий или мордремов."
-"Defeat %num2% Destroyer enemy[pl:""enemies""] in Mount Maelstrom.",Победите %num2% врагов-разрушителей на горе Мальстрём.
+"Defeat %num2% Branded, Destroyer, Icebrood, or Mordrem enemy[pl:""enemies""].","Победите %num2% [врага|врага|врагов] из числа клеймёных, разрушителей, ледяных отродий или мордремов."
+"Defeat %num2% Destroyer enemy[pl:""enemies""] in Mount Maelstrom.",Победите %num2% [врага-разрушителя|врага-разрушителя|врагов-разрушителей] на горе Мальстрём.
 Defeat %num2% Dominion charr in Leadfoot Village in the Drizzlewood Coast.,Победите %num2% чарров Доминиона в деревне Свинцовая Стопа на Моросистом побережье.
 Defeat %num2% Dominion charr in Lighthouse Point in the Drizzlewood Coast.,Победите %num2% чарров Доминиона на мысе Маяк на Моросистом побережье.
 Defeat %num2% Dominion charr in Petraj Overlook in the Drizzlewood Coast.,Победите %num2% чарров Доминиона на Петражском Уступе на Моросистом побережье.
@@ -445,15 +445,15 @@ Defeat %num2% Dominion charr in the Vloxen Mine sector of the Drizzlewood Coast.
 Defeat %num2% Dominion charr.,Победите %num2% чарров Доминиона.
 Defeat %num2% Dominion tribunes in the Northern Drizzlewood Coast.,Победите %num2% трибунов Доминиона на севере Моросистого побережья.
 Defeat %num2% Fallen in Northern Drizzlewood Coast.,Победите %num2% падших на севере Моросистого побережья.
-"Defeat %num2% Flame Legion enemy[pl:""enemies""] in Iron Marches and Fireheart Rise.",Победите %num2% врагов из Легиона Пламени в Железных Топях и на Возвышенности Огненного Сердца.
-"Defeat %num2% Icebrood enemy[pl:""enemies""] in Frostgorge Sound.",Победите %num2% врагов-ледяных отродий в Морозном Проливе.
-"Defeat %num2% Inquest enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% врагов из Инквеста на горе Мальстрём и в Топи Искрокрылов.
+"Defeat %num2% Flame Legion enemy[pl:""enemies""] in Iron Marches and Fireheart Rise.",Победите %num2% [врага|врага|врагов] из Легиона Пламени в Железных Топях и на Возвышенности Огненного Сердца.
+"Defeat %num2% Icebrood enemy[pl:""enemies""] in Frostgorge Sound.",Победите %num2% [ледяное отродье|ледяных отродья|ледяных отродий] в Морозном Проливе.
+"Defeat %num2% Inquest enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% [врага|врага|врагов] из Инквеста на горе Мальстрём и в Топи Искрокрылов.
 Defeat %num2% Karka in Southsun Cove.,Победите %num2% карка в Бухте Южного Солнца.
 Defeat %num2% Kryptis attacking through rifts while fighting Charybda or Eparch.,"Победите %num2% криптисов, атакующих через разломы, во время боя с Харибдой или Эпархом."
-"Defeat %num2% Risen enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% врагов-восставших на горе Мальстрём и в Топи Искрокрылов.
-"Defeat %num2% Risen enemy[pl:""enemies""] in the Straits of Devastation, Malchor's Leap, or Cursed Shore.","Победите %num2% врагов-восставших в Проливах Опустошения, на Прыжке Малхора или Проклятом Берегу."
+"Defeat %num2% Risen enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% [врага-восставшего|врага-восставшего|врагов-восставших] на горе Мальстрём и в Топи Искрокрылов.
+"Defeat %num2% Risen enemy[pl:""enemies""] in the Straits of Devastation, Malchor's Leap, or Cursed Shore.","Победите %num2% [врага-восставшего|врага-восставшего|врагов-восставших] в Проливах Опустошения, на Прыжке Малхора или Проклятом Берегу."
 Defeat %num2% Sons of Svanir in Northern Drizzlewood Coast.,Победите %num2% Сынов Сванира на севере Моросистого побережья.
-Defeat %num2% archer[s] or door breaker[s] during Battle of Champion's Dusk rated matches.,Победите %num2% лучников или взломщиков ворот в рейтинговых матчах «Битва Сумерек Чемпиона».
+Defeat %num2% archer[s] or door breaker[s] during Battle of Champion's Dusk rated matches.,Победите %num2% [лучника|лучника|лучников] или взломщиков ворот в рейтинговых матчах «Битва Сумерек Чемпиона».
 Defeat %num2% bloodstone-crazed White Mantle in Bloodstone Fen.,Победите %num2% обезумевших от кровавого камня бойцов Белой Мантии в Топи Кровавого Камня.
 Defeat %num2% bosses in Mount Balrior without any party members being defeated.,"Победите %num2% боссов на горе Балриор так, чтобы никто из группы не был повержен."
 Defeat %num2% bosses in the Sanctum Arena.,Победите %num2% боссов на Арене Святилища.
@@ -464,31 +464,31 @@ Defeat %num2% crazed fans.,Победите %num2% обезумевших пок
 Defeat %num2% destroyers in open missions.,Победите %num2% разрушителей в открытых заданиях.
 "Defeat %num2% enemies in Convergences. Veteran, elite, champion, and legendary enemies give more progress.","Победите %num2% врагов в Схождениях. Ветераны, элитные, чемпионы и легендарные враги дают больше прогресса."
 "Defeat %num2% enemies in Mount Balrior Convergences. Veteran, elite, champion, and legendary enemies award more progress.","Победите %num2% врагов в Схождениях на горе Балриор. Ветераны, элитные, чемпионы и легендарные враги дают больше прогресса."
-"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Battle of Kyhlo rated matches.","Победите %num2% врагов, защищая точки захвата своей команды, в рейтинговых матчах «Битва за Кайло»."
-"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Forest of Niflhel rated matches.","Победите %num2% врагов, защищая точки захвата своей команды, в рейтинговых матчах «Лес Нифльхеля»."
-"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Legacy of the Foefire rated matches.","Победите %num2% врагов, защищая точки захвата своей команды, в рейтинговых матчах «Наследие Огня Врагов»."
-"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Skyhammer rated matches.","Победите %num2% врагов, защищая точки захвата своей команды, в рейтинговых матчах «Небесный молот»."
-"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Spirit Watch rated matches.","Победите %num2% врагов, защищая точки захвата своей команды, в рейтинговых матчах «Дозор духов»."
-"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Temple of the Silent Storm rated matches.","Победите %num2% врагов, защищая точки захвата своей команды, в рейтинговых матчах «Храм Безмолвной Бури»."
-"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Djinn's Dominion matches.","Победите %num2% врагов, защищая точки захвата своей команды, в рейтинговых матчах «Владения джинна»."
-"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Eternal Coliseum matches.","Победите %num2% врагов, защищая точки захвата своей команды, в рейтинговых матчах «Вечный колизей»."
-"Defeat %num2% enemy[pl:""enemies""].",Победите %num2% врагов.
-"Defeat %num2% energy-probe defender[s]. Alternately, defeat %num2% attacker[s] during the Twisted Marionette battle.",Победите %num2% защитников энергетического зонда. Либо победите %num2% нападающих в битве с Искажённой Марионеткой.
-"Defeat %num2% grawl, hylek, dredge, or krait enemy[pl:""enemies""].","Победите %num2% врагов из числа гролов, хилеков, дреджей или краитов."
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Battle of Kyhlo rated matches.","Победите %num2% [врага|врага|врагов], защищая точки захвата своей команды, в рейтинговых матчах «Битва за Кайло»."
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Forest of Niflhel rated matches.","Победите %num2% [врага|врага|врагов], защищая точки захвата своей команды, в рейтинговых матчах «Лес Нифльхеля»."
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Legacy of the Foefire rated matches.","Победите %num2% [врага|врага|врагов], защищая точки захвата своей команды, в рейтинговых матчах «Наследие Огня Врагов»."
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Skyhammer rated matches.","Победите %num2% [врага|врага|врагов], защищая точки захвата своей команды, в рейтинговых матчах «Небесный молот»."
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Spirit Watch rated matches.","Победите %num2% [врага|врага|врагов], защищая точки захвата своей команды, в рейтинговых матчах «Дозор духов»."
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during Temple of the Silent Storm rated matches.","Победите %num2% [врага|врага|врагов], защищая точки захвата своей команды, в рейтинговых матчах «Храм Безмолвной Бури»."
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Djinn's Dominion matches.","Победите %num2% [врага|врага|врагов], защищая точки захвата своей команды, в рейтинговых матчах «Владения джинна»."
+"Defeat %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Eternal Coliseum matches.","Победите %num2% [врага|врага|врагов], защищая точки захвата своей команды, в рейтинговых матчах «Вечный колизей»."
+"Defeat %num2% enemy[pl:""enemies""].",Победите %num2% [врага|врага|врагов].
+"Defeat %num2% energy-probe defender[s]. Alternately, defeat %num2% attacker[s] during the Twisted Marionette battle.",Победите %num2% [защитника энергетического зонда|защитника энергетического зонда|защитников энергетического зонда]. Либо победите %num2% нападающих в битве с Искажённой Марионеткой.
+"Defeat %num2% grawl, hylek, dredge, or krait enemy[pl:""enemies""].","Победите %num2% [врага|врага|врагов] из числа гролов, хилеков, дреджей или краитов."
 Defeat %num2% haze agitators.,Победите %num2% возмутителей дымки.
 Defeat %num2% icebrood in Dragon Response Missions.,Победите %num2% ледяных отродий в заданиях по реагированию на драконов.
 Defeat %num2% mursaat ghosts during the ambush.,Победите %num2% призраков мурсаат во время засады.
-Defeat %num2% player[s] during Battle of Champion's Dusk rated matches.,Победите %num2% игроков в рейтинговых матчах «Битва Сумерек Чемпиона».
-Defeat %num2% player[s] during Battle of Kyhlo rated matches.,Победите %num2% игроков в рейтинговых матчах «Битва за Кайло».
-Defeat %num2% player[s] during Djinn's Dominion rated matches.,Победите %num2% игроков в рейтинговых матчах «Владения джинна».
-Defeat %num2% player[s] during Eternal Coliseum rated matches.,Победите %num2% игроков в рейтинговых матчах «Вечный колизей».
-Defeat %num2% player[s] during Forest of Niflhel rated matches.,Победите %num2% игроков в рейтинговых матчах «Лес Нифльхеля».
-Defeat %num2% player[s] during Legacy of the Foefire rated matches.,Победите %num2% игроков в рейтинговых матчах «Наследие Огня Врагов».
-Defeat %num2% player[s] during Revenge of the Capricorn rated matches.,Победите %num2% игроков в рейтинговых матчах «Месть Козерога».
-Defeat %num2% player[s] during Skyhammer rated matches.,Победите %num2% игроков в рейтинговых матчах «Небесный молот».
-Defeat %num2% player[s] during Spirit Watch rated matches.,Победите %num2% игроков в рейтинговых матчах «Дозор духов».
-Defeat %num2% player[s] during Sunjiang Backstreets rated matches.,Победите %num2% игроков в рейтинговых матчах «Задворки Сунцзяна».
-Defeat %num2% player[s] during Temple of the Silent Storm rated matches.,Победите %num2% игроков в рейтинговых матчах «Храм Безмолвной Бури».
+Defeat %num2% player[s] during Battle of Champion's Dusk rated matches.,Победите %num2% [игрока|игрока|игроков] в рейтинговых матчах «Битва Сумерек Чемпиона».
+Defeat %num2% player[s] during Battle of Kyhlo rated matches.,Победите %num2% [игрока|игрока|игроков] в рейтинговых матчах «Битва за Кайло».
+Defeat %num2% player[s] during Djinn's Dominion rated matches.,Победите %num2% [игрока|игрока|игроков] в рейтинговых матчах «Владения джинна».
+Defeat %num2% player[s] during Eternal Coliseum rated matches.,Победите %num2% [игрока|игрока|игроков] в рейтинговых матчах «Вечный колизей».
+Defeat %num2% player[s] during Forest of Niflhel rated matches.,Победите %num2% [игрока|игрока|игроков] в рейтинговых матчах «Лес Нифльхеля».
+Defeat %num2% player[s] during Legacy of the Foefire rated matches.,Победите %num2% [игрока|игрока|игроков] в рейтинговых матчах «Наследие Огня Врагов».
+Defeat %num2% player[s] during Revenge of the Capricorn rated matches.,Победите %num2% [игрока|игрока|игроков] в рейтинговых матчах «Месть Козерога».
+Defeat %num2% player[s] during Skyhammer rated matches.,Победите %num2% [игрока|игрока|игроков] в рейтинговых матчах «Небесный молот».
+Defeat %num2% player[s] during Spirit Watch rated matches.,Победите %num2% [игрока|игрока|игроков] в рейтинговых матчах «Дозор духов».
+Defeat %num2% player[s] during Sunjiang Backstreets rated matches.,Победите %num2% [игрока|игрока|игроков] в рейтинговых матчах «Задворки Сунцзяна».
+Defeat %num2% player[s] during Temple of the Silent Storm rated matches.,Победите %num2% [игрока|игрока|игроков] в рейтинговых матчах «Храм Безмолвной Бури».
 Defeat %num2% players in ranked matches during 2v2 Season Eight.,Победите %num2% игроков в рейтинговых матчах в восьмом сезоне режима «2 на 2».
 Defeat %num2% players in ranked matches during 2v2 Season Five.,Победите %num2% игроков в рейтинговых матчах в пятом сезоне режима «2 на 2».
 Defeat %num2% players in ranked matches during 2v2 Season Four.,Победите %num2% игроков в рейтинговых матчах в четвёртом сезоне режима «2 на 2».

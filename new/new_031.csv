@@ -230,8 +230,8 @@ Willowheart,Ивовое Сердце
 Win %num2% PvP tournament matches.,Выиграйте %num2% турнирных матчей PvP.
 Win %num2% costume brawls.,Выиграйте %num2% костюмированных потасовок.
 Win %num2% keg brawl matches.,Выиграйте %num2% матчей в бочковой потасовке.
-"Win %num2% match[pl:""matches""] as an elementalist.",Выиграйте %num2% матчей за элементалиста.
-"Win %num2% match[pl:""matches""] in PvP.",Выиграйте %num2% матчей в PvP.
+"Win %num2% match[pl:""matches""] as an elementalist.",Выиграйте %num2% [матч|матча|матчей] за элементалиста.
+"Win %num2% match[pl:""matches""] in PvP.",Выиграйте %num2% [матч|матча|матчей] в PvP.
 Win %num2% matches as a guardian.,Выиграйте %num2% матчей за стража.
 Win %num2% matches as a mesmer.,Выиграйте %num2% матчей за месмера.
 Win %num2% matches as a necromancer.,Выиграйте %num2% матчей за некроманта.
@@ -264,27 +264,27 @@ Win %num2% ranked matches during Conquest Season Twenty-Three.,Выиграйт�
 Win %num2% ranked matches during Conquest Season Twenty-Two.,Выиграйте %num2% рейтинговых матчей в двадцать втором сезоне режима «Захват».
 Win %num2% ranked matches during a Conquest season.,Выиграйте %num2% рейтинговых матчей в сезоне режима «Захват».
 Win %num2% ranked matches during a PvP season.,Выиграйте %num2% рейтинговых матчей в сезоне PvP.
-Win %num2% rated arena game[s] as a guardian.,Выиграйте %num2% рейтинговых игр на арене за стража.
-Win %num2% rated arena game[s] as a mesmer.,Выиграйте %num2% рейтинговых игр на арене за месмера.
-Win %num2% rated arena game[s] as a necromancer.,Выиграйте %num2% рейтинговых игр на арене за некроманта.
-Win %num2% rated arena game[s] as a ranger.,Выиграйте %num2% рейтинговых игр на арене за рейнджера.
-Win %num2% rated arena game[s] as a revenant.,Выиграйте %num2% рейтинговых игр на арене за ревенанта.
-Win %num2% rated arena game[s] as a thief.,Выиграйте %num2% рейтинговых игр на арене за вора.
-Win %num2% rated arena game[s] as a warrior.,Выиграйте %num2% рейтинговых игр на арене за воина.
-Win %num2% rated arena game[s] as an elementalist.,Выиграйте %num2% рейтинговых игр на арене за элементалиста.
-Win %num2% rated arena game[s] as an engineer.,Выиграйте %num2% рейтинговых игр на арене за инженера.
-Win %num2% rated arena game[s].,Выиграйте %num2% рейтинговых игр на арене.
-"Win %num2% rated match[pl:""matches""] in Djinn's Dominion.",Выиграйте %num2% рейтинговых матчей на карте «Владения джинна».
-"Win %num2% rated match[pl:""matches""] in Skyhammer.",Выиграйте %num2% рейтинговых матчей на карте «Небесный молот».
-"Win %num2% rated match[pl:""matches""] in Spirit Watch.",Выиграйте %num2% рейтинговых матчей на карте «Дозор духов».
-"Win %num2% rated match[pl:""matches""] in the Battle of Champion's Dusk.",Выиграйте %num2% рейтинговых матчей на карте «Битва Сумерек Чемпиона».
-"Win %num2% rated match[pl:""matches""] in the Battle of Kyhlo.",Выиграйте %num2% рейтинговых матчей на карте «Битва за Кайло».
-"Win %num2% rated match[pl:""matches""] in the Eternal Coliseum.",Выиграйте %num2% рейтинговых матчей на карте «Вечный колизей».
-"Win %num2% rated match[pl:""matches""] in the Forest of Niflhel.",Выиграйте %num2% рейтинговых матчей на карте «Лес Нифльхеля».
-"Win %num2% rated match[pl:""matches""] in the Legacy of the Foefire.",Выиграйте %num2% рейтинговых матчей на карте «Наследие Огня Врагов».
-"Win %num2% rated match[pl:""matches""] in the Sunjiang Backstreets.",Выиграйте %num2% рейтинговых матчей на карте «Задворки Сунцзяна».
-"Win %num2% rated match[pl:""matches""] in the Temple of the Silent Storm.",Выиграйте %num2% рейтинговых матчей на карте «Храм Безмолвной Бури».
-"Win %num2% rated match[pl:""matches""] on Revenge of the Capricorn.",Выиграйте %num2% рейтинговых матчей на карте «Месть Козерога».
+Win %num2% rated arena game[s] as a guardian.,Выиграйте %num2% [рейтинговую игру|рейтинговые игры|рейтинговых игр] на арене за стража.
+Win %num2% rated arena game[s] as a mesmer.,Выиграйте %num2% [рейтинговую игру|рейтинговые игры|рейтинговых игр] на арене за месмера.
+Win %num2% rated arena game[s] as a necromancer.,Выиграйте %num2% [рейтинговую игру|рейтинговые игры|рейтинговых игр] на арене за некроманта.
+Win %num2% rated arena game[s] as a ranger.,Выиграйте %num2% [рейтинговую игру|рейтинговые игры|рейтинговых игр] на арене за рейнджера.
+Win %num2% rated arena game[s] as a revenant.,Выиграйте %num2% [рейтинговую игру|рейтинговые игры|рейтинговых игр] на арене за ревенанта.
+Win %num2% rated arena game[s] as a thief.,Выиграйте %num2% [рейтинговую игру|рейтинговые игры|рейтинговых игр] на арене за вора.
+Win %num2% rated arena game[s] as a warrior.,Выиграйте %num2% [рейтинговую игру|рейтинговые игры|рейтинговых игр] на арене за воина.
+Win %num2% rated arena game[s] as an elementalist.,Выиграйте %num2% [рейтинговую игру|рейтинговые игры|рейтинговых игр] на арене за элементалиста.
+Win %num2% rated arena game[s] as an engineer.,Выиграйте %num2% [рейтинговую игру|рейтинговые игры|рейтинговых игр] на арене за инженера.
+Win %num2% rated arena game[s].,Выиграйте %num2% [рейтинговую игру|рейтинговые игры|рейтинговых игр] на арене.
+"Win %num2% rated match[pl:""matches""] in Djinn's Dominion.",Выиграйте %num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] на карте «Владения джинна».
+"Win %num2% rated match[pl:""matches""] in Skyhammer.",Выиграйте %num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] на карте «Небесный молот».
+"Win %num2% rated match[pl:""matches""] in Spirit Watch.",Выиграйте %num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] на карте «Дозор духов».
+"Win %num2% rated match[pl:""matches""] in the Battle of Champion's Dusk.",Выиграйте %num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] на карте «Битва Сумерек Чемпиона».
+"Win %num2% rated match[pl:""matches""] in the Battle of Kyhlo.",Выиграйте %num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] на карте «Битва за Кайло».
+"Win %num2% rated match[pl:""matches""] in the Eternal Coliseum.",Выиграйте %num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] на карте «Вечный колизей».
+"Win %num2% rated match[pl:""matches""] in the Forest of Niflhel.",Выиграйте %num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] на карте «Лес Нифльхеля».
+"Win %num2% rated match[pl:""matches""] in the Legacy of the Foefire.",Выиграйте %num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] на карте «Наследие Огня Врагов».
+"Win %num2% rated match[pl:""matches""] in the Sunjiang Backstreets.",Выиграйте %num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] на карте «Задворки Сунцзяна».
+"Win %num2% rated match[pl:""matches""] in the Temple of the Silent Storm.",Выиграйте %num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] на карте «Храм Безмолвной Бури».
+"Win %num2% rated match[pl:""matches""] on Revenge of the Capricorn.",Выиграйте %num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] на карте «Месть Козерога».
 Win %num2% times.,Победите %num2% раз.
 Win Counter,Счётчик побед
 Win all of the outpost challenges.,Выиграйте все испытания форпоста.
@@ -329,31 +329,31 @@ Wolf Cage,Клетка волка
 Wolf Shaman Gamli needs my assistance.,Волчьему шаману Гамли нужна моя помощь.
 Wolf Torch,Факел волка
 Wolf gives me the cunning to outwit my prey.,"Волк дарует мне хитрость, чтобы перехитрить добычу."
-"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as a Guardian",Выиграно %num1% нерейтинговых и рейтинговых матчей на арене за стража
-"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as a Mesmer",Выиграно %num1% нерейтинговых и рейтинговых матчей на арене за месмера
-"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as a Necromancer",Выиграно %num1% нерейтинговых и рейтинговых матчей на арене за некроманта
-"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as a Ranger",Выиграно %num1% нерейтинговых и рейтинговых матчей на арене за рейнджера
-"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as a Revenant",Выиграно %num1% нерейтинговых и рейтинговых матчей на арене за ревенанта
-"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as a Thief",Выиграно %num1% нерейтинговых и рейтинговых матчей на арене за вора
-"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as a Warrior",Выиграно %num1% нерейтинговых и рейтинговых матчей на арене за воина
-"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as an Elementalist",Выиграно %num1% нерейтинговых и рейтинговых матчей на арене за элементалиста
-"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as an Engineer",Выиграно %num1% нерейтинговых и рейтинговых матчей на арене за инженера
+"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as a Guardian",Выиграно %num1% [нерейтинговый или рейтинговый матч на арене|нерейтинговых или рейтинговых матча на арене|нерейтинговых или рейтинговых матчей на арене] за стража
+"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as a Mesmer",Выиграно %num1% [нерейтинговый или рейтинговый матч на арене|нерейтинговых или рейтинговых матча на арене|нерейтинговых или рейтинговых матчей на арене] за месмера
+"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as a Necromancer",Выиграно %num1% [нерейтинговый или рейтинговый матч на арене|нерейтинговых или рейтинговых матча на арене|нерейтинговых или рейтинговых матчей на арене] за некроманта
+"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as a Ranger",Выиграно %num1% [нерейтинговый или рейтинговый матч на арене|нерейтинговых или рейтинговых матча на арене|нерейтинговых или рейтинговых матчей на арене] за рейнджера
+"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as a Revenant",Выиграно %num1% [нерейтинговый или рейтинговый матч на арене|нерейтинговых или рейтинговых матча на арене|нерейтинговых или рейтинговых матчей на арене] за ревенанта
+"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as a Thief",Выиграно %num1% [нерейтинговый или рейтинговый матч на арене|нерейтинговых или рейтинговых матча на арене|нерейтинговых или рейтинговых матчей на арене] за вора
+"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as a Warrior",Выиграно %num1% [нерейтинговый или рейтинговый матч на арене|нерейтинговых или рейтинговых матча на арене|нерейтинговых или рейтинговых матчей на арене] за воина
+"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as an Elementalist",Выиграно %num1% [нерейтинговый или рейтинговый матч на арене|нерейтинговых или рейтинговых матча на арене|нерейтинговых или рейтинговых матчей на арене] за элементалиста
+"Won %num1% Unranked and Ranked Arena Match[pl:""Matches""] as an Engineer",Выиграно %num1% [нерейтинговый или рейтинговый матч на арене|нерейтинговых или рейтинговых матча на арене|нерейтинговых или рейтинговых матчей на арене] за инженера
 Won %num1%/%num2% Games of Hide-and-Seek,Выиграно %num1%/%num2% партий в прятки
-"Won %num1%/%num2% Match[pl:""Matches""] in Djinn's Dominion",Выиграно %num1%/%num2% матчей на карте «Владения джинна»
-"Won %num1%/%num2% Match[pl:""Matches""] in the Sunjiang Backstreets",Выиграно %num1%/%num2% матчей на карте «Задворки Сунцзяна»
-"Won %num1%/%num2% Ranked Match[pl:""Matches""] during 2v2 Season Eight",Выиграно %num1%/%num2% рейтинговых матчей в восьмом сезоне режима «2 на 2»
-"Won %num1%/%num2% Ranked Match[pl:""Matches""] during 2v2 Season Nine",Выиграно %num1%/%num2% рейтинговых матчей в девятом сезоне режима «2 на 2»
-"Won %num1%/%num2% Ranked Match[pl:""Matches""] during 2v2 Season Ten",Выиграно %num1%/%num2% рейтинговых матчей в десятом сезоне режима «2 на 2»
-"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Forty-Two",Выиграно %num1%/%num2% рейтинговых матчей в сорок втором сезоне режима «Захват»
-"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty",Выиграно %num1%/%num2% рейтинговых матчей в тридцатом сезоне режима «Захват»
-"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Four",Выиграно %num1%/%num2% рейтинговых матчей в тридцать четвёртом сезоне режима «Захват»
-"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Three",Выиграно %num1%/%num2% рейтинговых матчей в тридцать третьем сезоне режима «Захват»
-"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Two",Выиграно %num1%/%num2% рейтинговых матчей в тридцать втором сезоне режима «Захват»
-"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Eight",Выиграно %num1%/%num2% рейтинговых матчей в двадцать восьмом сезоне режима «Захват»
-"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Five",Выиграно %num1%/%num2% рейтинговых матчей в двадцать пятом сезоне режима «Захват»
-"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Nine",Выиграно %num1%/%num2% рейтинговых матчей в двадцать девятом сезоне режима «Захват»
-"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Six",Выиграно %num1%/%num2% рейтинговых матчей в двадцать шестом сезоне режима «Захват»
-"Won %num1%/%num2% Ranked Match[pl:""Matches""] during a Conquest Season",Выиграно %num1%/%num2% рейтинговых матчей в сезоне режима «Захват»
+"Won %num1%/%num2% Match[pl:""Matches""] in Djinn's Dominion",Выиграно %num1%/%num2% [матч|матча|матчей] на карте «Владения джинна»
+"Won %num1%/%num2% Match[pl:""Matches""] in the Sunjiang Backstreets",Выиграно %num1%/%num2% [матч|матча|матчей] на карте «Задворки Сунцзяна»
+"Won %num1%/%num2% Ranked Match[pl:""Matches""] during 2v2 Season Eight",Выиграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в восьмом сезоне режима «2 на 2»
+"Won %num1%/%num2% Ranked Match[pl:""Matches""] during 2v2 Season Nine",Выиграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в девятом сезоне режима «2 на 2»
+"Won %num1%/%num2% Ranked Match[pl:""Matches""] during 2v2 Season Ten",Выиграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в десятом сезоне режима «2 на 2»
+"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Forty-Two",Выиграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в сорок втором сезоне режима «Захват»
+"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty",Выиграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в тридцатом сезоне режима «Захват»
+"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Four",Выиграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в тридцать четвёртом сезоне режима «Захват»
+"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Three",Выиграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в тридцать третьем сезоне режима «Захват»
+"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Two",Выиграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в тридцать втором сезоне режима «Захват»
+"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Eight",Выиграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в двадцать восьмом сезоне режима «Захват»
+"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Five",Выиграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в двадцать пятом сезоне режима «Захват»
+"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Nine",Выиграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в двадцать девятом сезоне режима «Захват»
+"Won %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Six",Выиграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в двадцать шестом сезоне режима «Захват»
+"Won %num1%/%num2% Ranked Match[pl:""Matches""] during a Conquest Season",Выиграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в сезоне режима «Захват»
 Won %num1%/%num2% Ranked Matches during 3v3 Season Nine,Выиграно %num1%/%num2% рейтинговых матчей в девятом сезоне режима «3 на 3»
 Won %num1%/%num2% Ranked Matches during 3v3 Season Ten,Выиграно %num1%/%num2% рейтинговых матчей в десятом сезоне режима «3 на 3»
 Won %num1%/%num2% Ranked Matches during Conquest Season Twenty-Four,Выиграно %num1%/%num2% рейтинговых матчей в двадцать четвёртом сезоне режима «Захват»

@@ -53,10 +53,10 @@ Obtain a copy of your original schematics.,Раздобудьте копию с�
 Obtain medicine for Andrew from Lieutenant Francis.,Возьмите лекарство для Эндрю у лейтенанта Фрэнсиса.
 Obtain proof of Gorr's theory with Crusader Slep.,Добудьте доказательство теории Горра вместе с крестоносцем Слепом.
 Obtain proof of Gorr's theory with Scholar Krasso.,Добудьте доказательство теории Горра вместе с учёным Крассо.
-Obtained %num1%/%num2% Fishing Rod[s],Получено %num1%/%num2% удочек
+Obtained %num1%/%num2% Fishing Rod[s],Получено %num1%/%num2% [удочку|удочки|удочек]
 Obtained %num1%/%num2% Ingredients,Получено %num1%/%num2% ингредиентов
 Obtained %num1%/%num2% Raptor Saddles,Получено %num1%/%num2% сёдел для рапторов
-Obtained %num1%/%num2% Skiff[s],Получено %num1%/%num2% яликов
+Obtained %num1%/%num2% Skiff[s],Получено %num1%/%num2% [ялик|ялика|яликов]
 Obtained %num1%/%num2% Springer Saddles,Получено %num1%/%num2% сёдел для спрингеров
 Obtained Cold Resistance,Получено сопротивление холоду
 Obtained the Warclaw Body Armor,Получена нательная броня боевого когтя
@@ -170,7 +170,7 @@ Opened %num1%/%num2% Chests,Открыто %num1%/%num2% сундуков
 Opened %num1%/%num2% Dwarven Chests,Открыто %num1%/%num2% дворфийских сундуков
 Opened %num1%/%num2% Dwarven Chests in Thunderhead Peaks,Открыто %num1%/%num2% дворфийских сундуков в Громоглавых Пиках
 Opened %num1%/%num2% Essence Chests in East Bjora Marches,Открыто %num1%/%num2% сундуков с эссенцией в Восточных Топях Бьоры
-Opened %num1%/%num2% Hidden Chest[s] in Bjora Marches,Открыто %num1%/%num2% скрытых сундуков в Топях Бьоры
+Opened %num1%/%num2% Hidden Chest[s] in Bjora Marches,Открыто %num1%/%num2% [скрытый сундук|скрытых сундука|скрытых сундуков] в Топях Бьоры
 Opened %num1%/%num2% Kodan Caches,Открыто %num1%/%num2% коданских тайников
 Opened %num1%/%num2% Lost Charr Supply Drops,Открыто %num1%/%num2% утерянных грузов чарров
 Opened %num1%/%num2% Norn Chests in East Bjora Marches,Открыто %num1%/%num2% норнских сундуков в Восточных Топях Бьоры
@@ -286,7 +286,7 @@ Pardoned an Innocent Sylvari,Помилован невиновный сильв�
 Parroen,Паррон
 Part used to repair the magical barrier around the Beacon of Ages. Find the corresponding barrier location on the exterior of the Beacon of Ages.,Деталь для починки магического барьера вокруг Маяка Веков. Найдите соответствующее место барьера на внешней стороне Маяка Веков.
 Partially Burned Notes,Частично сгоревшие записи
-Participate as a member of a team that activates %num2% jade console[s] during Sunjiang Backstreets rated matches.,"Будучи в команде, поучаствуйте в активации %num2% нефритовых консолей в рейтинговых матчах на «Задворках Сунцзяна»."
+Participate as a member of a team that activates %num2% jade console[s] during Sunjiang Backstreets rated matches.,"Будучи в команде, поучаствуйте в активации %num2% [нефритовую консоль|нефритовые консоли|нефритовых консолей] в рейтинговых матчах на «Задворках Сунцзяна»."
 Participate as a member of a team that activates the Skyhammer Canon and wins the match in rated Skyhammer %num2% time[s].,"Будучи в команде, поучаствуйте в активации Небесного молота и победе в рейтинговом матче на «Небесном молоте» — %num2% раз[|а|]."
 Participate as a member of a team that activates the cannon controller %num2% time[s] during Sunjiang Backstreets rated matches.,"Будучи в команде, поучаствуйте в активации управления пушкой %num2% раз[|а|] в рейтинговых матчах на «Задворках Сунцзяна»."
 Participate as a member of a team that captures an Orb of Ascension and wins the match in rated Spirit Watch %num2% time[s].,"Будучи в команде, захватите Сферу Вознесения и победите в рейтинговом матче на «Дозоре духов» — %num2% раз[|а|]."
@@ -309,8 +309,8 @@ Participate in the Big Brawl final match near Lake Mourn.,Поучаствуйт
 Participated in %num1%/%num2% Activities,Участие в %num1%/%num2% занятиях
 Participated in %num1%/%num2% Competitions with Cinder,Участие в %num1%/%num2% состязаниях с Синдер
 Participated in %num1%/%num2% Events,Участие в %num1%/%num2% событиях
-Participated in %num1%/%num2% Evidence Collection[s] in Bjora Marches,Участие в %num1%/%num2% сборах улик в Топях Бьоры
-Participated in %num1%/%num2% Evidence Collections in Bjora Marches,Участие в %num1%/%num2% сборах улик в Топях Бьоры
+Participated in %num1%/%num2% Evidence Collection[s] in Bjora Marches,Участие в %num1%/%num2% [сборе улик|сборах улик|сборах улик] в Топях Бьоры
+Participated in %num1%/%num2% Evidence Collections in Bjora Marches,Участие в %num1%/%num2% [сборе улик|сборах улик|сборах улик] в Топях Бьоры
 Participated in %num1%/%num2% Sniping Events with Vishen,Участие в %num1%/%num2% снайперских событиях с Вишеном
 Participated in %num1%/%num2% Successful Events,Участие в %num1%/%num2% успешных событиях
 Participated in %num1%/%num2% Successful Retakes of Tarir,Участие в %num1%/%num2% успешных отвоеваниях Тарира
@@ -348,7 +348,7 @@ Perforating Dagger,Пронзающий кинжал
 Perform reconnaissance in what's left of Bloodstone Fen and begin investigating the cause of the bloodstone's destruction.,"Проведите разведку в том, что осталось от Топи Кровавого Камня, и начните выяснять причину разрушения кровавого камня."
 Perform the rite.,Совершите обряд.
 Performed %num1%/%num2% Dances around the Fire,Исполнено %num1%/%num2% танцев у костра
-Performed %num1%/%num2% Emote[s],Исполнено %num1%/%num2% эмоций
+Performed %num1%/%num2% Emote[s],Исполнено %num1%/%num2% [эмоцию|эмоции|эмоций]
 Performed %num1%/%num2% Moves Correctly,Верно исполнено %num1%/%num2% движений
 Performed 10 Consecutive Acts of Sabotage Inside Fort Evennia,Совершено 10 актов саботажа подряд в форте Эвенния
 Performed an Emote at Gwyllian or Kela After the Meta-Event,Исполнена эмоция у Гвиллиана или Келы после мета-события
@@ -469,18 +469,18 @@ Play %num2% ranked matches during a Conquest season.,Сыграйте %num2% р�
 "Play an enchanting tune with the flute, confusing enemies in front of you. Enemies in the center of the music will be dazed.<br>The flute will then consume all notes to continue playing in the background. The flute's duration is extended for each note consumed.","Сыграйте на флейте чарующую мелодию, приводя врагов перед вами в замешательство. Враги в центре музыки будут ошеломлены.<br>Затем флейта поглотит все ноты, чтобы продолжить играть в фоне. За каждую поглощённую ноту длительность игры флейты увеличивается."
 Play through the Guild Wars 2: Janthir Wilds story chapter Finding Balance to unlock this collection.,"Пройдите главу сюжета Guild Wars 2: Janthir Wilds «Обретение равновесия», чтобы открыть эту коллекцию."
 Play through the Guild Wars 2: Visions of Eternity story chapter Truths Unearthed to unlock this collection.,"Пройдите главу сюжета Guild Wars 2: Visions of Eternity «Раскрытые истины», чтобы открыть эту коллекцию."
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during 2v2 Season Eight",Сыграно %num1%/%num2% рейтинговых матчей в восьмом сезоне режима «2 на 2»
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during 2v2 Season Nine",Сыграно %num1%/%num2% рейтинговых матчей в девятом сезоне режима «2 на 2»
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty",Сыграно %num1%/%num2% рейтинговых матчей в тридцатом сезоне режима «Захват»
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Four",Сыграно %num1%/%num2% рейтинговых матчей в тридцать четвёртом сезоне режима «Захват»
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Three",Сыграно %num1%/%num2% рейтинговых матчей в тридцать третьем сезоне режима «Захват»
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Two",Сыграно %num1%/%num2% рейтинговых матчей в тридцать втором сезоне режима «Захват»
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Eight",Сыграно %num1%/%num2% рейтинговых матчей в двадцать восьмом сезоне режима «Захват»
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Five",Сыграно %num1%/%num2% рейтинговых матчей в двадцать пятом сезоне режима «Захват»
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Nine",Сыграно %num1%/%num2% рейтинговых матчей в двадцать девятом сезоне режима «Захват»
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Seven",Сыграно %num1%/%num2% рейтинговых матчей в двадцать седьмом сезоне режима «Захват»
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Six",Сыграно %num1%/%num2% рейтинговых матчей в двадцать шестом сезоне режима «Захват»
-"Played %num1%/%num2% Ranked Match[pl:""Matches""] during a Conquest Season",Сыграно %num1%/%num2% рейтинговых матчей в сезоне режима «Захват»
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during 2v2 Season Eight",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в восьмом сезоне режима «2 на 2»
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during 2v2 Season Nine",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в девятом сезоне режима «2 на 2»
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в тридцатом сезоне режима «Захват»
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Four",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в тридцать четвёртом сезоне режима «Захват»
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Three",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в тридцать третьем сезоне режима «Захват»
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Thirty-Two",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в тридцать втором сезоне режима «Захват»
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Eight",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в двадцать восьмом сезоне режима «Захват»
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Five",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в двадцать пятом сезоне режима «Захват»
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Nine",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в двадцать девятом сезоне режима «Захват»
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Seven",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в двадцать седьмом сезоне режима «Захват»
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during Conquest Season Twenty-Six",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в двадцать шестом сезоне режима «Захват»
+"Played %num1%/%num2% Ranked Match[pl:""Matches""] during a Conquest Season",Сыграно %num1%/%num2% [рейтинговый матч|рейтинговых матча|рейтинговых матчей] в сезоне режима «Захват»
 Played %num1%/%num2% Ranked Matches during 3v3 Season Nine,Сыграно %num1%/%num2% рейтинговых матчей в девятом сезоне режима «3 на 3»
 Played %num1%/%num2% Ranked Matches during Conquest Season Twenty-Four,Сыграно %num1%/%num2% рейтинговых матчей в двадцать четвёртом сезоне режима «Захват»
 Played %num1%/%num2% Ranked Matches during Conquest Season Twenty-Three,Сыграно %num1%/%num2% рейтинговых матчей в двадцать третьем сезоне режима «Захват»

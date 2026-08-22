@@ -23,7 +23,7 @@ Surround yourself with an shield of Arcane energy that blocks the next 5 attacks
 Surrounds itself with a fear-inducing field.,"Окружает себя полем, наводящим страх."
 Surveillance Point,Точка наблюдения
 Surveyed %num1%/%num2% Impacts,Обследовано %num1%/%num2% мест падения
-Survive %num2% chamber[s] in the Tower of Nightmares.,Переживите %num2% залов в Башне Кошмаров.
+Survive %num2% chamber[s] in the Tower of Nightmares.,Переживите %num2% [зал|зала|залов] в Башне Кошмаров.
 Survived %num1%/%num2% Bloodstone Explosions,Пережито %num1%/%num2% взрывов кровавого камня
 Survived 20 Stacks of Bitter Cold,Пережито 20 стаков Лютого холода
 Survived All Encounters in the Foundry of Failed Creations without Being Downed,"Все столкновения в Литейной неудавшихся творений пережиты, ни разу не будучи поверженным"
@@ -53,7 +53,7 @@ Sven Edson,Свен Эдсон
 Swap places with your clone.,Меняет вас местами с клоном.
 Swap the neuro-cryonic circuit with the thermatid circuit.,Замените нейрокриогенную схему на терматидную.
 Swap to your fishing pole and open the fishing skill bar.<BR><BR>Requires bait or a lure to be equipped.,Достаёт удочку и открывает панель умений рыбалки.<BR><BR>Требуется снаряжённая наживка или блесна.
-Swapped Weapons %num1%/%num2% Time[s],Оружие сменено %num1%/%num2% раз
+Swapped Weapons %num1%/%num2% Time[s],Оружие сменено %num1%/%num2% [раз|раза|раз]
 Swapping weapons strikes all nearby foes.<br><c=@reminder>Will not activate out of combat unless an enemy is within range.</c>,"Смена оружия поражает всех врагов поблизости.<br><c=@reminder>Вне боя не срабатывает, если враг не в пределах дальности.</c>"
 Swarm Beetle,Роевой жук
 Swarm them!,Навались на них!
@@ -175,7 +175,7 @@ Talk your way out of trouble with Dominion forces on the beach %num2% times.,О�
 Talked Your Way Past Dominion Forces on the Beach %num1%/%num2% Times,Силы Доминиона на пляже обойдены разговором %num1%/%num2% раз
 Talked to %num1% Allies,Поговорили с %num1% союзниками
 Talked to %num1%/%num2% Allies,Поговорили с %num1%/%num2% союзниками
-Talked to %num1%/%num2% Scout[s],Поговорили с %num1%/%num2% разведчиками
+Talked to %num1%/%num2% Scout[s],Поговорили с %num1%/%num2% [разведчиком|разведчиками|разведчиками]
 Talked to All Guests,Поговорили со всеми гостями
 Talked to the Lieutenant,Поговорили с лейтенантом
 Talla,Талла
@@ -237,8 +237,8 @@ Taunt Joko.,Подразните Джоко.
 Tavi Foescream,Тави Врагокрик
 "Tea-stained cloths, reminiscent of the holy vestment relics being peddled.","Ткани в чайных пятнах, напоминающие те реликвии-облачения, которыми торгуют вразнос."
 Teal Crystallization,Бирюзовая кристаллизация
-Team Activated %num1%/%num2% Jade Console[s],Команда активировала %num1%/%num2% нефритовых консолей
-Team Activated the Cannon Controller %num1%/%num2% Time[s],Команда активировала управление пушкой %num1%/%num2% раз
+Team Activated %num1%/%num2% Jade Console[s],Команда активировала %num1%/%num2% [нефритовую консоль|нефритовые консоли|нефритовых консолей]
+Team Activated the Cannon Controller %num1%/%num2% Time[s],Команда активировала управление пушкой %num1%/%num2% [раз|раза|раз]
 Team and Battle Guild Selection,Выбор команды и боевой гильдии
 Team members will periodically be affected with vomit-inducing sickness. Combatants struck by vomit are debilitated and inflicted with conditions.,"На членов команды будет периодически накладываться недомогание, вызывающее рвоту. Бойцы, попавшие под рвоту, ослабляются и получают состояния."
 Tears of Pain,Слёзы боли

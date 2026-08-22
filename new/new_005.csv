@@ -91,8 +91,8 @@ Bouncy Cloud,Прыгучее облако
 Bound %num1% Legendary Relic[s],Привязано %num1% легендарн[ая реликвия|ые реликвии|ых реликвий]
 Bound %num1% Legendary Rune[s],Привязано %num1% легендарн[ая руна|ые руны|ых рун]
 Bound %num1% Legendary Sigil[s],Привязано %num1% легендарн[ая сигилла|ые сигиллы|ых сигилл]
-Bound Klobjarne Geirr %num1%/%num2% Time[s],Клобьярне Гейрр связан %num1%/%num2% раз
-Bound Orrax Manifested %num1%/%num2% Time[s],Оррак Проявленный связан %num1%/%num2% раз
+Bound Klobjarne Geirr %num1%/%num2% Time[s],Клобьярне Гейрр связан %num1%/%num2% [раз|раза|раз]
+Bound Orrax Manifested %num1%/%num2% Time[s],Оррак Проявленный связан %num1%/%num2% [раз|раза|раз]
 Bounty Completed,Награда за голову получена
 Bow in hand.,Лук в руке.
 Bow to superior firepower!,Склонитесь перед превосходящей огневой мощью!
@@ -406,15 +406,15 @@ Captured,Захвачено
 Captured %num1% Camp[s],Захвачено %num1% лагер[ь|я|ей]
 Captured %num1% Tower[s],Захвачено %num1% башен[|и|ь]
 Captured %num1%/%num2% Keep[s],Захвачено %num1%/%num2% крепост[ь|и|ей]
-Captured %num1%/%num2% Ruin[s],Захвачено %num1%/%num2% руин
+Captured %num1%/%num2% Ruin[s],Захвачено %num1%/%num2% [руину|руины|руин]
 Captured All Points within 30 Seconds,Захвачены все точки за 30 секунд
 Captured Canach at Southsun Cove,Канах захвачен в Бухте Южного Солнца
 Captured Catapult,Захваченная катапульта
 Captured Modniir Centaur,Захваченный кентавр-модниир
-Captured Stonemist Castle %num1% Time[s] (lifetime),Замок Каменной Дымки захвачен %num1% раз (за всё время)
+Captured Stonemist Castle %num1% Time[s] (lifetime),Замок Каменной Дымки захвачен %num1% [раз|раза|раз] (за всё время)
 Captured Tamini Centaur,Захваченный кентавр-тамини
 Captured and docile.,Пленён и смирен.
-Captured or Defended %num1%/%num2% Objective[s],Захвачено или защищено %num1%/%num2% целей
+Captured or Defended %num1%/%num2% Objective[s],Захвачено или защищено %num1%/%num2% [цель|цели|целей]
 Captured the Central Blighting Tower,Захвачена Центральная Башня Поражения
 Captured the Criminal Behind the Dragon Bash Crime,Пойман преступник за преступлением на Dragon Bash
 Captured the Middle-Point First,Первым захвачена средняя точка

@@ -131,15 +131,15 @@ Necro Dancer,Некро-танцор
 Necropolis Supply Run: Gold,Снабжение некрополя: золото
 Necropolis Supply Run: Silver,Снабжение некрополя: серебро
 Necrotic Essence Weapon Collection,Коллекция оружия некротической сущности
-Neutralize %num2% enemy capture point[s] during Battle of Kyhlo rated matches.,Нейтрализуйте %num2% вражеских точек захвата в рейтинговых матчах «Битвы за Кайло».
-Neutralize %num2% enemy capture point[s] during Forest of Niflhel rated matches.,Нейтрализуйте %num2% вражеских точек захвата в рейтинговых матчах «Лес Нифльхеля».
-Neutralize %num2% enemy capture point[s] during Legacy of the Foefire rated matches.,Нейтрализуйте %num2% вражеских точек захвата в рейтинговых матчах «Наследие Войны Врагов».
-Neutralize %num2% enemy capture point[s] during Skyhammer rated matches.,Нейтрализуйте %num2% вражеских точек захвата в рейтинговых матчах «Небесный молот».
-Neutralize %num2% enemy capture point[s] during Spirit Watch rated matches.,Нейтрализуйте %num2% вражеских точек захвата в рейтинговых матчах «Дозор духов».
-Neutralize %num2% enemy capture point[s] during Temple of the Silent Storm rated matches.,Нейтрализуйте %num2% вражеских точек захвата в рейтинговых матчах «Храм Безмолвной Бури».
-Neutralize %num2% enemy capture point[s] during rated Djinn's Dominion matches.,Нейтрализуйте %num2% вражеских точек захвата в рейтинговых матчах «Владения джинна».
-Neutralize %num2% enemy capture point[s] during rated Eternal Coliseum matches.,Нейтрализуйте %num2% вражеских точек захвата в рейтинговых матчах «Вечный Колизей».
-Neutralize %num2% enemy capture point[s] during rated Revenge of the Capricorn matches.,Нейтрализуйте %num2% вражеских точек захвата в рейтинговых матчах «Месть Козерога».
+Neutralize %num2% enemy capture point[s] during Battle of Kyhlo rated matches.,Нейтрализуйте %num2% [вражескую точку захвата|вражеские точки захвата|вражеских точек захвата] в рейтинговых матчах «Битвы за Кайло».
+Neutralize %num2% enemy capture point[s] during Forest of Niflhel rated matches.,Нейтрализуйте %num2% [вражескую точку захвата|вражеские точки захвата|вражеских точек захвата] в рейтинговых матчах «Лес Нифльхеля».
+Neutralize %num2% enemy capture point[s] during Legacy of the Foefire rated matches.,Нейтрализуйте %num2% [вражескую точку захвата|вражеские точки захвата|вражеских точек захвата] в рейтинговых матчах «Наследие Войны Врагов».
+Neutralize %num2% enemy capture point[s] during Skyhammer rated matches.,Нейтрализуйте %num2% [вражескую точку захвата|вражеские точки захвата|вражеских точек захвата] в рейтинговых матчах «Небесный молот».
+Neutralize %num2% enemy capture point[s] during Spirit Watch rated matches.,Нейтрализуйте %num2% [вражескую точку захвата|вражеские точки захвата|вражеских точек захвата] в рейтинговых матчах «Дозор духов».
+Neutralize %num2% enemy capture point[s] during Temple of the Silent Storm rated matches.,Нейтрализуйте %num2% [вражескую точку захвата|вражеские точки захвата|вражеских точек захвата] в рейтинговых матчах «Храм Безмолвной Бури».
+Neutralize %num2% enemy capture point[s] during rated Djinn's Dominion matches.,Нейтрализуйте %num2% [вражескую точку захвата|вражеские точки захвата|вражеских точек захвата] в рейтинговых матчах «Владения джинна».
+Neutralize %num2% enemy capture point[s] during rated Eternal Coliseum matches.,Нейтрализуйте %num2% [вражескую точку захвата|вражеские точки захвата|вражеских точек захвата] в рейтинговых матчах «Вечный Колизей».
+Neutralize %num2% enemy capture point[s] during rated Revenge of the Capricorn matches.,Нейтрализуйте %num2% [вражескую точку захвата|вражеские точки захвата|вражеских точек захвата] в рейтинговых матчах «Месть Козерога».
 Never Say Die,Никогда не сдавайся
 Never go adventuring on an empty stomach.,Никогда не отправляйся в приключение на пустой желудок.
 Never raise suspicion to the point that champions are deployed against you.,"Никогда не вызывайте подозрений до такой степени, чтобы против вас выставили чемпионов."
@@ -448,8 +448,8 @@ Ooze Transportation 201,Транспортировка слизней 201
 Ooze Transportation 202,Транспортировка слизней 202
 Ooze Transportation 203,Транспортировка слизней 203
 Open %num2% Lost Charr Supply Drops in the Drizzlewood Coast.,Откройте %num2% Lost Charr Supply Drops на Drizzlewood Coast.
-Open %num2% Trick or Treat bag[s].,Откройте %num2% Trick or Treat bags.
-Open %num2% Trick or Treat bag[s].,Откройте %num2% Trick or Treat bags.
+Open %num2% Trick or Treat bag[s].,Откройте %num2% [сумку с угощениями|сумки с угощениями|сумок с угощениями].
+Open %num2% Trick or Treat bag[s].,Откройте %num2% [сумку с угощениями|сумки с угощениями|сумок с угощениями].
 Open %num2% Wintersday presents.,Откройте %num2% Wintersday presents.
 Open  Zephyr Sanctum Supply Box in the Labyrinthine Cliffs.,Откройте  Zephyr Sanctum Supply Box в Labyrinthine Cliffs.
 Open  astral fluctuating masses.,Откройте  astral fluctuating masses.

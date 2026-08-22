@@ -21,7 +21,7 @@ Unlocked %num1%/%num2% Doors in Derelict Delve,Открыто %num1%/%num2% дв
 Unlocked %num1%/%num2% Dragon Slayer Weapon Skins,Разблокировано %num1%/%num2% обликов оружия убийцы драконов
 Unlocked %num1%/%num2% Enemy Supply Caches,Вскрыто %num1%/%num2% вражеских тайников с припасами
 Unlocked %num1%/%num2% Exotic Armor Skins,Разблокировано %num1%/%num2% обликов экзотической брони
-Unlocked %num1%/%num2% Fiery Dragon Slayer Weapon Skin[s],Разблокировано %num1%/%num2% обликов огненного оружия убийцы драконов
+Unlocked %num1%/%num2% Fiery Dragon Slayer Weapon Skin[s],Разблокировано %num1%/%num2% [облик огненного оружия убийцы драконов|облика огненного оружия убийцы драконов|обликов огненного оружия убийцы драконов]
 Unlocked %num1%/%num2% Fine and Masterwork Crafted Armor Skins,Разблокировано %num1%/%num2% обликов изготовленной брони качества «хорошее» и «шедевр»
 Unlocked %num1%/%num2% Fractal Weapon Skins,Разблокировано %num1%/%num2% обликов фрактального оружия
 Unlocked %num1%/%num2% Glitched Adventure Weapon Skins,Разблокировано %num1%/%num2% обликов оружия «Сбойное приключение»
@@ -29,7 +29,7 @@ Unlocked %num1%/%num2% Glittering Weapon Skins,Разблокировано %num
 Unlocked %num1%/%num2% Gold Fractal Weapon Skins,Разблокировано %num1%/%num2% обликов золотого фрактального оружия
 Unlocked %num1%/%num2% Grawl Items,Разблокировано %num1%/%num2% предметов гроулов
 Unlocked %num1%/%num2% Hylek Items,Разблокировано %num1%/%num2% предметов хилеков
-Unlocked %num1%/%num2% Icy Dragon Slayer Weapon Skin[s],Разблокировано %num1%/%num2% обликов ледяного оружия убийцы драконов
+Unlocked %num1%/%num2% Icy Dragon Slayer Weapon Skin[s],Разблокировано %num1%/%num2% [облик ледяного оружия убийцы драконов|облика ледяного оружия убийцы драконов|обликов ледяного оружия убийцы драконов]
 Unlocked %num1%/%num2% Illuminated Boreal Weapon Skins,Разблокировано %num1%/%num2% обликов оружия «Озарённый бореал»
 Unlocked %num1%/%num2% Jormag Weapon Variants,Разблокировано %num1%/%num2% вариантов оружия Йормага
 Unlocked %num1%/%num2% Kaiser Snake Weapon Skins,Разблокировано %num1%/%num2% обликов оружия «Императорская змея»
@@ -158,15 +158,15 @@ Use your skimmer's Aetherlocation ability to detect threats and discover underwa
 Use your warclaw's Sniff skill to find the creatures trapped in rubble.,"Используйте умение боевого когтя «Нюх», чтобы найти существ, застрявших под завалами."
 Use your warclaw's Sniff skill to find the targets.,"Используйте умение боевого когтя «Нюх», чтобы найти цели."
 Used %num1% Pickup Skills,Применено %num1% подбираемых умений
-Used %num1%/%num2% Combo Skill[s],Применено %num1%/%num2% комбо-умений
+Used %num1%/%num2% Combo Skill[s],Применено %num1%/%num2% [комбо-умение|комбо-умения|комбо-умений]
 Used %num1%/%num2% Diving Locations,Использовано %num1%/%num2% мест для прыжков в воду
-Used %num1%/%num2% Healing Skill[s],Применено %num1%/%num2% исцеляющих умений
+Used %num1%/%num2% Healing Skill[s],Применено %num1%/%num2% [исцеляющее умение|исцеляющих умения|исцеляющих умений]
 Used %num1%/%num2% Items,Использовано %num1%/%num2% предметов
-Used %num1%/%num2% Profession Mechanic Skill[s],Применено %num1%/%num2% умений механики профессии
+Used %num1%/%num2% Profession Mechanic Skill[s],Применено %num1%/%num2% [умение механики профессии|умения механики профессии|умений механики профессии]
 Used %num1%/%num2% Soul Binders,Использовано %num1%/%num2% привязывателей душ
 Used %num1%/%num2% Utility Boosts,Использовано %num1%/%num2% вспомогательных усилений
-Used %num1%/%num2% Utility Skill[s],Применено %num1%/%num2% вспомогательных умений
-Used %num1%/%num2% Waypoint[s],Использовано %num1%/%num2% точек перемещения
+Used %num1%/%num2% Utility Skill[s],Применено %num1%/%num2% [вспомогательное умение|вспомогательных умения|вспомогательных умений]
+Used %num1%/%num2% Waypoint[s],Использовано %num1%/%num2% [точку перемещения|точки перемещения|точек перемещения]
 Used /crossarms in the Ministry of Transit Waiting Area,Команда /crossarms применена в зале ожидания Министерства перевозок
 Used /kneel in Front of Joko's Statue,Команда /kneel применена перед статуей Джоко
 Used /ponder by the Large Orb at Wizard's Ascent,Команда /ponder применена у большой сферы в Восхождении Волшебника
@@ -246,7 +246,7 @@ Victory! The Lionguard have driven out the Sons of Svanir from Dragonblest Hold.
 View 12 Different Vistas in the Horn of Maguuma,Осмотрено 12 разных панорам в Роге Магуумы
 View 12 different vistas in the Horn of Maguuma.,Осмотрите 12 разных панорам в Роге Магуумы.
 Viewed %num1%/%num2% Objects,Осмотрено %num1%/%num2% объектов
-Viewed %num1%/%num2% Vista[s],Осмотрено %num1%/%num2% панорам
+Viewed %num1%/%num2% Vista[s],Осмотрено %num1%/%num2% [панораму|панорамы|панорам]
 Vigil Crusader Dalloros,Крестоносец Дозора Даллорос
 Vigil Crusader Shield,Щит крестоносца Дозора
 Vigil Engineer,Инженер Дозора
@@ -289,14 +289,14 @@ Visit the Trader's Forum in Lion's Arch.,Посетите Торговый фо�
 Visit the circus and look for the missing boy.,Загляните в цирк и поищите пропавшего мальчика.
 Visit the inn.,Загляните в таверну.
 Visit the pit-fighting arena near Guardian's Pass.,Посетите бойцовую яму у Перевала Стража.
-Visited %num1% End of Dragons Vista[s],Осмотрено %num1% панорам End of Dragons
-Visited %num1% Point[s] of Interest,Посещено %num1% достопримечательностей
-Visited %num1% Vista[s],Осмотрено %num1% панорам
+Visited %num1% End of Dragons Vista[s],Осмотрено %num1% [панораму|панорамы|панорам] End of Dragons
+Visited %num1% Point[s] of Interest,Посещено %num1% [достопримечательность|достопримечательности|достопримечательностей]
+Visited %num1% Vista[s],Осмотрено %num1% [панораму|панорамы|панорам]
 Visited %num1% of %num2% Dig Sites,Посещено %num1% из %num2% раскопок
 Visited %num1%/%num2% Conversation Points,Посещено %num1%/%num2% точек разговора
 Visited %num1%/%num2% Sites,Посещено %num1%/%num2% мест
 Visited Canthan Historical Sites with Marjory,Исторические места Канты посещены вместе с Марджори
-Visited First Invasion Site %num1%/%num2% Time[s],Место первого вторжения посещено %num1%/%num2% раз
+Visited First Invasion Site %num1%/%num2% Time[s],Место первого вторжения посещено %num1%/%num2% [раз|раза|раз]
 Visited Overmere Meditation Circle,Круг медитации Овермир посещён
 Visited Your Allies in Prison,Союзники навещены в тюрьме
 Visited the Highest and Lowest Points in Shipwreck Strand,Самая высокая и самая низкая точки Берега Кораблекрушений посещены

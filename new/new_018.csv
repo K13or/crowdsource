@@ -23,7 +23,7 @@ Kick the wall,Ударить в стену
 Kick them in the head! Get us out!,Ударь их в голову! Вытащи нас отсюда!
 Kicks and Punches,Удары ногами и кулаками
 Kikka,Кикка
-Kill %num1% Player[s] in WvW,Убейте %num1% игрока в WvW
+Kill %num1% Player[s] in WvW,Убейте %num1% [игрока|игрока|игроков] в WvW
 Kill %num2% Aberrant.,Убейте %num2% аберрантов.
 Kill %num2% Crystal Desert predators.,Убейте %num2% хищников Кристальной пустыни.
 Kill %num2% Fallen.,Убейте %num2% падших.
@@ -45,15 +45,15 @@ Kill %num2% drakes.,Убейте %num2% дрейков.
 Kill %num2% dredge.,Убейте %num2% дреджей.
 Kill %num2% elementals.,Убейте %num2% элементалей.
 Kill %num2% enemies using profession combinations with another player.,"Убейте %num2% врагов, используя комбинации профессий с другим игроком."
-Kill %num2% enemy player[s] in rated arena games.,Убейте %num2% вражеских игроков в рейтинговых аренных играх.
-Kill %num2% enemy supply caravan[s].,Убейте %num2% вражеских караванов с припасами.
-"Kill %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Revenge of the Capricorn matches.","Убейте %num2% врагов, защищая точки захвата своей команды в рейтинговых матчах «Месть Козерога»."
+Kill %num2% enemy player[s] in rated arena games.,Убейте %num2% [вражеского игрока|вражеских игрока|вражеских игроков] в рейтинговых аренных играх.
+Kill %num2% enemy supply caravan[s].,Убейте %num2% [вражеский караван|вражеских каравана|вражеских караванов] с припасами.
+"Kill %num2% enemy[pl:""enemies""] while defending your team's capture points during rated Revenge of the Capricorn matches.","Убейте %num2% [врага|врага|врагов], защищая точки захвата своей команды в рейтинговых матчах «Месть Козерога»."
 Kill %num2% ettins.,Убейте %num2% эттинов.
 Kill %num2% fish.,Убейте %num2% рыб.
 Kill %num2% ghosts.,Убейте %num2% призраков.
 Kill %num2% giants.,Убейте %num2% великанов.
 Kill %num2% grawl.,Убейте %num2% гроулов.
-Kill %num2% great jungle wurm egg[s] before the larvae hatch.,"Убейте %num2% яиц большого джунглевого вурма, пока личинки не вылупились."
+Kill %num2% great jungle wurm egg[s] before the larvae hatch.,"Убейте %num2% [яйцо большого джунглевого вурма|яйца большого джунглевого вурма|яиц большого джунглевого вурма], пока личинки не вылупились."
 Kill %num2% griffons.,Убейте %num2% грифонов.
 Kill %num2% harpies.,Убейте %num2% гарпий.
 Kill %num2% hostile animals in the Drizzlewood Coast.,Убейте %num2% враждебных животных на Моросистом побережье.

@@ -80,8 +80,8 @@ Power of Valor Tier 1,"Сила доблести, 1-й уровень"
 Power of Valor Tier 3,"Сила доблести, 3-й уровень"
 Power of the Mists,Сила Туманов
 Power-hit.,Мощный удар.
-Powered %num1%/%num2% Jade Lantern[s],Запитано %num1%/%num2% нефритовых фонарей
-Powered %num1%/%num2% Jade Lanterns,Запитано %num1%/%num2% нефритовых фонарей
+Powered %num1%/%num2% Jade Lantern[s],Запитано %num1%/%num2% [нефритовый фонарь|нефритовых фонаря|нефритовых фонарей]
+Powered %num1%/%num2% Jade Lanterns,Запитано %num1%/%num2% [нефритовый фонарь|нефритовых фонаря|нефритовых фонарей]
 Powered %num1%/%num2% Lanterns,Запитано %num1%/%num2% фонарей
 Powered Ligaments,Усиленные связки
 Powered up cow can knock down nearby foes.,Заряженная корова может сбивать с ног ближайших врагов.
@@ -120,13 +120,13 @@ Prevent the assassination of Blood Legion Centurion Volante Tornpaw.,Предо�
 Prevent the bandits from transporting the prisoners.,Не дайте бандитам перевезти пленников.
 Prevent the centaurs from capturing Nebo Terrace.,Не дайте кентаврам захватить Террасу Небо.
 Prevented Allies from Dying at Concordia,Союзники не погибли в Конкордии
-Prevented Braham from Using His Elite Skill %num1%/%num2% Time[s],Не дали Браму применить элитное умение %num1%/%num2% раз
+Prevented Braham from Using His Elite Skill %num1%/%num2% Time[s],Не дали Браму применить элитное умение %num1%/%num2% [раз|раза|раз]
 Prevented Crabs from Reaching All of the Hullgardeners,Не дали крабам добраться до всех Трюмных Садовников
 Prevented Krytan Awakening,Пробуждение Крайты предотвращено
 Prevented Loyalists from Stealing,Не дали лоялистам воровать
 Prevented Peitha's Health from Dropping Below 90%%,Не дали здоровью Пейты упасть ниже 90%%
 "Prevented Prototype Aerial Support Attacks and Defeated the Triumvirate with No Ally Deaths from Spaghettification, Dysapoptosis, or Thundering Ultimatum","Атаки прототипа воздушной поддержки предотвращены, Триумвират побеждён без потери союзников от Спагеттификации, Дизапоптоза или Громового Ультиматума"
-Prevented Ryland from Using His Elite Skill %num1%/%num2% Time[s],Не дали Райленду применить элитное умение %num1%/%num2% раз
+Prevented Ryland from Using His Elite Skill %num1%/%num2% Time[s],Не дали Райленду применить элитное умение %num1%/%num2% [раз|раза|раз]
 Prevented Smothered Divine Flames,Не дали задушить Божественное пламя
 Prevented White Mantle Protector from Summoning Unstable Elementals,Не дали защитнику Белой Мантии призвать нестабильных элементалей
 Prevented the Awakened Sunspear Champion from Healing,Не дали Пробуждённому чемпиону Солнечных Копий исцелиться
@@ -146,7 +146,7 @@ Primeval Healer,Первобытный целитель
 Primeval Mage,Первобытный маг
 Primordial Blast,Первородный взрыв
 Primordial Flower,Первородный цветок
-Primordus and Jormag Defeated %num1%/%num2% Time[s],Примордус и Йормаг побеждены %num1%/%num2% раз
+Primordus and Jormag Defeated %num1%/%num2% Time[s],Примордус и Йормаг побеждены %num1%/%num2% [раз|раза|раз]
 Princess Doll Tonic[s],Тоник[|а|ов] куклы-принцессы
 Priory Alchemist,Алхимик Приората
 Priory Explorer Verrolk,Исследователь Приората Верролк
@@ -352,7 +352,7 @@ Raises the swim-speed bonus of account swim-speed infusions to 20%%.,Повыш�
 Raises the swim-speed bonus of account swim-speed infusions to 25%%.,Повышает бонус скорости плавания инфузий скорости плавания учётной записи до 25%%.
 "Rake your dagger through your foe, leaving them bleeding.","Полосните кинжалом по врагу, вызывая кровотечение."
 Raketa,Ракета
-Rallied %num1%/%num2% Time[s],Собрано подкрепление %num1%/%num2% раз
+Rallied %num1%/%num2% Time[s],Собрано подкрепление %num1%/%num2% [раз|раза|раз]
 Rally Point Retaken,Точка сбора отбита
 "Rally stranded troops, gather Pact supplies, and defend Pact rally points against Mordrem advancement.","Соберите застрявшие войска, накопите припасы Пакта и защитите точки сбора Пакта от наступления мордремов."
 Rally to Frode and Major Emund: %str1%,Сбор к Фроде и майору Эмунду: %str1%
@@ -416,7 +416,7 @@ Reach rating %num2% in the scribing discipline.,Достигните рейти�
 Reach rating %num2% in the tailor discipline.,Достигните рейтинга %num2% в дисциплине портного.
 Reach rating %num2% in the weaponsmith discipline.,Достигните рейтинга %num2% в дисциплине оружейника.
 Reach the final checkpoint before time runs out to log your score.,"Достигните финального контрольного пункта до истечения времени, чтобы зафиксировать свой результат."
-Reached %num1%/%num2% Location[s],Достигнуто %num1%/%num2% мест
+Reached %num1%/%num2% Location[s],Достигнуто %num1%/%num2% [место|места|мест]
 Reached Iberu's Treasure in the Top Three,Добрался до сокровища Иберу в тройке лучших
 Reached Level 10,Достигнут 10-й уровень
 Reached Level 80,Достигнут 80-й уровень
@@ -442,8 +442,8 @@ Reactor output: %num1%%%,Мощность реактора: %num1%%%
 Read %num1%/%num2% Ancient Tablet Fragments,Прочитано %num1%/%num2% фрагментов древних табличек
 Read %num1%/%num2% Astral Ward Communiques,Прочитано %num1%/%num2% посланий Астральной стражи
 Read %num1%/%num2% Book Entries,Прочитано %num1%/%num2% записей в книге
-Read %num1%/%num2% Book[s],Прочитано %num1%/%num2% книг
-Read %num1%/%num2% Books,Прочитано %num1%/%num2% книг
+Read %num1%/%num2% Book[s],Прочитано %num1%/%num2% [книга|книги|книг]
+Read %num1%/%num2% Books,Прочитано %num1%/%num2% [книга|книги|книг]
 Read %num1%/%num2% Books in the Bastion of Knowledge Library,Прочитано %num1%/%num2% книг в библиотеке Бастиона Знания
 Read %num1%/%num2% Confidential Literature in the Wizard's Tower,Прочитано %num1%/%num2% секретных документов в Башне Волшебника
 Read %num1%/%num2% Documents,Прочитано %num1%/%num2% документов

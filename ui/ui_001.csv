@@ -399,7 +399,7 @@ english,translate
 %num1%/%num2% Introductions,%num1%/%num2% знакомств
 %num1%/%num2% Items Collected,%num1%/%num2% предметов собрано
 %num1%/%num2% Items Found,%num1%/%num2% предметов найдено
-%num1%/%num2% Journal Page[s] Acquired,%num1%/%num2% страниц дневника получено
+%num1%/%num2% Journal Page[s] Acquired,%num1%/%num2% [страница дневника получена|страницы дневника получены|страниц дневника получено]
 %num1%/%num2% Kills,%num1%/%num2% убийств
 %num1%/%num2% Kuraii the Cruel Defeated,%num1%/%num2% побед над Кураи Жестоким
 %num1%/%num2% Legendary Boss Defeated,%num1%/%num2% побед над легендарным боссом
@@ -407,7 +407,7 @@ english,translate
 %num1%/%num2% Liadri the Concealing Darkness Kills,%num1%/%num2% убийств Лиадри Скрывающей Тьмы
 %num1%/%num2% Long Hauls,%num1%/%num2% дальних перевозок
 %num1%/%num2% Magic Nodes Collected,%num1%/%num2% узлов магии собрано
-%num1%/%num2% Marionette[s] Defeated,%num1%/%num2% марионеток побеждено
+%num1%/%num2% Marionette[s] Defeated,%num1%/%num2% [марионетка побеждена|марионетки побеждены|марионеток побеждено]
 %num1%/%num2% Mastery Insight,%num1%/%num2% прозрений мастерства
 %num1%/%num2% Members Online,%num1%/%num2% участников в игре
 %num1%/%num2% Memory Games,%num1%/%num2% игр на память
@@ -457,7 +457,7 @@ english,translate
 %num1%/%num2% Tokens Contributed,%num1%/%num2% жетонов внесено
 %num1%/%num2% Tokens Traded,%num1%/%num2% жетонов обменяно
 %num1%/%num2% Toxx Defeated,%num1%/%num2% побед над Токсом
-%num1%/%num2% Toypocalypse[s] Cancelled,%num1%/%num2% «Игрушечных апокалипсисов» отменено
+%num1%/%num2% Toypocalypse[s] Cancelled,Отменено «Игрушечных апокалипсисов»: %num1%/%num2%
 %num1%/%num2% Toys Destroyed,%num1%/%num2% игрушек уничтожено
 %num1%/%num2% Trade Caches Unlocked,%num1%/%num2% торговых тайников разблокировано
 %num1%/%num2% Tree Stumps Destroyed in World 2 Tribulation Mode,%num1%/%num2% пней уничтожено в режиме испытания Мира 2

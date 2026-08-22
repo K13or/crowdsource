@@ -55,7 +55,7 @@ Accelerating!,Ускоряюсь!
 Access Granted,Доступ разрешён
 Accompany Marjory and investigate rumors of her sister's ghost haunting Fort Salma.,Сопроводите Марджори и проверьте слухи о призраке её сестры в форте Сальма.
 Accumulated Ley-Energy,Накопленная лей-энергия
-Achieved %num1%/%num2% Crafting Level[s],Достигнуто %num1%/%num2% уровней ремесла
+Achieved %num1%/%num2% Crafting Level[s],Достигнуто %num1%/%num2% [уровень ремесла|уровня ремесла|уровней ремесла]
 Achieved %num1%/%num2% Full Light,Достигнуто %num1%/%num2% полного света
 Achieved Gold on the River Mapping Adventure,Золото в приключении «Картирование реки»
 Achieved Gold on the Save Woodland Creatures Adventure,Золото в приключении «Спасение лесных зверей»
@@ -404,10 +404,10 @@ Applied %num1%/%num2% Area Damage Level 2 Upgrades,Установлено %num1%
 Applied %num1%/%num2% Area Damage Level 3 Upgrades,Установлено %num1%/%num2% улучшений «Урон по области» 3-го уровня
 Applied %num1%/%num2% Boon Wave Level 2 Upgrades,Установлено %num1%/%num2% улучшений «Волна благодатей» 2-го уровня
 Applied %num1%/%num2% Boon Wave Level 3 Upgrades,Установлено %num1%/%num2% улучшений «Волна благодатей» 3-го уровня
-Applied %num1%/%num2% Condition[s] to Enemies,На врагов наложено %num1%/%num2% состояний
+Applied %num1%/%num2% Condition[s] to Enemies,На врагов наложено %num1%/%num2% [состояние|состояния|состояний]
 Applied %num1%/%num2% Direct Damage Level 2 Upgrades,Установлено %num1%/%num2% улучшений «Прямой урон» 2-го уровня
 Applied %num1%/%num2% Direct Damage Level 3 Upgrades,Установлено %num1%/%num2% улучшений «Прямой урон» 3-го уровня
-Applied %num1%/%num2% Dye[s],Применено %num1%/%num2% красителей
+Applied %num1%/%num2% Dye[s],Применено %num1%/%num2% [краситель|красителя|красителей]
 Applied %num1%/%num2% Gravimetric Tunneling Field Oscillator Level 2 Upgrades,Установлено %num1%/%num2% улучшений «Осциллятор гравиметрического туннельного поля» 2-го уровня
 Applied %num1%/%num2% Gravimetric Tunneling Field Oscillator Level 3 Upgrades,Установлено %num1%/%num2% улучшений «Осциллятор гравиметрического туннельного поля» 3-го уровня
 Applied %num1%/%num2% Healing Aura Level 2 Upgrades,Установлено %num1%/%num2% улучшений «Аура исцеления» 2-го уровня

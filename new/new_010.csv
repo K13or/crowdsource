@@ -44,7 +44,7 @@ Defeat Mazdak the Accursed and his undead army.,Победите Маздака 
 Defeat Mikkel Toivosson.,Победите Миккеля Тойвоссона.
 Defeat Mordremoth!,Победите Мордремота!
 "Defeat Murakai, Doomlore's Bane without stepping into any of her wells.","Победите Мураками, Погибель Рокопредания, не ступая ни в один из её колодцев."
-Defeat Primordus and Jormag %num2% time[s] in the Dragonstorm encounter.,Победите Примордуса и Йормага %num2% раз в столкновении «Драконья Буря».
+Defeat Primordus and Jormag %num2% time[s] in the Dragonstorm encounter.,Победите Примордуса и Йормага %num2% [раз|раза|раз] в столкновении «Драконья Буря».
 Defeat Rakt at the Arcane Eye's headquarters.,Победите Ракта в штаб-квартире Тайного Ока.
 Defeat Razorwing and her brood.,Победите Бритвокрыл и её выводок.
 Defeat Scarlet's Twisted Marionette,Победите Искажённую Марионетку Скарлет
@@ -112,9 +112,9 @@ Defeate %num2% Dominion charr in Fort Defiance in the Drizzlewood Coast.,Поб�
 Defeated %num1% Krait,Побеждено %num1% краитов
 Defeated %num1% of %num2% Loyalist Leaders,Побеждено %num1% из %num2% вождей лоялистов
 Defeated %num1%/%num2% Aberrant,Побеждено %num1%/%num2% аберрантов
-Defeated %num1%/%num2% Aetherblade Leader[s] in Haiju Plains,Побеждено %num1%/%num2% вожаков Эфирного Клинка на Равнинах Хайцзю
+Defeated %num1%/%num2% Aetherblade Leader[s] in Haiju Plains,Побеждено %num1%/%num2% [вожака Эфирного Клинка|вожака Эфирного Клинка|вожаков Эфирного Клинка] на Равнинах Хайцзю
 Defeated %num1%/%num2% Aetherblade Leaders in Seitung Province,Побеждено %num1%/%num2% вожаков Эфирного Клинка в Провинции Сейтун
-Defeated %num1%/%num2% Aetherblade Lieutenant[s],Побеждено %num1%/%num2% лейтенантов Эфирного Клинка
+Defeated %num1%/%num2% Aetherblade Lieutenant[s],Побеждено %num1%/%num2% [лейтенанта Эфирного Клинка|лейтенанта Эфирного Клинка|лейтенантов Эфирного Клинка]
 Defeated %num1%/%num2% Angry Charr Youth,Побеждено %num1%/%num2% разгневанных юнцов-чарров
 Defeated %num1%/%num2% Augmented Emperors,Побеждено %num1%/%num2% усиленных императоров
 Defeated %num1%/%num2% Avatars of Spite,Побеждено %num1%/%num2% воплощений Злобы
@@ -141,9 +141,9 @@ Defeated %num1%/%num2% Dominion Charr in Petraj Overlook in the Drizzlewood Coas
 Defeated %num1%/%num2% Dominion Charr in Port Cascadia in the Drizzlewood Coast,Побеждено %num1%/%num2% чарров Доминиона в порту Каскадия на Моросистом побережье
 Defeated %num1%/%num2% Dominion Charr in the Vloxen Mine of the Drizzlewood Coast,Побеждено %num1%/%num2% чарров Доминиона во Влоксенской шахте на Моросистом побережье
 Defeated %num1%/%num2% Dominion Tribunes,Побеждено %num1%/%num2% трибунов Доминиона
-"Defeated %num1%/%num2% Dragon Minion[pl:""Minions""]",Побеждено %num1%/%num2% прислужников драконов
+"Defeated %num1%/%num2% Dragon Minion[pl:""Minions""]",Побеждено %num1%/%num2% [прислужника драконов|прислужника драконов|прислужников драконов]
 Defeated %num1%/%num2% Embodiments of the Chapter Boss,Побеждено %num1%/%num2% воплощений босса главы
-Defeated %num1%/%num2% Enemies,Побеждено %num1%/%num2% врагов
+Defeated %num1%/%num2% Enemies,Побеждено %num1%/%num2% [врага|врага|врагов]
 Defeated %num1%/%num2% Enemies Using Tank Weapons,Побеждено %num1%/%num2% врагов с помощью танкового оружия
 Defeated %num1%/%num2% Enemies in Convergences,Побеждено %num1%/%num2% врагов в Схождениях
 Defeated %num1%/%num2% Enemies in Mount Balrior Convergences,Побеждено %num1%/%num2% врагов в Схождениях на горе Балриор
@@ -152,15 +152,15 @@ Defeated %num1%/%num2% Enemies in Ranked Matches during 3v3 Season Five,Побе
 Defeated %num1%/%num2% Enemies in Ranked Matches during 3v3 Season One,Побеждено %num1%/%num2% врагов в рейтинговых матчах в первом сезоне режима «3 на 3»
 Defeated %num1%/%num2% Enemies in Ranked Matches during 3v3 Season Three,Побеждено %num1%/%num2% врагов в рейтинговых матчах в третьем сезоне режима «3 на 3»
 Defeated %num1%/%num2% Enemies in Ranked Matches during 3v3 Season Two,Побеждено %num1%/%num2% врагов в рейтинговых матчах в втором сезоне режима «3 на 3»
-"Defeated %num1%/%num2% Enemy[pl:""Enemies""]",Побеждено %num1%/%num2% врагов
-"Defeated %num1%/%num2% Enemy[pl:""Enemies""] in Ranked Matches during 2v2 Season Eight",Побеждено %num1%/%num2% врагов в рейтинговых матчах в восьмом сезоне режима «2 на 2»
-"Defeated %num1%/%num2% Enemy[pl:""Enemies""] in Ranked Matches during 2v2 Season Five",Побеждено %num1%/%num2% врагов в рейтинговых матчах в пятом сезоне режима «2 на 2»
-"Defeated %num1%/%num2% Enemy[pl:""Enemies""] in Ranked Matches during 2v2 Season Four",Побеждено %num1%/%num2% врагов в рейтинговых матчах в четвёртом сезоне режима «2 на 2»
-"Defeated %num1%/%num2% Enemy[pl:""Enemies""] in Ranked Matches during 2v2 Season Seven",Побеждено %num1%/%num2% врагов в рейтинговых матчах в седьмом сезоне режима «2 на 2»
+"Defeated %num1%/%num2% Enemy[pl:""Enemies""]",Побеждено %num1%/%num2% [врага|врага|врагов]
+"Defeated %num1%/%num2% Enemy[pl:""Enemies""] in Ranked Matches during 2v2 Season Eight",Побеждено %num1%/%num2% [врага|врага|врагов] в рейтинговых матчах в восьмом сезоне режима «2 на 2»
+"Defeated %num1%/%num2% Enemy[pl:""Enemies""] in Ranked Matches during 2v2 Season Five",Побеждено %num1%/%num2% [врага|врага|врагов] в рейтинговых матчах в пятом сезоне режима «2 на 2»
+"Defeated %num1%/%num2% Enemy[pl:""Enemies""] in Ranked Matches during 2v2 Season Four",Побеждено %num1%/%num2% [врага|врага|врагов] в рейтинговых матчах в четвёртом сезоне режима «2 на 2»
+"Defeated %num1%/%num2% Enemy[pl:""Enemies""] in Ranked Matches during 2v2 Season Seven",Побеждено %num1%/%num2% [врага|врага|врагов] в рейтинговых матчах в седьмом сезоне режима «2 на 2»
 Defeated %num1%/%num2% Fallen,Побеждено %num1%/%num2% падших
 Defeated %num1%/%num2% Final Opponents in the Battle for the Jade Sea,Побеждено %num1%/%num2% финальных противников в Битве за Нефритовое море
-Defeated %num1%/%num2% Foe[s] in Djinn's Dominion Rated Matches,Побеждено %num1%/%num2% врагов в рейтинговых матчах «Владения джинна»
-Defeated %num1%/%num2% Foe[s] in Sunjiang Backstreets Matches,Побеждено %num1%/%num2% врагов в матчах «Задворки Сунцзяна»
+Defeated %num1%/%num2% Foe[s] in Djinn's Dominion Rated Matches,Побеждено %num1%/%num2% [врага|врага|врагов] в рейтинговых матчах «Владения джинна»
+Defeated %num1%/%num2% Foe[s] in Sunjiang Backstreets Matches,Побеждено %num1%/%num2% [врага|врага|врагов] в матчах «Задворки Сунцзяна»
 Defeated %num1%/%num2% Giant Beasts,Побеждено %num1%/%num2% гигантских зверей
 Defeated %num1%/%num2% Haze Agitators,Побеждено %num1%/%num2% возмутителей дымки
 Defeated %num1%/%num2% High Judges,Побеждено %num1%/%num2% верховных судей
@@ -178,17 +178,17 @@ Defeated %num1%/%num2% Manifestations without Being Downed,"Побеждено %
 Defeated %num1%/%num2% Mechs,Побеждено %num1%/%num2% мехов
 Defeated %num1%/%num2% Minions of Jormag,Побеждено %num1%/%num2% прислужников Йормага
 Defeated %num1%/%num2% Mursaat Ghosts,Побеждено %num1%/%num2% призраков мурсаат
-Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Forty,Побеждено %num1%/%num2% игроков в рейтинговых матчах в сороковом сезоне режима «Захват»
-Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Forty-One,Побеждено %num1%/%num2% игроков в рейтинговых матчах в сорок первом сезоне режима «Захват»
-Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Thirty-Eight,Побеждено %num1%/%num2% игроков в рейтинговых матчах в тридцать восьмом сезоне режима «Захват»
-Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Thirty-Five,Побеждено %num1%/%num2% игроков в рейтинговых матчах в тридцать пятом сезоне режима «Захват»
-Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Thirty-Nine,Побеждено %num1%/%num2% игроков в рейтинговых матчах в тридцать девятом сезоне режима «Захват»
-Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Thirty-One,Побеждено %num1%/%num2% игроков в рейтинговых матчах в тридцать первом сезоне режима «Захват»
-Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Thirty-Seven,Побеждено %num1%/%num2% игроков в рейтинговых матчах в тридцать седьмом сезоне режима «Захват»
-Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Thirty-Six,Побеждено %num1%/%num2% игроков в рейтинговых матчах в тридцать шестом сезоне режима «Захват»
-Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Twenty-Five,Побеждено %num1%/%num2% игроков в рейтинговых матчах в двадцать пятом сезоне режима «Захват»
-Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Twenty-Six,Побеждено %num1%/%num2% игроков в рейтинговых матчах в двадцать шестом сезоне режима «Захват»
-Defeated %num1%/%num2% Player[s] in Ranked Matches during a Conquest Season,Побеждено %num1%/%num2% игроков в рейтинговых матчах в сезоне режима «Захват»
+Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Forty,Побеждено %num1%/%num2% [игрока|игрока|игроков] в рейтинговых матчах в сороковом сезоне режима «Захват»
+Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Forty-One,Побеждено %num1%/%num2% [игрока|игрока|игроков] в рейтинговых матчах в сорок первом сезоне режима «Захват»
+Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Thirty-Eight,Побеждено %num1%/%num2% [игрока|игрока|игроков] в рейтинговых матчах в тридцать восьмом сезоне режима «Захват»
+Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Thirty-Five,Побеждено %num1%/%num2% [игрока|игрока|игроков] в рейтинговых матчах в тридцать пятом сезоне режима «Захват»
+Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Thirty-Nine,Побеждено %num1%/%num2% [игрока|игрока|игроков] в рейтинговых матчах в тридцать девятом сезоне режима «Захват»
+Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Thirty-One,Побеждено %num1%/%num2% [игрока|игрока|игроков] в рейтинговых матчах в тридцать первом сезоне режима «Захват»
+Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Thirty-Seven,Побеждено %num1%/%num2% [игрока|игрока|игроков] в рейтинговых матчах в тридцать седьмом сезоне режима «Захват»
+Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Thirty-Six,Побеждено %num1%/%num2% [игрока|игрока|игроков] в рейтинговых матчах в тридцать шестом сезоне режима «Захват»
+Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Twenty-Five,Побеждено %num1%/%num2% [игрока|игрока|игроков] в рейтинговых матчах в двадцать пятом сезоне режима «Захват»
+Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Twenty-Six,Побеждено %num1%/%num2% [игрока|игрока|игроков] в рейтинговых матчах в двадцать шестом сезоне режима «Захват»
+Defeated %num1%/%num2% Player[s] in Ranked Matches during a Conquest Season,Побеждено %num1%/%num2% [игрока|игрока|игроков] в рейтинговых матчах в сезоне режима «Захват»
 Defeated %num1%/%num2% Players in Ranked Matches during Conquest Season Twenty-Four,Побеждено %num1%/%num2% игроков в рейтинговых матчах в двадцать четвёртом сезоне режима «Захват»
 Defeated %num1%/%num2% Players in Ranked Matches during Conquest Season Twenty-One,Побеждено %num1%/%num2% игроков в рейтинговых матчах в двадцать первом сезоне режима «Захват»
 Defeated %num1%/%num2% Players in Ranked Matches during Conquest Season Twenty-Three,Побеждено %num1%/%num2% игроков в рейтинговых матчах в двадцать третьем сезоне режима «Захват»
@@ -197,14 +197,14 @@ Defeated %num1%/%num2% Prestige Hunting Targets,Побеждено %num1%/%num2%
 Defeated %num1%/%num2% Sons of Svanir,Побеждено %num1%/%num2% Сынов Сванира
 Defeated %num1%/%num2% Specimen Chamber Bosses,Побеждено %num1%/%num2% боссов камеры образцов
 Defeated %num1%/%num2% Strike Bosses in the Sanctum Arena,Побеждено %num1%/%num2% боссов ударных миссий на Арене Святилища
-Defeated %num1%/%num2% Student[s] of Charybda,Побеждено %num1%/%num2% учеников Харибды
+Defeated %num1%/%num2% Student[s] of Charybda,Побеждено %num1%/%num2% [ученика Харибды|ученика Харибды|учеников Харибды]
 Defeated %num1%/%num2% Targets,Побеждено %num1%/%num2% целей
-Defeated %num1%/%num2% Tentacle[s] of Nourys,Побеждено %num1%/%num2% щупалец Нуриса
+Defeated %num1%/%num2% Tentacle[s] of Nourys,Побеждено %num1%/%num2% [щупальце Нуриса|щупальца Нуриса|щупалец Нуриса]
 Defeated %num1%/%num2% Veteran Kryptis,Побеждено %num1%/%num2% криптисов-ветеранов
-Defeated %num1%/%num2% Veteran[s],Побеждено %num1%/%num2% ветеранов
-Defeated %num1%/%num2% Vinetooth[s],Побеждено %num1%/%num2% лозозубов
+Defeated %num1%/%num2% Veteran[s],Побеждено %num1%/%num2% [ветерана|ветерана|ветеранов]
+Defeated %num1%/%num2% Vinetooth[s],Побеждено %num1%/%num2% [лозозуба|лозозуба|лозозубов]
 Defeated %num1%/%num2% Weapons,Побеждено %num1%/%num2% оружия
-"Defeated %num1%/%num2% World Boss[pl:""Bosses""]",Побеждено %num1%/%num2% мировых боссов
+"Defeated %num1%/%num2% World Boss[pl:""Bosses""]",Побеждено %num1%/%num2% [мирового босса|мировых босса|мировых боссов]
 Defeated %num1%/%num2% of the Champions Summoned by Soo-Won,"Побеждено %num1%/%num2% из чемпионов, призванных Су-Вон"
 Defeated %num1%/5 Nightfall Bosses,Побеждено %num1%/5 боссов Ночного Падения
 Defeated %num2% Bosses in Mount Balrior Without Party Members Being Defeated,Побеждено %num2% боссов на горе Балриор без поражений членов группы
@@ -273,7 +273,7 @@ Defeated Nourys and Collected %num1%/%num2% Skins,"Нурис побеждён, 
 Defeated Palawadan's Gate Guardians without Either Awakening the Other,"Стражи врат Палавадана побеждены так, что ни один не разбудил другого"
 Defeated Pherus and Collected %num1%/%num2% Skins,"Ферус побеждён, собрано %num1%/%num2% обликов"
 Defeated Potoni the Massive,Потони Громадный побеждён
-Defeated Primordus and Jormag %num1%/%num2% Time[s],Примордус и Йормаг побеждены %num1%/%num2% раз
+Defeated Primordus and Jormag %num1%/%num2% Time[s],Примордус и Йормаг побеждены %num1%/%num2% [раз|раза|раз]
 Defeated Queen Labris Without Getting Hit by Unquenchable Rage,Королева Лабрис побеждена без попаданий Неутолимой яростью
 Defeated Rift Hunt Targets in %num1%/%num2% Maps,Цели охоты на разломы побеждены на %num1%/%num2% картах
 Defeated Scarlet on the Breachmaker,Скарлет побеждена на Проломщике
@@ -364,7 +364,7 @@ Defeated the Mordrem Thrasher while Avoiding Spore Rain,Мордремский �
 Defeated the Ooze Pit's Grand Champion,Великий чемпион Ямы слизней побеждён
 Defeated the Ooze Pit's Grand Champion without Allowing Any Divisions in the Final Phase,Великий чемпион Ямы слизней побеждён без делений в финальной фазе
 Defeated the Ooze Pit's Grand Champion without Being Hit by an Ooze Explosion,Великий чемпион Ямы слизней побеждён без попаданий взрывом слизня
-Defeated the Ravenous Wanderer %num1%/%num2% Time[s],Ненасытный странник побеждён %num1%/%num2% раз
+Defeated the Ravenous Wanderer %num1%/%num2% Time[s],Ненасытный странник побеждён %num1%/%num2% [раз|раза|раз]
 Defeated the Shade of Doubt with an Echo of Fear,Тень Сомнения побеждена с Эхом Страха
 Defeated the Shade of Doubt without Echo of Fear,Тень Сомнения побеждена без Эха Страха
 Defeated the Sloth Queen at Performance Field,Королева ленивцев побеждена на Поле представлений
@@ -386,8 +386,8 @@ Defeating creatures that grant experience will infrequently uncover a member of 
 Defector's Data Crystals Retrieved,Кристаллы данных перебежчика добыты
 Defectors,Перебежчики
 Defend %num2% keeps.,Защитите %num2% крепостей.
-Defend %num2% objective[s].,Защитите %num2% целей.
-Defend %num2% objectives.,Защитите %num2% целей.
+Defend %num2% objective[s].,Защитите %num2% [цель|цели|целей].
+Defend %num2% objectives.,Защитите %num2% [цель|цели|целей].
 Defend %num2% supply camps.,Защитите %num2% лагерей снабжения.
 Defend %num2% towers.,Защитите %num2% башен.
 Defend Agrak Kraal from Uldek's Branded horde.,Защитите Аграк-Крааль от клеймёной орды Улдека.
@@ -417,15 +417,15 @@ Defend the quaggan pastkeeper from the pirates.,Защитите квагган�
 Defend the sentry post.,Защитите сторожевой пост.
 Defend yourself against Steelbane's lackeys.,Защититесь от прихвостней Стилбейна.
 Defended %num1%/%num2% Key Locations,Защищено %num1%/%num2% ключевых мест
-Defended %num1%/%num2% Objective[s],Защищено %num1%/%num2% целей
+Defended %num1%/%num2% Objective[s],Защищено %num1%/%num2% [цель|цели|целей]
 Defended %num1%/6 Areas,Защищено %num1%/6 областей
 Defended Amber Sandfall,Янтарный Песнепад защищён
 Defended Blue Oasis,Синий Оазис защищён
 Defended Canach While He Armed the Bomb,"Канах защищён, пока он ставил бомбу"
 Defended Indigo Cave,Индиговая Пещера защищена
 Defended Red Rock Bastion,Бастион Красной Скалы защищён
-Defended Stonemist Castle %num1% Time[s] (lifetime),Замок Каменной Дымки защищён %num1% раз (за всё время)
-Defended Your Team's Capture Points %num1%/%num2% Time[s],Точки захвата вашей команды защищены %num1%/%num2% раз
+Defended Stonemist Castle %num1% Time[s] (lifetime),Замок Каменной Дымки защищён %num1% [раз|раза|раз] (за всё время)
+Defended Your Team's Capture Points %num1%/%num2% Time[s],Точки захвата вашей команды защищены %num1%/%num2% [раз|раза|раз]
 Defended a Pact Tower,Башня Пакта защищена
 Defended the Barricades,Баррикады защищены
 Defended the Cocoons without Any Being Destroyed,"Коконы защищены, ни один не уничтожен"
@@ -443,7 +443,7 @@ Defuse %num2% Dominion mines in the Northern Drizzlewood Coast.,Обезвред
 Defused %num1%/%num2% Dominion Mines,Обезврежено %num1%/%num2% мин Доминиона
 Defused %num1%/%num2% Minefields,Обезврежено %num1%/%num2% минных полей
 Delilah,Делайла
-Deliver %num1%/%num2% unit[s] of ley-line energy while piloting a siege turtle.,"Доставьте %num1%/%num2% единиц энергии лей-линий, управляя осадной черепахой."
+Deliver %num1%/%num2% unit[s] of ley-line energy while piloting a siege turtle.,"Доставьте %num1%/%num2% [единицу энергии лей-линий|единицы энергии лей-линий|единиц энергии лей-линий], управляя осадной черепахой."
 Deliver %num2% Kryptis essences to Zojja.,Доставьте %num2% эссенций криптисов Зойе.
 Deliver %num2% calibrated essence in Mount Balrior Convergences.,Доставьте %num2% калиброванной эссенции в Схождениях на горе Балриор.
 Deliver %num2% damage in a single blow.,Нанесите %num2% урона одним ударом.
@@ -472,10 +472,10 @@ Deliver a blast of chain lightning on your foes.,Обрушьте на враг�
 Deliver nourishment to %num2% hungry Kryptis.,Доставьте пропитание %num2% голодным криптисам.
 Deliver to thirsty lowland kodan to gain renown.,"Доставляйте питьё жаждущим низинным коданам, чтобы заслужить почёт."
 Delivered %num1%/%num2% Calibrated Essence,Доставлено %num1%/%num2% калиброванной эссенции
-Delivered %num1%/%num2% Kryptis Essence[s],Доставлено %num1%/%num2% эссенций криптисов
-Delivered %num1%/%num2% Resource[s] to Vethrax,Доставлено %num1%/%num2% ресурсов Ветраксу
-"Delivered %num1%/%num2% Supply[pl:""Supplies""]",Доставлено %num1%/%num2% припасов
-Delivered %num1%/%num2% Unit[s] of Ley-Line Energy,Доставлено %num1%/%num2% единиц энергии лей-линий
+Delivered %num1%/%num2% Kryptis Essence[s],Доставлено %num1%/%num2% [эссенцию криптисов|эссенции криптисов|эссенций криптисов]
+Delivered %num1%/%num2% Resource[s] to Vethrax,Доставлено %num1%/%num2% [ресурс Ветраксу|ресурса Ветраксу|ресурсов Ветраксу]
+"Delivered %num1%/%num2% Supply[pl:""Supplies""]",Доставлено %num1%/%num2% [припас|припаса|припасов]
+Delivered %num1%/%num2% Unit[s] of Ley-Line Energy,Доставлено %num1%/%num2% [единицу энергии лей-линий|единицы энергии лей-линий|единиц энергии лей-линий]
 Delivered Medicine to %num1%/%num2% Exhausted Sentries,Лекарства доставлены %num1%/%num2% измотанным дозорным
 Delivered Toys to the Priory Arcanist,Игрушки доставлены арканисту Приората
 Delivered an Egg to Utogi in Less Than 5 Seconds,Яйцо доставлено Утоги менее чем за 5 секунд
@@ -494,8 +494,8 @@ Denton the Durable,Дентон Стойкий
 Deplete Defiance Bar,Истощить полосу непокорности
 Deployed repair golems are attempting to repair the Brand Stomper.,Развёрнутые ремонтные големы пытаются починить Клеймотопа.
 Deploying projectiles!,Выпускаю снаряды!
-Deposited %num1%/%num2% Item[s],Сдано %num1%/%num2% предметов
-Deposited Materials %num1%/%num2% Time[s],Материалы сданы %num1%/%num2% раз
+Deposited %num1%/%num2% Item[s],Сдано %num1%/%num2% [предмет|предмета|предметов]
+Deposited Materials %num1%/%num2% Time[s],Материалы сданы %num1%/%num2% [раз|раза|раз]
 Deputy Crackshot,Помощник шерифа Меткач
 Deputy Glaegi,Помощник шерифа Глейги
 Deputy Stroffnir,Помощник шерифа Строффнир
