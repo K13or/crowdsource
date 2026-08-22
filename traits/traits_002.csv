@@ -394,7 +394,7 @@ Fury increases the duration of bleeds you inflict. Gaining fury inspires you wit
 "Gadget. Throw out a remote-controlled land mine that damages, knocks back, and removes a boon from nearby foes. A second mine is planted at your location after the first lands.","Гаджет. Бросьте дистанционно управляемую наземную мину, которая наносит урон, отбрасывает и снимает благословение с ближайших врагов. Вторая мина устанавливается на вашем месте после приземления первой."
 Gadgeteer,Гаджетолог
 Gain 1 extra adrenaline per hit.,Получайте 1 дополнительную единицу адреналина за удар.
-Gain <c=@abilitytype>carapace</c> when entering shroud.,"Получайте <c=@abilitytype>панцирь</c> Вы получаете панцирь , когда входите в Саван."
+Gain <c=@abilitytype>carapace</c> when entering shroud.,"Получайте <c=@abilitytype>панцирь</c> Вы получаете панцирь, когда входите в Саван."
 "Gain Combat High when you use Skritt Swipe, increasing your outgoing strike and condition damage. Lose stacks of Combat High every interval.","Получите Боевой подъём при использовании Удара скритта, увеличивая ваш исходящий урон от атак и состояний. Теряйте стаки Боевого подъёма через каждый интервал."
 Gain Elemental Empowerment and might when you disable or immobilize a foe.,"Вам даруется Мощь и Стихийное усиление, когда вы обездвиживаете противника или выводите его из строя."
 Gain Elemental Empowerment and vigor when evading an attack.,"Вам даруется Энергичность и Стихийное усиление, когда вы уклоняетесь от атаки."
@@ -415,9 +415,9 @@ Gain a burst of speed when entering berserk mode.,"Вы ускоряетесь, 
 <c=@reminder>Also triggers on overload skills.</c>","Получайте ауру огня и наносите урон ближайшим врагам при настройке на огонь.
 <c=@reminder>Также срабатывает при навыках перегрузки (overload).</c>"
 Gain a light aura and blind nearby foes when you activate Virtue skill 1.,Вы получаете ауру Света и ослепляете противников поблизости при активации 1-го умения Добродетели.
-Gain a note when you use a <c=@abilitytype>phantasm</c> skill.,Вы получаете ноту при использовании умения- фантома . <c=@abilitytype>фантома</c>.
+Gain a note when you use a <c=@abilitytype>phantasm</c> skill.,Вы получаете ноту при использовании умения- фантома. <c=@abilitytype>фантома</c>.
 Gain a stacking ferocity effect when you or one of your illusions strikes with a one-handed sword or an underwater spear. Reduces recharge on sword and underwater spear skills.,"Вы получаете суммирующийся бонус к Жестокости, когда вы или ваша иллюзия наносит удар мечом или подводным копьём. Уменьшает время перезарядки умений меча и подводного копья."
-Gain a temporary bonus after using a <c=@abilitytype>familiar</c> skill.,Вы получаете временный бонус после использования умения фамильяра . <c=@abilitytype>фамильяра</c>.
+Gain a temporary bonus after using a <c=@abilitytype>familiar</c> skill.,Вы получаете временный бонус после использования умения фамильяра. <c=@abilitytype>фамильяра</c>.
 "Gain access to <c=@abilitytype>Cantrips</c> and <c=@abilitytype>Unleash</c>. While your pet is unleashed, its skills are replaced with larger area-of-effect skills. Once per interval, <c=@abilitytype>Unleashed Ambush</c> skills become available for a short period of time after you unleash.","Получите доступ к <c=@abilitytype>Фокусам</c> и <c=@abilitytype>Высвобождению</c>. Пока ваш питомец высвобожден, его навыки заменяются навыками с большей областью действия. Один раз за интервал навыки <c=@abilitytype>Высвобожденной засады</c> становятся доступны на короткое время после высвобождения."
 Gain access to <c=@abilitytype>Glyphs</c>. Become a celestial avatar once you gain enough astral force. Generate astral force by healing allies and damaging foes.,"Получите доступ к <c=@abilitytype>Глифам</c>. Станьте небесным аватаром, как только наберёте достаточно астральной силы. Генерируйте астральную силу, исцеляя союзников и нанося урон врагам."
 "Gain access to <c=@abilitytype>Stances</c>. Survival in the desert has enhanced your connection to your pet, granting you the ability to meld with them by entering beastmode.
@@ -427,8 +427,8 @@ Gain access to <c=@abilitytype>Glyphs</c>. Become a celestial avatar once you ga
 Gain access to Reshuffle. Remove conditions from yourself whenever you reshuffle your artifacts or use an artifact skill.,"Вы получаете доступ к Перетасовке. Вы снимаете с себя состояния каждый раз, когда перетасовываете артефакты или используете умение-артефакт."
 Gain access to berserk mode and <c=@abilitytype>primal bursts</c>.,Открывает доступ к режиму берсерка и <c=@abilitytype>первобытным всплескам</c> (primal bursts).
 Gain access to chants and command skills. Gain motivation by using a chant or by using a burst skill while a refrain is active.,"Вы получаете доступ к умениям-хоралам и командам. Вы получаете мотивацию при использовании хоралов или вспышек ярости, пока длится рефрен."
-Gain access to chronomancer shatter skills and <c=@abilitytype>Wells</c>.,Вы получаете доступ к умениям-осколкам Хрономанта и к источникам . <c=@abilitytype>Колодцам</c> (Wells).
-Gain access to physical skills. Your maximum endurance threshold is increased.,Вы получаете доступ к умениям грубой силы . Ваш максимальный запас выносливости увеличен.
+Gain access to chronomancer shatter skills and <c=@abilitytype>Wells</c>.,Вы получаете доступ к умениям-осколкам Хрономанта и к источникам. <c=@abilitytype>Колодцам</c> (Wells).
+Gain access to physical skills. Your maximum endurance threshold is increased.,Вы получаете доступ к умениям грубой силы. Ваш максимальный запас выносливости увеличен.
 "Gain access to spirit innervation skills, allowing you to channel energy to your spirits for an additional effect. 
 Gain life force when you use an innervate skill.","Открывает доступ к навыкам иннервации духа, позволяющим направлять энергию своим духам для получения дополнительного эффекта.
 Получайте жизненную силу при использовании навыка иннервации."
@@ -513,7 +513,7 @@ Gain fury when entering shroud. Gain additional precision.,"Вам дарует�
 Gain fury when swapping weapons in combat.,Вам даруется Ярость при смене оружия в бою.
 Gain fury when you activate Bladesong Sorrow. Fury increases your expertise.,При активации умения Bladesong Sorrow вам даруется Ярость. Ярость повышает вашу Сноровку.
 Gain fury when you gain might at or above the threshold.,"Вам даруется Ярость, когда дарованная вам Мощь равна или превышает порог."
-Gain fury when you hit a foe with an <c=@abilitytype>Explosion</c>.,"Вам даруется Ярость, когда вы поражаете противника взрывом . <c=@abilitytype>взрывом</c>."
+Gain fury when you hit a foe with an <c=@abilitytype>Explosion</c>.,"Вам даруется Ярость, когда вы поражаете противника взрывом. <c=@abilitytype>взрывом</c>."
 Gain fury when you inflict bleeding on an enemy. Fury gives an increased critical-strike chance.,Получайте ярость при наложении кровотечения на врага. Ярость даёт увеличенный шанс критического удара.
 Gain fury when you invoke a legend.,"Вам даруется Ярость, когда вы обращаетесь к легенде."
 Gain fury when you strike a foe that has burning stacks over the threshold.,"Вам даруется Ярость, когда вы наносите удар противнику, число стеков горения на котором выше порога."
