@@ -50,7 +50,7 @@ Natural Mender,Природный целитель
 Natural Vigor,Природная бодрость
 Nature's Shield,Щит природы
 Nature's Vengeance,Месть природы
-Nearby allies gain boons for each clone you shatter. Grant boons to nearby allies when you summon a <c=@abilitytype>phantasm</c>.,"Союзники поблизости получают дары за каждого клона, разбитого вами на осколки. Вы даруете Рвение союзникам поблизости, когда создаете фантом . <c=@abilitytype>фантазма</c>."
+Nearby allies gain boons for each clone you shatter. Grant boons to nearby allies when you summon a <c=@abilitytype>phantasm</c>.,"Союзники поблизости получают дары за каждого клона, разбитого вами на осколки. Вы даруете Рвение союзникам поблизости, когда создаете фантом. <c=@abilitytype>фантазма</c>."
 Nearby allies gain the passive effect of Virtue skill 2.,Близлежащие союзники получают пассивный эффект умения Добродетели 2.
 Nearby foes are blinded by <c=@abilitytype>Beast</c> abilities.,Умения зверя ослепляют противников поблизости. <c=@abilitytype>Зверя</c>.
 Necromantic Corruption,Некромантическая порча
@@ -135,7 +135,7 @@ Plague Sending,Передача чумы
 Planar Protection,Планарная защита
 Poison Damage Increase,Увеличение урона ядом
 Poison Master,Мастер ядов
-Poison damage is increased. Applying poison grants <c=@abilitytype>carapace</c>.,Урон от отравления увеличен. Накладывание отравления даёт вам панцирь . <c=@abilitytype>панцирь</c>.
+Poison damage is increased. Applying poison grants <c=@abilitytype>carapace</c>.,Урон от отравления увеличен. Накладывание отравления даёт вам панцирь. <c=@abilitytype>панцирь</c>.
 Poison you inflict has increased damage and duration. Other Deadly Arts traits apply additional stacks of poison.,"Отравление, вызванное вами, длится дольше и наносит больше урона. Другие черты Смертельных Искусств накладывают дополнительные стеки отравления."
 Possessive Hoarder,Собственнический накопитель
 Potent Poison,Сильный яд
