@@ -525,7 +525,7 @@ Inflict vulnerability when you interrupt a foe.<br><c=@reminder>This trait can o
 A percentage of your condition damage heals you.<br><c=@reminder>Healing will not occur while life force replaces health.</c>,"Определённый процент урона от ваших состояний восстанавливает вам здоровье.<br><c=@reminder>Восстановление здоровья не произойдёт, пока действует жизненная сила вместо здоровья.</c>"
 Gain an attack of opportunity for you and your pet on interrupting a foe. Daze and stun durations that you inflict last longer.<br><c=@reminder>This trait can only grant an attack of opportunity against enemies with defiance bars once per interval.</c>,"При прерывании атаки противника вы и ваш питомец получаете возможность совершить дополнительную атаку. Длительность эффектов оглушения и ошеломления, которые вы накладываете, увеличивается.<br><c=@reminder>Этот талант позволяет получить возможность совершить дополнительную атаку только один раз за определенный промежуток времени против врагов с полоской сопротивления.</c>"
 "You did a good for us, so I give you advice. For most skritt, all food scavenged. Make a big pile, food will rot. Many young kitts are born, maybe pile not enough. But grubs you keep alive do not spoil. They make their own kitts. We learned this way, not past-looking, not now-looking. Think of the future. Bigjob like you? Many great things can come. Look at future, go toward the great things.<br>
-—Forager Sneckit","Ты хорошо поработал для нас, поэтому я дам тебе совет. Большинство скриттов едят только найденную пищу. Сделайте большую кучу, и пища начнет гнить. Возможно, родится много маленьких котят, и этой кучи будет недостаточно. Но личинки, которых вы сохраняете живыми, не портятся. Они сами производят новых котят. Мы узнали это таким образом, мы смотрим в будущее, а не в прошлое или настоящее. Подумайте о будущем. Ты делаешь большую работу? Тогда многое может произойти. Смотрите в будущее и стремитесь к великим свершениям.<br>
+—Forager Sneckit","Ты хорошо поработал для нас, поэтому я дам тебе совет. Большинство скриттов едят только найденную пищу. Сделай большую кучу, и пища начнет гнить. Возможно, родится много маленьких котят, и этой кучи будет недостаточно. Но личинки, которых ты сохраняешь живыми, не портятся. Они сами производят новых котят. Мы узнали это таким образом, мы смотрим в будущее, а не в прошлое или настоящее. Подумай о будущем. Ты делаешь большую работу? Тогда многое может произойти. Смотри в будущее и стремись к великим свершениям.<br>
 —Собиратель Снекит"
 Plunder 25 bundles of loot during the Labyrinthine Cliffs treasure hunt.,Найдите и разграбьте 25 тайников во время охоты за сокровищами в Лабиринтовых скалах.
 "Koss was impressed. Braham was happy. Time to never mention this again—for Braham's sake.
@@ -1674,7 +1674,7 @@ I will see to it that the brass is informed of your heroic actions.
 
 —Latera Painstorm","Благодаря вашим недавним самоотверженным усилиям по изгнанию огненных захватчиков и уничтожению их снаряжения, я могу с уверенностью сказать, что эта область теперь защищена от огня. Или, по крайней мере, обладает повышенной устойчивостью к нему.
 
-Я позабочусь о том, чтобы начальство узнало о твоих героических поступках.
+Я позабочусь о том, чтобы начальство узнало о ваших героических поступках.
 
 — Латера Пейнсторм"
 ((1014723)),((1014723))
@@ -1721,7 +1721,7 @@ If you are already Well Rested, any elapsed time will be returned to you when yo
 +25%% Увеличение скорости передвижения
 -5%% Урон от входящих эффектов"
 "You've got a spring in your step and a tune in your head.
-Combat will remove your groove.","У тебя лёгкая походка и весёлая мелодия в голове.
+Combat will remove your groove.","У вас лёгкая походка и весёлая мелодия в голове.
 Бой прервёт вашу ритмичную атаку."
 "66%% Chance to Steal Life on Critical Hit
 +50 Power
