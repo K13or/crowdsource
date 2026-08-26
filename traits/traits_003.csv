@@ -50,7 +50,7 @@ Gain resolution when you use invoke a legend.,"Вам даруется Реши�
 Gain stability and damage reduction when entering Harbinger Shroud. Gain ferocity based on your vitality.,"Вы получаете дар Устойчивости и снижение урона, когда надеваете Саван Предвестника. Ваша Жестокость увеличивается в зависимости от вашей Живучести."
 Gain stability and endurance when entering berserk mode. Traits that trigger when entering berserk mode also trigger when exiting berserk mode. You can now exit berserk mode early.,"Получайте стабильность и выносливость при входе в режим берсерка. Черты, срабатывающие при входе в режим берсерка, также срабатывают при выходе из него. Теперь вы можете выйти из режима берсерка досрочно."
 Gain stability and heal yourself when you break stuns.,"Вы даруете себе устойчивость и исцеляетесь, когда сбрасываете оглушение."
-Gain stability and swiftness when starting an <c=@abilitytype>overload</c>.,Получить Устойчивость и Быстроту при начале форсажа . <c=@abilitytype>перегрузки</c>.
+Gain stability and swiftness when starting an <c=@abilitytype>overload</c>.,Получить Устойчивость и Быстроту при начале форсажа. <c=@abilitytype>перегрузки</c>.
 "Gain stability when disabling an enemy. Deal increased strike damage to disabled, exposed, or defiant foes.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Получайте устойчивость при выводе врага из строя. Наносите увеличенный урон от ударов выведенным из строя, уязвимым или непокорным врагам.
 <c=@reminder>Вывод из строя включает оглушение, ошеломление, отбрасывание, притягивание, нокдаун, погружение, подбрасывание, запуск, провокацию и страх.</c>"
@@ -117,12 +117,12 @@ Grant boons to allies within the radius of your <c=@abilitytype>Celestial Avatar
 Grant boons to allies you grant auras to.,"Даёт благословения союзникам, которым вы накладываете ауры."
 Grant boons to nearby allies when swapping pets.,Даёт благословения ближайшим союзникам при смене питомца.
 Grant boons to nearby allies when you equip a radiant weapon.,"Вы даёте дары союзникам поблизости, когда вооружаетесь лучезарным оружием."
-Grant boons to nearby allies when you hit an enemy with a <c=@abilitytype>Burst</c> skill.,Вы даёте дары союзникам поблизости при нанесении противнику урона вспышкой ярости . <c=@abilitytype>Взрыва</c>.
+Grant boons to nearby allies when you hit an enemy with a <c=@abilitytype>Burst</c> skill.,Вы даёте дары союзникам поблизости при нанесении противнику урона вспышкой ярости. <c=@abilitytype>Взрыва</c>.
 "Grant boons to nearby allies when you successfully combo a field with a blast, leap, or whirl finisher. Your function gyro is now a blast finisher.
 <c=@reminder>Whirl finishers can only trigger this trait once per interval.</c>","Даёт благословения ближайшим союзникам при успешном выполнении комбо в поле с помощью финишера взрыва, прыжка или вращения. Ваш функциональный гироскоп теперь является финишером взрыва.
 <c=@reminder>Финишеры вращения могут активировать эту черту только один раз за интервал.</c>"
 Grant boons to nearby allies when you summon a spirit.,"Вы даёте дары союзникам поблизости, когда призываете дух."
-Grant boons to nearby allies when you use a <c=@abilitytype>familliar</c> skill.,Вы даёте союзникам поблизости дары при использовании умения фамильяра . <c=@abilitytype>фамильяра</c>.
+Grant boons to nearby allies when you use a <c=@abilitytype>familliar</c> skill.,Вы даёте союзникам поблизости дары при использовании умения фамильяра. <c=@abilitytype>фамильяра</c>.
 Grant endurance when you remove a condition from an ally.,Даёт выносливость при снятии состояния с союзника.
 Grant fury to yourself and nearby allies when you critically strike a foe.,Даёт ярость вам и ближайшим союзникам при критическом ударе по врагу.
 Grant fury to yourself and nearby allies when you critically strike an enemy.,"Вы даруете Ярость себе и союзникам поблизости, когда наносите противнику критический удар."
@@ -167,7 +167,7 @@ Hardy Conduit,Стойкий проводник
 Harmonious Conduit,Гармоничный проводник
 Harmonious Harp's distortion lasts longer. Strike damage from nearby enemies is reduced while the harp is playing in the background.,"Искажение от Гармоничной лиры длится дольше. Пока лира играет на заднем плане, вы получаете меньше прямого урона от противников поблизости."
 Harmonize,Гармонизировать
-Harness light and flame to bolster yourself and allies or disrupt your enemies. Gain access to Radiant Forge and <c=@abilitytype>stance</c> skills.,"Обуздайте свет и пламя, чтобы укреплять себя и союзников и уничтожать своих врагов. Вы получаете доступ к Сияющей кузнице и умениям- стойкам . <c=@abilitytype>стойки</c>."
+Harness light and flame to bolster yourself and allies or disrupt your enemies. Gain access to Radiant Forge and <c=@abilitytype>stance</c> skills.,"Обуздайте свет и пламя, чтобы укреплять себя и союзников и уничтожать своих врагов. Вы получаете доступ к Сияющей кузнице и умениям- стойкам. <c=@abilitytype>стойки</c>."
 Harp Radius,Радиус арфы
 Harp's Number of Targets,Количество целей арфы
 Havoc Specialist,Специалист по хаосу
@@ -181,7 +181,7 @@ Heal allies in the area around you when you shadowstep. Gain shadow force for ea
 <c=@reminder>An ally can only be affected by this skill once per interval.</c>","Исцеляйте союзников, когда даруете им благословения. Даруйте благословения союзникам, когда стоимость поддержания равна или выше порогового значения.
 <c=@reminder>Союзник может быть затронут этим навыком только один раз за интервал.</c>"
 Heal allies you grant an aura to. Grant frost aura to nearby allies when struck while below the health threshold.,"Исцелить союзников, на которых вы наложили ауру. Наложить морозную ауру на союзников поблизости, когда вы получаете урон, и ваше здоровье ниже порога."
-Heal and cleanse conditions from yourself and nearby allies when you use a <c=@abilitytype>Shatter</c> skill.,"Вы исцеляетесь и снимаете с себя состояния и союзников поблизости, когда разбиваете иллюзии на осколки . <c=@abilitytype>Раскола</c>."
+Heal and cleanse conditions from yourself and nearby allies when you use a <c=@abilitytype>Shatter</c> skill.,"Вы исцеляетесь и снимаете с себя состояния и союзников поблизости, когда разбиваете иллюзии на осколки. <c=@abilitytype>Раскола</c>."
 "Heal and gain endurance whenever you gain affinity. Additionally, gain energy when you reach maximum affinity.","Исцеляйтесь и получайте выносливость при получении сродства. Кроме того, получайте энергию при достижении максимального сродства."
 Heal every second based on upkeep.,Исцеляйтесь каждую секунду в зависимости от поддержания.
 Heal every second for each point of upkeep currently in use.,"Вы исцеляетесь каждую секунду за каждую единицу восстановления энергии, которую вы тратите в данный момент."
@@ -206,7 +206,7 @@ Heal yourself and gain swiftness when you use a skill that has an energy cost.,"
 <c=@reminder>Вихревые завершающие удары могут активировать эту черту только один раз за интервал.</c>"
 Heal yourself when you grant a boon to an ally.,"Вы исцеляетесь, когда накладываете дар на союзника."
 Heal yourself when you grant yourself a boon. Remove a condition from yourself when you use an <c=@abilitytype>elixir</c> skill. Gain increased concentration.,Исцеляйте себя при даровании себе благословения. Снимите состояние с себя при использовании навыка <c=@abilitytype>эликсира</c>. Получите повышенную концентрацию.
-Heal yourself when you use a <c=@abilitytype>familiar</c> skill.,Вы исцеляетесь при использовании умения фамильяра . <c=@abilitytype>фамильяра</c>.
+Heal yourself when you use a <c=@abilitytype>familiar</c> skill.,Вы исцеляетесь при использовании умения фамильяра. <c=@abilitytype>фамильяра</c>.
 Heal yourself whenever you use a skill that uses initiative. Heal yourself for each point of initiative spent.,"Вы исцеляетесь каждый раз, когда используете умение, требующее инициативы. Вы исцеляете себя за каждое потраченное очко инициативы."
 Healer's Gift,Дар целителя
 Healer's Resolution,Решимость целителя
@@ -228,7 +228,7 @@ Healing per Motivation Spent,Исцеление за потраченную мо
 Healing per Stack,Исцеление за стак
 Healing vs. Bleeding Target,Исцеление против кровоточащей цели
 Healing with Fury,Исцеление с яростью
-Heals allies around you when you use a charge of a <c=@abilitytype>mantra</c>.,"Вы исцеляете союзников вокруг себя, когда используете заряды мантр . <c=@abilitytype>мантры</c>."
+Heals allies around you when you use a charge of a <c=@abilitytype>mantra</c>.,"Вы исцеляете союзников вокруг себя, когда используете заряды мантр. <c=@abilitytype>мантры</c>."
 Health Increase,Увеличение здоровья
 Health Insurance,Страхование здоровья
 Health per Initiative,Здоровье за инициативу
