@@ -66,7 +66,7 @@ This is the end...,Это конец...
 "This is the exit from Briathorn. If you wish to leave, your disguise will fail and you will need to speak to Alarin to re-enter the area.","Это выход из Брайторна. Если вы захотите покинуть это место, ваше маскирование сорвется, и вам придётся поговорить с Аларином, чтобы снова войти в локацию."
 This is the first I've heard of it.,Я слышу об этом впервые.
 This is the first time I've felt safe since I set eyes on those metal horrors. And I owe it to you. Thanks.,"Я впервые за долгое время чувствую себя в безопасности, особенно после того, как увидел этих металлических чудовищ. И я благодарен тебе за это. Спасибо."
-"This is the heart of the Inquest, and here is where we will find Kudu.","Здесь находится сердце организации «Инквизиция», и здесь мы найдём Куду."
+"This is the heart of the Inquest, and here is where we will find Kudu.","Здесь находится сердце организации «Инквест», и здесь мы найдём Куду."
 "This is the path to Uzolan's workshop. From here on in, things are likely to get weird.","Это путь к мастерской Узолана. Дальше, скорее всего, начнётся что-то странное."
 This is the spot. Strongest readings yet.,Здесь самое сильное излучение из всех замеченных нами.
 This is too much.,Это слишком много.
@@ -231,7 +231,7 @@ This weapon did not belong to Xavier Sharpstone. You have angered his spirit.,Э
 This weapon seems to be an early prototype combining dredge technology with Flame Legion magic.,"Похоже, это ранняя модель оружия, сочетающая технологии дреджей и магию Легиона Пламени."
 This will be delicious.,Это будет восхитительно.
 "This will be our last stand. If we fail here, the undead will have a clear path to the overlook.","Здесь мы дадим последний бой. Если проиграем, нежить получит прямой путь к смотровой площадке."
-This will come in handy against Inquest sapper devices.,Это пригодится против инженерных устройств Инквизиции.
+This will come in handy against Inquest sapper devices.,Это пригодится против инженерных устройств Инквеста.
 This will end you.,Это тебе не понравится.
 This will make a fine jerky. Kids! I've got your lunch right here.,"Из этого получится отличная вяленая закуска. Ребята, вот ваш обед."
 "This windmill is my kingdom, big dumb stupid! I am the Windmill King, and you are my subject. I hold court. I make proclamations. I kill dragons! Hm, you look like a dragon in disguise. Fight me!","Эта мельница — моё королевство, глупый идиот! Я — Король Мельниц, а ты — мой подданный. Здесь я верши судьбы. Издаю указы. И убиваю драконов! Хм, на дракона похож. Сразись со мной!"
@@ -426,7 +426,7 @@ Tilden,Тилден
 Timber Wolf,Лесной волк
 Time Until Detonation: %str1%,Время до детонации: %str1%
 Time Until Temporary Services Depart,Время до отправления временных сервисов
-Time before Inquest catch on: %str1%,"Время до того, как Инквизиция начнёт преследование: %str1%"
+Time before Inquest catch on: %str1%,"Время до того, как Инквест начнёт преследование: %str1%"
 Time before Inquest flee: %str1%,Время до отступления Инквизитора: %str1%
 Time before Kryptis retreat: %str1%,Время до отступления Криптиса: %str1%
 Time before Zizel retreats: %str1%,Время до отступления Зизеля: %str1%
