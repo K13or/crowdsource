@@ -469,8 +469,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% Опыт за убийства"
 "+7%% Damage vs. Sons of Svanir
 -4%% Damage from Sons of Svanir
-+10%% Experience from Kills","+7%% Урон против Сынов Сванира
--4%% урон от Сынов Сванира
++10%% Experience from Kills","+7%% Урон против Sons of Svanir
+-4%% урон от Sons of Svanir
 +10%% Опыт за убийства"
 "+7%% Damage vs. Undead
 -4%% Damage from Undead
@@ -626,8 +626,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% опыта за убийства"
 "+8%% Damage vs. Sons of Svanir
 -6%% Damage from Sons of Svanir
-+10%% Experience from Kills","+8%% урона по Сынам Сванира
--6%% урона от Сынов Сванира
++10%% Experience from Kills","+8%% урона по Sons of Svanir
+-6%% урона от Sons of Svanir
 +10%% опыта за убийства"
 "+8%% Damage vs. Undead
 -6%% Damage from Undead
@@ -901,8 +901,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% опыта за убийства"
 "+9%% Damage vs. Sons of Svanir
 -8%% Damage from Sons of Svanir
-+10%% Experience from Kills","+9%% урона по Сынам Сванира
--8%% урона от Сынов Сванира
++10%% Experience from Kills","+9%% урона по Sons of Svanir
+-8%% урона от Sons of Svanir
 +10%% опыта за убийства"
 "+9%% Damage vs. Undead
 -8%% Damage from Undead

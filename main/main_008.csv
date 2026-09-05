@@ -1095,9 +1095,9 @@ Enemies Defeated","Очистите врагов в ядре башни.
 Врагов побеждено"
 "Clear the Toxic Alliance from the bridge.
 
-Toxic Alliance Strength","Очистите мост от Токсичного Альянса.
+Toxic Alliance Strength","Очистите мост от Toxic Alliance.
 
-Сила Токсичного Альянса"
+Сила Toxic Alliance"
 "Clear the perimeter.
 
 Enemy Strength","Очистите периметр.
@@ -1649,7 +1649,7 @@ Councillor Ludo","Командир,
 Он наткнулся на любопытное открытие. Подозреваю, оно может помочь вам в ваших начинаниях или, по крайней мере, послужить «забавным» анекдотом для разговора.
 
 С уважением,
-Советник Лудо"
+Councillor Ludo"
 "Commander,
 
 I've done some off-the-clock investigating of the entity we encountered in the Gyala mines. Let's just say there's a frustratingly sparse collection of studies on the subject, most of which haven't been academically vetted. Figures.
@@ -2273,10 +2273,10 @@ Being here, where Jormag's minions are especially concentrated, has made me real
 
 I think my system would really benefit you as you traverse the wilds—but it will take some training to wield it properly. If you're interested, find me in Jora's Keep!","Командир, я совершила прорыв в своих исследованиях и прошу вашего участия! До прибытия в Марки Бьоры я сосредоточилась на изучении норнских Духов Дикой Природы и сущности, которой они наделили Асгейра Драконобоя и других выдающихся последователей для победы над прислужниками Йормага.
 
-Нахождение здесь, где прислужники Йормага особенно многочисленны, показало мне необходимость манипулировать этой духовной сущностью для наших целей. Выживание Дозора зависит от истребления Сыновей Сванира, Аберрантных тварей и армии Падших. Используя мои предыдущие исследования, я разработала систему, которая высасывает злобную духовную сущность из прислужников Йормага и преобразует её в добродетельную сущность для победы над ними. Короче говоря, моя система манипуляции сущностью использует силу самих прислужников против них!
+Нахождение здесь, где прислужники Йормага особенно многочисленны, показало мне необходимость манипулировать этой духовной сущностью для наших целей. Выживание Дозора зависит от истребления Sons of Svanir, Аберрантных тварей и армии Падших. Используя мои предыдущие исследования, я разработала систему, которая высасывает злобную духовную сущность из прислужников Йормага и преобразует её в добродетельную сущность для победы над ними. Короче говоря, моя система манипуляции сущностью использует силу самих прислужников против них!
 
 Я думаю, моя система будет вам очень полезна в странствиях по диким землям, но для правильного использования потребуется некоторая тренировка. Если заинтересованы, найдите меня в Убежище Йоры!"
-"Commander, I've made a breakthrough in my research, and I request your participation! Before my arrival in Bjora Marches, I focused my studies on the norn Spirits of the Wild and the essence they imbued Asgeir Dragonrender and other notable followers with in order to defeat minions of Jormag.Being here, where Jormag's minions are especially concentrated, has made me realize the need to manipulate that spirit essence for our own use. The Vigil's survival depends on us wiping out the Sons of Svanir, the Aberrant creatures, and the Fallen army. Using my previous research, I developed a system that harnesses malicious spirit essence from Jormag's minions and converts it into virtuous essence to defeat them. In short, my essence manipulation system uses the minions' own power against them!I think my system would really benefit you as you traverse the wilds—but it will take some training to wield it properly. If you're interested, find me in Jora's Keep!","Командир, я совершил прорыв в своих исследованиях и прошу вашего участия! До прибытия в Bjora Marches я сосредоточил свои исследования на норнских Духах Дикой Природы и сущности, которой они наделили Асгейра Драконоборца и других известных последователей для победы над приспешниками Йормага. Находясь здесь, где приспешники Йормага особенно сконцентрированы, я осознал необходимость манипулировать этой духовной сущностью для наших целей. Выживание Дозора зависит от уничтожения Сынов Сванира, Аберрантных созданий и армии Падших. Используя свои предыдущие исследования, я разработал систему, которая улавливает злобную духовную сущность приспешников Йормага и преобразует её в добродетельную сущность для их поражения. Короче говоря, моя система манипуляции сущностью использует силу самих приспешников против них! Я думаю, моя система очень пригодится вам в путешествии по диким землям, но потребуется некоторая тренировка, чтобы правильно ею владеть. Если заинтересованы, найдите меня в Крепости Йоры!"
+"Commander, I've made a breakthrough in my research, and I request your participation! Before my arrival in Bjora Marches, I focused my studies on the norn Spirits of the Wild and the essence they imbued Asgeir Dragonrender and other notable followers with in order to defeat minions of Jormag.Being here, where Jormag's minions are especially concentrated, has made me realize the need to manipulate that spirit essence for our own use. The Vigil's survival depends on us wiping out the Sons of Svanir, the Aberrant creatures, and the Fallen army. Using my previous research, I developed a system that harnesses malicious spirit essence from Jormag's minions and converts it into virtuous essence to defeat them. In short, my essence manipulation system uses the minions' own power against them!I think my system would really benefit you as you traverse the wilds—but it will take some training to wield it properly. If you're interested, find me in Jora's Keep!","Командир, я совершил прорыв в своих исследованиях и прошу вашего участия! До прибытия в Bjora Marches я сосредоточил свои исследования на норнских Духах Дикой Природы и сущности, которой они наделили Асгейра Драконоборца и других известных последователей для победы над приспешниками Йормага. Находясь здесь, где приспешники Йормага особенно сконцентрированы, я осознал необходимость манипулировать этой духовной сущностью для наших целей. Выживание Дозора зависит от уничтожения Sons of Svanir, Аберрантных созданий и армии Падших. Используя свои предыдущие исследования, я разработал систему, которая улавливает злобную духовную сущность приспешников Йормага и преобразует её в добродетельную сущность для их поражения. Короче говоря, моя система манипуляции сущностью использует силу самих приспешников против них! Я думаю, моя система очень пригодится вам в путешествии по диким землям, но потребуется некоторая тренировка, чтобы правильно ею владеть. Если заинтересованы, найдите меня в Крепости Йоры!"
 "Commander, hello!
 
 Royalty from the Dominion of Winds has taken a keen interest in recent developments within the Tyrian Alliance—they are very impressed by your heroics in Janthir.
@@ -2618,7 +2618,7 @@ Thanks for playing!
 
 —The Guild Wars 2 Team","Поздравляем!
 
-Вы выиграли место в предстоящем закрытом бета-тесте дополнения Сердца Терний. Если вы подписаны на рассылку Guild Wars 2, подробности теста придут на адрес, указанный для этой учётной записи. Если вы ещё не подписаны, вступить в список рассылки можно на heartofthorns.guildwars2.com.
+Вы выиграли место в предстоящем закрытом бета-тесте дополнения Heart of Thorns. Если вы подписаны на рассылку Guild Wars 2, подробности теста придут на адрес, указанный для этой учётной записи. Если вы ещё не подписаны, вступить в список рассылки можно на heartofthorns.guildwars2.com.
 
 Спасибо за игру!
 
@@ -2810,7 +2810,7 @@ Combine these three minis in the Mystic Forge with a Candy Corn Cob to create a 
 Каждую миниатюру можно активировать из инвентаря, чтобы она следовала за вами по миру.
 Соедините эти три миниатюры в Mystic Forge с початком кукурузной карамели, чтобы создать мини-паучиху Призрачную Карлотту."
 "Contains a Fractal Relic, an Agony Infusion, a Fractal Encryption Key, Resonating Slivers, and a chance for rare items.
-Bonus rewards with the Agony Channeler or Recursive Resourcing Mastery.","Содержит фрактальную реликвию, инфузию агонии, ключ от фрактального шифра, резонирующие щепки и шанс на редкие предметы.
+Bonus rewards with the Agony Channeler or Recursive Resourcing Mastery.","Содержит Fractal Relic, инфузию агонии, ключ от фрактального шифра, резонирующие щепки и шанс на редкие предметы.
 Бонусные награды с мастерством «Agony Channeler» или «Recursive Resourcing»."
 "Contains one random armor dye from a pool of 25 colors that includes nine exclusive new shades of blue.
 
