@@ -185,7 +185,7 @@ Using a heal skill triggers a cleansing pulse around you.,Using a heal skill tri
 "Using a stolen skill grants additional boons to allies around you. Stolen skills will always be Steal Time, regardless of the target's profession.","Использование украденного навыка даёт дополнительные благословения союзникам вокруг вас. Украденными навыками всегда будет «Steal Time», независимо от профессии цели."
 "Using the first round of ammo on an ammunition skill reduces the recharge of all warrior skills. 
 <c=@reminder>Does not affect the recharge of Unsheathe Gunsaber, Sheathe Gunsaber, and Dragon Trigger. </c>","Использование первого заряда боеприпасов навыка с боезапасом сокращает перезарядку всех навыков воина.
-<c=@reminder>Не влияет на перезарядку «Обнажения гансейбера», «Убирания гансейбера» и «Драконьего триггера». </c>"
+<c=@reminder>Не влияет на перезарядку «Обнажения гансейбера», «Убирания гансейбера» и «Dragon Trigger». </c>"
 Using tool belt skills grants vigor.,Using tool belt skills grants vigor.
 "Using your heal skill, heals allies around you and your pet.","Using your heal skill, heals allies around you and your pet."
 Valorous Defense,Valorous Defense

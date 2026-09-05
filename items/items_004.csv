@@ -437,7 +437,7 @@ Used in the crafting of Spinal Blade Pack back items.","<c=@flavor>Куски о
 <c=@flavor>Reach your hand up and hold the light.</c>,<c=@flavor>Протяни руку и удержи свет.</c>
 <c=@flavor>Redefine the cutting edge of interactive simulation.</c>,<c=@flavor>Задай новый передний край интерактивной симуляции.</c>
 <c=@flavor>Remarkably well-crafted gear found in Sabetha's stockpile.</c>,"<c=@flavor>На удивление добротное снаряжение, найденное в запасах Сабеты.</c>"
-<c=@flavor>Resonates with the otherworldly power of Gorseval the Multifarious.</c>,<c=@flavor>Откликается на потустороннюю мощь Горсеваля Многоликого.</c>
+<c=@flavor>Resonates with the otherworldly power of Gorseval the Multifarious.</c>,<c=@flavor>Откликается на потустороннюю мощь Gorseval the Multifarious.</c>
 <c=@flavor>Revered by all.</c>,<c=@flavor>Почитаемо всеми.</c>
 <c=@flavor>Ripped from the body of Ignaxious.</c>,<c=@flavor>Сорвано с тела Игнаксиуса.</c>
 <c=@flavor>Rise above it all.</c>,<c=@flavor>Поднимись надо всем.</c>
@@ -500,7 +500,7 @@ Double-click to summon this mini to follow you around. Only one mini may be in u
 <c=@flavor>Strike at the heart of your challenges.</c>,<c=@flavor>Бей в самое сердце своих испытаний.</c>
 "<c=@flavor>Success is solitary.</c>
 <c=@reminder>Hint: To acquire, defeat Qadim the Peerless in the Key of Ahdashim raid.</c>","<c=@flavor>Успех одинок.</c>
-<c=@reminder>Подсказка: чтобы получить, победите Кадима Несравненного в рейде «Ключ Ахдашима».</c>"
+<c=@reminder>Подсказка: чтобы получить, победите Qadim the Peerless в рейде «Ключ Ахдашима».</c>"
 <c=@flavor>Such a rare and vibrant bloom.<c>,<c=@flavor>Такой редкий и яркий цветок.<c>
 <c=@flavor>Such that the defense may rest.</c>,<c=@flavor>Чтобы оборона могла передохнуть.</c>
 <c=@flavor>Supplies from Scarlet's Alliance troops.<c>,<c=@flavor>Припасы от войск Альянса Скарлет.<c>
@@ -520,8 +520,8 @@ Double-click to summon this mini to follow you around. Only one mini may be in u
 "<c=@flavor>The blossoms are delicate, yet sturdy.</c>","<c=@flavor>Цветки нежные, но крепкие.</c>"
 "<c=@flavor>The capacitor is broken, but it might be useful elsewhere.</c>","<c=@flavor>Конденсатор сломан, но где-нибудь ещё может пригодиться.</c>"
 <c=@flavor>The chance of this backfiring just adds to the excitement of combat.</c>,<c=@flavor>Вероятность осечки лишь добавляет бою остроты.</c>
-<c=@flavor>The chill of Gorseval the Multifarious radiates from this shield.</c>,<c=@flavor>От этого щита исходит холод Горсеваля Многоликого.</c>
-<c=@flavor>The chill of Gorseval the Multifarious radiates from this staff.</c>,<c=@flavor>От этого посоха исходит холод Горсеваля Многоликого.</c>
+<c=@flavor>The chill of Gorseval the Multifarious radiates from this shield.</c>,<c=@flavor>От этого щита исходит холод Gorseval the Multifarious.</c>
+<c=@flavor>The chill of Gorseval the Multifarious radiates from this staff.</c>,<c=@flavor>От этого посоха исходит холод Gorseval the Multifarious.</c>
 <c=@flavor>The chilling novelization of Moto's hit Super Adventure Box: World 1.</c>,<c=@flavor>Леденящая новеллизация хита Мото «Super Adventure Box: Мир 1».</c>
 <c=@flavor>The chilling wind of night.</c>,<c=@flavor>Стылый ветер ночи.</c>
 <c=@Flavor>The citizens of Vabbi are known for their use of exquisite cosmetics.</c>,"<c=@Flavor>Жители Вабби славятся тем, что пользуются изысканной косметикой.</c>"

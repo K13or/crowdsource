@@ -199,7 +199,7 @@ english,translate
 %num1%/%num2% Foe[s] Defeated in Forest of Niflhel Matches,Побеждено врагов в матчах «Forest of Niflhel»: %num1%/%num2%
 %num1%/%num2% Foe[s] Defeated in Legacy of the Foefire Matches,Побеждено врагов в матчах «Наследия Войны Врагов»: %num1%/%num2%
 %num1%/%num2% Foe[s] Defeated in Skyhammer Matches,Побеждено врагов в матчах «Небесного молота»: %num1%/%num2%
-%num1%/%num2% Foe[s] Defeated in Spirit Watch Matches,Побеждено врагов в матчах «Дозора духов»: %num1%/%num2%
+%num1%/%num2% Foe[s] Defeated in Spirit Watch Matches,Побеждено врагов в матчах «Spirit Watch»: %num1%/%num2%
 %num1%/%num2% Foe[s] Defeated in Temple of the Silent Storm Matches,Побеждено врагов в матчах «Храма Безмолвной Бури»: %num1%/%num2%
 %num1%/%num2% Foe[s] Defeated on Revenge of the Capricorn,Побеждено врагов в «Revenge of the Capricorn»: %num1%/%num2%
 %num1%/%num2% Foreman Defeated,Побеждено прорабов: %num1%/%num2%
@@ -262,7 +262,7 @@ english,translate
 %num1%/%num2% Master Fractals Completed,Завершено фракталов ранга мастера: %num1%/%num2%
 "%num1%/%num2% Match[pl:""Matches""] Won in Legacy of the Foefire",Побед в «Наследии Войны Врагов»: %num1%/%num2%
 "%num1%/%num2% Match[pl:""Matches""] Won in Skyhammer",Побед в «Небесном молоте»: %num1%/%num2%
-"%num1%/%num2% Match[pl:""Matches""] Won in Spirit Watch",Побед в «Дозоре духов»: %num1%/%num2%
+"%num1%/%num2% Match[pl:""Matches""] Won in Spirit Watch",Побед в «Spirit Watch»: %num1%/%num2%
 "%num1%/%num2% Match[pl:""Matches""] Won in the Battle of Champion's Dusk",Побед в «Битве в Сумерках Чемпиона»: %num1%/%num2%
 "%num1%/%num2% Match[pl:""Matches""] Won in the Battle of Kyhlo",Побед в «Битве за Кайло»: %num1%/%num2%
 "%num1%/%num2% Match[pl:""Matches""] Won in the Eternal Coliseum",Побед в «Eternal Coliseum»: %num1%/%num2%

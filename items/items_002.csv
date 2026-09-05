@@ -178,7 +178,7 @@ This item only has value as part of a collection.","<c=@flavor>«Купила э
 —Линди</c>"
 "<c=@flavor>""I embedded a crystal into the hilt to enhance its arcane capacity.""
 —Scholar Blix</c>","<c=@flavor>«Я вплавила кристалл в рукоять, чтобы усилить её тайную ёмкость».
-—Учёная Бликс</c>"
+—Scholar Blix</c>"
 "<c=@flavor>""I feel like I've seen these markings somewhere before.""
 —Issa</c>","<c=@flavor>«Такое чувство, что я уже где-то видела эти отметины».
 —Исса</c>"
@@ -432,7 +432,7 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 —Несса</c>"
 "<c=@flavor>""It is said our feathers can control the winds.""
 —Sangdo Swiftwing</c>","<c=@flavor>«Говорят, наши перья могут управлять ветрами».
-—Сангдо Быстрокрылый</c>"
+—Sangdo Swiftwing</c>"
 "<c=@flavor>""It makes a 'zzax' sound when you use it.""</c>",<c=@flavor>«При использовании издаёт звук „ззакс“».</c>
 "<c=@flavor>""It may be rusted, but it still works!""</c>","<c=@flavor>«Пусть и ржавый, но всё ещё работает!»</c>"
 "<c=@flavor>""It's a tool, but it's also a weapon.""
@@ -652,7 +652,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 "<c=@flavor>""May the sun god's rays warm your back.""—Qoetl</c>",<c=@flavor>«Да согреют твою спину лучи бога солнца».—Коэтль</c>
 "<c=@flavor>""May the winds bless the flight of your bolts.""
 —Sangdo Swiftwing</c>","<c=@flavor>«Пусть ветра благословят полёт твоих стрел».
-—Сангдо Быстрокрылый</c>"
+—Sangdo Swiftwing</c>"
 "<c=@flavor>""Maybe you'll run into someone that knows why these are floating.""
 —Warden Brulians</c>","<c=@flavor>«Может, тебе встретится кто-нибудь, кто знает, почему они парят».
 —Страж Брулианс</c>"
@@ -1133,7 +1133,7 @@ This item only has value as part of a collection.","<c=@flavor>«Иногда д
 —Crusader Aisling</c>"
 "<c=@flavor>""Sometimes subtlety is overrated. This will make enough noise to wake my old professor.""
 —Scholar Blix</c>","<c=@flavor>«Иногда скрытность переоценена. Этого хватит, чтобы разбудить моего старого профессора».
-—Учёная Бликс</c>"
+—Scholar Blix</c>"
 "<c=@flavor>""Sometimes you have to bash a few heads to calm things down.""</c>","<c=@flavor>«Иногда, чтобы всё утихло, надо проломить пару голов».</c>"
 "<c=@flavor>""Sometimes you have to fight to eat.""
 —Matlal</c>","<c=@flavor>«Иногда приходится драться, чтобы поесть».
@@ -1293,7 +1293,7 @@ This item only has value as part of a collection.","<c=@flavor>«Иногда д
 —Sheriff Bloodclaw</c>","<c=@flavor>«Края немного заточили, чтобы придать щиту контратакующий нрав. В конце концов, лучшая защита — это нападение».
 —Шериф Кровокоготь</c>"
 "<c=@flavor>""The enemy doesn't stand a chance now!""</c>",<c=@flavor>«Теперь у врага нет ни шанса!»</c>
-"<c=@flavor>""The energy supply can be handled with a trinket from the vault. Even if the output is low, you'd be surprised how it can build up."" —Field Archivist Cierle</c>","<c=@flavor>«Питание можно обеспечить безделушкой из хранилища. Пусть отдача и мала, ты удивишься, как она накапливается». —Полевой архивариус Сиерле</c>"
+"<c=@flavor>""The energy supply can be handled with a trinket from the vault. Even if the output is low, you'd be surprised how it can build up."" —Field Archivist Cierle</c>","<c=@flavor>«Питание можно обеспечить безделушкой из хранилища. Пусть отдача и мала, ты удивишься, как она накапливается». —Field Archivist Cierle</c>"
 "<c=@flavor>""The eternal alchemy is stirred by the staff.""
 —Anonymous</c>","<c=@flavor>«Вечная алхимия перемешивается посохом».
 —Аноним</c>"

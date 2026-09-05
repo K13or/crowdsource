@@ -131,7 +131,7 @@ english,translate
 <c=@abilitytype>Quickness at or below 50%% heat</c>,<c=@abilitytype>Проворство при нагреве 50%% и ниже</c>
 <c=@abilitytype>Quickness over 100%% heat</c>,<c=@abilitytype>Проворство при нагреве выше 100%%</c>
 <c=@abilitytype>Quickness over 50%% heat</c>,<c=@abilitytype>Проворство при нагреве выше 50%%</c>
-"<c=@abilitytype>Ranged.</c> Hurl your weapon at your foe. If you are in close range, swing your weapon at them instead. Striking a foe reduces the cooldown of Abyssal Raze once per skill use.","<c=@abilitytype>Дальний бой.</c> Метните своё оружие во врага. Если вы в ближнем радиусе, вместо этого взмахните оружием. Попадание по врагу сокращает время восстановления «Опустошения бездны» раз за использование навыка."
+"<c=@abilitytype>Ranged.</c> Hurl your weapon at your foe. If you are in close range, swing your weapon at them instead. Striking a foe reduces the cooldown of Abyssal Raze once per skill use.","<c=@abilitytype>Дальний бой.</c> Метните своё оружие во врага. Если вы в ближнем радиусе, вместо этого взмахните оружием. Попадание по врагу сокращает время восстановления «Abyssal Raze» раз за использование навыка."
 <c=@abilitytype>Ranged.</c>Throw your spear.,<c=@abilitytype>Дальний бой.</c>Метните своё копьё.
 "<c=@abilitytype>Rapacious Strain.</c> While evolved, strike foes an additional time when you hit them.",<c=@abilitytype>Прожорливый штамм.</c> В эволюционировавшем состоянии поражайте врагов ещё раз при попадании.
 <c=@abilitytype>Replicating Strain.</c> Evolving heals you over time and grants alacrity.,<c=@abilitytype>Штамм регенерации.</c> Эволюция исцеляет вас со временем и дарует ускорение времени.
@@ -243,7 +243,7 @@ english,translate
 "<c=@flavor>""Communication is the key to a successful operation, regardless of the size.""<br>—Agent Siobhan</c>","<c=@flavor>«Связь — ключ к успешной операции, вне зависимости от масштаба».<br>—Agent Siobhan</c>"
 "<c=@flavor>""Conquer all.""<br>—Blood Legion Motto</c>",<c=@flavor>«Покорить всё».<br>—Девиз Blood Legion</c>
 "<c=@flavor>""Cooperation brought us to this point. It will see us through.""<br>—Tactician Almonia</c>",<c=@flavor>«Сотрудничество привело нас сюда. Оно же и проведёт нас дальше».<br>—Tactician Almonia</c>
-"<c=@flavor>""Cover your head. That's rule number one when all the other rules go out the window.""<br>—Scholar Blix</c>","<c=@flavor>«Прикрывай голову. Это правило номер один, когда все остальные правила летят к чертям».<br>—Учёная Бликс</c>"
+"<c=@flavor>""Cover your head. That's rule number one when all the other rules go out the window.""<br>—Scholar Blix</c>","<c=@flavor>«Прикрывай голову. Это правило номер один, когда все остальные правила летят к чертям».<br>—Scholar Blix</c>"
 "<c=@flavor>""Crab grabbin' can be dangerous. Protect those mitts!""<br>—Bram Dawnrazer</c>",<c=@flavor>«Ловля крабов может быть опасной. Береги свои клешни!»<br>—Bram Dawnrazer</c>
 "<c=@flavor>""Customized iron sights for increased damage and accuracy.""<br>—Ulva</c>",<c=@flavor>«Особые прицельные приспособления для увеличенного урона и точности».<br>—Улва</c>
 "<c=@flavor>""Cuts enemies, not plants.""<br>—Nrocroc Chief</c>","<c=@flavor>«Режет врагов, а не растения».<br>—Вождь Нрокрок</c>"
@@ -278,7 +278,7 @@ english,translate
 "<c=@flavor>""Even the mightiest tree loses a branch from time to time.""<br>—Leigheara</c>",<c=@flavor>«Даже могучее дерево время от времени теряет ветвь».<br>—Лейхара</c>
 "<c=@flavor>""Even the smallest sapling can still be useful.""<br>—Leigheara</c>",<c=@flavor>«Даже самый маленький саженец может быть полезен».<br>—Лейхара</c>
 "<c=@flavor>""Even the tallest tree starts as a tiny seed.""<br>—Diantha</c>",<c=@flavor>«Даже самое высокое дерево начинается с крошечного семени».<br>—Диантха</c>
-"<c=@flavor>""Everyone says we need more of these. I think we've got enough.""<br>—Mad Mardine</c>","<c=@flavor>«Все говорят, что нам нужно больше этого. Я думаю, у нас уже достаточно».<br>—Безумный Мардин</c>"
+"<c=@flavor>""Everyone says we need more of these. I think we've got enough.""<br>—Mad Mardine</c>","<c=@flavor>«Все говорят, что нам нужно больше этого. Я думаю, у нас уже достаточно».<br>—Mad Mardine</c>"
 "<c=@flavor>""Everything starts with a plan, but nothing ever goes according to it.""<br>—Torruh Sweptweave</c>","<c=@flavor>«Всё начинается с плана, но ничто никогда не идёт по плану».<br>—Торру Свептвиви</c>"
 "<c=@flavor>""Excellent quality First Haven handwear.""<br>—Clerk Ulva</c>",<c=@flavor>«Первосортные перчатки из First Haven».<br>—Клерк Улва</c>
 "<c=@flavor>""Excessive use has been linked to hearing loss in skritt.""<br>—Dr. Klagg</c>",<c=@flavor>«Чрезмерное использование связывают с потерей слуха у скриттов».<br>—Доктор Клагг</c>
@@ -359,7 +359,7 @@ english,translate
 "<c=@flavor>""I don't know if it changes anything, but I put a little prayer of Dwayna on the side.""<br>—Jinell</c>","<c=@flavor>«Не знаю, меняет ли это что-то, но я добавила сбоку небольшую молитву Двайне».<br>—Джинелл</c>"
 "<c=@flavor>""I don't think it would fit your neck.""<br>—Mrr'kkant</c>","<c=@flavor>«Не думаю, что это налезет тебе на шею».<br>—Мрр'ккант</c>"
 "<c=@flavor>""I doubt the family will miss this!""<br>—Lindi</c>","<c=@flavor>«Сомневаюсь, что семье это будет не хватать!»<br>—Линди</c>"
-"<c=@flavor>""I embedded a crystal into the hilt to enhance its arcane capacity.""<br>—Scholar Blix</c>","<c=@flavor>«Я вплавила кристалл в рукоять, чтобы усилить её тайную ёмкость».<br>—Учёная Бликс</c>"
+"<c=@flavor>""I embedded a crystal into the hilt to enhance its arcane capacity.""<br>—Scholar Blix</c>","<c=@flavor>«Я вплавила кристалл в рукоять, чтобы усилить её тайную ёмкость».<br>—Scholar Blix</c>"
 "<c=@flavor>""I feel like I've seen these markings somewhere before.""<br>—Issa</c>","<c=@flavor>«Такое чувство, что я уже где-то видела эти отметины».<br>—Исса</c>"
 "<c=@flavor>""I find a hammer can be really helpful when trying to get ore in hard to reach places.""<br>—Adgrils</c>","<c=@flavor>«Считаю, что молот очень помогает добывать руду в труднодоступных местах».<br>—Адгрилс</c>"
 "<c=@flavor>""I find a hammer can be really helpful when trying to get ore in hard-to-reach places.""<br>—Adgils</c>","<c=@flavor>«Считаю, что молот очень помогает добывать руду в труднодоступных местах».<br>—Адгилс</c>"
@@ -421,7 +421,7 @@ english,translate
 "<c=@flavor>""It fell out and we can't get it back in...""<br>—Nessa</c>","<c=@flavor>«Оно выпало, и мы не можем вставить его обратно...»<br>—Несса</c>"
 "<c=@flavor>""It gets dark down here.""<br>—Sik'klak</c>",<c=@flavor>«Здесь внизу темнеет».<br>—Сик'клак</c>
 "<c=@flavor>""It has a secret secondary fire method in case some undead jam up the main action.""<br>—Nessa</c>","<c=@flavor>«У этого есть секретный способ вторичного огня на случай, если какая-нибудь нежить заклинит основное действие».<br>—Несса</c>"
-"<c=@flavor>""It is said our feathers can control the winds.""<br>—Sangdo Swiftwing</c>","<c=@flavor>«Говорят, наши перья могут управлять ветрами».<br>—Сангдо Быстрокрылый</c>"
+"<c=@flavor>""It is said our feathers can control the winds.""<br>—Sangdo Swiftwing</c>","<c=@flavor>«Говорят, наши перья могут управлять ветрами».<br>—Sangdo Swiftwing</c>"
 "<c=@flavor>""It's a tool, but it's also a weapon.""<br>—Surveyor Falki</c>","<c=@flavor>«Это инструмент, но это ещё и оружие».<br>—Землемер Фальки</c>"
 "<c=@flavor>""It's amazing what can happen when you get everyone working together.""<br>—Magister Izzmek</c>","<c=@flavor>«Удивительно, что может произойти, когда все начинают работать вместе».<br>—Magister Izzmek</c>"
 "<c=@flavor>""It's amazing what you can find in a old Skritt cave.""<br>—Crusader Aisling</c>","<c=@flavor>«Удивительно, что можно найти в старой пещере скриттов».<br>—Crusader Aisling</c>"
@@ -479,4 +479,4 @@ english,translate
 "<c=@flavor>""Market research! That's the ticket. I just need to know what those quaggan chaps eat.""<br>—Cin</c>","<c=@flavor>«Маркетинговое исследование! Вот в чём фишка. Мне просто нужно узнать, что едят эти квагганы».<br>—Син</c>"
 "<c=@flavor>""May it protect you as you protect Tyria.""<br>—Agent Crandle</c>","<c=@flavor>«Пусть это защитит тебя, пока ты защищаешь Тирию».<br>—Агент Крандл</c>"
 "<c=@flavor>""May Snow Leopard watch over you.""<br>—Sigarr</c>",<c=@flavor>«Пусть Snow Leopard присматривает за тобой».<br>—Сигарр</c>
-"<c=@flavor>""May the winds bless the flight of your bolts.""<br>—Sangdo Swiftwing</c>",<c=@flavor>«Пусть ветра благословят полёт твоих стрел».<br>—Сангдо Быстрокрылый</c>
+"<c=@flavor>""May the winds bless the flight of your bolts.""<br>—Sangdo Swiftwing</c>",<c=@flavor>«Пусть ветра благословят полёт твоих стрел».<br>—Sangdo Swiftwing</c>
