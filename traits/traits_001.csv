@@ -42,7 +42,7 @@ english,translate
 <c=@abilitytype>Invoke Torment</c> transfers conditions from you onto foes.,<c=@abilitytype>Призыв боли</c> переносит состояния с вас на врагов.
 "<c=@abilitytype>Legendary Alliance</c> abilities gain an additional bonus. Activating Energy Meld or Alliance Tactics grants both of these bonuses simultaneously at greater amounts to nearby allies.
 Kurzick abilities grant regeneration.
-Luxon abilities grant might.","<c=@abilitytype>Legendary Alliance.</c> Способности получают дополнительный бонус. Активация «Слияния энергии» или «Тактики Альянса» даёт оба бонуса одновременно в большем объёме ближайшим союзникам.
+Luxon abilities grant might.","<c=@abilitytype>Legendary Alliance.</c> Способности получают дополнительный бонус. Активация «Слияния энергии» или «Alliance Tactics» даёт оба бонуса одновременно в большем объёме ближайшим союзникам.
 Способности Kurzick дают регенерацию.
 Способности Luxon дают мощь."
 "<c=@abilitytype>Legendary Centaur.</c> Collect energy, pulling it into the tablet to build up its power. After a short delay the energy will be released, healing nearby allies.","<c=@abilitytype>Легендарный Кентавр.</c> Собирайте энергию, притягивая её в планшет, чтобы накопить мощь. После небольшой задержки энергия высвободится, исцеляя ближайших союзников."

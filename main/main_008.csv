@@ -496,7 +496,7 @@ We've got trouble on Southsun Cove again. Tensions between the resettled refugee
 
 У нас снова проблемы на бухте Саутсан. Напряжение между переселенными беженцами и их хозяевами из Консорциума вот-вот перерастет в открытый конфликт, а местная фауна становится всё агрессивнее. По приказу Captain Magnus я назначаю всех желающих квалифицированных добровольцев своими заместителями для поддержания порядка. Если вы готовы к испытанию и обладаете нужными навыками, приходите ко мне, чтобы мы могли подавить эти волнения, пока они не вышли из-под контроля.
 
-— Инспектор Эллен Кил"
+— Inspector Ellen Kiel"
 "Calling on all Astral Ward for aid in Amnytas.  
   
 Some great force lingers above us in the clouds; we've had additional rift sightings on all bastions. Kryptis are emerging en masse. With urgency, please send us your aid.  
@@ -1081,7 +1081,7 @@ The Lionguard has identified the person behind the recent animal attacks on Sout
 
 Львиная Стража установила личность человека, стоящего за недавними нападениями животных на Southsun Cove, но нам нужна помощь в поимке виновного. Наша цель — Канах, сильвари второго рождения с историей создания проблем на Southsun Cove. Канах уже является разыскиваемым беглецом, но этот последний раунд безумия поднял его на вершину нашего списка самых разыскиваемых. Сообщите о себе на Southsun Cove, если вы заинтересованы в помощи мне привлечь его к правосудию.
 
-— Инспектор Эллен Киль"
+— Inspector Ellen Kiel"
 "Cleanse beacons to draw Kryptis to Nyedra.
 
 Beacons cleansed","Очищать маяки, чтобы привлечь Криптисов к Ньедре.
@@ -1164,7 +1164,7 @@ Agent Brandubh","Командир %str1%,
 Кроме того, мне может понадобиться помощь в деле, которое я не могу здесь обсуждать. Если позволит время, встретьтесь со мной у ворот Цитадели.
 
 С уважением,
-Агент Брандуб"
+Agent Brandubh"
 "Commander %str1%,
 
 Thanks to coordination with Delaqua Investigations, the paperwork involving...well, everything that happened on your big trip here has mostly been handled. Mostly. But we've still got grumblings from various ministry departments whose feathers were ruffled, and it would be a big help if you could drop by. Nothing to sign; just a few appearances so that MinSec can remind certain parties what an important VIP the commander is.
@@ -2034,8 +2034,8 @@ You'll find the dead drops scattered throughout Bloodtide Coast. Here are the ro
  * К северо-западу от Laughing Gull Island.
  * Рядом с дозорной вышкой на Laughing Gull Island.
  * Под кораблём у скал Джелако.
- * На холме в заливе Реванион.
- * У берега пляжа Мистарион.
+ * На холме в Firth of Revanion.
+ * У берега Mistarion Beach.
  
  Удачи."
 "Commander,
@@ -2372,7 +2372,7 @@ R'tchikk","Комман—Путеискатель!
 Р'тчикк"
 "Commissioned for the joint coronation of Queen Dahlah and Queen Nahlah, the last rulers of the Primeval Dynasty. The sisters adopted twin cobras as the symbol of their reign, representing the duality of venom as a deadly poison and powerful medicine.  
   
-Pairs of these large cast-metal sculptures were erected in cities and villages that hosted the queens during their royal progress and scattered during the Scarab Plague. A discarded original design depicting a single cobra with two heads was not practical for rapid assembly.","Созданы для совместной коронации королевы Даллы и королевы Наллы, последних правителей Primeval Dynasty. Сёстры приняли двух кобр-близнецов в качестве символа своего правления, олицетворяющих двойственность яда как смертельного яда и мощного лекарства.  
+Pairs of these large cast-metal sculptures were erected in cities and villages that hosted the queens during their royal progress and scattered during the Scarab Plague. A discarded original design depicting a single cobra with two heads was not practical for rapid assembly.","Созданы для совместной коронации Queen Dahlah и Queen Nahlah, последних правителей Primeval Dynasty. Сёстры приняли двух кобр-близнецов в качестве символа своего правления, олицетворяющих двойственность яда как смертельного яда и мощного лекарства.  
   
 Пары этих больших литых металлических скульптур были установлены в городах и деревнях, принимавших королев во время их королевского шествия, и разбросаны во время Чумного жука. Отвергнутый первоначальный проект, изображающий одну кобру с двумя головами, был непрактичен для быстрой сборки."
 "Commodore's Quarters:
@@ -3042,7 +3042,7 @@ Crecia did confirm one of my main suspicions, though: the Flame Legion is divide
   
 For now, I've got my warband watching every known entrance to the mines. I'm headed up north myself—gonna see if I can gather more intel. I'm not sure who's pulling the strings, but they've got some very powerful hands ready to carry their sword.  
   
-Morva Baeldancer","Беспокойство Кресии Камнесвет так же искренне, как и наше — Бангар заставил её следить за передвижениями дредноутов и Flame Legion. Она говорит, что они называют себя ""Molten Alliance"". 
+Morva Baeldancer","Беспокойство Crecia Stoneglow так же искренне, как и наше — Бангар заставил её следить за передвижениями дредноутов и Flame Legion. Она говорит, что они называют себя ""Molten Alliance"". 
 Мы думаем, что они действуют из старых шахт дредноутов. Не удалось точно определить, где они находятся (если бы пришлось гадать, где-то под Пиками Дрожи), но это объясняет, почему атаки были такими внезапными.  
   
 Однако Кресия подтвердила одно из моих главных подозрений: Flame Legion разделен. Не все участвуют в этом союзе. Трибун Приветслава — один из главных противников, но у него пока недостаточно веса, чтобы переманить многих. Они барахтаются без Гаерона. У нас не так много понимания их руководства после того, как этот горячий хаос убрали с дороги.  

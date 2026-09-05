@@ -175,11 +175,11 @@ Take a swig of omnomberry juice. Reduces health.,Сделать глоток с�
 Take a swing at a foe.,Сделать удар по врагу.
 Take a swing at a foe. Do more damage to drunks that are knocked down.,Размахнитесь на врага. Наносите больше урона сбитым с ног пьяницам.
 Take a swing with the bottle.,Размахнитесь бутылкой.
-Take a torch from the campfire in Blackhold Mine Camp in Harathi Hinterlands and use it to kill a Veteran Bear.,"Возьмите факел из костра в Лагере у шахты Блэкхолд в Harathi Hinterlands и используйте его, чтобы убить ветерана-медведя."
-Take a torch from the campfire in Blackhold Mine Camp in Harathi Hinterlands and use it to kill a Veteran Eagle Griffon.,"Возьмите факел из костра в Лагере у шахты Блэкхолд в Harathi Hinterlands и используйте его, чтобы убить ветерана — орлиного грифона."
-Take a torch from the campfire in Blackhold Mine Camp in Harathi Hinterlands and use it to kill a Veteran Eagle Raptor.,"Возьмите факел из костра в Лагере у шахты Блэкхолд в Harathi Hinterlands и используйте его, чтобы убить ветерана — орлиного раптора."
-Take a torch from the campfire in Blackhold Mine Camp in Harathi Hinterlands and use it to kill a Veteran Freshwater Crab.,"Возьмите факел из костра в Лагере у шахты Блэкхолд в Harathi Hinterlands и используйте его, чтобы убить ветерана — пресноводного краба."
-Take a torch from the campfire in Blackhold Mine Camp in Harathi Hinterlands and use it to kill a Veteran Longhorn Sheep.,"Возьмите факел из костра в Лагере у шахты Блэкхолд в Harathi Hinterlands и используйте его, чтобы убить ветерана — длиннорогого барана."
+Take a torch from the campfire in Blackhold Mine Camp in Harathi Hinterlands and use it to kill a Veteran Bear.,"Возьмите факел из костра в Blackhold Mine Camp в Harathi Hinterlands и используйте его, чтобы убить ветерана-медведя."
+Take a torch from the campfire in Blackhold Mine Camp in Harathi Hinterlands and use it to kill a Veteran Eagle Griffon.,"Возьмите факел из костра в Blackhold Mine Camp в Harathi Hinterlands и используйте его, чтобы убить ветерана — Eagle Griffon."
+Take a torch from the campfire in Blackhold Mine Camp in Harathi Hinterlands and use it to kill a Veteran Eagle Raptor.,"Возьмите факел из костра в Blackhold Mine Camp в Harathi Hinterlands и используйте его, чтобы убить ветерана — орлиного раптора."
+Take a torch from the campfire in Blackhold Mine Camp in Harathi Hinterlands and use it to kill a Veteran Freshwater Crab.,"Возьмите факел из костра в Blackhold Mine Camp в Harathi Hinterlands и используйте его, чтобы убить ветерана — пресноводного краба."
+Take a torch from the campfire in Blackhold Mine Camp in Harathi Hinterlands and use it to kill a Veteran Longhorn Sheep.,"Возьмите факел из костра в Blackhold Mine Camp в Harathi Hinterlands и используйте его, чтобы убить ветерана — длиннорогого барана."
 Take a torch from the campfire in Sootberme in Mount Maelstrom and use it to kill a Veteran Firefly.,"Возьмите факел из костра на Сажном лугу на Mount Maelstrom и используйте его, чтобы убить ветерана-светлячка."
 Take a torch from the campfire in Sootberme in Mount Maelstrom and use it to kill a Veteran Hermit Crab.,"Возьмите факел из костра на Сажном лугу на Mount Maelstrom и используйте его, чтобы убить ветерана — рака-отшельника."
 Take a torch from the campfire in Sootberme in Mount Maelstrom and use it to kill a Veteran Jungle Spider.,"Возьмите факел из костра на Сажном лугу на Mount Maelstrom и используйте его, чтобы убить ветерана — джунглевого паука."
@@ -187,7 +187,7 @@ Take a torch from the campfire in Sootberme in Mount Maelstrom and use it to kil
 Take a torch from the campfire in Sootberme in Mount Maelstrom and use it to kill a Veteran Pink Moa.,"Возьмите факел из костра на Сажном лугу на Mount Maelstrom и используйте его, чтобы убить ветерана — розового моа."
 Take a torch from the grawl village near Safewatch Vale in Frostgorge Sound and use it to kill a Veteran Alpine Stalker.,"Возьмите факел из деревни граулов у Safewatch Vale в Frostgorge Sound и используйте его, чтобы убить ветерана — альпийского хищника."
 Take a torch from the grawl village near Safewatch Vale in Frostgorge Sound and use it to kill a Veteran Arctodus.,"Возьмите факел из деревни граулов у Safewatch Vale в Frostgorge Sound и используйте его, чтобы убить ветерана-арктодуса."
-Take a torch from the grawl village near Safewatch Vale in Frostgorge Sound and use it to kill a Veteran Eagle Griffon.,"Возьмите факел из деревни граулов у Safewatch Vale в Frostgorge Sound и используйте его, чтобы убить ветерана — орлиного грифона."
+Take a torch from the grawl village near Safewatch Vale in Frostgorge Sound and use it to kill a Veteran Eagle Griffon.,"Возьмите факел из деревни граулов у Safewatch Vale в Frostgorge Sound и используйте его, чтобы убить ветерана — Eagle Griffon."
 Take a torch from the grawl village near Safewatch Vale in Frostgorge Sound and use it to kill a Veteran Longhorn Sheep.,"Возьмите факел из деревни граулов у Safewatch Vale в Frostgorge Sound и используйте его, чтобы убить ветерана — длиннорогого барана."
 Take a torch from the grawl village near Safewatch Vale in Frostgorge Sound and use it to kill a Veteran Pinesoul.,"Возьмите факел из деревни граулов у Safewatch Vale в Frostgorge Sound и используйте его, чтобы убить ветерана Пайнсоула."
 Take a torch from the grawl villages in Fireheart Rise and use it to kill a Veteran Black Bear.,"Возьмите факел из деревень граулов на Fireheart Rise и используйте его, чтобы убить ветерана — чёрного медведя."
@@ -310,7 +310,7 @@ Take Torch,Взять факел
 Take Unpurified Aether,Взять неочищенный эфир
 Take weapon.,Возьмите оружие.
 Take Wrench,Взять гаечный ключ
-Take your Primed Raven and a Vision Crystal to the Raven Shaman's Power Source hidden within Darkhoof Heights in Snowden Drifts and use it to meld your Raven with the tamed spirit you have cultivated.,"Возьмите своего Подготовленного ворона и Vision Crystal к Источнику силы шамана воронов, спрятанному в Высотах Тёмного Копыта в Сноуденских заносах, и используйте его, чтобы слить вашего ворона с прирученным духом, которого вы взрастили."
+Take your Primed Raven and a Vision Crystal to the Raven Shaman's Power Source hidden within Darkhoof Heights in Snowden Drifts and use it to meld your Raven with the tamed spirit you have cultivated.,"Возьмите своего Подготовленного ворона и Vision Crystal к Raven Shaman's Power Source, спрятанному в Высотах Тёмного Копыта в Сноуденских заносах, и используйте его, чтобы слить вашего ворона с прирученным духом, которого вы взрастили."
 Take your Raven Egg to the Raven's Wing Shrine in Dredgehaunt Cliffs to consecrate it for melding with the wild raven spirit.,"Возьмите яйцо ворона к Святилищу Крыла Ворона в Dredgehaunt Cliffs, чтобы освятить его для слияния с диким духом ворона."
 Take your Raven Egg to the Ravenbeak Shrine in Lornar's Pass to gain the blessings of Raven.,"Возьмите яйцо ворона к Святилищу Клюва Ворона в Lornar's Pass, чтобы получить благословение Ворона."
 Take your raven to Dredgehaunt Cliffs and traverse the Tribulation Caverns to prime your raven for melding with a tamed spirit.,"Возьмите своего ворона в Dredgehaunt Cliffs и пройдите через Tribulation Caverns, чтобы подготовить ворона к слиянию с прирученным духом."
@@ -350,7 +350,7 @@ Talk to Braham in the Edge of the Mists.,Поговорите с Брейхам�
 Talk to Branwen in the Echoing Hills region.,Поговорите с Бранвен в области Эхо-холмов.
 Talk to Caithe after the meeting.,Поговорите с Кейт после встречи.
 Talk to Chief Mognoll.,Поговорите с вождём Могноллом.
-Talk to Cymbel at Cymbel's Rescue in the Fields of Ruin after completing any event involving her hounds.,Поговорите с Симбел в Спасении Симбел на Fields of Ruin после завершения любого события с участием её гончих.
+Talk to Cymbel at Cymbel's Rescue in the Fields of Ruin after completing any event involving her hounds.,Поговорите с Симбел в Cymbel's Rescue на Fields of Ruin после завершения любого события с участием её гончих.
 Talk to Cymbel in Fields of Ruin after obtaining the Baby Book.,Поговорите с Симбел на Fields of Ruin после получения Книги малыша.
 Talk to Cymbel in Fields of Ruin after obtaining the Tiger Den Map.,Поговорите с Симбел на Fields of Ruin после получения карты Тигриного логова.
 Talk to Cymbel in Fields of Ruin after scouting all of the locations.,Поговорите с Симбел на Fields of Ruin после разведки всех локаций.
