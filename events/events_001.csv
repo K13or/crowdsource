@@ -38,7 +38,7 @@ english,translate
 "%str1%: Darkness is a blessing. Close your eyes, and feel it wash over you.","%str1%: Тьма — это благословение. Закройте глаза и почувствуйте, как она омывает вас."
 %str1%: If you don't all want to die...kill me now!,%str1%: Если вы не хотите все умереть... убейте меня сейчас!
 %str1%: In the beginning there was only emptiness...and now you must join it.,%str1%: В начале была только пустота... и теперь вы должны присоединиться к ней.
-%str1%: Look...the world is ending. A landscape of shattered dreams and death. And all due to...me.,%str1%: Смотри... мир гибнет. Пейзаж из разбитых грез и смерти. И все из-за... меня.
+%str1%: Look...the world is ending. A landscape of shattered dreams and death. And all due to...me.,%str1%: Смотри... мир гибнет. Пейзаж из разбитых грёз и смерти. И все из-за... меня.
 "%str1%: Please, no more of this! It's poisoning me.","%str1%: Пожалуйста, хватит! Это отравляет меня."
 %str1%: Please...leave here...before you are all destroyed...,%str1%: Пожалуйста... уходите отсюда... пока вы все не погибли...
 "%str1%: Reach deep inside, and you will feel the emptiness already growing there.","%str1%: Загляните глубоко внутрь, и вы почувствуете, как пустота уже растет там."
@@ -100,7 +100,7 @@ english,translate
 <Mech name>,<Mech name>
 <Plural of foe's name's> killed: x/[3..7],Убито <Plural of foe's name's>: x/[3..7]
 <Random boss foe>,<Random boss foe>
-<Veteran/Champion> Branded Riftstalker,<Veteran/Champion> Клейменный охотник за разломами
+<Veteran/Champion> Branded Riftstalker,<Veteran/Champion> Клеймённый охотник за разломами
 A Blood Legion challenger emerges!,Появляется претендент Кровавого легиона!
 A Celebration of Meat,Праздник мяса
 A Concert for the Ages,Концерт на века

@@ -103,7 +103,7 @@ english,translate
 %str1%%str2%Stately Garb%str3%%str4%,%str1%%str2%Величественное одеяние%str3%%str4%
 %str1%%str2%Stately Gloves%str3%%str4%,%str1%%str2%Величественные перчатки%str3%%str4%
 %str1%%str2%Stately Leggings%str3%%str4%,%str1%%str2%Величественные поножи%str3%%str4%
-%str1%%str2%Static Tempered Spinal Blades%str3%%str4%,%str1%%str2%Статические Закаленные Спинные Клинки%str3%%str4%
+%str1%%str2%Static Tempered Spinal Blades%str3%%str4%,%str1%%str2%Статические Закалённые Спинные Клинки%str3%%str4%
 %str1%%str2%Steam Axe%str3%%str4%,%str1%%str2%Паровой топор%str3%%str4%
 %str1%%str2%Steam Bow%str3%%str4%,%str1%%str2%Паровой лук%str3%%str4%
 %str1%%str2%Steam Brand%str3%%str4%,%str1%%str2%Паровое клеймо%str3%%str4%
@@ -314,7 +314,7 @@ english,translate
 %str1%%str2%Summit Targe%str3%%str4%,%str1%%str2%Щит вершины%str3%%str4%
 %str1%%str2%Sun Catcher%str3%%str4%,%str1%%str2%Ловец солнца%str3%%str4%
 %str1%%str2%Sun-Blessed Vision%str3%%str4%,%str1%%str2%Благословенное солнцем зрение%str3%%str4%
-%str1%%str2%Sun-Blessed Zephyrite Gloves%str3%%str4%,"%str1%%str2%Перчатки зефирита, благословленные солнцем%str3%%str4%"
+%str1%%str2%Sun-Blessed Zephyrite Gloves%str3%%str4%,"%str1%%str2%Перчатки зефирита, благословлённые солнцем%str3%%str4%"
 %str1%%str2%Sun-Touched Zephyrite Gloves%str3%%str4%,%str1%%str2%Солнечные перчатки зефиритов%str3%%str4%
 %str1%%str2%Sunder%str3%%str4%,%str1%%str2%Сандер%str3%%str4%
 %str1%%str2%Sunrise%str3%%str4%,%str1%%str2%Восход%str3%%str4%

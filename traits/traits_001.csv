@@ -7,7 +7,7 @@ english,translate
 <c=@abilitytype>Ambush</c> skills you use grant boons to nearby allies.,<c=@abilitytype>Засада</c>Умения- засады при активации дают дары союзникам поблизости.
 <c=@abilitytype>Arcane.</c> Blast foes in the target area with an energy wave for critical damage.,"<c=@abilitytype>Мистический.</c> Поразите врагов в целевой области волной энергии, нанося критический урон."
 <c=@abilitytype>Arcane</c> skills grant increased ferocity and have additional effects.,<c=@abilitytype>Мистические</c> навыки дают бонус к свирепости и обладают дополнительными эффектами.
-<c=@abilitytype>Banners</c> grant resolution to allies when they are dropped. Pulsing boons applied through <c=@abilitytype>banners</c> last longer.,<c=@abilitytype>Знамена</c> при установке накладывают решимость на союзников. Пульсирующие благословения от <c=@abilitytype>знамен</c> действуют дольше.
+<c=@abilitytype>Banners</c> grant resolution to allies when they are dropped. Pulsing boons applied through <c=@abilitytype>banners</c> last longer.,<c=@abilitytype>Знамёна</c> при установке накладывают решимость на союзников. Пульсирующие благословения от <c=@abilitytype>знамен</c> действуют дольше.
 "<c=@abilitytype>Beast</c> abilities inflict weakness on those struck.
 <c=@reminder>This effect will only occur once on each target struck by an ability.</c>","<c=@abilitytype>Звериные</c> способности накладывают слабость на пораженные цели.
 <c=@reminder>Этот эффект срабатывает только один раз для каждой цели, пораженной способностью.</c>"

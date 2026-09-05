@@ -43,7 +43,7 @@ A melee stun.,Оглушение в ближнем бою.
 "A number of players closest to Decima are targeted with bolts of Discordant Thunder. If a bolt's area of effect strikes a conduit, it gains some charge.","Несколько игроков, ближайших к Decima, становятся целями для разрядов «Дискордантного грома». Если область действия разряда попадает в проводник, он получает заряд."
 "A persistent electrical field that increases in damage over time appears under any player hit by Sparkwave. Upon reaching maximum damage, it also dazes and applies vulnerability.","Постоянное электрическое поле, урон от которого со временем увеличивается, появляется под любым игроком, пораженным Sparkwave. При достижении максимального урона оно также ошеломляет и накладывает уязвимость."
 A pistol attack that inflicts poison.,"Выстрел из пистолета, накладывающий яд."
-"A platform bursts into flame, dealing fire damage, stripping boons, and applying cripple and weakness.","Платформа вспыхивает пламенем, нанося урон огнем, снимая благословения и накладывая хромоту и слабость."
+"A platform bursts into flame, dealing fire damage, stripping boons, and applying cripple and weakness.","Платформа вспыхивает пламенем, нанося урон огнём, снимая благословения и накладывая хромоту и слабость."
 A platform has been violently torn apart.,Платформа была яростно разорвана на части.
 A pool of poison left behind after purging the volatile-poison condition.,"Лужа яда, оставшаяся после очистки состояния volatile-poison."
 "A powerful beam strikes from above, charging the ground with ley energies.","Мощный луч ударяет сверху, заряжая землю энергией лей-линий."
@@ -489,7 +489,7 @@ Blast out a watery orb that heals allies as it travels.,"Выпустите во
 "Blast the ground, damaging nearby foes and leaping to your target.","Ударьте по земле, нанося урон ближайшим врагам, и совершите прыжок к цели."
 "Blast your foe with life force, setting them alight.","Поразите врага жизненной силой, поджигая его."
 Blast your foe with lightning.,Поразить вашего противника молнией.
-Blast your foe with rapid fire from your pistol.,Поразить вашего противника беглым огнем из пистолета.
+Blast your foe with rapid fire from your pistol.,Поразить вашего противника беглым огнём из пистолета.
 Blasts an area around each target with chaotic energy. Does increased damage to allies caught in the area.,"Поражает область вокруг каждой цели хаотической энергией. Наносит увеличенный урон союзникам, попавшим в область действия."
 Blasts foes.,Поражает врагов взрывами.
 Blasts nearby foes.,Поражает ближайших врагов взрывами.

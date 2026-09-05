@@ -21,7 +21,7 @@ Stow Med Kit,Stow Med Kit
 Stow Mortar Kit,Stow Mortar Kit
 Stow Tome,Stow Tome
 Stow Tool Kit,Stow Tool Kit
-Stow the mortar kit.,Убрать миномет.
+Stow the mortar kit.,Убрать миномёт.
 Stow your bomb kit.,Убрать ваш набор бомб.
 Stow your elixir gun.,Убрать вашу эликсирную пушку.
 Stow your flamethrower.,Убрать ваш огнемет.
@@ -418,11 +418,11 @@ The Vale Guardian sends slow-moving projectiles at you that deal damage on hit.,
 The Voice fires an arrow that bounces between nearby targets.,"Голос выпускает стрелу, которая отскакивает между ближайшими целями."
 "The Voice fires an arrow that splits and tracks enemies, creating immobilizing traps at each point of impact.","Голос выпускает стрелу, которая разделяется и преследует врагов, создавая обездвиживающие ловушки в каждой точке попадания."
 "The Voice leaps backward, leaving behind a trap that immobilizes enemies.","Голос совершает прыжок назад, оставляя после себя ловушку, которая обездвиживает врагов."
-The Whisper of Jormag covers the ground with volatile ice magic that deals periodic damage.,"Шепот Jormag покрывает землю нестабильной ледяной магией, наносящей периодический урон."
-The Whisper of Jormag pulses a volatile aura that deals damage every 3 seconds to all foes.,"Шепот Jormag пульсирует нестабильной аурой, наносящей урон всем противникам каждые 3 секунды."
-The Whisper of Jormag summons deadly ice tornadoes.,Шепот Jormag призывает смертоносные ледяные торнадо.
-The Whisper of Jormag targets a foe with a massive burst of frost magic. The damage done by this attack is distributed among all enemies caught in the blast.,"Шепот Jormag нацеливается на противника мощным всплеском магии льда. Урон от этой атаки распределяется между всеми врагами, попавшими под удар."
-"The Whisper of Jormag targets all enemies with deadly ice shards. While a target may evade their own shards, they may not evade others' shards.","Шепот Jormag нацеливается на всех врагов смертоносными ледяными осколками. Хотя цель может уклониться от своих осколков, она не может уклониться от чужих."
+The Whisper of Jormag covers the ground with volatile ice magic that deals periodic damage.,"Шёпот Jormag покрывает землю нестабильной ледяной магией, наносящей периодический урон."
+The Whisper of Jormag pulses a volatile aura that deals damage every 3 seconds to all foes.,"Шёпот Jormag пульсирует нестабильной аурой, наносящей урон всем противникам каждые 3 секунды."
+The Whisper of Jormag summons deadly ice tornadoes.,Шёпот Jormag призывает смертоносные ледяные торнадо.
+The Whisper of Jormag targets a foe with a massive burst of frost magic. The damage done by this attack is distributed among all enemies caught in the blast.,"Шёпот Jormag нацеливается на противника мощным всплеском магии льда. Урон от этой атаки распределяется между всеми врагами, попавшими под удар."
+"The Whisper of Jormag targets all enemies with deadly ice shards. While a target may evade their own shards, they may not evade others' shards.","Шёпот Jormag нацеливается на всех врагов смертоносными ледяными осколками. Хотя цель может уклониться от своих осколков, она не может уклониться от чужих."
 The World Ends in Decay,The World Ends in Decay
 The anomaly overloads with energy and deals massive damage to all foes.,Аномалия перегружается энергией и наносит огромный урон всем противникам.
 The anomaly unleashes its new power.,Аномалия высвобождает свою новую силу.
@@ -430,7 +430,7 @@ The arcs can only strike enemies touching the ground.,"Дуги могут по�
 "The blazing boulder tears through you, blowing out everything in its path.","Пылающий валун проносится сквозь вас, сметая все на своем пути."
 "The boneskinner pulses a volatile aura that deals damage every 3 seconds to all foes within a range of 2,000.","Boneskinner пульсирует нестабильной аурой, наносящей урон каждые 3 секунды всем противникам в радиусе 2000."
 "The boneskinner spews a noxious cloud, launching enemies and applying torment. Extinguishes torches.","Boneskinner извергает ядовитое облако, подбрасывая врагов и накладывая боль. Гасит факелы."
-"The cauldron discharges some energy, causing minor damage.","Котел разряжает часть энергии, нанося незначительный урон."
+"The cauldron discharges some energy, causing minor damage.","Котёл разряжает часть энергии, нанося незначительный урон."
 The caustic ooze flails around to attack enemies.,"Едкая слизь извивается, атакуя врагов."
 The chain of frost between the Whisper of Jormag and one of its foes deals damage to those who touch it.,"Цепь мороза между Шепотом Jormag и одним из его врагов наносит урон тем, кто к ней прикасается."
 The combination of energies results in a deadly explosion.,Комбинация энергий приводит к смертоносному взрыву.
@@ -498,8 +498,8 @@ The storm clouds pulse damage every second to all targets standing under it.,"Г
 The strange magic of this place has twisted the nature of holiday cheer.,Странная магия этого места исказила саму суть праздничного настроения.
 The troll lashes out with its sharpened appendages.,Порезать противника своими когтями.
 "The unstable environment rains down debris from the airships in the trees, dealing damage upon impact.","В нестабильной среде с деревьев падают обломки дирижаблей, нанося урон при ударе."
-"The voltaic wisp channels electricity into its tail, leaving time-delayed explosions behind.","Вольтовый огонек направляет электричество в свой хвост, оставляя после себя взрывы с задержкой по времени."
-The voltaic wisp immobilizes foes with steady streams of paralyzing shocks from its tail.,Вольтовый огонек обездвиживает врагов постоянными потоками парализующих разрядов из своего хвоста.
+"The voltaic wisp channels electricity into its tail, leaving time-delayed explosions behind.","Вольтовый огонёк направляет электричество в свой хвост, оставляя после себя взрывы с задержкой по времени."
+The voltaic wisp immobilizes foes with steady streams of paralyzing shocks from its tail.,Вольтовый огонёк обездвиживает врагов постоянными потоками парализующих разрядов из своего хвоста.
 The water is charged with an electrical current.,Вода заряжена электрическим током.
 The whispering shadow assails all enemies with waves of supernatural cold and darkness. Each pulse of damage also grants it one stack of Empowered.,Шепчущая тень атакует всех врагов волнами сверхъестественного холода и тьмы. Каждый импульс урона также даёт ей один стак Усиления.
 "The whispering shadow becomes vulnerable to defiance damage and repeatedly targets enemies who carry life-fire. While channeling, Guttering Light damages all enemies in the life-fire's radius. Upon completion, life-fire is removed from the target and the whispering shadow gains a stack of Inevitable Darkness.","Шепчущая тень становится уязвимой к урону по шкале стойкости и неоднократно выбирает целью врагов, несущих жизненный огонь. Во время подготовки Мерцающий свет наносит урон всем врагам в радиусе действия жизненного огня. По завершении жизненный огонь удаляется с цели, а Шепчущая тень получает стак Неизбежной тьмы."

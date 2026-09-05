@@ -54,7 +54,7 @@ Rust,Rust
 Rytlock Brimstone beckons to %str1%.,Rytlock Brimstone подзывает %str1%.
 Rytlock Brimstone waves at %str1%.,Rytlock Brimstone машет %str1%.
 "Rytlock Brimstone, Blood Legion Tribune","Rytlock Brimstone, трибун Blood Legion"
-"Rytlock Brimstone, Canach, and I fought waves of Branded laying siege to the Free City of Amnoon and rescued as many Elonians as possible. The Brandstorm concealed a Branded wyvern: Kralkatorrik was clearly experimenting with new powers acquired after the deaths of Balthazar and the two Elder Dragons.","Rytlock Brimstone, Canach и я отбивались от волн Клейменных, осаждавших Вольный город Амнун, и спасли столько элонийцев, сколько смогли. Клейменный шторм скрывал Клейменного виверна: Kralkatorrik явно экспериментировал с новыми силами, полученными после смерти Balthazar и двух Старших Драконов."
+"Rytlock Brimstone, Canach, and I fought waves of Branded laying siege to the Free City of Amnoon and rescued as many Elonians as possible. The Brandstorm concealed a Branded wyvern: Kralkatorrik was clearly experimenting with new powers acquired after the deaths of Balthazar and the two Elder Dragons.","Rytlock Brimstone, Canach и я отбивались от волн Клейменных, осаждавших Вольный город Амнун, и спасли столько элонийцев, сколько смогли. Клеймённый шторм скрывал Клейменного виверна: Kralkatorrik явно экспериментировал с новыми силами, полученными после смерти Balthazar и двух Старших Драконов."
 "Rytlock and Crecia brought me to the Eye of the North to recover from my injuries following our standoff with Bangar and Ryland. After some fitful rest, I awoke ready to get back in the fight.","Rytlock и Crecia привели меня в Eye of the North, чтобы я оправился от травм после нашего противостояния с Bangar и Ryland. Немного отдохнув, я проснулся, готовый вернуться в бой."
 "Rytlock and I took a chopper to the Drizzlewood Coast and we saw firsthand what the war had devolved into. Smodur was executing defectors on the front lines, a brutal punishment. But Smodur isn't one to extend mercy in warfare.","Rytlock и я отправились на вертолете в Drizzlewood Coast, где воочию увидели, во что превратилась война. Smodur казнил дезертиров прямо на передовой — жестокое наказание. Но Smodur не из тех, кто проявляет милосердие на войне."
 "Rytlock and I visited Bangar's cell at the Eye of the North. But Ruinbringer wasn't just our prisoner, he was also the ice dragon's. The defeated charr is now the Voice of Jormag. In his prime, Bangar could talk his way out of anything. Now, he's lucky if he gets to speak. Aurene listened to Jormag boast about Ryland, their champion, and of the army he had prepared. And Jormag spoke of the looming threat of their brother, Primordus.","Rytlock и я посетили камеру Bangar в Eye of the North. Но Ruinbringer был не только нашим пленником, он был и пленником ледяного дракона. Побежденный чарр теперь — Голос Jormag. В расцвете сил Bangar мог выговориться из любой ситуации. Теперь ему повезет, если ему вообще дадут слово. Aurene слушала, как Jormag хвастался Ryland, их чемпионом, и армией, которую он подготовил. И Jormag говорил о надвигающейся угрозе их брата, Primordus."
@@ -139,7 +139,7 @@ Say your good-byes.,Попрощайся.
 "Sayida contacted me to report that a Brandstorm had brought down the airship carrying Canach's detonators. Canach had formulated an audacious plan to blow up a mountain to drop the rubble onto Kralkatorrik when he arrived. Suddenly, it looked like that plan was in jeopardy. I was able to fight through the Branded that had overrun the wreckage and retrieve the detonators. With Canach's plan viable again, Sayida agreed to fly his team into position and then lead the rest of the fleet in a barrage of cannon fire against Kralkatorrik when he arrived.","Sayida связалась со мной и сообщила, что Brandstorm сбил дирижабль, перевозивший детонаторы Canach. Canach разработал дерзкий план: взорвать гору, чтобы обрушить обломки на Kralkatorrik, когда тот прибудет. Внезапно этот план оказался под угрозой. Я смог пробиться сквозь Branded, захвативших обломки, и вернуть детонаторы. Поскольку план Canach снова стал осуществим, Sayida согласилась доставить его команду на позицию, а затем возглавить остальной флот в залповом огне по Kralkatorrik, когда тот прибудет."
 "Sayida handed me over to Warden Amala, and with scores of Awakened looking on, she sweet-talked the warden into a toast to Joko, slyly handing over the spiked grog. All was going smoothly until Taimi called me over my communicator, raising the warden's suspicions. Amala cracked me over the head, and everything went black.","Sayida передала меня Warden Amala, и на глазах у множества Awakened она ловко заговорила зубы надзирательнице, предложив тост за Joko и незаметно подсунув ей отравленный грог. Все шло гладко, пока Taimi не вызвала меня по коммуникатору, вызвав подозрения у надзирательницы. Amala ударила меня по голове, и я потерял сознание."
 "Sayida the Sly: Steady now, this is going to be a long voyage...","Держись, это будет долгое путешествие..."
-Scaled Dragon Wings Glider[s],Планер «Чешуйчатые крылья дракона»
+Scaled Dragon Wings Glider[s],Планёр «Чешуйчатые крылья дракона»
 Scaled Hellcat,Scaled Hellcat
 Scaled Hellwing,Scaled Hellwing
 Scaled Netherwing,Scaled Netherwing
@@ -325,7 +325,7 @@ Secure the Wizard's Tower.,Обезопасить Wizard's Tower.
 Secure the area around the rift:,Обезопасьте область вокруг разлома:
 Secure the area for arrivals.,Обезопасьте область для прибывающих.
 Secure the area to rescue the captured villagers.,"Зачистите область, чтобы спасти захваченных жителей."
-Secure the arrow cart on the eastern wall.,Обеспечьте безопасность стреломета на восточной стене.
+Secure the arrow cart on the eastern wall.,Обеспечьте безопасность стреломёта на восточной стене.
 Secure the final node.,Защитите последний узел.
 Secure the first node.,Защитите первый узел.
 Secure the first security console.,Защитите первую консоль безопасности.
@@ -439,9 +439,9 @@ Shark,Shark
 Shark Rank Finisher,Shark Rank Finisher
 Sharpened Thorns,Sharpened Thorns
 Shattered Bloodstone Glider,Shattered Bloodstone Glider
-Shattered Bloodstone Glider[s],[Планер|Планера|Планеров] «Разбитый кровавый камень»
+Shattered Bloodstone Glider[s],[Планёр|Планёра|Планёров] «Разбитый кровавый камень»
 Shattered Cathedral Glider,Shattered Cathedral Glider
-Shattered Cathedral Glider[s],[Планер|Планера|Планеров] «Разрушенный собор»
+Shattered Cathedral Glider[s],[Планёр|Планёра|Планёров] «Разрушенный собор»
 Shattered Light,Shattered Light
 Shattered Nightscale,Shattered Nightscale
 Shattered Observatory Fractal,Shattered Observatory Fractal
