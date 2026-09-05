@@ -145,9 +145,9 @@ Loose Dirt,Рыхлая земля
 Loot %num2% enemy supply caravans.,Разграбьте %num2% вражеских караванов с припасами.
 Loot %num2% essence chests in Bjora Marches.,Вскройте %num2% сундуков с эссенцией в Bjora Marches.
 Loot %num2% hidden chests in Darkrime Delves.,Вскройте %num2% скрытых сундуков в Darkrime Delves.
-Loot a Grawl Paw from grawl throughout Tyria.,Добудьте лапу граула с граулов по всей Тирии.
-Loot a Hylek Tongue from hylek throughout Tyria.,Добудьте язык хилека с хилеков по всей Тирии.
-Loot a Krait Scale from krait throughout Tyria.,Добудьте чешую крайта с крайтов по всей Тирии.
+Loot a Grawl Paw from grawl throughout Tyria.,Добудьте Grawl Paw с граулов по всей Тирии.
+Loot a Hylek Tongue from hylek throughout Tyria.,Добудьте Hylek Tongue с хилеков по всей Тирии.
+Loot a Krait Scale from krait throughout Tyria.,Добудьте Krait Scale с крайтов по всей Тирии.
 Looted %num1%/%num2% Enemy Supply Caravans,Разграблено %num1%/%num2% вражеских караванов с припасами
 "Looted %num1%/%num2% Enemy[pl:""Enemies""]",Обобрано %num1%/%num2% [врага|врага|врагов]
 Looted %num1%/%num2% Essence Chests in Bjora Marches,Вскрыто %num1%/%num2% сундуков с эссенцией в Bjora Marches
@@ -170,7 +170,7 @@ Low-Pressure Lift,Подъём низкого давления
 Loyalist Iris,Loyalist Iris
 Loyalist Spy,Loyalist Spy
 Loyalist Vasil,Loyalist Vasil
-Loyalist forces have been pushed from Heitor's Territory. A final battle in Zakiros looms.,Силы лоялистов выбиты из владений Хейтора. Приближается решающая битва в Закиросе.
+Loyalist forces have been pushed from Heitor's Territory. A final battle in Zakiros looms.,Силы лоялистов выбиты из Heitor's Territory. Приближается решающая битва в Закиросе.
 Loyalist forces have been pushed from Nyedra Surrounds. A final battle in Zakiros looms.,Силы лоялистов выбиты из Nyedra Surrounds. Приближается решающая битва в Закиросе.
 Lucy,Люси
 Ludlow,Ладлоу
@@ -440,7 +440,7 @@ Meet Zojja in her lab to discuss the Infinity Ball.,"Встретьтесь с �
 Meet the Order representatives at the Pale Tree's garden in the Grove.,Встретьтесь с представителями орденов в саду Pale Tree в Роще.
 Meet the Order representatives east of Lychcroft Mere.,Встретьтесь с представителями орденов к востоку от Личкрофт-Мира.
 Meet the Preceptors at the Agora in Lion's Arch.,Встретьтесь с наставниками на Агоре в Lion's Arch.
-Meet the exemplars near Darkwound Defile.,Встретьтесь с образцами у ущелья Тёмной Раны.
+Meet the exemplars near Darkwound Defile.,Встретьтесь с образцами у Darkwound Defile.
 Meet with Eir to discuss an unusual opportunity.,"Встретьтесь с Эйр, чтобы обсудить необычную возможность."
 "Meet with Gorr, the inventor, and test his new weapon.",Встретьтесь с изобретателем Горром и испытайте его новое оружие.
 Meet with Halvora in Lion's Arch to learn more.,"Встретьтесь с Хальворой в Lion's Arch, чтобы узнать больше."

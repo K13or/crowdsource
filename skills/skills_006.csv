@@ -80,7 +80,7 @@ Disenchantment,Disenchantment
 Disintegration Blast,Disintegration Blast
 Dismiss Cyclone Bow,Dismiss Cyclone Bow
 Dismiss Lieutenant Soulcleave,Dismiss Lieutenant Soulcleave
-"Dispel your Cyclone Bow, losing all Wind Force.","Уберите свой лук циклона, теряя всю Силу ветра."
+"Dispel your Cyclone Bow, losing all Wind Force.","Уберите свой лук циклона, теряя всю Wind Force."
 "Displace your foe through the Mists, forcing them away from you.","Переместите своего врага через Туманы, заставляя его отдалиться от вас."
 Displacement,Displacement
 Disrupt Attunement,Disrupt Attunement
@@ -187,8 +187,8 @@ Dwayna's Lightning,Dwayna's Lightning
 Dwayna's Tempest,Dwayna's Tempest
 Dynamic Deterrent,Dynamic Deterrent
 Dysapoptosis,Dysapoptosis
-Each stack of Peal of Discord lets Decima target the closest untargeted player with Chorus of Thunder.,Каждый заряд «Раската раздора» позволяет Decima выбрать ближайшего невыбранного игрока целью для «Хора грома».
-Each stack of Peal of Harmony lets Decima target an uncharged conduit near the farthest player.,Каждый заряд «Раската гармонии» позволяет Decima выбрать незаряженный проводник рядом с самым дальним игроком.
+Each stack of Peal of Discord lets Decima target the closest untargeted player with Chorus of Thunder.,Каждый заряд «Peal of Discord» позволяет Decima выбрать ближайшего невыбранного игрока целью для «Хора грома».
+Each stack of Peal of Harmony lets Decima target an uncharged conduit near the farthest player.,Каждый заряд «Peal of Harmony» позволяет Decima выбрать незаряженный проводник рядом с самым дальним игроком.
 Earth Attunement,Earth Attunement
 Earth Render,Earth Render
 Earth Sphere,Earth Sphere
@@ -367,7 +367,7 @@ Enter Shadow Shroud,Enter Shadow Shroud
 Envelop yourself in a fiery shield that burns foes and grants might each time you are struck (cooldown of 1 second per attacker).,"Окружить себя огненным щитом, который поджигает противников и дарует вам мощь каждый раз, когда вам наносят удар (перезарядка 1 секунда на атакующего)."
 Envelop yourself in a stony barrier that improves toughness.,"Окружить себя каменным барьером, который увеличивает вашу прочность."
 "Envelop yourself in stony armor, making yourself invulnerable.","Окутайте себя каменной броней, делая себя неуязвимым."
-"Envelop yourself in thorns, striking nearby enemies and gaining stability for a brief duration. Gain additional bonuses and Nature's Strength if you strike an enemy.","Оберните себя шипами, поражая ближайших врагов и получая устойчивость на короткое время. Получите дополнительные бонусы и Силу природы, если поразите врага."
+"Envelop yourself in thorns, striking nearby enemies and gaining stability for a brief duration. Gain additional bonuses and Nature's Strength if you strike an enemy.","Оберните себя шипами, поражая ближайших врагов и получая устойчивость на короткое время. Получите дополнительные бонусы и Nature's Strength, если поразите врага."
 Envelop yourself with electrical energy that stuns nearby foes if they attack you. Each attacker can be affected by this only once every 2 seconds.,"Окружить себя электрической энергией, которая оглушает противников поблизости, если они вас атакуют. Каждый нападающий может быть поражен только один раз в 2 секунды."
 "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).","Окутан огненным щитом, который сжигает врагов и даёт мощь каждый раз, когда вас бьют (перезарядка 1 секунда на каждого атакующего)."
 Enveloping Haze,Enveloping Haze

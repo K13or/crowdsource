@@ -223,7 +223,7 @@ Form caustic paste by combining 10 Piles of Bloodstone Dust with the elements fr
 Formerly Priceless Heirloom,Formerly Priceless Heirloom
 "Formerly used at the Mystic Forge in the creation of the legendary ring Coalescence.
 Double-click to exchange for a Legendary Insight.","Ранее использовалось в Mystic Forge при создании легендарного кольца «Coalescence».
-Дважды щёлкните, чтобы обменять на легендарное прозрение."
+Дважды щёлкните, чтобы обменять на Legendary Insight."
 Forming a New Legion,Forming a New Legion
 Forsaken Architeuthis,Forsaken Architeuthis
 Forsaken Artem's Needler,Forsaken Artem's Needler
@@ -390,7 +390,7 @@ Used by jade bot technicians to upgrade to Turtle Pilot Booster 3.","Наход�
 
 Used by jade bot technicians to upgrade to Rescue Protocol Recharge 3.","Находится при прохождении вылазок в Кантхе.
 
-Используется техниками нефритовых ботов для улучшения до перезарядки протокола спасения 3."
+Используется техниками нефритовых ботов для улучшения до Rescue Protocol Recharge 3 3."
 "Found by defeating strike missions in Cantha.
 
 Used by jade bot technicians to upgrade to the third tier of your Jade Bot Glide Booster.","Находится при прохождении вылазок в Кантхе.
@@ -410,7 +410,7 @@ Used by jade bot technicians to upgrade to Mount Energy Booster 3.","Наход�
 
 Used by jade bot technicians to upgrade to Treasure Hunter Protocol 3.","Находится при победе над Прототипом XJ-1 в Echovald Wilds.
 
-Используется техниками нефритовых ботов для улучшения до протокола охотника за сокровищами 3."
+Используется техниками нефритовых ботов для улучшения до Treasure Hunter Protocol 3 3."
 "Found by defeating the Void in Dragon's End.
 
 Used by jade bot technicians to upgrade to Turtle Siege Enhancer 3.","Находится при победе над Пустотой в Конце Дракона.
@@ -418,8 +418,8 @@ Used by jade bot technicians to upgrade to Turtle Siege Enhancer 3.","Наход
 Используется техниками нефритовых ботов для улучшения до осадного усилителя черепахи 3."
 Found by mining iron ore.,Найдено при добыче железной руды.
 Found Heirloom,Found Heirloom
-Found in Cardinal Adina's Chest. Double-click or trade in at the guild decoration trader to earn a decoration.,"Найдено в сундуке Кардинала Адины. Дважды щёлкните или обменяйте у торговца гильдейскими украшениями, чтобы получить украшение."
-Found in Cardinal Sabir's Chest. Double-click or trade in at the guild decoration trader to earn a decoration.,"Найдено в сундуке Кардинала Сабира. Дважды щёлкните или обменяйте у торговца гильдейскими украшениями, чтобы получить украшение."
+Found in Cardinal Adina's Chest. Double-click or trade in at the guild decoration trader to earn a decoration.,"Найдено в сундуке Cardinal Adina. Дважды щёлкните или обменяйте у торговца гильдейскими украшениями, чтобы получить украшение."
+Found in Cardinal Sabir's Chest. Double-click or trade in at the guild decoration trader to earn a decoration.,"Найдено в сундуке Cardinal Sabir. Дважды щёлкните или обменяйте у торговца гильдейскими украшениями, чтобы получить украшение."
 Found in Chests of the Mists and salvaged from ascended rings. Used to stabilize dark energy for the safe construction of items. Can also be traded for Fractal Encryptions.,Находится в Сундуках Туманов и извлекается из вознесённых колец. Используется для стабилизации тёмной энергии при безопасном создании предметов. Также можно обменять на фрактальные шифрования.
 Found in Convergences and rift hunts. Consume this item to convert it into a currency.,"Найдено в Схождениях и охотах за разломами. Используйте этот предмет, чтобы превратить его в валюту."
 Found in Convergences and tier 2 rift hunts. Consume this item to convert it into a currency.,"Найдено в Схождениях и охотах за разломами 2-го уровня. Используйте этот предмет, чтобы превратить его в валюту."
@@ -433,7 +433,7 @@ Found in Gorseval's chest. Double-click or trade in at the guild decoration trad
 "Found in Greer's Chest in the Mount Balrior raid.
 Used in the creation of homestead decorations, or double-click to consume this item and earn a decoration for the guild you are representing.","Найдено в сундуке Грира в рейде на Mount Balrior.
 Используется для создания украшений усадьбы или дважды щёлкните, чтобы потребить этот предмет и получить украшение для гильдии, которую вы представляете."
-Found in Matthias Gabrel's chest. Double-click or trade in at the guild decoration trader to earn a decoration.,"Найдено в сундуке Маттиаса Габрела. Дважды щёлкните или обменяйте у торговца украшениями гильдии, чтобы получить украшение."
+Found in Matthias Gabrel's chest. Double-click or trade in at the guild decoration trader to earn a decoration.,"Найдено в сундуке Matthias Gabrel. Дважды щёлкните или обменяйте у торговца украшениями гильдии, чтобы получить украшение."
 Found in McLeod the Silent's chest. Double-click or trade in at the guild decoration trader to earn a decoration.,"Найдено в сундуке Маклеода Молчаливого. Дважды щёлкните или обменяйте у торговца украшениями гильдии, чтобы получить украшение."
 Found in Mordremoth's chest. Trade in at the guild decoration trader to earn a guild decoration or at the homestead guide to earn a homestead decoration.,"Найдено в сундуке мордремовота. Обменяйте у торговца украшениями гильдии, чтобы получить украшение гильдии, или у наставника усадьбы, чтобы получить украшение усадьбы."
 Found in noxious seed pods dropped by Mordrem champions.,"Находится в ядовитых семенных стручках, выпадающих с чемпионов мордремов."
@@ -444,7 +444,7 @@ Found in Tequatl's chest. Trade in at the guild decoration trader to earn a guil
 "Found in the Astralarium and used by the Corsair, Mehdi, to craft his famous tainted grog in the Domain of Istan.",Находится в Астралариуме; корсар Мехди использует это для своего знаменитого отравленного грога в Domain of Istan.
 Found in the chak gerent's chest. Trade in at the guild decoration trader to earn a guild decoration or at the homestead guide to earn a homestead decoration.,"Найдено в сундуке чак-герента. Обменяйте у торговца украшениями гильдии, чтобы получить украшение гильдии, или у проводника по усадьбе, чтобы получить украшение усадьбы."
 Found in the chest after defeating the Inquest Golem Mark II in Mount Maelstrom.,Находится в сундуке после победы над големом Инквеста Mark II на Mount Maelstrom.
-Found in the completion chest for the River of Souls event in the Underworld. Double-click or trade in at the guild decoration trader to earn a decoration.,"Найдено в сундуке за завершение события «Река душ» в Подземном мире. Дважды щёлкните или обменяйте у торговца украшениями гильдии, чтобы получить украшение."
+Found in the completion chest for the River of Souls event in the Underworld. Double-click or trade in at the guild decoration trader to earn a decoration.,"Найдено в сундуке за завершение события «River of Souls» в Подземном мире. Дважды щёлкните или обменяйте у торговца украшениями гильдии, чтобы получить украшение."
 Found in the completion chest for the statue events in the Underworld. Double-click or trade in at the guild decoration trader to earn a decoration.,"Найдено в сундуке за завершение событий со статуями в Подземном мире. Дважды щёлкните или обменяйте у торговца украшениями гильдии, чтобы получить украшение."
 Found in the Conjured Amalgamate's Chest. Double-click or trade in at the guild decoration trader to earn a decoration.,"Находится в сундуке Созданного Слияния. Дважды щёлкните или обменяйте у торговца гильдейскими украшениями, чтобы получить украшение."
 Found in the final chest of Celestial Challenge or by completing Lunar New Year achievements. Grants the bearer the right to purchase additional discounted lucky envelopes.,Находится в последнем сундуке Celestial Challenge или за выполнение достижений Лунного Нового года. Даёт владельцу право на покупку дополнительных скидочных счастливых конвертов.
@@ -463,7 +463,7 @@ Found inside Cairn the Indomitable's chest. Double-click or trade in at the guil
 Found inside Mursaat Overseer's chest. Double-click or trade in at the guild decoration trader to earn a decoration.,"Находится в сундуке Mursaat Overseer. Дважды щёлкните или обменяйте у торговца гильдейскими украшениями, чтобы получить украшение."
 Found inside Samarog's chest. Double-click or trade in at the guild decoration trader to earn a decoration.,"Находится в сундуке Самарога. Дважды щёлкните или обменяйте у торговца гильдейскими украшениями, чтобы получить украшение."
 Found inside Saul's chest. Double-click or trade in at the guild decoration trader to earn a decoration.,"Находится в сундуке Саула. Дважды щёлкните или обменяйте у торговца гильдейскими украшениями, чтобы получить украшение."
-"Found near a natural skylight in Modri Caverns and used by the Corsair, Mehdi, to craft his famous tainted grog in the Domain of Istan.",Находится у естественного светового окна в пещерах Модри; корсар Мехди использует это для своего знаменитого отравленного грога в Domain of Istan.
+"Found near a natural skylight in Modri Caverns and used by the Corsair, Mehdi, to craft his famous tainted grog in the Domain of Istan.",Находится у естественного светового окна в Modri Caverns; корсар Мехди использует это для своего знаменитого отравленного грога в Domain of Istan.
 Found on chak and in their caches. Can be traded in to Nuhoch vendors for chak weapons.,Находится на чаках и в их тайниках. Можно обменять у торговцев нухохов на оружие чаков.
 Found on dust mites.,Находится на пылевых клещах.
 Found on mushrooms in the Heart of Maguuma.,Находится на грибах в Heart of Maguuma.

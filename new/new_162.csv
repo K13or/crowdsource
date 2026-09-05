@@ -120,7 +120,7 @@ The Bridge,Мостик
 The Burning Effigy ceremony was completed.,Обряд сожжения чучела завершён.
 The Captain's Council is sponsoring a celebratory treasure hunt as part of the festival! Find all the loot you can!,"Captain's Council устраивает праздничную охоту за сокровищами в рамках фестиваля! Соберите всю добычу, какую сможете!"
 "The Captain's Council is sponsoring a number of treasure hunts to celebrate the themes of the festival. You know, unity, cooperation—that sort of thing.","Captain's Council устраивает несколько охот за сокровищами в честь того, чему посвящён фестиваль. Ну, знаете: единство, сотрудничество—и всё в таком духе."
-"The Cathedral of Verdance at the other end of Winterknell Isle was built to honor the human god Melandru, but Zhaitain's influence has corrupted the ancient structure. We must contain that corruption to aid the Pact's coming assault on the Promenade of the Gods.","Cathedral of Verdance на другом конце острова Зимнего Звона был возведён в честь человеческой богини Меландру, но влияние Зайтана осквернило древнее строение. Мы должны сдержать эту порчу, чтобы помочь Пакту в скором штурме Променада Богов."
+"The Cathedral of Verdance at the other end of Winterknell Isle was built to honor the human god Melandru, but Zhaitain's influence has corrupted the ancient structure. We must contain that corruption to aid the Pact's coming assault on the Promenade of the Gods.","Cathedral of Verdance на другом конце Winterknell Isle был возведён в честь человеческой богини Меландру, но влияние Зайтана осквернило древнее строение. Мы должны сдержать эту порчу, чтобы помочь Пакту в скором штурме Promenade of the Gods."
 The Claw Retreats in %str1%,Коготь отступит через %str1%
 The Claw in Keane hands...,Коготь в руках Кинов...
 The Claw of Jormag has been defeated. Collect your rewards before retreating.,"Claw of Jormag побеждён. Заберите награды, прежде чем отступать."
@@ -179,7 +179,7 @@ The Kryptis lieutenant overwhelms the area in: %str1%,Лейтенант кри�
 The Legend of Long-Ear Lexx,Легенда о Длинноухом Лексе
 The Light of the Forge Masters blankets you in a comforting warmth. You may now face the All Seer.,Свет Мастеров горна окутывает вас утешительным теплом. Теперь вы можете выйти к Всевидящему.
 The Lionguard and Vigil are evacuating innocents to Lion's Arch.,Львиная стража и Дозор вывозят мирных жителей в Lion's Arch.
-"The Lionguard is supposed to keep the Lion Road safe for travelers and merchants, but Kraitbane Haven is stuck between the Slaver's Deeps krait and an increasing undead presence. It's like an endless battle here.","Львиная стража должна держать Львиную дорогу безопасной для путников и торговцев, но Убежище Крайтбейна зажато между крайтами из Глубин работорговцев и всё растущей нежитью. Тут будто бесконечный бой."
+"The Lionguard is supposed to keep the Lion Road safe for travelers and merchants, but Kraitbane Haven is stuck between the Slaver's Deeps krait and an increasing undead presence. It's like an endless battle here.","Львиная стража должна держать Львиную дорогу безопасной для путников и торговцев, но Убежище Крайтбейна зажато между крайтами из Slaver's Deeps и всё растущей нежитью. Тут будто бесконечный бой."
 The Lionguard is the friend of those who support free and open trade. Our membership is open to any race or gender. so long as they are willing to impose the idea of free and open trade on others.,"Львиная стража — друг всем, кто за свободную и открытую торговлю. Мы принимаем любую расу и любой пол. лишь бы человек был готов насаждать идею свободной и открытой торговли другим."
 The Lionguard isn't sending out patrols?,Львиная стража не высылает патрулей?
 The Master-at-Arms,Начальник оружейной
@@ -212,10 +212,10 @@ The Pact are attacking the Temple of Grenth.,Пакт атакует Храм Г
 The Pact are formulating a plan to capture Vorgas Garrison from the Flame Legion.,"Пакт разрабатывает план, как отбить гарнизон Воргас у Flame Legion."
 The Pact are moving on to Death's Gaze Torch.,Пакт выдвигается к Факелу Взора Смерти.
 The Pact are moving to establish a camp at the tunnel mouth.,"Пакт выдвигается, чтобы разбить лагерь у входа в туннель."
-The Pact are moving to reestablish a camp on Noose Road.,"Пакт выдвигается, чтобы вновь разбить лагерь на Дороге Петли."
-The Pact are moving toward Meddler's Summit.,Пакт движется к Вершине Медлера.
+The Pact are moving to reestablish a camp on Noose Road.,"Пакт выдвигается, чтобы вновь разбить лагерь на Noose Road."
+The Pact are moving toward Meddler's Summit.,Пакт движется к Meddler's Summit.
 The Pact brought thumper turrets to attract and divert destroyers. Practically a mating call.,"Пакт притащил турели-колотушки, чтобы приманивать и отвлекать разрушителей. Считай, брачный зов."
-"The Pact have been driven from Stygian Deeps. Armada Harbor is in jeopardy, as is the entire assault on Orr.","Пакт выбит из Стигийских глубин. Гавань Армады под угрозой, а с ней и весь штурм Орра."
+"The Pact have been driven from Stygian Deeps. Armada Harbor is in jeopardy, as is the entire assault on Orr.","Пакт выбит из Stygian Deeps. Armada Harbor под угрозой, а с ней и весь штурм Орра."
 The Pact is attempting to secure Penitent Camp.,Пакт пытается взять Лагерь кающихся.
 The Pact is securing Jofast's Camp.,Пакт закрепляется в лагере Джофаст.
 The Pact must be sending help. They can't just leave us here.,Пакт наверняка шлёт подмогу. Не бросят же они нас здесь.
@@ -238,7 +238,7 @@ The Scions...are listening.,Отпрыски...слушают.
 "The Sentinels are a special group of soldiers sent to keep the Brand's infection from leaking westward, but that's not all we do. We're constantly plagued by skritt who steal our supplies and tools. There are never enough soldiers to keep it all under control.","Часовые — особый отряд солдат, посланный не давать заразе Клейма расползаться на запад, но этим наше дело не кончается. Нас без конца донимают скритты, что тащат припасы и инструменты. Солдат вечно не хватает, чтобы всё это держать в узде."
 The Sentinels are rallying troops in the Brand.,Часовые собирают войска в Клейме.
 The Seraph are advancing on Trebuchet Bend! All appropriately trained personnel should join the fight!,Серафимы наступают на Требушетную излучину! Всем обученным бойцам вступить в бой!
-"The Seraph have a small outpost at Hidden Lake. The bandits know that if they take it out, they'll be able to knock the Seraph back on their heels. They've got a dozen or so recruits primed for a suicide run.",У Серафимов есть маленькая застава у Скрытого озера. Разбойники знают: снесут её — и Серафимы попятятся. У них наготове с дюжину новобранцев для самоубийственной вылазки.
+"The Seraph have a small outpost at Hidden Lake. The bandits know that if they take it out, they'll be able to knock the Seraph back on their heels. They've got a dozen or so recruits primed for a suicide run.",У Серафимов есть маленькая застава у Hidden Lake. Разбойники знают: снесут её — и Серафимы попятятся. У них наготове с дюжину новобранцев для самоубийственной вылазки.
 The Seraph is coordinating an evacuation.,Серафимы руководят эвакуацией.
 "The Seraph were moving airships, troops, and supplies here to clear the fort of bandits, but it'd already been abandoned. Something else scared them off first.","Серафимы стягивали сюда воздушные корабли, войска и припасы, чтобы выбить из форта разбойников, но тот уже был брошен. Кто-то другой спугнул их раньше."
 The Seraph will never back down.,Серафимы никогда не отступят.
@@ -496,6 +496,6 @@ The mill's a fine post. I'd rather be productive than cleaning up after others o
 The mine is under attack!,На шахту напали!
 The mine supplies ore for the surrounding villages and Seraph throughout the region.,Шахта снабжает рудой окрестные деревни и Серафимов по всему краю.
 "The minefield has been cleared, and the Pact landing vessels are on their way to the Conquest Marina.","Минное поле расчищено, десантные суда Пакта идут к Гавани Завоевания."
-"The minefield has been reestablished, and Risen are gathering for another assault on Stygian Deeps.","Минное поле выставлено заново, а восставшие собираются для нового штурма Стигийских глубин."
+"The minefield has been reestablished, and Risen are gathering for another assault on Stygian Deeps.","Минное поле выставлено заново, а восставшие собираются для нового штурма Stygian Deeps."
 "The mines are rather large, aren't they?","Шахты довольно большие, не находите?"
 The minister is very busy. I will be filing all complaints in his stead.,Министр очень занят. Все жалобы вместо него принимаю я.

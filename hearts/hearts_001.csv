@@ -46,13 +46,13 @@ Agent Cotts will thank you when he's feeling better.,"Agent Cotts поблаго
 Aid Centurion Truthbringer in Echoslab Arches.,Центурион Правдоносец из Арок Эха.
 Aid Ferrusatos Village's fishing operation and help them hunt down Separatists.,Помогите рыбацкому посёлку Феррусатос и выследите сепаратистов.
 Aid Fort Salma,Помогите форту Salma
-Aid Historian Jinell's research at the Wreckage of Serenity.,Помогите историку Джинелл в исследованиях на обломках «Безмятежности».
+Aid Historian Jinell's research at the Wreckage of Serenity.,Помогите Historian Jinell в исследованиях на обломках «Безмятежности».
 Aid Legion and Ebon Vanguard soldiers against ogres.,Помогите солдатам Легиона и Авангарда Эбона против огров.
 Aid Magister Razermane with the preservation of the Old Piken Ruins.,Помогите магистру Гривогриву с сохранением руин Старого Пикена.
 Aid Tactician Blazefur in preparing Firebreak Fort for the Risen offensive.,Помогите тактику Огнешёрсту подготовить Крепость Огнепреграды к наступлению Восставших.
 Aid kodan refugees fleeing toward Haymal Gore.,"Помогите беженцам-коданам, направляющимся к Хеймал-Гору."
 Aid the Allied Legions as they march on the Flame Legion's territory.,"Помогите Союзным Легионам, пока они маршируют на территорию Flame Legion."
-Aid the Awakened in the Vehjin Mines.,Помогите Пробуждённым в шахтах Веджин.
+Aid the Awakened in the Vehjin Mines.,Помогите Пробуждённым в Vehjin Mines.
 "Aid the Order of Shadows by repairing turrets, collecting surveillance data, healing injured agents, destroying Forged barricades, and fighting Forged and Awakened.","Помогайте Order of Shadows, ремонтируя турели, собирая данные наблюдения, исцеляя раненых агентов, уничтожая баррикады Кованых и сражаясь с Коваными и Пробужденными."
 Aid the Scorch Warband with their assault on the Flame Legion.,Помогите отряду Ожога в их штурме Flame Legion.
 Aid the Temple of Kormir.,Помогите Temple of Kormir.
@@ -105,19 +105,19 @@ Assist Hunter Block and the hunting lodge.,Помогите охотнику Б�
 Assist Jezza and the Vigil in clearing Risen from Fort Cadence.,Помогите Джеззе и Дозору очистить Крепость Каденс от Восставших.
 Assist Laborer Cardy and Ojon's lumbermill.,Помогите работнику Карди и лесопилке Оджона.
 Assist Lakor Grizzlemouth in keeping Meatoberfest running smoothly.,Помогите Лакори Гризлмут поддерживать порядок на Мясоберфесте.
-Assist Lionguard Hester in recovering slaves from Slaver's Deeps.,Помогите львиному стражу Хестер освободить рабов из Глубин Работорговца.
+Assist Lionguard Hester in recovering slaves from Slaver's Deeps.,Помогите львиному стражу Хестер освободить рабов из Slaver's Deeps.
 Assist Lionguard Nadel,Помогите Lionguard Nadel
 Assist Overlake Haven with their ettin nuisance.,Помогите Озерной Гавани с их проблемой с эттинами.
-Assist PR&T Esoterics with ooze research.,Помогите ПРиТ Эзотерике с исследованием слизи.
+Assist PR&T Esoterics with ooze research.,Помогите ПРиТ PR&T Esoterics с исследованием слизи.
 Assist Parnna's research into the ancient transfer chamber.,Помогите Парнне в её исследовании Кровожадного Топора.
 Assist Professor Gahf in teaching his young progeny.,Помогите профессору Гафу в обучении его юного отпрыска.
-Assist Qoetl and the Ni-tlacua at Swampwatch Post.,Помогите Кветль и Ни-тлакуа на Посту Болотного Дозора.
+Assist Qoetl and the Ni-tlacua at Swampwatch Post.,Помогите Кветль и Ни-тлакуа на Swampwatch Post.
 Assist Rebel Isaak in sowing the seeds of dredge revolution.,Помогите повстанцу Исааку сеять семена революции дредноутов.
 Assist Researcher Kaii with Incomp's scrap heap.,Помогите исследователю Кайи с кучей металлолома Инкомпа.
 Assist Sangdo Swiftwing,Помогите Sangdo Swiftwing
 Assist Scientist Vratt,Assist Scientist Vratt
 Assist Sentinel forces against dragonspawn.,Помогите силам Дозора против драконьего отродья.
-Assist Sesto Headsplitter with his work.,Помогите Сесто Головорезу с его работой.
+Assist Sesto Headsplitter with his work.,Помогите Sesto Headsplitter с его работой.
 Assist Stout Darkmind,Помогите Стоуту Темноразуму.
 "Assist Tyrian Alliance efforts in the region by escorting allies to research locations, exploring sealed chambers, plundering Inquest caches, and helping pack expedition bags.","Содействуйте усилиям Tyrian Alliance в регионе, сопровождая союзников к местам исследований, изучая запечатанные камеры, грабя тайники Inquest и помогая упаковывать экспедиционные сумки."
 Assist Ulta Metamagicals with their asura gate research.,Помогите Ульте Метамагикалс в их исследованиях врат асуры.
@@ -209,7 +209,7 @@ Bringing the Fight to the Centaurs,Переносим битву к кентав
 Buh-boom!,Ба-бах!
 "Build snowmen, stop troublemakers, and keep the lodge cozy and safe.","Лепи снеговиков, останавливай нарушителей спокойствия и поддерживай в домике уют и безопасность."
 "Burn Risen corpses, test out experimental hylek potion on the Risen, and reduce the Risen presence in the region.","Сожгите трупы Орды, испытайте экспериментальное зелье хайлика на Орде и ослабьте присутствие Орды в регионе."
-"Burn undead corpses, smash noxious plants, protect Wardens, and battle the Risen in Sleive's Inlet.","Сжигайте трупы нежити, уничтожайте ядовитые растения, защищайте Стражей и сражайтесь с Восставшими в бухте Слива."
+"Burn undead corpses, smash noxious plants, protect Wardens, and battle the Risen in Sleive's Inlet.","Сжигайте трупы нежити, уничтожайте ядовитые растения, защищайте Стражей и сражайтесь с Восставшими в Sleive's Inlet."
 Business as usual,Всё как обычно
 "But enough prattle, nonverbal as it is! I have glyphs to decode!","Но довольно болтовни, пусть даже и невербальной! У меня есть глифы для расшифровки!"
 But you have set the bar pretty high.,Но ты задал очень высокую планку.
@@ -411,7 +411,7 @@ Fight the Mysterious Quaggan Affliction,Сразитесь с таинствен
 Fight the Nightmare Court and free prisoners from Beldame's Rise. Remove pests and stranglebloom surrounding the Revered Terebinth.,Сражайтесь с Nightmare Court и освобождайте заключенных из Beldame's Rise. Устраняйте вредителей и stranglebloom вокруг Revered Terebinth.
 Fight the Renegades and Separatists in the area and destroy their equipment. Disarm unexploded shells and mines.,Сражайся с Renegades и Separatists в этом районе и уничтожай их снаряжение. Обезвреживай неразорвавшиеся снаряды и мины.
 "Fight the centaurs, assault their fortress, and support the Seraph.","Сражайся с кентаврами, штурмуй их крепость и поддержи Серафимов."
-Fight the denizens of Jormabakke Stead.,Сражайтесь с обитателями усадьбы Йормабакке.
+Fight the denizens of Jormabakke Stead.,Сражайтесь с обитателями Jormabakke Stead.
 "Fight the grawl by erasing cave paintings, destroying effigies, and smashing sacrificial offerings.","Сражайтесь с граулами, стирая наскальные рисунки, уничтожая чучела и разбивая жертвенные подношения."
 Fight the ice dragon's corruption.,Сразитесь с осквернением ледяного дракона.
 "Fill gourds at the fountain to cure sick sylvari, stop the spread of corrupted fungus, and defeat the undead corrupting the swamp.","Наполняйте тыквы у фонтана, чтобы лечить больных сильвари, остановить распространение заражённого грибка и победить нежить, оскверняющую болото."

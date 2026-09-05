@@ -200,7 +200,7 @@ Help %num2% new players defeat Sabir for the first time.,Помогите %num2%
 Help %num2% new players defeat Samarog for the first time.,Помогите %num2% новым игрокам впервые победить Самарога.
 Help %num2% new players defeat Slothasor for the first time.,Помогите %num2% новым игрокам впервые победить Слотазора.
 Help %num2% new players defeat Xera for the first time.,Помогите %num2% новым игрокам впервые победить Ксеру.
-Help %num2% new players defeat the Conjured Amalgamate for the first time.,Помогите %num2% новым игрокам впервые победить Сотворённую Амальгаму.
+Help %num2% new players defeat the Conjured Amalgamate for the first time.,Помогите %num2% новым игрокам впервые победить Conjured Amalgamate.
 Help %num2% new players defeat the Keep Construct for the first time.,Помогите %num2% новым игрокам впервые победить Крепостной конструкт.
 Help %num2% new players defeat the Mursaat Overseer for the first time.,Помогите %num2% новым игрокам впервые победить Mursaat Overseer.
 Help %num2% new players defeat the Soulless Horror for the first time.,Помогите %num2% новым игрокам впервые победить Soulless Horror.
@@ -210,8 +210,8 @@ Help %num2% players defeat Decima for the first time.,Помогите %num2% и
 Help %num2% players defeat Greer for the first time.,Помогите %num2% игрокам впервые победить Грира.
 Help %num2% players defeat Ura for the first time.,Помогите %num2% игрокам впервые победить Уру.
 Help Arlon search the Dengatl grounds.,Помогите Арлону обыскать угодья Денгатль.
-Help Benn Tenstrikes break out of prison.,Помогите Бенну Десять Ударов сбежать из тюрьмы.
-Help Corporal Vikar before they retreat: %str1%,Помогите капралу Викару до их отступления: %str1%
+Help Benn Tenstrikes break out of prison.,Помогите Benn Tenstrikes сбежать из тюрьмы.
+Help Corporal Vikar before they retreat: %str1%,Помогите Corporal Vikar до их отступления: %str1%
 Help Gara convince the other shamans their god is false.,"Помогите Гаре убедить прочих шаманов, что их бог ложен."
 Help Larra rescue Tegwen from the cursed Orrian mirror.,Помогите Ларре вызволить Тегвен из проклятого оррианского зеркала.
 Help Logan update the Falcon Company records.,Помогите Логану обновить записи Falcon Company.
@@ -264,7 +264,7 @@ Helped %num1%/%num2% New Players Defeat Sabir,Помогли %num1%/%num2% но�
 Helped %num1%/%num2% New Players Defeat Samarog,Помогли %num1%/%num2% новым игрокам победить Самарога
 Helped %num1%/%num2% New Players Defeat Slothasor,Помогли %num1%/%num2% новым игрокам победить Слотазора
 Helped %num1%/%num2% New Players Defeat Xera,Помогли %num1%/%num2% новым игрокам победить Ксеру
-Helped %num1%/%num2% New Players Defeat the Conjured Amalgamate,Помогли %num1%/%num2% новым игрокам победить Сотворённую Амальгаму
+Helped %num1%/%num2% New Players Defeat the Conjured Amalgamate,Помогли %num1%/%num2% новым игрокам победить Conjured Amalgamate
 Helped %num1%/%num2% New Players Defeat the Keep Construct,Помогли %num1%/%num2% новым игрокам победить Крепостной конструкт
 Helped %num1%/%num2% New Players Defeat the Mursaat Overseer,Помогли %num1%/%num2% новым игрокам победить Mursaat Overseer
 Helped %num1%/%num2% New Players Defeat the Soulless Horror,Помогли %num1%/%num2% новым игрокам победить Soulless Horror

@@ -59,7 +59,7 @@ Strike foes in front of you with a storm of jabs.,Обрушить на прот
 "Strike nearby foes and begin to store up energy, gaining boons and heat each pulse. After charging, the energy explodes, inflicting conditions on nearby foes.","Поразите ближайших врагов и начните накапливать энергию, получая благословения и нагрев с каждым импульсом. После зарядки энергия взрывается, накладывая состояния на ближайших врагов."
 "Strike nearby foes with your radiant hammer, dealing increased damage against foes that are disabled.","Поразите ближайших врагов своим сияющим молотом, нанося увеличенный урон врагам, находящимся под эффектами контроля."
 "Strike nearby foes, pushing them back.","Поразите ближайших врагов, отталкивая их."
-"Strike the earth, damaging nearby enemies and healing nearby allies. The ground flourishes in response, repeating stronger effects after a delay. Gain Nature's Strength if the initial strike hits an enemy.","Ударьте по земле, нанося урон ближайшим врагам и исцеляя ближайших союзников. Земля расцветает в ответ, повторяя более сильные эффекты после задержки. Получите Силу природы, если начальный удар поражает врага."
+"Strike the earth, damaging nearby enemies and healing nearby allies. The ground flourishes in response, repeating stronger effects after a delay. Gain Nature's Strength if the initial strike hits an enemy.","Ударьте по земле, нанося урон ближайшим врагам и исцеляя ближайших союзников. Земля расцветает в ответ, повторяя более сильные эффекты после задержки. Получите Nature's Strength, если начальный удар поражает врага."
 "Strike up the band and unleash a wave of sonic magic. Instruments playing in the background contribute to the amplitude, increasing the strength of the wave.
 <c=@reminder>This skill's recharge cannot be reset by other mesmer skills.</c>","Заиграйте музыку и высвободите волну звуковой магии. Инструменты, играющие на фоне, способствуют амплитуде, увеличивая силу волны.
 <c=@reminder>Перезарядка этого навыка не может быть сброшена другими навыками месмера.</c>"
@@ -138,7 +138,7 @@ Summon Sylvan Hound,Summon Sylvan Hound
 Summon a 7-Series attacking golem to fight for you.,"Призывает атакующего голема 7-й серии, который будет сражаться на вашей стороне."
 Summon a D-Series defensive golem.,Призывает защитного голема D-серии.
 Summon a Druid Spirit to fight at your side.,"Призвать духа друида, чтобы он сражался на вашей стороне."
-Summon a Mistfire Wolf to fight at your side.,"Призовите волка Туманного огня, чтобы он сражался на вашей стороне."
+Summon a Mistfire Wolf to fight at your side.,"Призовите Mistfire Wolf, чтобы он сражался на вашей стороне."
 Summon a Power Suit which you or your allies can enter and use to combat enemies.,"Призвать силовой костюм, в который можете войти вы или ваши союзники, чтобы сражаться с врагами."
 Summon a massive hammer from the Mists to strike the ground. Recharge Coalescence of Ruin if you strike an enemy.,"Призвать из Туманов огромный молот, который бьёт по земле. Если вы нанесли противнику урон, умение Слияние разорения будет перезаряжено."
 Summon a meteor to strike a random enemy.,"Призвать метеор, который поразит случайного врага."
@@ -210,7 +210,7 @@ Swing,Swing
 Swing a holographic blade.,Взмахнуть голографическим клинком.
 "Swing an uppercut at your target, crippling them and granting vigor to nearby allies. Gain Nature's Strength if you hit an enemy. 
 <c=@reminder>This skill cannot activate Force of Nature.</c>","Нанесите апперкот по цели, нанося ей урон и лишая равновесия, а также даруя энергичность находящимся рядом союзникам. Если вы попадете по врагу, получите эффект «Nature's Strength».
-<c=@reminder>Эта способность не активирует навык «Сила природы».</c>"
+<c=@reminder>Эта способность не активирует навык «Force of Nature».</c>"
 Swing at enemies with your greatsword.,Махнуть двуручным мечом по вашим противникам.
 "Swing your greatsword again, inflicting vulnerability.","Снова взмахните двуручным мечом, накладывая уязвимость."
 Swing your mace at your foe.,Взмахнуть булавой и ударить противника.
@@ -407,7 +407,7 @@ The Pyre Guardian damages and burns foes that get to close.,"Огненный с
 The Red Guardian distributes its magic to a point that must be absorbed before it unleashes devastating damage.,"Красный страж распределяет свою магию в точку, которую необходимо поглотить, прежде чем он нанесет разрушительный урон."
 "The Red Guardian pulses energy every 3 seconds, damaging all foes in range.","Красный страж пульсирует энергией каждые 3 секунды, нанося урон всем врагам в радиусе действия."
 The Ripper,The Ripper
-The River of Souls drains the life essence of all living beings who set foot in its stream.,"Река душ высасывает жизненную сущность всех живых существ, ступивших в её поток."
+The River of Souls drains the life essence of all living beings who set foot in its stream.,"River of Souls высасывает жизненную сущность всех живых существ, ступивших в её поток."
 "The River of Souls indiscriminately unleashes its wrath upon you and any nearby targets, dealing damage and inflicting stun.","River of Souls без разбора обрушивает свой гнев на вас и любые близлежащие цели, нанося урон и оглушая."
 "The Seeker pulses magic damage every second, hitting all enemies in range.","Искатель пульсирует магическим уроном каждую секунду, поражая всех врагов в радиусе действия."
 "The Shadow Amalgamate pulses a volatile aura that deals damage every 3 seconds to all foes within a range of 2,000.","Теневой Амальгам пульсирует нестабильной аурой, наносящей урон каждые 3 секунды всем противникам в радиусе 2000."

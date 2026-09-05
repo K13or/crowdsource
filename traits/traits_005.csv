@@ -74,7 +74,7 @@ The first <c=@abilitytype>spirit</c> skill you use when entering ritualist's shr
 "The guardian's resolve has further increased, allowing <c=@abilitytype>Virtues</c> to be manifested as physical aspects. Gain access to <c=@abilitytype>Traps</c>.","Решимость стража ещё больше возросла, позволяя воплощать <c=@abilitytype>Добродетели</c> в физические аспекты. Получите доступ к <c=@abilitytype>Ловушкам</c>."
 The passive effect of Virtue skill 1 triggers more quickly and now burns in an area.,Пассивный эффект 1-го умения Добродетели срабатывает чаще и поджигает теперь целую область.
 "The recharge of Release Potential skills is reduced. The effectiveness of Release Potential skills are increased as if you had two additional points of affinity, up to a maximum of five.","Перезарядка умений Раскрытия Потенциала сокращена. Эффективность умений Раскрытия Потенциала увеличена, как если бы у вас было два дополнительных очка сродства, максимум до пяти."
-"The third minor traits of other specializations you equip have improved effectiveness. Gain might and additional boons when you use Cosmic Wisdom, depending on which legends you have equipped.","Третьи малые черты других специализаций, которые вы экипируете, имеют повышенную эффективность. Получайте мощь и дополнительные благословения при использовании Космической Мудрости, в зависимости от того, какие легенды у вас экипированы."
+"The third minor traits of other specializations you equip have improved effectiveness. Gain might and additional boons when you use Cosmic Wisdom, depending on which legends you have equipped.","Третьи малые черты других специализаций, которые вы экипируете, имеют повышенную эффективность. Получайте мощь и дополнительные благословения при использовании Cosmic Wisdom, в зависимости от того, какие легенды у вас экипированы."
 Thermal Release Valve,Thermal Release Valve
 Thermal Vision,Thermal Vision
 Thick Skin,Thick Skin
@@ -294,7 +294,7 @@ Gain access to <c=@abilitytype>Citadel Order</c> skills.","При критиче
 "While Photon Forge is active, your outgoing strike damage is increased based on your current heat.","Пока Активна Магическая Кузница, ваш исходящий урон от ударов увеличивается в зависимости от вашего текущего жара."
 "While at or above the might threshold, gain increased power. Power bonuses are doubled while attuned to fire.","Находясь на пороге силы или выше, получайте увеличенную силу. Бонусы силы удваиваются при настройке на огонь."
 "While in Celestial Avatar form, your healing of others is significantly increased. Healing another player with a Celestial Avatar skill reduces the cooldown of Celestial Avatar. 
-<c=@reminder>Cooldown can only be reduced once per outgoing heal and will occur even if the affected player is at full health.</c>","Находясь в форме Небесного Аватара, ваше исцеление других значительно увеличивается. Исцеление другого игрока навыком Небесного Аватара сокращает время восстановления Небесного Аватара.
+<c=@reminder>Cooldown can only be reduced once per outgoing heal and will occur even if the affected player is at full health.</c>","Находясь в форме Celestial Avatar, ваше исцеление других значительно увеличивается. Исцеление другого игрока навыком Celestial Avatar сокращает время восстановления Celestial Avatar.
 <c=@reminder>Время восстановления может быть сокращено только один раз за исходящее исцеление и произойдёт, даже если затронутый игрок находится на полном здоровье.</c>"
 "While in Harbinger Shroud, gain an aura that pulses each interval to grant boons to yourself and nearby allies.","Находясь в Сумраке Предвестника, получайте ауру, которая пульсирует каждый интервал, давая бонусы себе и ближайшим союзникам."
 "While in combat, a percentage of healing you apply to yourself is stored by your Medical Dispersion Field. Each interval, stored healing is spent to heal nearby allies.","Находясь в бою, процент исцеления, которое вы применяете к себе, сохраняется вашим Полем Медицинского Диспергирования. Каждый интервал сохраненное исцеление тратится на исцеление ближайших союзников."
@@ -313,7 +313,7 @@ Willbender Training,Willbender Training
 Willing Host,Willing Host
 Wilting Strike,Wilting Strike
 Wind Force Threshold for Hawkeye,Wind Force Threshold for Hawkeye
-"Wind Force grants stacking increased movement speed and damage. When you use Hawkeye, convert these into a stronger bonus for a duration.","Сила Ветра даёт нарастающее увеличение скорости передвижения и урона. Когда вы используете Соколиный Глаз, преобразуйте их в более сильный бонус на время."
+"Wind Force grants stacking increased movement speed and damage. When you use Hawkeye, convert these into a stronger bonus for a duration.","Wind Force даёт нарастающее увеличение скорости передвижения и урона. Когда вы используете Соколиный Глаз, преобразуйте их в более сильный бонус на время."
 Windborne Notes,Windborne Notes
 Wings of Resolve delivers an attack upon landing. Movement speed is increased.,Крылья Решительности совершают атаку при приземлении. Скорость передвижения увеличена.
 Wolfsong,Wolfsong
@@ -340,7 +340,7 @@ You and your pet have a chance to cause bleeding on critical hits.,У вас и 
 You and your pet inflict vulnerability with your first strike when entering combat.,"Вы и ваш питомец накладываете уязвимость при своем первом, открывающем бой ударе."
 You and your pet recover health while affected by protection.,"Вы и ваш питомец восстанавливаете здоровье, когда у вас есть дар Протекции."
 You are healed for a percentage of outgoing critical-hit damage. This healing is increased while you are under the effects of fury.,"Вы исцеляетесь пропорционально нанесенному вами критическому урону. Это исцеление увеличивается, если у вас есть дар Ярости."
-You can now use <c=@abilitytype>Legendary Dragon</c> skills and gain access to Facet of Nature.,Вы получаете доступ к навыкам <c=@abilitytype>Легендарный Дракон</c> и к Грани Природы.
+You can now use <c=@abilitytype>Legendary Dragon</c> skills and gain access to Facet of Nature.,Вы получаете доступ к навыкам <c=@abilitytype>Легендарный Дракон</c> и к Facet of Nature.
 You can wield a dagger in your main hand.,You can wield a dagger in your main hand.
 You can wield a longbow.,You can wield a longbow.
 You can wield a staff.,You can wield a staff.
@@ -417,7 +417,7 @@ Your function gyro grants protection to allies when cast. Using a healing skill'
 Your longbow and harpoon-gun skills pierce and recharge faster. Point-Blank Shot grants boons.,Умения длинного лука и гарпунного ружья пробивают цель и перезаряжаются быстрее. Умение «Выстрел в упор» даёт дары.
 "Your longbow, rifle, and harpoon gun weapon skill 1 attacks are enhanced.","Ваши навыки оружия 1 для длинного лука, винтовки и гарпунного ружья усилены."
 Your movement speed is increased.,Your movement speed is increased.
-"Your next Double Edge skill used on cooldown will always be successful, regardless of the remaining cooldown. If used on Skritt Scuffle, it instead reduces the chance of obtaining an Unstable Skritt Bomb.","Ваш следующий навык «Двойное лезвие», использованный по перезарядке, всегда будет успешным, независимо от оставшегося времени перезарядки. Если используется во время «Свалки Скриттов», он вместо этого снижает шанс получения «Нестабильной бомбы Скриттов»."
+"Your next Double Edge skill used on cooldown will always be successful, regardless of the remaining cooldown. If used on Skritt Scuffle, it instead reduces the chance of obtaining an Unstable Skritt Bomb.","Ваш следующий навык «Двойное лезвие», использованный по перезарядке, всегда будет успешным, независимо от оставшегося времени перезарядки. Если используется во время «Свалки Скриттов», он вместо этого снижает шанс получения «Unstable Skritt Bomb»."
 "Your next attack after dodging causes weakness to foes struck. Weakened enemies deal less damage to you, and you deal increased strike damage to them.","Ваша следующая атака после уклонения накладывает слабость на пораженных врагов. Ослабленные враги наносят вам меньше урона, а вы наносите им увеличенный урон от прямых атак."
 Your next attack delivers a lightning strike.,Your next attack delivers a lightning strike.
 Your next attack is an opening strike.,Your next attack is an opening strike.

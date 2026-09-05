@@ -79,7 +79,7 @@ You helped Lexi Price.,Вы помогли Лекси Прайс.
 You helped make this a moot to remember. Party on!,Вы помогли сделать этот сход незабываемым. Гуляем!
 You helped Pastkeeper Saballa.,Вы помогли хранительнице прошлого Сабалле.
 You helped restore the balance of nature.,Вы помогли восстановить равновесие природы.
-You helped Rox take back North Nolan Hatchery!,Вы помогли Рокс отбить Северный инкубаторий Нолана!
+You helped Rox take back North Nolan Hatchery!,Вы помогли Рокс отбить North Nolan Hatchery!
 You helped sabotage the Speakers' plans in Echovald.,Вы помогли сорвать планы Ораторов в Эховальде.
 You helped Scar Stripeclaw.,Вы помогли Скару Полосатому Когтю.
 You helped Sesto Headsplitter.,Вы помогли Сесто Головорубу.
@@ -145,13 +145,13 @@ You move faster.,Вы двигаетесь быстрее.
 "You must attain rank 10,000 in World vs. World to purchase this title.","Чтобы купить этот титул, нужно достичь ранга 10 000 в World vs. World."
 You must attain rank 14 in WvW to purchase the Gift of Battle.,"Чтобы купить Gift of Battle, нужно достичь ранга 14 в WvW."
 You must be a commander to use squad markers.,"Чтобы пользоваться метками отряда, нужно быть командиром."
-You must be a member of a Mists Arena team to set foot in the Arena.,"Чтобы ступить на Арену, нужно состоять в команде Арены Туманов."
-You must be a member of a Mists Arena team to set foot in the Arena. Commune with a team flag to choose one.,"Чтобы ступить на Арену, нужно состоять в команде Арены Туманов. Прикоснитесь к флагу команды, чтобы выбрать её."
+You must be a member of a Mists Arena team to set foot in the Arena.,"Чтобы ступить на Арену, нужно состоять в команде Mists Arena."
+You must be a member of a Mists Arena team to set foot in the Arena. Commune with a team flag to choose one.,"Чтобы ступить на Арену, нужно состоять в команде Mists Arena. Прикоснитесь к флагу команды, чтобы выбрать её."
 You must be at a crafting station in order to craft this recipe.,"Чтобы изготовить по этому рецепту, нужно находиться у ремесленного станка."
 You must be attuned to the Heart of the Obscure in order to use it. Play through the Secrets of the Obscure storyline to unlock this ability.,"Чтобы использовать Сердце Сокрытого, нужно быть настроенным на него. Пройдите сюжет Secrets of the Obscure, чтобы открыть эту способность."
 You must be carrying an air purifier to perform that action.,"Чтобы совершить это действие, нужно нести очиститель воздуха."
 You must be carrying an empty barrel to gather this.,"Чтобы собрать это, нужно нести пустую бочку."
-You must be examining the magic for Astral Ward Researcher Harpa to analyze this. Speak with Harpa to learn more.,"Чтобы это проанализировать, вы должны изучать магию для исследовательницы Астральной стражи Харпы. Поговорите с Харпой, чтобы узнать больше."
+You must be examining the magic for Astral Ward Researcher Harpa to analyze this. Speak with Harpa to learn more.,"Чтобы это проанализировать, вы должны изучать магию для Astral Ward Researcher Harpa. Поговорите с Харпой, чтобы узнать больше."
 You must be in a party to teleport.,"Чтобы телепортироваться, нужно состоять в отряде."
 You must be in a raiding squad to enter.,"Чтобы войти, нужно состоять в рейдовой группе."
 You must be in a squad to enter.,"Чтобы войти, нужно состоять в группе."
@@ -214,9 +214,9 @@ You must complete the Warclaw Companion achievement to purchase a warclaw.,"Чт
 "You must decide whether to consume this boost to permanently boost your character to level 80 before you can leave the Silverwastes. When you consume this boost, you'll receive the following:","Прежде чем покинуть Серебряные Пустоши, вы должны решить, применять ли это повышение, чтобы навсегда поднять персонажа до 80-го уровня. Применив его, вы получите:"
 "You must decide whether to consume this boost to permanently boost your character to level 80. When you consume this boost, you'll receive the following:","Вы должны решить, применять ли это повышение, чтобы навсегда поднять персонажа до 80-го уровня. Применив его, вы получите:"
 You must defeat a boss encounter in the Mythwright Gambit raid instance.,Нужно победить босса в рейдовом эпизоде «Mythwright Gambit».
-You must defeat Cairn the Indomitable to purchase this item.,"Чтобы купить этот предмет, нужно победить Кайрна Неукротимого."
-You must defeat Cardinal Adina to purchase this item.,"Чтобы купить этот предмет, нужно победить кардинала Адину."
-You must defeat Cardinal Sabir to purchase this item.,"Чтобы купить этот предмет, нужно победить кардинала Сабира."
+You must defeat Cairn the Indomitable to purchase this item.,"Чтобы купить этот предмет, нужно победить Cairn the Indomitable."
+You must defeat Cardinal Adina to purchase this item.,"Чтобы купить этот предмет, нужно победить Cardinal Adina."
+You must defeat Cardinal Sabir to purchase this item.,"Чтобы купить этот предмет, нужно победить Cardinal Sabir."
 You must defeat Decima in the raid encounter to purchase this item.,"Чтобы купить этот предмет, нужно победить Дециму в рейдовой схватке."
 You must defeat Deimos to purchase this item.,"Чтобы купить этот предмет, нужно победить Деймоса."
 You must defeat Gorseval the Multifarious to purchase this item.,"Чтобы купить этот предмет, нужно победить Горсевала Многоликого."
@@ -240,7 +240,7 @@ You must defeat Ura in the raid encounter to purchase this item.,"Чтобы к�
 You must defeat Xera to purchase this item.,"Чтобы купить этот предмет, нужно победить Ксеру."
 You must distill this at the Branded Waterfall above Lake Desolann.,Это нужно перегнать у Клеймёного водопада над озером Десоланн.
 You must distill this at the Corpse Grove in Verdant Brink.,Это нужно перегнать в Роще Трупов на Зелёном Обрыве.
-You must distill this at the Gates of Arah in Cursed Shore.,Это нужно перегнать у Врат Араха на Cursed Shore.
+You must distill this at the Gates of Arah in Cursed Shore.,Это нужно перегнать у Gates of Arah на Cursed Shore.
 You must distill this in the cave beneath the Dominion Killing Zone.,Это нужно перегнать в пещере под Зоной Поражения Доминиона.
 You must distill this near the Frost Portal in the Drakkar Spurs.,Это нужно перегнать у Морозного портала на Отрогах Драккара.
 You must drop your defuse kit to interact with this object.,"Чтобы взаимодействовать с этим объектом, нужно бросить набор для обезвреживания."
@@ -355,7 +355,7 @@ You must own the Mist Shard Epaulets skin before you can purchase this.,"Что�
 You must own the Mist Shard Gambeson skin before you can purchase this.,"Чтобы это купить, нужно владеть обликом «Гамбезон осколка Туманов»."
 You must own the Mist Shard Gauntlets skin before you can purchase this.,"Чтобы это купить, нужно владеть обликом «Латные рукавицы осколка Туманов»."
 You must own the Mist Shard Gloves skin before you can purchase this.,"Чтобы это купить, нужно владеть обликом «Перчатки осколка Туманов»."
-You must own the Mist Shard Greaves skin before you can purchase this.,"Чтобы это купить, нужно владеть обликом «Наголенники осколка Туманов»."
+You must own the Mist Shard Greaves skin before you can purchase this.,"Чтобы это купить, нужно владеть обликом «Mist Shard Greaves»."
 You must own the Mist Shard Helm skin before you can purchase this.,"Чтобы это купить, нужно владеть обликом «Шлем осколка Туманов»."
 You must own the Mist Shard Leggings skin before you can purchase this.,"Чтобы это купить, нужно владеть обликом «Поножи осколка Туманов»."
 You must own the Mist Shard Pauldrons skin before you can purchase this.,"Чтобы это купить, нужно владеть обликом «Наплечники осколка Туманов»."
@@ -406,8 +406,8 @@ You must purchase an account swim-speed boost +25 before this item.,Перед �
 You must purchase the Champion's Wings of Glory to purchase this item.,"Чтобы купить этот предмет, нужно купить «Champion's Wings of Glory»."
 You must purchase the corresponding Sovereign weapon before buying this weapon.,"Прежде чем покупать это оружие, нужно купить соответствующее оружие «Государь»."
 You must purchase the Essence of Challenge to purchase this item.,"Чтобы купить этот предмет, нужно купить «Эссенцию вызова»."
-You must purchase the Essence of Determination to purchase this item.,"Чтобы купить этот предмет, нужно купить «Эссенцию решимости»."
-You must purchase the Essence of Discipline to purchase this item.,"Чтобы купить этот предмет, нужно купить «Эссенцию дисциплины»."
+You must purchase the Essence of Determination to purchase this item.,"Чтобы купить этот предмет, нужно купить «Essence of Determination»."
+You must purchase the Essence of Discipline to purchase this item.,"Чтобы купить этот предмет, нужно купить «Essence of Discipline»."
 You must purchase the Recruit's Wings of Glory to purchase this item.,"Чтобы купить этот предмет, нужно купить «Recruit's Wings of Glory»."
 You must purchase the Veteran's Wings of Glory to purchase this item.,"Чтобы купить этот предмет, нужно купить «Veteran's Wings of Glory»."
 You must reach level 30 to access the Looking for Group tool. Upgrade your account by purchasing a Guild Wars 2 expansion to gain access to Looking for Group immediately.,"Чтобы получить доступ к инструменту поиска группы, нужно достичь 30-го уровня. Улучшите учётную запись, купив дополнение Guild Wars 2, чтобы получить доступ к поиску группы сразу."
@@ -449,9 +449,9 @@ You must unlock the Mastery ability Exalted Gathering in the Exalted Lore Master
 You must unlock the Mastery ability Itzel Language to purchase from this vendor.,"Чтобы покупать у этого торговца, нужно разблокировать способность мастерства «Язык ицелей»."
 You must unlock the Mastery ability Ley-Line Gliding in the Gliding Mastery line to purchase this item.,"Чтобы купить этот предмет, нужно разблокировать способность мастерства «Планирование по лей-линиям» в ветви мастерства планирования."
 You must unlock the Mastery ability Nuhoc Alchemy in the Nuhoc Lore Mastery line to purchase this item.,"Чтобы купить этот предмет, нужно разблокировать способность мастерства «Алхимия нухоков» в ветви «Знания нухоков»."
-You must unlock the Mastery ability Nuhoch Language and unlock the appropriate collection to purchase this item.,"Чтобы купить этот предмет, нужно разблокировать способность мастерства «Язык нухоков» и открыть соответствующую коллекцию."
-You must unlock the Mastery ability Nuhoch Language to purchase from this vendor.,"Чтобы покупать у этого торговца, нужно разблокировать способность мастерства «Язык нухоков»."
-You must unlock the Mursaat Shadowcraft Mastery to use mursaat mirrors.,"Чтобы пользоваться зеркалами мурсаат, нужно разблокировать мастерство «Теневое ремесло мурсаат»."
+You must unlock the Mastery ability Nuhoch Language and unlock the appropriate collection to purchase this item.,"Чтобы купить этот предмет, нужно разблокировать способность мастерства «Nuhoch Language» и открыть соответствующую коллекцию."
+You must unlock the Mastery ability Nuhoch Language to purchase from this vendor.,"Чтобы покупать у этого торговца, нужно разблокировать способность мастерства «Nuhoch Language»."
+You must unlock the Mursaat Shadowcraft Mastery to use mursaat mirrors.,"Чтобы пользоваться зеркалами мурсаат, нужно разблокировать мастерство «Mursaat Shadowcraft»."
 You must unlock the Pact Mentor Mastery to use this feature.,"Чтобы пользоваться этой возможностью, нужно разблокировать мастерство «Pact Mentor»."
 You must unlock the Secrets Unearthed Mastery tier to interact with this.,"Чтобы с этим взаимодействовать, нужно разблокировать ступень мастерства «Раскрытые тайны»."
 You must visit more often.,Заходи почаще.
@@ -497,5 +497,5 @@ You need a torch to ignite the body.,"Чтобы поджечь тело, нуж
 You need a warded artifact to disenchant.,"Чтобы развеять чары, нужен оберегаемый артефакт."
 You need a wrench from a nearby toolbox to repair this golem.,"Чтобы починить этого голема, нужен гаечный ключ из ближайшего ящика с инструментами."
 You need an empty jar to fill with electricity.,"Нужна пустая банка, чтобы наполнить её электричеством."
-You need an empty Shared Inventory Slot to use this item.,"Чтобы использовать этот предмет, нужна свободная общая ячейка инвентаря."
+You need an empty Shared Inventory Slot to use this item.,"Чтобы использовать этот предмет, нужна свободная Shared Inventory Slot."
 You need an energy core to repair this!,"Чтобы это починить, нужно энергетическое ядро!"

@@ -11,7 +11,7 @@ english,translate
 "<c=@flavor>Dear brothers, when will we sing again? I'm beginning to forget our song.</c>","<c=@flavor>Братья мои, когда мы снова запоём? Я начинаю забывать нашу песню.</c>"
 <c=@flavor>Did Zojja ever get her tea?</c>,<c=@flavor>Получила ли Зойя свой чай?</c>
 "<c=@flavor>Fascinating,' isn''t it? Our newest experimental weapon. Utilizing shadowstone has allowed us to combine two swords into one larger greatsword. A similar feat was previously exclusive to djinn magic.</c>'","<c=@flavor>Захватывающе,' не так ли? Наше новейшее экспериментальное оружие. Использование теневого камня позволило нам объединить два меча в один большой двуручный меч. Ранее подобное достижение было доступно только магии джиннов.</c>'"
-"<c=@flavor>For those confused about Mosaic Wrath, try helping out Vanak at the Bastion of Strength.</c>","<c=@flavor>Если вы запутались в «Мозаичном гневе», попробуйте помочь Ванаку в Оплоте Силы.</c>"
+"<c=@flavor>For those confused about Mosaic Wrath, try helping out Vanak at the Bastion of Strength.</c>","<c=@flavor>Если вы запутались в «Mosaic Wrath», попробуйте помочь Ванаку в Оплоте Силы.</c>"
 "<c=@flavor>From the smallest blade of grass to the largest mountain, where life goes, so too should you.</c>","<c=@flavor>Там сказано: «От самой маленькой травинки до величайшей горы, куда идет жизнь — туда должен идти и ты».</c>"
 "<c=@flavor>Gain key fragments by participating in Mad King Says. Only 3 fragments may be earned per day.</c>""","<c=@flavor>Получайте фрагменты ключей, участвуя в игре «Безумный король говорит». Можно заработать не более 3 фрагментов в день.</c>"""
 <c=@flavor>Helmet visibility cannot be changed for this outfit.</c>,<c=@flavor>Видимость шлема для этого наряда изменить нельзя.</c>
@@ -82,7 +82,7 @@ A Gift of Relics is made by combining these items in the Mystic Forge:,«Gift of
 A box salvaged from the Aetherblades containing various items from Shing Jea Monastery. A monk nearby is probably looking for this.,"Коробка, снятый у Эфирных Клинков, с разными предметами из монастыря Шинг Джея. Наверняка его ищет кто-то из здешних монахов."
 A crystal from a Branded creature in Jahai.,Кристалл клеймёного существа из Джахай.
 A device for stabilizing unstable magic rifts.,Устройство для стабилизации нестабильных магических разломов.
-A four-leaf clover from Club Canach. It makes those who wield it wonder if one can truly buy luck.,"Четырёхлистный клевер из «Клуба Канаха». Тот, кто им владеет, невольно задумывается, правда ли удачу можно купить."
+A four-leaf clover from Club Canach. It makes those who wield it wonder if one can truly buy luck.,"Четырёхлистный клевер из «Club Canach». Тот, кто им владеет, невольно задумывается, правда ли удачу можно купить."
 A gift from Kosmas to his broodling. Where did he find this?,Подарок от Космаса его отпрыску. Где он такое нашёл?
 A gift of color used to create The Bifrost.,"Дар цвета, используемый для создания «The Bifrost»."
 A gift of darkness used to create Twilight.,"Дар тьмы, используемый для создания «Twilight»."
@@ -171,11 +171,11 @@ Cannot be used in the Mystic Forge if transmuted.,"Нельзя использо
 "Celestial""","Небесный"""
 Champion of Tyria Outfit,Champion of Tyria Outfit
 Checked out by 5-Finger Fareem. Last seen being arrested for subversion.,Выдано Пятипалым Фаримом. Последний раз замечен при аресте за подрывную деятельность.
-Checked out by Captain Barud. Last seen in the Corsair Flotilla.,Выдано капитаном Барудом. Последний раз замечен в Корсарской флотилии.
+Checked out by Captain Barud. Last seen in the Corsair Flotilla.,Выдано Captain Barud. Последний раз замечен в Corsair Flotilla.
 Checked out by Captain Sutekh. Last seen in the Great Hall.,Выдано капитаном Сутехом. Последний раз замечен в Большом зале.
-Checked out by Junior Astrologist Hamia. Last seen in the Plains of Jarin.,Выдано: младший астролог Хамия. Последний раз замечена на Равнинах Джарина.
+Checked out by Junior Astrologist Hamia. Last seen in the Plains of Jarin.,Выдано: младший астролог Хамия. Последний раз замечена на Plains of Jarin.
 Checked out by Koss Dejarin of Kourna. Location unknown.,Выдано: Косс Дежарин из Курны. Местоположение неизвестно.
-Checked out by Lord Azeem. Last seen in the Temple of Joko in Palawadan.,Выдано: Lord Azeem. Последний раз замечен в Храме Джоко в Палавадане.
+Checked out by Lord Azeem. Last seen in the Temple of Joko in Palawadan.,Выдано: Lord Azeem. Последний раз замечен в Temple of Joko в Палавадане.
 "Choose a piece of legendary armor to be placed in your Legendary Armory.""","Выберите часть легендарной брони для помещения в Легендарный арсенал."""""
 Collect this and return it to the Sanctuary.,Соберите это и верните в Святилище.
 Collecting this will also provide bonus desert Mastery experience.,Сбор этого также даст бонусный опыт пустынного Мастерства.
@@ -198,7 +198,7 @@ Contains one random armor dye from a pool of 25 colors that includes 10 exclusiv
 Contains one random armor dye from a pool of 25 colors that includes nine exclusive new shades of blue.,"Содержит один случайная краска брони из набора 25 цветов, включающего девять эксклюзивных новых оттенков синего."
 "Contains only one-handed weapons.""",Содержит только одноручное оружие.
 "Contains only two-handed weapons.""","Содержит только двуручное оружие."""""
-Contains various historical accounts from Shing Jea Island.,Содержит различные исторические записи с острова Шинг Джи.
+Contains various historical accounts from Shing Jea Island.,Содержит различные исторические записи с Shing Jea Island.
 Contains various stories from Drizzlewood Coast.,Содержит различные истории с побережья Морось-Лес.
 Convergence Mastery,Convergence Mastery
 Craft six Dragonsblood weapons.,Создайте шесть оружия из драконьей крови.

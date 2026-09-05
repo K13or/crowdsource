@@ -1,5 +1,5 @@
 english,translate
-Unlock the skin for Spearmarshal's Vambraces by crafting it with a recipe purchased in the Crystal Desert or through the item Sagal's Raptor-Handling Gloves.,"Разблокируйте облик «Наручи Копьемаршала», изготовив его по рецепту, купленному в Crystal Desert, либо через предмет «Перчатки Сагала для работы с рапторами»."
+Unlock the skin for Spearmarshal's Vambraces by crafting it with a recipe purchased in the Crystal Desert or through the item Sagal's Raptor-Handling Gloves.,"Разблокируйте облик «Spearmarshal's Vambraces», изготовив его по рецепту, купленному в Crystal Desert, либо через предмет «Перчатки Сагала для работы с рапторами»."
 Unlock the skin for Spearmarshal's Vestments by crafting it with a recipe purchased in the Crystal Desert or through the item Salomon's Jousting Halter.,"Разблокируйте облик «Облачение Копьемаршала», изготовив его по рецепту, купленному в Crystal Desert, либо через предмет «Турнирная накидка Саломона»."
 Unlock the skin for Sunspear Firelight by crafting it with a recipe purchased in the Crystal Desert or through the item Nagozi's Enchanted Lamp.,"Разблокируйте облик «Огнесвет Солнечного Копья», изготовив его по рецепту, купленному в Crystal Desert, либо через предмет «Nagozi's Enchanted Lamp»."
 Unlock the skin for the rare tier of this item to purchase the upgrade recipe.,"Разблокируйте облик редкой ступени этого предмета, чтобы купить рецепт улучшения."
@@ -39,8 +39,8 @@ Unlock the skin for Warbeast Vestments by crafting it with a recipe found in the
 Unlock the third collection in the legendary journey for Bolt to purchase this.,"Чтобы это купить, разблокируйте третью коллекцию легендарного пути для «Молнии»."
 Unlock the third collection in the legendary journey for Kraitkin to purchase this.,"Чтобы это купить, разблокируйте третью коллекцию легендарного пути для «Крайткина»."
 Unlock the third collection in the legendary journey for Quip to purchase this.,"Чтобы это купить, разблокируйте третью коллекцию легендарного пути для «Остроты»."
-Unlock the third collection in the legendary journey for The Bifrost or The Dreamer to purchase this.,"Чтобы это купить, разблокируйте третью коллекцию легендарного пути для «Бифроста» или «Мечтателя»."
-Unlock the third collection in the legendary journey for The Bifrost to purchase this.,"Чтобы это купить, разблокируйте третью коллекцию легендарного пути для «Бифроста»."
+Unlock the third collection in the legendary journey for The Bifrost or The Dreamer to purchase this.,"Чтобы это купить, разблокируйте третью коллекцию легендарного пути для «The Bifrost» или «Мечтателя»."
+Unlock the third collection in the legendary journey for The Bifrost to purchase this.,"Чтобы это купить, разблокируйте третью коллекцию легендарного пути для «The Bifrost»."
 Unlock the third collection in the legendary journey for The Juggernaut to purchase this.,"Чтобы это купить, разблокируйте третью коллекцию легендарного пути для «Джаггернаута»."
 Unlock the third collection in the legendary journey for The Moot to purchase this.,"Чтобы это купить, разблокируйте третью коллекцию легендарного пути для «Схода»."
 Unlock the Warclaw Companion achievement collection to unlock this reward track.,"Разблокируйте коллекцию достижений «Спутник-варклоу», чтобы открыть этот наградной трек."
@@ -58,7 +58,7 @@ Unlocked as a part of the Within Your Grasp story chapter.,Разблокиру�
 Unlocked by completing the %str1%.,Разблокируется за завершение %str1%.
 Unlocked Conversation Option,Разблокирован вариант разговора
 Unlocked during the Mother of Stars story chapter.,Разблокируется во время сюжетной главы «Mother of Stars».
-Unlocked for purchase after completing the Shipwreck Strand Mastery achievement.,Открыто для покупки после выполнения достижения мастерства Берега Кораблекрушений.
+Unlocked for purchase after completing the Shipwreck Strand Mastery achievement.,Открыто для покупки после выполнения достижения Shipwreck Strand Mastery.
 Unlocked for purchase after completing the Starlit Weald Mastery achievement.,Открыто для покупки после выполнения достижения мастерства Звёздной Рощи.
 Unlocked Jumping Site,Разблокировано место для прыжков
 Unlocked one gambit.,Разблокирован один гамбит.
@@ -198,7 +198,7 @@ Update the location stored by the position rewinder.,"Обновить мест�
 Update yourself on the new notes you've collected about the titans.,"Ознакомьтесь с новыми записями, собранными вами о титанах."
 Updated Record[s] of Joko's Deeds,Обновлённ[ая летопись|ые летописи|ых летописей] деяний Джоко
 Updates from the Field,Вести с полей
-Updraft Use for the Gliding Mastery is strongly recommended for this instance.,Для этого эпизода настоятельно рекомендуется мастерство планирования «Использование восходящих потоков».
+Updraft Use for the Gliding Mastery is strongly recommended for this instance.,Для этого эпизода настоятельно рекомендуется мастерство планирования «Updraft Use».
 Upgrade - Jewel,Улучшение — самоцвет
 Upgrade - Rune,Улучшение — руна
 Upgrade - Sigil,Улучшение — сигилла
@@ -325,9 +325,9 @@ Usage: /.adjustenergy <adjust> <adjustCap> <range> <rate>,Использован
 Use %str1%,Использовать %str1%
 Use [lbracket]%str1%[rbracket] to finish off your downed opponent!,"Нажмите [lbracket]%str1%[rbracket], чтобы добить поверженного противника!"
 Use a bucket purchased from Milton Book in Gendarran Fields and fill it with water from the Cluster of Waves in Dierdre's Steps in Mount Maelstrom. Then use it to water your hidden garden.,"Возьмите ведро, купленное у Милтона Бука на Gendarran Fields, и наполните его водой из Скопления Волн на Ступенях Дейрдре на Mount Maelstrom. Затем полейте им свой тайный сад."
-Use a bucket purchased from Milton Book in Gendarran Fields and fill it with water from the Hope Falls in Malchor's Leap. Then use it to water your hidden garden.,"Возьмите ведро, купленное у Милтона Бука на Gendarran Fields, и наполните его водой из Водопадов Надежды на Прыжке Малхора. Затем полейте им свой тайный сад."
+Use a bucket purchased from Milton Book in Gendarran Fields and fill it with water from the Hope Falls in Malchor's Leap. Then use it to water your hidden garden.,"Возьмите ведро, купленное у Милтона Бука на Gendarran Fields, и наполните его водой из Hope Falls на Прыжке Малхора. Затем полейте им свой тайный сад."
 Use a bucket purchased from Milton Book in Gendarran Fields and fill it with water from the mineral pools in Southsun Cove. Then use it to water your hidden garden.,"Возьмите ведро, купленное у Милтона Бука на Gendarran Fields, и наполните его водой из минеральных источников Southsun Cove. Затем полейте им свой тайный сад."
-Use a bucket purchased from Milton Book in Gendarran Fields and fill it with water from the secret grotto in the Garden of Dawn in the Grove. Then use it to water your hidden garden.,"Возьмите ведро, купленное у Милтона Бука на Gendarran Fields, и наполните его водой из тайного грота в Саду Рассвета в Роще. Затем полейте им свой тайный сад."
+Use a bucket purchased from Milton Book in Gendarran Fields and fill it with water from the secret grotto in the Garden of Dawn in the Grove. Then use it to water your hidden garden.,"Возьмите ведро, купленное у Милтона Бука на Gendarran Fields, и наполните его водой из тайного грота в Garden of Dawn в Роще. Затем полейте им свой тайный сад."
 Use a bucket purchased from Milton Book in Gendarran Fields and fill it with water from the Uplands Oasis in Dry Top. Then use it to water your hidden garden.,"Возьмите ведро, купленное у Милтона Бука на Gendarran Fields, и наполните его водой из Нагорного Оазиса на Сухой Вершине. Затем полейте им свой тайный сад."
 Use a Capacitive Bottle to capture energy from a branded projectile from the Shatterer in Blazeridge Steppes.,Соберите Capacitive Bottle энергию клеймёного снаряда Крушителя в Blazeridge Steppes.
 Use a Capacitive Bottle to capture energy from a chak energy attack.,Соберите Capacitive Bottle энергию энергетической атаки чака.
@@ -355,7 +355,7 @@ Use a Glacial Imbued Jar to collect and freeze water from the Ancient Cave Sprin
 Use a Glacial Imbued Jar to collect and freeze water from the Cluster of Waves in Dierdre's Steps in Mount Maelstrom.,Наберите и заморозьте в Ледниковой напитанной банке воду из Скопления Волн на Ступенях Дейрдре на Mount Maelstrom.
 Use a Glacial Imbued Jar to collect and freeze Water taken from the Fellmyst Falls in Iron Marches.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из Водопадов Феллмист в Iron Marches."
 Use a Glacial Imbued Jar to collect and freeze water taken from the Gotala Cascade in Brisban Wildlands.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из Каскада Готала в Brisban Wildlands."
-Use a Glacial Imbued Jar to collect and freeze water taken from the Hope Falls in Malchor's Leap.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из Водопадов Надежды на Прыжке Малхора."
+Use a Glacial Imbued Jar to collect and freeze water taken from the Hope Falls in Malchor's Leap.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из Hope Falls на Прыжке Малхора."
 Use a Glacial Imbued Jar to collect and freeze water taken from the Infinite Coil Reactor.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из Реактора Бесконечного Кольца."
 Use a Glacial Imbued Jar to collect and freeze water taken from the oasis in Dry Top.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из оазиса на Сухой Вершине."
 Use a Glacial Imbued Jar to collect and freeze water taken from the waterfall in the Cereboth Canyon in Kessex Hills.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из водопада в Каньоне Церебот в Kessex Hills."
@@ -364,8 +364,8 @@ Use a Glacial Imbued Jar to collect and freeze water taken from the waterfall ne
 Use a Glacial Imbued Jar to collect and freeze water taken from the waterfall near the Ogham Wilds in Caledon Forest.,"Наберите и заморозьте в Ледниковой напитанной банке воду, взятую из водопада у Дебрей Огама в Caledon Forest."
 Use a Glacial Imbued Jar to collect ice from the Elemental Source in the Snowblind Fractal.,Соберите Ледниковой напитанной банкой лёд из Источника Стихий во фрактале «Снежная слепота».
 Use a Glacial Imbued Jar to collect ice shavings from a lodge in the Barrowstead region of Frostgorge Sound.,Соберите Ледниковой напитанной банкой ледяную крошку из дома в области Барроустед в Frostgorge Sound.
-Use a Glacial Imbued Jar to collect ice shavings from Blue Ice Station of Groznev Delve in Frostgorge Sound.,Соберите Ледниковой напитанной банкой ледяную крошку со Станции Синего Льда в Копях Грознева в Frostgorge Sound.
-Use a Glacial Imbued Jar to collect ice shavings from the freezing cavern of Sector Zuhl in Timberline Falls.,Соберите Ледниковой напитанной банкой ледяную крошку из промёрзшей пещеры Сектора Зул в Timberline Falls.
+Use a Glacial Imbued Jar to collect ice shavings from Blue Ice Station of Groznev Delve in Frostgorge Sound.,Соберите Ледниковой напитанной банкой ледяную крошку со Станции Синего Льда в Groznev Delve в Frostgorge Sound.
+Use a Glacial Imbued Jar to collect ice shavings from the freezing cavern of Sector Zuhl in Timberline Falls.,Соберите Ледниковой напитанной банкой ледяную крошку из промёрзшей пещеры Sector Zuhl в Timberline Falls.
 Use a Glacial Imbued Jar to collect ice shavings from the Frostgate Falls in Lornar's Pass.,Соберите Ледниковой напитанной банкой ледяную крошку с Водопадов Морозных Врат на Lornar's Pass.
 Use a Glacial Imbued Jar to collect ice shavings from the ice pillar at end of the Underground Facility Fractal.,Соберите Ледниковой напитанной банкой ледяную крошку с ледяного столпа в конце фрактала «Подземный комплекс».
 Use a Glacial Imbued Jar to collect ice shavings from the Icebound Plunge waterfall in Lornar's Pass.,Соберите Ледниковой напитанной банкой ледяную крошку с водопада Ледяного Обрыва на Lornar's Pass.
@@ -374,7 +374,7 @@ Use a Glacial Imbued Jar to collect ice shavings from the Talecrafting Steading 
 Use a Glacial Imbued Jar to collect residue from the defeated Ice Elemental summoned by the Svanir Shaman at the Heart of Corruption in Wayfarer Foothills.,"Соберите Ледниковой напитанной банкой остатки побеждённого ледяного элементаля, призванного шаманом Сванира у Сердца Порчи в Wayfarer Foothills."
 Use a Glacial Imbued Jar to collect translucent ice crystals from the cave in the Darkhoof Heights in Snowden Drifts.,Соберите Ледниковой напитанной банкой полупрозрачные ледяные кристаллы из пещеры на высотах Тёмного Копыта в Snowden Drifts.
 Use a golden key.,Используйте золотой ключ.
-Use a Kodan Cache Key to unlock this cache.,Откройте этот тайник Ключом от тайника коданов.
+Use a Kodan Cache Key to unlock this cache.,Откройте этот тайник Kodan Cache Key.
 Use a Krait Focusing Crystal to commune with the Krait Altar in Caledon Forest.,Прикоснитесь Krait Focusing Crystal к Алтарю крайтов в Caledon Forest.
 Use a Krait Focusing Crystal to commune with the Krait Obelisk Shard in Caledon Forest.,Прикоснитесь Krait Focusing Crystal к Осколку обелиска крайтов в Caledon Forest.
 Use a Krait Focusing Crystal to commune with the Krait Obelisk Shard in Kessex Hills.,Прикоснитесь Krait Focusing Crystal к Осколку обелиска крайтов в Kessex Hills.

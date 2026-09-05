@@ -107,7 +107,7 @@ Luxon abilities grant might.","<c=@abilitytype>Legendary Alliance.</c> Спос�
 <c=@abilitytype>Turrets.</c> Turrets create a reflective barrier when built and grant boons to allies around them on a regular interval.,<c=@abilitytype>Турели.</c> Турели создают отражающий барьер при размещении и накладывают дары на союзников вокруг себя с регулярным интервалом.
 <c=@abilitytype>Unleashed Ambush</c> skills grant boons to nearby allies. Refresh Unleashed Power when you swap weapons.,<c=@abilitytype>Навыки высвобожденной засады</c> дают благословения ближайшим союзникам. Обновляют «Высвобожденную силу» при смене оружия.
 "<c=@abilitytype>Venom</c> utility skills siphon life from struck foes. Gain stacks of Spider Venom when you enter or exit stealth.
-<c=@reminder>Siphoning can only occur once per strike.</c>","<c=@abilitytype>Навыки ядов</c> вытягивают жизнь из пораженных врагов. Получайте заряды «Яда паука» при входе в невидимость или выходе из неё.
+<c=@reminder>Siphoning can only occur once per strike.</c>","<c=@abilitytype>Навыки ядов</c> вытягивают жизнь из пораженных врагов. Получайте заряды «Spider Venom» при входе в невидимость или выходе из неё.
 <c=@reminder>Вытягивание жизни может сработать только один раз за удар.</c>"
 <c=@abilitytype>Virtues</c> apply boons to allies when activated. Deal increased strike damage for each boon on you.,<c=@abilitytype>Добродетели</c> накладывают благословения на союзников при активации. Наносят повышенный прямой урон за каждое имеющееся на вас благословение.
 <c=@abilitytype>Weapon spells</c> remove conditions from affected allies. Affected allies receive the full benefit of <c=@abilitytype>weapon spells</c>.,<c=@abilitytype>Оружейные заклинания</c> снимают состояния с затронутых союзников. Затронутые союзники получают полный эффект от <c=@abilitytype>оружейных заклинаний</c>.
@@ -199,10 +199,10 @@ Applied Force,Applied Force
 <c=@reminder>Rot Wallow Venom effect cannot apply to yourself.</c>","Накладывайте <c=@abilitytype>Rot Wallow Venom</c> на союзников, которым вы даёте барьер. Исходящее исцеление союзников увеличено.
 <c=@reminder>Эффект Яда Гнилостного Валлоу не может быть применен к вам.</c>"
 Apply boons to nearby allies while channeling <c=@abilitytype>overloads</c> and when successfully completing an <c=@abilitytype>overload</c> channel.,Накладывайте благословения на ближайших союзников во время подготовки <c=@abilitytype>перегрузок</c> и при успешном завершении подготовки <c=@abilitytype>перегрузки</c>.
-Apply conditions to enemies when you disable them. Perform an additional strike when using Cosmic Wisdom that damages and burns enemies.,"Вы накладываете на врагов состояния, когда выводите их из строя. При активации Космической Мудрости вы наносите дополнительный удар, который наносит врагам урон и поджигает их."
+Apply conditions to enemies when you disable them. Perform an additional strike when using Cosmic Wisdom that damages and burns enemies.,"Вы накладываете на врагов состояния, когда выводите их из строя. При активации Cosmic Wisdom вы наносите дополнительный удар, который наносит врагам урон и поджигает их."
 Apply vulnerability when you steal. Gain might when you hit with a stealth attack.,Накладывайте уязвимость при краже. Получайте мощь при попадании атакой из невидимости.
 Applying might to an ally heals you.,Applying might to an ally heals you.
-Applying vulnerability to foes grants stacks of <c=@abilitytype>Battle Scars</c>. The healing from Battle Scars is increased while you are below the health threshold.,"Наложение уязвимости на врагов даёт заряды <c=@abilitytype>Боевых Шрамов</c>. Исцеление от Боевых Шрамов увеличено, пока ваше здоровье ниже порогового значения."
+Applying vulnerability to foes grants stacks of <c=@abilitytype>Battle Scars</c>. The healing from Battle Scars is increased while you are below the health threshold.,"Наложение уязвимости на врагов даёт заряды <c=@abilitytype>Battle Scars</c>. Исцеление от Battle Scars увеличено, пока ваше здоровье ниже порогового значения."
 Aquamancer's Training,Aquamancer's Training
 Arcane Lightning,Arcane Lightning
 Arcane Precision,Arcane Precision

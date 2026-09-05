@@ -127,7 +127,7 @@ Choose an account-bound weapon from the Chromatic Resin weapon set.","Дважд
 "Double-click to open.
 Choose any weight of Blood Legion Soldier Helm.
 Items can only be worn by charr.","Дважды щёлкните, чтобы открыть.
-Выберите шлем солдата Кровавого легиона любого веса.
+Выберите Blood Legion Soldier Helm любого веса.
 Предметы могут носить только чарры."
 "Double-click to open.
 Choose any weight of Charr War Mask.
@@ -355,7 +355,7 @@ This set contains the Fiery Blade Axe skin and Icy Blade Axe skin.","Дважд�
 
 Contains a Legendary Insight, a boss token used to obtain guild or homestead decorations, and a piece of exotic gear.","Дважды щёлкните, чтобы открыть. 
 
-Содержит легендарное прозрение, жетон босса, используемый для получения украшений гильдии или усадьбы, и предмет экзотического снаряжения."
+Содержит Legendary Insight, жетон босса, используемый для получения украшений гильдии или усадьбы, и предмет экзотического снаряжения."
 Double-click to open. <c=@flavor>Finders keepers!</c>,"Дважды щёлкните, чтобы открыть. <c=@flavor>Кто нашёл, того и вещь!</c>"
 "Double-click to open. Choose an account-bound weight class of the Visage of Nourys. (This item cannot be sold.)
 
@@ -441,7 +441,7 @@ Double-click to open. Contains 8 Obsidian Shards and 7 Mystic Clovers.,"Дваж
 Double-click to open. Contains 800 luck.,"Дважды щёлкните, чтобы открыть. Содержит 800 удачи."
 Double-click to open. Contains a 10-slot bag and 3 Explorer's Boosters.,"Дважды щёлкните, чтобы открыть. Содержит сумку на 10 ячеек и 3 усилителя исследователя."
 "Double-click to open. Contains a book of Basic Homestead Recipes, and 120 of each of the three Homestead Materials.","Дважды щёлкните, чтобы открыть. Содержит книгу базовых рецептов усадьбы и по 120 каждого из трёх материалов усадьбы."
-Double-click to open. Contains a Celebration Booster.,"Дважды щёлкните, чтобы открыть. Содержит праздничный усилитель."
+Double-click to open. Contains a Celebration Booster.,"Дважды щёлкните, чтобы открыть. Содержит Celebration Booster."
 Double-click to open. Contains a choice of 150 tokens from any dungeon.,"Дважды щёлкните, чтобы открыть. Содержит выбор из 150 жетонов из любого подземелья."
 "Double-click to open. Contains a choice of a level 10 Enhanced Mighty weapon, 3 choices of dye unlocks, 5 transmutation charges, and a Royal Terrace two-week pass.","Дважды щёлкните, чтобы открыть. Содержит на выбор улучшенное могучее оружие 10-го уровня, 3 краски на выбор, 5 зарядов трансмутации и двухнедельный пропуск в Королевскую террасу."
 Double-click to open. Contains a choice of one account-bound Destroyer weapon. Unlocks the Destroyer Weapons collection.,"Дважды щёлкните, чтобы открыть. Содержит на выбор одно привязанное к учётной записи оружие разрушителей. Открывает коллекцию «Оружие разрушителей»."
@@ -456,7 +456,7 @@ Double-click to open. Contains a choice of rewards unique to the Qadim encounter
 Double-click to open. Contains a choice of rewards unique to the Qadim the Peerless encounter.,"Дважды щёлкните, чтобы открыть. Содержит выбор наград, уникальных для встречи с Кадимом Непревзойдённым."
 Double-click to open. Contains a choice of rewards unique to the Samarog encounter.,"Дважды щёлкните, чтобы открыть. Содержит выбор наград, уникальных для встречи с Самарогом."
 Double-click to open. Contains a choice of rewards unique to the Soulless Horror encounter.,"Дважды щёлкните, чтобы открыть. Содержит выбор наград, уникальных для встречи с Soulless Horror."
-Double-click to open. Contains a choice of rewards unique to the Twin Largos encounter.,"Дважды щёлкните, чтобы открыть. Содержит выбор наград, уникальных для встречи с парными ларгосами."
+Double-click to open. Contains a choice of rewards unique to the Twin Largos encounter.,"Дважды щёлкните, чтобы открыть. Содержит выбор наград, уникальных для встречи с Twin Largos."
 Double-click to open. Contains a dye unlock from one of the chosen color sets.,"Дважды щёлкните, чтобы открыть. Содержит разблокировку краски из одного из выбранных наборов цветов."
 "Double-click to open. Contains a Gilded Reliquary of the Raven, a Sweet Campfire Treat, and a 32-slot bag.","Дважды щёлкните, чтобы открыть. Содержит позолоченную реликвию ворона, Sweet Campfire Treat и сумку на 32 ячейки."
 "Double-click to open. Contains a Helm of the Dragonrender box, a Sweet Campfire Treat, a 20-slot bag, and a 28-slot bag recipe.","Дважды щёлкните, чтобы открыть. Содержит коробку шлема раздирателя драконов, Sweet Campfire Treat, сумку на 20 ячеек и рецепт сумки на 28 ячеек."
@@ -674,7 +674,7 @@ Double-click to receive a bundle item that can create a portal between two locat
 <c=@flavor>Создано руками White Mantle. Используется для преодоления опасных мест.</c>"
 Double-click to receive a Grandmaster Mark of your choice.,"Дважды щёлкните, чтобы получить знак гроссмейстера на ваш выбор."
 "Double-click to receive a mini each of Super Spider, Super Bee Dog, and Super Monkey. Combine the Mini Super Trio in the Mystic Forge with a Continue Coin to unlock the Mini Storm Wizard.","Дважды щёлкните, чтобы получить мини-Супер-Паука, мини-Супер-Пчелопса и мини-Супер-Обезьяну. Объедините мини-Супер-трио в Mystic Forge с Continue Coin, чтобы открыть мини-Штормового мага."
-"Double-click to receive a Mini Holographic Branded Minotaur, Mini Holographic Axe-Wielding Destroyer, and a Mini Holographic Corrupted Wolf.","Дважды щёлкните, чтобы получить мини-голографического клеймёного минотавра, мини-голографического разрушителя с топором и мини-голографического осквернённого волка."
+"Double-click to receive a Mini Holographic Branded Minotaur, Mini Holographic Axe-Wielding Destroyer, and a Mini Holographic Corrupted Wolf.","Дважды щёлкните, чтобы получить Mini Holographic Branded Minotaur, Mini Holographic Axe-Wielding Destroyer и Mini Holographic Corrupted Wolf."
 "Double-click to receive a mini Risen Brute, mini Risen Thrall, and mini Risen Plague Carrier.","Дважды щёлкните, чтобы получить мини-восставшего громилу, мини-восставшего раба и мини-восставшего разносчика чумы."
 "Double-click to receive a mini spooky ghost, mini spooky skeleton, and mini spooky spider.","Дважды щёлкните, чтобы получить мини-жуткого призрака, мини-жуткий скелет и мини-жуткого паука."
 Double-click to receive a random tradable Black Lion weapon skin item from one of the older Black Lion weapon sets.,"Дважды щёлкните, чтобы получить случайный обмениваемый предмет облика оружия Black Lion из одного из старых наборов обликов оружия Black Lion."
@@ -689,7 +689,7 @@ Double-click to receive the following items: 1 Makeover Kit and 5 Transmutation 
 "Double-click to receive the following items: 1 Recovery Package, 2 Tradesman's Packages, 5 transmutation charges, and 5 dye packs.","Дважды щёлкните, чтобы получить следующие предметы: 1 набор восстановления, 2 набора ремесленника, 5 зарядов трансмутации и 5 наборов красок."
 "Double-click to receive the following items: 1 Speed Booster, 1 Zephyrite Color Swatch: Red, 15 Black Lion Keys, 1 Aviator Cap Skin, 250 Piles of Sand.","Дважды щёлкните, чтобы получить следующие предметы: 1 усилитель скорости, 1 образец цвета зефиритов: красный, 15 ключей Чёрного Льва, 1 облик шлема авиатора, 250 куч песка."
 Double-click to receive the following items: 10 Black Lion Chest Keys and 1 Golden Black Lion Chest Key,"Дважды щёлкните, чтобы получить следующие предметы: 10 Black Lion Chest Key и 1 Golden Black Lion Chest Key"
-"Double-click to receive the following items: 150 Trade Contracts, 15 Trader's Keys, 5 Pieces of Common Unidentified Gear, and 1 Treasure Hunting Kit.","Дважды щёлкните, чтобы получить следующие предметы: 150 торговых контрактов, 15 ключей торговца, 5 частей обычного неопознанного снаряжения и 1 набор для поиска сокровищ."
+"Double-click to receive the following items: 150 Trade Contracts, 15 Trader's Keys, 5 Pieces of Common Unidentified Gear, and 1 Treasure Hunting Kit.","Дважды щёлкните, чтобы получить следующие предметы: 150 торговых контрактов, 15 ключей торговца, 5 частей обычного неопознанного снаряжения и 1 Treasure Hunting Kit."
 "Double-click to receive the following items: 5 Heroic Boosters, 3 Revive Orbs, and 3 Instant Repair Canisters.","Дважды щёлкните, чтобы получить следующие предметы: 5 героических усилителей, 3 сферы возрождения и 3 баллончика мгновенного ремонта."
 "Double-click to receive the holiday trio: Mini Fawn, Mini Puppy, and Mini Arctic Fox Kit.","Дважды щёлкните, чтобы получить праздничное трио: мини-оленёнка, мини-щенка и мини-детёныша песца."
 "Double-click to receive the Mini Super Piranha, Mini Super Bunny, and Mini Super Turtle. Combine in the Mystic Forge with a Continue Coin to unlock the Mini Super Angry Cloud.","Дважды щёлкните, чтобы получить мини-Супер-Пиранью, мини-Супер-Зайку и мини-Супер-Черепаху. Объедините в Mystic Forge с Continue Coin, чтобы открыть мини-Супер-Сердитую тучу."
@@ -781,10 +781,10 @@ Double-click to show your support for Ellen Kiel.,"Дважды щёлкните
 Double-click to show your support for Evon Gnashblade.,"Дважды щёлкните, чтобы выразить поддержку Evon Gnashblade."
 Double-click to sit in judgment of others.,"Дважды щёлкните, чтобы воссесть в суде над другими."
 Double-click to sit on a chair.,"Дважды щёлкните, чтобы сесть на стул."
-Double-click to spend 25 magnetite shards to apply 12 hours of the Metabolic Primer effect.,"Дважды щёлкните, чтобы потратить 25 осколков магнетита и применить эффект метаболического праймера на 12 часов."
-Double-click to spend 25 magnetite shards to apply 12 hours of the Utility Primer effect.,"Дважды щёлкните, чтобы потратить 25 осколков магнетита и применить эффект вспомогательного праймера на 12 часов."
-Double-click to spend 250 badges of honor to apply 12 hours of the Metabolic Primer effect.,"Дважды щёлкните, чтобы потратить 250 знаков почёта и применить эффект метаболического праймера на 12 часов."
-Double-click to spend 250 badges of honor to apply 12 hours of the Utility Primer effect.,"Дважды щёлкните, чтобы потратить 250 знаков почёта и применить эффект вспомогательного праймера на 12 часов."
+Double-click to spend 25 magnetite shards to apply 12 hours of the Metabolic Primer effect.,"Дважды щёлкните, чтобы потратить 25 осколков магнетита и применить эффект Metabolic Primer на 12 часов."
+Double-click to spend 25 magnetite shards to apply 12 hours of the Utility Primer effect.,"Дважды щёлкните, чтобы потратить 25 осколков магнетита и применить эффект Utility Primer на 12 часов."
+Double-click to spend 250 badges of honor to apply 12 hours of the Metabolic Primer effect.,"Дважды щёлкните, чтобы потратить 250 знаков почёта и применить эффект Metabolic Primer на 12 часов."
+Double-click to spend 250 badges of honor to apply 12 hours of the Utility Primer effect.,"Дважды щёлкните, чтобы потратить 250 знаков почёта и применить эффект Utility Primer на 12 часов."
 Double-click to stand victorious on a rock.,"Дважды щёлкните, чтобы стоять победителем на скале."
 Double-click to summon a being from the Underworld to revive downed allies for 5 minutes. Flees if its master is downed.,"Дважды щёлкните, чтобы призвать существо из Подземного мира для оживления павших союзников на 5 минут. Убегает, если его хозяин пал."
 "Double-click to summon a Black Lion Delivery Agent for 15 minutes, allowing you and your allies to pick up trading post purchases and profits. Single-use.","Дважды щёлкните, чтобы призвать агента доставки Black Lion на 15 минут — вы и ваши союзники сможете забирать покупки и прибыль с торгового поста. Одноразовый."

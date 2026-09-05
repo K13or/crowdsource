@@ -23,7 +23,7 @@ english,translate
 "<c=@flavor>""Nothing gets past this shield.""<br>—Nessi</c>",<c=@flavor>«Ничто не пройдёт мимо этого щита».<br>—Несси</c>
 "<c=@flavor>""Nothing I build would crack like this, but it'll work.""<br>—Nessi</c>","<c=@flavor>«Ничто из построенного мной не треснуло бы так, но сработает».<br>—Несси</c>"
 "<c=@flavor>""Nothing is getting past this shield.""<br>—Vigil Crusader Rugan</c>",<c=@flavor>«Ничто не пройдёт мимо этого щита».<br>—Vigil Crusader Rugan</c>
-"<c=@flavor>""Nothing will try your patience more than skritt.""<br>—Scholar Antal the Patient</c>","<c=@flavor>«Ничто не испытает твоё терпение сильнее, чем скритты».<br>—Учёная Антал Терпеливая</c>"
+"<c=@flavor>""Nothing will try your patience more than skritt.""<br>—Scholar Antal the Patient</c>","<c=@flavor>«Ничто не испытает твоё терпение сильнее, чем скритты».<br>—Учёная Antal the Patient</c>"
 "<c=@flavor>""Now we hunt the dark itself.""<br>—Marksman Kamekeck</c>",<c=@flavor>«Теперь мы охотимся на саму тьму».<br>—Стрелок Камекек</c>
 "<c=@flavor>""Objective 1: Find them. Objective 2: Destroy them.""<br>—First Page of the Operative's Creed.</c>",<c=@flavor>«Задача 1: найти их. Задача 2: уничтожить их».<br>—Первая страница Кодекса Агента.</c>
 "<c=@flavor>""Offense and defense. Both are needed to be triumphant.""<br>—Enduring Protector</c>","<c=@flavor>«Атака и защита. Нужны обе, чтобы одержать победу».<br>—Стойкий Защитник</c>"
@@ -101,7 +101,7 @@ english,translate
 "<c=@flavor>""So many shiny things when they blow up on landing.""<br>—Explorer Grretergrret</c>","<c=@flavor>«Столько блестящего добра, когда они взрываются при посадке».<br>—Изыскатель Гретергрет</c>"
 "<c=@flavor>""So shiny! You want it, yes? You won't find shinier!""<br>—Mrr'kkant</c>","<c=@flavor>«Так блестяще! Хочешь ведь, да? Более блестящего не найдёшь!»<br>—Мрр'ккант</c>"
 "<c=@flavor>""Some folks just survive in modern warfare. People who thrive in it wear these.""<br>—Goran</c>","<c=@flavor>«Кто-то просто выживает в современной войне. Те, кто в ней процветает, носят это».<br>—Горан</c>"
-"<c=@flavor>""Some of that hardened tar worked its way into the seams.""<br>—Scholar Merla</c>",<c=@flavor>«Немного той затвердевшей смолы забилось в швы».<br>—Учёная Мерла</c>
+"<c=@flavor>""Some of that hardened tar worked its way into the seams.""<br>—Scholar Merla</c>",<c=@flavor>«Немного той затвердевшей смолы забилось в швы».<br>—Scholar Merla</c>
 "<c=@flavor>""Some people think it makes 'em look tougher.""<br>—Waldo</c>","<c=@flavor>«Некоторые думают, что это делает их круче на вид».<br>—Уолдо</c>"
 "<c=@flavor>""Some use water to extinguish flame. I prefer steel.""<br>—Corva Sharpclaw</c>",<c=@flavor>«Кто-то тушит пламя водой. Я предпочитаю сталь».<br>—Corva Sharpclaw</c>
 "<c=@flavor>""Sometimes a prisoner needs a little 'motivation'.""<br>—Warden Scourgejaw</c>",<c=@flavor>«Иногда пленнику нужна небольшая „мотивация“».<br>—Страж Скорджо</c>
@@ -137,7 +137,7 @@ english,translate
 "<c=@flavor>""Takes courage to come out here. Thank you.""<br>—Priory Explorer Cyara</c>","<c=@flavor>«Нужна смелость, чтобы прийти сюда. Спасибо».<br>—Изыскатель Приората Циара</c>"
 "<c=@flavor>""Tasty! Try it and see!""<br>—Sneckit</c>",<c=@flavor>«Вкусно! Попробуй и убедись!»<br>—Снеккит</c>
 "<c=@flavor>""Thank you for your help. Your work helps us get rid of those trouble making inquest.""<br>—Sentinel Liharn</c>",<c=@flavor>«Спасибо за помощь. Твоя работа помогает нам избавиться от этих проблемных Инквестовцев».<br>—Часовой Лихарн</c>
-"<c=@flavor>""Thank you friend of Degun Shun.""<br>—Shelp</c>","<c=@flavor>«Спасибо, друг Дегун Шуна».<br>—Шелп</c>"
+"<c=@flavor>""Thank you friend of Degun Shun.""<br>—Shelp</c>","<c=@flavor>«Спасибо, друг Degun Shun».<br>—Шелп</c>"
 "<c=@flavor>""Thank you, friend.""<br>—Commander Spleedoop</c>","<c=@flavor>«Спасибо, друг».<br>—Командор Сплидуп</c>"
 "<c=@flavor>""Thanks for helping out. Bring back what you kill; it'll help feed the soldiers.""<br>—Hunter Block</c>","<c=@flavor>«Спасибо за помощь. Приноси то, что убил; это поможет прокормить солдат».<br>—Охотник Блок</c>"
 "<c=@flavor>""Thanks for helping to get our supplies back. Here, take something you need from them.""<br>—Quennida</c>","<c=@flavor>«Спасибо, что помог вернуть наши припасы. Вот, возьми что-нибудь нужное из них».<br>—Квеннида</c>"
@@ -363,7 +363,7 @@ english,translate
 "<c=@flavor>""Words are the sparks that start the flames of ideas.""<br>—Rebel Isaak</c>","<c=@flavor>«Слова — искры, зажигающие пламя идей».<br>—Бунтарь Айзек</c>"
 "<c=@flavor>""Working with Dolyaks takes good boots. You never know what you might step in.""<br>—Lyot</c>","<c=@flavor>«Работа с дольяками требует хороших сапог. Никогда не знаешь, во что вляпаешься».<br>—Лайот</c>"
 "<c=@flavor>""Working with dolyaks takes good boots. You never know what you might step in.""<br>—Lyot</c>","<c=@flavor>«Работа с дольяками требует хороших сапог. Никогда не знаешь, во что вляпаешься».<br>—Лайот</c>"
-"<c=@flavor>""Written in a strange dredge script. Looks vaguely like Old Dwarven.""<br>—Engineer Radley</c>",<c=@flavor>«Написано странным шрифтом дреджей. Немного похоже на древнедворфийский».<br>—Инженер Рэдли</c>
+"<c=@flavor>""Written in a strange dredge script. Looks vaguely like Old Dwarven.""<br>—Engineer Radley</c>",<c=@flavor>«Написано странным шрифтом дреджей. Немного похоже на древнедворфийский».<br>—Engineer Radley</c>
 "<c=@flavor>""Yes yes, it was a tragedy. But also an opportunity! Those dam pieces are historical artifacts!""<br>—Cin</c><br><br>This item only has value as part of a collection.","<c=@flavor>«Да, да, это была трагедия. Но и возможность тоже! Эти куски дамбы — исторические артефакты!»<br>—Син</c><br><br>Этот предмет ценен только как часть коллекции."
 "<c=@flavor>""Yes, mines have pins, too. It helps keep them from blowing up when carrying them.""<br>—Tiga</c>","<c=@flavor>«Да, у мин тоже есть чеки. Это помогает не дать им взорваться при переноске».<br>—Тига</c>"
 "<c=@flavor>""You act with the honor of Wardens. Thank you for your help."" <br>—Quennida</c>",<c=@flavor>«Ты действуешь с честью Стражей. Спасибо за помощь». <br>—Квеннида</c>
@@ -463,8 +463,8 @@ english,translate
 "<c=@Reminder>Hint: Lunge or riposte, whichever lands the hit.</c>",<c=@Reminder>Подсказка: выпад или рипост — что бы ни попало по цели.</c>
 "<c=@Reminder>Hint: There's not always time to ask ""how high.""</c>",<c=@Reminder>Подсказка: не всегда есть время спрашивать «на сколько высоко».</c>
 <c=@reminder>Note: Basic Gliding Mastery is required to navigate this environment.</c>,<c=@reminder>Примечание: для перемещения в этой обстановке требуется базовое мастерство планирования.</c>
-"<c=@reminder>Note: Ley Line Gliding and Bouncing Mushrooms masteries are required to navigate the environment. The Forsaken Thicket Waters Mastery can also assist you through some encounters, as well as Forsaken Magic Mastery.</c>","<c=@reminder>Примечание: для перемещения в этой обстановке требуются мастерства «Планирование по линиям силы» и «Bouncing Mushrooms». Мастерство «Воды Забытой Чащи» также может помочь в некоторых столкновениях, как и мастерство «Магия забытых».</c>"
-<c=@reminder>Note: The Updraft Use and Bouncing Mushrooms Masteries are required to navigate the environment. The Forsaken Thicket Waters Mastery can also assist you through some encounters.</c>,<c=@reminder>Примечание: для перемещения в этой обстановке требуются мастерства «Использование восходящих потоков» и «Bouncing Mushrooms». Мастерство «Воды Забытой Чащи» также может помочь в некоторых столкновениях.</c>
+"<c=@reminder>Note: Ley Line Gliding and Bouncing Mushrooms masteries are required to navigate the environment. The Forsaken Thicket Waters Mastery can also assist you through some encounters, as well as Forsaken Magic Mastery.</c>","<c=@reminder>Примечание: для перемещения в этой обстановке требуются мастерства «Планирование по линиям силы» и «Bouncing Mushrooms». Мастерство «Forsaken Thicket Waters» также может помочь в некоторых столкновениях, как и мастерство «Магия забытых».</c>"
+<c=@reminder>Note: The Updraft Use and Bouncing Mushrooms Masteries are required to navigate the environment. The Forsaken Thicket Waters Mastery can also assist you through some encounters.</c>,<c=@reminder>Примечание: для перемещения в этой обстановке требуются мастерства «Updraft Use» и «Bouncing Mushrooms». Мастерство «Forsaken Thicket Waters» также может помочь в некоторых столкновениях.</c>
 <c=@reminder>Occasionally found in mining caches throughout Gyala Delve.</c>,<c=@reminder>Иногда встречается в горнодобывающих тайниках по всей Долине Джьяла.</c>
 <c=@reminder>Occasionally found when completing the Silent Surf fractal on the master tier.</c>,<c=@reminder>Иногда встречается при прохождении фрактала «Безмолвный Прибой» на уровне мастера.</c>
 <c=@reminder>Purchase any Guild Wars 2 expansion or the Guild Wars 2 Starter Pack and reach level 10 to unlock this mount.</c>,"<c=@reminder>Приобретите любое дополнение Guild Wars 2 или Стартовый набор Guild Wars 2 и достигните 10 уровня, чтобы разблокировать это ездовое животное.</c>"

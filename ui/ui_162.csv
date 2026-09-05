@@ -3,7 +3,7 @@ english,translate
 "While airborne, use the [lbracket]%str1%[rbracket] key to dash forward in a barrel roll, giving your mount a burst of speed at the cost of energy.","Находясь в воздухе, используйте клавишу [lbracket]%str1%[rbracket], чтобы сделать рывок вперёд с бочкой, давая вашему скакуну всплеск скорости ценой энергии."
 "While at 33%% health or less, slay five enemies within 5 minutes of each other.","Имея 33%% здоровья или меньше, убейте пять врагов в течение 5 минут друг от друга."
 "While being carried by a ley line, you can exit before the end of the path with the [lbracket]%str1%[rbracket] key to dash away from the ley-line path or the [lbracket]%str2%[rbracket] key to dismount and drop out.","Когда вас несёт лей-линия, вы можете выйти до конца пути с помощью клавиши [lbracket]%str1%[rbracket], чтобы рывком отойти от пути лей-линии, или клавиши [lbracket]%str2%[rbracket], чтобы спешиться и выпасть."
-"While being chased by Inquest, Meliza dropped an old ritual coin near a waterfall just east of the Command Complex. If you retrieve it, she'll be grateful.","Когда за ней гнались Инквест, Мелиза уронила старую ритуальную монету у водопада к востоку от Командного комплекса. Если вы её вернёте, она будет благодарна."
+"While being chased by Inquest, Meliza dropped an old ritual coin near a waterfall just east of the Command Complex. If you retrieve it, she'll be grateful.","Когда за ней гнались Инквест, Мелиза уронила старую ритуальную монету у водопада к востоку от Command Complex. Если вы её вернёте, она будет благодарна."
 "While burrowed, this skill is locked.","Пока вы зарыты, это умение заблокировано."
 "While clinging to a wall, hold to charge a jump. Release to jump.","Цепляясь за стену, удерживайте, чтобы зарядить прыжок. Отпустите, чтобы прыгнуть."
 "While defending Overlake Haven, you saw a strange undead creature. Neither you, nor your companion, had ever seen its like. Now you return to the Grove, to ask advice of the Pale Tree.","Защищая Убежище Оверлейк, вы увидели странное неживое существо. Ни вы, ни ваш спутник никогда не видели подобного. Теперь вы возвращаетесь в Рощу, чтобы спросить совета у Pale Tree."
@@ -34,7 +34,7 @@ english,translate
 "While Taimi continued her research at the ley line hub, Rox, Braham, and I investigated the waypoint disruption at Concordia. We found the fort ravaged by jungle tendrils and other creatures. I led the search party that rescued Lindsay and some of her colleagues before fending off the remaining attackers at Goldenlight Hallow lab. Tactician Art mentioned that the vines started sprouting from the ground shortly after a shipment of magical artifacts arrived. I'm not sure of the connection there.<br><br>Rox made an offhand comment about Taimi. I think the kid is getting on her nerves.","Пока Тайми продолжала свои исследования в центре линий силы, Рокс, Брейхам и я расследовали проблему с порталом в Конкордии. Мы обнаружили, что крепость была разрушена джунглями и другими существами. Я возглавил поисковую группу, которая спасла Линдсей и некоторых из её коллег, а затем отбила атаку оставшихся врагов в лаборатории «Золотой свет». Tactician Art упомянул, что лозы начали расти из земли вскоре после прибытия партии магических артефактов. Не уверен, есть ли между этим какая-то связь.<br><br>Рокс обронила пару слов о Тайми. Кажется, эта девчонка начинает её раздражать."
 "While the Battle for the Jade Sea is not active, find Marjory around the Outer Terrace.","Пока Битва за Нефритовое море неактивна, найдите Марджори на Внешней террасе."
 "While the Battle for the Jade Sea is not active, find Marjory in Seafarer's Enclave.","Пока Битва за Нефритовое море неактивна, найдите Марджори в Анклаве Мореплавателя."
-"While the Battle for the Jade Sea is not active, find Marjory in the Harvest Complex.","Пока Битва за Нефритовое море неактивна, найдите Марджори в Комплексе Урожая."
+"While the Battle for the Jade Sea is not active, find Marjory in the Harvest Complex.","Пока Битва за Нефритовое море неактивна, найдите Марджори в Harvest Complex."
 "While the other gods slept, Grenth took up his throne—beckoning his companions to dance and howl beneath the stars. It was said that his powers were most potent when the moon was highest in the sky.","Пока другие боги спали, Грент занял свой трон, призывая своих спутников танцевать и выть под звёздами. Говорили, что его сила была наиболее могущественной, когда луна стояла высоко в небе."
 While the pervasive stench of a bog fills your nose...wait. Is that a...lizard?,Пока неотвязный запах болота заполняет ноздри... погодите. Это... ящерица?
 "While the Slipstream Boost skill is active, hold down the hover skill to ascend further into the air than previously allowed for the duration of the skill. For the Water Jets skill, aim your skimmer at enemies and allies that you wish to target and let the projectiles loose.","Пока активен навык «Ускорение воздушного потока», удерживайте навык зависания, чтобы подняться в воздух выше, чем было возможно ранее, на время действия навыка. Для навыка «Water Jets» наведите скиммер на врагов и союзников, которых хотите поразить, и выпустите снаряды."
@@ -228,7 +228,7 @@ Wildly Inaccurate Textbook[s],[Дико неточный учебник|Дико
 Will of Joko,Воля Джоко
 Will return the original appearance item and stats item from an existing transmuted item. All items will remain soulbound.,Вернет исходный предмет внешности и предмет характеристик из существующего трансмутированного предмета. Все предметы останутся связанными с душой.
 Will spawn in,Появится через
-Will the Sword of Justice to appear beside your enemy and attack nearby foes.,"Призвать Меч Справедливости, чтобы он появился рядом с вашим врагом и атаковал ближайших противников."
+Will the Sword of Justice to appear beside your enemy and attack nearby foes.,"Призвать Sword of Justice, чтобы он появился рядом с вашим врагом и атаковал ближайших противников."
 Will's Map,Карта Уилла
 Willbender's Cache[s],[Тайник|Тайника|Тайников] Изгибателя воли
 Willen Sarite,Виллен Сарит
@@ -288,8 +288,8 @@ Wind Pull,Притяжение ветра
 Wind Pulse,Импульс ветра
 Wind Rider Ledge Propagation[s],Распространени[е|я|й] уступа ветрокрылого
 Wind Rider Ledge: Embedded high in a large palm tree.,Wind Rider Ledge: Встроен высоко в большую пальму.
-"Wind Rider Ledge: High along the wall, southwest of Seething Pillar.","Wind Rider Ledge: Высоко вдоль стены, к юго-западу от Кипящего Столпа."
-Wind Rider Ledge: In a ceiling cave below Rata Arcanum.,Wind Rider Ledge: В пещере под потолком ниже Рата Арканума.
+"Wind Rider Ledge: High along the wall, southwest of Seething Pillar.","Wind Rider Ledge: Высоко вдоль стены, к юго-западу от Seething Pillar."
+Wind Rider Ledge: In a ceiling cave below Rata Arcanum.,Wind Rider Ledge: В пещере под потолком ниже Rata Arcanum.
 Wind Rider Ledge: In a cranny above the northern tip of the ledge.,Wind Rider Ledge: В расщелине над северной оконечностью уступа.
 Wind Rider Ledge: Near the ceiling along the western wall.,Wind Rider Ledge: У потолка вдоль западной стены.
 "Wind Rider Ledge: On the northern side, in a ceiling crevasse.","Wind Rider Ledge: С северной стороны, в трещине потолка."

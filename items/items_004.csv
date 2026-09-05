@@ -146,7 +146,7 @@ Double-click to view the target's predicted location.","<c=@flavor>По прик
 "<c=@flavor>Crafted in the style of the enigmatic oracle, Suun.</c>",<c=@flavor>Изготовлено в стиле загадочной прорицательницы Суун.</c>
 "<c=@flavor>Crafted in the style of the Exalted wanderer, Ruka.</c>",<c=@flavor>Изготовлено в стиле возвышенного странника Руки.</c>
 "<c=@flavor>Crafted in the style of the famous centaur pacifist, Ventari.</c>",<c=@flavor>Изготовлено в стиле знаменитого кентавра-пацифиста Вентари.</c>
-"<c=@flavor>Crafted in the style of the famous mercenary, Grymm Svaard.</c>",<c=@flavor>Изготовлено в стиле знаменитого наёмника Гримма Сваарда.</c>
+"<c=@flavor>Crafted in the style of the famous mercenary, Grymm Svaard.</c>",<c=@flavor>Изготовлено в стиле знаменитого наёмника Grymm Svaard.</c>
 "<c=@flavor>Crafted in the style of the famous minstrel, Maklain.</c>",<c=@flavor>Изготовлено в стиле знаменитого менестреля Маклейна.</c>
 "<c=@flavor>Crafted in the style of the famous necromancer, Verata.</c>",<c=@flavor>Изготовлено в стиле знаменитого некроманта Вераты.</c>
 "<c=@flavor>Crafted in the style of the famous ruler, Turai Ossa.</c>",<c=@flavor>Изготовлено в стиле знаменитого правителя Турая Оссы.</c>
@@ -253,7 +253,7 @@ Purchased from Shading Willow at the Autumn's Vale renown heart in Lowland Shore
 <c=@flavor>For those who put others before themselves in this time of need.<c>,"<c=@flavor>Для тех, кто в час нужды ставил других выше себя.<c>"
 "<c=@flavor>Forged by the devoted followers of the Prismatic Dragon, using slivers of her jewel-like breath.</c>",<c=@flavor>Выковано преданными последователями Призматического Дракона из осколков её самоцветного дыхания.</c>
 <c=@flavor>Forged in the blazing fires of the Black Citadel's foundry.</c>,<c=@flavor>Выковано в пылающем огне литейной Black Citadel.</c>
-"<c=@flavor>Forged to keep the legend of Asgeir Dragonrender, who fought the Elder Dragon Jormag to safeguard his people.</c>","<c=@flavor>Выковано, чтобы хранить легенду об Асгейре Драконоборце, что бился со Старшим драконом Йормагом, оберегая свой народ.</c>"
+"<c=@flavor>Forged to keep the legend of Asgeir Dragonrender, who fought the Elder Dragon Jormag to safeguard his people.</c>","<c=@flavor>Выковано, чтобы хранить легенду об Asgeir Dragonrender, что бился со Старшим драконом Йормагом, оберегая свой народ.</c>"
 <c=@flavor>Formerly worn by a member of the Imperial Guards of Cantha.</c>,<c=@flavor>Некогда носил один из Имперских стражей Канты.</c>
 <c=@flavor>Fragments of a dagger capable of absorbing intense emotions like a sponge. Found by completing the Silent Surf fractal.</c>,"<c=@flavor>Обломки кинжала, способного впитывать сильные чувства, будто губка. Находится за прохождение фрактала «Безмолвный прибой».</c>"
 <c=@flavor>Fragments of a longbow capable of absorbing intense emotions like a sponge. Found by completing the Silent Surf fractal.</c>,"<c=@flavor>Обломки длинного лука, способного впитывать сильные чувства, будто губка. Находится за прохождение фрактала «Безмолвный прибой».</c>"
@@ -503,7 +503,7 @@ Double-click to summon this mini to follow you around. Only one mini may be in u
 <c=@reminder>Подсказка: чтобы получить, победите Кадима Несравненного в рейде «Ключ Ахдашима».</c>"
 <c=@flavor>Such a rare and vibrant bloom.<c>,<c=@flavor>Такой редкий и яркий цветок.<c>
 <c=@flavor>Such that the defense may rest.</c>,<c=@flavor>Чтобы оборона могла передохнуть.</c>
-<c=@flavor>Supplies from Scarlet's Alliance troops.<c>,<c=@flavor>Припасы от войск Альянса Скарлет.<c>
+<c=@flavor>Supplies from Scarlet's Alliance troops.<c>,<c=@flavor>Припасы от войск Scarlet's Alliance.<c>
 "<c=@flavor>Surprisingly sturdy, given its incorporeal diet.</c>",<c=@flavor>На удивление крепкий — учитывая его бестелесный рацион.</c>
 "<c=@Flavor>Sweet and cloying, with an almost copper finish.</c>","<c=@Flavor>Сладко и приторно, с почти медным послевкусием.</c>"
 "<c=@flavor>Sweet and sticky, but this specially filtered honey is better used for potions than for eating.<c>","<c=@flavor>Сладкий и липкий, но этот особым образом отфильтрованный мёд лучше идёт на зелья, чем в пищу.<c>"

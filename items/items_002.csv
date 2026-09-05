@@ -762,7 +762,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Vigil Crusader Rugan</c>"
 "<c=@flavor>""Nothing will try your patience more than skritt.""
 —Scholar Antal the Patient</c>","<c=@flavor>«Ничто не испытает твоё терпение сильнее, чем скритты».
-—Учёная Антал Терпеливая</c>"
+—Учёная Antal the Patient</c>"
 "<c=@flavor>""Now we hunt the dark itself.""
 —Marksman Kamekeck</c>","<c=@flavor>«Теперь мы охотимся на саму тьму».
 —Стрелок Камекек</c>"
@@ -1082,7 +1082,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Горан</c>"
 "<c=@flavor>""Some of that hardened tar worked its way into the seams.""
 —Scholar Merla</c>","<c=@flavor>«Немного той затвердевшей смолы забилось в швы».
-—Учёная Мерла</c>"
+—Scholar Merla</c>"
 "<c=@flavor>""Some of the warband are starting to eye each other in the wrong way. Got to silence the whispers.""</c>",<c=@flavor>«Кое-кто в боевом отряде начинает не так поглядывать друг на друга. Надо заткнуть шепотки».</c>
 "<c=@flavor>""Some people think it makes 'em look tougher.""
 —Waldo</c>","<c=@flavor>«Некоторые думают, что это делает их круче на вид».
@@ -1228,7 +1228,7 @@ This item only has value as part of a collection.","<c=@flavor>«Иногда д
 —Sentinel Liharn</c>","<c=@flavor>«Спасибо за помощь. Твоя работа помогает нам избавиться от этих проблемных Инквестовцев».
 —Часовой Лихарн</c>"
 "<c=@flavor>""Thank you friend of Degun Shun.""
-—Shelp</c>","<c=@flavor>«Спасибо, друг Дегун Шуна».
+—Shelp</c>","<c=@flavor>«Спасибо, друг Degun Shun».
 —Шелп</c>"
 "<c=@flavor>""Thank you, friend.""
 —Commander Spleedoop</c>","<c=@flavor>«Спасибо, друг».

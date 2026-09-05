@@ -57,7 +57,7 @@ Gain stability and swiftness when starting an <c=@abilitytype>overload</c>.,По
 Gain stability when you disable a foe. Deal increased strike damage while you have stability.,"Вам даруется устойчивость, когда вы выводите противника из строя. Вы наносите повышенный прямой урон, пока у вас есть дар Устойчивости."
 Gain stability when you gain might at or above the threshold. Might grants bonus power.,Получайте стабильность при получении мощи на пороговом уровне или выше. Могущество даёт бонус к силе.
 Gain stability when you use a <c=@abilitytype>Shatter</c> skill. Grant an additional boon to nearby allies based on which <c=@abilitytype>Shatter</c> is used.,"Получайте устойчивость при использовании навыка <c=@abilitytype>Раскола</c>. Даруйте дополнительное благо ближайшим союзникам в зависимости от того, какой <c=@abilitytype>Раскол</c> был использован."
-Gain stacks of <c=@abilitytype>Battle Scars</c> while in combat.,Получайте заряды <c=@abilitytype>Боевых шрамов</c> во время боя.
+Gain stacks of <c=@abilitytype>Battle Scars</c> while in combat.,Получайте заряды <c=@abilitytype>Battle Scars</c> во время боя.
 Gain stacks of Consume Shadows at regular intervals while in Shadow Shroud. Exiting Shadow Shroud consumes your remaining shadow force and heals allies based on the number of stacks you have gained. Allies that are fully healed receive the rest of the value in barrier.,"Пока вы находитесь в Саване Теней, вы получаете стеки Поглощения теней через равные промежутки времени. Покидание Савана Теней поглощает всю оставшуюся силу теней и исцеляет союзников поблизости пропорционально поглощенной энергии. Союзники, которые исцелились полностью, получают остаток исцеления как барьер."
 Gain superspeed when attuning to air.,Gain superspeed when attuning to air.
 Gain superspeed when inflicting inhibiting conditions on enemies.,Получайте суперскорость при наложении на врагов ограничивающих состояний.
@@ -492,7 +492,7 @@ Master of Misdirection,Master of Misdirection
 Master's Fortitude,Master's Fortitude
 Master-at-Arms,Master-at-Arms
 "Mastery of tengu wind magic allows you to conjure the Cyclone Bow at will. Using arrow-consuming skills grants Wind Force. After you reach the Wind Force threshold, you are able to use Hawkeye. Gain access to <c=@abilitytype>Squalls</c>.
-<c=@reminder>Using Cyclone Bow skills consumes arrows. You generate arrows every interval.</c>","Мастерство магии ветра тенгу позволяет вам по желанию призывать Лук циклона. Использование навыков, расходующих стрелы, даёт Силу ветра. Достигнув порога Силы ветра, вы сможете использовать Соколиный глаз. Получите доступ к <c=@abilitytype>Шквалам</c>.
+<c=@reminder>Using Cyclone Bow skills consumes arrows. You generate arrows every interval.</c>","Мастерство магии ветра тенгу позволяет вам по желанию призывать Лук циклона. Использование навыков, расходующих стрелы, даёт Wind Force. Достигнув порога Wind Force, вы сможете использовать Соколиный глаз. Получите доступ к <c=@abilitytype>Шквалам</c>.
 <c=@reminder>Использование навыков Лука циклона расходует стрелы. Вы генерируете стрелы через определенный интервал.</c>"
 Matching weapon skills to charge familiar.,Matching weapon skills to charge familiar.
 Max Duration,Max Duration
@@ -508,7 +508,7 @@ Maximum Fear Targets,Maximum Fear Targets
 Maximum Life Force Increase,Maximum Life Force Increase
 Maximum Notes,Maximum Notes
 Maximum Stacks Effectiveness,Maximum Stacks Effectiveness
-"Maximum adrenaline is capped at 2 bars, and only level 1 bursts are available. Gain access to the Full Counter burst and <c=@abilitytype>Meditation</c> skills.","Максимум адреналина ограничен 2 шкалами, доступны только взрывные навыки 1 уровня. Получите доступ к взрывному навыку Полный контратакующий удар и навыкам <c=@abilitytype>Медитации</c>."
+"Maximum adrenaline is capped at 2 bars, and only level 1 bursts are available. Gain access to the Full Counter burst and <c=@abilitytype>Meditation</c> skills.","Максимум адреналина ограничен 2 шкалами, доступны только взрывные навыки 1 уровня. Получите доступ к взрывному навыку Full Counter и навыкам <c=@abilitytype>Медитации</c>."
 Maximum life force is increased.,Maximum life force is increased.
 Mayhem,Mayhem
 Mech Arms: High-Impact Drivers,Mech Arms: High-Impact Drivers

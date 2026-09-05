@@ -35,7 +35,7 @@ english,translate
 3. Bring Lyla's token to the remains.,3. Отнесите знак Лайлы к останкам.
 3. Complete a Fractal of the Mists in quickplay mode and loot the final treasure chest.,3. Пройдите Фрактал Туманов в режиме быстрой игры и заберите добычу из финального сундука.
 3. Complete the Reverie of a Thorn achievement and return to Ridhais.,3. Выполните достижение «Грёзы Терния» и вернитесь к Ридхайс.
-3. Demand answers from Brigadier General Kernel in Lion's Arch.,3. Потребуйте ответов у бригадного генерала Кернела в Lion's Arch.
+3. Demand answers from Brigadier General Kernel in Lion's Arch.,3. Потребуйте ответов у Brigadier General Kernel в Lion's Arch.
 3. Explore the snow-filled hall.,3. Исследуйте засыпанный снегом зал.
 3. Find Waiting Sorrow's journal.,3. Найдите дневник Ждущей Скорби.
 3. Interview local scouts about the unusual sight.,3. Расспросите местных разведчиков о необычном явлении.
@@ -81,7 +81,7 @@ english,translate
 4%% increase to damage and defense against mercenaries,+4%% к урону и защите против наёмников
 4%% reduced damage from guards,-4%% к урону от стражников
 "4. ""Near north extractor, saw creek. Rockslide. Trapped!",4. «У северного экстрактора видел ручей. Обвал. В ловушке!
-4. Bring the Agony-Torn Gloves to the Mist Stranger.,"4. Отнесите Перчатки, истерзанные агонией, Незнакомцу из Туманов."
+4. Bring the Agony-Torn Gloves to the Mist Stranger.,"4. Отнесите Перчатки, истерзанные агонией, Mist Stranger."
 4. Convince Sous-Chef Seimur Oxbone to give you some bloodstone condiments. Speak with Astral Ward Culinary Specialist Torchmarrow in the Wizard's Tower to track where the sous-chef is each day.,"4. Уговорите су-шефа Сеймура Бычью Кость выдать вам кровокаменные приправы. Поговорите с кулинарным специалистом Астральной стражи Факелокостом в Wizard's Tower, чтобы отследить, где су-шеф находится каждый день."
 4. Find Lyhr's note.,4. Найдите записку Лира.
 4. Let Lyla know you've returned the trinket.,"4. Сообщите Лайле, что вы вернули безделушку."
@@ -143,7 +143,7 @@ english,translate
 "6. ""Pulled through rift, far away. Sand, fire...windmill! On floating rock!""","6. «Протянуло сквозь разлом, далеко-далеко. Песок, огонь... ветряная мельница! На парящей скале!»"
 6. Ask Morgaah Bloodseeker in the Black Citadel about crafting a specialized glove.,6. Расспросите Моргу Кровоискательницу в Black Citadel об изготовлении особой перчатки.
 6. Check in with Narcisse.,6. Загляните к Нарциссе.
-6. Check in with the Mist Stranger and your allies.,6. Загляните к Незнакомцу из Туманов и своим союзникам.
+6. Check in with the Mist Stranger and your allies.,6. Загляните к Mist Stranger и своим союзникам.
 6. Obtain a keg of norn ale from Kevach's Homestead in Wayfarer Foothills.,6. Раздобудьте бочонок норнского эля в Усадьбе Кеваха в Wayfarer Foothills.
 6. Seek me out once more; return to my remains where you left the bottle.,"6. Разыщите меня снова; вернитесь к моим останкам, где вы оставили бутылку."
 "6. Seek out the wayward wisp. Whenever you're close, use your warclaw's sniff to reveal the wisp.","6. Разыщите заблудший огонёк. Всякий раз, оказавшись поблизости, применяйте «Принюхаться» варклоу, чтобы его проявить."
@@ -193,7 +193,7 @@ english,translate
 8%% (total) increased siege defense,+8%% (всего) к защите осадных орудий
 8%% reduced damage (total) from guards,-8%% к получаемому урону (всего) от стражников
 "8. ""Through rift, again far away. Big leaves. Scary monsters—sharp, sharp teeth!""","8. «Сквозь разлом, снова далеко. Большие листья. Страшные чудовища — острые, острые зубы!»"
-8. Check in with the Mist Stranger and your allies.,8. Загляните к Незнакомцу из Туманов и своим союзникам.
+8. Check in with the Mist Stranger and your allies.,8. Загляните к Mist Stranger и своим союзникам.
 8. Check in with Uenno.,8. Загляните к Уэнно.
 8. Let Amy May know you helped all of the grieving Hullgardeners on her list.,"8. Сообщите Эми Мэй, что вы помогли всем скорбящим Халлгарденцам из её списка."
 8. Party by the pool.,8. Вечеринка у бассейна.
@@ -273,7 +273,7 @@ english,translate
 <br><c=@task>New Featured Item!</c>,<br><c=@task>Новый избранный товар!</c>
 "<c=""%str1%"">Warning! This item is transmuted and will function in the Mystic Forge as %str2%.</c>","<c=""%str1%"">Внимание! Этот предмет преображён и в Mystic Forge будет работать как %str2%.</c>"
 "<c=""%str2%"">Prerequisite:</c> %str1%","<c=""%str2%"">Требование:</c> %str1%"
-"<c=#006eff>Ally Target:</c> <br>0–2 Seconds: Grant might to the linked ally and players around you each interval.<br>2–4 Seconds: Grant more might.<br>4–6 Seconds: Grant even more might. In addition, grant fury. Gain access to Otherworldly Attraction.","<c=#006eff>Цель-союзник:</c> <br>0–2 секунды: каждый интервал даёт мощь связанному союзнику и игрокам вокруг вас.<br>2–4 секунды: даёт больше Мощи.<br>4–6 секунд: даёт ещё больше Мощи. Кроме того, даёт ярость. Открывает доступ к «Потустороннему притяжению»."
+"<c=#006eff>Ally Target:</c> <br>0–2 Seconds: Grant might to the linked ally and players around you each interval.<br>2–4 Seconds: Grant more might.<br>4–6 Seconds: Grant even more might. In addition, grant fury. Gain access to Otherworldly Attraction.","<c=#006eff>Цель-союзник:</c> <br>0–2 секунды: каждый интервал даёт мощь связанному союзнику и игрокам вокруг вас.<br>2–4 секунды: даёт больше Мощи.<br>4–6 секунд: даёт ещё больше Мощи. Кроме того, даёт ярость. Открывает доступ к «Otherworldly Attraction»."
 "<c=#006eff>Ally Target:</c> Ally gains barrier and removes a condition per pulse. Striking your target with Energy Bolt during this time detonates the aura immediately, granting barrier and removing conditions on allies around the target.","<c=#006eff>Цель-союзник:</c> союзник получает барьер и снимает по состоянию за пульс. Попадание по цели «Энергетическим зарядом» в это время немедленно взрывает ауру, давая барьер и снимая состояния с союзников вокруг цели."
 <c=#006eff>Ally Target:</c> Grant barrier to allies.,<c=#006eff>Цель-союзник:</c> даёт барьер союзникам.
 "<c=#006eff>Ally Target:</c> Grant swiftness and barrier. Then, fire a quick healing bolt. Effectiveness is reduced for allies that are not the primary target.","<c=#006eff>Цель-союзник:</c> даёт Быстроту и барьер. Затем выпускает быстрый исцеляющий заряд. Для союзников, не являющихся основной целью, действенность снижена."
@@ -357,7 +357,7 @@ english,translate
 "<c=#ff6a00>Enemy Target:</c> Steal your foe's shadow, slowing them for a period of time while gaining shadow force.","<c=#ff6a00>Цель-враг:</c> похищает тень вашего врага, замедляя его на время и давая вам теневую силу."
 <c=#ff6a00>Enemy Target:</c> Torment foes.,<c=#ff6a00>Цель-враг:</c> накладывает боль на врагов.
 "<c=#ff6a00>Enemy Target:</c> Weaken and damage target foe over time. Striking your target with Energy Bolt during this time causes the aura to explode after it expires, weakening and damaging foes around your target.","<c=#ff6a00>Цель-враг:</c> со временем ослабляет цель и наносит ей урон. Попадание по цели «Энергетическим зарядом» в это время заставит ауру взорваться по истечении, ослабив врагов вокруг цели и нанеся им урон."
-<c=#ff6a00>Enemy Target:</c><br>0–2 Seconds: Inflict vulnerability on linked enemy each interval.<br>2–4 Seconds: Additionally inflicts cripple.<br>4–6 Seconds: Additionally inflicts slow. Gain access to Otherworldly Attraction.,<c=#ff6a00>Цель-враг:</c><br>0–2 секунды: каждый интервал накладывает уязвимость на связанного врага.<br>2–4 секунды: дополнительно накладывает Хромоту.<br>4–6 секунд: дополнительно накладывает медлительность. Открывает доступ к «Потустороннему притяжению».
+<c=#ff6a00>Enemy Target:</c><br>0–2 Seconds: Inflict vulnerability on linked enemy each interval.<br>2–4 Seconds: Additionally inflicts cripple.<br>4–6 Seconds: Additionally inflicts slow. Gain access to Otherworldly Attraction.,<c=#ff6a00>Цель-враг:</c><br>0–2 секунды: каждый интервал накладывает уязвимость на связанного врага.<br>2–4 секунды: дополнительно накладывает Хромоту.<br>4–6 секунд: дополнительно накладывает медлительность. Открывает доступ к «Otherworldly Attraction».
 <c=#FFC957>All dyes have an equal chance to drop.</c>,<c=#FFC957>У всех красок равные шансы выпадения.</c>
 <c=#FFE51F>WARNING</c>: Will not salvage items in invisible bags or shared inventory slots.,<c=#FFE51F>ВНИМАНИЕ</c>: не разбирает предметы в невидимых сумках и общих ячейках инвентаря.
 <c=#FFFF00>%str1%<c>,<c=#FFFF00>%str1%<c>
@@ -380,7 +380,7 @@ english,translate
 <c=@abilitytype>Additional Conditions above 50%% Heat</c>,<c=@abilitytype>Дополнительные состояния при нагреве выше 50%%</c>
 "<c=@abilitytype>Backfire.</c> After a short period of time, the cannon misfires, damaging and inflicting conditions on you and nearby enemies within range of the summoned skritt.","<c=@abilitytype>Осечка.</c> Спустя короткое время пушка даёт осечку, нанося урон и накладывая состояния на вас и ближайших врагов в радиусе призванного скритта."
 "<c=@abilitytype>Backfire.</c> After shadowstepping, you are knocked down. You cannot reactivate this skill until it is fully recharged again.","<c=@abilitytype>Осечка.</c> После теневого шага вас сбивает с ног. Вы не сможете применить это умение снова, пока оно полностью не перезарядится."
-<c=@abilitytype>Backfire.</c> Flip a number of cursed Canach Coins. Gain effects depending on whether they land on heads or tails.,"<c=@abilitytype>Осечка.</c> Подбросьте несколько проклятых монет Канаха. Эффекты зависят от того, выпадет орёл или решка."
+<c=@abilitytype>Backfire.</c> Flip a number of cursed Canach Coins. Gain effects depending on whether they land on heads or tails.,"<c=@abilitytype>Осечка.</c> Подбросьте несколько проклятых Canach Coins. Эффекты зависят от того, выпадет орёл или решка."
 "<c=@abilitytype>Backfire.</c> The bomb explodes in your hands, launching and damaging both you and enemies around you.","<c=@abilitytype>Осечка.</c> Бомба взрывается у вас в руках, отбрасывая и раня как вас, так и врагов вокруг."
 "<c=@abilitytype>Backfire.</c> The shield explodes after a short period of time, dealing damage to yourself equal to a percentage of your base health, as well as damaging enemies around you.","<c=@abilitytype>Осечка.</c> Спустя короткое время щит взрывается, нанося вам урон, равный доле вашего базового здоровья, а также раня врагов вокруг вас."
 "<c=@abilitytype>Backfire.</c> You drop the potion on yourself, healing for more. The cooldown of this skill is increased, and you cannot reactivate this skill until it is fully recharged again.","<c=@abilitytype>Осечка.</c> Вы роняете зелье на себя, исцеляясь сильнее. Перезарядка этого умения увеличивается, и вы не сможете применить его снова, пока оно полностью не перезарядится."

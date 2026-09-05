@@ -110,7 +110,7 @@ List of Ingredients,Список ингредиентов
 List of Needed Medical Supplies,Список необходимых медицинских принадлежностей
 Listen to a tall tale of ancient times.,Послушайте небылицу о древних временах.
 Listen to a taller tale of ancient times.,Послушайте ещё более невероятную небылицу о древних временах.
-Listen to Captain Penzan perform his song after defending him while he recovers his hidden treasure in Bloodtide Coast.,"Послушайте, как капитан Пензан исполняет свою песню, после того как защитите его, пока он находит свое спрятанное сокровище на Bloodtide Coast."
+Listen to Captain Penzan perform his song after defending him while he recovers his hidden treasure in Bloodtide Coast.,"Послушайте, как Captain Penzan исполняет свою песню, после того как защитите его, пока он находит свое спрятанное сокровище на Bloodtide Coast."
 Listen to Deputy Hamad's instructions.,Слушай указания заместителя Хамада.
 Listen to Jimoh ask Second Spear Olishar for a favor.,"Послушайте, как Джимо просит Second Spear Olishar об одолжении."
 Listen to the rest of Captain Lakes's tale.,Послушайте остальную часть рассказа капитана Лейкса.
@@ -291,8 +291,8 @@ Localization Leads,Руководители локализации
 Locate and assist the Durmand Priory camp.,Найти и помочь лагерю Дурманского Приората.
 Locate and decipher an ancient map.,Найти и расшифровать древнюю карту.
 Locate and defeat Orma of Modus Sceleris in Fireheart Rise or Lornar's Pass.,Найти и победить Орму из Модус Сцелерис на Fireheart Rise или Lornar's Pass.
-Locate and defuse Speaker mines in Goa Village.,Найти и обезвредить шахты Спикеров в деревне Гоа.
-Locate and kill the transformed krait witch in Ventry Bay in Caledon Forest.,Найти и убить превратившуюся ведьму-крайт в заливе Вентри в Кедровом Лесу.
+Locate and defuse Speaker mines in Goa Village.,Найти и обезвредить шахты Спикеров в Goa Village.
+Locate and kill the transformed krait witch in Ventry Bay in Caledon Forest.,Найти и убить превратившуюся ведьму-крайт в Ventry Bay в Кедровом Лесу.
 Locate and open the jotun observatory.,Найти и открыть обсерваторию ётунов.
 Locate and steal a source of arcane fire from the Speakers.,Найти и украсть источник магического огня у Спикеров.
 Locate clues and complete activities to break Sidony's curse on Castora.,"Ищите улики и выполняйте задания, чтобы снять проклятие Сидони с Касторы."
@@ -455,7 +455,7 @@ Look for a memory washed to shore among the shipwrecks of the southern strand.,"
 Look for clues on the cliffs to the north.,Ищи улики на утёсах к северу.
 Look for signs of activity near here...,Ищи признаки активности неподалёку...
 Look for signs of tigers in Loreclaw Expanse.,Ищи следы тигров в Просторах Когтепряда.
-Look for signs of tigers on the cliffs above Halkor Meadows.,Ищи следы тигров на утёсах над Лугами Халкора.
+Look for signs of tigers on the cliffs above Halkor Meadows.,Ищи следы тигров на утёсах над Halkor Meadows.
 Look for the book icon on your map to find a %str2% trainer who can teach you %str1%.,"Найди иконку книги на карте, чтобы найти тренера %str2%, который может обучить тебя %str1%."
 Look for tiger signs in the Crimson Plateau jumping puzzle.,Ищи следы тигров в прыгательной головоломке Багрового Плато.
 Look for treasure using your skimmer's Aetherlocation skill in Castora.,"Ищи сокровища, используя навык 'Эфирное местоположение' твоего плавуна в Касторе."
@@ -465,7 +465,7 @@ Look what I found!,"Гляди, что я нашёл!"
 Look! A Strawberry!,Гляди! Клубничка!
 Look! Completing the first event objective caused a boss to appear. This boss must be defeated to succeed the event. Do your best!,"Смотри! Выполнение первой цели события вызвало появление босса. Чтобы завершить событие, этого босса нужно победить. Выложись на полную!"
 "Look, it's Koss!Koss is boss.Let's hug Koss.Now Koss is cross.","Смотри, это Косс!Косс — босс.Давай обнимем Косса.Теперь Косс злится."
-"Looking for genuine Refined Krait Oil? It's cured sickness, ailments, flesh wounds, and other general maladies. Would you like to try some?","Ищете настоящее очищенное масло крайта? Оно лечит болезни, недуги, раны и другие недомогания. Хотите попробовать?"
+"Looking for genuine Refined Krait Oil? It's cured sickness, ailments, flesh wounds, and other general maladies. Would you like to try some?","Ищете настоящее очищенное Krait Oil? Оно лечит болезни, недуги, раны и другие недомогания. Хотите попробовать?"
 Looking for Group,Поиск группы
 Looking for Group Tool,Инструмент поиска группы
 "Looking to go from apprentice to master in the art of observing, charting, and interpreting the stars? Then break out your telescope and switch up your sleep schedule, because this comprehensive guide from Scholar Fatima (author of ""Star Charts,"" ""Advanced Star Charts,"" and the best-selling ""A Fool's Guide to Star Charts"") is the first and last resource you'll ever need!Learn the basics of ascension and declination notation, the most ideal times of the lunar cycle to make observations, proper drawing techniques, and even weather-prediction tips to ensure you always have the best possible star-charting conditions.","Хотите пройти путь от подмастерья до мастера в искусстве наблюдения, составления карт и толкования звёзд? Тогда доставайте телескоп и меняйте режим сна, потому что это исчерпывающее руководство от учёной Фатимы (автора «Звёздных карт», «Продвинутых звёздных карт» и бестселлера «Дурацкое руководство по звёздным картам») — первый и последний ресурс, который вам когда-либо понадобится!Изучите основы обозначения восхождения и склонения, наиболее подходящее время лунного цикла для наблюдений, правильные техники рисования и даже советы по предсказанию погоды, чтобы у вас всегда были наилучшие условия для составления звёздных карт."

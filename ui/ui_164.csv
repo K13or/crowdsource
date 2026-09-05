@@ -177,7 +177,7 @@ You already opened this chest today.,Вы уже открывали этот с�
 You already possess a special action skill.,У вас уже есть умение особого действия.
 You already praised Joko at this statue.,Вы уже восславили Джоко у этой статуи.
 "You also must learn to use them to your advantage. So long as you fight at our side, you are welcome to.","Ещё нужно научиться обращать их себе на пользу. Пока ты сражаешься на нашей стороне, тебе это дозволено."
-You and Sicaea the Shrouded obtained the password to the Flame Legion camp. Tribune Desertgrave awaits your report in her office.,Вы с Сикеей Сокрытой добыли пароль от лагеря Легиона Пламени. Трибун Пустомогил ждёт вашего доклада у себя в кабинете.
+You and Sicaea the Shrouded obtained the password to the Flame Legion camp. Tribune Desertgrave awaits your report in her office.,Вы с Сикеей Сокрытой добыли пароль от лагеря Flame Legion. Трибун Пустомогил ждёт вашего доклада у себя в кабинете.
 "You and the warband are ordered to rendezvous at Moledavia, assault the dredge, and reclaim the vehicle. Here's to hoping it'll be that easy.","Вам и отряду приказано собраться в Моледавии, атаковать дреджей и вернуть машину. Будем надеяться, что всё пройдёт так легко."
 "You and your krewe are prepared to extract Doxa from the MIG, but it won't be easy...or safe. So many things could go wrong: Doxa could die, the MIG could run amok again, or the Inquest could storm in and ruin everything. Still, if geniuses avoided conducting experiments that could blow up in their faces, there'd never be any progress. Onward!","Вы с крю готовы извлечь Доксу из МИГа, но это будет непросто... и небезопасно. Столько всего может пойти не так: Докса может погибнуть, МИГ может снова взбеситься, а Инквест может ворваться и всё испортить. И всё же, если бы гении избегали опытов, которые могут взорваться им в лицо, никакого прогресса бы не было. Вперёд!"
 "You and your krewe have decided to fuse Kazz with another golem so that he and Doxa can be together. It's an old story: boy meets girl, girl gets fused to a golem, boy fuses himself to a golem...and as long as Kazz and Doxa don't die, and the golems don't run amok, and the Inquest doesn't spoil everything, this tale might just have a happy ending.","Вы с крю решили сплавить Казза с другим големом, чтобы они с Доксой были вместе. История старая: парень встречает девушку, девушку сплавляют с големом, парень сплавляет себя с големом... и, если Казз с Доксой не погибнут, големы не взбесятся, а Инквест всё не испортит, у этой истории может быть счастливый конец."
@@ -216,8 +216,8 @@ You are being teleported out of the Aetherblade cave.,Вас телепорти�
 You are blocking that player.,Вы заблокировали этого игрока.
 You are blocking.,Вы блокируете.
 You are carrying volatile explosives. The slightest jolt may detonate them.,Вы несёте нестабильную взрывчатку. Малейший толчок может её подорвать.
-"You are charged with a negative magnetic signature. Go find Jimmy Hammerhart, who matches your signature.","Вы заряжены отрицательной магнитной сигнатурой. Найдите Джимми Хаммерхарта, чья сигнатура вам подходит."
-"You are charged with a positive magnetic signature. Go find Jessica Hammerhart, who matches your signature.","Вы заряжены положительной магнитной сигнатурой. Найдите Джессику Хаммерхарт, чья сигнатура вам подходит."
+"You are charged with a negative magnetic signature. Go find Jimmy Hammerhart, who matches your signature.","Вы заряжены отрицательной магнитной сигнатурой. Найдите Jimmy Hammerhart, чья сигнатура вам подходит."
+"You are charged with a positive magnetic signature. Go find Jessica Hammerhart, who matches your signature.","Вы заряжены положительной магнитной сигнатурой. Найдите Jessica Hammerhart, чья сигнатура вам подходит."
 You are corrupted.,Вы порчены.
 You are currently engaged in combat.,Вы сейчас в бою.
 You are currently guesting in %str1%.,Вы сейчас гостите в %str1%.
@@ -230,7 +230,7 @@ You are currently unable to mount.,Сейчас вы не можете сест�
 You are dazed.,Вы ошеломлены.
 You are dead. That disqualifies you from racing.,Вы мертвы. Это лишает вас права участвовать в гонке.
 You are defeated.,Вы побеждены.
-You are designated for Temporal Realignment. Avoid potentially awkward social interactions.,Вы назначены на Временную Перестройку. Избегайте потенциально неловкого общения.
+You are designated for Temporal Realignment. Avoid potentially awkward social interactions.,Вы назначены на Temporal Realignment. Избегайте потенциально неловкого общения.
 You are downed. Fight to survive.,Вы повержены. Боритесь за жизнь.
 You are eligible for rewards from this mission.,Вы имеете право на награды за это задание.
 You are empowered with the soul of the Living City.,Вы наделены душой Живого Города.
@@ -354,7 +354,7 @@ You aren't carrying any fish.,У вас нет рыбы.
 You aren't carrying any Mistburned samples.,"У вас нет образцов, обожжённых Туманами."
 You aren't carrying any paint.,У вас нет краски.
 You aren't currently in an incomplete renown heart region.,Вы сейчас не в области с незавершённым сердцем почёта.
-You aren't currently participating in the training exercise. Talk to Researcher Yarixx to start training.,"Вы сейчас не участвуете в учении. Поговорите с исследователем Яриксом, чтобы начать подготовку."
+You aren't currently participating in the training exercise. Talk to Researcher Yarixx to start training.,"Вы сейчас не участвуете в учении. Поговорите с Researcher Yarixx, чтобы начать подготовку."
 You aren't holding a container that can be filled with water.,"У вас в руках нет ёмкости, которую можно наполнить водой."
 You aren't holding any cannon scrap!,У вас нет пушечного лома!
 You aren't holding any Shipwrecked Rations!,У вас нет Пайков с потерпевшего крушение!

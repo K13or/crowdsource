@@ -405,7 +405,7 @@ Pull,Pull
 Pull Damage,Урон от притягивания
 Pull Distance,Дистанция притягивания
 Pull Distance Increase per Hit,Увеличение дистанции притягивания за попадание
-"Pull all enemies tethered by the Spear of Justice to you, breaking the link. This ability's recharge is separate from that of Spear of Justice.","Притяните к себе всех врагов, связанных Копьём Правосудия, разрывая связь. Перезарядка этой способности отдельна от перезарядки Копья Правосудия."
+"Pull all enemies tethered by the Spear of Justice to you, breaking the link. This ability's recharge is separate from that of Spear of Justice.","Притяните к себе всех врагов, связанных Spear of Justice, разрывая связь. Перезарядка этой способности отдельна от перезарядки Spear of Justice."
 "Pull energy towards you from the Mists, damaging nearby foes. The damage is increased as the energy is drawn inwards.","Притягивайте энергию из Туманов к себе, нанося урон ближайшим врагам. Урон увеличивается по мере притягивания энергии."
 "Pull nearby foes to you with a magnetic force, gaining protection and Tectonic Shift for each foe pulled.","Притяните ближайших врагов к себе с помощью магнитной силы, получая протекцию и Tectonic Shift за каждого притянутого врага."
 Pull out a powerful charrzooka that shoots rockets.,"Достаньте мощную чарзуку, стреляющую ракетами."

@@ -76,7 +76,7 @@ Randomize Finisher,Случайный финишер
 Randomize Hairstyle,Случайная прическа
 Randomize selection from unlocked options.,Случайный выбор из разблокированных вариантов.
 Randomize Skins,Случайные облики
-Rang Haunted Bells at Guild Halls or Other Players' Homesteads %num1%/%num2% Times,Звонил в Призрачные колокола в Гильдейских залах или в Усадьбах других игроков %num1%/%num2% раз
+Rang Haunted Bells at Guild Halls or Other Players' Homesteads %num1%/%num2% Times,Звонил в Призрачные колокола в Guild Halls или в Усадьбах других игроков %num1%/%num2% раз
 Range Attack. Projectile. Knock down.,Атака дальнего боя. Снаряд. Сбивание с ног.
 Range Increase,Увеличение дальности
 Ranged Attack,Атака дальнего боя
@@ -199,7 +199,7 @@ Rat Statue[s],Стату[я|и|й] крысы
 Rat's Challenge,Испытание крысы
 Rata Arcanum Propagation[s],[Распространение|Распространения|Распространений] Рата Арканум
 Rata Arcanum: A crack in the ceiling in the caves behind Rata Arcanum.,Rata Arcanum: Трещина в потолке в пещерах за Рата Арканум.
-"Rata Arcanum: In a high nook, east of Seething Pillar.",Rata Arcanum: В высоком уголке к востоку от Кипящего Столпа.
+"Rata Arcanum: In a high nook, east of Seething Pillar.",Rata Arcanum: В высоком уголке к востоку от Seething Pillar.
 Rata Arcanum: In a nook behind the Inquest's captive druid.,Rata Arcanum: В уголке за пленным друидом Инквеста.
 Rata Arcanum: In a nook near some soil in the caves behind Rata Arcanum.,Rata Arcanum: В уголке возле почвы в пещерах за Рата Арканум.
 "Rata Arcanum: In the upper area, atop a small spire.","Rata Arcanum: В верхней зоне, на вершине небольшого шпиля."
@@ -285,7 +285,7 @@ Raven Blessing,Raven Blessing
 Raven Captured,Ворон захвачен
 Raven Egg[s],[Яйцо|Яйца|Яиц] ворона
 Raven Eggs,Raven Eggs
-Raven eggs have been known to fall out of their nests around the Heart of the Raven in Wayfarer Foothills.,"Известно, что яйца ворона выпадают из гнезд в окрестностях Сердца Ворона в Wayfarer Foothills."
+Raven eggs have been known to fall out of their nests around the Heart of the Raven in Wayfarer Foothills.,"Известно, что яйца ворона выпадают из гнезд в окрестностях Heart of the Raven в Wayfarer Foothills."
 Raven Form,Raven Form
 Raven Gloves Skin[s],[Облик|Облика|Обликов] перчаток ворона
 Raven Greaves now available!,Наголенники ворона теперь доступны!
@@ -402,11 +402,11 @@ Read some reports.,Прочитать несколько отчётов.
 Read the book in the awning.,Прочитать книгу под навесом.
 Read the book in the Durmand Priory basement.,Прочитать книгу в подвале Durmand Priory.
 Read the book in the library.,Прочитать книгу в библиотеке.
-Read the book in the lower area of the Nexus of Moonlight.,Прочитать книгу в нижней части Нексуса Лунного Света.
-Read the book in the upper area of the Nexus of Moonlight.,Прочитать книгу в верхней части Нексуса Лунного Света.
+Read the book in the lower area of the Nexus of Moonlight.,Прочитать книгу в нижней части Nexus of Moonlight.
+Read the book in the upper area of the Nexus of Moonlight.,Прочитать книгу в верхней части Nexus of Moonlight.
 Read the book on black powder found inside the Durmand Priory in Lornar's Pass.,"Прочитать книгу о чёрном порохе, найденную внутри Durmand Priory в Lornar's Pass."
 Read the journal and learn about the fallen Astral Ward members.,Прочитать дневник и узнать о павших членах Astral Ward.
-Read the letter from Chief Inspector Lutze.,Прочитать письмо от главного инспектора Лутце.
+Read the letter from Chief Inspector Lutze.,Прочитать письмо от Chief Inspector Lutze.
 Read the letter from Zizel.,Прочитать письмо от Зизель.
 Read the memory left by the Kryptis.,"Прочитать воспоминание, оставленное Криптис."
 Read the note on the World 3 entrance door inside the Super Adventure Box.,Прочитайте записку на двери входа в Мир 3 внутри Супер Приключенческой Коробки.
@@ -420,7 +420,7 @@ Ready Rewards,Готовые награды
 Ready Time,Время готовности
 Ready to Buy,Готов купить
 Ready to Master,Готов к освоению
-Ready to merge into Prime Hologram.,Готов слиться с Главным Голограммом.
+Ready to merge into Prime Hologram.,Готов слиться с Prime Hologram.
 "Ready to play? If you have any Signature Skills, choose one and select Ready to begin.","Готовы играть? Если у вас есть какие-либо особые умения, выберите одно и нажмите «Готов», чтобы начать."
 Ready to Train,Готов к обучению
 "Ready your second weapon set by arming it in your Hero panel. Press <c=@Quest>[lbracket]~[rbracket]</c> to switch sets at any time. During battle, there's a nine-second cooldown between weapon swaps.","Приготовьте второй набор оружия, экипировав его в панели героя. Нажмите <c=@Quest>[lbracket]~[rbracket]</c>, чтобы переключать наборы в любое время. Во время боя между сменами оружия действует девятисекундная перезарядка."

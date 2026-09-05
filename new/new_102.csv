@@ -128,7 +128,7 @@ This might be part of the code. I'll take note of it.,Это может быть
 This mine belongs to the Tamini!,Эта шахта принадлежит племени Тамини!
 "This minotaur lows quietly—an anxious, questioning sound.",Этот минотавр тихо мычит — тревожно и вопросительно.
 "This morning's attack took the lives of two more brave Vanguard soldiers. A small service was held for them, delaying our journey southward.","Сегодня утром во время атаки погибли ещё два храбрых солдата из отряда «Авангард». В их честь была проведена небольшая церемония прощания, что задержало наше путешествие на юг."
-This must be the Archive of the Resting. Many great mages of Nolani Academy are buried here.,Это должно быть Хранилище покоящихся. Здесь захоронены многие великие маги Академии Нолани.
+This must be the Archive of the Resting. Many great mages of Nolani Academy are buried here.,Это должно быть Хранилище покоящихся. Здесь захоронены многие великие маги Nolani Academy.
 This must be the source of the Raven shaman's power. The very air vibrates with energy that raises the hair at the nape of one's neck.,"Это, должно быть, источник силы шамана Ворона. Сам воздух вибрирует от энергии, от которой волосы встают дыбом на затылке."
 "This must be where Yeng kept his monsters. He took really good care of 'em—better than his employees, that's for sure.","Должно быть, здесь Йенг держал своих чудовищ. Он очень хорошо о них заботился — лучше, чем о своих сотрудниках, это точно."
 "This mysterious krait reliquary is buzzing with dark, ancient energies.","Этот таинственный реликвар крайт наполнен тёмной, древней энергией."
@@ -449,7 +449,7 @@ Time left on rented fishing equipment.,Оставшееся время арен�
 Time left to gather residue and stabilize the defector: %str1%,Осталось времени для сбора остатков и стабилизации дезертира: %str1%
 Time left to reprogram cannon: %str1%,Оставшееся время до перепрограммирования пушки: %str1%
 Time left to revive the repair crew: %str1%,Оставшееся время до прибытия ремонтной бригады: %str1%
-Time left to save Astral Ward scout: %str1%,Осталось времени до спасения разведчика Астральной стражи: %str1%
+Time left to save Astral Ward scout: %str1%,Осталось времени до спасения разведчика Astral Ward: %str1%
 Time left to study crystals: %str1%,Оставшееся время для изучения кристаллов: %str1%
 Time left to tend the garden: %str1%,Оставшееся время для ухода за садом: %str1%
 Time left to turn in bait: %str1%,Осталось времени до сдачи приманки: %str1%

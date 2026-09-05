@@ -226,7 +226,7 @@ Call down a growing column of shadows that damages and applies conditions to foe
 <c=@reminder>Урон снижается за каждую цель каждый раз, когда они поражаются этой способностью.</c>"
 Call down a supply drop of med packs into a target area.,Вызвать выброску медпакетов в выбранной области.
 "Call down an artillery barrage at target location, damaging foes.","Обрушьте артиллерийский огонь по целевой области, нанося урон врагам."
-Call down an ice storm on the targeted area. The number of final ice shards are increased for each stack of Water Arrow.Damage is reduced per target each time foes are struck by this skill.,Обрушьте ледяной шторм на целевую область. Количество финальных ледяных осколков увеличивается за каждый заряд Водяной стрелы.Урон по каждой цели снижается при каждом попадании этого навыка.
+Call down an ice storm on the targeted area. The number of final ice shards are increased for each stack of Water Arrow.Damage is reduced per target each time foes are struck by this skill.,Обрушьте ледяной шторм на целевую область. Количество финальных ледяных осколков увеличивается за каждый заряд Water Arrow.Урон по каждой цели снижается при каждом попадании этого навыка.
 Call down energy from the sky to blast an area.,Вызвать удар зарядом энергии с неба по выбранной области.
 Call down lightning on a disabled foe.,Призовите молнию на оглушенного врага.
 Call hawks to swarm your foe.,"Призвать ястребов, которые набрасываются на вашего противника."
@@ -320,7 +320,7 @@ Channel a great storm from Dwayna to turn foes to dust.,"Направляйте 
 Channel healing and might to nearby allies. Completing this channel grants more health to your allies.,Направляйте исцеление и мощь на ближайших союзников. Завершение этого канала даёт больше здоровья вашим союзникам.
 "Channel power to your Spirit of Anguish, damaging nearby enemies and granting might to nearby allies.","Направьте силу своему Духу Страдания, нанося урон ближайшим врагам и даруя мощь ближайшим союзникам."
 "Channel power to your Spirit of Preservation, granting defensive boons to nearby allies.","Направьте силу своему Духу Сохранения, даруя защитные благословения ближайшим союзникам."
-"Channel power to your Spirit of Wanderlust, inflicting fear on nearby enemies.","Направьте силу своему Духу Странствий, вселяя страх в ближайших врагов."
+"Channel power to your Spirit of Wanderlust, inflicting fear on nearby enemies.","Направьте силу своему Spirit of Wanderlust, вселяя страх в ближайших врагов."
 "Channel revitalizing energy that heals you with every pulse. While channeling, you take reduced strike and condition damage.","Направляйте оживляющую энергию, которая исцеляет вас с каждым импульсом. Во время направления вы получаете сниженный урон от ударов и состояний."
 "Channel twisted energy to launch yourself at your foe, damaging nearby enemies on impact.","Направляйте искаженную энергию, чтобы броситься на врага, нанося урон ближайшим противникам при ударе."
 Channeled Agony,Channeled Agony

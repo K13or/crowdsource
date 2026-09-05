@@ -692,7 +692,7 @@ This item only has value as part of a collection.","<c=@flavor>«Использ�
 "<c=@flavor>""We just have to be stronger and faster than the centaurs.""
 —Seraph Elmder</c>","<c=@flavor>«Нам просто нужно быть сильнее и быстрее кентавров».
 —Серафим Элмдер</c>"
-"<c=@flavor>""We like to give our friends these!"" -Costi Atl</c>",<c=@flavor>«Мы любим дарить такое друзьям!» -Кости Атль</c>
+"<c=@flavor>""We like to give our friends these!"" -Costi Atl</c>",<c=@flavor>«Мы любим дарить такое друзьям!» -Costi Atl</c>
 "<c=@flavor>""We magisters tend to get the better equipment. You helped us with the Flame Legion, ghosts, and research. I owe you something.""
 —Magister Razermane</c>","<c=@flavor>«Нам, магистрам, обычно достаётся снаряжение получше. Ты помог нам с Flame Legion, призраками и исследованиями. Я твой должник».
 —Магистр Рейзермейн</c>"
@@ -890,7 +890,7 @@ This item only has value as part of a collection.","<c=@flavor>«Использ�
 "<c=@flavor>""Worth the effort it takes to keep it sharp.""</c>","<c=@flavor>«Стоит тех усилий, что уходят на заточку».</c>"
 "<c=@flavor>""Written in a strange dredge script. Looks vaguely like Old Dwarven.""
 —Engineer Radley</c>","<c=@flavor>«Написано странным шрифтом дреджей. Немного похоже на древнедворфийский».
-—Инженер Рэдли</c>"
+—Engineer Radley</c>"
 "<c=@flavor>""Yes yes, it was a tragedy. But also an opportunity! Those dam pieces are historical artifacts!""
 —Cin</c>
 
@@ -1059,10 +1059,10 @@ This item only has value as part of a collection.","<c=@flavor>«Да, да, э�
 "<c=@flavor>""Zhaitan may be big, but every little cut adds up.""
 —Warmaster Chan</c>","<c=@flavor>«Зайтан может быть велик, но каждый маленький порез складывается в итог».
 —Военачальник Чан</c>"
-<c=@flavor>A barrel of 100 bags of supplies from Scarlet's Alliance troops.<c>,<c=@flavor>Бочка со 100 мешками припасов от войск Альянса Скарлет.<c>
+<c=@flavor>A barrel of 100 bags of supplies from Scarlet's Alliance troops.<c>,<c=@flavor>Бочка со 100 мешками припасов от войск Scarlet's Alliance.<c>
 "<c=@flavor>A beautiful red flower, treated to last forever.</c>","<c=@flavor>Прекрасный красный цветок, обработанный так, чтобы сохраниться навечно.</c>"
 "<c=@flavor>A bit tarnished, but still quite lovely.<c>","<c=@flavor>Слегка потускнел, но всё ещё весьма хорош.<c>"
-<c=@flavor>A box of 5 bags of supplies from Scarlet's Alliance troops.<c>,<c=@flavor>Коробка с 5 мешками припасов от войск Альянса Скарлет.<c>
+<c=@flavor>A box of 5 bags of supplies from Scarlet's Alliance troops.<c>,<c=@flavor>Коробка с 5 мешками припасов от войск Scarlet's Alliance.<c>
 "<c=@flavor>A broken, ancient charting device that can be used as a blueprint.<c>","<c=@flavor>Сломанное древнее картографическое устройство, которое можно использовать как чертёж.<c>"
 "<c=@flavor>A cape given to you by the King of All Cats. Or an invisible cat pretending to be a cape. It's hard to say, because you can't see it.</c>","<c=@flavor>Плащ, дарованный тебе Королём всех котов. Или невидимый кот, притворяющийся плащом. Трудно сказать — ты же его не видишь.</c>"
 "<c=@flavor>A circle of dark, twisted vines.</c>","<c=@flavor>Круг из тёмных, скрученных лоз.</c>"
@@ -1072,7 +1072,7 @@ This item only has value as part of a collection.","<c=@flavor>«Да, да, э�
 <c=@flavor>A collection of tales about dastardly villains.<c>,<c=@flavor>Сборник историй о подлых злодеях.<c>
 <c=@flavor>A collector's favorite for bean eating.</c>,<c=@flavor>Любимец коллекционеров для поедания бобов.</c>
 <c=@flavor>A concoction of old technology and a tremendous ego.</c>,<c=@flavor>Смесь старых технологий и непомерного самомнения.</c>
-<c=@flavor>A crate of 50 bags of supplies from Scarlet's Alliance troops.<c>,<c=@flavor>Ящик с 50 мешками припасов от войск Альянса Скарлет.<c>
+<c=@flavor>A crate of 50 bags of supplies from Scarlet's Alliance troops.<c>,<c=@flavor>Ящик с 50 мешками припасов от войск Scarlet's Alliance.<c>
 <c=@flavor>A dark and festive brew re-created from an ancient Canthan recipe. This strong brew provides a flavor that reminds many of times long past and is perfect for cold nights with stars littering the sky.</c>,"<c=@flavor>Тёмный праздничный напиток, воссозданный по древнему кантанскому рецепту. Этот крепкий напиток дарит вкус, что многим напоминает давние времена, и идеален для холодных ночей под усыпанным звёздами небом.</c>"
 "<c=@flavor>A dark artifact of the combined forces of the Flame Legion and dredge. This ore seems too impure to properly refine, but it gleams with dark potential.</c>","<c=@flavor>Тёмный артефакт объединённых сил Flame Legion и дреджей. Эта руда кажется слишком нечистой, чтобы её как следует очистить, но она мерцает тёмным потенциалом.</c>"
 <c=@flavor>A decent swimming mask.</c>,<c=@flavor>Приличная маска для плавания.</c>

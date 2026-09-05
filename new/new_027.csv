@@ -147,16 +147,16 @@ Take a Sniff,Принюхаться
 Take a bow,Поклониться
 Take a lesson from Stinging Wind.,Возьмите урок у Жалящего Ветра.
 Take book,Взять книгу
-"Take care, traveler. A Son of Svanir was spotted by the haven with a pack of corrupted wolves.","Береги себя, странник. У убежища заметили Сына Сванира со стаей порченых волков."
+"Take care, traveler. A Son of Svanir was spotted by the haven with a pack of corrupted wolves.","Береги себя, странник. У убежища заметили Son of Svanir со стаей порченых волков."
 Take control of all three chambers in the forge.,Возьмите под контроль все три зала горна.
 Take reduced damage from strikes and periodically heal.,Снижает получаемый урон от ударов и периодически исцеляет.
 Take some of the sludge.,Возьмите немного жижи.
 Take the Sanguinary Blade to the Durmand Priory.,Отнесите Кровавый клинок в Durmand Priory.
 Take the fur.,Возьмите мех.
 Take the portal to Heitor's Gate.,Войдите в портал к Heitor's Gate.
-Take the troll salve to Mender Aviala.,Отнесите мазь из троллей целительнице Авиале.
+Take the troll salve to Mender Aviala.,Отнесите мазь из троллей Mender Aviala.
 Take your corruption elsewhere.,Неси свою порчу в другое место.
-"Take your sire, Clement Forktail, into custody.","Возьмите под стражу вашего родителя, Клемента Вилохвоста."
+"Take your sire, Clement Forktail, into custody.","Возьмите под стражу вашего родителя, Clement Forktail."
 Takes additional 25%% damage from all sources.,Получает на 25%% больше урона из всех источников.
 Takes additional damage.,Получает дополнительный урон.
 Takes less attack damage but more flamethrower damage.,"Получает меньше урона от атак, но больше — от огнемёта."
@@ -397,8 +397,8 @@ The Branded didn't manage to interrupt Blish while setting up the tracker.,"Кл
 The Centaur War,Война с кентаврами
 The Chronoflux—you're kidding? If those demons harness the anomaly inside...,Хронопоток — ты шутишь? Если эти демоны обуздают аномалию внутри...
 The City of Lion's Arch.,Город Lion's Arch.
-The Company is engaging centaur forces at Overwatch Camp in Thunder Rock.,Рота вступает в бой с силами кентавров в лагере «На страже» у Громовой скалы.
-The Company is fighting through Watchlin Armory in Thunder Rock.,Рота пробивается через Арсенал Стражей у Громовой скалы.
+The Company is engaging centaur forces at Overwatch Camp in Thunder Rock.,Рота вступает в бой с силами кентавров в лагере «На страже» у Thunder Rock.
+The Company is fighting through Watchlin Armory in Thunder Rock.,Рота пробивается через Арсенал Стражей у Thunder Rock.
 The Cook,Повар
 "The Cycle, Reborn Completed","«Цикл, возрождённый» завершено"
 The Darkness,Тьма
@@ -453,17 +453,17 @@ The Pale Reavers are pushing into the ruins.,Бледные Жнецы прод�
 The Pale Tree guide you.,Да направит тебя Pale Tree.
 The Ringmaster is gathering new recruits.,Шпрехшталмейстер набирает новичков.
 The Ringmaster is going to hypnotize the Big Top audience!,Шпрехшталмейстер собирается загипнотизировать публику под куполом!
-The Risen assault on the Lone Post has failed. The Pact remain in control of the southern entrance to Orr.,Штурм Одинокого поста восставшими провалился. Пакт удерживает южный вход в Орр.
+The Risen assault on the Lone Post has failed. The Pact remain in control of the southern entrance to Orr.,Штурм Lone Post восставшими провалился. Пакт удерживает южный вход в Орр.
 The Seneschal's Font,Купель Сенешаля
 The Seraph archer can point me to the bandit hideout.,Лучник Серафов может указать мне на убежище разбойников.
 "The Seraph are all that stands between order and chaos out here. Even now the Harathi are gathering materials to construct great siege engines, which lay waste to everything within range. Please, stand with us, and put a stop to their plans.","Серафы — всё, что стоит здесь между порядком и хаосом. Даже сейчас Харати собирают материалы для постройки огромных осадных орудий, которые сметают всё в пределах досягаемости. Прошу, встань с нами и сорви их планы."
 The Seraph are assaulting centaur leadership at Overlord's Greatcamp.,Серафы штурмуют командование кентавров в Великом лагере Повелителя.
-The Seraph are digging in at Kingsgate Camp.,Серафы закрепляются в лагере Кингсгейт.
-"The Seraph at Nightguard Beach have allied with local quaggan, but they're low on resources and manpower. Between treating the wounded and providing shelter for refugees, the Seraph are struggling to uphold their camp.","Серафы на Пляже Ночной стражи заключили союз с местными квагганами, но им не хватает ресурсов и людей. Между лечением раненых и укрытием беженцев Серафы с трудом удерживают свой лагерь."
-The Seraph control Cloven Hoof Pass and are advancing on Kingsgate Camp.,Серафы контролируют Cloven Hoof Pass и наступают на лагерь Кингсгейт.
-"The Seraph control Kingsgate Camp, but the centaur leader is rallying his forces for a last stand!","Серафы контролируют лагерь Кингсгейт, но вождь кентавров сплачивает силы для последнего боя!"
+The Seraph are digging in at Kingsgate Camp.,Серафы закрепляются в Kingsgate Camp.
+"The Seraph at Nightguard Beach have allied with local quaggan, but they're low on resources and manpower. Between treating the wounded and providing shelter for refugees, the Seraph are struggling to uphold their camp.","Серафы на Nightguard Beach заключили союз с местными квагганами, но им не хватает ресурсов и людей. Между лечением раненых и укрытием беженцев Серафы с трудом удерживают свой лагерь."
+The Seraph control Cloven Hoof Pass and are advancing on Kingsgate Camp.,Серафы контролируют Cloven Hoof Pass и наступают на Kingsgate Camp.
+"The Seraph control Kingsgate Camp, but the centaur leader is rallying his forces for a last stand!","Серафы контролируют Kingsgate Camp, но вождь кентавров сплачивает силы для последнего боя!"
 The Seraph control all key locations in the area and look ready to attack. Seraph suppliers are available.,"Серафы контролируют все ключевые места в округе и, похоже, готовы к наступлению. Доступны поставщики Серафов."
-"The Seraph have been battling on multiple fronts, and the fighting has taken its toll. The survivors of a recent operation have gathered at Rally Point. Meanwhile, new supplies have come in at Seraph's Landing, where the final push against the centaurs is hopefully underway.","Серафы сражаются на нескольких фронтах, и бои взяли своё. Выжившие после недавней операции собрались в Точке сбора. Тем временем в Пристань Серафов прибыли новые припасы, откуда, будем надеяться, идёт последний натиск на кентавров."
+"The Seraph have been battling on multiple fronts, and the fighting has taken its toll. The survivors of a recent operation have gathered at Rally Point. Meanwhile, new supplies have come in at Seraph's Landing, where the final push against the centaurs is hopefully underway.","Серафы сражаются на нескольких фронтах, и бои взяли своё. Выжившие после недавней операции собрались в Rally Point. Тем временем в Пристань Серафов прибыли новые припасы, откуда, будем надеяться, идёт последний натиск на кентавров."
 The Seraph have driven back most of the centaur forces. A moment of calm has settled over the area.,Серафы отбросили большую часть сил кентавров. В округе воцарилось затишье.
 The Seraph hold centaur lands.,Серафы удерживают земли кентавров.
 The Shatterer Achievements Complete: %num1%/%num2%,Достижений «Крушитель» выполнено: %num1%/%num2%

@@ -32,7 +32,7 @@ Follow the fourth player on the blue team.,Следовать за четвёр�
 Follow the fourth player on the red team.,Следовать за четвёртым игроком красной команды.
 Follow the hunters to the location where the giant moa was last spotted.,"Идите за охотниками туда, где в последний раз видели гигантского моа."
 Follow the ritualists to the shrine for the ritual.,Идите за ритуалистами к святилищу для обряда.
-Follow the ritualists to the Temple of the Dredge.,Идите за ритуалистами к Храму Дреджей.
+Follow the ritualists to the Temple of the Dredge.,Идите за ритуалистами к Temple of the Dredge.
 Follow the second player on the blue team.,Следовать за вторым игроком синей команды.
 Follow the second player on the red team.,Следовать за вторым игроком красной команды.
 Follow the third player on the blue team.,Следовать за третьим игроком синей команды.
@@ -119,7 +119,7 @@ For new players looking for guidance and experienced players looking to lend a h
 For Science (Locked),Во имя науки (заблокировано)
 For Science (Unselected),Во имя науки (не выбрано)
 "For the engage skill, holding down the Skill Key will now dismount instead of clicking. Clicking the skill will instead activate the dash but not the dismount.You can also use the newly unlocked Aetherlocation skill to toggle a pulsing sonar that detects nearby threats and hidden underwater treasures while enabled.","Теперь для умения сближения удержание клавиши умения спешивает вас вместо щелчка. Щелчок по умению вместо этого запускает рывок без спешивания.Также можно использовать только что открытое умение «Эфиролокация», чтобы включить пульсирующий сонар, который во включённом состоянии обнаруживает ближайшие угрозы и скрытые подводные сокровища."
-"For the moment, the Devast District is ghost-free, in no small part because you came to the aid of me and my patrols. While no victory over the ghosts is ever permanent, the respite made possible by your efforts will give us time to recover and regroup. You should also know that some of the Ascalonian artifacts we recovered show promise in helping us to understand the nature of the ghosts. Hopefully, this insight will lead to a turn in the tide of battle. —Gavros Spiritfoe","Пока что Район Девастации свободен от призраков — во многом потому, что ты пришёл на помощь мне и моим патрулям. Победа над призраками никогда не бывает окончательной, но передышка, добытая твоими усилиями, даст нам время оправиться и перегруппироваться. Знай ещё вот что: некоторые из добытых нами аскалонских артефактов подают надежду, что мы поймём природу призраков. Будем надеяться, это понимание переломит ход битвы. —Гаврос Духовраг"
+"For the moment, the Devast District is ghost-free, in no small part because you came to the aid of me and my patrols. While no victory over the ghosts is ever permanent, the respite made possible by your efforts will give us time to recover and regroup. You should also know that some of the Ascalonian artifacts we recovered show promise in helping us to understand the nature of the ghosts. Hopefully, this insight will lead to a turn in the tide of battle. —Gavros Spiritfoe","Пока что Devast District свободен от призраков — во многом потому, что ты пришёл на помощь мне и моим патрулям. Победа над призраками никогда не бывает окончательной, но передышка, добытая твоими усилиями, даст нам время оправиться и перегруппироваться. Знай ещё вот что: некоторые из добытых нами аскалонских артефактов подают надежду, что мы поймём природу призраков. Будем надеяться, это понимание переломит ход битвы. —Гаврос Духовраг"
 For the Skyfallen,За Павших с Небес
 For the White Mantle!,За White Mantle!
 "For this tournament, you are currently associated with %str1%.",На этом турнире вы сейчас связаны с %str1%.
@@ -394,7 +394,7 @@ Found among the treasure of Faucett's Bounty in Harathi Hinterlands.,Наход�
 Found among Weyandt's treasure in Lion's Arch.,Находится среди сокровищ Вейандта в Lion's Arch.
 Found and Returned Unja's Lost Necklace,Потерянное ожерелье Уньи найдено и возвращено
 Found and Used the Inquest Spanner,Гаечный ключ Инквеста найден и применён
-Found at a bandit camp above Pricklepatch Hollow.,Находится в бандитском лагере над Колючей Лощиной.
+Found at a bandit camp above Pricklepatch Hollow.,Находится в бандитском лагере над Pricklepatch Hollow.
 "Found atop a waterfall above Highjump Ranch's farm, protected by harpies.","Находится на вершине водопада над фермой Ранчо Высокого Прыжка, под охраной гарпий."
 Found Bandit Chest,Бандитский сундук найден
 Found Belonging[s],[Найденная вещь|Найденных вещи|Найденных вещей]
@@ -406,7 +406,7 @@ Found by interacting with any repair anvil.,Получается при взаи
 Found by looting the Champion Dredge Commissar at Tribulation Rift in Dredgehaunt Cliffs.,Получается с чемпиона-комиссара дреджей у Разлома Испытаний в Dredgehaunt Cliffs.
 Found by looting the Champion Infinity Coil Commander in Mount Maelstrom.,Получается с чемпиона-командира Бесконечной Спирали на Mount Maelstrom.
 Found by looting the chest in Spekk's Laboratory in Caledon Forest.,Получается из сундука в Лаборатории Спекка в Caledon Forest.
-Found by looting the Eye of Zhaitan while helping the Pact capture the Promenade of the Gods in Cursed Shore.,"Получается с Ока Зайтана, когда вы помогаете Пакту захватить Promenade of the Gods на Cursed Shore."
+Found by looting the Eye of Zhaitan while helping the Pact capture the Promenade of the Gods in Cursed Shore.,"Получается с Eye of Zhaitan, когда вы помогаете Пакту захватить Promenade of the Gods на Cursed Shore."
 Found by talking to Marghel Talekeeper at Deathblade's Watch in Fields of Ruin.,Получается в разговоре с Маргелем Сказохранителем в Дозоре Смертоносного Клинка на Fields of Ruin.
 Found Diving Goggles,Очки для ныряния найдены
 Found Drain 1,Сток 1 найден
@@ -426,7 +426,7 @@ Found in adventure reward chests.,Находится в наградных су�
 Found in Airship Cargo in Verdant Brink.,Находится в грузе воздушного корабля в Зелёном Обрыве.
 "Found in an Exalted chest within the trial rooms of Tarir, the Forgotten City of Auric Basin.","Находится в сундуке Возвышенных в залах испытаний Тарира, Забытого Города Auric Basin."
 Found in areas where the Inquest are conducting research.,"Находится там, где Инквест ведёт исследования."
-Found in Asgeir's Legacy among the bones.,Находится в Наследии Асгейра среди костей.
+Found in Asgeir's Legacy among the bones.,Находится в Asgeir's Legacy среди костей.
 Found in Ashford Forum in Plains of Ashford.,Находится на Форуме Эшфорда на Plains of Ashford.
 "Found in bodies of saltwater all across the world.<br>Fishing Hole: Any, Open Water<br>Favored Bait: Any<br>Time of Day: Any","Водится в солёных водоёмах по всему миру.<br>Рыбное место: любое, открытая вода<br>Предпочитаемая наживка: любая<br>Время суток: любое"
 "Found in bodies of water all across the world.<br>Fishing Hole: Any, Open Water<br>Favored Bait: Any<br>Time of Day: Any","Водится в водоёмах по всему миру.<br>Рыбное место: любое, открытая вода<br>Предпочитаемая наживка: любая<br>Время суток: любое"

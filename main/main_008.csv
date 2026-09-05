@@ -77,7 +77,7 @@ This cannot be taken to the tectonic thumper or to any Distant Memory astral pro
 
 Это нельзя отнести к тектоническому трамбовщику или к любой астральной проекции Далёкой памяти."
 "Bring these to Explorer Flynn deep in the western Minan hillsides.
-<c=@Flavor>This item doesn't belong to you...</c><br>Event Item","Принесите это исследователю Флинну глубоко в западных холмах Минан.
+<c=@Flavor>This item doesn't belong to you...</c><br>Event Item","Принесите это Explorer Flynn глубоко в западных холмах Минан.
 <c=@Flavor>Эта вещь не принадлежит вам...</c><br>Предмет события"
 Broken Column,Сломанная колонна
 Buccaneer Brawler,Буканьер-драчун
@@ -740,7 +740,7 @@ If this era truly marks the conclusion of the prophecy we worked to fulfill, the
 
 <c=@abilitytype>Resonance.</c> If Legendary Centaur Stance is equipped, you additionally heal allies around you during channeling, and you take reduced strike and condition damage for a short amount of time after channeling completes.","Направляйте оживляющую энергию, которая исцеляет вас с каждым импульсом. Во время канала вы получаете уменьшенный урон от атак и состояний.
 
-<c=@abilitytype>Резонанс.</c> Если экипирована стойка Легендарного Кентавра, вы также исцеляете союзников вокруг себя во время канала и получаете уменьшенный урон от атак и состояний в течение короткого времени после завершения канала."
+<c=@abilitytype>Резонанс.</c> Если экипирована Legendary Centaur Stance, вы также исцеляете союзников вокруг себя во время канала и получаете уменьшенный урон от атак и состояний в течение короткого времени после завершения канала."
 "Channel the power of the spirits with this package!
 
 Appearance skins override the look of your equipment and have no stats of their own.","Используйте силу духов с этим набором!
@@ -1020,7 +1020,7 @@ Has the dating scene left you more jaded than an Echovald pit mine? Are your con
 Свидания оставили вас циничнее, чем эковальдская шахта? Ваши завязки для беседы разом становятся её же концовками? Тогда вы, друг мой, обратились по адресу! Наше руководство предлагает лаконичный, без лишней воды подход ко всему любовному. С нашей простой шпаргалкой из легко запоминающихся заклинаний вы в два счёта превратитесь из вялой рыбёшки бухты Накси в альфа-дрейка своего брачного пруда!
 
 (Дополнительная приписка исключительно мелким шрифтом гласит: «Попытка и/или успешное произнесение похотливого заклинания над неведающими или иным образом несогласными лицами запрещены Правовым кодексом Кантхи, Законом о чарах 109-21. „Романтические заклинания для романтически бездарных“ и их партнёры не несут ответственности за незаконное использование данного руководства, предназначенного исключительно для развлекательных целей».)"
-"Charm Them with This Handy List of Flirtation Charms!  Has the dating scene left you more jaded than an Echovald pit mine? Are your conversation-starters doubling as conversation-enders? Then you, my friend, have come to the right place! Our how-to guide takes a streamlined, no-nonsense approach to all things amorous. With our simple cheat sheet of easy-to-remember incantations, you can go from limp Naksi Bay fish to the alpha drake of your dating pool in no time!  (An additional note in exceptionally fine print reads: ""Attempting and/or successfully performing a libidinous incantation on unknowing or otherwise nonconsenting parties is prohibited by Canthan Legal Code, Enchantment Law 109-21. 'Romance Spells for the Romantically Inept' and affiliates are not responsible for the unlawful use of this guide, which is intended for entertainment purposes only."")","Очаруйте их с помощью этого удобного списка любовных чар! Устали от свиданий, которые оставляют вас более разочарованным, чем шахта в Эховальде? Ваши способы начать разговор только его заканчивают? Тогда вы, мой друг, пришли по адресу! Наше руководство предлагает простой и без лишних слов подход ко всему любовному. С нашей простой шпаргалкой из легко запоминающихся заклинаний вы сможете превратиться из вялой рыбы из залива Накси в альфа-дракона вашего круга знакомств в мгновение ока! (Дополнительное примечание очень мелким шрифтом гласит: «Попытка и/или успешное применение любовных чар на неосведомлённых или иным образом не согласных сторонах запрещена Кодексом Кантхи, Законом о чародействе 109-21. „Любовные заклинания для романтически некомпетентных“ и аффилированные лица не несут ответственности за незаконное использование этого руководства, которое предназначено только для развлекательных целей».)"
+"Charm Them with This Handy List of Flirtation Charms!  Has the dating scene left you more jaded than an Echovald pit mine? Are your conversation-starters doubling as conversation-enders? Then you, my friend, have come to the right place! Our how-to guide takes a streamlined, no-nonsense approach to all things amorous. With our simple cheat sheet of easy-to-remember incantations, you can go from limp Naksi Bay fish to the alpha drake of your dating pool in no time!  (An additional note in exceptionally fine print reads: ""Attempting and/or successfully performing a libidinous incantation on unknowing or otherwise nonconsenting parties is prohibited by Canthan Legal Code, Enchantment Law 109-21. 'Romance Spells for the Romantically Inept' and affiliates are not responsible for the unlawful use of this guide, which is intended for entertainment purposes only."")","Очаруйте их с помощью этого удобного списка любовных чар! Устали от свиданий, которые оставляют вас более разочарованным, чем шахта в Эховальде? Ваши способы начать разговор только его заканчивают? Тогда вы, мой друг, пришли по адресу! Наше руководство предлагает простой и без лишних слов подход ко всему любовному. С нашей простой шпаргалкой из легко запоминающихся заклинаний вы сможете превратиться из вялой рыбы из Naksi Bay в альфа-дракона вашего круга знакомств в мгновение ока! (Дополнительное примечание очень мелким шрифтом гласит: «Попытка и/или успешное применение любовных чар на неосведомлённых или иным образом не согласных сторонах запрещена Кодексом Кантхи, Законом о чародействе 109-21. „Любовные заклинания для романтически некомпетентных“ и аффилированные лица не несут ответственности за незаконное использование этого руководства, которое предназначено только для развлекательных целей».)"
 Charr Farmer,Чарр-фермер
 Charr Soldier,Солдат-чарр
 "Chests require fewer key charges to open.
@@ -1455,7 +1455,7 @@ If you wanna take a peek at it, I'm out at the Forward Camp in Legion's Alcove. 
 
 Это всего лишь небольшое изобретение, над которым я работал между битвами. Я называю его... медибазукой. Видите ли, это базука, но когда стреляешь в кого-то, это лечит! Отсюда и «меди». Но давайте не будем зацикливаться на лингвистике. Это новое дополнение к перевалочной станции, и, если позволите, отличное.
 
-Если хотите взглянуть на него, я на Передовом лагере в Лощине Легиона. Заходите в любое время.
+Если хотите взглянуть на него, я на Forward Camp в Лощине Легиона. Заходите в любое время.
 
 — Клык-Солома"
 "Commander,
@@ -2191,7 +2191,7 @@ Make haste.
 
 Фарра Бэлсикер, наш ведущий архивариус по титанам, пропала. Фарра — надёжный человек, так что её исчезновение совершенно не в её характере. В последний раз я видел её, когда она просматривала какие-то материалы здесь, в библиотеке. Ничего необычного.
 
-Мне сказали, что вы, Малис и Кейт исследуете местонахождение титанов. Вам троим стоит самим осмотреть кабинет Фарры. Когда прибудете, я попрошу Архивариуса Сестину проводить вас к исследовательской станции Фарры. Учитывая исключительные обстоятельства, вам троим будет предоставлен доступ в Приорат независимо от членства.
+Мне сказали, что вы, Малис и Кейт исследуете местонахождение титанов. Вам троим стоит самим осмотреть кабинет Фарры. Когда прибудете, я попрошу Archivist Sestina проводить вас к исследовательской станции Фарры. Учитывая исключительные обстоятельства, вам троим будет предоставлен доступ в Приорат независимо от членства.
 
 Поспешите.
 —Управитель Гикс"
@@ -2266,7 +2266,7 @@ I know you have been spearheading Tyria's efforts to counter the ongoing Elder D
 
 Я знаю, вы возглавляете усилия Тирии по противодействию атакам Старших драконов. Мы опасаемся, что Эбонхаук может стать следующей целью.
 
-— Капитан Таддеус Сорен"
+— Captain Thaddeus Soren"
 "Commander, I've made a breakthrough in my research, and I request your participation! Before my arrival in Bjora Marches, I focused my studies on the norn Spirits of the Wild and the essence they imbued Asgeir Dragonrender and other notable followers with in order to defeat minions of Jormag.
 
 Being here, where Jormag's minions are especially concentrated, has made me realize the need to manipulate that spirit essence for our own use. The Vigil's survival depends on us wiping out the Sons of Svanir, the Aberrant creatures, and the Fallen army. Using my previous research, I developed a system that harnesses malicious spirit essence from Jormag's minions and converts it into virtuous essence to defeat them. In short, my essence manipulation system uses the minions' own power against them!
@@ -2777,9 +2777,9 @@ Each mini can be activated from your inventory to follow you around the world.",
 
 Each mini can be activated from your inventory to follow you around the world.
 Combine these three minis in the Mystic Forge with either 25 Ugly Wool Sweaters, 50 Ugly Wool Hats, or 100 Ugly Wool Socks to create a Mini Dolyak Calf.","Содержит по 1 из этих миниатюр:
-• Мини-оленёнок
-• Мини-щенок
-• Мини-детёныш песца
+• Mini Fawn
+• Mini Puppy
+• Mini Arctic Fox Kit
 
 Каждую миниатюру можно активировать из инвентаря, чтобы она следовала за вами по миру.
 Соедините эти три миниатюры в Mystic Forge с 25 уродливыми шерстяными свитерами, 50 уродливыми шерстяными шапками или 100 уродливыми шерстяными носками, чтобы создать мини-дольякёнка."
@@ -2971,7 +2971,7 @@ Cows needed: 4,Требуется коров: 4
 Recipe obtained from Cymbel.","Создайте Artificial Tiger Milk и поместите его в логово.
 Рецепт получен от Симбел."
 "Craft Basic Tiger Food and deposit it at your den.
-Recipe obtained from Cymbel.","Создайте базовый корм для тигра и поместите его в логово.
+Recipe obtained from Cymbel.","Создайте базовый Tiger Food и поместите его в логово.
 Рецепт получен от Симбел."
 "Craft Infused Tiger Food and deposit it at your den.
 Recipe obtained from Cymbel.","Создайте усиленный корм для тигра и поместите его в логово.
@@ -3676,7 +3676,7 @@ Thank you for your continued assistance, my friend.
 —Seraph Watchman Morina","Дорогой %str1%, <br><br>Пока вы отвлекали бандитов Скотты, мы смогли доставить припасы через линию — достаточно, чтобы предложить вам небольшую награду за ваши усилия. Продолжая путь в дикую местность, я прошу лишь подумать о помощи не только Серафимам, но и любым доблестным участникам Wyld Hunt или чаррам. Я верю, что только работая вместе, мы одержим победу над нашими общими врагами.<br><br>
 —Серафим Стражник Морина"
 "Dear %str1%, <br>Thanks to you for helping my brothers and sisters. Your efforts will allow our village to continue to grow and prosper, and remain at peace. You are a friend to all ogres of Degun Shun.
-— Shelp","Дорогой %str1%, <br>Спасибо тебе за помощь моим братьям и сёстрам. Твои усилия позволят нашей деревне продолжать расти и процветать, и оставаться в мире. Ты друг всем ограм Дегун Шунь.
+— Shelp","Дорогой %str1%, <br>Спасибо тебе за помощь моим братьям и сёстрам. Твои усилия позволят нашей деревне продолжать расти и процветать, и оставаться в мире. Ты друг всем ограм Degun Shun.
 — Шелп"
 "Dear %str1%, We've returned to our camp at Thunder Ridge after unveiling the towering monstrosity at the heart of Viathan Lake. This malignant and unapproachable tower is polluting the region with hallucinatory poisons, and Marjory is hard at work to find a counteragent. If you are able to collect any samples of the toxic spores, please bring them to Marjory.I suspect you're already a part of this, as you aren't the type to stand idly by while others suffer. Provided you aren't too busy foiling enemy raids on resources or pruning the offshoots of their tower that are sprouting up across Tyria, Priory Arcanist Dolja here in our camp could use your help investigating a possible krait motive for allying with the Nightmare Court.Thank you for your continued assistance, my friend.—Lady Kasmeer Meade","Дорогой %str1%, Мы вернулись в наш лагерь на Громовом хребте после того, как обнаружили огромное чудовище в центре Viathan Lake. Эта мрачная и неприступная башня отравляет регион галлюциногенными ядами, и Марджори усердно работает над поиском противоядия. Если вы сможете собрать образцы токсичных спор, пожалуйста, принесите их Марджори.Я подозреваю, что вы уже участвуете в этом, так как вы не из тех, кто стоит в стороне, пока другие страдают. Если вы не слишком заняты срывом вражеских рейдов на ресурсы или обрезкой отростков их башни, которые прорастают по всей Тирии, то приорский арканист Долья в нашем лагере мог бы воспользоваться вашей помощью в расследовании возможных мотивов крайтов для союза с Nightmare Court.Спасибо за вашу постоянную помощь, мой друг.—Lady Kasmeer Meade"
 "Dear AUTO_REGISTERED_01,
@@ -3890,7 +3890,7 @@ As a supporter or participant in the events at Vehtendi Arena—Elona's most spe
 
 —MC Turgut","Дорогой фанат,
 
-Как сторонник или участник мероприятий на Арене Вехтенди — самом зрелищном спортивном сооружении Элоны — примите это сообщение как признание вашего вклада в игры. Хвала Джоко!
+Как сторонник или участник мероприятий на Vehtendi Arena — самом зрелищном спортивном сооружении Элоны — примите это сообщение как признание вашего вклада в игры. Хвала Джоко!
 
 —МС Тургут"
 "Dearest fellow coin enthusiasts, 
@@ -4381,10 +4381,10 @@ Contains materials gathered by the Harathi centaurs.","Дважды щёлкни
 • Riding Gloves
 • Riding Boots","Дважды щёлкните, чтобы открыть. Содержит
 • ездовую метлу
-• шлем авиатора
-• штаны для верховой езды
-• перчатки для верховой езды
-• сапоги для верховой езды"
+• Aviator Cap
+• Riding Pants
+• Riding Gloves
+• Riding Boots"
 "Down here, between the Brand and the empty fortress, life hasn't been easy. But we're making it through one day at a time, thanks to you.
 —Village Head Azi","Здесь, между Скверной и пустой крепостью, жизнь была нелегкой. Но мы справляемся день за днем, благодаря тебе.
 —Староста Ази"
@@ -4439,7 +4439,7 @@ Dredge Disguise,Dredge Disguise
 Dredge Gate,Dredge Gate
 Dredge Jailer,Dredge Jailer
 Dredge Prison Door,Dredge Prison Door
-Dredge are stealing mining equipment from Bloodcliff Quarry.,Дредж крадут горное оборудование из карьера Кровавого Утёса.
+Dredge are stealing mining equipment from Bloodcliff Quarry.,Дредж крадут горное оборудование из Bloodcliff Quarry.
 Dredge have invaded Bloodcliff Quarry.,Дредж вторглись в карьер «Кровавый Утес».
 Dredge morale: %num1%%%,Мораль дредж: %num1%%%
 Dredge tunnels,Туннели дредж

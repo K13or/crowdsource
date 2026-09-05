@@ -11,7 +11,7 @@ Time jumps to avoid the chilling pulses.,"Рассчитывайте прыжк�
 Time left to close tentacle rifts: %str1%,Осталось времени на закрытие разломов со щупальцами: %str1%
 Time left to defeat Nourys: %str1%,Осталось времени на победу над Нурисом: %str1%
 Time left to disable the Inquest excavators: %str1%,Осталось времени на отключение экскаваторов Инквеста: %str1%
-Time left to turn in magic before Corporal Vikar departs: %str1%,Осталось времени сдать магию до ухода капрала Викара: %str1%
+Time left to turn in magic before Corporal Vikar departs: %str1%,Осталось времени сдать магию до ухода Corporal Vikar: %str1%
 Time remaining to confront Ulgoth: %str1%,"Осталось времени, чтобы сойтись с Улготом: %str1%"
 Time remaining to draw out the Shadow Behemoth: %str1%,"Осталось времени, чтобы выманить Shadow Behemoth: %str1%"
 Time remaining to lure out the Claw: %str1%,"Осталось времени, чтобы выманить Коготь: %str1%"
@@ -287,7 +287,7 @@ Trint,Тринт
 Trokk,Трокк
 Troll Brute,Тролль-громила
 Troll Regeneration,Регенерация тролля
-Troop movement across the Valley of Lyss requires no assistance at present. Further updates will occur as new troops clear the Eastern Colonade.,"Переброска войск через Долину Лисс в помощи сейчас не нуждается. Новые сводки поступят, когда свежие войска пройдут Восточную колоннаду."
+Troop movement across the Valley of Lyss requires no assistance at present. Further updates will occur as new troops clear the Eastern Colonade.,"Переброска войск через Valley of Lyss в помощи сейчас не нуждается. Новые сводки поступят, когда свежие войска пройдут Восточную колоннаду."
 Tropical Peppermint Cake[s],[Тропическое мятное пирожное|Тропических мятных пирожных|Тропических мятных пирожных]
 True words. Have a good day.,Верно сказано. Хорошего дня.
 "True, but Bjarni swears he saw one. His mind may be addled, but he's never lied to me. Maybe it's the same yeti. Maybe it's hunting all of us. We have to find out.","Верно, но Бьярни клянётся, что видел его. Пусть рассудок у него и мутится, но мне он никогда не лгал. Может, это тот самый йети. Может, он охотится на всех нас. Мы должны выяснить."
@@ -405,7 +405,7 @@ Unleashed %num1%/%num2% Eternal Embers with Destructive Force,Высвобожд
 Unleashed Rage,Высвобожденная ярость
 Unload on your target with both pistols.,Разряжает в цель оба пистолета.
 Unlock %num1%/3 outposts around Tarir.,Откройте %num1%/3 аванпоста вокруг Тарира.
-Unlock %num2% Antique Canthan Armor Skins by purchasing them from the Keeper of the Jade Vault in the Royal Court.,"Разблокируйте %num2% обликов антикварной кантанской брони, купив их у хранителя Нефритового хранилища при Королевском дворе."
+Unlock %num2% Antique Canthan Armor Skins by purchasing them from the Keeper of the Jade Vault in the Royal Court.,"Разблокируйте %num2% обликов антикварной кантанской брони, купив их у хранителя Нефритового хранилища при Royal Court."
 Unlock %num2% Azure Dragon Slayer weapon skins in your wardrobe.,Разблокируйте %num2% обликов лазурного оружия убийцы драконов в своём гардеробе.
 Unlock %num2% Bounty Hunter's skins in your wardrobe by crafting or using the Trading Post. Recipes can be found by completing bounties or purchased from Elisa the Traveling Researcher in the Crystal Desert.,"Разблокируйте %num2% обликов охотника за головами в своём гардеробе, изготовив их или купив на Trading Post. Рецепты можно получить, выполняя заказы на головы, или купить у странствующей исследовательницы Элизы в Crystal Desert."
 Unlock %num2% Crimson Dragon Slayer weapon skins in your wardrobe.,Разблокируйте %num2% обликов багрового оружия убийцы драконов в своём гардеробе.
@@ -434,7 +434,7 @@ Unlock all %num2% Chromatic Resin weapon skins by completing events in Castora o
 Unlock all %num2% Collapsing Star weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия «Схлопывающаяся звезда» в своём гардеробе.
 Unlock all %num2% Daydreamer's weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия «Мечтатель» в своём гардеробе.
 Unlock all %num2% Destroyer weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия разрушителей в своём гардеробе.
-Unlock all %num2% Dominion Tribune Weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия трибуна Доминиона в своём гардеробе.
+Unlock all %num2% Dominion Tribune Weapon skins in your wardrobe.,Разблокируйте все %num2% обликов оружия Dominion Tribune в своём гардеробе.
 Unlock all %num2% Eagle Eye weapon skins by completing events and looting chests in Skywatch Archipelago or purchasing them from the trading post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Eagle Eye», завершая события и собирая сундуки в Skywatch Archipelago либо купив их на Trading Post и привязав к себе."
 Unlock all %num2% Extremis armor skins.,Разблокируйте все %num2% обликов брони «Экстремис».
 Unlock all %num2% Fast Constructor's weapon skins by completing Shipwreck Strand content or by purchasing them from the Trading Post and binding them to you.,"Разблокируйте все %num2% обликов оружия «Скорый строитель», проходя содержимое Shipwreck Strand либо купив их на Trading Post и привязав к себе."
@@ -492,7 +492,7 @@ Unlock by using Corrupted Intel Documents.,Открывается с помощ�
 Unlock by using Dominion Intel Documents.,Открывается с помощью разведдокументов Доминиона.
 Unlock by using Flame Legion Special Mission Documents.,Открывается с помощью документов особых заданий Flame Legion.
 Unlock by using Iron Legion Special Mission Documents.,Открывается с помощью документов особых заданий Iron Legion.
-"Unlock the Mastery ability Revered Antiquarian in the Legendary Crafting Mastery line, and speak to Grandmaster Craftsman Hobbs in Lion's Arch.",Откройте способность мастерства «Revered Antiquarian» в линии мастерства легендарного ремесла и поговорите с великим мастером Хоббсом в Lion's Arch.
+"Unlock the Mastery ability Revered Antiquarian in the Legendary Crafting Mastery line, and speak to Grandmaster Craftsman Hobbs in Lion's Arch.",Откройте способность мастерства «Revered Antiquarian» в линии мастерства Legendary Crafting и поговорите с великим мастером Хоббсом в Lion's Arch.
 Unlock these %num2% crafted ascended armor skins in your wardrobe.,Разблокируйте эти %num2% обликов изготовленной вознесённой брони в своём гардеробе.
 Unlock these %num2% crafted exotic armor skins in your wardrobe.,Разблокируйте эти %num2% обликов изготовленной экзотической брони в своём гардеробе.
 Unlock these %num2% exotic weapon skins from champion bags in your wardrobe.,Разблокируйте эти %num2% обликов экзотического оружия из сумок чемпионов в своём гардеробе.
