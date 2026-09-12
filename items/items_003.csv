@@ -685,7 +685,7 @@ This item only has value as part of a collection.","<c=@flavor>«Использ�
 "<c=@flavor>""We have all the jewlery from this site we can handle. That is a beautiful artifact though.""
 —Magister Razermane</c>","<c=@flavor>«У нас уже столько драгоценностей с этого места, сколько мы можем осилить. Хотя артефакт красивый».
 —Магистр Рейзермейн</c>"
-"<c=@flavor>""We heard fighting over the ridge, but Ryland ordered us to hold the pass. If we chased the fight, we would have been surrounded.""</c>","<c=@flavor>«Мы слышали бой за хребтом, но Райленд приказал держать перевал. Погнались бы за схваткой — нас бы окружили».</c>"
+"<c=@flavor>""We heard fighting over the ridge, but Ryland ordered us to hold the pass. If we chased the fight, we would have been surrounded.""</c>","<c=@flavor>«Мы слышали бой за хребтом, но Ryland приказал держать перевал. Погнались бы за схваткой — нас бы окружили».</c>"
 "<c=@flavor>""We hold our war paint in this jar. When the battle is over, we give it to the hero. In this case, that would be you.""
 —Atzintli</c>","<c=@flavor>«В этом кувшине мы держим боевую раскраску. Когда битва окончена, мы отдаём её герою. В данном случае — тебе».
 —Ацинтли</c>"
@@ -1138,8 +1138,8 @@ Found in Lion's Arch.","<c=@flavor>Запретный город. Запретн
 <c=@flavor>A precious jewel found in the depths of the ocean.</c>,"<c=@flavor>Драгоценный камень, найденный в глубинах океана.</c>"
 <c=@flavor>A prized possession of guilds in ancient times.</c>,<c=@flavor>Ценное достояние гильдий древних времён.</c>
 "<c=@flavor>A prophecy is fulfilled, and new legends mark a beginning.</c>","<c=@flavor>Пророчество сбылось, и новые легенды знаменуют начало.</c>"
-<c=@flavor>A rare and beautiful shell from far-off Istan.</c>,<c=@flavor>Редкая и красивая раковина с далёкого Истана.</c>
-<c=@flavor>A rare copy of Zinn's research into the power of souls.</c>,<c=@flavor>Редкая копия исследований Зинна о силе душ.</c>
+<c=@flavor>A rare and beautiful shell from far-off Istan.</c>,<c=@flavor>Редкая и красивая раковина с далёкого Istan.</c>
+<c=@flavor>A rare copy of Zinn's research into the power of souls.</c>,<c=@flavor>Редкая копия исследований Zinn о силе душ.</c>
 <c=@flavor>A Rata Sum award for extraordinary genius.</c>,<c=@flavor>Награда Рата-Сума за выдающуюся гениальность.</c>
 <c=@flavor>A remnant of the presumed-extinct gargoyles.</c>,"<c=@flavor>Останки горгулий, считающихся вымершими.</c>"
 <c=@flavor>A replica of the Thackeray family ring.</c>,<c=@flavor>Копия фамильного кольца Такереев.</c>
