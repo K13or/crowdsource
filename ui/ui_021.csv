@@ -243,7 +243,7 @@ english,translate
 "<c=@flavor>""This is a symbol of strength around here.""<br>—Rak Deathmane</c>",<c=@flavor>«Это символ силы в этих краях».<br>—Рак Смертегрив</c>
 "<c=@flavor>""This is an Opticalium-approved energy-focusing device.""<br>—Opticalium Researcher Oisha</c>",<c=@flavor>«Это одобренное Оптикалием устройство фокусировки энергии».<br>—Исследователь оптикалия Ойша</c>
 "<c=@flavor>""This is but a tool of a greater machine.""<br>—Guardian Infinite Mind</c>",<c=@flavor>«Это всего лишь инструмент большей машины».<br>—Страж Бесконечный Разум</c>
-"<c=@flavor>""This is it. Every step you take past here is straight into Zhaitan.""<br>—Lightbringer Ives</c>",<c=@flavor>«Вот и всё. Каждый шаг отсюда — прямиком в Зайтана».<br>—Светоносец Айвз</c>
+"<c=@flavor>""This is it. Every step you take past here is straight into Zhaitan.""<br>—Lightbringer Ives</c>",<c=@flavor>«Вот и всё. Каждый шаг отсюда — прямиком в Zhaitan».<br>—Светоносец Айвз</c>
 "<c=@flavor>""This is my own special hook design that I carve out of dried driftwood.""<br>—Fisherman Will</c>","<c=@flavor>«Это мой собственный особый дизайн крюка, который я вырезаю из сухого плавника».<br>—Рыбак Уилл</c>"
 "<c=@flavor>""This is the prettiest one I have ever found.""<br>—Harvester Mavad</c>","<c=@flavor>«Это самое красивое, что я когда-либо находил».<br>—Собиратель Мавад</c>"
 "<c=@flavor>""This is the smallest trident I've ever seen.""<br>—Hua'racche</c>","<c=@flavor>«Это самый маленький трезубец, что я когда-либо видела».<br>—Хуарраче</c>"
@@ -408,7 +408,7 @@ english,translate
 "<c=@flavor>""Your lucky day! I usually keep things this shiny.""<br>—Mrr'kkant</c>",<c=@flavor>«Твой счастливый день! Обычно я держу вещи именно такими блестящими».<br>—Мрр'ккант</c>
 "<c=@flavor>""Your standard dagger. Why don't you let me sharpen that up for ya?""<br>—Waldo</c>",<c=@flavor>«Твой обычный кинжал. Почему бы не дать мне его для тебя наточить?»<br>—Уолдо</c>
 "<c=@flavor>""Your strength and bravery are inspirations to us all.""<br>—Warden Llew</c>",<c=@flavor>«Твоя сила и храбрость вдохновляют нас всех».<br>—Страж Ллью</c>
-"<c=@flavor>""Zhaitan may be big, but every little cut adds up.""<br>—Warmaster Chan</c>","<c=@flavor>«Зайтан может быть велик, но каждый маленький порез складывается в итог».<br>—Военачальник Чан</c>"
+"<c=@flavor>""Zhaitan may be big, but every little cut adds up.""<br>—Warmaster Chan</c>","<c=@flavor>«Zhaitan может быть велик, но каждый маленький порез складывается в итог».<br>—Военачальник Чан</c>"
 "<c=@flavor>After all the adventurers, I feel like this is my favorite place to visit. It is relaxing and cheery, even if it does have bandits, wolves, centaurs, and mean skritt.</c>","<c=@flavor>После всех приключений это, кажется, моё любимое место для посещения. Оно расслабляющее и радостное, даже если там водятся бандиты, волки, кентавры и злобные скритты.</c>"
 "<c=@flavor>Attire worn by Countess Anise, Master Exemplar of the Shining Blade.</c>","<c=@flavor>Наряд, который носит графиня Энис, Мастер-Образец Сияющего Клинка.</c>"
 "<c=@flavor>Created to honor Gwen Thackeray, commander of the Ebon Vanguard and founder of Ebonhawke.</c>","<c=@flavor>Создано в честь Гвен Такери, командующей Чёрным Авангардом и основательницы Эбонхока.</c>"

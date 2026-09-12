@@ -62,8 +62,8 @@ All Branded must die!,Все клеймёные должны умереть!
 All hail the great God Tower!,Слава великой Башне-Богу!
 All of you stop—please! Can't you see what you're doing to this place?,"Прекратите все — прошу! Вы не видите, что вы делаете с этим местом?"
 All right! I'm done trying to save him.,Ну всё! Хватит с меня попыток его спасти.
-"All right, you got me. I was tasked with keeping an eye on you for the ward, so I maintained this persona in order to do so. Isgarren himself put a protective spell on me to resist Joko's pull.","Ладно, вы меня раскусили. Мне поручили приглядывать за вами от имени стражи, вот я и держался этой личины. Сам Исгаррен наложил на меня защитное заклинание, чтобы я устоял перед зовом Джоко."
-"All this bloodstone dust, courtesy of Balthazar's ex-flunkies. The boss was clever to ditch those overblown humans.","Вся эта пыль кровавого камня — подарок бывших прихвостней Бальтазара. Начальник умно сделал, что сбросил этих раздутых людишек."
+"All right, you got me. I was tasked with keeping an eye on you for the ward, so I maintained this persona in order to do so. Isgarren himself put a protective spell on me to resist Joko's pull.","Ладно, вы меня раскусили. Мне поручили приглядывать за вами от имени стражи, вот я и держался этой личины. Сам Исгаррен наложил на меня защитное заклинание, чтобы я устоял перед зовом Joko."
+"All this bloodstone dust, courtesy of Balthazar's ex-flunkies. The boss was clever to ditch those overblown humans.","Вся эта пыль кровавого камня — подарок бывших прихвостней Balthazar. Начальник умно сделал, что сбросил этих раздутых людишек."
 "All who fought here, Elonians and Pact together, showed courage and strength beyond belief.","Все, кто здесь сражался, — элонцы и Пакт вместе — показали немыслимую отвагу и силу."
 All you love will suffer in the jaws of our master for this.,"За это всё, что тебе дорого, будет страдать в пасти нашего господина."
 Allies have begun their descent into the Temple of Abnegation and are working on a spell to counter its curse.,Союзники начали спуск в Temple of Abnegation и работают над заклинанием против его проклятия.
@@ -109,7 +109,7 @@ Ashkala,Ашкала
 Assail the enemy!,Обрушьтесь на врага!
 Assault begins in: %str1%,Штурм начнётся через: %str1%
 Assistance is requested at Hope Falls. Troop movement is currently hindered.,Требуется помощь у Hope Falls. Движение войск затруднено.
-"Astute observation. Indeed, I once served the Priory. When Mordremoth destroyed the Pact, the organizations were also thrown into disarray. Kaidenna and I eventually made our way here.","Наблюдательно. Да, когда-то я служил Приорату. Когда Мордремот разбил Пакт, ордена тоже пришли в смятение. Мы с Кайденной со временем добрались сюда."
+"Astute observation. Indeed, I once served the Priory. When Mordremoth destroyed the Pact, the organizations were also thrown into disarray. Kaidenna and I eventually made our way here.","Наблюдательно. Да, когда-то я служил Приорату. Когда Mordremoth разбил Пакт, ордена тоже пришли в смятение. Мы с Кайденной со временем добрались сюда."
 Asura Console,Асурский пульт
 "At this point, I'm going to assume everyone knew about this except me.","На этом этапе буду считать, что об этом знали все, кроме меня."
 "Atop our fallen enemies, Bava Nisos stands...",На павших врагах стоит Bava Nisos...
@@ -129,7 +129,7 @@ Axe Murder,Убийство топором
 B2D-B00P,B2D-B00P
 Baedal Hill (Off-line),Холм Бэдал (не в сети)
 Baedal Hill: Yong Reactor Entrance (Off-line),Холм Бэдал: вход к реактору Ён (не в сети)
-"Balthazar's forces slaughtered the Awakened here, but some still survive.","Силы Бальтазара перебили здесь Пробуждённых, но некоторые уцелели."
+"Balthazar's forces slaughtered the Awakened here, but some still survive.","Силы Balthazar перебили здесь Пробуждённых, но некоторые уцелели."
 Bandit Supply Camp,Bandit Supply Camp
 Bandit turrets,Разбойничьи турели
 "Bandits are invading our scratch, trying to force my peoples out. Stop the nasties!","Разбойники лезут в нашу царапку, хотят выгнать мой народ. Остановите этих гадов!"
@@ -146,7 +146,7 @@ Big. Biggest thing I ever saw. Down by the lake. Ate my boat. Ate my net. You go
 Bind and hold!,Связать и держать!
 "Bink sent word of your assistance in vanquishing those four-legged beasts. See, I noted it here in my book, ""%str1% is not completely useless.""","Бинк передал, что вы помогли извести этих четвероногих тварей. Вот, я даже записал у себя в книжке: «%str1% не совсем бесполезен»."
 Blade Storm,Буря клинков
-Blessed by Joko to withstand the effects of the Plague of Joko.,"Благословлён Джоко, чтобы выдержать действие Чумы Джоко."
+Blessed by Joko to withstand the effects of the Plague of Joko.,"Благословлён Joko, чтобы выдержать действие Чумы Joko."
 "Blessings upon you. Queen Jennah will hear about what you've done for us. She sent us here on an important mission, to seek any sign of White Mantle.","Благословение вам. Queen Jennah узнает, что вы для нас сделали. Она послала нас сюда с важным делом — искать любые следы White Mantle."
 Blocks • Cripples • Poisons,Блокирует • Калечит • Отравляет
 Blood and Iron Legions? More like cowards and idiots. None of them have a brains or skill to be in Ash Legion.,"Кровавый и Железный легионы? Скорее трусы и болваны. Ни у кого из них нет ни мозгов, ни умения для Ash Legion."
@@ -246,7 +246,7 @@ Dangerous Roll • Throws Choya,Опасный перекат • Швыряет
 Dark spots are barely visible on this bloodstained fur.,На этой окровавленной шкуре едва различимы тёмные пятна.
 Data collection complete in: %str1%,Сбор данных завершится через: %str1%
 Day 2. Cami of Krewe Taimi. I left the main camp today to undertake our first scouting mission. I wanted to get a look around before we sent out our best researchers.,"День 2. Кэми из артели Тайми. Сегодня я вышла из главного лагеря на первую разведку. Хотелось осмотреться, прежде чем высылать лучших исследователей."
-"Dear Lyssa, I heard about what happened to Balthazar. To see a god with my own two eyes... How exciting.","Дорогая Лисса, я слышал, что случилось с Бальтазаром. Увидеть бога своими глазами... Как волнительно."
+"Dear Lyssa, I heard about what happened to Balthazar. To see a god with my own two eyes... How exciting.","Дорогая Лисса, я слышал, что случилось с Balthazar. Увидеть бога своими глазами... Как волнительно."
 Death to the faithless!,Смерть неверным!
 Decreases incoming damage; stacks intensity.,Снижает входящий урон; накапливает силу.
 Defeat Boom-Boom Baines.,Победите Бум-Бум Бейнс.
@@ -422,7 +422,7 @@ Has our great lord forsaken us? What did we do wrong?,Неужели наш ве
 Haul your assets out of here!,Уноси отсюда своё добро!
 Have I seen you before?,Я вас раньше видел?
 Have you found any?,Вы нашли хоть сколько-нибудь?
-"Have you spoken with Caithe? I heard she's looking for Scarlet too—something about ""shutting Scarlet's mouth.""","Вы говорили с Кейт? Слышал, она тоже ищет Скарлет — что-то насчёт того, чтобы «закрыть Скарлет рот»."
+"Have you spoken with Caithe? I heard she's looking for Scarlet too—something about ""shutting Scarlet's mouth.""","Вы говорили с Кейт? Слышал, она тоже ищет Scarlet — что-то насчёт того, чтобы «закрыть Scarlet рот»."
 He recommended against this?,Он это отсоветовал?
 "He's circled you this whole time. Watching. Waiting. As soon as his task is complete, you'll be next.","Всё это время он кружил вокруг тебя. Смотрел. Ждал. Как только его дело будет сделано, ты следующий."
 He's not worth my effort.,Он не стоит моих усилий.
@@ -446,7 +446,7 @@ Help! The judge is setting everything on fire!,Помогите! Судья по
 Helped Narcisse Water Her Plants,Нарцисс помогли полить растения
 Hemolith Infusion,Инфузия гемолита
 Here lies Lord Archek Brauer<br>Blessed by Lyssa in life<br>Found peace with Grenth in death.,Здесь покоится лорд Арчек Брауэр<br>Благословлён Лиссой при жизни<br>Обрёл покой у Гренса в смерти.
-"Here's the plan: Tag the monument for Rolic, Joko gifts us his blessing for the tournament, Ingene and Ventura lose. Done deal!","План такой: помечаем монумент за Ролик, Джоко дарует нам благословение на турнир, Ингене и Вентура проигрывают. Дело в шляпе!"
+"Here's the plan: Tag the monument for Rolic, Joko gifts us his blessing for the tournament, Ingene and Ventura lose. Done deal!","План такой: помечаем монумент за Ролик, Joko дарует нам благословение на турнир, Ингене и Вентура проигрывают. Дело в шляпе!"
 "Here, Commander. Sorry... Tinkering with some personal projects.","Вот, командир. Простите... Ковыряюсь тут со своими задумками."
 Hey there! You! You look strong and...helpful.,Эй! Вы! Вы выглядите сильным и...полезным.
 "Hey! Looks like someone already did the hard part. Sure appreciate it, pal.","Эй! Похоже, кто-то уже сделал самое трудное. Признателен, приятель."

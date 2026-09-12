@@ -84,8 +84,8 @@ Don't get hit by any shipping crates thrown by the haywire loading mech.,"Не �
 Don't get hit by projectiles from Static Discharge.,Не попадите под снаряды от Статического разряда.
 Don't get hit by the electric floors in the security room.,Не попадите под электрические полы в комнате охраны.
 Don't get hit by your enemy's timed blasts.,Не попадите под таймерные взрывы врага.
-Don't get killed by Balthazar's Ultimate Attack.,Не дайте себя убить ультимативной атакой Бальтазара.
-Don't let Aurene's shield drop below 50%% health.,Не позволяйте здоровью щита Аурин упасть ниже 50%%.
+Don't get killed by Balthazar's Ultimate Attack.,Не дайте себя убить ультимативной атакой Balthazar.
+Don't let Aurene's shield drop below 50%% health.,Не позволяйте здоровью щита Aurene упасть ниже 50%%.
 Don't let a windbag blow you off course.,Не дайте ветродую сбить вас с курса.
 Don't let any allies in Concordia perish in the initial attack.,Не дайте союзникам в Concordia погибнуть во время первой атаки.
 Don't let any members of the stranded Seraph squad die.,"Не дайте погибнуть ни одному члену отряда Серафимов, попавшему в беду."
@@ -259,13 +259,13 @@ Duress,Duress
 "During the Defense of Amnytas meta-event in Amnytas, defeat Nourys, the Eyes of the Abyss.","Во время мета-события «Defense of Amnytas» в Amnytas победите Nourys, the Eyes of the Abyss."
 "During the Dragon Response Mission, aid each recruited faction at least once while a challenge is active.","Во время миссии реагирования на драконов помогите каждой завербованной фракции хотя бы раз, пока активен вызов."
 "During the Dragon's Stand meta-event, defeat the Mouth of Mordremoth.",Во время мета-события «Dragon's Stand» победите Mouth of Mordremoth.
-"During the Dragonstorm encounter, attack Jormag %num2% time[s] while they are exposed.","В столкновении «Драконья Буря» атакуйте Йормага %num2% [раз|раза|раз], пока он уязвлён."
-"During the Dragonstorm encounter, attack Primordus %num2% time[s] while he is exposed.","В столкновении «Драконья Буря» атакуйте Примордуса %num2% [раз|раза|раз], пока он уязвлён."
+"During the Dragonstorm encounter, attack Jormag %num2% time[s] while they are exposed.","В столкновении «Драконья Буря» атакуйте Jormag %num2% [раз|раза|раз], пока он уязвлён."
+"During the Dragonstorm encounter, attack Primordus %num2% time[s] while he is exposed.","В столкновении «Драконья Буря» атакуйте Primordus %num2% [раз|раза|раз], пока он уязвлён."
 "During the Dragonstorm encounter, defeat both dragon champions at least once.",В столкновении «Драконья Буря» победите обоих чемпионов драконов хотя бы один раз.
-"During the Dragonstorm encounter, dodge Primordus's Apocalypse Rain attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки Примордуса «Дождь апокалипсиса» %num2% [раз|раза|раз].
-"During the Dragonstorm encounter, dodge the Breath of Jormag attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки «Дыхание Йормага» %num2% [раз|раза|раз].
-"During the Dragonstorm encounter, prevent Jormag's champion from using his elite skill %num2% time[s].",В столкновении «Драконья Буря» не дайте чемпиону Йормага применить элитное умение %num2% [раз|раза|раз].
-"During the Dragonstorm encounter, prevent Primordus's champion from using his elite skill %num2% time[s].",В столкновении «Драконья Буря» не дайте чемпиону Примордуса применить элитное умение %num2% [раз|раза|раз].
+"During the Dragonstorm encounter, dodge Primordus's Apocalypse Rain attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки Primordus «Дождь апокалипсиса» %num2% [раз|раза|раз].
+"During the Dragonstorm encounter, dodge the Breath of Jormag attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки «Дыхание Jormag» %num2% [раз|раза|раз].
+"During the Dragonstorm encounter, prevent Jormag's champion from using his elite skill %num2% time[s].",В столкновении «Драконья Буря» не дайте чемпиону Jormag применить элитное умение %num2% [раз|раза|раз].
+"During the Dragonstorm encounter, prevent Primordus's champion from using his elite skill %num2% time[s].",В столкновении «Драконья Буря» не дайте чемпиону Primordus применить элитное умение %num2% [раз|раза|раз].
 "During the Fangs That Gnash meta-event in Inner Nayos, defeat Knaebelag the Terror.","Во время мета-события «Клыки, что грызут» в Inner Nayos победите Knaebelag the Terror."
 "During the Flame and Frost storyline, find and read sources of information on the Molten Alliance.",Во время сюжетной линии «Flame and Frost» найдите и прочитайте источники информации о Molten Alliance.
 "During the Forged with Fire meta-event in Domain of Vabbi, defeat the legendary Forged Hounds.",Во время мета-события «Выковано огнём» в Domain of Vabbi победите легендарных Кованые Hounds.
@@ -432,7 +432,7 @@ Earn glory in the Battle of Kyhlo by completing these achievements.,"Зараб�
 Earn glory in the Eternal Coliseum by completing these achievements.,"Зарабатывайте славу в Eternal Coliseum (Eternal Coliseum), выполняя эти достижения."
 Earn glory in the Forest of Niflhel by completing these achievements.,"Зарабатывайте славу в Forest of Niflhel (Forest of Niflhel), выполняя эти достижения."
 Earn glory in the Temple of the Silent Storm by completing these achievements.,"Зарабатывайте славу в Temple of the Silent Storm (Temple of the Silent Storm), выполняя эти достижения."
-Earn gold participation in 20 Idol of Jormag events.,Получите золотой рейтинг участия в 20 событиях Идола Йормага.
+Earn gold participation in 20 Idol of Jormag events.,Получите золотой рейтинг участия в 20 событиях Идола Jormag.
 "Earn gold participation in 20 Ox, Eagle, or Wolverine shrine events.","Получите золотой рейтинг участия в 20 событиях святилищ Быка, Орла или Росомахи."
 Earn gold participation in 20 Trial of Koda events in Bjora Marches.,Получите золотой рейтинг участия в 20 событиях Испытания Коды в Bjora Marches.
 Earn gold participation in 20 kodan cairn cleansing events.,Получите золотой рейтинг участия в 20 событиях по очистке пирамид из камней коданов.

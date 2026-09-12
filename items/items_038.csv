@@ -135,7 +135,7 @@ Double-click to convert to materials.,"Дважды щёлкните, чтобы
 
 <c=@flavor>""The sea bass, long ago pushed to the brink of extinction from overfishing, now only live on as servants of Zhaitan.""</c>","Дважды щёлкните, чтобы превратить в материалы.
 
-<c=@flavor>«Морской окунь, некогда доведённый переловом до грани вымирания, теперь живёт лишь как слуга Зайтана».</c>"
+<c=@flavor>«Морской окунь, некогда доведённый переловом до грани вымирания, теперь живёт лишь как слуга Zhaitan».</c>"
 Double-click to crack open the outer shell of this stone. Applies 1 stack of Aurillium Plating when used in the Auric Basin.,"Дважды щёлкните, чтобы расколоть внешнюю оболочку этого камня. Накладывает 1 заряд Ауриллиевой обшивки при использовании в Золотом Бассейне."
 Double-click to create a box full of random goofs and gags!,"Дважды щёлкните, чтобы создать коробку, полную случайных шалостей и розыгрышей!"
 Double-click to create a box full of random goofs and gags! Lasts 15 minutes.,"Дважды щёлкните, чтобы создать коробку, полную случайных шалостей и розыгрышей! Действует 15 минут."
@@ -443,7 +443,7 @@ Double-click to gain a keg of stout ale.,"Дважды щёлкните, что�
 <c=@Flavor>Воодушевите Солнечных Копий, устранив заметные угрозы.</c>"
 "Double-click to gain a large amount of bonus Mastery experience.
 <c=@Flavor>Help Amnoon earn the favor of Joko's armies by taking out notable threats.</c>","Дважды щёлкните, чтобы получить большой бонусный опыт мастерства.
-<c=@Flavor>Помогите Амнуну заслужить благосклонность армий Джоко, устранив заметные угрозы.</c>"
+<c=@Flavor>Помогите Амнуну заслужить благосклонность армий Joko, устранив заметные угрозы.</c>"
 "Double-click to gain a large amount of bonus Mastery experience.
 <c=@Flavor>Help Amnoon remain safe and independent by taking out notable threats.</c>","Дважды щёлкните, чтобы получить большой бонусный опыт мастерства.
 <c=@Flavor>Помогите Амнуну остаться в безопасности и независимости, устранив заметные угрозы.</c>"
@@ -483,7 +483,7 @@ Double-click to gain a moderate amount of karma.,"Дважды щёлкните,
 <c=@Flavor>Поделитесь историей Копьеносцев, вернув эти конфискованные религиозные тексты.</c>"
 "Double-click to gain a moderate amount of trade contracts.
 <c=@Flavor>By gathering support from key figures, you can cement the alliance between Amnoon and Joko.</c>","Дважды щёлкните, чтобы получить умеренное количество торговых контрактов.
-<c=@Flavor>Закрепите союз между Амнуном и Джоко, заручившись поддержкой ключевых фигур.</c>"
+<c=@Flavor>Закрепите союз между Амнуном и Joko, заручившись поддержкой ключевых фигур.</c>"
 "Double-click to gain a moderate amount of trade contracts.
 <c=@Flavor>By gathering support from nearby settlements, you can put Amnoon at ease with their independence.</c>","Дважды щёлкните, чтобы получить умеренное количество торговых контрактов.
 <c=@Flavor>Успокойте Амнун относительно их независимости, заручившись поддержкой близлежащих поселений.</c>"
