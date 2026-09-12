@@ -69,7 +69,7 @@ Upgrade: Zoomies,Upgrade: Zoomies
 Upgraded Comms Device (Experimental),Upgraded Comms Device (Experimental)
 Upgraded Hologram Emitter,Upgraded Hologram Emitter
 "Upon applying barrier to an ally, gain increased condition duration. <c=@reminder>When this triggers, refresh the duration of all stacks.</c>",При наложении барьера на союзника получаете увеличенную длительность состояний. <c=@reminder>При срабатывании обновляет длительность всех стаков.</c>
-"Upon applying might while in combat, gain Mabon's Strength. At 10 stacks, your might stacks become more effective for a duration, after which you lose all might and Mabon's Strength.","При наложении могущества в бою получаете Силу Мабона. При 10 стаках ваши стаки могущества становятся эффективнее на время, после чего вы теряете всё могущество и Силу Мабона."
+"Upon applying might while in combat, gain Mabon's Strength. At 10 stacks, your might stacks become more effective for a duration, after which you lose all might and Mabon's Strength.","При наложении могущества в бою получаете Силу Mabon. При 10 стаках ваши стаки могущества становятся эффективнее на время, после чего вы теряете всё могущество и Силу Mabon."
 "Upon dealing strike damage using a weapon skill with a recharge time of 20 seconds or more, deal increased strike damage for a duration. Refreshes duration on stack.",При нанесении урона оружием с перезарядкой 20 секунд и более наносите повышенный урон на время. Обновляет длительность при новом стаке.
 "Upon healing an ally, shield up to four allies, redirecting a percentage of any strike damage they take to yourself. Allies may only be protected by one shield at a time.","При лечении союзника создаёте щит до четырёх союзников, перенаправляя на себя процент получаемого ими урона от атак. Союзник может быть защищён только одним щитом одновременно."
 "Upon purchase, unlocks a fishing skiff and the associated Mastery track.",При покупке открывает рыбацкую лодку и соответствующую ветку Мастерства.
@@ -302,11 +302,11 @@ Used in focus crafting.,Используется в создании фокус�
 Used in Staff crafting.,Используется при создании посоха.
 Used in staff crafting.,Используется в создании посохов.
 Used in statue crafting. Earned at the Temple of Balthazar in Orr.,Используется в создании статуй. Получается в Храме Бальтазара в Орре.
-Used in statue crafting. Earned at the Temple of Dwayna in Orr.,Используется в создании статуй. Получается в Храме Двайны в Орре.
-Used in statue crafting. Earned at the Temple of Grenth in Orr.,Используется в создании статуй. Получается в Храме Грента в Орре.
+Used in statue crafting. Earned at the Temple of Dwayna in Orr.,Используется в создании статуй. Получается в Храме Dwayna в Орре.
+Used in statue crafting. Earned at the Temple of Grenth in Orr.,Используется в создании статуй. Получается в Храме Grenth в Орре.
 Used in statue crafting. Earned at the Temple of Kormir in Orr.,Используется в создании статуй. Получается в Temple of Kormir в Орре.
 Used in statue crafting. Earned at the Temple of Lyssa in Orr.,Используется в создании статуй. Получается в Храме Лиссы в Орре.
-Used in statue crafting. Earned at the Temple of Melandru in Orr.,Используется в создании статуй. Получается в Храме Меландру в Орре.
+Used in statue crafting. Earned at the Temple of Melandru in Orr.,Используется в создании статуй. Получается в Храме Melandru в Орре.
 Used in the crafting of armor in the style of the Lunatic Court.,Используется при создании брони в стиле Безумного двора.
 Used in the crafting of armor with +Condition Damage and +Precision.,Используется при создании брони с +Урон от состояний и +Точность.
 "Used in the crafting of armor with +Condition Damage, +Power, +Expertise, and +Precision.","Используется при создании брони с +Урон от состояний, +Сила, +Мастерство и +Точность."

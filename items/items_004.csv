@@ -100,7 +100,7 @@ Double-click to open.","<c=@flavor>На прикреплённой записк�
 Double-click to view the target's predicted location.","<c=@flavor>По приказу Сияющего Клинка предать врагов Крайты мечу.</c>
 Дважды щёлкните, чтобы увидеть предполагаемое местонахождение цели."
 <c=@flavor>Call forth your own brand of magic.</c>,<c=@flavor>Призови собственный род магии.</c>
-<c=@flavor>Canach used this device to spread his wildlife-aggravating toxins on Southsun Cove.</c>,"<c=@flavor>Этим устройством Канах распылял свои токсины, будоражащие живность, в Southsun Cove.</c>"
+<c=@flavor>Canach used this device to spread his wildlife-aggravating toxins on Southsun Cove.</c>,"<c=@flavor>Этим устройством Canach распылял свои токсины, будоражащие живность, в Southsun Cove.</c>"
 <c=@flavor>Candidates for Divitium Nava were bestowed this star as a badge of recognition.</c>,<c=@flavor>Претендентам на Divitium Nava эта звезда вручалась как знак признания.</c>
 <c=@flavor>Candy corn containment is downright dangerous. To weaponize that containment is downright diabolical.</c>,<c=@flavor>Сдерживать карамельную кукурузу — само по себе опасно. Превратить это сдерживание в оружие — попросту дьявольски.</c>
 <c=@flavor>Carry Moto with you on all of your adventures.</c>,<c=@flavor>Носи Мото с собой во всех приключениях.</c>
@@ -294,7 +294,7 @@ Found in Jora's Keep in Bjora Marches.","<c=@flavor>Ледяной жар.</c>
 "<c=@flavor>If given long enough, even rings will become crabby.</c>","<c=@flavor>Если ждать достаточно долго, даже кольца становятся крабовыми.</c>"
 "<c=@flavor>If it looks intimidating to you, imagine how it looks to a skritt.</c>","<c=@flavor>Если он кажется грозным тебе, представь, каким он кажется скритту.</c>"
 "<c=@flavor>If you put your ear up to it, you can almost hear an ocean of nothingness.</c>","<c=@flavor>Если приложить к нему ухо, можно почти услышать океан пустоты.</c>"
-<c=@flavor>Imposing armor forged with the help of dwarven wizard Lyhr.</c>,"<c=@flavor>Внушительный доспех, выкованный с помощью дворфского волшебника Лира.</c>"
+<c=@flavor>Imposing armor forged with the help of dwarven wizard Lyhr.</c>,"<c=@flavor>Внушительный доспех, выкованный с помощью дворфского волшебника Lyhr.</c>"
 "<c=@flavor>In a land with no ruler, to be worthy of song and saga is to be king.</c>",<c=@flavor>В земле без правителя быть достойным песни и саги — значит быть королём.</c>
 "<c=@flavor>In dangerous times, it pays to keep a backup handy.</c>",<c=@flavor>В опасные времена не грех держать запасное под рукой.</c>
 "<c=@flavor>In far waters, fires flicker in the dark.</c>",<c=@flavor>В дальних водах во тьме мерцают огни.</c>
@@ -356,7 +356,7 @@ Confiscated from the Brig in Grothmar Valley.","<c=@flavor>Любовь — по
 <c=@flavor>May fortune favor you in the new year.</c>,<c=@flavor>Да будет удача с тобой в новом году.</c>
 <c=@flavor>May the Mad King's enemies know their end has arrived.</c>,"<c=@flavor>Да узнают враги Безумного Короля, что их конец настал.</c>"
 <c=@flavor>May the monsters you feared mean nothing more than toys to your descendants.</c>,"<c=@flavor>Пусть чудовища, которых ты боялся, станут для твоих потомков не более чем игрушками.</c>"
-"<c=@flavor>Melandru—the goddess of nature, earth, and growth—can be found in every harvest and every flower.</c>","<c=@flavor>Меландру — богиню природы, земли и роста — можно найти в каждом урожае и каждом цветке.</c>"
+"<c=@flavor>Melandru—the goddess of nature, earth, and growth—can be found in every harvest and every flower.</c>","<c=@flavor>Melandru — богиню природы, земли и роста — можно найти в каждом урожае и каждом цветке.</c>"
 <c=@Flavor>Mercy may not be pleasant.</c>,<c=@Flavor>Милосердие не всегда приятно.</c>
 <c=@flavor>Mined from the Onyx Fields of Southsun Cove for the pleasure of Lord Beetlestone.</c>,<c=@flavor>Добыто на Ониксовых полях Southsun Cove к удовольствию лорда Битлстоуна.</c>
 <c=@flavor>Missing just a few things needed to germinate a seed.<c>,"<c=@flavor>Не хватает лишь пары мелочей, чтобы прорастить семя.<c>"
@@ -480,8 +480,8 @@ Double-click to summon this mini to follow you around. Only one mini may be in u
 <c=@flavor>Some of the savage power of the harpy that once wore this feather still resides in it.</c>,"<c=@flavor>Часть дикой силы гарпии, что носила это перо, всё ещё в нём живёт.</c>"
 "<c=@flavor>Some people call this chili. Others, lava. Either way, it will destroy your bowels.</c>",<c=@flavor>Одни зовут это чили. Другие — лавой. В любом случае твоим кишкам конец.</c>
 <c=@flavor>Some say the great deceiver of Cantha was a victim of the fates. Others call him a traitor.</c>,"<c=@flavor>Одни говорят, что великий обманщик Канты был жертвой судьбы. Другие называют его предателем.</c>"
-<c=@flavor>Some say the human gods determine the fate of the seasons. Others say the gods are dead. Wear this to show your support for Dwayna and the coming of spring.<c>,"<c=@flavor>Одни говорят, что судьбу времён года решают человеческие боги. Другие — что боги мертвы. Носи это в знак поддержки Двайны и прихода весны.<c>"
-<c=@flavor>Some say the human gods determine the fate of the seasons. Others say the gods are dead. Wear this to show your support for Grenth and endless winter.<c>,"<c=@flavor>Одни говорят, что судьбу времён года решают человеческие боги. Другие — что боги мертвы. Носи это в знак поддержки Гренса и бесконечной зимы.<c>"
+<c=@flavor>Some say the human gods determine the fate of the seasons. Others say the gods are dead. Wear this to show your support for Dwayna and the coming of spring.<c>,"<c=@flavor>Одни говорят, что судьбу времён года решают человеческие боги. Другие — что боги мертвы. Носи это в знак поддержки Dwayna и прихода весны.<c>"
+<c=@flavor>Some say the human gods determine the fate of the seasons. Others say the gods are dead. Wear this to show your support for Grenth and endless winter.<c>,"<c=@flavor>Одни говорят, что судьбу времён года решают человеческие боги. Другие — что боги мертвы. Носи это в знак поддержки Grenth и бесконечной зимы.<c>"
 "<c=@flavor>Some strange, ethereal material from the Mists has solidified into this odd necklace.</c>",<c=@flavor>Некая странная неземная материя из Туманов затвердела в это диковинное ожерелье.</c>
 <c=@flavor>Some things from Dry Top that Taimi would like you to have as a thank-you.</c>,"<c=@flavor>Кое-что с Сухой Вершины — Тайми хочет, чтобы это осталось у тебя в благодарность.</c>"
 <c=@flavor>Some warn that the Mursaat will return to agonize the people of Tyria once more.</c>,"<c=@flavor>Иные предостерегают: мурсааты вернутся, чтобы вновь терзать народы Тирии.</c>"

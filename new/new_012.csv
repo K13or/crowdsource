@@ -1,6 +1,6 @@
 english,translate
 Earned a Gold Medal in the Moon Camp Covert Salmon Run,Получена золотая медаль в тайном лососёвом забеге лагеря Луны
-Earned a Gold Medal in the Nayos Recon Run,Получена золотая медаль в разведывательном забеге Найоса
+Earned a Gold Medal in the Nayos Recon Run,Получена золотая медаль в разведывательном забеге Nayos
 Earned a Gold Medal in the Necropolis Supply Run,Получена золотая медаль в снабженческом забеге Некрополя
 Earned a Gold Medal in the Reuniting Lost Kryptis Adventure,Получена золотая медаль в приключении «Воссоединение потерянных криптисов»
 Earned a Gold Medal in the Roller Beetle Training Adventure,Получена золотая медаль в приключении «Тренировка на кругложуке»
@@ -17,7 +17,7 @@ Earned a Silver Medal in the Game of Hide-and-Seek with the Kodan Cubs,Полу�
 Earned a Silver Medal in the Garden Supply Run,Получена серебряная медаль в снабженческом забеге Сада
 Earned a Silver Medal in the Harvest Shore Salmon Run,Получена серебряная медаль в лососёвом забеге Урожайного Берега
 Earned a Silver Medal in the Moon Camp Covert Salmon Run,Получена серебряная медаль в тайном лососёвом забеге лагеря Луны
-Earned a Silver Medal in the Nayos Recon Run,Получена серебряная медаль в разведывательном забеге Найоса
+Earned a Silver Medal in the Nayos Recon Run,Получена серебряная медаль в разведывательном забеге Nayos
 Earned a Silver Medal in the Reuniting Lost Kryptis Adventure,Получена серебряная медаль в приключении «Воссоединение потерянных криптисов»
 Earned a Silver Medal in the Roller Beetle Training Adventure,Получена серебряная медаль в приключении «Тренировка на кругложуке»
 Earned a Silver Medal in the Scouting the Vale Adventure,Получена серебряная медаль в приключении «Разведка долины»
@@ -237,17 +237,17 @@ Environmental effect: slows and deals periodic damage. Riding a skimmer protects
 Environmental effect: the Branded spikes in this area are charged with damaging energy. Slows and deals periodic damage.,Эффект местности: шипы клеймёных в этой местности заряжены разрушительной энергией. Замедляют и периодически наносят урон.
 Envy Empowerment,Усиление зависти
 Epaphros,Эпафрос
-Eparch has devoured some of your essence.,Эпарх поглотил часть вашей эссенции.
-Eparch has suffered defeat and retreated up the Spire of Dreams. Allied forces are falling back to fight loyalist stragglers.,"Эпарх потерпел поражение и отступил вверх по Шпилю Снов. Союзные силы отходят, чтобы разбить отставших лоялистов."
+Eparch has devoured some of your essence.,Eparch поглотил часть вашей эссенции.
+Eparch has suffered defeat and retreated up the Spire of Dreams. Allied forces are falling back to fight loyalist stragglers.,"Eparch потерпел поражение и отступил вверх по Шпилю Снов. Союзные силы отходят, чтобы разбить отставших лоялистов."
 "Eparch has unleashed his wyvern, Knaebelag the Terror. Help Frode and Major Emund take it down.","Эпарх выпустил своего виверна, Кнебелага Ужасного. Помогите Фроде и Major Emund его одолеть."
-Eparch is attempting to devour you!,Эпарх пытается поглотить тебя!
-"Eparch is consuming loyal minions for their essence. If he accumulates enough, he will gain a defensive shield.","Эпарх поглощает верных прислужников ради их эссенции. Если он накопит достаточно, то получит защитный щит."
-Eparch is trying to consume you. Use the Heart of the Obscure to interrupt him!,"Эпарх пытается поглотить тебя. Используйте Сердце Незримого, чтобы прервать его!"
+Eparch is attempting to devour you!,Eparch пытается поглотить тебя!
+"Eparch is consuming loyal minions for their essence. If he accumulates enough, he will gain a defensive shield.","Eparch поглощает верных прислужников ради их эссенции. Если он накопит достаточно, то получит защитный щит."
+Eparch is trying to consume you. Use the Heart of the Obscure to interrupt him!,"Eparch пытается поглотить тебя. Используйте Сердце Незримого, чтобы прервать его!"
 Eparch's Fear,Страх Эпарха
 Eparch's lizard returns.,Ящер Эпарха возвращается.
-Eparch's reinforcements arrive in: %str1%,Подкрепления Эпарха прибудут через: %str1%
-Eparch's will... Charybda's will... MY will. All unbreakable.,Воля Эпарха... воля Харибды... МОЯ воля. Все несокрушимы.
-Eparch...? That was Eparch? You described a monster. Not an army of them.,Эпарх?.. Это был Эпарх? Ты описывал чудовище. Не армию чудовищ.
+Eparch's reinforcements arrive in: %str1%,Подкрепления Eparch прибудут через: %str1%
+Eparch's will... Charybda's will... MY will. All unbreakable.,Воля Eparch... воля Харибды... МОЯ воля. Все несокрушимы.
+Eparch...? That was Eparch? You described a monster. Not an army of them.,Eparch?.. Это был Eparch? Ты описывал чудовище. Не армию чудовищ.
 Equilibrist Elen,Уравновешенная Элен
 Equip Astral Spellbomb,Оснастить астральную чарбомбу
 Equip Ectospectrometer,Оснастить эктоспектрометр

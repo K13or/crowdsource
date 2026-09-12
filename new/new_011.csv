@@ -250,7 +250,7 @@ Do not...please...,Не надо... прошу...
 "Do something, you fools! Stop them!","Сделайте же что-нибудь, глупцы! Остановите их!"
 Do you desire unrivaled power? Speak with me if you're interested.,"Жаждешь непревзойдённой мощи? Поговори со мной, если интересно."
 "Do you do this kind of work for anyone? Bodyguarding, I mean?",Ты берёшься за такую работу для кого угодно? Я про телохранительство.
-"Do you every wonder if they have a point, that Kormir is blind to the miseries of this world?","Тебе не приходило в голову, что они правы и Кормир слепа к бедам этого мира?"
+"Do you every wonder if they have a point, that Kormir is blind to the miseries of this world?","Тебе не приходило в голову, что они правы и Kormir слепа к бедам этого мира?"
 Do you have a harpy problem?,У тебя проблемы с гарпиями?
 Do you have any of that booze?,У тебя есть та выпивка?
 Do you know who's hiring? I heard they're expanding.,"Не знаешь, кто набирает людей? Слышал, они расширяются."
@@ -292,7 +292,7 @@ Don't feel well.,Мне нехорошо.
 Don't go sneaking any of that honey. I'm watching you!,И не вздумай стащить того мёда. Я за тобой слежу!
 Don't have a trained roller beetle of your own? We offer rentals for one silver an hour!,Нет своего обученного жука-катуна? Мы сдаём в аренду за одно серебро в час!
 Don't let 'em take away your dreams!,Не дай им отнять твои мечты!
-"Don't let despair overwhelm you. One day Kormir will share her knowledge with us, and this will all make sense.","Не давай отчаянию себя одолеть. Однажды Кормир поделится с нами своим знанием, и всё обретёт смысл."
+"Don't let despair overwhelm you. One day Kormir will share her knowledge with us, and this will all make sense.","Не давай отчаянию себя одолеть. Однажды Kormir поделится с нами своим знанием, и всё обретёт смысл."
 Don't let me become one of them.,Не дай мне стать одним из них.
 Don't let me keep you—the soldiers in the jungle need your help even more than we do.,"Не буду тебя задерживать — солдатам в джунглях твоя помощь нужнее, чем нам."
 Don't let those mud-sucking dredge anywhere near my ale or my marmox!,"Не подпускай этих грязеедов-дреджей ни к моему элю, ни к моему мармоксу!"
@@ -426,7 +426,7 @@ Dungeon Historian,Историк подземелий
 Dungeon Transportation,Переброска в подземелья
 Duration:,Длительность:
 "During Lunar New Year, Provides 25%% Magic Find",Во время Лунного Нового года даёт +25%% к поиску магии
-"During the ""Stop loyalists from stealing supplies"" event, prevent any supplies from being stolen by Eparch's loyalists.",В событии «Не дайте лоялистам украсть припасы» не позвольте лоялистам Эпарха украсть ни одного припаса.
+"During the ""Stop loyalists from stealing supplies"" event, prevent any supplies from being stolen by Eparch's loyalists.",В событии «Не дайте лоялистам украсть припасы» не позвольте лоялистам Eparch украсть ни одного припаса.
 "During the Dragonstorm encounter, attack Jormag %num2% time[s] while they are exposed.","В столкновении «Драконья Буря» атакуйте Йормага %num2% [раз|раза|раз], пока он уязвлён."
 "During the Dragonstorm encounter, attack Primordus %num2% time[s] while he is exposed.","В столкновении «Драконья Буря» атакуйте Примордуса %num2% [раз|раза|раз], пока он уязвлён."
 "During the Dragonstorm encounter, dodge Primordus's Apocalypse Rain attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки Примордуса «Дождь апокалипсиса» %num2% [раз|раза|раз].
@@ -440,11 +440,11 @@ Duty calls. I have answered.,Долг зовёт. Я откликнулся.
 Dwarven Bellows,Дворфийские мехи
 Dwarven Key[s],Дворфийский ключ[|а|ей]
 Dwarven Retribution,Дворфийское возмездие
-Dwayna can heal the soul.,Двайна способна исцелить душу.
-Dwayna provides for us all.,Двайна печётся обо всех нас.
+Dwayna can heal the soul.,Dwayna способна исцелить душу.
+Dwayna provides for us all.,Dwayna печётся обо всех нас.
 Dwayna's Curse,Проклятие Двайны
 Dwayna's Lament,Плач Двайны
-Dwayna's blessings upon you.,Благословение Двайны на тебе.
+Dwayna's blessings upon you.,Благословение Dwayna на тебе.
 Dynamics Streetwear Outfit[s],Уличный наряд[|а|ов] «Динамика»
 EAR Piercing Rounds,Бронебойные снаряды EAR
 Each enemy player killed while you are equipped with a Mistwalker Infusion reduces this count by 1.,"Каждый убитый вражеский игрок, пока у вас снаряжена Инфузия туманохода, уменьшает этот счёт на 1."
@@ -454,7 +454,7 @@ Eadred,Эадред
 Earn %num2% charr salvage through gathering or by participating in events in the Drizzlewood Coast.,Добудьте %num2% утиля чарров сбором или участием в событиях на Моросистом побережье.
 "Earn %num2% progress points by defeating caretakers and breaking locks in the ""Siege the Chamber of Rehabilitation and free the prisoners"" event.","Заработайте %num2% очков прогресса, побеждая смотрителей и взламывая замки в событии «Осадите Палату исправления и освободите узников»."
 Earn 1 reward from a PvP reward track.,Получите 1 награду из наградного трека PvP.
-Earn 5 silver medals or 1 gold medal in Time Trial: Nayos Recon Run.,Заработайте 5 серебряных медалей или 1 золотую в гонке на время «Разведвылет по Найосу».
+Earn 5 silver medals or 1 gold medal in Time Trial: Nayos Recon Run.,Заработайте 5 серебряных медалей или 1 золотую в гонке на время «Разведвылет по Nayos».
 Earn 50 rank points in PvP matches.,Earn 50 rank points in PvP matches.
 Earn a Gold Medal in the Vehjin Supply Run,Заработайте золотую медаль в снабженческом забеге Вехджина
 Earn a Silver Medal in the Necropolis Supply Run,Заработайте серебряную медаль в снабженческом забеге Некрополя

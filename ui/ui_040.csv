@@ -201,10 +201,10 @@ Catch up with Taimi.,Догоните Тайми.
 Cathedral of Blood,Собор Крови
 Cathedral's Call,Зов Собора
 Cathedral's Cavity,Впадина Собора
-"Caudecus set off on his own, traveling north in the Sulfurous Springs.","Кодекус отправился один, двигаясь на север в Сернистых Источниках."
-Caudecus stopped at the ruins of Gavril in the Slithering Outskirts.,Кодекус остановился у руин Гаврила в Извивающихся Окраинах.
-Caudecus stopped near the stairs in the Festering Basin.,Кодекус остановился возле лестницы в Гноящемся Бассейне.
-Caudecus the Wise is currently accepting the hospitality of Queen Jennah while repairs are being made to his manor. Others seek to profit from the minister's absence.,"Кодекус Мудрый в настоящее время принимает гостеприимство Queen Jennah, пока в его поместье ведутся ремонтные работы. Другие стремятся извлечь выгоду из отсутствия министра."
+"Caudecus set off on his own, traveling north in the Sulfurous Springs.","Caudecus отправился один, двигаясь на север в Сернистых Источниках."
+Caudecus stopped at the ruins of Gavril in the Slithering Outskirts.,Caudecus остановился у руин Гаврила в Извивающихся Окраинах.
+Caudecus stopped near the stairs in the Festering Basin.,Caudecus остановился возле лестницы в Гноящемся Бассейне.
+Caudecus the Wise is currently accepting the hospitality of Queen Jennah while repairs are being made to his manor. Others seek to profit from the minister's absence.,"Caudecus Мудрый в настоящее время принимает гостеприимство Queen Jennah, пока в его поместье ведутся ремонтные работы. Другие стремятся извлечь выгоду из отсутствия министра."
 "Caudecus's Armor Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с бронёй Кодекуса
 Caudecus's Desk,Письменный стол Каудекуса
 Caudecus's journey started in the southeastern marches.,Путь Кодекса начался в юго-восточных марках.
@@ -215,7 +215,7 @@ Caudecus's Manor Story,История Caudecus's Manor
 "Caudecus's Mask Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с маской Каудекуса
 "Caudecus's Token Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с жетонами Кодекуса
 "Caudecus's Weapons Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с оружием Кодекуса
-"Caudecus, I'm told that I'm to stand trial for treason in the coming days. You need to act quickly. Work your connections. Make this go away.","Кодек, мне сказали, что в ближайшие дни меня будут судить за измену. Вам нужно действовать быстро. Используйте свои связи. Сделайте так, чтобы это исчезло."
+"Caudecus, I'm told that I'm to stand trial for treason in the coming days. You need to act quickly. Work your connections. Make this go away.","Caudecus, мне сказали, что в ближайшие дни меня будут судить за измену. Вам нужно действовать быстро. Используйте свои связи. Сделайте так, чтобы это исчезло."
 "Caught up with Kiel at the bar after they took Mai Trin back to Fort Marriner—that woman can hold down her ale. Our nefarious little pirate named a possible ringleader before her arrest: Scarlet. Might be the hand behind the cleaver. Did a little digging in Divinity's Reach but didn't come up with much (only two Scarlets in the city register, and they're three and eighty-seven years old...doubt we've got our suspect). Kiel's had even less luck getting any meaty intel from Trin.    I've asked a couple contacts to keep an ear open outside of Kryta. Between the incident in Lion's Arch and the unprovoked attacks to the north, this case smells like a steaming pile of dolyak dung.","Перехватил Кила в баре после того, как Mai Trin увезли в форт Марринер — эта женщина умеет пить эль. Наш зловредный маленький пират назвал возможного зачинщика до ареста: Скарлет. Возможно, это рука, держащая топор. Немного покопался в Divinity's Reach, но мало что нашёл (только две Скарлет в городском реестре, и им три и восемьдесят семь лет... сомневаюсь, что это наш подозреваемый). У Кила ещё меньше удачи получить полезную информацию от Трин. Я попросил пару контактов держать ухо востро за пределами Крайта. С учётом инцидента в Lion's Arch и неспровоцированных атак на севере, это дело воняет как куча навоза дольяка."
 "Cauliflower Seed Pouch[pl:""Pouches""]",[Мешочек|Мешочка|Мешочков] семян цветной капусты
 Caulle's Crossing,Переправа Колля
@@ -382,8 +382,8 @@ Central Tyrian and Maguuma Ascended Medium Armor,Центрально-тирий
 Central Tyrian and Maguuma Ascended Trinkets,Центрально-тирийские и Магуумские вознесённые безделушки
 Central Tyrian and Maguuma Ascended Weaponsmithing Weapons,Центрально-тирийское и Магуумское вознесённое оружейное дело (мечи)
 Central Tyrian and Maguuma Band<br><c=@flavor>Crafted from the blood of your enemies.</c>,Центральное Тирийское и Магууминское кольцо<br><c=@flavor>Создано из крови ваших врагов.</c>
-Central Tyrian and Maguuma Pendant<br><c=@flavor>Worn by seasoned mist walkers.</c>,Центральный медальон Тирии и Магуумы<br><c=@flavor>Носится опытными туманоходами.</c>
-"Central Tyrian and Maguuma Talisman<br><c=@flavor>If you listen carefully, you can hear the Mists calling you back.</c>","Центральный талисман Тирии и Магуумы<br><c=@flavor>Если прислушаться, можно услышать зов Туманов.</c>"
+Central Tyrian and Maguuma Pendant<br><c=@flavor>Worn by seasoned mist walkers.</c>,Центральный медальон Тирии и Maguuma<br><c=@flavor>Носится опытными туманоходами.</c>
+"Central Tyrian and Maguuma Talisman<br><c=@flavor>If you listen carefully, you can hear the Mists calling you back.</c>","Центральный талисман Тирии и Maguuma<br><c=@flavor>Если прислушаться, можно услышать зов Туманов.</c>"
 Central Tyrian Ascended Armguards,Центральные тирийские вознесённые наручи
 Central Tyrian Ascended Artificer Weapons,Центральное тирийское вознесённое оружие изобретателя
 Central Tyrian Ascended Breastplate,Центральная тирийская вознесённая нагрудная броня
