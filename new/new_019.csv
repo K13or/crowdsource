@@ -87,9 +87,9 @@ Log wood %num2% times in the Domain of Istan.,Нарубите дерева %num
 Log wood %num2% times in the Domain of Kourna.,Нарубите дерева %num2% раз во Владении Курна.
 Log wood %num2% times in the Sandswept Isles.,Нарубите дерева %num2% раз на Песчаных островах.
 Log wood %num2% times in the Silverwastes.,Нарубите дерева %num2% раз в Серебряных Пустошах.
-Logan is empowered by his anger.,Гнев придаёт Логану сил.
-Logan sent me to help.,Логан прислал меня на помощь.
-Logan wants to speak to you.,Логан хочет с тобой поговорить.
+Logan is empowered by his anger.,Гнев придаёт Logan сил.
+Logan sent me to help.,Logan прислал меня на помощь.
+Logan wants to speak to you.,Logan хочет с тобой поговорить.
 Logan's Protection,Защита Логана
 Logbook,Судовой журнал
 Logged Wood %num1%/%num2% Times in Bitterfrost Frontier,Дерево нарублено %num1%/%num2% раз на Bitterfrost Frontier
@@ -424,8 +424,8 @@ Meet Branthyn outside Ascalon Settlement.,Встретьтесь с Бранти
 Meet Caithe at Dreamer's Terrace.,Встретьтесь с Кейт на Террасе Сновидца.
 Meet Caithe in the Grove.,Встретьтесь с Кейт в Роще.
 Meet Caithe near Gleaner's Cove.,Встретьтесь с Кейт у Бухты Собирателя.
-Meet Eir Stegalkin at her Hoelbrak homestead.,Встретьтесь с Eir Stegalkin в её усадьбе в Хоэльбраке.
-Meet Eir at her Hoelbrak homestead.,Встретьтесь с Эйр в её усадьбе в Хоэльбраке.
+Meet Eir Stegalkin at her Hoelbrak homestead.,Встретьтесь с Eir Stegalkin в её усадьбе в Hoelbrak.
+Meet Eir at her Hoelbrak homestead.,Встретьтесь с Эйр в её усадьбе в Hoelbrak.
 Meet Eir at her homestead.,Встретьтесь с Эйр в её усадьбе.
 Meet Eir outside Highpass Haven.,Встретьтесь с Эйр за пределами Хайпасс-Хейвена.
 Meet Faren in Divinity's Reach. Find out why he insists on seeing you.,"Встретьтесь с Фареном в Divinity's Reach. Выясните, почему он так настаивает на встрече."
@@ -434,9 +434,9 @@ Meet Hiroki at the Seraph camp.,Встретьтесь с Хироки в лаг
 Meet Malyck and Caithe at Venlin Vale.,Встретьтесь с Маликом и Кейт в Долине Венлин.
 Meet Trahearne at Concordia to decide the Pact's next step.,"Встретьтесь с Трихерном в Конкордии, чтобы решить, что Пакт предпримет дальше."
 Meet Tribune Desertgrave's agent at the Serrated Blade.,Встретьтесь с агентом трибуна Дезертгрейв в «Зазубренном клинке».
-Meet Zojja and reconsider the situation.,Встретьтесь с Зойей и пересмотрите положение дел.
+Meet Zojja and reconsider the situation.,Встретьтесь с Zojja и пересмотрите положение дел.
 Meet Zojja at the Snaff Memorial Laboratory in Rata Sum.,Встретьтесь с Зойей в Лаборатории памяти Снаффа в Рата-Сум.
-Meet Zojja in her lab to discuss the Infinity Ball.,"Встретьтесь с Зойей в её лаборатории, чтобы обсудить Infinity Ball."
+Meet Zojja in her lab to discuss the Infinity Ball.,"Встретьтесь с Zojja в её лаборатории, чтобы обсудить Infinity Ball."
 Meet the Order representatives at the Pale Tree's garden in the Grove.,Встретьтесь с представителями орденов в саду Pale Tree в Роще.
 Meet the Order representatives east of Lychcroft Mere.,Встретьтесь с представителями орденов к востоку от Личкрофт-Мира.
 Meet the Preceptors at the Agora in Lion's Arch.,Встретьтесь с наставниками на Агоре в Lion's Arch.

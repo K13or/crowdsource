@@ -12,7 +12,7 @@ Can be upgraded in the Mystic Forge.","<c=@flavor>У карка загадочн
 "<c=@flavor>The legendary beauty who captured the heart of Prince Rurik, only to perish in the Searing of Ascalon.</c>","<c=@flavor>Легендарная красавица, покорившая сердце принца Рурика и погибшая в Опалении Аскалона.</c>"
 <c=@flavor>The legendary chef gave these to his finest students.</c>,<c=@flavor>Легендарный повар вручал их лучшим своим ученикам.</c>
 <c=@flavor>The Lionguard approve of your efforts in battle.</c>,<c=@flavor>Львиная стража одобряет твои ратные труды.</c>
-"<c=@flavor>The locket contains a picture of Kolijn Johansson, Trade Administrator of Hoelbrak.</c>","<c=@flavor>В медальоне портрет Колейн Йоханссон, торгового управляющего Хоэльбрака.</c>"
+"<c=@flavor>The locket contains a picture of Kolijn Johansson, Trade Administrator of Hoelbrak.</c>","<c=@flavor>В медальоне портрет Колейн Йоханссон, торгового управляющего Hoelbrak.</c>"
 <c=@flavor>The mark of the White Mantle is still visible on the badge's dented face.</c>,<c=@flavor>На помятой поверхности значка всё ещё различим знак White Mantle.</c>
 <c=@flavor>The Morgatl hylek harvest these glands to coat their darts in its poison.<c>,"<c=@flavor>Хилеки Моргатл собирают эти железы, чтобы смазывать их ядом свои дротики.<c>"
 "<c=@flavor>The next generation of cultivated seed produced by your own hand. To cultivate this new specimen to be even better than the last, plant it in a Mists Infused Clay Pot to germinate.</c>","<c=@flavor>Следующее поколение выращенного тобой семени. Чтобы этот новый образец вышёл ещё лучше прежнего, посадите его в глиняный горшок, напитанный Туманами.</c>"
@@ -113,7 +113,7 @@ Combine this item in the Mystic Forge with:
 <c=@flavor>This pile of mangled trash looks rather conspicuous.</c>,<c=@flavor>Эта груда искорёженного хлама выглядит довольно приметно.</c>
 <c=@flavor>This rare flower grows in the deep jungle.</c>,<c=@flavor>Этот редкий цветок растёт в глубине джунглей.</c>
 <c=@flavor>This recording shows skritt engaging in some questionable behavior.</c>,<c=@flavor>На этой записи скритты заняты чем-то весьма сомнительным.</c>
-<c=@flavor>This relic of long-forgotten Cantha contains air captured from the Jade Winds.</c>,"<c=@flavor>В этой реликвии давно забытой Канты заключён воздух, пойманный Jade Winds.</c>"
+<c=@flavor>This relic of long-forgotten Cantha contains air captured from the Jade Winds.</c>,"<c=@flavor>В этой реликвии давно забытой Cantha заключён воздух, пойманный Jade Winds.</c>"
 <c=@flavor>This ring is claimed to have once belonged to the Ossa family.</c>,"<c=@flavor>Утверждают, что это кольцо некогда принадлежало семье Осса.</c>"
 <c=@flavor>This ring vibrates with the power of the Vale Guardian.</c>,<c=@flavor>Это кольцо дрожит от силы Vale Guardian.</c>
 <c=@flavor>This scroll describes some practices of the ancient druids.</c>,<c=@flavor>В этом свитке описаны некоторые обряды древних друидов.</c>
@@ -444,7 +444,7 @@ Cannot be used in the Mystic Forge if transmuted.","<c=@flavor>Скарлет с
 <c=@Flavor>What illuminates may also blind.</c>,"<c=@Flavor>То, что освещает, может и ослепить.</c>"
 <c=@Flavor>What kind of creature has feathers this big? Perhaps the beastmaster at the Menagerie knows more. Double-click to view location.</c>,"<c=@Flavor>У какого существа бывают такие огромные перья? Возможно, зверолов из Зверинца знает больше. Дважды щёлкните, чтобы увидеть место.</c>"
 <c=@Flavor>What's so large that it could swallow the bones in this regurgitated mass? Perhaps the beastmaster at the Menagerie knows more. Double-click to view location.</c>,"<c=@Flavor>Что же настолько велико, чтобы проглотить кости из этой отрыгнутой массы? Возможно, зверолов из Зверинца знает больше. Дважды щёлкните, чтобы увидеть место.</c>"
-"<c=@Flavor>Whether you deal in salt, gold, or mithril, the Cowrie League's scales are trusted throughout Elona.</c>","<c=@Flavor>Торгуешь ли ты солью, золотом или мифрилом — весам Лиги Каури доверяют по всей Элоне.</c>"
+"<c=@Flavor>Whether you deal in salt, gold, or mithril, the Cowrie League's scales are trusted throughout Elona.</c>","<c=@Flavor>Торгуешь ли ты солью, золотом или мифрилом — весам Лиги Каури доверяют по всей Elona.</c>"
 "<c=@flavor>While acting as a standard flux purifying the metal, it also suffuses it and protects it from softening due to constant heat exposure.</c>","<c=@flavor>Работая как обычный флюс, очищающий металл, он вдобавок пропитывает его и защищает от размягчения при постоянном нагреве.</c>"
 "<c=@flavor>While it is shiny, it being a necklace is tenuous at best.</c>","<c=@flavor>Блестеть-то оно блестит, а вот ожерелье из него так себе.</c>"
 <c=@flavor>Wield the cutting edge of interactive simulation.</c>,<c=@flavor>Владей передним краем интерактивной симуляции.</c>
@@ -1200,5 +1200,5 @@ A Growing Child,A Growing Child
 A guard at Steampipe Steading filed a report on an odd flash of light across the canyon.,Стражник в Паровом Подворье подал рапорт о странной вспышке света на той стороне каньона.
 A hammer roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,"Молот, грубо выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
 A hammer skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,"Молот, искусно выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
-A handcrafted ship within a surprisingly spotless bottle. Etched into the boat's side is a tribute to the Spirits of the Wild. A refugee in Hoelbrak might want this back.,"Корабль ручной работы в на удивление чистой бутылке. Сбоку на лодке выгравирована дань Духам Дикой природы. Один беженец в Хоэльбраке, возможно, хочет получить его обратно."
+A handcrafted ship within a surprisingly spotless bottle. Etched into the boat's side is a tribute to the Spirits of the Wild. A refugee in Hoelbrak might want this back.,"Корабль ручной работы в на удивление чистой бутылке. Сбоку на лодке выгравирована дань Духам Дикой природы. Один беженец в Hoelbrak, возможно, хочет получить его обратно."
 A hat to celebrate this new day in Tyria.,Шляпа в честь этого нового дня в Тирии.

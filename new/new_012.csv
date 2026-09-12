@@ -161,7 +161,7 @@ Endurance drained.,Выносливость истощена.
 Endurance running low.,Выносливость на исходе.
 Endurance...deficiency.,Недостаток... выносливости.
 Endure Agony,Вынести агонию
-Enemies are stronger and Zojja requires more essence to revive allies. Players can only be revived from wisp form if they have the Unstable Attunement effect on them. Complete the Convergence within the time limit to log your clear time and obtain bonus rewards!,"Враги стали сильнее, и Зойе нужно больше эссенции, чтобы воскрешать союзников. Игроков можно воскресить из формы огонька, только если на них действует эффект «Нестабильная настройка». Завершите Схождение в отведённое время, чтобы зафиксировать время прохождения и получить бонусные награды!"
+Enemies are stronger and Zojja requires more essence to revive allies. Players can only be revived from wisp form if they have the Unstable Attunement effect on them. Complete the Convergence within the time limit to log your clear time and obtain bonus rewards!,"Враги стали сильнее, и Zojja нужно больше эссенции, чтобы воскрешать союзников. Игроков можно воскресить из формы огонька, только если на них действует эффект «Нестабильная настройка». Завершите Схождение в отведённое время, чтобы зафиксировать время прохождения и получить бонусные награды!"
 "Enemies explode upon dying if not stunned. Stunned enemies apply protection, regeneration, and stability to nearby allies.","Враги взрываются при гибели, если не оглушены. Оглушённые враги дают протекцию, регенерацию и устойчивость ближайшим союзникам."
 "Enemies leave a path of poison behind them. Blocking a toxic trail attack will absorb it, cleanse poison, and pulse exposed to enemies near the source of the trail.","Враги оставляют за собой ядовитый след. Блокирование атаки токсичного следа поглощает его, снимает яд и посылает импульс «Раскрытия» ближайшим врагам у источника следа."
 Enemies receive boons when hit. Stripping an enemy boon will apply that boon to nearby allies. <c=@reminder>(Cooldown: 20 seconds)</c>,Враги получают благодати при попадании. Снятие благодати с врага накладывает эту благодать на ближайших союзников. <c=@reminder>(Перезарядка: 20 секунд)</c>
@@ -419,7 +419,7 @@ Explore all areas in Desert Highlands.,Исследуйте все зоны в �
 Explore all areas of Crystal Oasis.,Исследуйте все зоны Crystal Oasis.
 Explore all the areas in the Domain of Vabbi.,Исследуйте все зоны в Domain of Vabbi.
 Explore the Cathedral of Hidden Depths.,Исследуйте Собор Сокрытых Глубин.
-Explore the Consecrated Piazza for insight on where Isgarren has gone.,"Осмотрите Освящённую Площадь в поисках сведений о том, куда делся Исгаррен."
+Explore the Consecrated Piazza for insight on where Isgarren has gone.,"Осмотрите Освящённую Площадь в поисках сведений о том, куда делся Isgarren."
 Explore the beach near Annwen.,Осмотрите пляж у Аннвена.
 Explore the jungle dragon's stronghold.,Исследуйте твердыню драконицы джунглей.
 Explore the rest of the ruins for additional insight.,Осмотрите оставшуюся часть руин в поисках дополнительных сведений.
