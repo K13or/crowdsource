@@ -191,13 +191,13 @@ Double-click to gain 50 luck.","«Теперь, когда Корага не с�
 20 Slots,20 ячеек
 "20 Slots
 <c=@flavor>""A crime scene is only fresh once—you'd best have all of your gear on you when you arrive."" —Marjory</c>","20 ячеек
-<c=@flavor>«Место преступления свежо лишь однажды — лучше приходи туда сразу со всем снаряжением». —Марджори</c>"
+<c=@flavor>«Место преступления свежо лишь однажды — лучше приходи туда сразу со всем снаряжением». —Marjory</c>"
 "20 Slots
 <c=@flavor>""I was crafting a new pouch for Frostbite's snacks and had some extra leather, so I thought you might like one."" —Rox</c>","20 ячеек
 <c=@flavor>«Я шила новый мешочек для лакомств Фростбайта, и осталось немного кожи — вот я и подумала, что тебе такой пригодится». —Рокс</c>"
 "20 Slots
 <c=@flavor>""I've learned not to keep money on display. Try one for yourself—you might even forget you're carrying it."" —Kasmeer</c>","20 ячеек
-<c=@flavor>«Я усвоила, что деньги лучше не выставлять напоказ. Попробуй сама — можешь даже забыть, что несёшь их с собой». —Касмир</c>"
+<c=@flavor>«Я усвоила, что деньги лучше не выставлять напоказ. Попробуй сама — можешь даже забыть, что несёшь их с собой». —Kasmeer</c>"
 "20 Slots
 <c=@flavor>""It's not actually bigger on the inside, but the compression field can give that impression! Just don't put your hand in for long."" —Taimi</c>","20 ячеек
 <c=@flavor>«На самом деле внутри не больше, но поле сжатия создаёт такое впечатление! Только не суй руку туда надолго». —Тайми</c>"
@@ -587,7 +587,7 @@ This item only has value as part of a collection.","<c=@flavor>«Пока еда
 —Anonymous Vabbian Trade Official</c>","<c=@Flavor>«Дело — это жизнь, а жизнь хороша!»
 —Аноним, торговый чиновник Ваббии</c>"
 "<c=@flavor>""By Bangar's blade!""
-—Blood Legion</c>","<c=@flavor>«Клянусь клинком Бангара!»
+—Blood Legion</c>","<c=@flavor>«Клянусь клинком Bangar!»
 —Blood Legion</c>"
 "<c=@flavor>""By the time most soldiers get here, they need a new pair.""
 —Arcanist Repth</c>","<c=@flavor>«К тому времени, как большинство солдат сюда добираются, им нужна новая пара».
@@ -681,7 +681,7 @@ This item only has value as part of a collection.","<c=@flavor>«Пока еда
 "<c=@flavor>""Destroyers came; we were ready.""
 —Bordekka</c>","<c=@flavor>«Разрушители пришли — мы были готовы».
 —Бордекка</c>"
-"<c=@flavor>""Detective work's no court of law—but some of the same arguments work in both."" —Marjory</c>","<c=@flavor>«Сыск — это тебе не суд, но кое-какие доводы работают и там и там». —Марджори</c>"
+"<c=@flavor>""Detective work's no court of law—but some of the same arguments work in both."" —Marjory</c>","<c=@flavor>«Сыск — это тебе не суд, но кое-какие доводы работают и там и там». —Marjory</c>"
 "<c=@flavor>""Did they really ride dolyaks? Must have been hard work climbing up those beasts.""—Leandra</c>","<c=@flavor>«Они правда ездили на дольяках? Наверное, тяжко было забираться на этих зверюг».—Леандра</c>"
 "<c=@flavor>""Did you see the size of that thing?""
 —Travis</c>","<c=@flavor>«Видел размеры этой штуки?»

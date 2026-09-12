@@ -245,7 +245,7 @@ english,translate
 -- SETTING FIELD TECH OWNER PERMISSIONS: <Character name>,-- УСТАНОВКА ПРАВ ДОСТУПА К ТЕХНИЧЕСКОМУ ОБОРУДОВАНИЮ: <Character name>
 -18,-18
 -27,-27
-"-Hiccup!- (Twice, while she and Marjory are trying to hide using invisibilty)","-Ик! - (Дважды, пока она и Марджори пытаются спрятаться, используя невидимость)."
+"-Hiccup!- (Twice, while she and Marjory are trying to hide using invisibilty)","-Ик! - (Дважды, пока она и Marjory пытаются спрятаться, используя невидимость)."
 . Pretty box. Can we open it?,. Красивая коробка. Можно открыть?
 ...,...
 "... And yet, they thrive with malice and a thousand lifetimes of pain.","И всё же они процветают, подпитываемые злобой и тысячами лет страданий."
@@ -295,7 +295,7 @@ english,translate
 ...Thank you.,...Спасибо.
 ...The Exalted...(static)...the gods...,...Возвышенные...(статично)...боги...
 ...Then we should expect the worst. At least one titan has returned to Tyria.,...Тогда нам следует ожидать худшего. По крайней мере один титан вернулся в Tyria.
-"...Though it is wounded, life remains, thank the Pale Tree. Caladbolg is dormant now, like a seed in the winter waiting the coming of spring.","...Хотя он и ранен, жизнь ещё теплится в нём, слава Древу Бледности. Каладболг теперь дремлет, словно семя зимой, ожидая прихода весны."
+"...Though it is wounded, life remains, thank the Pale Tree. Caladbolg is dormant now, like a seed in the winter waiting the coming of spring.","...Хотя он и ранен, жизнь ещё теплится в нём, слава Древу Бледности. Caladbolg теперь дремлет, словно семя зимой, ожидая прихода весны."
 ...Told you I could...,"...Говорил же, что смогу..."
 ...Unless the targeted entities...are...inanimate...,...если выбранные цели — неодушевлённые объекты...
 ...WHAT?,ЧТО?
@@ -468,8 +468,8 @@ english,translate
 "<Character name> is fine. And thanks for everything, Rox. Good to see you again.","С <Character name> всё хорошо. И спасибо тебе за всё, Рокс. Рад снова тебя видеть."
 <Character name> laughs with <Character name>.,<Character name> смеётся вместе с <Character name>.
 <Character name>! Forgive me. That nasty business with Renvari seems so long ago. I'm grateful to see you again. I only wish it was under better circumstances.,"<Character name>! Простите меня. Эта неприятная история с Ренвари кажется такой давней. Я рад видеть вас снова. Жаль только, что это происходит не в лучших обстоятельствах."
-<Character name>! Get this: Tribune Brimstone is in there arguing with Tribune Desertgrave! What'd we do wrong now?,"<Character name>, послушай-ка: Трибун Жарокамень сейчас спорит с трибуном Десертгрейвом. Что мы опять натворили?"
-<Character name>! I'm so glad you're here. Tribune Desertgrave is up there having an argument with Tribune Brimstone. Are they mad at us? Did we do something wrong?,"Привет, <Character name>! Я так рад, что ты здесь. Трибун Десертгрейв там наверху спорит с трибуном Жарокамнем. Они злы на нас? Мы сделали что-то не так?"
+<Character name>! Get this: Tribune Brimstone is in there arguing with Tribune Desertgrave! What'd we do wrong now?,"<Character name>, послушай-ка: Трибун Brimstone сейчас спорит с трибуном Десертгрейвом. Что мы опять натворили?"
+<Character name>! I'm so glad you're here. Tribune Desertgrave is up there having an argument with Tribune Brimstone. Are they mad at us? Did we do something wrong?,"Привет, <Character name>! Я так рад, что ты здесь. Трибун Десертгрейв там наверху спорит с трибуном Brimstone. Они злы на нас? Мы сделали что-то не так?"
 "<Character name>! Perfect timing, just like at Dragon Bash. I couldn't have hidden us much longer. I was already drained from bringing down the tower veil. It was quite a powerful mesmer spell.","«<Character name>, отличный момент, как и на Фестивале Драконов. Я не смог бы долго нас прятать. У меня уже почти не осталось сил после того, как я разрушил защитный барьер вокруг башни. Это было довольно мощное заклинание месмера»."
 "<Character name>! Still upright and kicking, eh? Howl charged ahead, as usual. His impatience is gonna get him a knife in the back someday. Not my knife...probably. Unless someone steals my knife.","Эй, <Character name>, ты ещё на ногах и полон сил, да? Хаул как всегда рвётся вперёд. Его нетерпение однажды приведёт к тому, что в него воткнут нож. Но не мой... наверное. Если только кто-нибудь не украдёт мой нож."
 "<Character name>, I'm scared. The message has changed, and It wants you to read the next phrase. I can't make it out, you have to do it. Please. (The artifact shows a skritt with a message for you to say.)","<Character name>, я боюсь. Послание изменилось, и оно хочет, чтобы вы прочитали следующую фразу. Я не могу разобрать её, вам нужно сделать это за меня. Пожалуйста. (Артефакт показывает скритта с посланием для вас.)"

@@ -98,7 +98,7 @@ This item only has value as part of a collection.","<c=@flavor>«Видел, к�
 "<c=@flavor>""Helps your aim.""
 —Ichtaca</c>","<c=@flavor>«Помогает с прицеливанием».
 —Ичтака</c>"
-"<c=@flavor>""Here at last, dearheart. Are you prepared to join me?"" - Grand Duchess Faolain</c>","<c=@flavor>«Наконец-то ты здесь, зазноба. Готова ли ты пойти со мной?» - Великая герцогиня Фаолейн</c>"
+"<c=@flavor>""Here at last, dearheart. Are you prepared to join me?"" - Grand Duchess Faolain</c>","<c=@flavor>«Наконец-то ты здесь, зазноба. Готова ли ты пойти со мной?» - Великая герцогиня Faolain</c>"
 "<c=@flavor>""Here is some extra Stuff""</c>",<c=@flavor>«Вот тебе ещё немного Всякого»</c>
 "<c=@flavor>""Heroes are made from ordinary people put in extraordinary circumstances.""</c>","<c=@flavor>«Герои получаются из обычных людей, попавших в необычные обстоятельства».</c>"
 "<c=@flavor>""High velocity, long range torment coming up.""</c>",<c=@flavor>«Сейчас будет высокоскоростная дальнобойная боль».</c>
@@ -387,7 +387,7 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 —Explorer Brokkar</c>","<c=@flavor>«Если тебя ударили, естественная реакция — ударить в ответ. Сильнее».
 —Изыскатель Броккар</c>"
 "<c=@flavor>""If your skale is giving you trouble, throw a spell or two their way.""</c>","<c=@flavor>«Если скейлы доставляют тебе хлопоты, брось в них заклинание-другое».</c>"
-"<c=@flavor>""Illusions are like that—if you question everything, you can't escape. But we made it out."" —Kasmeer</c>","<c=@flavor>«С иллюзиями всегда так: если сомневаешься во всём, тебе не выбраться. Но мы всё-таки выбрались». —Касмир</c>"
+"<c=@flavor>""Illusions are like that—if you question everything, you can't escape. But we made it out."" —Kasmeer</c>","<c=@flavor>«С иллюзиями всегда так: если сомневаешься во всём, тебе не выбраться. Но мы всё-таки выбрались». —Kasmeer</c>"
 "<c=@flavor>""Impressive.""
 —Solita Miststalker</c>","<c=@flavor>«Впечатляюще».
 —Солита Туманоискательница</c>"
@@ -462,7 +462,7 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 "<c=@flavor>""It's great to be on the giving side of this weapon. I would not suggest being on the receiving side of it, however.""
 —Johan</c>","<c=@flavor>«Здорово быть на дающей стороне этого оружия. А вот на принимающей стороне оказаться не советую».
 —Йохан</c>"
-"<c=@flavor>""It's hard to forget that horrible place. But it's destroyed now—down to the roots."" —Kasmeer</c>",<c=@flavor>«Трудно забыть то ужасное место. Но теперь оно уничтожено — до самых корней». —Касмир</c>
+"<c=@flavor>""It's hard to forget that horrible place. But it's destroyed now—down to the roots."" —Kasmeer</c>",<c=@flavor>«Трудно забыть то ужасное место. Но теперь оно уничтожено — до самых корней». —Kasmeer</c>
 "<c=@flavor>""It's important to have the right shoes for the job.""
 —Vasher Shadowsinner</c>","<c=@flavor>«Важно иметь подходящую обувь для дела».
 —Вашер Тенепевец</c>"

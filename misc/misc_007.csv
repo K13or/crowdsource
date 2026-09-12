@@ -95,7 +95,7 @@ Cleric's,Cleric's
 Cliffside,Cliffside
 Climb atop Aurene.,Заберитесь на Аурин.
 Climb the platform,Заберитесь на платформу
-Climb the skygardens in Vabbi.,Взберись на небесные сады в Вабби.
+Climb the skygardens in Vabbi.,Взберись на небесные сады в Vabbi.
 Climb the spire at Skimshallow Cove.,Взберись на шпиль в Skimshallow Cove.
 Climb the steps to the trial chamber.,Поднимитесь по ступеням в камеру испытаний.
 Climb the vine bridge to the point at the top of the cliff.,Поднимитесь по мосту из лиан к точке на вершине утеса.
@@ -138,7 +138,7 @@ Collect ley energy to power up the Recollector.,"Соберите энергию
 Collect mirrors.,Соберите зеркала.
 Collect potent emotions for the Recollector.,Собери сильные эмоции для Recollector.
 Collect seismic data to map the island.,"Соберите сейсмические данные, чтобы составить карту острова."
-Collect stray magic to help Rama finish the incantation.,"Соберите блуждающую магию, чтобы помочь Раме завершить заклинание."
+Collect stray magic to help Rama finish the incantation.,"Соберите блуждающую магию, чтобы помочь Rama завершить заклинание."
 Collect the missing pages of the Golem Admin Notes book.,Соберите недостающие страницы книги «Административные заметки по големам».
 Collect your gear.,Соберите свое снаряжение.
 "Collecting my bearings in that place was like fishing a clear marble out of a canteen full of water. My thoughts were cloudy. My brain ached. Breathing the air burned my lungs. I could hear Arina in the distance, rallying the other Astral Ward who were pulled into this mysterious realm.","Ориентироваться в том месте было всё равно что пытаться выловить прозрачный шарик из фляги с водой. Мысли путались. Мозг раскалывался. От воздуха горели лёгкие. Вдалеке я слышал Арина, которая собирала других членов Astral Ward, затянутых в это таинственное измерение."
@@ -156,7 +156,7 @@ Comfy Cat Chair,Comfy Cat Chair
 Coming Home,Coming Home
 Command Consoles Hacked,Командные консоли взломаны
 "Commander %str1%,","Коммандир %str1%,"
-"Commander %str1%. Good to see you here. Between you and me, I'd approach Tribune Brimstone with caution. He's not too happy with me. I let that young norn in. An error in judgment on my part, but he said he was Eir's son.","Коммандир %str1%. Рад видеть вас здесь. Между нами, я бы посоветовал вам быть осторожнее с Трибун Жарокамень. Он не в восторге от меня. Я впустил того юного норна. Ошибка в суждении с моей стороны, но он сказал, что он сын Эйр."
+"Commander %str1%. Good to see you here. Between you and me, I'd approach Tribune Brimstone with caution. He's not too happy with me. I let that young norn in. An error in judgment on my part, but he said he was Eir's son.","Коммандир %str1%. Рад видеть вас здесь. Между нами, я бы посоветовал вам быть осторожнее с Трибун Brimstone. Он не в восторге от меня. Я впустил того юного норна. Ошибка в суждении с моей стороны, но он сказал, что он сын Эйр."
 "Commander %str1%. What pleasure it is to see you alive and well. When last I set eyes upon you, we were in Orr. I hear you've continued your research of the Elder Dragons.","Коммандир %str1%. Какое счастье видеть, что вы живы и здоровы. Когда я в последний раз видел вас, мы были в Орр. Слышал, вы продолжил свои исследования Старших Драконов."
 Commander Lonai,Commander Lonai
 Commander without a Cause: Gendarran Fields,Commander without a Cause: Gendarran Fields
@@ -230,7 +230,7 @@ Complete combo field challenge.,Завершите испытание комбо
 Complete events in Inner Nayos to help Ramses find Nephus.,"Завершайте события в Inner Nayos, чтобы помочь Рамсесу найти Нефуса."
 Complete events in Nyedra Surrounds as Ramses's scouts locate Nephus.,"Завершайте события в Nyedra Surrounds, пока разведчики Рамсеса ищут Нефуса."
 Complete events in Nyedra Surrounds to help Ramses's scouts find Nephus.,"Выполняйте события в Nyedra Surrounds, чтобы помочь разведчикам Рамзес найти Нефус."
-Complete events to help strengthen Peitha's hold on the region.,"Завершайте события, чтобы помочь укрепить контроль Пейты над регионом."
+Complete events to help strengthen Peitha's hold on the region.,"Завершайте события, чтобы помочь укрепить контроль Peitha над регионом."
 "Complete events within the public version of the Tower of Nightmares, or reach the top of the tower.",Завершите события в публичной версии Tower of Nightmares или доберитесь до вершины башни.
 "Complete events, aid refugees, and uncover intel in Diessa Plateau.","Выполняйте события, помогайте беженцам и собирайте разведданные в Diessa Plateau."
 "Complete events, defeat enemy troops, and help the residents of Lake Doric while the Seraph prepare for a final attack on Caudecus's Manor.","Выполняй события, побеждай вражеские войска и помогай жителям Lake Doric, пока Серафимы готовятся к финальной атаке на Caudecus's Manor."
@@ -362,7 +362,7 @@ Consider Kuda's counteroffer.,Рассмотреть встречное пред
 Consider Smodur's plan.,Рассмотреть план Smodur.
 "Consortium Outreach Office, Lion's Arch","Офис по связям с общественностью Консорциума, Lion's Arch"
 Construct Lightning Rods to Deplete Decima's Power,"Построить громоотводы, чтобы истощить силу Децимы"
-Construct lightning rods to deplete the power Decima draws from the storm.,"Установите громоотводы, чтобы истощить силу, которую Децима черпает из шторма."
+Construct lightning rods to deplete the power Decima draws from the storm.,"Установите громоотводы, чтобы истощить силу, которую Decima черпает из шторма."
 Constructing a Portal Back Door,Создание портала для отхода
 Consult with Aurene.,Посоветуйся с Аурин.
 Consult with Taimi.,Посоветуйтесь с Тайми.
@@ -429,8 +429,8 @@ Convergences: Outer Nayos,Convergences: Outer Nayos
 Convergent Evolution,Convergent Evolution
 Converse with Taimi.,Поговорите с Тайми.
 Convince Aurene to leave the summit rotunda.,Убеди Аурин покинуть ротонду саммита.
-Convince General Nephus to join Peitha's cause.,Убедите General Nephus присоединиться к делу Пейты.
-Convince Joon to ally with us to stop the Void.,"Убедите Джун объединиться с нами, чтобы остановить Пустоту."
+Convince General Nephus to join Peitha's cause.,Убедите General Nephus присоединиться к делу Peitha.
+Convince Joon to ally with us to stop the Void.,"Убедите Joon объединиться с нами, чтобы остановить Пустоту."
 Convince Phlunt to leave.,Убедите Флунт уйти.
 Convincing the Faithful,Convincing the Faithful
 Cook the elixir.,Приготовьте эликсир.

@@ -191,8 +191,8 @@ english,translate
 %str1%: And which of your groveling toadies did you hide behind? I KNOW you didn't fight them yourself!,"%str1%: И за спиной какого из своих подхалимов ты спрятался? Я ЗНАЮ, что ты не сражался с ними сам!"
 "%str1%: Back, Sister, back! You'll be turned to scree if your willfulness moves your legs before your mind can catch up.","%str1%: Назад, сестра, назад! Ты превратишься в щебень, если твоя воля заставит ноги двигаться быстрее, чем успеет сообразить разум."
 %str1%: Choking on the weight of my own dejection...,%str1%: Задыхаюсь под тяжестью собственного уныния...
-"%str1%: Decima, be more thoughtful with your energy.","%str1%: Децима, будь осмотрительнее со своей энергией."
-"%str1%: Decima, they slither toward us with venom on fang! Watch yourself.","%str1%: Децима, они ползут к нам с ядом на клыках! Берегись."
+"%str1%: Decima, be more thoughtful with your energy.","%str1%: Decima, будь осмотрительнее со своей энергией."
+"%str1%: Decima, they slither toward us with venom on fang! Watch yourself.","%str1%: Decima, они ползут к нам с ядом на клыках! Берегись."
 %str1%: Fascinating is your dedication to dying plots. I will turn this swamp to rot.,%str1%: Удивительна ваша преданность умирающим участкам. Я превращу это болото в гниль.
 %str1%: Foolish tricks will only speed your march to death!,%str1%: Глупые уловки лишь ускорят ваш путь к смерти!
 %str1%: I think not. But spill no tear; your bravery is excellent.,%str1%: Не думаю. Но не проливай слёз; твоя храбрость достойна похвалы.
@@ -205,7 +205,7 @@ english,translate
 "%str1%: Oh, look how small they are! All the way down there. So cute and miniscule...","%str1%: О, посмотрите, какие они маленькие! Там, внизу. Такие милые и крошечные..."
 "%str1%: Scurry home now, little fleas.","%str1%: А ну брысь домой, мелкие блохи."
 "%str1%: So sweet is the honey on your lips, just before his talons catch victory by the throat.","%str1%: Так сладок мед на ваших губах, прямо перед тем, как его когти схватят победу за горло."
-%str1%: The multiplicity of your bestial nature flickers dull without air... I am Greer. And you are small.,%str1%: Множественность твоей звериной природы тускло мерцает без воздуха... Я — Грир. А ты — ничтожен.
+%str1%: The multiplicity of your bestial nature flickers dull without air... I am Greer. And you are small.,%str1%: Множественность твоей звериной природы тускло мерцает без воздуха... Я — Greer. А ты — ничтожен.
 %str1%: Their emotional fortifications will end us if we don't rip that hope directly from their coiled fingers...,"%str1%: Их эмоциональные укрепления погубят нас, если мы не вырвем эту надежду прямо из их сжатых пальцев..."
 %str1%: Thought this would take effort.,"%str1%: Думал, это потребует усилий."
 "%str1%: To me, godspawn. Do not let your stubbornness and lust for dominion win.","%str1%: Ко мне, порождения богов. Не дайте своему упрямству и жажде власти победить."
@@ -226,7 +226,7 @@ english,translate
 (Optional) Buy a <depending on characters race><ref>These will only appear prior to the story. If you have progressed past a certain point the vendors will not sell these. Switching to another chapter in the Story Journal and back to What Lies Beneath will make the optional objective appear again and allow the item to be bought.</ref> as a gift for Rama.<ref>This objective only appears if at least one character on the account has completed the End of Dragons story.</ref>,"(Необязательно) Купить <depending on characters race><ref>Они появятся только до начала сюжета. Если вы продвинулись дальше определенного момента, торговцы не будут их продавать. Переключение на другую главу в Журнале историй и обратно на What Lies Beneath заставит необязательную цель появиться снова и позволит купить предмет.</ref> в качестве подарка для Rama.<ref>Эта цель появляется, только если хотя бы один персонаж на аккаунте завершил сюжет End of Dragons.</ref>"
 (Optional) Catch up with the rest of Dragon's Watch.,(Необязательно) Встретьтесь с остальными членами Dragon's Watch.
 (Optional) Check in on your companions.,(Необязательно) Проверьте своих спутников.
-(Optional) Check in with Anise and Dagda.,(Опционально) Свяжитесь с Аниз и Дагдой.
+(Optional) Check in with Anise and Dagda.,(Опционально) Свяжитесь с Аниз и Dagda.
 (Optional) Check in with Your Companions,(Необязательно) Проверьте своих спутников
 (Optional) Check in with the other members of your team.,(Дополнительно) Проверьте остальных членов вашей команды.
 (Optional) Check in with your allies and see how they're feeling.,"(Необязательно) Узнайте у своих союзников, как они себя чувствуют."

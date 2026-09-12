@@ -247,14 +247,14 @@ english,translate
 "<c=@abilitytype>Symbol.</c> Sear a mystic symbol into the target area, damaging foes and granting swiftness to allies. Allies in the area gain a burst of speed when the symbol is created.","<c=@abilitytype>Символ.</c> Выжигает мистический символ в целевой области, нанося урон врагам и давая союзникам быстроту. Союзники в области получают рывок скорости при создании символа."
 "<c=@abilitytype>Tome.</c> As the tales recount of Turai, taunt your enemies by issuing an insightfully inciting challenge.","<c=@abilitytype>Том.</c> Подобно преданиям о Турае, провоцирует ваших врагов, бросая проницательно подстрекающий вызов."
 <c=@abilitytype>Tome.</c> Call forth a heated vortex to collapse your enemies together.,"<c=@abilitytype>Том.</c> Призывает раскалённый вихрь, чтобы стянуть ваших врагов вместе."
-<c=@abilitytype>Tome.</c> Detail the suffering in fire and blood inflicted during Vabbi's occupation.,"<c=@abilitytype>Том.</c> Живописует страдания в огне и крови, причинённые во время оккупации Вабби."
+<c=@abilitytype>Tome.</c> Detail the suffering in fire and blood inflicted during Vabbi's occupation.,"<c=@abilitytype>Том.</c> Живописует страдания в огне и крови, причинённые во время оккупации Vabbi."
 "<c=@abilitytype>Tome.</c> Fueled by tales of the desolation in Istan, incite a great swelling of heat before you.","<c=@abilitytype>Том.</c> Питаясь преданиями о запустении в Истане, вздымает перед вами огромную волну жара."
 <c=@abilitytype>Tome.</c> Ignite the air around you in an expanding burst.,<c=@abilitytype>Том.</c> Воспламеняет воздух вокруг вас разрастающейся вспышкой.
 "<c=@abilitytype>Tome.</c> Inspired by countless poems describing the comforting powers of the water-reflected sun, grant boons to allies.","<c=@abilitytype>Том.</c> Вдохновившись бесчисленными поэмами об утешительной силе солнца, отражённого в воде, даёт союзникам благодати."
 <c=@abilitytype>Tome.</c> Purify your allies with the waters of Amnoon and increase the healing they receive.,<c=@abilitytype>Том.</c> Очищает ваших союзников водами Амнуна и увеличивает получаемое ими исцеление.
 "<c=@abilitytype>Tome.</c> Recalling the memory of heroes past, enchant nearby allies with formidable defenses.","<c=@abilitytype>Том.</c> Вспоминая героев прошлого, наделяет союзников поблизости грозной защитой."
 <c=@abilitytype>Tome.</c> Release a torrent of pages describing the water cycle of the Elon River. Heal allies and grant them swiftness.,"<c=@abilitytype>Том.</c> Выпускает поток страниц, описывающих круговорот воды в реке Элон. Исцеляет союзников и даёт им быстроту."
-"<c=@abilitytype>Tome.</c> Release magic from pages detailing the rebuilding of Vabbi, cleansing conditions on nearby allies. Allies are healed for each condition removed.","<c=@abilitytype>Том.</c> Высвобождает магию со страниц, повествующих о восстановлении Вабби, снимая состояния с союзников поблизости. Союзники исцеляются за каждое снятое состояние."
+"<c=@abilitytype>Tome.</c> Release magic from pages detailing the rebuilding of Vabbi, cleansing conditions on nearby allies. Allies are healed for each condition removed.","<c=@abilitytype>Том.</c> Высвобождает магию со страниц, повествующих о восстановлении Vabbi, снимая состояния с союзников поблизости. Союзники исцеляются за каждое снятое состояние."
 <c=@abilitytype>Tome.</c> Tales of desert blooms create a wave of healing for your allies.,<c=@abilitytype>Том.</c> Предания о цветении пустыни создают волну исцеления для ваших союзников.
 <c=@abilitytype>Transform.</c> Shape-shift into a swirling maelstrom that pulls foes into its destructive vortex.,"<c=@abilitytype>Превращение.</c> Обращает вас в кружащийся мальстрём, затягивающий врагов в свой разрушительный вихрь."
 <c=@abilitytype>Transform.</c> Transform target foe into a moa bird.,<c=@abilitytype>Превращение.</c> Превращает выбранного врага в птицу моа.
@@ -420,7 +420,7 @@ english,translate
 <c=@reminder>Unlock this mini by competing in World vs. World.</c>,"<c=@reminder>Откройте этого мини-питомца, участвуя в «World vs. World».</c>"
 <c=@reminder>You cannot contest capture points while mounted.</c>,<c=@reminder>Верхом нельзя оспаривать точки захвата.</c>
 <center>Eparch: DO NOT SPEAK HER NAME.</center>,<center>Эпарх: НЕ СМЕЙ ПРОИЗНОСИТЬ ЕЁ ИМЯ.</center>
-"<center>Peitha: Oh, but I'm not so ""noble.""</center>","<center>Пейта: О, но я не столь «благородна».</center>"
+"<center>Peitha: Oh, but I'm not so ""noble.""</center>","<center>Peitha: О, но я не столь «благородна».</center>"
 "A Claw of Jormag bombarded this area with corruption, and icebrood are spreading from the dragon crystals left in its wake.","Claw of Jormag обрушил на эту область порчу, и от оставшихся после него драконьих кристаллов расползаются ледяные отродья."
 A Claw of Jormag bombarded this area with corruption. The Pact is rallying against the spreading icebrood and last dragon crystal.,Claw of Jormag обрушил на эту область порчу. Пакт сплачивается против расползающихся ледяных отродий и последнего драконьего кристалла.
 "A Cloak of Janthir, the Chronoflux Matrix...","Плащ Джантира, Матрица Хронопотока..."
