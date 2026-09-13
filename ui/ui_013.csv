@@ -103,7 +103,7 @@ english,translate
 %str1%%str2%Stately Garb%str3%%str4%,%str1%%str2%Величественное одеяние%str3%%str4%
 %str1%%str2%Stately Gloves%str3%%str4%,%str1%%str2%Величественные перчатки%str3%%str4%
 %str1%%str2%Stately Leggings%str3%%str4%,%str1%%str2%Величественные поножи%str3%%str4%
-%str1%%str2%Static Tempered Spinal Blades%str3%%str4%,%str1%%str2%Статические Закалённые Спинные Клинки%str3%%str4%
+%str1%%str2%Static Tempered Spinal Blades%str3%%str4%,%str1%%str2%Статические Закалённые спинные Клинки%str3%%str4%
 %str1%%str2%Steam Axe%str3%%str4%,%str1%%str2%Паровой топор%str3%%str4%
 %str1%%str2%Steam Bow%str3%%str4%,%str1%%str2%Паровой лук%str3%%str4%
 %str1%%str2%Steam Brand%str3%%str4%,%str1%%str2%Паровое клеймо%str3%%str4%
@@ -152,8 +152,8 @@ english,translate
 %str1%%str2%Stellar Spire%str3%%str4%,%str1%%str2%Звёздный шпиль%str3%%str4%
 %str1%%str2%Stone Eye%str3%%str4%,%str1%%str2%Каменный глаз%str3%%str4%
 %str1%%str2%Stone Summit Boots%str3%%str4%,%str1%%str2%Сапоги Каменной Вершины%str3%%str4%
-%str1%%str2%Stone Summit Gauntlets%str3%%str4%,%str1%%str2%Перчатки Каменной вершины%str3%%str4%
-%str1%%str2%Stone Summit Helmet%str3%%str4%,%str1%%str2%Шлем Каменной вершины%str3%%str4%
+%str1%%str2%Stone Summit Gauntlets%str3%%str4%,%str1%%str2%Перчатки Каменной Вершины%str3%%str4%
+%str1%%str2%Stone Summit Helmet%str3%%str4%,%str1%%str2%Шлем Каменной Вершины%str3%%str4%
 %str1%%str2%Stone Summit Pauldrons%str3%%str4%,%str1%%str2%Наплечники Каменного Пика%str3%%str4%
 %str1%%str2%Stone-Growth Axe%str3%%str4%,%str1%%str2%Каменный топор%str3%%str4%
 %str1%%str2%Stone-Growth Dagger%str3%%str4%,%str1%%str2%Каменный кинжал%str3%%str4%

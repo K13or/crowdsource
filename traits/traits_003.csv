@@ -418,7 +418,7 @@ Leeching Venoms,Leeching Venoms
 Leg Specialist,Leg Specialist
 "Legendary Dragon. Consume. Consume Facet of Nature to unify allies, granting them your boons. Facet of Nature will be disabled while this skill is recharging.","Легендарный дракон. Поглощение. Поглотите Аспект природы, чтобы объединить союзников, наделив их вашими благословениями. Аспект природы будет отключен во время перезарядки этого навыка."
 Legendary Dragon. Facet. Place the Facet of Nature on yourself to grant nearby allies enhancements based on your channeled legend.,"Легендарный дракон. Аспект. Наложите Аспект природы на себя, чтобы наделить ближайших союзников усилениями, основанными на вашей текущей легенде."
-Legendary Dwarf. Channel the power of the Rite of the Great Dwarf to turn yourself and nearby allies to stone to reduce incoming damage.,"Легендарный дворф. Направьте силу Обряда великого дворфа, чтобы превратить себя и ближайших союзников в камень и снизить входящий урон."
+Legendary Dwarf. Channel the power of the Rite of the Great Dwarf to turn yourself and nearby allies to stone to reduce incoming damage.,"Легендарный дворф. Направьте силу Обряда Великого дворфа, чтобы превратить себя и ближайших союзников в камень и снизить входящий урон."
 Legendary Lore,Legendary Lore
 Let Loose,Let Loose
 Lethal Tempo,Lethal Tempo
@@ -449,7 +449,7 @@ Longbow Proficiency,Longbow Proficiency
 Loremaster,Loremaster
 Lose a condition when you enter shroud and every few seconds while you remain in shroud. Gain <c=@abilitytype>carapace</c> when removing conditions from yourself.,"Снимает состояние при входе в саван и каждые несколько секунд, пока вы в нем находитесь. Получайте <c=@abilitytype>панцирь</c> при снятии состояний с себя."
 Lose conditions every interval. Health degenerates more slowly while downed.,С вас периодически снимаются состояния. Здоровье в поверженном состоянии теряется медленнее.
-Lose conditions when activating Cosmic Wisdom and at a set interval while Cosmic Wisdom is active.,"Вы снимаете с себя состояния при активации Космической Мудрости и периодически, пока Cosmic Wisdom активна."
+Lose conditions when activating Cosmic Wisdom and at a set interval while Cosmic Wisdom is active.,"Вы снимаете с себя состояния при активации Космической мудрости и периодически, пока Cosmic Wisdom активна."
 Lose conditions when you gain Mirage Cloak.,Lose conditions when you gain Mirage Cloak.
 Loss Aversion,Loss Aversion
 Lotus Poison,Lotus Poison
