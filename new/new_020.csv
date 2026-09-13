@@ -72,8 +72,8 @@ Mined Ore %num1%/%num2% Times in the Domain of Kourna,Руда добыта %num
 Mined Ore %num1%/%num2% Times in the Sandswept Isles,Руда добыта %num1%/%num2% раз на Песчаных островах
 Mined Ore %num1%/%num2% Times in the Silverwastes,Руда добыта %num1%/%num2% раз в Серебряных Пустошах
 Miner works harder.,Шахтёр работает усерднее.
-Miner's Bag[s],Мешок[|а|ов] шахтёра
-Miner's Sack[s],Сумк[а|и|ок] шахтёра
+Miner's Bag[s],[Мешок|Мешка|Мешков] шахтёра
+Miner's Sack[s],[Сумка|Сумки|Сумок] шахтёра
 Mingled with %str1%/%str2% Delegates,Пообщался с %str1%/%str2% делегатами
 Mini Assault,Мини-атака
 Mini Buff Magic,Мини-усиление: магия
@@ -142,7 +142,7 @@ Modniir Supplies,Припасы модниир
 Modniir Weaponrack,Modniir Weaponrack
 Modniir forces rally in: %str1%,Силы модниир соберутся через: %str1%
 "Modulation array capped at 17,000 oscillations in 7 hours, 27 minutes. Estimated duration to achieve cap at 40 oscillations per minute?",Модуляционная матрица достигла предела в 17 000 колебаний за 7 часов 27 минут. Расчётное время достижения предела при 40 колебаниях в минуту?
-Moldy Sack[s],Заплесневелая сумк[а|и|ок]
+Moldy Sack[s],Заплесневелая [сумка|сумки|сумок]
 Molten Cannonball,Molten Cannonball
 Molten Device,Molten Device
 Molten Explosive,Molten Explosive

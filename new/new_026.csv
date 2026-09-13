@@ -215,8 +215,8 @@ Stoke,Раздуть
 Stolen Explosive,Украденная взрывчатка
 Stolen Feed,Украденный корм
 Stolen Mortar,Украденная мортира
-Stolen Sack[s] of Feed,Украденный мешок[|а|ов] корма
-Stolen Supplies Sack[s],Мешок[|а|ов] украденных припасов
+Stolen Sack[s] of Feed,Украденный [мешок|мешка|мешков] корма
+Stolen Supplies Sack[s],[Мешок|Мешка|Мешков] украденных припасов
 Stolen Turret,Украденная турель
 "Stolen? What foul, contemptable foe dared steal Caladbolg?","Украден? Какой мерзкий, презренный враг посмел украсть Каладболг?"
 Stomp the ground and launch nearby foes through the air.,"Топает по земле, подбрасывая ближайших врагов в воздух."
@@ -300,7 +300,7 @@ Strafer,Штурмовик
 Straight Ahead!,Прямо вперёд!
 Straighten,Выпрямить
 Strange Feather[s],Странное пер[о|а|ьев]
-Strange Pellet[s] of Bones and Fur,Странный комок[|а|ов] костей и шерсти
+Strange Pellet[s] of Bones and Fur,Странный [комок|комка|комков] костей и шерсти
 Strange Pineapple Plant,Странный ананасовый куст
 Strange Visions,Странные видения
 Stranglethorn,Удушающий шип
@@ -497,5 +497,5 @@ Supply Master V: Your Placed Siege Sites Are Invulnerable for a Short Duration,�
 Supply Pack,Supply Pack
 Supply Remaining,Осталось припасов
 Supply Run Finished,Supply Run Finished
-Supply Sack[s],Мешок[|а|ов] припасов
+Supply Sack[s],[Мешок|Мешка|Мешков] припасов
 Supply Stockpile,Supply Stockpile

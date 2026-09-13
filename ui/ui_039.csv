@@ -454,7 +454,7 @@ Capture utilisateur jointe,Захват присоединённого поль�
 Captured %num1% Keep[s],Захвачено %num1% [крепость|крепости|крепостей]
 Captured %num1%/%num2% Camp[s],Захвачено %num1%/%num2% [лагерь|лагеря|лагерей]
 "Captured %num1%/%num2% Sentry[pl:""Sentries""]",Захвачено %num1%/%num2% [часового|часовых|часовых]
-Captured %num1%/%num2% Tower[s],[Захваченная|Захваченной|Захваченных] башн[я|и|ь] %num1%/%num2%
+Captured %num1%/%num2% Tower[s],[Захваченная|Захваченной|Захваченных] [башня|башни|башен] %num1%/%num2%
 Captured Quaggan,Захвачен квагган
 Captured Skritt[s],[Пленённый|Пленённого|Пленённых] скритт[|а|ов]
 Captured Stonemist Castle,Захвачен Замок Камнемглы

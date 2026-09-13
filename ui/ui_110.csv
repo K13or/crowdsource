@@ -6,7 +6,7 @@ Potted Tree[s],[Дерево|Дерева|Деревьев] в горшке
 "Pouch[pl:""Pouches""] of Green Pigment",[Мешочек|Мешочка|Мешочков] зелёной пигментированной краски
 "Pouch[pl:""Pouches""] of Orange Pigment",Мешочк[и|очка|ов] оранжевого пигмента
 "Pouch[pl:""Pouches""] of Purple Pigment",[Мешочек|Мешочки|Мешочков] пурпурного пигмента
-"Pouch[pl:""Pouches""] of Red Pigment",Мешочек[и|чка|ов] красного пигмента
+"Pouch[pl:""Pouches""] of Red Pigment",[Мешочек|Мешочка|Мешочков] красного пигмента
 "Pouch[pl:""Pouches""] of Stardust",[Мешочек|Мешочка|Мешочков] звёздной пыли
 "Pouch[pl:""Pouches""] of White Pigment",[Мешочек|Мешочки|Мешочков] белого пигмента
 "Pouch[pl:""Pouches""] of Yellow Pigment",Мешочк[и|очка|ов] жёлтого пигмента
@@ -105,17 +105,17 @@ Powerful Potion[s] of Dredge Slaying,[Мощное зелье|Мощных зе�
 Powerful Potion[s] of Elemental Slaying,[Мощное зелье|Мощных зелья|Мощных зелий] убийства элементалей
 Powerful Potion[s] of Flame Legion Slaying,[Мощное зелье|Мощных зелья|Мощных зелий] убийства Flame Legion
 Powerful Potion[s] of Grawl Slaying,[Мощное зелье|Мощных зелья|Мощных зелий] убийства граул
-Powerful Potion[s] of Halloween Slaying,Мощн[ое|ых|ых] зель[е|ья|ий] уничтожения Хэллоуина
-Powerful Potion[s] of Ice Brood Slaying,Мощн[ое|ых|ых] зель[е|ья|ий] уничтожения Ледяного Отродья
-Powerful Potion[s] of Inquest Slaying,Мощн[ое|ых|ых] зель[е|ья|ий] уничтожения Инквестов
-Powerful Potion[s] of Krait Slaying,Мощн[ое|ых|ых] зель[е|ья|ий] уничтожения крайтов
-Powerful Potion[s] of Mordrem Slaying,Мощн[ое|ых|ых] зель[е|ья|ий] уничтожения Мордремов
-Powerful Potion[s] of Nightmare Court Slaying,Мощн[ое|ых|ых] зель[е|ья|ий] уничтожения Nightmare Court
-Powerful Potion[s] of Ogre Slaying,Мощн[ое|ых|ых] зель[е|ья|ий] уничтожения огров
-Powerful Potion[s] of Outlaw Slaying,Мощн[ое|ых|ых] зель[е|ья|ий] уничтожения Разбойников
-Powerful Potion[s] of Slaying Scarlet's Armies,Мощн[ое|ых|ых] зель[е|ья|ий] уничтожения армий Скарлет
-Powerful Potion[s] of Sons of Svanir Slaying,Мощн[ое|ых|ых] зель[е|ья|ий] уничтожения Сынов Сванира
-Powerful Potion[s] of Undead Slaying,Мощн[ое|ых|ых] зель[е|ья|ий] уничтожения нежити
+Powerful Potion[s] of Halloween Slaying,Мощн[ое|ых|ых] [зелье|зелья|зелий] уничтожения Хэллоуина
+Powerful Potion[s] of Ice Brood Slaying,Мощн[ое|ых|ых] [зелье|зелья|зелий] уничтожения Ледяного Отродья
+Powerful Potion[s] of Inquest Slaying,Мощн[ое|ых|ых] [зелье|зелья|зелий] уничтожения Инквестов
+Powerful Potion[s] of Krait Slaying,Мощн[ое|ых|ых] [зелье|зелья|зелий] уничтожения крайтов
+Powerful Potion[s] of Mordrem Slaying,Мощн[ое|ых|ых] [зелье|зелья|зелий] уничтожения Мордремов
+Powerful Potion[s] of Nightmare Court Slaying,Мощн[ое|ых|ых] [зелье|зелья|зелий] уничтожения Nightmare Court
+Powerful Potion[s] of Ogre Slaying,Мощн[ое|ых|ых] [зелье|зелья|зелий] уничтожения огров
+Powerful Potion[s] of Outlaw Slaying,Мощн[ое|ых|ых] [зелье|зелья|зелий] уничтожения Разбойников
+Powerful Potion[s] of Slaying Scarlet's Armies,Мощн[ое|ых|ых] [зелье|зелья|зелий] уничтожения армий Скарлет
+Powerful Potion[s] of Sons of Svanir Slaying,Мощн[ое|ых|ых] [зелье|зелья|зелий] уничтожения Сынов Сванира
+Powerful Potion[s] of Undead Slaying,Мощн[ое|ых|ых] [зелье|зелья|зелий] уничтожения нежити
 Powerful Prance,Мощный гарцевание
 Powerful Punch,Мощный удар
 Powerful Venom Sac[s],Мощн[ый|ых|ых] мешоч[ек|ка|ков] яда
@@ -479,14 +479,14 @@ Prismatic Lodestone[s],[Призматический магнетит|Призм
 Prismatic Soylent[s],[Призматический Сойлент|Призматических Сойлента|Призматических Сойлентов]
 Prismaticite Clasp[s],[Призматитовая пряжка|Призматитовых пряжки|Призматитовых пряжек]
 Prismaticite Crystal[s],Кристалл[|а|ов] призматита
-Prismaticite Home Instance Node[s],Узел[|а|ов] призматита в домашней инстанции
-Prismatium Ingot[s],Слиток[|а|ов] призматия
+Prismaticite Home Instance Node[s],[Узел|Узла|Узлов] призматита в домашней инстанции
+Prismatium Ingot[s],[Слиток|Слитка|Слитков] призматия
 Prison guard.,Тюремный охранник.
 Prisoner Emara,Заключенная Эмара
 Pristine Chest,Нетронутый сундук
 Pristine Dragon's Left Eye[s],[Нетронутый левый глаз дракона|Нетронутых левых глаза дракона|Нетронутых левых глаз дракона]
 Pristine Dragon's Right Eye[s],[Нетронутый правый глаз дракона|Нетронутых правых глаза дракона|Нетронутых правых глаз дракона]
-"Pristine Fang[pl:""Fangs""] of the Whisper",Непорочный Клык[ы|ки|ок] Шёпота
+"Pristine Fang[pl:""Fangs""] of the Whisper",Непорочный [Клык|Клыка|Клыков] Шёпота
 Pristine Feather[s],[Нетронутое перо|Нетронутых пера|Нетронутых перьев]
 Pristine Fractal Relic[s],[Нетронутый фрактальный реликт|Нетронутых фрактальных реликта|Нетронутых фрактальных реликтов]
 Pristine Mist Essence[s],[Нетронутая эссенция тумана|Нетронутых эссенции тумана|Нетронутых эссенций тумана]

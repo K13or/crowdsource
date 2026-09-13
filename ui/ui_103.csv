@@ -209,22 +209,22 @@ Oiled Hardened Shoulderguard Padding[s],[Пропитанная маслом п�
 Oiled Hardened Shoulderguard Panel[s],[Пропитанная маслом панель|Пропитанные маслом панели|Пропитанных маслом панелей] закалённого наплечника
 Oiled Hardened String[s],[Пропитанная маслом нить|Пропитанные маслом нити|Пропитанных маслом нитей] закаленной стали
 Oiled Hardened Trouser Padding[s],[Пропитанная маслом прокладка|Пропитанные маслом прокладки|Пропитанных маслом прокладок] закаленных штанов
-Oiled Hardened Trouser Panel[s],Масляная закалённая панель[|и|ей] штанов
+Oiled Hardened Trouser Panel[s],Масляная закалённая [панель|панели|панелей] штанов
 Oiled Large Ancient Haft[s],Масляное большое древнее древк[о|а|ов]
 Oiled Orichalcum Axe Blade[s],Масляное орихалковое лезви[е|я|й] топора
 Oiled Orichalcum Boot Casing[s],Масляный орихалковый корпус[|а|ов] сапога
-Oiled Orichalcum Boot Lining[s],Масляная орихалковая подкладк[а|и|ок] сапога
-Oiled Orichalcum Chestplate Padding[s],Масляная орихалковая набивк[а|и|ок] нагрудника
-Oiled Orichalcum Chestplate Panel[s],Масляная орихалковая панель[|и|ей] нагрудника
+Oiled Orichalcum Boot Lining[s],Масляная орихалковая [подкладка|подкладки|подкладок] сапога
+Oiled Orichalcum Chestplate Padding[s],Масляная орихалковая [набивка|набивки|набивок] нагрудника
+Oiled Orichalcum Chestplate Panel[s],Масляная орихалковая [панель|панели|панелей] нагрудника
 Oiled Orichalcum Dagger Blade[s],Масляное орихалковое лезви[е|я|й] кинжала
-Oiled Orichalcum Dagger Hilt[s],Масляная орихалковая рукоять[|и|ей] кинжала
-Oiled Orichalcum Gauntlet Lining[s],Масляная орихалковая подкладк[а|и|ок] рукавицы
+Oiled Orichalcum Dagger Hilt[s],Масляная орихалковая [рукоять|рукояти|рукоятей] кинжала
+Oiled Orichalcum Gauntlet Lining[s],Масляная орихалковая [подкладка|подкладки|подкладок] рукавицы
 "Oiled Orichalcum Gauntlet Plates[pl:""Plates""]",Позолоченные пластины из орихалкового нарукавника
 Oiled Orichalcum Greatsword Blade[s],Масляное орихалковое лезви[е|я|й] двуручного меча
-Oiled Orichalcum Greatsword Hilt[s],Масляная орихалковая рукоять[|и|ей] двуручного меча
-Oiled Orichalcum Hammer Head[s],Масляная орихалковая головк[а|и|ок] молота
+Oiled Orichalcum Greatsword Hilt[s],Масляная орихалковая [рукоять|рукояти|рукоятей] двуручного меча
+Oiled Orichalcum Hammer Head[s],Масляная орихалковая [головка|головки|головок] молота
 Oiled Orichalcum Helmet Casing[s],Масляный орихалковый корпус[|а|ов] шлема
-Oiled Orichalcum Helmet Lining[s],Масляная орихалковая подкладк[а|и|ок] шлема
+Oiled Orichalcum Helmet Lining[s],Масляная орихалковая [подкладка|подкладки|подкладок] шлема
 Oiled Orichalcum Horn[s],[Рог|Рога|Рогов] из промасленного орихалка
 Oiled Orichalcum Legging Lining[s],[Подкладка|Подкладки|Подкладок] для поножей из промасленного орихалка
 Oiled Orichalcum Legging Panel[s],[Панель|Панели|Панелей] для поножей из промасленного орихалка
@@ -340,12 +340,12 @@ Olmakhan Camp Upgrades Complete!,Улучшения лагеря Олмакха�
 Olmakhan Charm[s],Оберег[|а|ов] Олмакхан
 Olmakhan Defense Recording[s],Запис[ь|и|ей] обороны Олмакхан
 Olmakhan Disruptors Active!,Подрывники Олмакхана активны!
-Olmakhan Latigo Strap[s],Ремен[ь|я|ей] латиго Олмакхан
+Olmakhan Latigo Strap[s],[Ремень|Ремня|Ремней] латиго Олмакхан
 "Olmakhan Mantle Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] наплечников Олмакхан
 Olmakhan Nightwalker,Ночной странник Олмакхан
 Olmakhan Rewards,Награды Олмакхана
 "Olmakhan Supply Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] снабжения Олмакхана
-Olmakhan Support Mark[s],Метк[а|и|ок] поддержки Олмакхан
+Olmakhan Support Mark[s],[Метка|Метки|Меток] поддержки Олмакхан
 Olmakhan support marks exchanged:,Обмен меток поддержки Олмаханов:
 Olmakhan Waypoint in Position!,Путевая точка Олмаханов на позиции!
 Omadd's Crystal Charge,Кристаллический заряд Омэдда

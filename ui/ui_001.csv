@@ -242,12 +242,12 @@ english,translate
 %num1% (NUM),%num1% (ЧИСЛО)
 %num1% (Perception / 2) - %num2% (Vitality / 2) = %str1%,%num1% (Восприятие / 2) - %num2% (Живучесть / 2) = %str1%
 %num1% (Willpower / 2) - %num2% (Vitality / 2) = %str1%,%num1% (Воля / 2) - %num2% (Живучесть / 2) = %str1%
-%num1% Additional Reward Tier[s],%num1% дополнительн[ый|ых|ых] уровен[ь|я|ей] награды
+%num1% Additional Reward Tier[s],%num1% дополнительн[ый|ых|ых] [уровень|уровня|уровней] награды
 %num1% adrenaline,%num1% адреналина
 %num1% Affinity <br>Gain affinity whenever you use a legend skill that costs energy. Gain additional affinity when using a legend skill that costs more than the threshold or while you are channeling an upkeep skill. Each stack of affinity improves the effectiveness of Release Potential. Lose all affinity whenever you swap legends.,"%num1% Родства <br>Получайте родство каждый раз, когда используете навык легенды, требующий энергии. Получайте дополнительное родство при использовании навыка легенды, который стоит больше порога, или во время использования навыка поддержания. Каждое накопление родства усиливает эффективность «Высвобождения потенциала». Вы теряете всё родство при смене легенды."
 %num1% Arrow[s],%num1% стрел[а|ы|]
-%num1% Blade[s],%num1% клинок[|а|ов]
-%num1% blade[s],%num1% клинок[|а|ов]
+%num1% Blade[s],%num1% [клинок|клинка|клинков]
+%num1% blade[s],%num1% [клинок|клинка|клинков]
 %num1% Click Survey,%num1% щелчков опроса
 %num1% concentration,%num1% концентрации
 %num1% Days Left,%num1% дн[ей|я|ей] осталось

@@ -1,7 +1,7 @@
 english,translate
 Loot packets of frostbitten suet from creatures.,Собирайте пакеты обмороженного сала с существ.
 Loot Rest Bonus,Бонус отдыха за трофеи
-Loot Sack[s],Трофейный мешок[|а|ов]
+Loot Sack[s],Трофейный [мешок|мешка|мешков]
 Loot that drops will instantly enter your inventory without you interacting to loot as long as you have inventory space.,"Выпавшая добыча будет мгновенно помещаться в ваш инвентарь без необходимости взаимодействия, если у вас есть свободное место."
 Loot the Chest of Grand Valdhertz Riches in the Valdhertz Crypts Minidungeon,Разграбьте сундук с богатствами Великого Вальдхерца в мини-подземелье Valdhertz Crypts
 Loot the Chest of Grand Valdhertz Riches in the Valdhertz Crypts minidungeon in the Echovald Wilds.,Разграбьте сундук с богатствами Великого Вальдхерца в мини-подземелье Valdhertz Crypts в Эховальдских Пустошах.
@@ -264,7 +264,7 @@ Lowland Grunt[s],Низменный ворчун[|а|ов]
 Lowland Kodan Mastery,Мастерство низменного кодана
 Lowland Kodan Mastery Unlocked,Мастерство низменного кодана разблокировано
 Lowland Offshore Fish,Низменная морская рыба
-Lowland Pine Log[s],Низменное сосновое бревн[о|а|ен]
+Lowland Pine Log[s],Низменное сосновое [бревно|бревна|бревен]
 Lowland Pine Sapling,Низменный сосновый саженец
 Lowland Shore Fish,Рыба Lowland Shore
 Lowland Shore Renown Token[s],Жетон[|а|ов] славы Низменного берега
@@ -356,12 +356,12 @@ Lump[s] of Crystallized Nougat,[Кусок|Куска|Кусков] криста
 Lump[s] of Desert Wurmwax,[Кусок|Куска|Кусков] пустынного червевоска
 Lump[s] of Glass,[Кусок|Куска|Кусков] стекла
 Lump[s] of Invar,[Кусок|Куска|Кусков] инвара
-Lump[s] of Mistonium,кусок[|а|ов] мистониума
-Lump[s] of Mithrillium,Кусок[|а|ов] мифриллия
-Lump[s] of Mizin,кусок[|а|ов] мизина
-Lump[s] of Primordium,кусок[|а|ов] примордиума
-Lump[s] of Raw Ambrite,кусок[|а|ов] сырого амбрита
-Lump[s] of Tin,кусок[|а|ов] олова
+Lump[s] of Mistonium,[кусок|куска|кусков] мистониума
+Lump[s] of Mithrillium,[Кусок|Куска|Кусков] мифриллия
+Lump[s] of Mizin,[кусок|куска|кусков] мизина
+Lump[s] of Primordium,[кусок|куска|кусков] примордиума
+Lump[s] of Raw Ambrite,[кусок|куска|кусков] сырого амбрита
+Lump[s] of Tin,[кусок|куска|кусков] олова
 "Lunar Arch[pl:""Arches""]",[Лунный арх|Лунные архи|Лунных архов]
 Lunar Astrolabe Axe Skin[s],облик[|а|ов] топора «Лунная астролябия»
 Lunar Astrolabe Dagger Skin[s],облик[|а|ов] кинжала «Лунная астролябия»
