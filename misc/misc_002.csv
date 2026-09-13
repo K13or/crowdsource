@@ -71,9 +71,9 @@ english,translate
 "%str1% I'm sorry you had to see that. I'd help him if I could, you know?","%str1% Мне жаль, что тебе пришлось это видеть. Я бы помог ему, если бы мог, понимаешь?"
 "%str1% is fine. And thanks for everything, Rox. Good to see you again.","%str1% подойдёт. И спасибо за всё, Rox. Рад снова тебя видеть."
 "%str1%! Perfect timing, just like at Dragon Bash. I couldn't have hidden us much longer. I was already drained from bringing down the tower veil. It was quite a powerful mesmer spell.","%str1%! Вовремя, прямо как на Dragon Bash. Я бы не смогла прятать нас намного дольше. Я уже выдохлась, поддерживая завесу башни. Это было довольно мощное заклинание месмера."
-%str1%%str2%Crimson Antique Flanged Mace%str3%%str4%,%str1%%str2%Старинный цитриновый шестопёр%str3%%str4%
-%str1%%str2%Crimson Antique Harpoon Gun%str3%%str4%,%str1%%str2%Старинная цитриновая гарпунная пушка%str3%%str4%
-%str1%%str2%Crimson Dragon Slayer Hammer%str3%%str4%,%str1%%str2%Лазурный молот убийцы драконов%str3%%str4%
+%str1%%str2%Crimson Antique Flanged Mace%str3%%str4%,%str1%%str2%Старинный багровый шестопёр%str3%%str4%
+%str1%%str2%Crimson Antique Harpoon Gun%str3%%str4%,%str1%%str2%Старинная багровая гарпунная пушка%str3%%str4%
+%str1%%str2%Crimson Dragon Slayer Hammer%str3%%str4%,%str1%%str2%Багровый молот убийцы драконов%str3%%str4%
 %str1%%str2%Destroyer Greatsword%str3%%str4%,%str1%%str2%Двуручный меч зверобоя%str3%%str4%
 %str1%%str2%Devout Mantle%str3%%str4%,%str1%%str2%Накидка Авроры%str3%%str4%
 %str1%%str2%Devout Shoes%str3%%str4%,%str1%%str2%Туфли Авроры%str3%%str4%
@@ -148,26 +148,26 @@ english,translate
 %str1%%str2%Tribal Mantle%str3%%str4%,%str1%%str2%Карнавальный кинжал%str3%%str4%
 %str1%%str2%Trident of the Scion%str3%%str4%,%str1%%str2%Артефакт Отпрыска%str3%%str4%
 %str1%%str2%Trident of the Sunless%str3%%str4%,%str1%%str2%Артефакт Бессолнечного%str3%%str4%
-%str1%%str2%Violet Antique Artifact%str3%%str4%,%str1%%str2%Старинный кобальтовый артефакт%str3%%str4%
-%str1%%str2%Violet Antique Claymore%str3%%str4%,%str1%%str2%Старинный кобальтовый клеймор%str3%%str4%
-%str1%%str2%Violet Antique Flanged Mace%str3%%str4%,%str1%%str2%Старинный кобальтовый шестопёр%str3%%str4%
-%str1%%str2%Violet Antique Harpoon Gun%str3%%str4%,%str1%%str2%Старинная кобальтовая гарпунная пушка%str3%%str4%
-%str1%%str2%Violet Antique Herald%str3%%str4%,%str1%%str2%Старинный кобальтовый глашатай%str3%%str4%
-%str1%%str2%Violet Antique Impaler%str3%%str4%,%str1%%str2%Старинный кобальтовый пронзатель%str3%%str4%
-%str1%%str2%Violet Antique Razor%str3%%str4%,%str1%%str2%Старинная кобальтовая бритва%str3%%str4%
-%str1%%str2%Violet Antique Reaver%str3%%str4%,%str1%%str2%Старинный кобальтовый жнец%str3%%str4%
-%str1%%str2%Violet Antique Short Bow%str3%%str4%,%str1%%str2%Старинный кобальтовый короткий лук%str3%%str4%
-%str1%%str2%Violet Antique Spire%str3%%str4%,%str1%%str2%Старинный кобальтовый клинок%str3%%str4%
-%str1%%str2%Viridian Antique Artifact%str3%%str4%,%str1%%str2%Старинный цитриновый артефакт%str3%%str4%
-%str1%%str2%Viridian Antique Bastion%str3%%str4%,%str1%%str2%Старинный цитриновый бастион%str3%%str4%
-%str1%%str2%Viridian Antique Claymore%str3%%str4%,%str1%%str2%Старинный цитриновый клеймор%str3%%str4%
-%str1%%str2%Viridian Antique Greatbow%str3%%str4%,%str1%%str2%Старинный цитриновый большой лук%str3%%str4%
-%str1%%str2%Viridian Antique Herald%str3%%str4%,%str1%%str2%Старинный цитриновый глашатай%str3%%str4%
-%str1%%str2%Viridian Antique Musket%str3%%str4%,%str1%%str2%Старинный цитриновый мушкет%str3%%str4%
-%str1%%str2%Viridian Antique Razor%str3%%str4%,%str1%%str2%Старинный цитриновый клинок%str3%%str4%
-%str1%%str2%Viridian Antique Revolver%str3%%str4%,%str1%%str2%Старинный цитриновый револьвер%str3%%str4%
-%str1%%str2%Viridian Antique Short Bow%str3%%str4%,%str1%%str2%Старинный цитриновый короткий лук%str3%%str4%
-%str1%%str2%Viridian Antique Warhammer%str3%%str4%,%str1%%str2%Старинный цитриновый боевой молот%str3%%str4%
+%str1%%str2%Violet Antique Artifact%str3%%str4%,%str1%%str2%Старинный фиолетовый артефакт%str3%%str4%
+%str1%%str2%Violet Antique Claymore%str3%%str4%,%str1%%str2%Старинный фиолетовый клеймор%str3%%str4%
+%str1%%str2%Violet Antique Flanged Mace%str3%%str4%,%str1%%str2%Старинный фиолетовый шестопёр%str3%%str4%
+%str1%%str2%Violet Antique Harpoon Gun%str3%%str4%,%str1%%str2%Старинная фиолетовая гарпунная пушка%str3%%str4%
+%str1%%str2%Violet Antique Herald%str3%%str4%,%str1%%str2%Старинный фиолетовый глашатай%str3%%str4%
+%str1%%str2%Violet Antique Impaler%str3%%str4%,%str1%%str2%Старинный фиолетовый пронзатель%str3%%str4%
+%str1%%str2%Violet Antique Razor%str3%%str4%,%str1%%str2%Старинная фиолетовая бритва%str3%%str4%
+%str1%%str2%Violet Antique Reaver%str3%%str4%,%str1%%str2%Старинный фиолетовый жнец%str3%%str4%
+%str1%%str2%Violet Antique Short Bow%str3%%str4%,%str1%%str2%Старинный фиолетовый короткий лук%str3%%str4%
+%str1%%str2%Violet Antique Spire%str3%%str4%,%str1%%str2%Старинный фиолетовый клинок%str3%%str4%
+%str1%%str2%Viridian Antique Artifact%str3%%str4%,%str1%%str2%Старинный виридиановый артефакт%str3%%str4%
+%str1%%str2%Viridian Antique Bastion%str3%%str4%,%str1%%str2%Старинный виридиановый бастион%str3%%str4%
+%str1%%str2%Viridian Antique Claymore%str3%%str4%,%str1%%str2%Старинный виридиановый клеймор%str3%%str4%
+%str1%%str2%Viridian Antique Greatbow%str3%%str4%,%str1%%str2%Старинный виридиановый большой лук%str3%%str4%
+%str1%%str2%Viridian Antique Herald%str3%%str4%,%str1%%str2%Старинный виридиановый глашатай%str3%%str4%
+%str1%%str2%Viridian Antique Musket%str3%%str4%,%str1%%str2%Старинный виридиановый мушкет%str3%%str4%
+%str1%%str2%Viridian Antique Razor%str3%%str4%,%str1%%str2%Старинный виридиановый клинок%str3%%str4%
+%str1%%str2%Viridian Antique Revolver%str3%%str4%,%str1%%str2%Старинный виридиановый револьвер%str3%%str4%
+%str1%%str2%Viridian Antique Short Bow%str3%%str4%,%str1%%str2%Старинный виридиановый короткий лук%str3%%str4%
+%str1%%str2%Viridian Antique Warhammer%str3%%str4%,%str1%%str2%Старинный виридиановый боевой молот%str3%%str4%
 %str1%%str2%Warhammer of the Broken Voice%str3%%str4%,%str1%%str2%Жаровня Сломленного Голоса%str3%%str4%
 %str1%%str2%Warhammer of the Sunless%str3%%str4%,%str1%%str2%Жаровня Бессолнечного%str3%%str4%
 %str1%%str2%Warhorn of the Dragon's Deep%str3%%str4%,%str1%%str2%Боевой рог Глубин Дракона%str3%%str4%
