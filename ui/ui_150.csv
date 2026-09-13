@@ -448,7 +448,7 @@ Time until fish flee: %str1%,Время до бегства рыбы: %str1%
 Time until germination: %str1%,Время до прорастания: %str1%
 Time until jade construct arrives: %str1%,Время до прибытия нефритового конструкта: %str1%
 Time until mission start:,Время до начала миссии:
-Time until Mordrem breach Tarir: %str1%,Время до прорыва мордремов в Тарир: %str1%
+Time until Mordrem breach Tarir: %str1%,Время до прорыва мордремов в Tarir: %str1%
 Time until Mordrem resume activity: %str1%,Время до возобновления активности мордремов: %str1%
 Time until next hint: %str1%,Время до следующей подсказки: %str1%
 Time until next point tally: %str1%,Время до следующего подсчёта очков: %str1%

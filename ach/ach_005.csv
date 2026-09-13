@@ -145,7 +145,7 @@ Collect %num2% Janthir Wilds Set 2 relics by completing achievements or from the
 Collect %num2% Janthir Wilds Set 3 relics by completing achievements or from the Janthir Wilds reward track.,"Соберите %num2% реликвий набора 3 Диких земель Джантира, выполняя достижения или из наградного трека Диких земель Джантира."
 Collect %num2% Kryptis essences in Convergences. (Gain less progress when collecting essence as a wisp with the Wisp Pockets Mastery.),"Соберите %num2% эссенций криптисов в Конвергенциях. (Прогресса меньше, если собирать эссенцию в облике виспа с мастерством Висп Pockets.)"
 Collect %num2% War Supplies from charr salvage found in the Drizzlewood Coast.,Соберите %num2% War Supplies из утиля чарров на Drizzlewood Coast.
-Collect %num2% books on Sunspear history from Kormir's sanctum.,Соберите %num2% книг по истории Солнечных Копий из святилища Кормир.
+Collect %num2% books on Sunspear history from Kormir's sanctum.,Соберите %num2% книг по истории Солнечных Копий из святилища Kormir.
 Collect %num2% calibrated essence in Mount Balrior Convergences. (Gain less progress when collecting essence as a wisp.),"Соберите %num2% калиброванной эссенции в Конвергенциях на Mount Balrior. (Прогресса меньше, если собирать эссенцию в облике виспа.)"
 Collect %num2% crystals.,Соберите %num2% кристаллов.
 Collect %num2% different fish from the isles off the coast of Elona.,Соберите %num2% разных видов рыбы с островов у побережья Элоны.
@@ -219,7 +219,7 @@ Collect 20 skimmer-dredged treasures in maps within the Ruins of Orr and Ring of
 Collect 20 skimmer-dredged treasures in maps within the Shiverpeak Mountains region.,"Соберите 20 сокровищ, добытых скиммером, на картах региона Шиверпикские горы."
 Collect 20 skimmer-dredged treasures in maps within the Tarnished Coast and Steamspur Mountain regions.,"Соберите 20 сокровищ, добытых скиммером, на картах регионов Запятнанное побережье и горы Steamspur."
 Collect 200 Hatched Chilis in Grothmar Valley.,Соберите 200 вылупившихся чили в Grothmar Valley.
-Collect 50 essences using your skyscale throughout Nayos.,Соберите 50 эссенций с помощью вашего скайскейла по всему Найосу.
+Collect 50 essences using your skyscale throughout Nayos.,Соберите 50 эссенций с помощью вашего скайскейла по всему Nayos.
 Collect Blessings of Arborstone and return them to the top of the cathedral.,Соберите Благословения Арборстоуна и верните их на вершину собора.
 Collect Cami's journal entries around Ember Bay.,Соберите записи из дневника Cami по всему Заливу Углей.
 Collect Fragments of Forgotten Lore from Various Locations in Orr,Соберите Фрагменты забытых знаний из различных локаций в Орре.
@@ -349,7 +349,7 @@ Collect overdue library books—through whatever means necessary.,Соберит
 Collect parts to construct a turtle saddle and turrets.,Соберите детали для создания седла черепахи и турелей.
 Collect private letters scattered about Beetlestone Manor.,"Соберите личные письма, разбросанные по Beetlestone Manor."
 Collect seer ritual relics for clues about the hidden location of Ancora.,"Соберите ритуальные реликвии провидцев, чтобы получить подсказки о скрытом местоположении Анкора."
-Collect skyscale scales to help Gorrik discover what is ailing the new species of dragon.,"Соберите чешую чешуйчатого змея, чтобы помочь Горрик выяснить, что беспокоит новый вид драконов."
+Collect skyscale scales to help Gorrik discover what is ailing the new species of dragon.,"Соберите чешую чешуйчатого змея, чтобы помочь Gorrik выяснить, что беспокоит новый вид драконов."
 Collect stolen Black Lion supplies from thieving skritt during the event.,Соберите украденные припасы Black Lion у вороватых скриттов во время события.
 Collect the %num2% parts required to assemble Luminescent Boots.,"Соберите %num2% частей, нужных для сборки Светящихся сапог."
 Collect the %num2% parts required to assemble Luminescent Gloves.,"Соберите %num2% частей, нужных для сборки Светящихся перчаток."
@@ -361,7 +361,7 @@ Collect the %num2% parts to create an Aurene mini.,"Соберите %num2% ча
 Collect the Kryptis weapons left behind.,Соберите оставленное оружие Криптис.
 Collect the ascended accessories from each dungeon.,Соберите вознесённые аксессуары из каждого подземелья.
 "Collect the fragments of the book ""Garden of the Gods.""",Соберите фрагменты книги «Garden of the Gods».
-Collect the items Gorrik asked for to complete Petey's guided evolution.,"Соберите предметы, о которых просил Горрик, чтобы завершить направленную эволюцию Пити."
+Collect the items Gorrik asked for to complete Petey's guided evolution.,"Соберите предметы, о которых просил Gorrik, чтобы завершить направленную эволюцию Пити."
 Collect the lost journal entries.,Соберите утерянные записи дневника.
 Collect the masks of fallen Exalted throughout Auric Basin.,Соберите маски павших возвышенных по всему Auric Basin.
 Collect the necessary materials to complete the Dragonscale Cape.,Соберите необходимые материалы для создания Чешуйчатый плащ дракона.
@@ -400,8 +400,8 @@ Collect turtle food to help your little friend grow.,"Соберите корм 
 Collect various teleportation gizmos.,Соберите различные приспособления для телепортации.
 Collect volatile magic around the Moon Fortress.,Соберите нестабильную магию вокруг Moon Fortress.
 Collecting Coalescence,Collecting Coalescence
-"Collecting these cards is a popular diversion for citizens of Amnoon. Sandstorm cards are said to also reveal one's fortune, a prospect of dubious appeal in these turbulent times.","Коллекционирование этих карт — популярное развлечение среди жителей Амнун. Говорят, что карты Sandstorm также могут предсказывать судьбу, что весьма сомнительно в эти неспокойные времена."
-Collection: Help Gorrik make a new friend.,Коллекция: Помогите Горрик завести нового друга.
+"Collecting these cards is a popular diversion for citizens of Amnoon. Sandstorm cards are said to also reveal one's fortune, a prospect of dubious appeal in these turbulent times.","Коллекционирование этих карт — популярное развлечение среди жителей Amnoon. Говорят, что карты Sandstorm также могут предсказывать судьбу, что весьма сомнительно в эти неспокойные времена."
+Collection: Help Gorrik make a new friend.,Коллекция: Помогите Gorrik завести нового друга.
 Color Guard,Color Guard
 Color the Sky,Color the Sky
 Colossal Defense,Colossal Defense
@@ -443,7 +443,7 @@ Complete %num2% Brisban Wildlands Dragon Response Mission[s] with all challenges
 Complete %num2% Caledon Forest Dragon Response Mission[s] with all challenges active.,Завершите %num2% задани[е|я|й] по реагированию на драконов в Caledon Forest со всеми активными испытаниями.
 Complete %num2% Clockwork Chaos achievements.,Выполните %num2% достижений «Часовой хаос».
 Complete %num2% Convergences in Mount Balrior by defeating the final opponent.,"Завершите %num2% Конвергенций на Mount Balrior, победив последнего противника."
-Complete %num2% Convergences in Outer Nayos by defeating the final opponent.,"Завершите %num2% Конвергенций во Внешнем Найосе, победив последнего противника."
+Complete %num2% Convergences in Outer Nayos by defeating the final opponent.,"Завершите %num2% Конвергенций во Внешнем Nayos, победив последнего противника."
 Complete %num2% Corrupted Spirit event[s] in West Bjora Marches.,Завершите %num2% событи[е|я|й] с порчеными духами в Западных Топях Бьоры.
 Complete %num2% Disable Inquest Cannon event[s].,Завершите %num2% событи[е|я|й] по отключению пушки Inquest.
 Complete %num2% Dragon Bash achievement[s].,Выполните %num2% достижени[е|я|й] Dragon Bash.

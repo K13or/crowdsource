@@ -9,7 +9,7 @@ The chieftain has returned.,Вождь вернулся.
 The choking fog... Still it has not returned. Will you run?,Удушающий туман... Он всё ещё не вернулся. Ты убежишь?
 The chopper is ready to depart. Do you need a lift to the Eye of the North?,"Вертолёт готов к отлёту. Вам нужна помощь, чтобы добраться до Eye of the North?"
 "The citizens of Beetletun are harried by the constant threat of centaur attacks. Many have moved to the city to avoid being captured by centaurs, who take their captives to a prison camp in the eastern hills. Tunwatch does what it can, but even the Seraph can be defeated.","Жителей Бителтуна постоянно беспокоят набеги кентавров. Многие переехали в город, чтобы избежать пленения, ведь кентавры отвозят пленных в лагерь в восточных холмах. Стража Тан делает всё возможное, но даже серафимов можно победить."
-"The citizens of Beetletun feel safer due to your efforts, %str1%. May Dwayna bless the path you walk and keep you from danger in the future.","Жители Бителтуна чувствуют себя в большей безопасности благодаря вашим усилиям, %str1%. Да пребудет с вами благословение Двайны и убережет от опасностей в будущем."
+"The citizens of Beetletun feel safer due to your efforts, %str1%. May Dwayna bless the path you walk and keep you from danger in the future.","Жители Бителтуна чувствуют себя в большей безопасности благодаря вашим усилиям, %str1%. Да пребудет с вами благословение Dwayna и убережет от опасностей в будущем."
 "The city is in ruins, but we must fight here to defend our caves...our home. Cannot let them conquer us. (cough)","Город разрушен, но мы должны сражаться здесь, чтобы защитить наши пещеры... наш дом. Не позволим им нас завоевать. (кашель)"
 "The city will be quiet now, for a while.",Город теперь ненадолго погрузится в тишину.
 The clash of arms beckons!,Зов оружия манит!
@@ -58,7 +58,7 @@ The door mechanism requires a special type of power core before it can be opened
 The doors are locked.,Двери заперты.
 "The dragon gave the orders, but someone still had to carry them out.","Дракон отдал приказ, но кто-то всё равно должен был его выполнить."
 The dragon steadies our hand.,Дракон направляет наши действия.
-The dragon's forces are gaining strength. You must help protect Tarir.,Силы дракона прибывают. Вы должны помочь защитить Тарир.
+The dragon's forces are gaining strength. You must help protect Tarir.,Силы дракона прибывают. Вы должны помочь защитить Tarir.
 "The dragon's servants will never let our ships sail. If they surround the docks, they'll slaughter us—and Zhaitan's forces will grow.","Слуги дракона никогда не позволят нашим кораблям отплыть. Если они окружат доки, они нас всех перебьют, и силы Зайтана только возрастут."
 The dragon's steel...,Драконья сталь...
 "The dragons are a threat to everyone, Ikniu. I'm pleased your village has joined the fight against them.","Драконы — угроза для всех, lkniu. Я рад, что ваша деревня присоединилась к борьбе с ними."
@@ -369,7 +369,7 @@ The rumors were true: dredge did attack Scholar's Cleft. They killed a lot of pe
 The rune wards are weakening! Ravenous wanderer escapes in: %str1%,Рунические барьеры ослабевают! Ненасытный скиталец сбегает в: %str1%
 The sapling! Protect it until a new corpse taker can sprout!,"Саженец! Защитите его, пока не вырастет новый похититель трупов!"
 The scrying stone can allow you to relive past events...but the mind can be unreliable. Who knows what may change and shift as you dive into those memories.,"С помощью этого магического камня можно пережить события прошлого, но память бывает обманчива. Кто знает, что изменится и исказится, когда вы погрузитесь в эти воспоминания."
-The scuffed stone at the base of this statue of Dwayna speaks of the great number of visitors who came to make their pleas to the goddess.,"Потертый камень у подножия этой статуи Двайны свидетельствует о том, что сюда приходило множество людей, чтобы вознести свои молитвы богине."
+The scuffed stone at the base of this statue of Dwayna speaks of the great number of visitors who came to make their pleas to the goddess.,"Потертый камень у подножия этой статуи Dwayna свидетельствует о том, что сюда приходило множество людей, чтобы вознести свои молитвы богине."
 "The scutters in this cavern are invested with tremendous energy inside their abdomens. I've devised a method for harnessing it, and I intend to use it to power my golem.","У этих жуков, обитающих в этой пещере, в брюшках скопилось огромное количество энергии. Я разработал способ извлечения и использования этой энергии для питания моего голема."
 The sea is most dangerous when I'm on it.,"Море самое опасное, когда я на нём."
 "The seat of Joko's power, the Bone Palace reeks of death. The air is heavy with the souls of those condemned to serve.","В Костяном дворце, центре власти Джоко, царит смрад смерти. Воздух пропитан душами тех, кто обречен служить ему."
@@ -416,7 +416,7 @@ The spirits are pleased by such bravado. May this reminder drive you eagerly tow
 The spirits in the Lair have run into some trouble. Will you help them?,Духи в Логове столкнулись с некоторыми проблемами. Вы поможете им?
 The star of the show!,Главная звезда шоу!
 The statistics favor our success.,Статистика говорит о наших шансах на успех.
-"The statue of Grenth is doused with shadows. Life wanes in the presence of the stone-carved god of death as the monument emits an eerie, piercing chill.","Статуя Грента окутана тенями. Жизнь угасает в присутствии высеченного из камня бога смерти, а монумент излучает жуткий пронизывающий холод."
+"The statue of Grenth is doused with shadows. Life wanes in the presence of the stone-carved god of death as the monument emits an eerie, piercing chill.","Статуя Grenth окутана тенями. Жизнь угасает в присутствии высеченного из камня бога смерти, а монумент излучает жуткий пронизывающий холод."
 The statue! Don't let them get any closer.,Статуя! Не дайте им подойти ближе.
 The stench of chum applies vulnerability.,Смердящая приманка вызывает уязвимость.
 The stench of death permeates the air.,В воздухе ощущается смрад смерти.
@@ -457,7 +457,7 @@ The three tribes have united against the Flame Legion. The grawl high shaman has
 The time has come for action.,Настало время действовать.
 The time is now. Ignite the weapon. We shall make the unbelievers burn!,Настал час. Зажгите оружие. Пусть неверные сгорят!
 "The time isn't right, just yet. Wait here.",Пока ещё не время. Подожди здесь.
-"The time-worn inscription on this ancient statue of Melandru has only one line left legible. ""...I bind ye to these lands. When they suffer, so shall ye suffer.""","На древней статуе Меландру, истерзанной временем, сохранилась лишь одна читаемая строка: «...Я связываю вас с этими землями. Когда они будут страдать, вы тоже будете»."
+"The time-worn inscription on this ancient statue of Melandru has only one line left legible. ""...I bind ye to these lands. When they suffer, so shall ye suffer.""","На древней статуе Melandru, истерзанной временем, сохранилась лишь одна читаемая строка: «...Я связываю вас с этими землями. Когда они будут страдать, вы тоже будете»."
 "The titans have been denied their feast, but it is only a matter of time before they return.","Титанам не позволили насытиться, но лишь вопрос времени, когда они вернутся."
 The titans have sated themselves on the bloodstones. We must not fail again.,Титаны насытились кровью кровавых камней. Мы не должны допустить повторения этой ошибки.
 "The tome compiles scraps of lost epics that detail the adventures of a number of legendary heroes, masters of their respective martial specializations. Which would you like to read?","В этой книге собраны отрывки из утерянных эпопей, в которых рассказывается о приключениях множества легендарных героев, мастеров различных боевых искусств. Какую историю вы хотели бы прочитать?"

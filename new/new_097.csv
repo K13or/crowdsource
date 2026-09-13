@@ -112,8 +112,8 @@ Svanir Shamans,Шаманы Сванира
 Svanir Shield,Щит Сванира
 Svanir Territory Marker,Маркер территории Сванира
 Svanir Woodsman,Сванирский лесоруб
-Svanir summoning ritual completes in: %str1%,Ритуал призыва Сванира завершится через: %str1%
-Svanir take your soul!,Сванир забирают твою душу!
+Svanir summoning ritual completes in: %str1%,Ритуал призыва Svanir завершится через: %str1%
+Svanir take your soul!,Svanir забирают твою душу!
 Svanir's returned.,Сванир вернулся.
 Svanna,Сванна
 Svante,Сванте
@@ -452,7 +452,7 @@ Target points scored: %num1%,Набрано очков: %num1%
 Target!,Цель!
 Targets Remaining,Оставшиеся цели
 Target—destroyed.,Цель уничтожена.
-Tarir was overrun by Mordrem. They can't be allowed to control the city.,"Тарир захватили мордремы. Мы не можем допустить, чтобы они контролировали город."
+Tarir was overrun by Mordrem. They can't be allowed to control the city.,"Tarir захватили мордремы. Мы не можем допустить, чтобы они контролировали город."
 Tarleov,Тарлеов
 Tarnflug,Тарнфлюг
 Tarnished Key[s],Запятнанный ключ[|и|и]
