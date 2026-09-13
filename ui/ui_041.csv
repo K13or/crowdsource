@@ -61,7 +61,7 @@ Chamber Pot,Ночной горшок
 "Chambered Nautilus[pl:""Nautiluses""]",Камерный наутилус[|ауслы|авслу]
 Champion %str1%,Чемпион %str1%
 "Champion Advanced Assault Golem Noko Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпионского продвинутого штурмового голема Ноко
-"Champion Air Elemental Loot Box[pl:""Boxes""]",[Ящик с добычей от чемпиона воздушного элементаля|Ящики с добычей от чемпионов воздушных элементалей|Ящиков с добычей от чемпионов воздушных элементалей]
+"Champion Air Elemental Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпионского элементаля воздуха
 Champion Arid Devourer Cache[s],Сундук[|а|ов] чемпионского сухопутного пожирателя
 Champion Arid Inquest Cache[s],Сундук[|а|ов] чемпионского сухопутного Инквеста
 "Champion Ark the White Tiger Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона Арка Белого Тигра
@@ -98,14 +98,14 @@ Champion Frost Totem,Champion Frost Totem
 "Champion Grawl Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона граулов
 "Champion Head Scientist Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона — главного учёного
 "Champion Hierophant Improaster Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона-иерофанта Импрастера
-"Champion Hirvela the Lost Loot Box[pl:""Boxes""]","Чемпион Хирвела, ящик с потерянным сокровищем[|щики|щиков]"
+"Champion Hirvela the Lost Loot Box[pl:""Boxes""]","[Коробка|Коробки|Коробок] с добычей Чемпиона Хирвелы"
 "Champion Hound of Balthazar Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпионского пса Бальтазара
 "Champion Hylek Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона хилек
 Champion Ice Beast,Champion Ice Beast
 Champion Ice Elemental,Champion Ice Elemental
 Champion Icebrood,Champion Icebrood
-"Champion Icebrood Goliath Loot Box[pl:""Boxes""]",[Ящик с добычей от чемпиона Ледяного Брода|Ящики с добычей от чемпионов Ледяного Брода|Ящиков с добычей от чемпионов Ледяного Брода]
-"Champion Inquest Loot Box[pl:""Boxes""]",[Ящик с добычей от Чемпионского Инквизита|Ящики с добычей от Чемпионского Инквизита|Ящиков с добычей от Чемпионского Инквизита]
+"Champion Icebrood Goliath Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона — голиафа ледяного отродья
+"Champion Inquest Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона Инквеста
 "Champion Inquest Technologist Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей исследованного технолога
 "Champion Inspector Snik Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона-инспектора Сника
 "Champion Jotun Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона йотунов
@@ -131,7 +131,7 @@ Champion Mordrem Troll Iron has been defeated.,Champion Mordrem Тролль Ж�
 "Champion Mouth of Zhaitan Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона Пасти Зайтана
 "Champion Mutated Fish Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпионской мутировавшей рыбы
 "Champion Nente Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона Ненте
-"Champion Nightmare Court Loot Box[pl:""Boxes""]",[Ящик с добычей из кошмарного двора чемпионов|Ящики с добычей из кошмарного двора чемпионов|Ящиков с добычей из кошмарного двора чемпионов]
+"Champion Nightmare Court Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона Кошмарного двора
 "Champion of Blood[pl:""Blood""]",Хранитель крови
 "Champion of Life[pl:""Life""]",[Чемпион|Чемпиона|Чемпионов] жизни
 Champion of Tyria Package,Набор «Чемпион Тирии»
@@ -150,13 +150,13 @@ Champion Risen,Champion Risen
 "Champion Separatist Lieutenant Loot Box[pl:""Boxes""]","[Коробка|Коробки|Коробок] с добычей лейтенанта «Чемпион сепаратистов»"
 "Champion Separatist Sergeant Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей: чемпион-сепаратистский капрал
 Champion Skritt Bottle Lobber,Champion Skritt Bottle Lobber
-"Champion Skritt Loot Box[pl:""Boxes""]",[Ящик с добычей чемпиона-скритта|Ящики с добычей чемпионов-скриттов|Ящиков с добычей чемпионов-скриттов]
+"Champion Skritt Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона-скритта
 Champion Slayer's Chest[s],[Сундук|Сундука|Сундуков] убийцы чемпионов
 "Champion Sleepy the Black Bear Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с трофеями: Спящий Чёрный Медведь
 Champion Snag Seizeclaw,Champion Snag Seizeclaw
 "Champion Snuffles the White Rabbit Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с трофеями «Белый Кролик» Снфлз
 Champion Sons of Svanir Brute,Чемпион Сыны Сванира Громила
-"Champion Sons of Svanir Loot Box[pl:""Boxes""]",Ларец с добычей сыновей сваниров[|а|ов]
+"Champion Sons of Svanir Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона Сыновей Сванира
 Champion Sons of Svanir Tyrant,Чемпион Сыны Сванира Тиран
 Champion Stone Summit Crusher,Champion Stone Summit Crusher
 Champion Terror of the Sands,Чемпион Ужас песков
