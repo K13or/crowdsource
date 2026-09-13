@@ -135,9 +135,9 @@ Journal 2 in Forging Steel,Дневник 2 в Кузнице стали
 Journal 3 in Forging Steel,Дневник 3 в Кузнице стали
 Journal 4 in Forging Steel,Дневник 4 в Кузнице стали
 Journal 5 in Forging Steel,Дневник 5 в «Стальной ковке»
-Journal 6 in Darkrime Delves,Дневник 6 в «Тёмных глубинах»
-Journal 7 in Darkrime Delves,Дневник 7 в «Тёмных глубинах»
-Journal 8 in Darkrime Delves,Дневник 8 в «Тёмных глубинах»
+Journal 6 in Darkrime Delves,Дневник 6 в «Darkrime Delves»
+Journal 7 in Darkrime Delves,Дневник 7 в «Darkrime Delves»
+Journal 8 in Darkrime Delves,Дневник 8 в «Darkrime Delves»
 Journal Fragment,Фрагмент дневника
 Journal of a lost tengu.,Дневник потерявшегося тенгу.
 Journal of Forgemender Arngirn,Дневник кузнеца-заклинателя Арнгерна
@@ -431,7 +431,7 @@ Karka Hatchling[s],Детёныш[|а|ей] карка
 Karka Helm Skin[s],Облик[|а|ов] шлема карка
 Karka Jerky,Вяленая мяса кракена
 Karka Nest,Гнездо карки
-Karka Queen Claw[s],[Коготь|Когтя|Когтей] королевы карка
+Karka Queen Claw[s],[Коготь|Когтя|Когтей] Karka Queen
 Karka Roll,Рулет из карки
 Karka Shell[s],[Панцирь|Панциря|Панцирей] карка
 Karka Slayer,Убийца карок

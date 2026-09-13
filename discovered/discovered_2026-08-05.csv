@@ -489,7 +489,7 @@ Viathan Waypoint,Путь к Вайтану
 Darkwound Waypoint,Путь к Тёмной Ране
 Cereboth Waypoint,Перекрёсток Серебот
 Overlake Haven Waypoint,Путь к Overlake Haven
-Kessex Haven Waypoint,Перекрёсток Кессекс-Хейвен
+Kessex Haven Waypoint,Перекрёсток Kessex Haven
 Cavernhold Camp Waypoint,Путь к лагерю Кавернхолд
 Greyhoof Camp Waypoint,Путь к лагерю Грейхуф
 Black Haven,Чёрная гавань
@@ -719,7 +719,7 @@ Refugee,Беженец
 Servant,Слуга
 Dig Site Gamma,Раскопки Гамма
 Sailor's Heart,Сердце моряка
-Malice Swordshadow,Меч-тень злобы
+Malice Swordshadow,Malice Swordshadow
 Forecastle Rock,Скальный выступ Фо́ркасл
 Consecrated Piazza,Освящённая площадь
 Hidden Aquifer,Скрытый водоносный горизонт
@@ -759,13 +759,13 @@ Dust Mites,Пылевые клещи
 Experimental Lab Red,Экспериментальная лаборатория (красная)
 Experimental Lab Green,Экспериментальная лаборатория (зелёная)
 Highborn Kings Waypoint,Путь Высокородных королей
-Temple of Kormir Waypoint,Путь к храму Кормир
+Temple of Kormir Waypoint,Путь к Temple of Kormir
 Amnoon Harbor,Порт Амнун
 First Camp,Первый лагерь
-Temple of Kormir,Храм Кормира
+Temple of Kormir,Temple of Kormir
 Free City of Amnoon,Свободный город Амнун
 Destiny's Gorge,Ущелье Судьбы
-Throne of Pellentia,Трон Пеллентии
+Throne of Pellentia,Throne of Pellentia
 Scattered Remnants,Разбросанные останки
 The Deadhouse,Мёртвый дом
 Amnoon Southern Outskirts,Южная окраина Амнуна
@@ -833,7 +833,7 @@ Candescent Corridor,Раскалённый коридор
 Isgarren,Исгаррен
 Excavation Point 7-G,Раскоп 7-Г
 Heitor,Эйтор
-Lady Kasmeer Meade,Леди Касмир Мид
+Lady Kasmeer Meade,Lady Kasmeer Meade
 Raptor Rental,Аренда рапторов
 Jade Brotherhood,Jade Brotherhood
 Tae-Jin's Estate,Имение Тэйджина
@@ -932,7 +932,7 @@ Ley-Infused Branded Forgotten Priest,"Забытый жрец, отмеченн�
 Hammer of Wisdom,Молот Мудрости
 Shield of the Avenger,Щит Мстителя
 Sword of Justice,Меч справедливости
-Eye of Zhaitan,Око Зайтана
+Eye of Zhaitan,Eye of Zhaitan
 Dominion's Breach,Пролом Доминиона
 Lighthouse Point,Маяк Пойнт
 Wolf's Crossing,Волчий переход
@@ -1163,5 +1163,5 @@ Scuttle these creatures!,Уничтожьте этих тварей!
 Grenth take you all!,Да пребудет с вами Грент!
 Let's wreck Zhaitan's warship.,Давайте уничтожим военный корабль Зайтана.
 For the tribes! For Tyria!,За наши племена! За Тирию!
-The invasion has been pushed back. Forces are regrouping and awaiting reinforcements off the coast of Stentor Cannonade.,Вторжение отбито. Силы перегруппировываются и ждут подкрепления у берегов Стенторской Канонады.
-Pact soldiers are attempting to hold off the Risen as they await reinforcements off the coast of Stentor Cannonade.,"Солдаты Пакт пытаются сдержать натиск восставших, ожидая подкрепления у берегов Стенторской крепости."
+The invasion has been pushed back. Forces are regrouping and awaiting reinforcements off the coast of Stentor Cannonade.,Вторжение отбито. Силы перегруппировываются и ждут подкрепления у берегов Stentor Cannonade.
+Pact soldiers are attempting to hold off the Risen as they await reinforcements off the coast of Stentor Cannonade.,"Солдаты Пакт пытаются сдержать натиск восставших, ожидая подкрепления у берегов Stentor Cannonade."
