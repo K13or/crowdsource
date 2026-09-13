@@ -53,7 +53,7 @@ Found in the Eye of the North.","<c=@flavor>Солнечное Копьё ник
 <c=@flavor>An accurate description of this tiny pocket knife.</c>,<c=@flavor>Точное описание этого крошечного перочинного ножа.</c>
 <c=@flavor>An amulet once worn by Ebon Vanguard soldiers in the windswept north.</c>,"<c=@flavor>Амулет, что некогда носили солдаты Эбонового Авангарда на продуваемом ветрами севере.</c>"
 <c=@flavor>An ancient Elonian relic said to have once been extremely valuable.</c>,"<c=@flavor>Древняя элонская реликвия, некогда, как говорят, невероятно ценная.</c>"
-"<c=@flavor>An ancient relic of old Cantha, from the time of its corruption by the Deceiver's dark magic.</c>","<c=@flavor>Древняя реликвия старой Канты, времён её растления тёмной магией Обманщика.</c>"
+"<c=@flavor>An ancient relic of old Cantha, from the time of its corruption by the Deceiver's dark magic.</c>","<c=@flavor>Древняя реликвия старой Cantha, времён её растления тёмной магией Обманщика.</c>"
 <c=@flavor>An ancient relic of the mystic beings of Echovald Forest.</c>,<c=@flavor>Древняя реликвия мистических существ Echovald Forest.</c>
 "<c=@flavor>An attached note reads, ""Until the last enemy of Kryta falls, we fight on.""</c>
 Double-click to open.","<c=@flavor>На прикреплённой записке значится: «Пока не падёт последний враг Крайты, мы сражаемся».</c>
@@ -161,7 +161,7 @@ Double-click to view the target's predicted location.","<c=@flavor>По прик
 "<c=@flavor>Crafted in the style of the legendary Sunspear, Nerashi.</c>",<c=@flavor>Изготовлено в стиле легендарной воительницы Солнечных Копий Нераши.</c>
 "<c=@flavor>Crafted in the style of the renowned asura engineer, Demolitionist Tonn.</c>","<c=@flavor>Изготовлено в стиле прославленного инженера-асуры, подрывника Тонна.</c>"
 "<c=@flavor>Crafted in the style of the renowned asuran genius, Hronk.</c>",<c=@flavor>Изготовлено в стиле прославленного асуранского гения Хронка.</c>
-"<c=@flavor>Crafted in the style of the renowned asuran genius, Zojja.</c>",<c=@flavor>Изготовлено в стиле прославленного асуранского гения Зойи.</c>
+"<c=@flavor>Crafted in the style of the renowned asuran genius, Zojja.</c>",<c=@flavor>Изготовлено в стиле прославленного асуранского гения Zojja.</c>
 "<c=@flavor>Crafted in the style of the renowned charr armorer, Ferratus Blightaxe.</c>",<c=@flavor>Изготовлено в стиле прославленного чаррского бронника Феррата Порчетопора.</c>
 "<c=@flavor>Crafted in the style of the renowned charr engineer, Tybalt Leftpaw.</c>",<c=@flavor>Изготовлено в стиле прославленного чаррского инженера Tybalt Leftpaw.</c>
 "<c=@flavor>Crafted in the style of the renowned charr meatsmith, Lakor Grizzlemouth.</c>",<c=@flavor>Изготовлено в стиле прославленного чаррского мясника Лакора Гризлемаута.</c>
@@ -254,7 +254,7 @@ Purchased from Shading Willow at the Autumn's Vale renown heart in Lowland Shore
 "<c=@flavor>Forged by the devoted followers of the Prismatic Dragon, using slivers of her jewel-like breath.</c>",<c=@flavor>Выковано преданными последователями Призматического Дракона из осколков её самоцветного дыхания.</c>
 <c=@flavor>Forged in the blazing fires of the Black Citadel's foundry.</c>,<c=@flavor>Выковано в пылающем огне литейной Black Citadel.</c>
 "<c=@flavor>Forged to keep the legend of Asgeir Dragonrender, who fought the Elder Dragon Jormag to safeguard his people.</c>","<c=@flavor>Выковано, чтобы хранить легенду об Asgeir Dragonrender, что бился со Старшим драконом Йормагом, оберегая свой народ.</c>"
-<c=@flavor>Formerly worn by a member of the Imperial Guards of Cantha.</c>,<c=@flavor>Некогда носил один из Имперских стражей Канты.</c>
+<c=@flavor>Formerly worn by a member of the Imperial Guards of Cantha.</c>,<c=@flavor>Некогда носил один из Имперских стражей Cantha.</c>
 <c=@flavor>Fragments of a dagger capable of absorbing intense emotions like a sponge. Found by completing the Silent Surf fractal.</c>,"<c=@flavor>Обломки кинжала, способного впитывать сильные чувства, будто губка. Находится за прохождение фрактала «Безмолвный прибой».</c>"
 <c=@flavor>Fragments of a longbow capable of absorbing intense emotions like a sponge. Found by completing the Silent Surf fractal.</c>,"<c=@flavor>Обломки длинного лука, способного впитывать сильные чувства, будто губка. Находится за прохождение фрактала «Безмолвный прибой».</c>"
 <c=@flavor>Fragments of a staff capable of absorbing intense emotions like a sponge. Found by completing the Silent Surf fractal.</c>,"<c=@flavor>Обломки посоха, способного впитывать сильные чувства, будто губка. Находится за прохождение фрактала «Безмолвный прибой».</c>"
@@ -464,8 +464,8 @@ Purchased from Sava Quicksnarl at the Amduat Point renown heart in Fireheart Ris
 Куплено у Sava Quicksnarl в сердце почёта «Точка Амдуат» на Fireheart Rise."
 <c=@flavor>Smells lucky.</c>,<c=@flavor>Пахнет удачей.</c>
 "<c=@flavor>Smooth from having constantly been toyed with, the initials TL are etched roughly into the metal.</c>","<c=@flavor>Гладкий от того, что его постоянно вертели в руках; на металле грубо выцарапаны инициалы «TL».</c>"
-"<c=@flavor>Smuggled out of Cantha long ago, a relic of the Great House of Lutgardis.</c>",<c=@flavor>Давно вывезено контрабандой из Канты — реликвия Великого дома Лутгардис.</c>
-"<c=@flavor>Smuggled out of Cantha long ago, a relic of the Serpent Clan.<c>",<c=@flavor>Давно вывезено контрабандой из Канты — реликвия клана Змея.<c>
+"<c=@flavor>Smuggled out of Cantha long ago, a relic of the Great House of Lutgardis.</c>",<c=@flavor>Давно вывезено контрабандой из Cantha — реликвия Великого дома Лутгардис.</c>
+"<c=@flavor>Smuggled out of Cantha long ago, a relic of the Serpent Clan.<c>",<c=@flavor>Давно вывезено контрабандой из Cantha — реликвия клана Змея.<c>
 "<c=@flavor>Snug, surprisingly soft, and incredibly heat-resistant.</c>
 Purchased from Guiding Breath at the Harvest Den renown heart in Lowland Shore.","<c=@flavor>Плотно сидит, на удивление мягкое и невероятно жаростойкое.</c>
 Куплено у Ведущего Дыхания в сердце почёта «Harvest Den» в Lowland Shore."
@@ -479,7 +479,7 @@ Double-click to summon this mini to follow you around. Only one mini may be in u
 <c=@flavor>Some charr make small braids of their lover's fur to carry with them.</c>,<c=@flavor>Некоторые чарры плетут из шерсти возлюбленных косички и носят их с собой.</c>
 <c=@flavor>Some of the savage power of the harpy that once wore this feather still resides in it.</c>,"<c=@flavor>Часть дикой силы гарпии, что носила это перо, всё ещё в нём живёт.</c>"
 "<c=@flavor>Some people call this chili. Others, lava. Either way, it will destroy your bowels.</c>",<c=@flavor>Одни зовут это чили. Другие — лавой. В любом случае твоим кишкам конец.</c>
-<c=@flavor>Some say the great deceiver of Cantha was a victim of the fates. Others call him a traitor.</c>,"<c=@flavor>Одни говорят, что великий обманщик Канты был жертвой судьбы. Другие называют его предателем.</c>"
+<c=@flavor>Some say the great deceiver of Cantha was a victim of the fates. Others call him a traitor.</c>,"<c=@flavor>Одни говорят, что великий обманщик Cantha был жертвой судьбы. Другие называют его предателем.</c>"
 <c=@flavor>Some say the human gods determine the fate of the seasons. Others say the gods are dead. Wear this to show your support for Dwayna and the coming of spring.<c>,"<c=@flavor>Одни говорят, что судьбу времён года решают человеческие боги. Другие — что боги мертвы. Носи это в знак поддержки Двайны и прихода весны.<c>"
 <c=@flavor>Some say the human gods determine the fate of the seasons. Others say the gods are dead. Wear this to show your support for Grenth and endless winter.<c>,"<c=@flavor>Одни говорят, что судьбу времён года решают человеческие боги. Другие — что боги мертвы. Носи это в знак поддержки Гренса и бесконечной зимы.<c>"
 "<c=@flavor>Some strange, ethereal material from the Mists has solidified into this odd necklace.</c>",<c=@flavor>Некая странная неземная материя из Туманов затвердела в это диковинное ожерелье.</c>
