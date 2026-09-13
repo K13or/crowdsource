@@ -1,5 +1,5 @@
 english,translate
-"%str1%%str2%Leichte ""Wahrer Blick""-Stiefel%str3%%str4%","%str1%%str2%Лёгкие сапоги ""Истинного взгляда""%str3%%str4%"
+"%str1%%str2%Leichte ""Wahrer Blick""-Stiefel%str3%%str4%","%str1%%str2%Лёгкие сапоги «Истинного взгляда»%str3%%str4%"
 "%str1%%str2%Schwere ""Wahrer Blick""-Handschuhe%str3%%str4%","%str1%%str2%Schwere ""Wahrer Blick""-Handschuhe%str3%%str4%"
 "%str1%,
 
@@ -122,7 +122,7 @@ The theater productions are moving along swimmingly thanks to you. The troupe me
 +20%% шанс получить больше золота
 +10%% опыта"
 "<c=@flavor>""I can retire after this!""
-—Flinzz</c>","<c=@flavor>""После этого я смогу уйти на покой!""
+—Flinzz</c>","<c=@flavor>«После этого я смогу уйти на покой!»
 —Флинзз</c>"
 "<c=@flavor>""La vie est un mystère""</c>","<c=@flavor>""La vie est un mystère""</c>"
 "<c=@flavor>""Ugh. It's my sixth birthday all over again.""</c>
@@ -536,10 +536,10 @@ Double-click to summon this mini to follow you around. Only one mini may be in u
 Дважды щёлкните, чтобы призвать этого мини-питомца следовать за вами. Одновременно можно использовать только одного мини-питомца."
 "Double-click to transform into a hermit crab.,
 <c=@flavor>""When you live in a shell,' you''re always home!""</c>'","Дважды щёлкните, чтобы превратиться в рака-отшельника.,
-<c=@flavor>""Когда живешь в раковине,' ты всегда дома!""</c>'"
+<c=@flavor>«Когда живешь в раковине,' ты всегда дома!»</c>'"
 "Double-click while underwater to transform into a koi.,
 '<c=@flavor>""Don''t be coy', be a koi!""</c>","Дважды щёлкните под водой, чтобы превратиться в кои.,
-'<c=@flavor>""Не будь застенчив', будь кои!""</c>"
+'<c=@flavor>«Не будь застенчив', будь кои!»</c>"
 "Dropped by Mossman in the Swampland Fractal.
 
 <c=@flavor>It stinks. Real bad.<c>","Выпадает с Мохового Человека во фрактале «Болотный край».

@@ -3499,7 +3499,7 @@ Uralter Schössling,Уральтер Шёсслинг
 
 <c=@reminder>Emotes allow your character to show their feelings to the world. Type ""/emotelist"" in your chat for a list of possible emotes.</c>","Используйте %num2% [эмоцию|эмоции|эмоций], чтобы выразить себя!
 
-<c=@reminder>Эмоции позволяют вашему персонажу демонстрировать свои чувства окружающим. Введите в чат команду ""/emotelist"", чтобы увидеть список доступных эмоций.</c>"
+<c=@reminder>Эмоции позволяют вашему персонажу демонстрировать свои чувства окружающим. Введите в чат команду «/emotelist», чтобы увидеть список доступных эмоций.</c>"
 "Use the weapon-swap button to switch your active weapon %num2% time[s].
 
 <c=@reminder>Weapon swap allows you to change between your equipped weapons to access different skills. This mechanic is unlocked at level 10.</c>","Используйте кнопку смены оружия, чтобы переключить активное оружие %num2% [раз|раза|раз].

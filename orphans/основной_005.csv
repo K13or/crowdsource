@@ -1,5 +1,5 @@
 english,translate
-"%str1%%str2%Leichte ""Wahrer Blick""-Handschuhe%str3%%str4%","%str1%%str2%Лёгкие перчатки ""Истинного взгляда""%str3%%str4%"
+"%str1%%str2%Leichte ""Wahrer Blick""-Handschuhe%str3%%str4%","%str1%%str2%Лёгкие перчатки «Истинного взгляда»%str3%%str4%"
 "%str1%%str2%Schwere ""Wahrer Blick""-Maske%str3%%str4%","%str1%%str2%Schwere ""Wahrer Blick""-Maske%str3%%str4%"
 "%str1%%str2%Schweres ""Wahrer Blick""-Wams%str3%%str4%","%str1%%str2%Schweres ""Wahrer Blick""-Wams%str3%%str4%"
 "(Festival) Schließt den Erfolg ""Bündel-Plünderer (jährlich)"" ab",(Фестиваль) Завершите достижение «Связка-грабитель (ежегодно)»
@@ -538,8 +538,8 @@ Double-cliquez pour lier cet objet à votre compte.Vous propose des biens de pre
 No amount of butter will make this karka taste like crab.","Восточный район:
 Никакое масло не сделает эту карку похожей на краба."
 Effectue 5 tirs lents en direction de votre ennemi. Utilise 1 munition.,Выполняет 5 медленных выстрелов по врагу. Расходует 1 заряд.
-"Ein Buch mit Rezepten zur Dekoration der Heimstatt, die zur Herstellung von ""Fest der Vier Winde""-Gegenständen benötigt werden.","Книга с рецептами для украшения жилища, необходимыми для создания предметов ""Мир против мира""."
-"Ein Buch mit Rezepten zur Dekoration der Heimstatt, die zur Herstellung von Gegenständen aus dem Fraktal ""Solider Ozean"" benötigt werden.","Книга с рецептами для украшения жилища, необходимыми для создания предметов из фрактала ""Твёрдый океан""."
+"Ein Buch mit Rezepten zur Dekoration der Heimstatt, die zur Herstellung von ""Fest der Vier Winde""-Gegenständen benötigt werden.","Книга с рецептами для украшения жилища, необходимыми для создания предметов «Мир против мира»."
+"Ein Buch mit Rezepten zur Dekoration der Heimstatt, die zur Herstellung von Gegenständen aus dem Fraktal ""Solider Ozean"" benötigt werden.","Книга с рецептами для украшения жилища, необходимыми для создания предметов из фрактала «Твёрдый океан»."
 "Ein Buch mit Rezepten zur Dekoration der Heimstatt, die zur Herstellung von Gegenständen im elonischen Stil benötigt werden.","Книга с рецептами для украшения жилища, необходимыми для создания предметов в элонском стиле."
 "Ein Buch mit Rezepten zur Dekoration der Heimstatt, die zur Herstellung von Standard-Gegenständen benötigt werden.","Книга рецептов украшения жилища, необходимых для создания стандартных предметов."
 "Elonians are raised to see everyone outside our kingdom as dangerous, seditious threats to our freedom. I'm sorry it took exile from our homeland to allow us to meet you and have our minds and hearts opened by your generosity. The truth you've shown us upends a thousand lies.
@@ -1462,7 +1462,7 @@ Researcher Doh Taelin, Ministry of Archives, 1729 CC","Я не узнаю это
 Исследователь Doh Taelin, Ministry of Archives, 1729 CC"
 "I don't use the word ""hero"" often, but you've earned it for keeping the roads safe and aiding those who live in these snow-covered hills. I wish you the safest and most productive of trips into the unknown.
 
-—Lionscout Mabil","Я не часто использую слово ""герой"", но вы заслужили его, обеспечивая безопасность дорог и помогая тем, кто живёт в этих заснеженных холмах. Желаю вам самого безопасного и продуктивного путешествия в неизведанное.
+—Lionscout Mabil","Я не часто использую слово «герой», но вы заслужили его, обеспечивая безопасность дорог и помогая тем, кто живёт в этих заснеженных холмах. Желаю вам самого безопасного и продуктивного путешествия в неизведанное.
 
 —Lionscout Mabil"
 "I found this place, a hidden grave, wallowing beneath the seas. I add you here, amongst a crew of a solemn few. I know not their names, nor if they held any fame.  
@@ -2475,7 +2475,7 @@ Again, I do very much appreciate your discretion and your willingness to indulge
   
 Что касается его экспериментов, Себб запрашивал ряд артефактов с раскопок в глубине материка. Что он намерен делать с этими артефактами, мне выяснить не удалось. Но, похоже, он собрал достаточно предметов, чтобы проверить любую гипотезу, которую собирается проверить.   
   
-Ещё раз, я очень ценю вашу осмотрительность и готовность потакать нашей ""паранойе"" в отношении нетрадиционного характера этих мест тайников."
+Ещё раз, я очень ценю вашу осмотрительность и готовность потакать нашей «паранойе» в отношении нетрадиционного характера этих мест тайников."
 "POTENTIAL STUDY—MIST RIFTS
 
 *Ask Taimi about data readings.
@@ -2982,7 +2982,7 @@ P.S. Рехман — лагерный повар в лагере беженце
 
 <c=@flavor>""Good luck!""</c>","Поговорите с медиком Астральной стражи Миирной в Lion's Arch или Bava Nisos и примите её просьбу. 
 
-<c=@flavor>""Удачи!""</c>"
+<c=@flavor>«Удачи!»</c>"
 Taucht in die Thermalquellen auf der Tundra ein.,Окунитесь в термальные источники в тундре.
 "Teinture[pl:""Teintures""] arrogance",Эссенция Гордости
 "Term of employment: 1837–present
