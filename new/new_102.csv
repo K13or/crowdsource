@@ -27,7 +27,7 @@ This is an urgent message from the Throne of Cantha.,Это срочное со�
 This is as good as it gets!,Это лучший результат из возможных!
 "This is bad, the centaurs are trying to retake their base. We need all hands on deck.","Всё плохо, кентавры пытаются отбить свою базу. Нам нужны все на передовой."
 This is between you and me. Leave the girl alone.,Это только между нами. Оставь девушку в покое.
-"This is dangerous territory, friend. These lands are infested with centaurs. It's our job to route them, but with our resources, it's all we can do to keep them away from the people of Beetletun.","Это опасная территория, друг. Эти земли кишат кентаврами. Мы должны их оттеснить, но с нашими силами мы едва справляемся, чтобы не допустить их приближения к жителям Бителтуна."
+"This is dangerous territory, friend. These lands are infested with centaurs. It's our job to route them, but with our resources, it's all we can do to keep them away from the people of Beetletun.","Это опасная территория, друг. Эти земли кишат кентаврами. Мы должны их оттеснить, но с нашими силами мы едва справляемся, чтобы не допустить их приближения к жителям Beetletun."
 This is enemy territory.,Это вражеская территория.
 This is for my friends!,Это для моих друзей!
 This is for you!,Это для тебя!
@@ -217,7 +217,7 @@ This tree provides shade for people paying their respects.,"Это дерево 
 This upgrade is going to do wonders for business.,Это улучшение принесёт огромную пользу бизнесу.
 This vein of orichalcum seems out of place and warm to the touch.,Эта жила орихалкового рудного камня кажется неуместной и тёплой на ощупь.
 "This warhound sniffs you for a moment, then gives a friendly bark.","Эта боевая собака обнюхивает вас, а затем ласково гавкает."
-"This was a centaur war camp. If they got it back, it would be that much harder to prevent an attack on Beetletun.","Здесь был военный лагерь кентавров. Если они его отвоюют, предотвратить нападение на Бителтун станет ещё сложнее."
+"This was a centaur war camp. If they got it back, it would be that much harder to prevent an attack on Beetletun.","Здесь был военный лагерь кентавров. Если они его отвоюют, предотвратить нападение на Beetletun станет ещё сложнее."
 This was a safe haven before the Forged arrived and set up camp.,"Это место было безопасным убежищем до того, как сюда прибыли и обосновались Кованые."
 "This was originally charr land. The humans pushed us out and built Ascalon on top of it. Over two hundred years ago, we took our land back.",Это изначально была земля чарров. Люди вытеснили нас и построили на ней Аскалон. Более двухсот лет назад мы вернули себе нашу землю.
 This wasn't part of the plan!,Это не было частью плана!
@@ -429,7 +429,7 @@ Time Until Temporary Services Depart,Время до отправления вр
 Time before Inquest catch on: %str1%,"Время до того, как Inquest начнёт преследование: %str1%"
 Time before Inquest flee: %str1%,Время до отступления Инквизитора: %str1%
 Time before Kryptis retreat: %str1%,Время до отступления Криптиса: %str1%
-Time before Zizel retreats: %str1%,Время до отступления Зизеля: %str1%
+Time before Zizel retreats: %str1%,Время до отступления Zizel: %str1%
 Time before binding spell breaks: %str1%,Время до снятия эффекта заклинания привязки: %str1%
 Time before creature retreats: %str1%,Время до отступления существа: %str1%
 Time before curse overruns your allies: %str1%,"Время до того, как проклятие охватит ваших союзников: %str1%."

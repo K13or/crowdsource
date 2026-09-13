@@ -499,7 +499,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Krew Leader Pachoo</c>","<c=@flavor>«Довольно блестящее, не правда ли?»
 —Глава команды Пачу</c>"
 "<c=@flavor>""It's the height of Beetletun style! Well, it was last year, anyway.""
-—Paden</c>","<c=@flavor>«Это вершина стиля Битлтауна! Ну, по крайней мере, была в прошлом году».
+—Paden</c>","<c=@flavor>«Это вершина стиля Beetletun! Ну, по крайней мере, была в прошлом году».
 —Пейден</c>"
 "<c=@flavor>""It's the helm of the upper arm.""
 —Zalvax Brokenclaw</c>","<c=@flavor>«Это шлем для верхней части руки».
@@ -709,7 +709,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Magister Roslin</c>"
 "<c=@flavor>""Never leave a wrong to ripen into evil or sorrow.""</c>
 —Tenets of Ventari","<c=@flavor>«Не давай несправедливости вызреть во зло или скорбь».</c>
-—Заповеди Вентари"
+—Заповеди Ventari"
 "<c=@flavor>""Never leave home without a good axe.""
 —Shengra</c>","<c=@flavor>«Никогда не выходи из дома без хорошего топора».
 —Шенгра</c>"
@@ -722,7 +722,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 "<c=@flavor>""No place like home.""
 —Kastaz</c>","<c=@flavor>«Нет места лучше дома».
 —Кастаз</c>"
-"<c=@flavor>""None in the fahrar would have stopped Ryland except Cinder. We almost buried a primus instead of retiring one.""</c>","<c=@flavor>«Никто в фахраре не остановил бы Райленда, кроме Синдер. Мы едва не похоронили примуса вместо того, чтобы проводить его на покой».</c>"
+"<c=@flavor>""None in the fahrar would have stopped Ryland except Cinder. We almost buried a primus instead of retiring one.""</c>","<c=@flavor>«Никто в фахраре не остановил бы Ryland, кроме Синдер. Мы едва не похоронили примуса вместо того, чтобы проводить его на покой».</c>"
 "<c=@flavor>""Normally only krewe members get to see these, but seeing how you helped generate the more interesting data points you can have them.""
 —Krewe Leader Seesa</c>","<c=@flavor>«Обычно их видят только члены крю, но раз уж ты помог собрать более интересные данные — забирай».
 —Глава крю Сиса</c>"
@@ -979,7 +979,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 "<c=@flavor>""Reminds me of days gone by.""
 —Diantha</c>","<c=@flavor>«Напоминает мне о минувших днях».
 —Диантха</c>"
-"<c=@flavor>""Ryland said no solo scouting, so I went with Vishen to check out the nearby caves. Good thing I was there—that troll was pretty big.""</c>","<c=@flavor>«Райленд запретил ходить в разведку в одиночку, так что я пошёл с Вишен осмотреть ближние пещеры. Хорошо, что я был рядом — тот тролль был немаленький».</c>"
+"<c=@flavor>""Ryland said no solo scouting, so I went with Vishen to check out the nearby caves. Good thing I was there—that troll was pretty big.""</c>","<c=@flavor>«Ryland запретил ходить в разведку в одиночку, так что я пошёл с Вишен осмотреть ближние пещеры. Хорошо, что я был рядом — тот тролль был немаленький».</c>"
 "<c=@flavor>""Scholar told me all about matrixes and arcane stuffs. I couldn't listen because of how shiny this shiny is.""
 —Sik'klak</c>","<c=@flavor>«Учёный рассказывал мне всё про матрицы и всякую чародейщину. Я не слушал — уж больно эта блестяшка блестящая».
 —Сик’клак</c>"
@@ -1036,7 +1036,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 "<c=@flavor>""Simple and effective.""
 —Warden Brulians</c>","<c=@flavor>«Просто и эффективно».
 —Страж Брулианс</c>"
-"<c=@flavor>""Since Ryland had to face down Branded without his pauldrons, I've acquired a portable anvil so we never have that problem again.""</c>","<c=@flavor>«Раз уж Райленду пришлось выйти против клеймёных без наплечников, я раздобыл переносную наковальню, чтобы такого больше не повторилось».</c>"
+"<c=@flavor>""Since Ryland had to face down Branded without his pauldrons, I've acquired a portable anvil so we never have that problem again.""</c>","<c=@flavor>«Раз уж Ryland пришлось выйти против клеймёных без наплечников, я раздобыл переносную наковальню, чтобы такого больше не повторилось».</c>"
 "<c=@flavor>""Skale number 354. Do not remove on penalty of death.""</c>",<c=@flavor>«Скейл номер 354. Не снимать под страхом смерти».</c>
 "<c=@flavor>""Skale seem to respond oddly when you mess with their fins.""</c>","<c=@flavor>«Скейлы, похоже, странно реагируют, когда трогаешь их плавники».</c>"
 "<c=@flavor>""Skale sure don't like getting zapped with magic.""</c>","<c=@flavor>«Скейлам определённо не нравится, когда их бьёт магией».</c>"
