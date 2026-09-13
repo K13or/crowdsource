@@ -344,7 +344,7 @@ Influence Transfer,Передача влияния
 Influence: %num1%,Влияние: %num1%
 InfluenceInfluence can no longer be earned but may be spent at influence traders in the Guild Initiative office and at the guild hall.,"ВлияниеВлияние больше нельзя заработать, но его можно потратить у торговцев влиянием в офисе Гильдии Инициативы и в зале гильдии."
 INFO: Dust canisters full.,ИНФО: Контейнеры с пылью полны.
-"Inform the Speakers lieutenant of the ritualist's ""betrayal.""","Сообщите лейтенанту Говорящих о «предательстве» ритуалиста."
+"Inform the Speakers lieutenant of the ritualist's ""betrayal.""",Сообщите лейтенанту Говорящих о «предательстве» ритуалиста.
 Information acquired!,Информация получена!
 Information Dialog,Информационный диалог
 Information Peddler,Торговец информацией
@@ -479,9 +479,9 @@ Inquest Golemcaster Staff,Inquest Golemcaster Staff
 Inquest Golemmancer Staff,Inquest Golemmancer Staff
 Inquest Golems,Inquest Golems
 Inquest Grenadier,Inquest Grenadier
-"Inquest Grenadier Loot Box[pl:""Boxes""]","[Коробка|Коробки|Коробок] с добычей гренадера Инквеста"
+"Inquest Grenadier Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей гренадера Инквеста
 Inquest Gun,Inquest Gun
-"Inquest Heavy Armor Box[pl:""Boxes""]",Коробка тяжёлой брони Inquest
+"Inquest Heavy Armor Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] тяжёлой брони Inquest
 Inquest Holy Cannon,Inquest Holy Cannon
 Inquest Hover Turret,Inquest Hover Turret
 Inquest Hoverbike,Inquest Hoverbike
@@ -489,6 +489,6 @@ Inquest Journal,Inquest Journal
 Inquest Keypad,Inquest Keypad
 Inquest Lab Table,Inquest Lab Table
 Inquest Lifeseeker,Inquest Lifeseeker
-"Inquest Light Armor Box[pl:""Boxes""]",Коробка с бронёй Inquest (лёгкая)
+"Inquest Light Armor Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с бронёй Inquest (лёгкая)
 Inquest Lightning Turret,Inquest Lightning Turret
 "Inquest Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей Inquest
