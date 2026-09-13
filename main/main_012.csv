@@ -2531,7 +2531,7 @@ Could be interference from our little ""curse"" problem.","Пытался свя
 Tunnels blocked,Туннели заблокированы
 "Twinspur Haven is safe and open for travelers, thanks to your efforts on our behalf. You will always have a warm welcome here.
  
-—Sheriff Padra","Убежище Двойного Шипа безопасно и открыто для путешественников благодаря вашим усилиям ради нас. Вас здесь всегда ждет тёплый приём.
+—Sheriff Padra","Twinspur Haven безопасно и открыто для путешественников благодаря вашим усилиям ради нас. Вас здесь всегда ждет тёплый приём.
  
 —Шериф Падра"
 Twoloop Friendship Bracelet[s],[Браслет|Браслета|Браслетов] дружбы «Двойная петля»
@@ -3463,7 +3463,7 @@ You're welcome in our krall any time.
 
 — Гроффмок"
 "We're heading into the field again, Agent. Should be fun: a large army of crystallized creatures is gathering in the Brand, but we need more information before we act. We'll start with the ogres of Agrak Kraal—if anyone knows what's going on with the local wild beasties, it's them. Meet me there and we'll get to the bottom of this.
-—Lightbringer Tybalt Leftpaw","Мы снова выходим в поле, агент. Должно быть весело: большая армия кристаллизованных существ собирается в Клейме, но нам нужно больше информации, прежде чем действовать. Начнём с огров Аграк-Краала — если кто и знает, что происходит с местными дикими тварями, то это они. Встретимся там и докопаемся до сути.
+—Lightbringer Tybalt Leftpaw","Мы снова выходим в поле, агент. Должно быть весело: большая армия кристаллизованных существ собирается в Клейме, но нам нужно больше информации, прежде чем действовать. Начнём с огров Agrak Kraal — если кто и знает, что происходит с местными дикими тварями, то это они. Встретимся там и докопаемся до сути.
 — Светоносец Тибальт Левая Лапа"
 "We're managing to hold out against the undead. It is, however, unlikely that conditions will improve. If I weren't assigned here, I'd gladly go south and face the threat head on.
 
@@ -3565,7 +3565,7 @@ They called it Gavril, and it meant nothing before Saul filled it with his peopl
   
 In return, purchaser has provided access to Twisting Hollows cavern system, a company of experienced freebooters, an undisclosed sum of gold, and agreed to ""Blow some Hullgardeners apart. BOOM!""  
   
-*Waived by purchaser.","Мы, Inquest (продавец), настоящим передаём право собственности на один (1) Электро-Полевой Широкозонный Разрядный Трансферный Аккумулятор, далее именуемый «Машина», Джессике и Jimmy Hammerhart (покупателям) из Кручёных Лощин, Корабельного Берега, Касторы. Подписывая этот контракт, покупатель соглашается со следующими условиями:  
+*Waived by purchaser.","Мы, Inquest (продавец), настоящим передаём право собственности на один (1) Электро-Полевой Широкозонный Разрядный Трансферный Аккумулятор, далее именуемый «Машина», Джессике и Jimmy Hammerhart (покупателям) из Twisting Hollows, Корабельного Берега, Касторы. Подписывая этот контракт, покупатель соглашается со следующими условиями:  
   
 — Покупатель признаёт, что Машина должна быть настроена в соответствии с точными спецификациями, описанными в прилагаемом руководстве*, для правильной работы.  
   
@@ -3577,7 +3577,7 @@ In return, purchaser has provided access to Twisting Hollows cavern system, a co
   
 — Покупатель освобождает продавца от любой ответственности за вышеупомянутые модификации, а также за невнимание покупателя к предупреждениям безопасности, ограничениям мощности и дальности, оптимальным рабочим параметрам, негативным эффектам влажности, температуры, высоты и т.д. и т.п.  
   
-Взамен покупатель предоставил доступ к системе пещер Кручёных Лощин, отряд опытных флибустьеров, неразглашаемую сумму золота и согласился «Разнести парочку Садоводов-Корпусов. БУМ!»  
+Взамен покупатель предоставил доступ к системе пещер Twisting Hollows, отряд опытных флибустьеров, неразглашаемую сумму золота и согласился «Разнести парочку Садоводов-Корпусов. БУМ!»  
   
 *Отказ от руководства подписан покупателем."
 Weapon Requisitioner Arto,Оружейник Арто
@@ -3833,10 +3833,10 @@ West Wing Door,Дверь Западного Крыла
 Western Crane,Западный кран
 Western Parapet,Западный парапет
 "Western Ward:
-Check the cave filled with lanterns and libations.","Западный оплот:
+Check the cave filled with lanterns and libations.","Western Ward:
 Загляни в пещеру, полную фонарей и подношений."
 "Western Ward:
-Even the tiny karka can't find its way into this house with a view.","Западный оплот:
+Even the tiny karka can't find its way into this house with a view.","Western Ward:
 Даже крошечная карка не может пробраться в этот дом с видом."
 "Western Ward:
 Get below decks at the Crow's Nest.","Western Ward:
@@ -4068,7 +4068,7 @@ You'd think after a hundred years their numbers would start going down, but...th
 
 It's not glamorous work, but if I can find the source of this magic...whatever it is...we might be able to win the war before it's even begun. But that might be wishful thinking.","Пока Ли втирается в доверие к Ину, я застрял, наблюдая за ползающими мертвецами.
 
-Руины кишат Восставшими. Если мы не сможем захватить город сами, я не удивлюсь, если «граждане Старого Кайнинга» сделают эту работу за нас. Они уже сеют беспорядки в Личиночном переулке. По несколько жертв в неделю... и большинство тел находят дорогу обратно в руины, чтобы сгнить.
+Руины кишат Восставшими. Если мы не сможем захватить город сами, я не удивлюсь, если «граждане Старого Кайнинга» сделают эту работу за нас. Они уже сеют беспорядки в Grub Lane. По несколько жертв в неделю... и большинство тел находят дорогу обратно в руины, чтобы сгнить.
 
 Казалось бы, за сотню лет их число должно было пойти на убыль, но... нет. Всё больше и больше Восставших вылезает из каждой шахты затопленного Подгорода, словно личинки из трупа. Мне страшно подумать, сколько их таится у меня под ногами прямо сейчас.
 

@@ -86,7 +86,7 @@ Gain critical-hit chance against targets farther away.,Даёт шанс кри�
 Gain distortion upon killing an enemy. Your phantasms gain distortion briefly on creation.,Даёт искажение при убийстве врага. Ваши фантазмы ненадолго получают искажение при создании.
 Gain Experience,Получение опыта
 Gain extra adrenaline on a kill.,Даёт дополнительный адреналин за убийство.
-Gain favor with Elrik by defeating the possessed dwarf at Droknar's Forge.,"Заслужите расположение Элрика, победив одержимого дворфа в Кузне Дрокнара."
+Gain favor with Elrik by defeating the possessed dwarf at Droknar's Forge.,"Заслужите расположение Элрика, победив одержимого дворфа в Droknar's Forge."
 "Gain fury when you disable a foe.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, fear, launch, and taunt.</c>","Даёт ярость при выводе врага из строя.<br><c=@reminder>К выводу из строя относятся оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, страх, отбрасывание и провокация.</c>"
 Gain fury when your target falls below the health threshold.,"Даёт ярость, когда здоровье цели падает ниже порога."
 Gain globs of ectoplasm and valuable junk items in random amounts.,Даёт сгустки эктоплазмы и ценный хлам в случайном количестве.
@@ -240,13 +240,13 @@ Garden Bounty Board,Доска садовых заказов
 Garden Hoe,Садовая мотыга
 Garden Kale Seed[s],[Семя|Семени|Семян] садовой капусты кале
 Garden Leek Seed[s],[Семя|Семени|Семян] садового лука-порея
-Garden of Seborhin Statue #1,Статуя Сада Себорина № 1
-Garden of Seborhin Statue #2,Статуя Сада Себорина № 2
-Garden of Seborhin Statue #3,Статуя Сада Себорина № 3
-Garden of Seborhin Statue #4,Статуя Сада Себорина № 4
-Garden of Seborhin Statue #5,Статуя Сада Себорина № 5
-Garden of Seborhin Statue #6,Статуя Сада Себорина № 6
-Garden of Seborhin Statue #7,Статуя Сада Себорина № 7
+Garden of Seborhin Statue #1,Статуя Garden of Seborhin № 1
+Garden of Seborhin Statue #2,Статуя Garden of Seborhin № 2
+Garden of Seborhin Statue #3,Статуя Garden of Seborhin № 3
+Garden of Seborhin Statue #4,Статуя Garden of Seborhin № 4
+Garden of Seborhin Statue #5,Статуя Garden of Seborhin № 5
+Garden of Seborhin Statue #6,Статуя Garden of Seborhin № 6
+Garden of Seborhin Statue #7,Статуя Garden of Seborhin № 7
 Garden of the Gods Page 01[s],[Страница|Страницы|Страниц] «Сада богов» 01
 Garden of the Gods Page 02[s],[Страница|Страницы|Страниц] «Сада богов» 02
 Garden of the Gods Page 03[s],[Страница|Страницы|Страниц] «Сада богов» 03
@@ -391,7 +391,7 @@ Gather Ore,Собрать руду
 Gather others in a squad to explore the expanses of Central Tyria!,"Собирайте отряд, чтобы исследовать просторы Центральной Тирии!"
 Gather parcels for the Cavalier Express before time runs out!,"Соберите посылки для «Кавалер-экспресса», пока не вышло время!"
 Gather Pheromones,Собрать феромоны
-Gather refreshments and return them to the party in the Garden of Seborhin quickly!,Соберите угощение и поскорее доставьте его на приём в Саду Себорина!
+Gather refreshments and return them to the party in the Garden of Seborhin quickly!,Соберите угощение и поскорее доставьте его на приём в Garden of Seborhin!
 Gather school supplies and return them to Vehtendi Academy before time runs out!,"Соберите школьные принадлежности и верните их в Vehtendi Academy, пока не вышло время!"
 Gather scrap from nearby elementals first.,Сначала соберите обломки с ближайших элементалей.
 Gather supplies and defend the tech as they repair the North Peninsula fallen mech.,"Соберите припасы и защитите техника, пока он чинит павшего меха North Peninsula."
