@@ -27,7 +27,7 @@ Defeat 50 veteran-rank enemies.,Победите 50 врагов ранга ве
 Defeat Apprentice Scyllan.,Победите ученика Скиллана.
 Defeat Canach's Lair without getting caught in any traps. [lbracket]Living World Season 1: Canach's Lair vision. Accessed via the Scrying Pool in Eye of the North.[rbracket],"Пройдите «Canach's Lair», не попав ни в одну ловушку. [lbracket]Видение «Living World», сезон 1: Логово Канаха. Доступ через Чашу Прорицания в Eye of the North.[rbracket]"
 Defeat Charybda the Cunning.,Победите Харибду Хитроумную.
-Defeat Cinder Steeltemper.,Победите Синдер Сталезакал.
+Defeat Cinder Steeltemper.,Победите Cinder Steeltemper.
 "Defeat Dagda, Wizard of the Celestial.","Победите Дагду, Волшебницу Небесного."
 "Defeat Decima, the Stormsinger.","Победите Дециму, Певицу Бурь."
 Defeat Dhuum %num2% times.,Победите Дуума %num2% раз.
@@ -37,7 +37,7 @@ Defeat Engineer Frizz,Победите инженера Фризза
 Defeat Forged to obtain a toy for your skyscale. More likely to drop from champions.,"Побеждайте Кованых, чтобы получить игрушку для скайскейла. Чаще выпадает с чемпионов."
 Defeat Frizz: %num1%/%num2%,Победите Фризза: %num1%/%num2%
 Defeat Gatekeeper Vialgos.,Победите привратника Виалгоса.
-"Defeat General Ignaxious, Knaebelag the Terror, and Eparch in Inner Nayos","Победите генерала Игнаксиуса, Кнебелага Ужасного и Эпарха в Inner Nayos"
+"Defeat General Ignaxious, Knaebelag the Terror, and Eparch in Inner Nayos","Победите генерала Игнаксиуса, Knaebelag the Terror и Эпарха в Inner Nayos"
 Defeat Horrik,Победите Хоррика
 Defeat Karchev and his men,Победите Карчева и его людей
 Defeat Mazdak the Accursed and his undead army.,Победите Mazdak the Accursed и его армию нежити.
@@ -254,7 +254,7 @@ Defeated Jilai the Radiant,Джилай Лучезарная побеждена
 Defeated Kela with the Challenge Mote Active and Without Stepping in Loose Sand,"Кела побеждена при активном знаке испытания, не ступая в зыбучий песок"
 Defeated Kela with the Challenge Mote Active without Any Crocodilian Razortooths Using Their Tackle Skill,Кела побеждена при активном знаке испытания без единого применения крокодильими острозубами их приёма захвата
 Defeated Knaebelag and Collected %num1%/%num2% Skins,"Кнебелаг побеждён, собрано %num1%/%num2% обликов"
-Defeated Knaebelag the Terror,Кнебелаг Ужасный побеждён
+Defeated Knaebelag the Terror,Knaebelag the Terror побеждён
 Defeated Kralkatorrik without Triggering Any Branded Traps,Кралькаторрик побеждён без срабатывания клеймёных ловушек
 Defeated Kumaa the Feisty,Кумаа Задорная побеждена
 Defeated Legendary Karka Queen,Легендарная королева карка побеждена
@@ -339,8 +339,8 @@ Defeated the Final Boss of the Shiverpeaks Pass Raid Encounter without Being Def
 Defeated the Final Boss with No Party Members Receiving More Than 9 Stacks of Tidal Bargain,"Финальный босс побеждён так, что никто в группе не получил больше 9 стаков Tidal Bargain"
 Defeated the Final Boss without Taking Damage from Firestorm,Финальный босс побеждён без урона от Огненной бури
 Defeated the Fire Elemental,Fire Elemental побеждён
-Defeated the Fraenir of Jormag without Being Downed or Defeated,Френир Йормага побеждён без падений и смертей
-Defeated the Fraenir of Jormag without Being Hit by Shock Waves,Френир Йормага побеждён без попаданий ударными волнами
+Defeated the Fraenir of Jormag without Being Downed or Defeated,Fraenir of Jormag побеждён без падений и смертей
+Defeated the Fraenir of Jormag without Being Hit by Shock Waves,Fraenir of Jormag побеждён без попаданий ударными волнами
 Defeated the Ghostly Justiciar,Призрачный юстициар побеждён
 Defeated the Grand Champion While Pledged to %num1%/3 Legions,Великий чемпион побеждён с присягой %num1%/3 легионам
 Defeated the Great Skelk Regurgitant,Великий скелк-отрыгиватель побеждён
@@ -357,8 +357,8 @@ Defeated the Malevolent Memory Without Losing Boons,Злокозненная п�
 Defeated the Mastermind While All Reactors Were Active,Вдохновитель побеждён при всех активных реакторах
 Defeated the Minister of Morale %num1%/%num2% Times,Minister of Morale побеждён %num1%/%num2% раз
 Defeated the Mistburned Champion,Туманожжёный чемпион побеждён
-Defeated the Molten Berserker Before Defeating the Molten Firestorm,Расплавленный берсерк побеждён раньше Расплавленной огненной бури
-Defeated the Molten Firestorm Before Defeating the Molten Berserker,Расплавленная огненная буря побеждена раньше Расплавленного берсерка
+Defeated the Molten Berserker Before Defeating the Molten Firestorm,Molten Berserker побеждён раньше Расплавленной огненной бури
+Defeated the Molten Firestorm Before Defeating the Molten Berserker,Расплавленная огненная буря побеждена раньше Molten Berserker
 Defeated the Mordant Crescent Graveraiser Champion,Чемпион-могилоподниматель Mordant Crescent побеждён
 Defeated the Mordrem Thrasher while Avoiding Spore Rain,Мордремский молотильщик побеждён с уклонением от Спорового дождя
 Defeated the Ooze Pit's Grand Champion,Великий чемпион Ямы слизней побеждён
@@ -393,10 +393,10 @@ Defend %num2% towers.,Защитите %num2% башен.
 Defend Agrak Kraal from Uldek's Branded horde.,Защитите Agrak Kraal от клеймёной орды Улдека.
 Defend Altar Brook Crossing.,Защитите Переправу Алтарного Ручья.
 Defend Astorea from the Nightmare Court's assault.,Защитите Асторею от натиска Nightmare Court.
-Defend Blue Ice Station from the dredge.,Защитите станцию Синего Льда от дреджей.
+Defend Blue Ice Station from the dredge.,Защитите станцию Blue Ice от дреджей.
 Defend Demmi from Commander Landon and the Ministry Guards that are pursuing her.,Защитите Демми от командира Лэндона и преследующей её Министерской стражи.
 Defend Durmand Priory from Zhaitan's army.,Защитите Durmand Priory от армии Зайтана.
-Defend Falias Thorp against the Nightmare Court.,Защитите Фалиас-Торп от Nightmare Court.
+Defend Falias Thorp against the Nightmare Court.,Защитите Falias Thorp от Nightmare Court.
 Defend Fort Trinity.,Защитите Fort Trinity.
 Defend Njordstead villagers from the icebrood.,Защитите жителей Ньордстеда от ледяных отродий.
 Defend Overlake Haven from the Risen.,Защитите Overlake Haven от восставших.

@@ -2,7 +2,7 @@ english,translate
 You have received a fragment of Scarlet's Journal.,Вы получили фрагмент дневника Скарлет.
 You have received a gift!,Вы получили подарок!
 You have received extra map-bonus reward points.,Вы получили дополнительные очки бонусной награды карты.
-You have recently overheated and cannot reactivate Photon Forge.,Вы недавно перегрелись и не можете снова включить Фотонную кузню.
+You have recently overheated and cannot reactivate Photon Forge.,Вы недавно перегрелись и не можете снова включить Photon Forge.
 You have recently transferred and may not perform another transfer at this time.Transfer Availability In: %str1%,Вы недавно совершали перенос и пока не можете выполнить ещё один.Перенос будет доступен через: %str1%
 You have removed your motivation and are now tracking tier 1 rifts.,Вы убрали своё побуждение и теперь отслеживаете разломы 1-го уровня.
 You have repeated the maximum PvP rank %num1% time[s].,Вы повторили максимальный ранг PvP %num1% [раз|раза|раз].
@@ -280,7 +280,7 @@ You must have Blazing Speed Mushrooms unlocked in order to use this.,"Чтобы
 You must have both halves of the key to open the chest!,"Чтобы открыть сундук, нужны обе половины ключа!"
 You must have Bouncing Mushrooms unlocked in order to use this.,"Чтобы это использовать, нужно разблокировать Bouncing Mushrooms."
 You must have full endurance to use this skill.,"Чтобы применить это умение, нужна полная выносливость."
-"You must have Icebrood Saga episodes ""No Quarter"" or ""Jormag Rising"" unlocked and train the United Legions Waystation Synchronization Mastery to use this.","Чтобы это использовать, нужны разблокированные эпизоды Icebrood Saga «Без пощады» или «Восхождение Йормага» и изученное мастерство «Синхронизация промежуточных станций Объединённых легионов»."
+"You must have Icebrood Saga episodes ""No Quarter"" or ""Jormag Rising"" unlocked and train the United Legions Waystation Synchronization Mastery to use this.","Чтобы это использовать, нужны разблокированные эпизоды Icebrood Saga «Без пощады» или «Jormag Rising» и изученное мастерство «Синхронизация промежуточных станций Объединённых легионов»."
 You must have Ley Line Gliding to unlock this skill.,"Чтобы разблокировать это умение, нужно «Ley Line Gliding»."
 You must have mounts unlocked to interact with this crate.,"Чтобы взаимодействовать с этим ящиком, нужны разблокированные ездовые животные."
 You must have one of Dwayna's artifacts to clear pollution.,"Чтобы очистить загрязнение, нужен один из артефактов Двайны."

@@ -63,7 +63,7 @@ english,translate
 "<c=@flavor>""Pretty detailed trade agreement for a bunch of bandits. The Inquest must have written it.""<br>—Mathair</c>","<c=@flavor>«Довольно подробное торговое соглашение для кучки бандитов. Наверное, его составил The Inquest».<br>—Матейр</c>"
 "<c=@flavor>""Probably twice-stolen anyhow...""<br>—Waldo</c>","<c=@flavor>«Наверное, украдено уже дважды...»<br>—Уолдо</c>"
 "<c=@flavor>""Protect your grubs and they protect you.""<br>—Tarstar Chief</c>","<c=@flavor>«Защищай своих личинок, и они защитят тебя».<br>—Вождь Тарстар</c>"
-"<c=@flavor>""Protection against falling rocks. And anything else, for that matter.""<br>—Rak Deathmane</c>",<c=@flavor>«Защита от падающих камней. И вообще от чего угодно».<br>—Рак Смертегрив</c>
+"<c=@flavor>""Protection against falling rocks. And anything else, for that matter.""<br>—Rak Deathmane</c>",<c=@flavor>«Защита от падающих камней. И вообще от чего угодно».<br>—Rak Deathmane</c>
 "<c=@flavor>""Protects what's between the ears.""<br>—Zalvax Brokenclaw</c>","<c=@flavor>«Защищает то, что между ушами».<br>—Zalvax Brokenclaw</c>"
 "<c=@flavor>""Protects your insides.""<br>—Marksman Kamekeck</c>",<c=@flavor>«Защищает твои внутренности».<br>—Стрелок Камекек</c>
 "<c=@flavor>""Pure fury, pure warrior wrath. Can you feel it?""<br>—Tactician Deathstrider</c>","<c=@flavor>«Чистая ярость, чистый гнев воина. Чувствуешь это?»<br>—Тактик Смертоход</c>"
@@ -240,7 +240,7 @@ english,translate
 "<c=@flavor>""This destroys just about anything: artifacts, grubs, even undead. Just keep hitting them until they stop moving."" <br>—Jezza</c>","<c=@flavor>«Это уничтожает почти всё: артефакты, личинок, даже нежить. Просто бей их, пока не перестанут двигаться». <br>—Джезза</c>"
 "<c=@flavor>""This focus was made specifically to aid me in my research.""<br>—Magister Razermane</c>","<c=@flavor>«Этот фокус сделан специально, чтобы помочь мне в исследованиях».<br>—Магистр Резермейн</c>"
 "<c=@flavor>""This here is my very favorite rifle. Try it for yourself.""<br>—Maakel The Immortal</c>",<c=@flavor>«Вот моя самая любимая винтовка. Попробуй сам».<br>—Маакель Бессмертный</c>
-"<c=@flavor>""This is a symbol of strength around here.""<br>—Rak Deathmane</c>",<c=@flavor>«Это символ силы в этих краях».<br>—Рак Смертегрив</c>
+"<c=@flavor>""This is a symbol of strength around here.""<br>—Rak Deathmane</c>",<c=@flavor>«Это символ силы в этих краях».<br>—Rak Deathmane</c>
 "<c=@flavor>""This is an Opticalium-approved energy-focusing device.""<br>—Opticalium Researcher Oisha</c>",<c=@flavor>«Это одобренное Оптикалием устройство фокусировки энергии».<br>—Исследователь оптикалия Ойша</c>
 "<c=@flavor>""This is but a tool of a greater machine.""<br>—Guardian Infinite Mind</c>",<c=@flavor>«Это всего лишь инструмент большей машины».<br>—Страж Бесконечный Разум</c>
 "<c=@flavor>""This is it. Every step you take past here is straight into Zhaitan.""<br>—Lightbringer Ives</c>",<c=@flavor>«Вот и всё. Каждый шаг отсюда — прямиком в Зайтана».<br>—Светоносец Айвз</c>

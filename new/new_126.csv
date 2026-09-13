@@ -33,10 +33,10 @@ english,translate
 <c=@abilitytype>Costume Brawl.</c> Eat a mystery chocolate to perform a random costume brawl ability.,"<c=@abilitytype>Костюмированная драка.</c> Съешьте загадочную конфету, чтобы применить случайное умение костюмированной драки."
 <c=@abilitytype>Costume Brawl.</c> Roll a Bonbon Bomb that explodes after it has traveled a short distance.,"<c=@abilitytype>Костюмированная драка.</c> Катните конфетную бомбу, которая взорвётся, прокатившись немного."
 <c=@abilitytype>Costume Brawl.</c> Throw wrappers on the ground to knock down other costume brawlers.,"<c=@abilitytype>Костюмированная драка.</c> Разбросайте фантики по земле, чтобы сбивать с ног других участников."
-<c=@abilitytype>Dual Attack.</c>Cover yourself in an increasing barrier while dealing damage to nearby enemies.,"<c=@abilitytype>Парная атака.</c>Окутайте себя растущим барьером, нанося урон ближним врагам."
-<c=@abilitytype>Dual Attack.</c>Form a frozen blade and spin it toward your enemies.,<c=@abilitytype>Парная атака.</c>Создайте ледяной клинок и раскрутите его в сторону врагов.
-<c=@abilitytype>Dual Attack.</c>Quickly strike enemies in front of you with the extreme nature of fire and water.,<c=@abilitytype>Парная атака.</c>Быстро ударьте по врагам перед собой крайностями огня и воды.
-"<c=@abilitytype>Dual Attack.</c>Strike your enemies, lifting them and creating cyclones at their locations.","<c=@abilitytype>Парная атака.</c>Ударьте по врагам, подбрасывая их и создавая на их местах смерчи."
+<c=@abilitytype>Dual Attack.</c>Cover yourself in an increasing barrier while dealing damage to nearby enemies.,"<c=@abilitytype>Dual Attack.</c>Окутайте себя растущим барьером, нанося урон ближним врагам."
+<c=@abilitytype>Dual Attack.</c>Form a frozen blade and spin it toward your enemies.,<c=@abilitytype>Dual Attack.</c>Создайте ледяной клинок и раскрутите его в сторону врагов.
+<c=@abilitytype>Dual Attack.</c>Quickly strike enemies in front of you with the extreme nature of fire and water.,<c=@abilitytype>Dual Attack.</c>Быстро ударьте по врагам перед собой крайностями огня и воды.
+"<c=@abilitytype>Dual Attack.</c>Strike your enemies, lifting them and creating cyclones at their locations.","<c=@abilitytype>Dual Attack.</c>Ударьте по врагам, подбрасывая их и создавая на их местах смерчи."
 "<c=@abilitytype>Elixir.</c> Toss Elixir B to randomly grant fury, might, or swiftness to allies.","<c=@abilitytype>Эликсир.</c> Бросьте эликсир Б, чтобы случайным образом дать союзникам ярость, мощь или скорость."
 <c=@abilitytype>Glyph.</c> Create a lightning storm at the target area.,<c=@abilitytype>Глиф.</c> Создайте грозу в выбранной области.
 <c=@abilitytype>Kneel.</c> Fire a shot that deals more damage based on your number of malice stacks. This attack reveals you.,"<c=@abilitytype>Стойка с колена.</c> Выстрел, урон которого растёт с числом зарядов злобы. Эта атака раскрывает вас."

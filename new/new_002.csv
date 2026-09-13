@@ -115,7 +115,7 @@ english,translate
 12—Middle Islands: Found near two blue orbs.,12 — Срединные Острова: найден возле двух синих сфер.
 13 cubic units,13 куб. ед.
 "13. Find the correct plant at the Bastion of the Natural, and return to help cure Chloris's stomachache.","13. Найдите нужное растение в Бастионе Естества и вернитесь, чтобы помочь вылечить боль в животе у Хлорис."
-17—Kaineng: The second floor of the Ministry of Transit.,17 — Кайненг: второй этаж Министерства перевозок.
+17—Kaineng: The second floor of the Ministry of Transit.,17 — Кайненг: второй этаж Ministry of Transit.
 19. Converse with the group painting.,19. Поговорите у групповой картины.
 19.2 units,"19,2 ед."
 20 Energy. Sends out and ice spike at your foe freezing them.,"20 энергии. Выпускает ледяной шип во врага, замораживая его."
@@ -338,7 +338,7 @@ english,translate
 "<c=@flavor>""Sometimes you to need to invent your own scientific method. I call mine 'The Alchemical Method of Summoning Stones, by Inka.' It's a little wordy, but then, so am I.""<br>—Scholar Inka</c>","<c=@flavor>«Иногда нужно изобрести собственный научный метод. Свой я зову „Алхимический метод призыва камней, автор — Инка“. Длинновато, но я и сама такая».<br>—Scholar Inka</c>"
 "<c=@flavor>""Stories tell of a procession of lights through this area. It must have been beautiful with lights such as these.""<br>—Keeper Lyrda</c>","<c=@flavor>«В сказаниях говорится о шествии огней через эти места. С такими огнями, как эти, оно, должно быть, было прекрасно».<br>—Хранитель Лирда</c>"
 "<c=@flavor>""Tending the wall often causes damage to armor. Select a replacment from our stores to keep your defenses strong.""<br>—Viner Neit </c>","<c=@flavor>«Уход за стеной часто портит броню. Выбери замену из наших запасов, чтобы твоя защита оставалась крепкой».<br>—Вайнер Нейт</c>"
-"<c=@flavor>""That tar would set us back if not for your leadership. We have a fighting chance thanks to you.""<br>—Legionnaire Kress Rustmaw</c>","<c=@flavor>«Эта смола отбросила бы нас назад, если бы не твоё командование. Благодаря тебе у нас есть шанс».<br>—Легионер Кресс Ржавопасть</c>"
+"<c=@flavor>""That tar would set us back if not for your leadership. We have a fighting chance thanks to you.""<br>—Legionnaire Kress Rustmaw</c>","<c=@flavor>«Эта смола отбросила бы нас назад, если бы не твоё командование. Благодаря тебе у нас есть шанс».<br>—Легионер Kress Rustmaw</c>"
 "<c=@flavor>""The Company shall not be held liable for damages or injuries sustained during the use of this horn.""<br>—Disclaimer</c>","<c=@flavor>«Рота не несёт ответственности за ущерб или травмы, полученные при использовании этого рога».<br>—Отказ от ответственности</c>"
 "<c=@flavor>""The Flame Legion was doomed from the start. We are just the instruments of their fate.""<br>—Sava Quicksnarl</c>",<c=@flavor>«Flame Legion был обречён с самого начала. Мы лишь орудия их судьбы».<br>—Sava Quicksnarl</c>
 "<c=@flavor>""The Iron Legion thanks you. Maybe now we can get back to fixing up this blasted fort.""<br>—Engineer Burlage Firestoker</c>","<c=@flavor>«Iron Legion благодарит тебя. Может, теперь мы вернёмся к починке этого треклятого форта».<br>—Инженер Бурлаг Огнекрес</c>"
