@@ -858,16 +858,6 @@ Mabon","Зойя,
   
 Твой друг,  
 Мейбон"
-[F]%str1%%str2%Gold-Fraktal-Fackel%str3%%str4%,[F]%str1%%str2%Золотой фрактальный факел%str3%%str4%
-[F]%str1%%str2%Gold-Fraktal-Harpune%str3%%str4%,[F]%str1%%str2%Золотая фрактальная гарпуна%str3%%str4%
-[F]%str1%%str2%Plasma-Fackel%str3%%str4%,[F]%str1%%str2%Плазменный факел%str3%%str4%
-[F]%str1%%str2%Saryx-Fackel%str3%%str4%,[F]%str1%%str2%Факел Сарыкса%str3%%str4%
-[M]%str1%%str2%Balthasar-Schild%str3%%str4%,[M][М] %str1%%str2% Щит Балтаха %str3%%str4%
-[M]%str1%%str2%Gold-Fraktal-Langbogen%str3%%str4%,[M][М] %str1%%str2%Золотой фрактальный длинный лук%str3%%str4%
-[M]%str1%%str2%Improvisierter Hammer%str3%%str4%,[M][М] %str1%%str2%Улучшенный молот%str3%%str4%
-[M]%str1%%str2%Piraten-Haken%str3%%str4%,[M][М] %str1%%str2%Пиратский крюк%str3%%str4%
-[M]%str1%%str2%Plasma-Langbogen%str3%%str4%,[M][М] %str1%%str2%Пламенный лук-арбалет%str3%%str4%
-[M]%str1%%str2%Saryx-Langbogen%str3%%str4%,[M][М] %str1%%str2% Сарикс-лук для стрельбы из лука %str3%%str4%
 [N]%str1%%str2%Geheul-Experiment%str3%%str4%,%str1%%str2%Эксперимент «Вой»%str3%%str4%
 [b],[b]
 [f]%str1%,[f]%str1%
