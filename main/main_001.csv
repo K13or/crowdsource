@@ -105,7 +105,7 @@ Use your Photon Forge to generate weapons of pure, blinding light, cauterizing y
 Используйте свою Photon Forge, чтобы создавать оружие из чистого, ослепляющего света, прижигая врагов — но будьте осторожны, не используйте это оружие слишком долго, иначе перегреетесь."
 """Celestials keep you, friend. I have another set of records to add to your collection, swiped from the office of Kaineng's own chief censor of the archives. You were right to distrust them. I'm sorry to say they've grown more aggressive in their pruning, withdrawing and destroying almost any mention of the Ministry of Purity's purges. Who knew our dear old emperor would be so sensitive in his old age?
 
-Jokes aside, the scale of the Ministry of Purity's efforts to cover their crimes is staggering, and I fear the damage to our cause should they succeed. Once the living memory of their deeds fades, if there is no record of it, how can we inspire our descendants to resist them? I've advised my allies to begin collecting every incriminating scrap they can find, and to distribute them through our network to preserve the truth. I strongly suggest your followers do the same.""","«Да хранят тебя Небожители, друг. У меня для твоей коллекции ещё один набор записей — выкраденных прямо из кабинета главного цензора архивов Кайнэна. Ты был прав, что не доверял им. С прискорбием сообщаю: они стали лишь безжалостнее в своих чистках, изымая и уничтожая почти любое упоминание о расправах Ministry of Purity. Кто бы мог подумать, что наш дорогой старый император окажется столь обидчив на склоне лет?
+Jokes aside, the scale of the Ministry of Purity's efforts to cover their crimes is staggering, and I fear the damage to our cause should they succeed. Once the living memory of their deeds fades, if there is no record of it, how can we inspire our descendants to resist them? I've advised my allies to begin collecting every incriminating scrap they can find, and to distribute them through our network to preserve the truth. I strongly suggest your followers do the same.""","«Да хранят тебя Небожители, друг. У меня для твоей коллекции ещё один набор записей — выкраденных прямо из кабинета главного цензора архивов Kaineng. Ты был прав, что не доверял им. С прискорбием сообщаю: они стали лишь безжалостнее в своих чистках, изымая и уничтожая почти любое упоминание о расправах Ministry of Purity. Кто бы мог подумать, что наш дорогой старый император окажется столь обидчив на склоне лет?
 
 Шутки в сторону: масштаб, с каким Ministry of Purity пытается замести следы своих преступлений, ошеломляет, и я страшусь того урона, что понесёт наше дело, если они преуспеют. Когда живая память об их деяниях угаснет — если не останется ни единой записи, — чем мы вдохновим потомков сопротивляться им? Я посоветовал союзникам собирать любой уличающий клочок, какой удастся найти, и распространять его через нашу сеть, чтобы сохранить правду. Настоятельно советую твоим последователям поступить так же»."
 """Celestials keep you, friend. I have another set of records to add to your collection, swiped from the office of Kaineng's own chief censor of the archives. You were right to distrust them. I'm sorry to say they've grown more aggressive in their pruning, withdrawing and destroying almost any mention of the Ministry of Purity's purges. Who knew our dear old emperor would be so sensitive in his old age?Jokes aside, the scale of the Ministry of Purity's efforts to cover their crimes is staggering, and I fear the damage to our cause should they succeed. Once the living memory of their deeds fades, if there is no record of it, how can we inspire our descendants to resist them? I've advised my allies to begin collecting every incriminating scrap they can find, and to distribute them through our network to preserve the truth. I strongly suggest your followers do the same.""","«Небесные хранят тебя, друг. У меня есть ещё один набор записей для твоей коллекции, украденный из кабинета главного цензора архивов Кайнэнга. Ты был прав, когда не доверял им. Боюсь сказать, что они стали агрессивнее в своём вырезании, изымая и уничтожая почти любое упоминание о чистках Ministry of Purity. Кто бы мог подумать, что наш дорогой старый император будет так чувствителен в своём преклонном возрасте? Шутки в сторону, масштабы усилий Ministry of Purity по сокрытию своих преступлений ошеломляют, и я боюсь ущерба для нашего дела, если они добьются успеха. Как только живая память об их деяниях угаснет, если не останется никаких записей, как мы сможем вдохновить наших потомков сопротивляться им? Я посоветовал своим союзникам начать собирать каждый уличающий клочок, который они смогут найти, и распространять их через нашу сеть для сохранения истины. Я настоятельно рекомендую твоим последователям сделать то же самое»."
@@ -452,7 +452,7 @@ The renegade channels the power of the legendary charr Kalla Scorchrazor, gainin
 Ренегат направляет силу легендарной чарр Каллы Обгорелый Коготь, получая способности, помогающие контролировать поле боя. Призывайте членов военного отряда из Тумана, чтобы усилить союзников или сокрушить врагов."
 """Let the ancient magics of Vabbi burn away our foes.""
 
-Firebrands harness the power of ancient Vabbian tomes to burn away impurities and conquer their foes. Each tome contains raw, powerful magic and must be used with patience and care.","«Пусть древняя магия Вабби выжжет наших врагов».
+Firebrands harness the power of ancient Vabbian tomes to burn away impurities and conquer their foes. Each tome contains raw, powerful magic and must be used with patience and care.","«Пусть древняя магия Vabbi выжжет наших врагов».
 
 Поджигатели используют силу древних вабийских томов, чтобы выжигать нечистоту и побеждать врагов. Каждый том содержит первозданную, мощную магию и должен использоваться с терпением и осторожностью."
 """Live well, fully, and waste nothing.""
@@ -704,7 +704,7 @@ In the stale and musky air of the next morning, as the final embers in the heart
 
 The herald invokes the legendary dragon Glint, gaining abilities that allow them to channel restorative energies in order to bolster their allies. These abilities can be maintained indefinitely as long as they have sufficient energy, and they can be stacked to gain multiple effects.","«У тебя есть предназначение, которое нужно исполнить».
 
-Вестник взывает к легендарному дракону Глинт, получая способности, позволяющие направлять восстановительные энергии, чтобы укрепить союзников. Эти способности можно поддерживать бесконечно, пока хватает энергии, и их можно накапливать для получения нескольких эффектов."
+Вестник взывает к легендарному дракону Glint, получая способности, позволяющие направлять восстановительные энергии, чтобы укрепить союзников. Эти способности можно поддерживать бесконечно, пока хватает энергии, и их можно накапливать для получения нескольких эффектов."
 """You will feel my spite, deep in your bones.""
 
 Your growing spite increases your outgoing damage by enhancing your ability to gain might and strengthening your signets. Strip boons from your enemies, leaving them defenseless against the onslaught.","«Ты почувствуешь мою злобу глубоко в своих костях».
@@ -1524,7 +1524,7 @@ Vengeance, purpose, hope, all burning anew.","### Когда ты касаешь
 
 Она садится рядом со мной.
 
-Почему Леди Пейта ищет моего совета?
+Почему Леди Peitha ищет моего совета?
 
 Её слова не похожи на слова Мосин, полные страсти и ярости.
 
@@ -2486,7 +2486,7 @@ I am contacting you on behalf of Empress Ihn. We have just learned about the inc
 
 —Navan","%str1%,
 
-Я связываюсь с вами от имени Empress Ihn. Мы только что узнали об инциденте на энергетическом объекте «Ксунлай Джейд» и крайне обеспокоены тем, что это может значить для всех нас. Ваша соратница, леди Касмир, настойчиво отстаивала вашу позицию в этих вопросах, но Ministry of Security планирует принять немедленные меры. Я предлагаю встретиться лично, чтобы обсудить это, прежде чем что-то пойдёт дальше. Я знаю один ресторан суши, «Nika's Blade», который подойдёт для встречи. Встретьтесь там со мной как можно скорее.
+Я связываюсь с вами от имени Empress Ihn. Мы только что узнали об инциденте на энергетическом объекте «Ксунлай Джейд» и крайне обеспокоены тем, что это может значить для всех нас. Ваша соратница, леди Kasmeer, настойчиво отстаивала вашу позицию в этих вопросах, но Ministry of Security планирует принять немедленные меры. Я предлагаю встретиться лично, чтобы обсудить это, прежде чем что-то пойдёт дальше. Я знаю один ресторан суши, «Nika's Blade», который подойдёт для встречи. Встретьтесь там со мной как можно скорее.
 
 — Наван"
 "%str1%,
@@ -2702,7 +2702,7 @@ Inspector Kiel и её Львиная Стража выследили после
 
 Что бы ты ни обнаружил, после возвращайся на место преступления в Lion's Arch, чтобы мы могли поделиться находками.
 
-— Марджори"
+— Marjory"
 "%str1%,
 
 Inspector Kiel ordered me to inform you of a second Aetherblade lair at Broadhollow Bluffs in Gendarran Fields. It's a death trap, but it's filled with treasure. Let's give these pirates a taste of their own medicine. Plunder their lair. If we can clean them out then they'll think twice before setting up shop again.
@@ -2899,7 +2899,7 @@ I'll continue the investigation into the whereabouts of our last two suspects. B
 
 —Marjory","%str1%,
 
-У Львиной Стражи есть зацепки по трём из пяти пропавших подозреваемых. Я бы с удовольствием погрузилась в эту тайну, но я нужна в Lion's Arch. Мы только что встретились, но мне нужен кто-то, кто может отправиться на допрос подозреваемых, и вы оказались ключевым в этом расследовании. Касмир занята бумажной работой в баре.
+У Львиной Стражи есть зацепки по трём из пяти пропавших подозреваемых. Я бы с удовольствием погрузилась в эту тайну, но я нужна в Lion's Arch. Мы только что встретились, но мне нужен кто-то, кто может отправиться на допрос подозреваемых, и вы оказались ключевым в этом расследовании. Kasmeer занята бумажной работой в баре.
 
 Сделайте всё возможное, чтобы убедить подозреваемых вернуться в Lion's Arch, и записывайте всё интересное, что они скажут. Вот информация об их местонахождении:
 
@@ -2909,7 +2909,7 @@ I'll continue the investigation into the whereabouts of our last two suspects. B
 
 Я продолжу расследование местонахождения двух последних подозреваемых. Будьте осторожны, доверяйте инстинктам и оставайтесь в живых.
 
-—Марджори"
+—Marjory"
 "%str1%,
 
 The Sentinels and I would like to thank you once again for your recent help with our little ghosts and Branded problem. This ongoing fight really wears down the morale here and your assistance was a much needed shot in the arm.
@@ -2983,7 +2983,7 @@ The tragedy at Dragon Bash has been put to rest, and a new mystery calls—or wi
 
 Трагедия на Dragon Bash завершена, и новая тайна зовет — или скоро позовет, я уверен. В затишье между делами я хочу поблагодарить вас за вашу ценную помощь. Без вас мы бы не раскрыли причастность Mai Trin. Так что спасибо. Увидимся позже.
 
-—Марджори"
+—Marjory"
 "%str1%,
 
 The tragedy in Lion's Arch has been put to rest, and a new mystery calls—or will soon, I'm sure. In the lull between cases, I must take a moment to thank you for your valuable service. We wouldn't have discovered Mai Trin's involvement without your help. So, thank you. Feel free to stop by the Dead End any time; Kiel and Magnus are going to swing by, too. I owe you all a drink.
@@ -3262,7 +3262,7 @@ If you have the time available to revisit your contributions, the Captain's Coun
 I've been talking to a few Vigil representatives. They're closing in on the location of the Molten Alliance headquarters...at least, one of them. There are hundreds of thousands of old mines lining the Shiverpeaks, so it might take a little digging to track down the right one. Regardless, when I find out, you find out—then we'll take the fight to them.
 
 Until then, rest up.
-Rox","%str1%, Я хотел поблагодарить тебя за помощь в инкубаторе. Особенно учитывая, что это было испытание отряда... Я бы провалился, если бы не ты. Это был первый этап моих испытаний, так что я у тебя в долгу. По-крупному. Я всё ещё в шоке, что Жарокамень вообще меня рассматривает, но у нас есть задачи поважнее.
+Rox","%str1%, Я хотел поблагодарить тебя за помощь в инкубаторе. Особенно учитывая, что это было испытание отряда... Я бы провалился, если бы не ты. Это был первый этап моих испытаний, так что я у тебя в долгу. По-крупному. Я всё ещё в шоке, что Brimstone вообще меня рассматривает, но у нас есть задачи поважнее.
 
 Я поговорил с несколькими представителями Дозора. Они выходят на местонахождение штаба Molten Alliance... по крайней мере, одного из них. В Дрожащих Вершинах сотни тысяч старых шахт, так что может потребоваться немало раскопок, чтобы найти нужную. В любом случае, когда я узнаю, узнаешь и ты — тогда мы и нанесём удар.
 

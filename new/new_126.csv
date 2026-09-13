@@ -1,17 +1,17 @@
 english,translate
 "1 ""You who stand before me are remarkable. We have tested you by trial, and you have pledged yourself to a cause that will change you forever. ""","1 «Вы, стоящие предо мной, незаурядны. Мы испытали вас, и вы посвятили себя делу, которое изменит вас навсегда. »"
 1. Choose—your—destination. <br>2. Check—your—map—output—for—coordinates. <br>3. Have—a—nice—day.,1. Выберите—пункт—назначения. <br>2. Сверьте—координаты—на—карте. <br>3. Хорошего—дня.
-"10 ""And when we arrived here, you created a city worthy of Glint's pride. Your work here pleased and humbled me and the other Forgotten.""","10 «А когда мы пришли сюда, вы построили город, которым Глинт могла бы гордиться. Ваш труд здесь порадовал и смирил меня и прочих Забытых»."
+"10 ""And when we arrived here, you created a city worthy of Glint's pride. Your work here pleased and humbled me and the other Forgotten.""","10 «А когда мы пришли сюда, вы построили город, которым Glint могла бы гордиться. Ваш труд здесь порадовал и смирил меня и прочих Забытых»."
 "11 ""We raised this haven at the edge of Mordremoth's jungle, but no Elder Dragon can touch us here. Our magic shields the city from them.""","11 «Мы возвели это убежище на краю джунглей Мордремота, но здесь ни один Старший дракон нас не достанет. Наша магия укрывает город от них»."
 "12 ""Your friends and families have no less important a charge. The Brotherhood of the Dragon passed its mantle on to them.""",12 «На ваших друзьях и родных лежит не менее важная ноша. Brotherhood of the Dragon передало им свою мантию».
 "13 ""They're calling themselves Zephyrites after the gentle, ever-moving breeze of their homeland, and none but their inner circle will know their secret mission.""","13 «Они зовут себя зефиритами — по мягкому, вечно движущемуся ветру их родины, и об их тайной миссии не узнает никто, кроме ближнего круга»."
 1325 AE Entries,Записи 1325 года ПИ
 1326 AE to 1327 AE Entries,Записи с 1326 по 1327 год ПИ
 1328 AE to 1329 AE Entries,Записи с 1328 по 1329 год ПИ
-"14 ""Glint's legacy is far more than just her offspring, and you must protect it all.""","14 «Наследие Глинт — куда больше, чем её потомство, и хранить вы должны его целиком»."
+"14 ""Glint's legacy is far more than just her offspring, and you must protect it all.""","14 «Наследие Glint — куда больше, чем её потомство, и хранить вы должны его целиком»."
 "16 ""As the last Forgotten, I have come to understand the vastness of history and the ephemeral nature of truth.""",16 «Как последний из Забытых я постиг необъятность истории и мимолётность истины».
 16x,16x
-"17 ""You do it to ensure that this world you love continues on after you're gone. Glint's dream of a harmonious future can come to pass. Now you carry the torch of her benevolence.""","17 «Вы делаете это, чтобы мир, который вы любите, продолжился и после вас. Мечта Глинт о согласном будущем может сбыться. Теперь факел её милосердия несёте вы»."
+"17 ""You do it to ensure that this world you love continues on after you're gone. Glint's dream of a harmonious future can come to pass. Now you carry the torch of her benevolence.""","17 «Вы делаете это, чтобы мир, который вы любите, продолжился и после вас. Мечта Glint о согласном будущем может сбыться. Теперь факел её милосердия несёте вы»."
 "18 Slots. If possible, junk items will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.","18 ячеек. По возможности хлам будет складываться в эту коробку прежде, чем в другие свободные места. При сортировке рюкзака содержимое этой коробки не перемещается."
 "3 ""You look upon me and see the sunset of our race. I am the last of the Forgotten.""",3 «Вы смотрите на меня и видите закат нашего народа. Я последний из Забытых».
 30%% Magic Find Bonus,Бонус к нахождению магии 30%%
@@ -19,7 +19,7 @@ english,translate
 4x,4x
 "5 ""In olden times, when the Dragons stirred, it fell to the Seers to set aside a reservoir of magic for the upcoming drought.""","5 «В стародавние времена, когда драконы шевелились, Провидцам выпало отложить запас магии на грядущую засуху»."
 6-RUS,6-RUS
-"7 ""Glaust has been known by many names, and even we do not know her true name. She is called Glint in these modern times, and she entrusted us with using her legacy for Tyria.""","7 «Глауст знали под многими именами, и даже нам не ведомо её истинное имя. Ныне её зовут Глинт, и она доверила нам обратить её наследие на благо Тирии»."
+"7 ""Glaust has been known by many names, and even we do not know her true name. She is called Glint in these modern times, and she entrusted us with using her legacy for Tyria.""","7 «Глауст знали под многими именами, и даже нам не ведомо её истинное имя. Ныне её зовут Glint, и она доверила нам обратить её наследие на благо Тирии»."
 "8 ""We began our journey among the magical canyons of the Lost Precipice, and when it no longer served us, we moved on.""","8 «Мы начали путь среди магических каньонов Lost Precipice, а когда он перестал служить нам, двинулись дальше»."
 8x,8x
 "9 ""En route to our final destination, we sheltered in a hollow and performed the exalting rituals, but ultimately, we left there as well. One day, Tarir will no longer serve us, and you will move on.""","9 «По дороге к конечной цели мы укрылись в лощине и совершили обряды возвышения, но в итоге ушли и оттуда. Однажды Тарир перестанет служить нам, и вы двинетесь дальше»."
@@ -130,7 +130,7 @@ A slightly weathered book lies before you with a faint smell of salt and sand.,"
 A sound plan. Let's do it!,Толковый план. За дело!
 A splint is being applied. More splints can be applied.,Накладывается шина. Можно наложить ещё.
 A statue of an asura among our legendary heroes? Odd.,Статуя асуры среди наших легендарных героев? Странно.
-"A statue of an older asura, his features mischievous, kind, and careworn. An area on the statue has been left open for an inscription. Above this space is the simple title ""Snaff,"" and nothing more.","Статуя пожилого асуры: черты лукавые, добрые и усталые. Место под надпись на ней оставлено пустым. Над ним лишь одно слово: «Снафф», и больше ничего."
+"A statue of an older asura, his features mischievous, kind, and careworn. An area on the statue has been left open for an inscription. Above this space is the simple title ""Snaff,"" and nothing more.","Статуя пожилого асуры: черты лукавые, добрые и усталые. Место под надпись на ней оставлено пустым. Над ним лишь одно слово: «Snaff», и больше ничего."
 A steward arm is trying to strike you. Drop it off at the appropriate workstation.,Рука стюарда пытается вас ударить. Сдайте её на нужный верстак.
 "A stiff drink. I've got a stash that I was saving for a special occasion, and I think this qualifies. Care to join?","Чего покрепче. У меня припрятано на особый случай, и, по-моему, он настал. Не составите компанию?"
 A stolen Inquest hoverbike with limited fuel. It will disappear when time runs out.,"Угнанный у Inquest паролёт с малым запасом топлива. Когда время выйдет, он исчезнет."
@@ -184,7 +184,7 @@ Absorbs incoming damage.,Поглощает входящий урон.
 Absorbs some damage directed at nearby allies.,"Поглощает часть урона, направленного на ближних союзников."
 Absorbs spectral flames to heal itself and increase the damage of Shadow Blast.,"Поглощает призрачное пламя, исцеляя себя и усиливая «Shadow Blast»."
 Accept the challenge and activate challenge mode.,Принять вызов и включить режим испытания.
-Accompany Marjory and Mai to the noodle stand.,Сопроводите Марджори и Май к лапшичной стойке.
+Accompany Marjory and Mai to the noodle stand.,Сопроводите Marjory и Май к лапшичной стойке.
 Accompany the Claw of Koda to find the source of the icebrood armies.,"Сопроводите Коготь Коды, чтобы найти источник армий ледекровных."
 Accurate Sketches,Точные наброски
 Accused the innocent.,Обвинил невиновного.
