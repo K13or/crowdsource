@@ -83,7 +83,7 @@ Double-click to combine 5 fragments into a Druid Runestone.,"Дважды щёл
 Double-click to combine a Favor of the Bazaar with a Favor of the Pavilion to create a Favor of the Festival.,"Дважды щёлкните, чтобы объединить Favor of the Bazaar с благосклонностью Павильона для создания благосклонности Фестиваля."
 "Double-click to combine a Sulfuric Egg, Slimemold, Crystallized Chaos, and Naphthenic Acid in an Empty Hylek Flask to create the Concentrated Volatile Substance.","Дважды щёлкните, чтобы объединить Sulfuric Egg, плесень слизевика, Crystallized Chaos и нафтеновую кислоту в пустой колбе хилека для создания концентрированного летучего вещества."
 Double-click to combine all four pieces of the Enchanted Map.,"Дважды щёлкните, чтобы объединить все четыре части Зачарованной карты."
-Double-click to combine Bloodstone Powder with Powdered Aurillium collected from high above central Tarir.,"Дважды щёлкните, чтобы соединить Bloodstone Powder с порошком ауриллия, собранным высоко над центральным Тариром."
+Double-click to combine Bloodstone Powder with Powdered Aurillium collected from high above central Tarir.,"Дважды щёлкните, чтобы соединить Bloodstone Powder с порошком ауриллия, собранным высоко над центральным Tarir."
 "Double-click to combine Dragon Hatchling Doll Adornments, Eyes, Hide, Frame, and Stuffing to create a Dragon Hatchling Doll.","Дважды щёлкните, чтобы объединить украшения куклы дракончика, глаза, шкуру, каркас и наполнитель для создания куклы дракончика."
 Double-click to combine into a higher-tier trophy.,"Дважды щёлкните, чтобы объединить в трофей более высокого уровня."
 Double-click to combine Powdered Aurillium with Bloodstone Powder from the Temple of Salvation.,"Дважды щёлкните, чтобы соединить порошок ауриллия с Bloodstone Powder из Храма Спасения."
@@ -118,7 +118,7 @@ Double-click to complete one random Hero Challenge from Cantha.,"Дважды щ
 Double-click to complete one random Hero Challenge from Castora.,"Дважды щёлкните, чтобы выполнить одно случайное испытание героя из Касторы."
 Double-click to complete one random Hero Challenge from Central Tyria.,"Дважды щёлкните, чтобы выполнить одно случайное испытание героя из Центральной Тирии."
 Double-click to complete one random Hero Challenge from the Crystal Desert region.,"Дважды щёлкните, чтобы выполнить одно случайное испытание героя из региона Crystal Desert."
-Double-click to complete one random Hero Challenge from the Maguuma region.,"Дважды щёлкните, чтобы выполнить одно случайное испытание героя из региона Магуума."
+Double-click to complete one random Hero Challenge from the Maguuma region.,"Дважды щёлкните, чтобы выполнить одно случайное испытание героя из региона Maguuma."
 "Double-click to construct a bonfire. Fully stoked bonfires grant 60-minute boosts for karma, experience, or magic find. Bonfires last for 15 minutes.
 <c=@flavor>""In harsh times, we must all band together...and succeed together!""</c>","Дважды щёлкните, чтобы разжечь костёр. Полностью растопленные костры дают 60-минутные бонусы к карме, опыту или поиску магии. Костры горят 15 минут.
 <c=@flavor>«В трудные времена мы должны объединиться... и вместе добиться успеха!»</c>"
@@ -278,7 +278,7 @@ Gives bonus Mastery experience once per day.","Дважды щёлкните, ч
 
 <c=@flavor>Soaked in the clean, cool waters from a Maguuma oasis.</c>","Дважды щёлкните, чтобы скормить культивированному ростку.
 
-<c=@flavor>Вымочено в чистой прохладной воде из оазиса Магуумы.</c>"
+<c=@flavor>Вымочено в чистой прохладной воде из оазиса Maguuma.</c>"
 "Double-click to feed to a Mysterious Seedling.
 
 <c=@flavor>Purified with Sacred Glacial Water to keep a wild plant well behaved while it matures.<c>","Дважды щёлкните, чтобы скормить таинственному саженцу.
@@ -446,7 +446,7 @@ Double-click to gain a keg of stout ale.,"Дважды щёлкните, что�
 <c=@Flavor>Помогите Амнуну заслужить благосклонность армий Джоко, устранив заметные угрозы.</c>"
 "Double-click to gain a large amount of bonus Mastery experience.
 <c=@Flavor>Help Amnoon remain safe and independent by taking out notable threats.</c>","Дважды щёлкните, чтобы получить большой бонусный опыт мастерства.
-<c=@Flavor>Помогите Амнуну остаться в безопасности и независимости, устранив заметные угрозы.</c>"
+<c=@Flavor>Помогите Amnoon остаться в безопасности и независимости, устранив заметные угрозы.</c>"
 Double-click to gain a large amount of Mastery experience.,"Дважды щёлкните, чтобы получить большой опыт мастерства."
 Double-click to gain a med pack,"Дважды щёлкните, чтобы получить медицинский набор"
 Double-click to gain a metal rod.,"Дважды щёлкните, чтобы получить металлический прут."
@@ -477,7 +477,7 @@ Double-click to gain a moderate amount of karma.,"Дважды щёлкните,
 <c=@Flavor>Восстановите веру в Орден Копьеносцев, вернув эту древнюю реликвию.</c>"
 "Double-click to gain a moderate amount of karma.
 <c=@Flavor>Retrieve this seal to display the authority of Amnoon.</c>","Дважды щёлкните, чтобы получить умеренное количество кармы.
-<c=@Flavor>Получите эту печать, чтобы продемонстрировать власть Амнуна.</c>"
+<c=@Flavor>Получите эту печать, чтобы продемонстрировать власть Amnoon.</c>"
 "Double-click to gain a moderate amount of karma.
 <c=@Flavor>Share the history of the Sunspears by returning these confiscated religious texts.</c>","Дважды щёлкните, чтобы получить умеренное количество кармы.
 <c=@Flavor>Поделитесь историей Копьеносцев, вернув эти конфискованные религиозные тексты.</c>"
@@ -486,10 +486,10 @@ Double-click to gain a moderate amount of karma.,"Дважды щёлкните,
 <c=@Flavor>Закрепите союз между Амнуном и Джоко, заручившись поддержкой ключевых фигур.</c>"
 "Double-click to gain a moderate amount of trade contracts.
 <c=@Flavor>By gathering support from nearby settlements, you can put Amnoon at ease with their independence.</c>","Дважды щёлкните, чтобы получить умеренное количество торговых контрактов.
-<c=@Flavor>Успокойте Амнун относительно их независимости, заручившись поддержкой близлежащих поселений.</c>"
+<c=@Flavor>Успокойте Amnoon относительно их независимости, заручившись поддержкой близлежащих поселений.</c>"
 "Double-click to gain a moderate amount of trade contracts.
 <c=@Flavor>By supporting their allies, you can strengthen ties between Amnoon and the Sunspears.</c>","Дважды щёлкните, чтобы получить умеренное количество торговых контрактов.
-<c=@Flavor>Укрепите связи между Амнуном и Копьеносцами, поддерживая их союзников.</c>"
+<c=@Flavor>Укрепите связи между Amnoon и Копьеносцами, поддерживая их союзников.</c>"
 Double-click to gain a Molachev Cocktail bundle item.,"Дважды щёлкните, чтобы получить предмет-связку «Molachev Cocktail»."
 Double-click to gain a Molachev Cocktail.,"Дважды щёлкните, чтобы получить Molachev Cocktail."
 Double-click to gain a mortar seed turret,"Дважды щёлкните, чтобы получить турель-семя мортиры"

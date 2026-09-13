@@ -57,9 +57,9 @@ Targets destroyed: %num1%/50,Уничтожено целей: %num1%/50
 Targets per Barrier,Целей за барьер
 Targets per Fireball,Целей за огненный шар
 Tariq Ayim,Tariq Ayim
-Tarir has been saved from Mordrem! The Exalted have revealed grand Exalted chests beneath the city.,Тарир спасён от Мордрем! Возвышенные открыли великие сундуки Возвышенных под городом.
-"Tarir perseveres, but for how long?","Тарир держится, но надолго ли?"
-Tarir's sanctum will be breached in: %str1%,Святилище Тарира будет взломано через: %str1%
+Tarir has been saved from Mordrem! The Exalted have revealed grand Exalted chests beneath the city.,Tarir спасён от Мордрем! Возвышенные открыли великие сундуки Возвышенных под городом.
+"Tarir perseveres, but for how long?","Tarir держится, но надолго ли?"
+Tarir's sanctum will be breached in: %str1%,Святилище Tarir будет взломано через: %str1%
 Tarir<br>The Forgotten City,Тарир<br>Забытый город
 Tark<br>Hall,Тарк<br>Зал
 Tarnish Dye[s],[Краска|Краски|Красок] «Тарниш»
@@ -203,7 +203,7 @@ Tattoo Traditional,Татуировка традиционная
 Tattoo Turquoise,Татуировка бирюзовая
 Tattoo White,Татуировка белая
 Tattoo Yellow,Татуировка жёлтая
-"Tatyanna isn't mad—we all heard it this time. It told us where to find the gate.    Perhaps it is the Unseen Ones that guide us, but we will venture inside tomorrow. We will complete Caudecus's mission and the world will see. They will all see.    *A dark-brown stain is splashed across the bottom of the page. The rest of the script is illegible.*","Татьянна не сошла с ума — на этот раз мы все это слышали. Оно сказало нам, где найти врата.    Возможно, это Незримые направляют нас, но завтра мы отправимся внутрь. Мы выполним миссию Кодекуса, и мир увидит. Они все увидят.    *Тёмно-коричневое пятно разлито по нижней части страницы. Остальной текст неразборчив.*"
+"Tatyanna isn't mad—we all heard it this time. It told us where to find the gate.    Perhaps it is the Unseen Ones that guide us, but we will venture inside tomorrow. We will complete Caudecus's mission and the world will see. They will all see.    *A dark-brown stain is splashed across the bottom of the page. The rest of the script is illegible.*","Татьянна не сошла с ума — на этот раз мы все это слышали. Оно сказало нам, где найти врата.    Возможно, это Незримые направляют нас, но завтра мы отправимся внутрь. Мы выполним миссию Caudecus, и мир увидит. Они все увидят.    *Тёмно-коричневое пятно разлито по нижней части страницы. Остальной текст неразборчив.*"
 Taunt 'n' Stomp,Насмешка и топот
 Taunts nearby enemies and damages them for 20%% of their health.,Насмехается над ближайшими врагами и наносит им урон в размере 20%% от их здоровья.
 Taupe Dye[s],[Краска|Краски|Красок] «Серо-коричневая»
@@ -371,20 +371,20 @@ Temple Captured,Храм захвачен
 Temple Gate[s],[Врата|Врат|Врат] храма
 Temple of Balthazar <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Balthazar statues in Orr are disabled.</c>,Храм Бальтазара <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Бальтазара в Орре отключены.</c>
 Temple of Balthazar <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Balthazar statues in Orr are active.,Храм Бальтазара <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Бальтазара в Орре активны.
-Temple of Dwayna <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Dwayna statues in Orr are disabled.</c>,Храм Двайны <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Двайны в Орре отключены.</c>
-Temple of Dwayna <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Dwayna statues in Orr are active.,Храм Двайны <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Двайны в Орре активны.
+Temple of Dwayna <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Dwayna statues in Orr are disabled.</c>,Храм Dwayna <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Dwayna в Орре отключены.</c>
+Temple of Dwayna <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Dwayna statues in Orr are active.,Храм Dwayna <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Dwayna в Орре активны.
 Temple of Febe: Cerus,Храм Фебы: Церус
 Temple of Febe: Legendary Cerus,Храм Фебы: Легендарный Церус
-Temple of Grenth <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Grenth statues in Orr are disabled.</c>,Храм Грента <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Грента в Орре отключены.</c>
-Temple of Grenth <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Grenth statues in Orr are active.,Храм Грента <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Грента в Орре активны.
+Temple of Grenth <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Grenth statues in Orr are disabled.</c>,Храм Grenth <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Grenth в Орре отключены.</c>
+Temple of Grenth <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Grenth statues in Orr are active.,Храм Grenth <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Grenth в Орре активны.
 Temple of Lost Prayers Blue Team,Храм Утраченных Молитв: Синяя команда
 Temple of Lost Prayers Green Team,Храм Утраченных Молитв: Зелёная команда
 Temple of Lost Prayers Red Team,Храм Утраченных Молитв: Красная команда
 Temple of Lost Prayers White Team,Храм Утраченных Молитв: Белая команда
 Temple of Lyssa <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Lyssa statues in Orr are disabled.</c>,Храм Лиссы <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Лиссы в Орре отключены.</c>
 Temple of Lyssa <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Lyssa statues in Orr are active.,Храм Лиссы <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Лиссы в Орре активны.
-Temple of Melandru <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Melandru statues in Orr are disabled.</c>,Храм Меландру <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Меландру в Орре отключены.</c>
-Temple of Melandru <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Melandru statues in Orr are active.,Храм Меландру <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Меландру в Орре активны.
+Temple of Melandru <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Melandru statues in Orr are disabled.</c>,Храм Melandru <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Melandru в Орре отключены.</c>
+Temple of Melandru <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Melandru statues in Orr are active.,Храм Melandru <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Melandru в Орре активны.
 Temple of the Silent Storm Paid Tournament Week!,Неделя платного турнира «Храм Безмолвной Бури»!
 Temple Worshipper,Прихожанин храма
 Temple's Guard,Страж Храма
