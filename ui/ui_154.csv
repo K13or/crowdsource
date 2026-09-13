@@ -172,7 +172,7 @@ Trickster's Mantle[s],[Накидка|Накидки|Накидок] Плута
 Trickster's Vest[s],[Жилет|Жилета|Жилетов] Плута
 Tricolor Key[s],[Ключ|Ключа|Ключей] трёх цветов
 Trident Token[s],[Жетон|Жетона|Жетонов] трезубца
-"Tried to make contact with Crecia and the councillor. No good. Communication off the island is shaky at best. The second I thought I got someone, it immediately disconnected.     Could be interference from our little ""curse"" problem.","Пытался связаться с Кресией и советником. Бесполезно. Связь с островом в лучшем случае нестабильная. Как только я думал, что дозвонился, сразу же обрывалась.     Возможно, помехи из-за нашей маленькой проблемы с «проклятием»."
+"Tried to make contact with Crecia and the councillor. No good. Communication off the island is shaky at best. The second I thought I got someone, it immediately disconnected.     Could be interference from our little ""curse"" problem.","Пытался связаться с Crecia и советником. Бесполезно. Связь с островом в лучшем случае нестабильная. Как только я думал, что дозвонился, сразу же обрывалась.     Возможно, помехи из-за нашей маленькой проблемы с «проклятием»."
 Trigger %str1% does not exist in this instance.,Триггер %str1% не существует в этом инстансе.
 Trigger %str1% is %str2%,Триггер %str1% равен %str2%
 Trigger %str1% is now set.,Триггер %str1% теперь установлен.
