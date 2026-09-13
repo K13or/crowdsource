@@ -166,7 +166,7 @@ Double-click to view the target's predicted location.","<c=@flavor>По прик
 "<c=@flavor>Crafted in the style of the renowned charr engineer, Tybalt Leftpaw.</c>",<c=@flavor>Изготовлено в стиле прославленного чаррского инженера Tybalt Leftpaw.</c>
 "<c=@flavor>Crafted in the style of the renowned charr meatsmith, Lakor Grizzlemouth.</c>",<c=@flavor>Изготовлено в стиле прославленного чаррского мясника Лакора Гризлемаута.</c>
 "<c=@flavor>Crafted in the style of the renowned norn smith, Beigarth.</c>",<c=@flavor>Изготовлено в стиле прославленного кузнеца-норна Бейгарта.</c>
-"<c=@flavor>Crafted in the style of the renowned Sylvari smith, Occam.</c>",<c=@flavor>Изготовлено в стиле прославленного кузнеца-сильвари Оккама.</c>
+"<c=@flavor>Crafted in the style of the renowned Sylvari smith, Occam.</c>",<c=@flavor>Изготовлено в стиле прославленного кузнеца-сильвари Occam.</c>
 "<c=@flavor>Crafted in the style of the Seraph commander, Logan Thackeray.</c>",<c=@flavor>Изготовлено в стиле командира Серафимов Логана Такерея.</c>
 "<c=@flavor>Crafted in the style of the Teku Nuhoch Kaana, Pahua.</c>","<c=@flavor>Изготовлено в стиле Кааны Teku Nuhoch, Пахуа.</c>"
 "<c=@flavor>Crafted in the style of the Vigil leader, Laranthir of the Wild.</c>",<c=@flavor>Изготовлено в стиле предводителя Дозора Laranthir of the Wild.</c>
@@ -229,7 +229,7 @@ Purchased from Shading Willow at the Autumn's Vale renown heart in Lowland Shore
 <c=@flavor>Everything vanishes beneath the falling snow.</c>,<c=@flavor>Всё исчезает под падающим снегом.</c>
 <c=@flavor>Everything vanishes beneath the sprinkles and icing.</c>,<c=@flavor>Всё исчезает под посыпкой и глазурью.</c>
 <c=@flavor>Face protection from the elements.</c>,<c=@flavor>Защита лица от стихий.</c>
-<c=@flavor>Family crest of the Barradin line.</c>,<c=@flavor>Фамильный герб рода Баррадин.</c>
+<c=@flavor>Family crest of the Barradin line.</c>,<c=@flavor>Фамильный герб рода Barradin.</c>
 <c=@flavor>Family crest of the famous Thackerays.</c>,<c=@flavor>Фамильный герб знаменитых Такереев.</c>
 "<c=@flavor>Fascinating, isn't it? Our newest experimental weapon. Utilizing shadowstone has allowed us to combine two swords into one larger greatsword. A similar feat was previously exclusive to djinn magic.</c>","<c=@flavor>Занятно, не правда ли? Наше новейшее экспериментальное оружие. Теневой камень позволил нам соединить два меча в один большой двуручник. Прежде подобное было доступно лишь магии джиннов.</c>"
 "<c=@flavor>Fashionable, yet functional.</c>",<c=@flavor>Модно и притом практично.</c>
@@ -311,7 +311,7 @@ Found in Jora's Keep in Bjora Marches.","<c=@flavor>Ледяной жар.</c>
 "<c=@Flavor>It is, quite falsely, believed that a small Branded crystal wards off the Branded.</c>","<c=@Flavor>Совершенно ошибочно считается, будто маленький клеймёный кристалл отпугивает клеймёных.</c>"
 <c=@flavor>It looks like it's made to be easily hidden.</c>,"<c=@flavor>Похоже, сделано так, чтобы легко прятать.</c>"
 <c=@flavor>It took a lot of tears to create this much salt.</c>,"<c=@flavor>Чтобы получилось столько соли, понадобилось немало слёз.</c>"
-<c=@flavor>It's a small replica of Barradin's hammer.</c>,<c=@flavor>Это маленькая копия молота Баррадина.</c>
+<c=@flavor>It's a small replica of Barradin's hammer.</c>,<c=@flavor>Это маленькая копия молота Barradin.</c>
 "<c=@Flavor>It's good for cooking and preserving food, sealing boats, and apparently for ammunition.</c>","<c=@Flavor>Годится для готовки и хранения еды, для смоления лодок и, как выяснилось, для боеприпасов.</c>"
 <c=@flavor>It's like you're really there.</c>,<c=@flavor>Как будто ты и правда там.</c>
 <c=@flavor>It's said that the pen is mightier...</c>,"<c=@flavor>Говорят, перо сильнее...</c>"
