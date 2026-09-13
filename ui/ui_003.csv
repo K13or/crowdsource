@@ -422,22 +422,22 @@ english,translate
 %str1%%str2%Axe of the Dragon's Deep%str3%%str4%,%str1%%str2%Топор Драконьей Пучины%str3%%str4%
 %str1%%str2%Axe%str3%%str4%,%str1%%str2%Топор%str3%%str4%
 %str1%%str2%Azimuth%str3%%str4%,%str1%%str2%«Азимут»%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Axe%str3%%str4%,%str1%%str2%Лазурный топор убийцы драконов%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Dagger%str3%%str4%,%str1%%str2%Лазурный кинжал убийцы драконов%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Focus%str3%%str4%,%str1%%str2%Лазурный фокус убийцы драконов%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Greatsword%str3%%str4%,%str1%%str2%Лазурный двуручный меч убийцы драконов%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Hammer%str3%%str4%,%str1%%str2%Лазурный молот убийцы драконов%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Longbow%str3%%str4%,%str1%%str2%Лазурный длинный лук убийцы драконов%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Mace%str3%%str4%,%str1%%str2%Лазурная булава убийцы драконов%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Pistol%str3%%str4%,%str1%%str2%Лазурный пистолет убийцы драконов%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Лазурная винтовка убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Axe%str3%%str4%,%str1%%str2%Azure Dragon Slayer Axe%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Dagger%str3%%str4%,%str1%%str2%Azure Dragon Slayer Dagger%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Focus%str3%%str4%,%str1%%str2%Azure Dragon Slayer Focus%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Greatsword%str3%%str4%,%str1%%str2%Azure Dragon Slayer Greatsword%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Hammer%str3%%str4%,%str1%%str2%Azure Dragon Slayer Hammer%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Longbow%str3%%str4%,%str1%%str2%Azure Dragon Slayer Longbow%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Mace%str3%%str4%,%str1%%str2%Azure Dragon Slayer Mace%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Pistol%str3%%str4%,%str1%%str2%Azure Dragon Slayer Pistol%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Azure Dragon Slayer Rifle%str3%%str4%
 %str1%%str2%Azure Dragon Slayer Scepter%str3%%str4%,%str1%%str2%Лазурный Dragon Slayer Scepter%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Shield%str3%%str4%,%str1%%str2%Лазурный щит убийцы драконов%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Short Bow%str3%%str4%,%str1%%str2%Лазурный короткий лук убийцы драконов%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Staff%str3%%str4%,%str1%%str2%Лазурный посох убийцы драконов%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Sword%str3%%str4%,%str1%%str2%Лазурный меч убийцы драконов%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Torch%str3%%str4%,%str1%%str2%Лазурный факел убийцы драконов%str3%%str4%
-%str1%%str2%Azure Dragon Slayer Warhorn%str3%%str4%,%str1%%str2%Лазурный боевой рог убийцы драконов%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Shield%str3%%str4%,%str1%%str2%Azure Dragon Slayer Shield%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Short Bow%str3%%str4%,%str1%%str2%Azure Dragon Slayer Short Bow%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Staff%str3%%str4%,%str1%%str2%Azure Dragon Slayer Staff%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Sword%str3%%str4%,%str1%%str2%Azure Dragon Slayer Sword%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Torch%str3%%str4%,%str1%%str2%Azure Dragon Slayer Torch%str3%%str4%
+%str1%%str2%Azure Dragon Slayer Warhorn%str3%%str4%,%str1%%str2%Azure Dragon Slayer Warhorn%str3%%str4%
 %str1%%str2%Azure Railgun%str3%%str4%,%str1%%str2%«Лазурный рельсотрон»%str3%%str4%
 %str1%%str2%Azureflame%str3%%str4%,%str1%%str2%«Лазурное пламя»%str3%%str4%
 %str1%%str2%Balthazar's Axe%str3%%str4%,%str1%%str2%Топор Бальтазара%str3%%str4%

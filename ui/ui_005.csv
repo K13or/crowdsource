@@ -127,19 +127,19 @@ english,translate
 %str1%%str2%Crimson Assassin Sword%str3%%str4%,%str1%%str2%Меч «Багровый ассасин»%str3%%str4%
 %str1%%str2%Crimson Assassin Torch%str3%%str4%,%str1%%str2%Факел «Багровый ассасин»%str3%%str4%
 %str1%%str2%Crimson Assassin Warhorn%str3%%str4%,%str1%%str2%Боевой рог «Багровый ассасин»%str3%%str4%
-%str1%%str2%Crimson Dragon Slayer Axe%str3%%str4%,%str1%%str2%Багровый топор убийцы драконов%str3%%str4%
-%str1%%str2%Crimson Dragon Slayer Dagger%str3%%str4%,%str1%%str2%Багровый кинжал убийцы драконов%str3%%str4%
-%str1%%str2%Crimson Dragon Slayer Focus%str3%%str4%,%str1%%str2%Багровый фокус убийцы драконов%str3%%str4%
+%str1%%str2%Crimson Dragon Slayer Axe%str3%%str4%,%str1%%str2%Crimson Dragon Slayer Axe%str3%%str4%
+%str1%%str2%Crimson Dragon Slayer Dagger%str3%%str4%,%str1%%str2%Crimson Dragon Slayer Dagger%str3%%str4%
+%str1%%str2%Crimson Dragon Slayer Focus%str3%%str4%,%str1%%str2%Crimson Dragon Slayer Focus%str3%%str4%
 %str1%%str2%Crimson Dragon Slayer Greatsword%str3%%str4%,%str1%%str2%Crimson Dragon Slayer Greatsword%str3%%str4%
-%str1%%str2%Crimson Dragon Slayer Longbow%str3%%str4%,%str1%%str2%Багровый длинный лук убийцы драконов%str3%%str4%
-%str1%%str2%Crimson Dragon Slayer Mace%str3%%str4%,%str1%%str2%Багровая булава убийцы драконов%str3%%str4%
-%str1%%str2%Crimson Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Багровая винтовка убийцы драконов%str3%%str4%
+%str1%%str2%Crimson Dragon Slayer Longbow%str3%%str4%,%str1%%str2%Crimson Dragon Slayer Longbow%str3%%str4%
+%str1%%str2%Crimson Dragon Slayer Mace%str3%%str4%,%str1%%str2%Crimson Dragon Slayer Mace%str3%%str4%
+%str1%%str2%Crimson Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Crimson Dragon Slayer Rifle%str3%%str4%
 %str1%%str2%Crimson Dragon Slayer Scepter%str3%%str4%,%str1%%str2%Багровый Dragon Slayer Scepter%str3%%str4%
-%str1%%str2%Crimson Dragon Slayer Short Bow%str3%%str4%,%str1%%str2%Багровый короткий лук убийцы драконов%str3%%str4%
-%str1%%str2%Crimson Dragon Slayer Staff%str3%%str4%,%str1%%str2%Багровый посох убийцы драконов%str3%%str4%
-%str1%%str2%Crimson Dragon Slayer Sword%str3%%str4%,%str1%%str2%Багровый меч убийцы драконов%str3%%str4%
-%str1%%str2%Crimson Dragon Slayer Torch%str3%%str4%,%str1%%str2%Багровый факел убийцы драконов%str3%%str4%
-%str1%%str2%Crimson Dragon Slayer Warhorn%str3%%str4%,%str1%%str2%Багровый боевой рог убийцы драконов%str3%%str4%
+%str1%%str2%Crimson Dragon Slayer Short Bow%str3%%str4%,%str1%%str2%Crimson Dragon Slayer Short Bow%str3%%str4%
+%str1%%str2%Crimson Dragon Slayer Staff%str3%%str4%,%str1%%str2%Crimson Dragon Slayer Staff%str3%%str4%
+%str1%%str2%Crimson Dragon Slayer Sword%str3%%str4%,%str1%%str2%Crimson Dragon Slayer Sword%str3%%str4%
+%str1%%str2%Crimson Dragon Slayer Torch%str3%%str4%,%str1%%str2%Crimson Dragon Slayer Torch%str3%%str4%
+%str1%%str2%Crimson Dragon Slayer Warhorn%str3%%str4%,%str1%%str2%Crimson Dragon Slayer Warhorn%str3%%str4%
 %str1%%str2%Crimson Lion Axe%str3%%str4%,%str1%%str2%Багровый львиный топор%str3%%str4%
 %str1%%str2%Crimson Lion Dagger%str3%%str4%,%str1%%str2%Багровый львиный кинжал%str3%%str4%
 %str1%%str2%Crimson Lion Focus%str3%%str4%,%str1%%str2%Багровый львиный фокус%str3%%str4%
@@ -205,7 +205,7 @@ english,translate
 %str1%%str2%Dark Sanctified Rifle%str3%%str4%,%str1%%str2%Тёмная освящённая винтовка%str3%%str4%
 %str1%%str2%Dark Sanctified Scepter%str3%%str4%,%str1%%str2%Тёмный освящённый скипетр%str3%%str4%
 %str1%%str2%Dark Sanctified Shield%str3%%str4%,%str1%%str2%Тёмный освящённый щит%str3%%str4%
-%str1%%str2%Dark Sanctified Short Bow%str3%%str4%,%str1%%str2%Тёмный освящённый короткий лук%str3%%str4%
+%str1%%str2%Dark Sanctified Short Bow%str3%%str4%,%str1%%str2%Dark Sanctified Short Bow%str3%%str4%
 %str1%%str2%Dark Sanctified Staff%str3%%str4%,%str1%%str2%Тёмный освящённый посох%str3%%str4%
 %str1%%str2%Dark Sanctified Sword%str3%%str4%,%str1%%str2%Тёмный освящённый меч%str3%%str4%
 %str1%%str2%Dark Sanctified Torch%str3%%str4%,%str1%%str2%Тёмный освящённый факел%str3%%str4%
