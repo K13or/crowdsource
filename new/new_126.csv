@@ -2,7 +2,7 @@ english,translate
 "1 ""You who stand before me are remarkable. We have tested you by trial, and you have pledged yourself to a cause that will change you forever. ""","1 «Вы, стоящие предо мной, незаурядны. Мы испытали вас, и вы посвятили себя делу, которое изменит вас навсегда. »"
 1. Choose—your—destination. <br>2. Check—your—map—output—for—coordinates. <br>3. Have—a—nice—day.,1. Выберите—пункт—назначения. <br>2. Сверьте—координаты—на—карте. <br>3. Хорошего—дня.
 "10 ""And when we arrived here, you created a city worthy of Glint's pride. Your work here pleased and humbled me and the other Forgotten.""","10 «А когда мы пришли сюда, вы построили город, которым Глинт могла бы гордиться. Ваш труд здесь порадовал и смирил меня и прочих Забытых»."
-"11 ""We raised this haven at the edge of Mordremoth's jungle, but no Elder Dragon can touch us here. Our magic shields the city from them.""","11 «Мы возвели это убежище на краю джунглей Мордремота, но здесь ни один Старший дракон нас не достанет. Наша магия укрывает город от них»."
+"11 ""We raised this haven at the edge of Mordremoth's jungle, but no Elder Dragon can touch us here. Our magic shields the city from them.""","11 «Мы возвели это убежище на краю джунглей Mordremoth, но здесь ни один Старший дракон нас не достанет. Наша магия укрывает город от них»."
 "12 ""Your friends and families have no less important a charge. The Brotherhood of the Dragon passed its mantle on to them.""",12 «На ваших друзьях и родных лежит не менее важная ноша. Brotherhood of the Dragon передало им свою мантию».
 "13 ""They're calling themselves Zephyrites after the gentle, ever-moving breeze of their homeland, and none but their inner circle will know their secret mission.""","13 «Они зовут себя зефиритами — по мягкому, вечно движущемуся ветру их родины, и об их тайной миссии не узнает никто, кроме ближнего круга»."
 1325 AE Entries,Записи 1325 года ПИ
@@ -61,7 +61,7 @@ A Posy of Forget-Me-Nots,Букетик незабудок
 A barrier is protecting this unit from damage. Use EMP pulses or mines to remove the barrier.,Барьер защищает этот отряд от урона. Снимите его электромагнитными импульсами или минами.
 A beating this bad should be illegal.,Такую взбучку надо бы запретить законом.
 A blizzard has encompassed the region. Havroun Weibe is channeling energy to summon Raven and drive the storm back.,"Округу накрыла метель. Хаврун Вейбе направляет энергию, чтобы призвать Ворона и отогнать бурю."
-A blizzard is approaching. Jora's Keep is building defenses in preparation of an assault by Jormag's forces.,Приближается метель. В Jora's Keep возводят укрепления перед натиском сил Йормага.
+A blizzard is approaching. Jora's Keep is building defenses in preparation of an assault by Jormag's forces.,Приближается метель. В Jora's Keep возводят укрепления перед натиском сил Jormag.
 "A bunch of dredge tried to ambush me. I killed them all, then burned down their camp.","Кучка дреджей устроила на меня засаду. Я перебил всех, а потом сжёг их лагерь."
 A capable lady like yourself should be able to do more than watch.,"Такая умелая госпожа, как вы, могла бы не только смотреть."
 A cave in the forest... That's where Jhavi is. And the lens—must be reacting because of her. But what about Almorra?,"Пещера в лесу... Вот где Джави. И линза—должно быть, откликается из-за неё. Но как же Альморра?"
@@ -151,16 +151,16 @@ A waste.,Пустая трата.
 A world without dragons? We probably won't either.,"Мир без драконов? Мы, наверное, тоже не увидим."
 A worthy foe is priceless.,Достойный противник бесценен.
 A worthy goal. I'll see you later.,Достойная цель. Увидимся.
-A. Joko caused a drought to wither Mordremoth.,"О. Джоко вызвал засуху, чтобы иссушить Мордремота."
+A. Joko caused a drought to wither Mordremoth.,"О. Joko вызвал засуху, чтобы иссушить Mordremoth."
 A. Joko defeated Turai Ossa and burned his body.,О. Джоко победил Turai Ossa и сжёг его тело.
-A. Joko did it to punish the humans in the north.,"О. Джоко сделал это, чтобы покарать людей на севере."
-A. Joko forced the gods to leave by his will alone.,О. Джоко одной своей волей заставил богов уйти.
-A. Joko had nothing to do with it.,О. Джоко тут ни при чём.
-A. Joko is a direct descendant of King Jahnus.,О. Джоко — прямой потомок короля Джануса.
-A. Joko is touring the distant corners of his kingdom.,О. Джоко объезжает дальние уголки своего королевства.
-A. Joko lured the dragon here in order to defeat it.,"О. Джоко заманил дракона сюда, чтобы его одолеть."
-A. Joko was drowning Vabbi's enemies to the north.,О. Джоко топил врагов Вабби на севере.
-A. They wish to prove their worth to Joko.,"О. Они хотят доказать Джоко, что достойны."
+A. Joko did it to punish the humans in the north.,"О. Joko сделал это, чтобы покарать людей на севере."
+A. Joko forced the gods to leave by his will alone.,О. Joko одной своей волей заставил богов уйти.
+A. Joko had nothing to do with it.,О. Joko тут ни при чём.
+A. Joko is a direct descendant of King Jahnus.,О. Joko — прямой потомок короля Джануса.
+A. Joko is touring the distant corners of his kingdom.,О. Joko объезжает дальние уголки своего королевства.
+A. Joko lured the dragon here in order to defeat it.,"О. Joko заманил дракона сюда, чтобы его одолеть."
+A. Joko was drowning Vabbi's enemies to the north.,О. Joko топил врагов Вабби на севере.
+A. They wish to prove their worth to Joko.,"О. Они хотят доказать Joko, что достойны."
 ASURA GATE LISTING,СПИСОК АСУРСКИХ ВРАТ
 AWOL Legionnaire,Легионер-самовольщик
 "Aaargh. Belly on up here and let's see if you got the gumption to win at a game of Belcher's Bluff. <c=@warning>Remember, food and rejuvenation booster buffs will be removed when the game begins.</c>","А-а-ргх. Подваливай сюда, поглядим, хватит ли у тебя духу выиграть в «Блеф отрыжки». <c=@warning>Помни: с началом игры бонусы от еды и усилителей восстановления снимаются.</c>"

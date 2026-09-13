@@ -56,11 +56,11 @@ It looks like twin tines of shattered metal. The ghostly form of the rest of it 
 "It looks like we need an additional power source to open the main gate. Hmm, what's this?","Похоже, нам понадобится дополнительный источник энергии, чтобы открыть главные ворота. Хм, что это такое?"
 It looks perfectly...normal.,Вполне обычно.
 It must really want that bait. Here it comes!,"Должно быть, ему очень хочется этой приманки. Вот он идет!"
-"It reads, ""I will prove my strength to Jormag by defeating the strongest fighters in the world. If you consider yourself among them, accept my challenge and face me.""","Я докажу свою силу Йормагу, победив сильнейших воинов в мире. Если ты считаешь себя одним из них, прими мой вызов и сразись со мной."
+"It reads, ""I will prove my strength to Jormag by defeating the strongest fighters in the world. If you consider yourself among them, accept my challenge and face me.""","Я докажу свою силу Jormag, победив сильнейших воинов в мире. Если ты считаешь себя одним из них, прими мой вызов и сразись со мной."
 It saddens me to see the wreckage hanging in the sky.,"Мне грустно видеть обломки, повисшие в небе."
 "It says, ""%str1%.""","Говорится: «%str1%»."
 It seems I underestimated you.,"Похоже, я недооценил тебя."
-It seems like Scarlet used this area to assemble a variety of different objects. Her tools could be used to assemble some of your own.,"Похоже, Скарлет использовала эту область для сборки различных предметов. Её инструменты можно использовать и для создания собственных вещей."
+It seems like Scarlet used this area to assemble a variety of different objects. Her tools could be used to assemble some of your own.,"Похоже, Scarlet использовала эту область для сборки различных предметов. Её инструменты можно использовать и для создания собственных вещей."
 "It seems strange to find bandits this far south, but here they are—and in large numbers, too. Willem's group tries to steal our supplies when they aren't harassing the local skritt. If that wasn't bad enough, Scotta's bunch have taken control of the route to the west. Between you and me, we have no idea what those thugs are up to out there.","Странно встретить бандитов так далеко на юге, но они здесь, и их довольно много. Группа Виллема пытается украсть наши припасы, а в остальное время издевается над местными скриттами. И как будто этого недостаточно, банда Скотты захватила контроль над дорогой на запад. Если честно, мы понятия не имеем, что эти головорезы там замышляют."
 "It seems to protect you from the deathly rime in this area. It looks like there's enough for five people, so even if your party's smaller, you should have access to five charges of life-fire.","Похоже, это защищает вас от смертельного холода в этой области. Кажется, здесь достаточно энергии для пяти человек, так что даже если в вашей группе меньше людей, у вас будет доступ к пяти зарядам жизненного огня."
 It seems we were both on the trail of the same kidnappers.,"Похоже, мы оба вышли на след одних и тех же похитителей."
@@ -132,7 +132,7 @@ It's black as squid-ink soup down there. Toss a flare to mark a landing spot!,"�
 It's breaking the containment pods!,Он взламывает защитные капсулы!
 It's coming!,Это уже близко!
 It's completely mad down there!,Там творится полный хаос!
-It's dangerous to stand so close to Mordremoth's influence for too long.,Опасно находиться слишком долго под влиянием Мордремота.
+It's dangerous to stand so close to Mordremoth's influence for too long.,Опасно находиться слишком долго под влиянием Mordremoth.
 It's dead now!,Теперь он мёртв!
 It's definitely not typical.,Это определённо нетипично.
 "It's done, Champion.","Готово, чемпион."
@@ -408,9 +408,9 @@ Join us.,Присоединяйся к нам.
 Joined to another's life essence. Increase your proximity to improve damage. Being too far away will cause the link to break and damage you.,"Вы установили связь с жизненной сущностью другого существа. Уменьшите расстояние, чтобы увеличить наносимый урон. Если вы слишком далеко отойдёте, связь разорвется, и вы получите урон."
 Joko Loyalist,Лоялист Джоко
 Joko Propaganda,Джоко Пропаганда
-"Joko has left us! Who am I, if not his servant, his soldier? I feel like there's strength within me, but I can't reach it. Fight with me! Help me turn my pain into something powerful!","Джоко покинул нас! Кто я теперь, если не его слуга, его солдат? Я чувствую, что во мне есть сила, но не могу её высвободить. Сражайтесь вместе со мной! Помогите мне превратить мою боль во что-то могущественное!"
+"Joko has left us! Who am I, if not his servant, his soldier? I feel like there's strength within me, but I can't reach it. Fight with me! Help me turn my pain into something powerful!","Joko покинул нас! Кто я теперь, если не его слуга, его солдат? Я чувствую, что во мне есть сила, но не могу её высвободить. Сражайтесь вместе со мной! Помогите мне превратить мою боль во что-то могущественное!"
 Joko's Blessing,Благословение Джоко
-Joko. Sounds like he has a friend of yours. I suppose you'll want help saving her next—,"Джоко. Похоже, у него есть друг, которого ты знаешь. Думаю, тебе понадобится помощь в том, чтобы спасти её."
+Joko. Sounds like he has a friend of yours. I suppose you'll want help saving her next—,"Joko. Похоже, у него есть друг, которого ты знаешь. Думаю, тебе понадобится помощь в том, чтобы спасти её."
 Jokos verborgene Kammer,Скрытая комната Джокоса
 Jolt,Разряд
 Jonakr,Йонакр
