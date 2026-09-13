@@ -109,7 +109,6 @@ Citadel Prison Key,Ключ от тюрьмы Цитадели
 Citadel Undercroft,Подземелье Цитадели
 Citizens of Divinity's Reach,Жители Божественного Пути
 Citizens of Rata Sum,Жители Rata Sum
-"Citizens of Tyria:The Lionguard has identified the person behind the recent animal attacks on Southsun Cove, but we need help bringing in the culprit. Our target is Canach, a secondborn sylvari with a history of stirring up trouble on Southsun Cove. Canach is already a wanted fugitive, but this latest round of mayhem has pushed him to the top of our most wanted list. Report to Southsun Cove if you're interested in helping me bring him to justice.—Inspector Ellen Kiel","Жители Тирии:Львиная стража установила личность человека, стоящего за недавними нападениями животных на Southsun Cove, но нам нужна помощь в поимке преступника. Наша цель — Канах, второрожденный сильвари, имеющий историю создания проблем на Southsun Cove. Канах уже является разыскиваемым беглецом, но этот последний всплеск безумия вывел его на вершину нашего списка самых разыскиваемых. Сообщите о себе в Southsun Cove, если вы заинтересованы в том, чтобы помочь мне привлечь его к правосудию.—Inspector Ellen Kiel"
 Citrus Breeze Dye[s],[Краска|Краски|Красок] «Цитрусовый бриз»
 Citrus Dye[s],[Краска|Краски|Красок] «Цитрус»
 Citrus Ice Dye[s],[Краска|Краски|Красок] «Цитрусовый лёд»
@@ -177,7 +176,6 @@ Cleaning Bucket[s],[Ведро|Ведра|Вёдер] для уборки
 Cleanse an additional condition from allies.,Очистите дополнительное состояние у союзников.
 Cleanse Balthazar's reliquary so the magic may flow freely.,"Очистите реликварий Бальтазара, чтобы магия текла свободно."
 Cleanse Basilisks,Очистить василисков
-Cleanse beacons to draw Kryptis to Nyedra.Beacons cleansed,"Очистите маяки, чтобы привлечь Криптис к Ньедре.Маяки очищены"
 Cleanse conditions and grant stability to allies in the area.,Очистите состояния и даруйте стабильность союзникам в области.
 Cleanse Dwayna's reliquary so the magic may flow freely.,"Очистите реликварий Двайны, чтобы магия текла свободно."
 Cleanse Grenth's reliquary so the magic may flow freely.,"Очистите реликварий Грента, чтобы магия текла свободно."
@@ -226,7 +224,6 @@ Clear my stored configuration.,Очистить мою сохранённую к
 Clear out the archers attacking your other team.,"Зачистите лучников, атакующих вашу другую команду."
 Clear out the bandits.,Зачистите бандитов.
 Clear out the clockwork minions.,Зачистите заводных миньонов.
-Clear out the enemies in the tower's core.Enemies Defeated,Зачистите врагов в ядре башни.Враги побеждены
 Clear out the remaining pirates.,Зачистите оставшихся пиратов.
 Clear out Vexa's Lab in Fireheart Rise.,Зачистите лабораторию Вексы на Fireheart Rise.
 Clear Preview,Очистить предпросмотр
@@ -240,11 +237,9 @@ Clear the Coztic village.,Очистить деревню Коцтик.
 Clear the forest of aberrant creatures for the Vigil relief crew.,Очистить лес от аномальных существ для спасательной команды Дозора.
 Clear the hazards of the Hallowed Archive.,Очистить опасности Священного Архива.
 Clear the overgrowth and rubble in the garden: %num1%/%num2%,Очистить заросли и мусор в саду: %num1%/%num2%
-Clear the perimeter.Enemy Strength,Очистить периметр.Сила врага
 Clear the Risen from the ramparts.,Очистить бастионы от Восставших.
 Clear the Stage,Очистить сцену
 Clear the Temple,Очистить храм
-Clear the Toxic Alliance from the bridge.Toxic Alliance Strength,Очистить мост от Toxic Alliance.Сила Toxic Alliance
 Clear Time,Время очистки
 Clear Waypoint,Очистить путевую точку
 Cleared %num1%/%num2% Dungeon[s],Пройдено подземелий %num1%/%num2%: [|1-4|5+]
