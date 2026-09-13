@@ -443,6 +443,17 @@ def layer_duplicate(path, en, ru):
     return None
 
 
+# Приказ игроку: строка начинается с глагола в повелительном наклонении. Так
+# устроены задания и события («Defeat Cardinal Adina.»), и названием такая
+# строка не бывает — значит имя внутри неё должно стоять латиницей.
+IMPERATIVE = re.compile(
+    r'^(?:\([^)]*\)\s*)?(Defeat|Complete|Kill|Find|Collect|Escort|Help|Assist|'
+    r'Speak|Talk|Use|Enter|Reach|Destroy|Defend|Gather|Deliver|Return|Visit|'
+    r'Explore|Unlock|Obtain|Earn|Win|Survive|Protect|Capture|Investigate|Slay|'
+    r'Discover|Rescue|Escape|Activate|Interact|Bring|Give|Take|Follow|Stop|'
+    r'Clear|Repair|Retrieve|Search|Free|Save|Guard|Recover)\b')
+
+
 def layer_name_lost(en, ru):
     """Названия из слоя, которые есть в оригинале и пропали из перевода.
 
@@ -459,8 +470,18 @@ def layer_name_lost(en, ru):
     три и более строчных слова вне самого названия: «(Annual) A Royal Tradition»
     и «Soft Wood Short Bow» так отсеиваются, а «Combine this weapon in the
     Mystic Forge with…» остаётся.
+
+    Второй признак фразы — приказ игроку. «Defeat Cardinal Adina.» и «Help
+    Sergeant Rane» строчных слов почти не имеют и по счёту слов отсеивались
+    вместе с названиями, хотя это не названия, а задания, и имя в них обязано
+    стоять латиницей. Глагол в повелительном наклонении в начале строки
+    отличает приказ от названия надёжнее, чем длина: названия достижений с
+    него не начинаются.
     """
-    if not NAME_PAIRS or len(en.split()) < 4:
+    if not NAME_PAIRS:
+        return []
+    order = bool(IMPERATIVE.search(en))
+    if len(en.split()) < 4 and not order:
         return []
     lc_all = len(LOWER_WORD.findall(en))
     out = []
@@ -468,7 +489,7 @@ def layer_name_lost(en, ru):
         for name, rx_en in NAME_PAIRS.get(w, ()):
             if name == en.strip() or name in ru:
                 continue
-            if lc_all - len(LOWER_WORD.findall(name)) < 3:
+            if not order and lc_all - len(LOWER_WORD.findall(name)) < 3:
                 continue
             if rx_en.search(en):
                 out.append(name)
