@@ -256,7 +256,7 @@ english,translate
 "<c=@flavor>""This one looks as though it hasn't been hit with a pickax.""<br>—Lionguard Rhyn</c>","<c=@flavor>«Этот выглядит так, будто по нему не били киркой».<br>—Страж Льва Рин</c>"
 "<c=@flavor>""This one was successful—unlike the experiment of me coming out here..""<br>—Krewe Apprentice Blork</c>",<c=@flavor>«Этот был успешным — в отличие от эксперимента с моим прибытием сюда...»<br>—Krewe Apprentice Blork</c>
 "<c=@flavor>""This one's for my favorite experiment: Will it smash?""<br>—Brikk</c>",<c=@flavor>«Этот для моего любимого эксперимента: разобьётся ли он?»<br>—Брикк</c>
-"<c=@flavor>""This piece was anointed by Vollym himself. Wear it proudly!""<br>—Johan</c>",<c=@flavor>«Этот предмет освятил сам Воллим. Носи его с гордостью!»<br>—Йохан</c>
+"<c=@flavor>""This piece was anointed by Vollym himself. Wear it proudly!""<br>—Johan</c>",<c=@flavor>«Этот предмет освятил сам Vollym. Носи его с гордостью!»<br>—Йохан</c>
 "<c=@flavor>""This pin might be a little too tactical.""<br>—Tactician Lyan</c>",<c=@flavor>«Этот значок может быть чуточку слишком тактическим».<br>—Тактик Лайан</c>
 "<c=@flavor>""This rabbit died of natural causes!""<br>—Dena</c>",<c=@flavor>«Этот кролик умер естественной смертью!»<br>—Дена</c>
 "<c=@flavor>""This scepter is humming with energy!""<br>—Ahjj</c>",<c=@flavor>«Этот скипетр гудит от энергии!»<br>—Аджж</c>
@@ -301,7 +301,7 @@ english,translate
 "<c=@flavor>""Very interesting that the imp's heart seems frozen but still works.""<br>—Suki</c>","<c=@flavor>«Очень интересно, что сердце има кажется замороженным, но всё ещё работает».<br>—Суки</c>"
 "<c=@flavor>""Very sturdy. I made it myself.""<br>—Leika</c>",<c=@flavor>«Очень прочное. Сделал сам».<br>—Лейка</c>
 "<c=@flavor>""Victory does not go to the loudest, but to the most effective.""<br>—Master of Whispers</c>","<c=@flavor>«Победа достаётся не самым громким, а самым эффективным».<br>—Мастер Шепчущих</c>"
-"<c=@flavor>""Vollym himself used to dual wield two of these at a time.""<br>—Johan</c>",<c=@flavor>«Сам Воллим когда-то сражался сразу двумя такими».<br>—Йохан</c>
+"<c=@flavor>""Vollym himself used to dual wield two of these at a time.""<br>—Johan</c>",<c=@flavor>«Сам Vollym когда-то сражался сразу двумя такими».<br>—Йохан</c>
 "<c=@flavor>""Walk a mile in these shoes.""<br>—Lionscout Tunnira</c>",<c=@flavor>«Пройди милю в этой обуви».<br>—Разведчица Львов Туннира</c>
 "<c=@flavor>""Walk softly and carry a sharp sword.""<br>—Bulsa</c>",<c=@flavor>«Ступай мягко и держи острый меч».<br>—Булса</c>
 "<c=@flavor>""Walk swift in the path of Snow Leopard.""<br>—Toka Axegrinder</c>",<c=@flavor>«Иди быстро по пути Снежного Барса».<br>—Тока Топорошлиф</c>
@@ -404,7 +404,7 @@ english,translate
 "<c=@flavor>""You'll like the extra padding around the ears when the cannons fire.""<br>—Legionnaire Bladechipper</c>","<c=@flavor>«Тебе понравится дополнительная набивка вокруг ушей, когда стреляют пушки».<br>—Легионер Осколок Клинка</c>"
 "<c=@flavor>""You're going to need one of these when fighting mighty foes like the jotun.""<br>—Neida</c>",<c=@flavor>«Тебе понадобится такое в бою с могучими врагами вроде ётунов».<br>—Нейда</c>
 "<c=@flavor>""You're one of us now. Just don't let it go to your head."" —Cap</c>",<c=@flavor>«Теперь ты один из нас. Только не дай этому вскружить тебе голову». —Кэп</c>
-"<c=@flavor>""You've got some bite after all—just not enough to best the best.""<br>—Vollym</c>","<c=@flavor>«В тебе всё же есть хватка — просто не настолько, чтобы одолеть лучших».<br>—Воллим</c>"
+"<c=@flavor>""You've got some bite after all—just not enough to best the best.""<br>—Vollym</c>","<c=@flavor>«В тебе всё же есть хватка — просто не настолько, чтобы одолеть лучших».<br>—Vollym</c>"
 "<c=@flavor>""Your lucky day! I usually keep things this shiny.""<br>—Mrr'kkant</c>",<c=@flavor>«Твой счастливый день! Обычно я держу вещи именно такими блестящими».<br>—Мрр'ккант</c>
 "<c=@flavor>""Your standard dagger. Why don't you let me sharpen that up for ya?""<br>—Waldo</c>",<c=@flavor>«Твой обычный кинжал. Почему бы не дать мне его для тебя наточить?»<br>—Уолдо</c>
 "<c=@flavor>""Your strength and bravery are inspirations to us all.""<br>—Warden Llew</c>",<c=@flavor>«Твоя сила и храбрость вдохновляют нас всех».<br>—Страж Ллью</c>
