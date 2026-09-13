@@ -61,11 +61,11 @@ Complete %num2% Fireheart Rise Dragon Response Mission[s] with all challenges ac
 Complete %num2% Flame and Frost achievements.,Выполните %num2% достижений «Flame and Frost».
 Complete %num2% Fractal[s] of the Mists in quickplay mode.,Завершите %num2% [фрактал Туманов|фрактала Туманов|фракталов Туманов] в режиме быстрой игры.
 Complete %num2% Gendarran Fields Dragon Response Mission[s] with all challenges active.,Завершите %num2% задани[е|я|й] по реагированию на драконов на Gendarran Fields со всеми активными испытаниями.
-Complete %num2% Janthir Wilds: Absolution achievements.,Выполните %num2% достижений «Дикие земли Джантира: Absolution».
-Complete %num2% Janthir Wilds: Act 1 achievements.,Выполните %num2% достижений «Дикие земли Джантира: акт 1».
-Complete %num2% Janthir Wilds: Act 2 achievements.,Выполните %num2% достижений «Дикие земли Джантира: акт 2».
-Complete %num2% Janthir Wilds: Godspawn achievements.,Выполните %num2% достижений «Дикие земли Джантира: Godspawn».
-Complete %num2% Janthir Wilds: Repentance achievements.,Выполните %num2% достижений «Дикие земли Джантира: Repentance».
+Complete %num2% Janthir Wilds: Absolution achievements.,Выполните %num2% достижений «Janthir Wilds: Absolution».
+Complete %num2% Janthir Wilds: Act 1 achievements.,Выполните %num2% достижений «Janthir Wilds: акт 1».
+Complete %num2% Janthir Wilds: Act 2 achievements.,Выполните %num2% достижений «Janthir Wilds: акт 2».
+Complete %num2% Janthir Wilds: Godspawn achievements.,Выполните %num2% достижений «Janthir Wilds: Godspawn».
+Complete %num2% Janthir Wilds: Repentance achievements.,Выполните %num2% достижений «Janthir Wilds: Repentance».
 Complete %num2% Lake Doric Dragon Response Mission[s] with all challenges active.,Завершите %num2% задани[е|я|й] по реагированию на драконов у Озера Дорик со всеми активными испытаниями.
 Complete %num2% Mastery achievements in Janthir Wilds,Выполните %num2% достижений мастерства в Janthir Wilds
 Complete %num2% Mastery achievements in Secrets of the Obscure.,Выполните %num2% достижений мастерства в Secrets of the Obscure.
@@ -419,8 +419,8 @@ Completed %num1%/%num2% Weekly Convergence[s]: Mount Balrior with Challenge Mode
 Completed %num1%/%num2% Weekly Convergence[s]: Outer Nayos with challenge mode active.,Завершено %num1%/%num2% [еженедельное Схождение|еженедельных Схождения|еженедельных Схождений]: Внешний Найос с активным режимом испытания.
 Completed %num1%/%num2% Weekly WvW Achievement[s],Завершено %num1%/%num2% [еженедельное достижение WvW|еженедельных достижения WvW|еженедельных достижений WvW]
 Completed %num1%/11 Achievements,Выполнено %num1%/11 достижений
-Completed %num1%/3 Janthir Wilds: Absolution Story Chapters,Завершено %num1%/3 сюжетных глав «Дикие земли Джантира: Отпущение»
-Completed %num1%/3 Janthir Wilds: Repentance Story Chapters,Завершено %num1%/3 сюжетных глав «Дикие земли Джантира: Покаяние»
+Completed %num1%/3 Janthir Wilds: Absolution Story Chapters,Завершено %num1%/3 сюжетных глав «Janthir Wilds: Отпущение»
+Completed %num1%/3 Janthir Wilds: Repentance Story Chapters,Завершено %num1%/3 сюжетных глав «Janthir Wilds: Покаяние»
 Completed %num1%/5 Verdant Brink Outposts,Завершено %num1%/5 форпостов Зелёного Обрыва
 Completed %num1%/6 Events,Завершено %num1%/6 событий
 Completed %num1%/6 Order of Shadows Achievements,Выполнено %num1%/6 достижений Order of Shadows
@@ -429,7 +429,7 @@ Completed %num1%/9 Jaka Itzel Events,Завершено %num1%/9 событий 
 Completed %num1%/9 Noble Crash Site Events,Завершено %num1%/9 событий на месте крушения знати
 Completed %num1%/9 Pact Encampment Events,Завершено %num1%/9 событий в лагере Пакта
 Completed %num2% Idol of Jormag Events,Завершено %num2% событий «Идол Йормага»
-Completed %num2% Janthir Wilds: Absolution Achievements,Выполнено %num2% достижений «Дикие земли Джантира: Отпущение»
+Completed %num2% Janthir Wilds: Absolution Achievements,Выполнено %num2% достижений «Janthir Wilds: Отпущение»
 Completed %num3% Raid Mentor Achievements,Выполнено %num3% достижений «Наставник рейдов»
 Completed %str1%/%str2% Events,Завершено %str1%/%str2% событий
 Completed A Kindness Repaid,«Отплаченная доброта» завершено
@@ -471,7 +471,7 @@ Completed Beast of War,«Зверь войны» завершено
 Completed Behind Enemy Lines,«В тылу врага» завершено
 Completed Beneath the Canopy,«Под пологом леса» завершено
 Completed Bitter Harvest,«Горький урожай» завершено
-Completed Blackout in New Kaineng City %num1%/%num2% Time[s],«Затмение в Новом Кайненге» завершено %num1%/%num2% [раз|раза|раз]
+Completed Blackout in New Kaineng City %num1%/%num2% Time[s],«Затмение в New Kaineng» завершено %num1%/%num2% [раз|раза|раз]
 Completed Blazing a Trail,«Прокладывая путь» завершено
 Completed Blood and Stone,«Кровь и камень» завершено
 Completed Bloodtide Coast Dragon Response Mission,Завершено задание по реагированию на драконов на Кровавом побережье

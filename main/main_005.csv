@@ -1595,7 +1595,7 @@ Goss Aleessh""","*Вы касаетесь свитка, и слова исчез
 +10%% опыта за убийства"
 "+10%% Damage vs. Sons of Svanir
 -10%% Damage from Sons of Svanir
-+10%% Experience from Kills","+10%% урона по Сыновьям Сванира
++10%% Experience from Kills","+10%% урона по Sons of Svanir
 -10%% урона от Sons of Svanir
 +10%% опыта за убийства"
 "+10%% Damage vs. Undead
@@ -3110,7 +3110,7 @@ Night: 8%% Chance to Steal Life on Critical Hit
 +10%% Experience from Kills","+3%% Урон против Изгоев
 +10%% Опыт за убийства"
 "+3%% Damage vs. Sons of Svanir
-+10%% Experience from Kills","+3%% Урон против Сынов Сванира
++10%% Experience from Kills","+3%% Урон против Sons of Svanir
 +10%% Опыт за убийства"
 "+3%% Damage vs. Undead
 +10%% Experience from Kills","+3%% Урон против нежити
@@ -3152,7 +3152,7 @@ Night: 8%% Chance to Steal Life on Critical Hit
 +1%% Strike Damage","+3%% Урон от ударов против Преступников
 +1%% Урон от ударов"
 "+3%% Strike Damage vs. Sons of Svanir
-+1%% Strike Damage","+3%% Урон от ударов против Сынов Сванира
++1%% Strike Damage","+3%% Урон от ударов против Sons of Svanir
 +1%% Урон от ударов"
 "+3%% Strike Damage vs. Stunned or Knocked-Down Foes
 +1%% Strike Damage","+3%% Урон от ударов против Оглушенных или сбитых с ног врагов

@@ -54,7 +54,7 @@ english,translate
 +10%% Experience from Kills","+5%% Урона по Ограм
 +10%% Опыта за убийства"
 "+5%% Damage vs. Sons of Svanir
-+10%% Experience from Kills","+5%% Урона по Сынам Сванира
++10%% Experience from Kills","+5%% Урона по Sons of Svanir
 +10%% Опыта за убийства"
 "+5%% Damage vs. Toxic Alliance, Watchwork, Aetherblade, and Molten Alliance
 +10%% Experience from Kills","+5%% Урона по Toxic Alliance, Часовым, Эфироклинкам и Molten Alliance
@@ -133,7 +133,7 @@ The taste of April Fools.","+5%% к удаче
 +2%% Strike Damage","+5%% урона от ударов по разбойникам
 +2%% урона от ударов"
 "+5%% Strike Damage vs. Sons of Svanir
-+2%% Strike Damage","+5%% урона от ударов по сынам Сванира
++2%% Strike Damage","+5%% урона от ударов по Sons of Svanir
 +2%% урона от ударов"
 "+5%% Strike Damage vs. Stunned or Knocked-Down Foes
 +2%% Strike Damage","+5%% урона от ударов по оглушённым или сбитым с ног врагам
@@ -519,7 +519,7 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +3%% Strike Damage","+7%% урона против разбойников
 +3%% обычного урона"
 "+7%% Strike Damage vs. Sons of Svanir
-+3%% Strike Damage","+7%% урона против Сынов Сванира
++3%% Strike Damage","+7%% урона против Sons of Svanir
 +3%% обычного урона"
 "+7%% Strike Damage vs. Stunned or Knocked-Down Foes
 +3%% Strike Damage","+7%% обычного урона против оглушённых и сбитых с ног врагов
