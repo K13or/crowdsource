@@ -65,7 +65,7 @@ Defeat Tiachren.,Победите Тиахрена.
 Defeat Xiuhcoatl in a battle of drakes.,Победите Шиукоатля в бою дрейков.
 Defeat all Inquest enemies in the Inquest base's outer compound. This achievement and Tactical Infiltration are mutually exclusive.,Победите всех врагов из Inquest во внешнем периметре базы. Это достижение несовместимо с «Тактическим проникновением».
 "Defeat all of the Queen's Pavilion champions. The faster you kill them, the better the rewards.","Победите всех чемпионов Павильона Королевы. Чем быстрее вы их убьёте, тем лучше награды."
-Defeat all three of Mordremoth's commanders,Победите всех трёх командиров Мордремота
+Defeat all three of Mordremoth's commanders,Победите всех трёх командиров Mordremoth
 Defeat jade constructs and destroy other mursaat defenses.,Победите нефритовых конструктов и уничтожьте прочую оборону мурсаат.
 Defeat lieutenants to draw out and defeat their general.,"Победите лейтенантов, чтобы выманить и одолеть их генерала."
 Defeat more Luxon and Kurzick spirits.,Победите ещё духов люксонов и курзиков.
@@ -174,7 +174,7 @@ Deldrimor dwarves have arrived to lend you aid.,Дворфы Делдримор�
 Delicate Egg[s],[Хрупкое яйцо|Хрупких яйца|Хрупких яиц]
 Delicious Meat,Вкусное мясо
 Deliveryman,Разносчик
-Deluded fool! You cannot save these people if Balthazar would take them.,"Обманутый глупец! Тебе не спасти этих людей, если Бальтазар захочет их забрать."
+Deluded fool! You cannot save these people if Balthazar would take them.,"Обманутый глупец! Тебе не спасти этих людей, если Balthazar захочет их забрать."
 Delve into the depths...and find a home.,Спуститесь в глубины... и найдите дом.
 Demolisher,Разрушитель
 Demonic Pools,Демонические лужи
@@ -185,7 +185,7 @@ Deploy your cannon.,Разверните пушку.
 Deployable Turret,Разворачиваемая турель
 Deposit Food,Сдать еду
 Deposit Wood,Сдать древесину
-Deprived of Jormag's power. Attacking depletes the defiance bar.,Лишён силы Йормага. Атаки истощают шкалу стойкости.
+Deprived of Jormag's power. Attacking depletes the defiance bar.,Лишён силы Jormag. Атаки истощают шкалу стойкости.
 Derby Car,Гоночная машина
 Descendant,Потомок
 Desert Flowers,Пустынные цветы
@@ -222,7 +222,7 @@ Destroy the spectral barriers.,Уничтожьте призрачные бар�
 "Destroy the supply ship ""The Blight.""",Уничтожьте корабль снабжения «Порча».
 "Destroy this rot, I must.",Уничтожить эту гниль я должен.
 Destroy this to prevent the Ice Elemental from being released.,"Уничтожьте это, чтобы Ice Elemental не вырвался."
-Destroy this tunnel in the name of King Joko the Undying!,Уничтожьте этот туннель во имя короля Джоко Неумирающего!
+Destroy this tunnel in the name of King Joko the Undying!,Уничтожьте этот туннель во имя короля Joko Неумирающего!
 Destroyer Husk[s],[Оболочка разрушителя|Оболочки разрушителя|Оболочек разрушителя]
 Destroyer Sample[s],[Образец разрушителя|Образца разрушителя|Образцов разрушителя]
 Destroyer of Hope,Погибель Надежды
@@ -239,7 +239,7 @@ Detective withdraws in: %str1%,Детектив уйдёт через: %str1%
 Detector Completed,Детектор собран
 Determined to survive and can only be damaged by scrap cannon fire.,"Полон решимости выжить, и повредить его можно только огнём пушки-скрапера."
 Dexi's Homemade Grog,Домашний грог Декси
-Did Cloudseeker send you? I don't hear Jormag in your breath.,Тебя прислал Облакосев? Я не слышу Йормага в твоём дыхании.
+Did Cloudseeker send you? I don't hear Jormag in your breath.,Тебя прислал Облакосев? Я не слышу Jormag в твоём дыхании.
 Did I fall? The memory escapes me.,"Я что, упал? Не помню."
 Did I just see vultures circling overhead?,"Мне показалось, или над головой кружат стервятники?"
 Did I leave the gas on?,"Я что, газ не выключил?"
@@ -254,7 +254,7 @@ Did the civilians forget the terrible Searing and the pain that came with it? Ha
 Did the fleet manage to accomplish anything before it went down?,"Флот успел чего-нибудь добиться, прежде чем пойти ко дну?"
 Did you hear that? It sounded like some foul demon sent to slay us and drag us into the Underworld.,"Слышал? Похоже на мерзкого демона, посланного убить нас и утащить в Подземный мир."
 "Did you just say something, or was that my stomach?","Ты сейчас что-то сказал, или это мой живот?"
-"Did you know that King Joko never sleeps? I tried to keep myself awake once, but I ended up falling asleep with my eyes open.","Знаешь, что король Джоко никогда не спит? Я как-то пробовал не спать, но кончил тем, что заснул с открытыми глазами."
+"Did you know that King Joko never sleeps? I tried to keep myself awake once, but I ended up falling asleep with my eyes open.","Знаешь, что король Joko никогда не спит? Я как-то пробовал не спать, но кончил тем, что заснул с открытыми глазами."
 Did you make note of that?,Ты это записал?
 "Did you say egg? After all these years, her progeny has arrived. I must go, quickly!","Ты сказал «яйцо»? После стольких лет её потомство появилось. Мне нужно идти, скорее!"
 Did you see last night's holo-drama? I didn't.,Смотрел вчерашнюю голодраму? А я нет.
@@ -355,14 +355,14 @@ Do you have something to share?,Тебе есть чем поделиться?
 Do you hear that? Someone has engaged the dredge. We must check on the camp. Quickly!,Слышишь? Кто-то сцепился с дреджами. Надо проверить лагерь. Скорее!
 "Do you hear them? Their trauma? Their suffering? Some cannot, but I see that you can. It's too much to bear.","Ты их слышишь? Их боль? Их страдание? Иные не слышат, но ты, я вижу, слышишь. Это невыносимо."
 Do you know anyone heading north? I need someone to pick something up for me.,"Знаешь кого-нибудь, кто идёт на север? Мне нужно, чтобы кое-что забрали."
-"Do you know how hard I worked to reach where I was in Joko's ranks? All that effort, wasted...","Знаешь, как тяжело я работал, чтобы подняться в рядах Джоко? Все труды впустую..."
+"Do you know how hard I worked to reach where I was in Joko's ranks? All that effort, wasted...","Знаешь, как тяжело я работал, чтобы подняться в рядах Joko? Все труды впустую..."
 Do you know what animal these specimens came from?,"Ты знаешь, от какого животного эти образцы?"
 Do you know who might have built these?,"Знаешь, кто мог их построить?"
 "Do you know, this is just the sort of adventure I would have wished to share with our Awakened.","Знаешь, это как раз то приключение, которое я хотел бы разделить с нашими Пробуждёнными."
 Do you really think that means they plan to put you out in the cold?,"Ты правда думаешь, что тебя собираются выставить на мороз?"
 Do you really think they plan to dispose of you like that?,"Ты правда думаешь, что от тебя вот так избавятся?"
 Do you remember me from before?,Ты помнишь меня по прежним временам?
-"Do you see what Gaheron's brought upon you? He promised power, but left you weak! Now Primordus breaks you!","Видишь, что навлёк на вас Гахерон? Он обещал силу, а оставил вас слабыми! И теперь Примордус ломает вас!"
+"Do you see what Gaheron's brought upon you? He promised power, but left you weak! Now Primordus breaks you!","Видишь, что навлёк на вас Гахерон? Он обещал силу, а оставил вас слабыми! И теперь Primordus ломает вас!"
 Do you smell my fear? I offer my apologies.,Чуешь мой страх? Приношу извинения.
 Do you still miss Momma?,Ты всё ещё скучаешь по маме?
 Do you think Faren's still going to pay me?,"Думаешь, Фарен всё-таки мне заплатит?"

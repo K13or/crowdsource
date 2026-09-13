@@ -28,7 +28,7 @@ Welcome to the Black Lion Trading Company! I specialize in exchanging old items 
 "Welcome to the high-speed world, %str1%! This course, Jormag's Fang, is short, but tricky—after an initial climb, you'll be faced with a series of corners.","Добро пожаловать в мир высоких скоростей, %str1%! Эта трасса, Jormag's Fang, короткая, но коварная: после начального подъёма тебя ждёт череда поворотов."
 "Welcome to the real Ashford! This land's been ravaged by humans for centuries. We intend to reclaim it from their ghosts and finally have our homeland back. These hills are treacherous, so get ready to do your part for the legions. You're an important cog in the machine.","Добро пожаловать в настоящий Эшфорд! Эту землю веками разоряли люди. Мы намерены отвоевать её у их призраков и наконец вернуть себе родину. Эти холмы коварны, так что готовься исполнить свой долг перед легионами. Ты важный винтик в машине."
 "Welcome to the vault, Wayfinder. Please be mindful of the artifacts that surround us. Only a few will flay your mind simply for making contact, but I don't think that's a risk you want to take.","Добро пожаловать в хранилище, Путеводитель. Прошу, будь осторожен с артефактами вокруг нас. Лишь немногие из них разорвут твой разум за одно прикосновение, но вряд ли ты захочешь так рисковать."
-"Welcome, on behalf of Lord Joko.",Добро пожаловать от имени владыки Джоко.
+"Welcome, on behalf of Lord Joko.",Добро пожаловать от имени владыки Joko.
 "Welcome, outlander. May Kormir guide you.","Добро пожаловать, чужеземец. Да направит тебя Кормир."
 "Welcome, welcome.","Добро пожаловать, добро пожаловать."
 Welcomed the Wisp,Огонёк встречен
@@ -129,7 +129,7 @@ Whee!,Ух!
 Wheee!,Уи-и-и-и!
 Wheelport Pub,Паб «Колёсный порт»
 "When I returned to Captain Thackeray's office, he had a favor to ask. Children from the orphanage were given a free day at the carnival. At the end of the day, one was missing. Thackeray wants me to help the Seraph find the child.","Когда я вернулся в кабинет капитана Такерея, у него нашлась просьба. Детям из приюта подарили день на карнавале. К концу дня одного недосчитались. Такерей хочет, чтобы я помог Серафам найти ребёнка."
-"When Jormag appeared, he drove many creatures to the south to find refuge. The Voice of Koda led us here to Song of Final Exile. We are not the only ones—the quaggan town of Urgulp is also made up of refugees from the north. It is easy for problems and conflicts to arise when dealing with this kind of transition, and there are many that could use a helping hand.","Когда явился Йормаг, он согнал множество существ на юг в поисках убежища. The Voice of Koda привёл нас сюда, в Song of Final Exile. Мы не одиноки: город квагганов Ургульп тоже состоит из беженцев с севера. При таком переселении легко возникают трудности и раздоры, и многим здесь пригодилась бы помощь."
+"When Jormag appeared, he drove many creatures to the south to find refuge. The Voice of Koda led us here to Song of Final Exile. We are not the only ones—the quaggan town of Urgulp is also made up of refugees from the north. It is easy for problems and conflicts to arise when dealing with this kind of transition, and there are many that could use a helping hand.","Когда явился Jormag, он согнал множество существ на юг в поисках убежища. The Voice of Koda привёл нас сюда, в Song of Final Exile. Мы не одиноки: город квагганов Ургульп тоже состоит из беженцев с севера. При таком переселении легко возникают трудности и раздоры, и многим здесь пригодилась бы помощь."
 "When Palawa Joko returns, we must organize a parade in his honor.","Когда Palawa Joko вернётся, мы должны устроить парад в его честь."
 "When depleted, foes will temporarily suffer a negative effect.",При истощении враги временно получают негативный эффект.
 "When destroyed, gyros explodes and damage nearby enemies.",При уничтожении гиро взрываются и наносят урон врагам поблизости.
@@ -194,7 +194,7 @@ White Raven[s],[Белый ворон|Белых ворона|Белых вор�
 Who are you? Why is everything like mist on mist?,Кто ты? Почему всё как туман поверх тумана?
 Who disturbs me?,Кто меня тревожит?
 Who is this Jabari that's threatening your friends?,"Кто такой этот Джабари, что угрожает твоим друзьям?"
-"Who prayed to be invaded? As far as I'm concerned, Balthazar's armored horrors are worse than the Branded.","Кто молился о вторжении? По мне, так бронированные ужасы Бальтазара хуже клеймёных."
+"Who prayed to be invaded? As far as I'm concerned, Balthazar's armored horrors are worse than the Branded.","Кто молился о вторжении? По мне, так бронированные ужасы Balthazar хуже клеймёных."
 Who wants in on this?,Кто хочет присоединиться?
 Who will take care of...,Кто позаботится о...
 Who would want to be tied down in some dead-end job?,Кому охота застрять на бесперспективной работе?
@@ -301,7 +301,7 @@ Wish I could get my hands around the neck of the recruiter that sold me on this 
 Wish you success.,Желаю тебе успеха.
 Wisteri,Вистери
 "With Eda's husband gone, it's fallen on my shoulders to get the apple harvest in. I can't stand spiders though. Think you can lend a guy a hand?","Мужа Эды больше нет, и сбор урожая яблок лёг на мои плечи. Вот только пауков я на дух не переношу. Не подсобишь парню?"
-"With Fort Vandal abandoned, we have our ground route into the Silverwastes. We're establishing a forward camp to amass troops and supplies for our airborne assault on Mordremoth.","Fort Vandal оставлен, и у нас есть наземный путь в Серебряные Пустоши. Мы разбиваем передовой лагерь, чтобы собрать войска и припасы для воздушного штурма Мордремота."
+"With Fort Vandal abandoned, we have our ground route into the Silverwastes. We're establishing a forward camp to amass troops and supplies for our airborne assault on Mordremoth.","Fort Vandal оставлен, и у нас есть наземный путь в Серебряные Пустоши. Мы разбиваем передовой лагерь, чтобы собрать войска и припасы для воздушного штурма Mordremoth."
 "With a fireplace this size, this common room must have been an excellent place to rest and socialize after a hunt. Judging by the lack of ashes, it hasn't been used in some time.","С таким-то очагом эта общая зала наверняка была отличным местом отдохнуть и пообщаться после охоты. Судя по отсутствию золы, ею давно не пользовались."
 With even more fodder. But there's no telling when that might be.,"И ещё больше пушечного мяса. Только неизвестно, когда это случится."
 "With help from humans, the Deldrimor defeated the Stone Summit and forced them into exile. They moved through these passes, and some of the Stone Summit called these caves their homes.","С помощью людей Дельдримор одолел Stone Summit и вынудил их уйти в изгнание. Они прошли этими перевалами, и часть Stone Summit называла эти пещеры своим домом."

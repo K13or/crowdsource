@@ -80,7 +80,7 @@ Greet your friends.,Поприветствовать друзей.
 "Greetings, my friend. I thought Jory was with you?","Приветствую, друг мой. Я думал, Jory с тобой?"
 "Greetings, old friend. I'm sorry you have this mission that's taking you away. You'll be sorely missed.","Приветствую, старый друг. Мне жаль, что у тебя есть эта миссия, которая уводит тебя прочь. Нам будет тебя очень не хватать."
 "Greetings, stranger! Welcome to the Dead End. Don't mind the smell, just had a regular stop by. Got in a fight with his wife, couldn't hold his liquor. Place is clean, I promise you.","Приветствую, путник! Добро пожаловать в Dead End. Не обращай внимания на запах, тут только что был один завсегдатай. Подрался с женой, не выдержал крепкого напитка. Здесь чисто, обещаю."
-Greetings. I'm %str1%. Thank you for coming. It says much about your leadership that you did. We've all been hearing about Mordremoth's awakening and the damage the Elder Dragon has already wrought.,"Приветствую. Я — %str1%. Спасибо, что пришли. Сам факт вашего присутствия говорит о многом в плане ваших лидерских качеств. Все мы слышали об пробуждении Мордремота и о том ущербе, который уже нанесла эта Старшая Драконида."
+Greetings. I'm %str1%. Thank you for coming. It says much about your leadership that you did. We've all been hearing about Mordremoth's awakening and the damage the Elder Dragon has already wrought.,"Приветствую. Я — %str1%. Спасибо, что пришли. Сам факт вашего присутствия говорит о многом в плане ваших лидерских качеств. Все мы слышали об пробуждении Mordremoth и о том ущербе, который уже нанесла эта Старшая Драконида."
 "Grenth is the god of darkness, ice, and death. His acolytes know that the veil between worlds is thin. Death does not frighten me. Even the darkest nights give me comfort because Grenth watches over me.","Грент — бог тьмы, льда и смерти. Его последователи знают, что завеса между мирами тонка. Смерть меня не пугает. Даже самые тёмные ночи дарят мне покой, потому что Грент присматривает за мной."
 Grenth's Regalia Outfit,Grenth's Regalia Outfit
 "Grenth, the god of death, blessed me when I was young.","Грент, бог смерти, благословил меня, когда я был молод."
@@ -356,7 +356,7 @@ Heliotrope,Heliotrope
 Hell Breaks Loose: ???,Hell Breaks Loose: ???
 "Hello again, %str1%. Scruffy's autorepair still has some work to do, so do me a favor and talk to me to help pass the time?","Снова привет, %str1%. Авторемонт Scruffy всё ещё требует доработки, так что окажи мне услугу и поболтай со мной, чтобы скоротать время?"
 Hello hello!,Привет-привет!
-"Hello, %str1%. I've been busy documenting Scarlet's War for the Durmand Priory. Care to hear some history?","Приветствую, %str1%. Я был занят документированием Войны Скарлет для Durmand Priory. Хочешь послушать немного истории?"
+"Hello, %str1%. I've been busy documenting Scarlet's War for the Durmand Priory. Care to hear some history?","Приветствую, %str1%. Я был занят документированием Войны Scarlet для Durmand Priory. Хочешь послушать немного истории?"
 "Hello, %str1%. We've been waiting for you. There's a group of Seraph in this old fort, and it looks like they're having some trouble. The others are on their way too.","Привет, %str1%. Мы тебя ждали. В этом старом форте группа Seraph, похоже, у них неприятности. Остальные тоже уже в пути."
 "Hello, Commander. I'd heard you were adventuring in the area, rescuing people and saving lives. It's good to see you again.","Приветствую, Коммандир. Слышал, ты приключаешься в этих краях, спасаешь людей и жизни. Рад снова тебя видеть."
 "Hello, busy bee. I must admit, I'm a bit charmed by how you flit from flower to flower.","Привет, трудяжка. Должен признать, меня очаровывает то, как ты порхаешь с цветка на цветок."
@@ -365,7 +365,7 @@ Hello. We were just discussing how horrible it is that the queen betrayed us all
 Hello? Is this... Are you real? I've been alone so long ... and everything is so confusing.,Алло? Это... Вы настоящие? Я так долго был один... и всё так запутанно.
 Helm,Шлем
 Help Archivist Salwa preserve the Astralarium's records.,Помогите Archivist Salwa сохранить записи Astralarium.
-Help Aurene absorb volatile magic.,Помогите Аурен поглотить нестабильную магию.
+Help Aurene absorb volatile magic.,Помогите Aurene поглотить нестабильную магию.
 Help Aurene destroy the Mordrem.,Помогите Aurene уничтожить Mordrem.
 Help Braham cleanse the Eagle Shrine.,Помоги Braham очистить Святилище Орла.
 Help Braham cleanse the Ox Shrine.,Помоги Braham очистить Святилище Быка.
@@ -403,7 +403,7 @@ Help maintain environmental balance in Janthir Syntri by completing events and w
 Help out around Harvest Den and explore its culture.,Помогите в Harvest Den и изучите их культуру.
 Help out throughout Seitung Province.,Помоги в Seitung Province.
 Help restore environmental balance.,Помогите восстановить экологический баланс.
-Help retake the city of Lion's Arch by completing events and defeating Scarlet's armies.,"Помогите отбить город Lion's Arch, выполняя события и побеждая армии Скарлетт."
+Help retake the city of Lion's Arch by completing events and defeating Scarlet's armies.,"Помогите отбить город Lion's Arch, выполняя события и побеждая армии Scarlet."
 Help scrub up Grub Lane!,Помочь с уборкой Grub Lane!
 Help settle down the delegates.,Помогите успокоить делегатов.
 Help stabilize Bloodtide Coast against the Aetherblade pirates by completing events and finding clues about their hidden base.,"Помогите стабилизировать Bloodtide Coast против пиратов Эфирного Клинка, выполняя события и находя улики об их скрытой базе."
