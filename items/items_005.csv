@@ -490,7 +490,7 @@ Use the box to randomly unlock a Black Lion wardrobe item you don't already have
 <c=@Reminder>Hint: Create the exotic Banner of the Commander.</c>,<c=@Reminder>Подсказка: создайте экзотическое знамя командира.</c>
 <c=@Reminder>Hint: Defeat a ley-infused enemy while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите врага, напитанного лей-энергией, держа в инвентаре инкапсулятор эссенции памяти.</c>"
 <c=@Reminder>Hint: Defeat Kuda's test subjects within the Specimen Chamber while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите подопытных Куды в Камере образцов, держа в инвентаре инкапсулятор эссенции памяти.</c>"
-<c=@Reminder>Hint: Defeat the Death-Branded Shatterer within Jahai Bluffs while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите Крушителя, клеймённого смертью, в Утёсах Джахай, держа в инвентаре инкапсулятор эссенции памяти.</c>"
+<c=@Reminder>Hint: Defeat the Death-Branded Shatterer within Jahai Bluffs while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите Крушителя, клеймённого смертью, в Jahai Bluffs, держа в инвентаре инкапсулятор эссенции памяти.</c>"
 <c=@Reminder>Hint: Defeat the Wrathbringer in Thunderhead Keep while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите Гневоносца в Thunderhead Keep, держа в инвентаре инкапсулятор эссенции памяти.</c>"
 <c=@Reminder>Hint: Defeat Troopmarshal Olori Ogun in the Domain of Kourna while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите отрядного маршала Олори Огуна во Владении Курна, держа в инвентаре инкапсулятор эссенции памяти.</c>"
 <c=@Reminder>Hint: Help the youth learn to provide.</c>,<c=@Reminder>Подсказка: помогите молодёжи научиться добывать пропитание.</c>
@@ -499,15 +499,15 @@ Use the box to randomly unlock a Black Lion wardrobe item you don't already have
 <c=@Reminder>Hint: Somewhere near Atholma in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: где-то у Атолмы на Sandswept Islesх.</c>
 <c=@Reminder>Hint: Somewhere near History's End Waypoint in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: где-то у путевой точки «Конец истории» в Thunderhead Peaks.</c>
 <c=@Reminder>Hint: Somewhere near Jemandi Market in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: где-то у рынка Джеманди на Sandswept Islesх.</c>
-<c=@Reminder>Hint: Somewhere near Mirza's Rest in Jahai Bluffs.</c>,<c=@Reminder>Подсказка: где-то у Привала Мирзы в Утёсах Джахай.</c>
+<c=@Reminder>Hint: Somewhere near Mirza's Rest in Jahai Bluffs.</c>,<c=@Reminder>Подсказка: где-то у Привала Мирзы в Jahai Bluffs.</c>
 <c=@Reminder>Hint: Somewhere near the Allied Encampment in the Domain of Kourna.</c>,<c=@Reminder>Подсказка: где-то у Союзного лагеря во Владении Курна.</c>
 <c=@Reminder>Hint: Somewhere near the Forge in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: где-то у Горна в Thunderhead Peaks.</c>
 <c=@Reminder>Hint: Somewhere near the Pact Outpost in Dragonfall.</c>,<c=@Reminder>Подсказка: где-то у форпоста Пакта в Драконьем Падении.</c>
-<c=@Reminder>Hint: Somewhere near Venta Pass Waypoint in Jahai Bluffs.</c>,<c=@Reminder>Подсказка: где-то у путевой точки «Перевал Вента» в Утёсах Джахай.</c>
+<c=@Reminder>Hint: Somewhere near Venta Pass Waypoint in Jahai Bluffs.</c>,<c=@Reminder>Подсказка: где-то у путевой точки «Перевал Вента» в Jahai Bluffs.</c>
 <c=@Reminder>Hint: Somewhere near Zelbahn Garrison in the Domain of Kourna. </c>,<c=@Reminder>Подсказка: где-то у гарнизона Зельбан во Владении Курна. </c>
 <c=@Reminder>Hint: Stop the supply of deathly materials.</c>,<c=@Reminder>Подсказка: перекройте поставки смертоносных материалов.</c>
 <c=@Reminder>Hint: Thwart an imposter's sinister plans.</c>,<c=@Reminder>Подсказка: сорвите зловещие планы самозванца.</c>
-<c=@Reminder>Hint: Use your skyscale to access a rift high above the Displaced Towers in Jahai Bluffs.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома высоко над Смещёнными башнями в Утёсах Джахай.</c>
+<c=@Reminder>Hint: Use your skyscale to access a rift high above the Displaced Towers in Jahai Bluffs.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома высоко над Смещёнными башнями в Jahai Bluffs.</c>
 <c=@Reminder>Hint: Use your skyscale to access a rift near the highest point of the Allied Encampment within the Domain of Kourna.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у самой высокой точки Союзного лагеря во Владении Курна.</c>
 <c=@Reminder>Hint: Use your skyscale to access a rift near the Iron Whale in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Железного Кита на Sandswept Islesх.</c>
 <c=@Reminder>Hint: Use your skyscale to access a rift near the Necrotic Coast within Dragonfall.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Necrotic Coast в Драконьем Падении.</c>
