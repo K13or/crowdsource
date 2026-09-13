@@ -496,9 +496,9 @@ Use the box to randomly unlock a Black Lion wardrobe item you don't already have
 <c=@Reminder>Hint: Help the youth learn to provide.</c>,<c=@Reminder>Подсказка: помогите молодёжи научиться добывать пропитание.</c>
 <c=@Reminder>Hint: Perform an ancient ritual with unlikely allies.</c>,<c=@Reminder>Подсказка: проведите древний ритуал с неожиданными союзниками.</c>
 <c=@Reminder>Hint: Somewhere near Airdrome Port in Dragonfall.</c>,<c=@Reminder>Подсказка: где-то у порта Эйрдром в Драконьем Падении.</c>
-<c=@Reminder>Hint: Somewhere near Atholma in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: где-то у Атолмы на Песчаных островах.</c>
+<c=@Reminder>Hint: Somewhere near Atholma in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: где-то у Атолмы на Sandswept Islesх.</c>
 <c=@Reminder>Hint: Somewhere near History's End Waypoint in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: где-то у путевой точки «Конец истории» в Thunderhead Peaks.</c>
-<c=@Reminder>Hint: Somewhere near Jemandi Market in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: где-то у рынка Джеманди на Песчаных островах.</c>
+<c=@Reminder>Hint: Somewhere near Jemandi Market in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: где-то у рынка Джеманди на Sandswept Islesх.</c>
 <c=@Reminder>Hint: Somewhere near Mirza's Rest in Jahai Bluffs.</c>,<c=@Reminder>Подсказка: где-то у Привала Мирзы в Утёсах Джахай.</c>
 <c=@Reminder>Hint: Somewhere near the Allied Encampment in the Domain of Kourna.</c>,<c=@Reminder>Подсказка: где-то у Союзного лагеря во Владении Курна.</c>
 <c=@Reminder>Hint: Somewhere near the Forge in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: где-то у Горна в Thunderhead Peaks.</c>
@@ -509,7 +509,7 @@ Use the box to randomly unlock a Black Lion wardrobe item you don't already have
 <c=@Reminder>Hint: Thwart an imposter's sinister plans.</c>,<c=@Reminder>Подсказка: сорвите зловещие планы самозванца.</c>
 <c=@Reminder>Hint: Use your skyscale to access a rift high above the Displaced Towers in Jahai Bluffs.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома высоко над Смещёнными башнями в Утёсах Джахай.</c>
 <c=@Reminder>Hint: Use your skyscale to access a rift near the highest point of the Allied Encampment within the Domain of Kourna.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у самой высокой точки Союзного лагеря во Владении Курна.</c>
-<c=@Reminder>Hint: Use your skyscale to access a rift near the Iron Whale in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Железного Кита на Песчаных островах.</c>
+<c=@Reminder>Hint: Use your skyscale to access a rift near the Iron Whale in the Sandswept Isles.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Железного Кита на Sandswept Islesх.</c>
 <c=@Reminder>Hint: Use your skyscale to access a rift near the Necrotic Coast within Dragonfall.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Necrotic Coast в Драконьем Падении.</c>
 <c=@Reminder>Hint: Use your skyscale to access a rift near the Weeping Sisters in Thunderhead Peaks.</c>,<c=@Reminder>Подсказка: на скайскейле доберитесь до разлома у Плачущих Сестёр в Thunderhead Peaks.</c>
 "<c=@reminder>The Knife Tail Gang have broken into the Trading Company vaults, and Evon's furious!</c=@reminder>
@@ -754,12 +754,12 @@ This item is automatically consumed upon receiving it, and its only purpose is a
 
 Этот предмет поглощается сразу при получении, и его единственное назначение — быть частью коллекции."
 A fragment of air used to unlock the Sylvan Chest.,"Осколок воздуха, которым открывают Сильванский сундук."
-"A fragment of Aurene attuned to crystal and fury. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.","Осколок Аурены, настроенный на кристалл и ярость. Можно обменять у Лейваса в Провинции Сейтун или, если открыты определённые мастерства, в Арборстоуне."
-"A fragment of Aurene attuned to fire and destruction. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.","Осколок Аурены, настроенный на огонь и разрушение. Можно обменять у Лейваса в Провинции Сейтун или, если открыты определённые мастерства, в Арборстоуне."
-"A fragment of Aurene attuned to ice and persuasion. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.","Осколок Аурены, настроенный на лёд и убеждение. Можно обменять у Лейваса в Провинции Сейтун или, если открыты определённые мастерства, в Арборстоуне."
-"A fragment of Aurene attuned to plant and mind. Can be traded to Leivas in Seitung Province or, after unlocking certain Masteries, in Arborstone.","Осколок Аурены, настроенный на растения и разум. Можно обменять у Лейваса в Провинции Сейтун или, после открытия определённых мастерств, в Арборстоуне."
-A fragment of Aurene attuned to shadow and death. Can be traded to Leivas in Seitung Province or Arborstone. Double-click to select a Zhaitan-themed legendary weapon skin.,"Осколок Аурены, настроенный на тень и смерть. Можно обменять у Лейваса в Провинции Сейтун или в Арборстоуне. Дважды щёлкните, чтобы выбрать облик легендарного оружия в стиле Зайтана."
-"A fragment of Aurene attuned to water and life. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.","Осколок Аурены, настроенный на воду и жизнь. Можно обменять у Лейваса в Провинции Сейтун или, если открыты определённые мастерства, в Арборстоуне."
+"A fragment of Aurene attuned to crystal and fury. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.","Осколок Аурены, настроенный на кристалл и ярость. Можно обменять у Лейваса в Seitung Province или, если открыты определённые мастерства, в Арборстоуне."
+"A fragment of Aurene attuned to fire and destruction. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.","Осколок Аурены, настроенный на огонь и разрушение. Можно обменять у Лейваса в Seitung Province или, если открыты определённые мастерства, в Арборстоуне."
+"A fragment of Aurene attuned to ice and persuasion. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.","Осколок Аурены, настроенный на лёд и убеждение. Можно обменять у Лейваса в Seitung Province или, если открыты определённые мастерства, в Арборстоуне."
+"A fragment of Aurene attuned to plant and mind. Can be traded to Leivas in Seitung Province or, after unlocking certain Masteries, in Arborstone.","Осколок Аурены, настроенный на растения и разум. Можно обменять у Лейваса в Seitung Province или, после открытия определённых мастерств, в Арборстоуне."
+A fragment of Aurene attuned to shadow and death. Can be traded to Leivas in Seitung Province or Arborstone. Double-click to select a Zhaitan-themed legendary weapon skin.,"Осколок Аурены, настроенный на тень и смерть. Можно обменять у Лейваса в Seitung Province или в Арборстоуне. Дважды щёлкните, чтобы выбрать облик легендарного оружия в стиле Зайтана."
+"A fragment of Aurene attuned to water and life. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.","Осколок Аурены, настроенный на воду и жизнь. Можно обменять у Лейваса в Seitung Province или, если открыты определённые мастерства, в Арборстоуне."
 A fragment of earth used to unlock the Sylvan Chest.,"Осколок земли, которым открывают Сильванский сундук."
 A fragment of water used to unlock the Sylvan Chest.,"Осколок воды, которым открывают Сильванский сундук."
 A Fungus Among Us: Bronze,A Fungus Among Us: Bronze

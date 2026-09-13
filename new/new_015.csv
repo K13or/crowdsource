@@ -16,8 +16,8 @@ Harvest plants %num2% times in Bitterfrost Frontier.,Соберите расте
 Harvest plants %num2% times in Bjora Marches.,Соберите растения %num2% раз в Bjora Marches.
 Harvest plants %num2% times in Draconis Mons.,Соберите растения %num2% раз на Draconis Mons.
 Harvest plants %num2% times in Dragonfall.,Соберите растения %num2% раз в Драконьем Падении.
-Harvest plants %num2% times in Drizzlewood Coast.,Соберите растения %num2% раз на Моросистом побережье.
-Harvest plants %num2% times in Dry Top.,Соберите растения %num2% раз на Сухой Вершине.
+Harvest plants %num2% times in Drizzlewood Coast.,Соберите растения %num2% раз на Drizzlewood Coast.
+Harvest plants %num2% times in Dry Top.,Соберите растения %num2% раз на Dry Top.
 Harvest plants %num2% times in Ember Bay.,Соберите растения %num2% раз в Бухте Углей.
 Harvest plants %num2% times in Forging Steel.,Соберите растения %num2% раз в «Forging Steel».
 Harvest plants %num2% times in Grothmar Valley.,Соберите растения %num2% раз в Grothmar Valley.
@@ -27,7 +27,7 @@ Harvest plants %num2% times in Siren's Landing.,Соберите растени�
 Harvest plants %num2% times in Thunderhead Peaks.,Соберите растения %num2% раз в Thunderhead Peaks.
 Harvest plants %num2% times in the Domain of Istan.,Соберите растения %num2% раз в Domain of Istan.
 Harvest plants %num2% times in the Domain of Kourna.,Соберите растения %num2% раз во Владении Курна.
-Harvest plants %num2% times in the Sandswept Isles.,Соберите растения %num2% раз на Песчаных Островах.
+Harvest plants %num2% times in the Sandswept Isles.,Соберите растения %num2% раз на Sandswept Islesх.
 Harvest plants %num2% times in the Silverwastes.,Соберите растения %num2% раз в Серебряных Пустошах.
 Harvest winter sage from the grawl caves.,Соберите зимний шалфей в пещерах граулов.
 Harvested Plants %num1%/%num2% Times in Bitterfrost Frontier,Растения собраны %num1%/%num2% раз на Bitterfrost Frontier
@@ -35,8 +35,8 @@ Harvested Plants %num1%/%num2% Times in Bjora Marches,Растения собр�
 Harvested Plants %num1%/%num2% Times in Bloodstone Fen,Растения собраны %num1%/%num2% раз в Bloodstone Fen
 Harvested Plants %num1%/%num2% Times in Draconis Mons,Растения собраны %num1%/%num2% раз на Draconis Mons
 Harvested Plants %num1%/%num2% Times in Dragonfall,Растения собраны %num1%/%num2% раз в Драконьем Падении
-Harvested Plants %num1%/%num2% Times in Drizzlewood Coast,Растения собраны %num1%/%num2% раз на Моросистом побережье
-Harvested Plants %num1%/%num2% Times in Dry Top,Растения собраны %num1%/%num2% раз на Сухой Вершине
+Harvested Plants %num1%/%num2% Times in Drizzlewood Coast,Растения собраны %num1%/%num2% раз на Drizzlewood Coast
+Harvested Plants %num1%/%num2% Times in Dry Top,Растения собраны %num1%/%num2% раз на Dry Top
 Harvested Plants %num1%/%num2% Times in Ember Bay,Растения собраны %num1%/%num2% раз в Бухте Углей
 Harvested Plants %num1%/%num2% Times in Forging Steel,Растения собраны %num1%/%num2% раз в «Forging Steel»
 Harvested Plants %num1%/%num2% Times in Grothmar Valley,Растения собраны %num1%/%num2% раз в Grothmar Valley
@@ -46,7 +46,7 @@ Harvested Plants %num1%/%num2% Times in Siren's Landing,Растения соб�
 Harvested Plants %num1%/%num2% Times in Thunderhead Peaks,Растения собраны %num1%/%num2% раз в Thunderhead Peaks
 Harvested Plants %num1%/%num2% Times in the Domain of Istan,Растения собраны %num1%/%num2% раз в Domain of Istan
 Harvested Plants %num1%/%num2% Times in the Domain of Kourna,Растения собраны %num1%/%num2% раз во Владении Курна
-Harvested Plants %num1%/%num2% Times in the Sandswept Isles,Растения собраны %num1%/%num2% раз на Песчаных Островах
+Harvested Plants %num1%/%num2% Times in the Sandswept Isles,Растения собраны %num1%/%num2% раз на Sandswept Islesх
 Harvested Plants %num1%/%num2% Times in the Silverwastes,Растения собраны %num1%/%num2% раз в Серебряных Пустошах
 Has Mortar Rounds,Есть мортирные снаряды
 Has a 10%% chance to grant Maguuma Guardian on hit. <c=@reminder>(Cooldown: 15 Seconds) Will not affect transformed players.</c>,10%% шанс дать «Стража Магуумы» при попадании. <c=@reminder>(Перезарядка: 15 секунд.) Не действует на превращённых игроков.</c>

@@ -56,7 +56,7 @@ Kill %num2% grawl.,Убейте %num2% граулов.
 Kill %num2% great jungle wurm egg[s] before the larvae hatch.,"Убейте %num2% [яйцо большого джунглевого вурма|яйца большого джунглевого вурма|яиц большого джунглевого вурма], пока личинки не вылупились."
 Kill %num2% griffons.,Убейте %num2% грифонов.
 Kill %num2% harpies.,Убейте %num2% гарпий.
-Kill %num2% hostile animals in the Drizzlewood Coast.,Убейте %num2% враждебных животных на Моросистом побережье.
+Kill %num2% hostile animals in the Drizzlewood Coast.,Убейте %num2% враждебных животных на Drizzlewood Coast.
 Kill %num2% hostile hylek.,Убейте %num2% враждебных хилеков.
 Kill %num2% imps.,Убейте %num2% импов.
 Kill %num2% insects.,Убейте %num2% насекомых.
@@ -110,12 +110,12 @@ Kill the jellyfish beast to stabilize the fractal.,"Убейте зверя-ме
 Kill!,Убей!
 "Kill, my servant, kill.","Убей, мой слуга, убей."
 Killed %num1% of %num2% Awakened in the Domain of Istan,Убито %num1% из %num2% Пробуждённых в Domain of Istan
-Killed %num1% of %num2% Awakened in the Sandswept Isles,Убито %num1% из %num2% Пробуждённых на Песчаных островах
+Killed %num1% of %num2% Awakened in the Sandswept Isles,Убито %num1% из %num2% Пробуждённых на Sandswept Islesх
 Killed %num1% of %num2% Branded with Resonating Blast Inside the Auditorium,Убито %num1% из %num2% клеймёных резонирующим взрывом внутри аудитории
-Killed %num1% of %num2% Inquest in the Sandswept Isles,Убито %num1% из %num2% бойцов Inquest на Песчаных островах
+Killed %num1% of %num2% Inquest in the Sandswept Isles,Убито %num1% из %num2% бойцов Inquest на Sandswept Islesх
 Killed %num1%/%num2%,Убито %num1%/%num2%
 Killed %num1%/%num2% Aberrant,Убито %num1%/%num2% аберрантов
-Killed %num1%/%num2% Aetherblades in Seitung Province,Убито %num1%/%num2% бойцов Эфирного Клинка в Провинции Сейтун
+Killed %num1%/%num2% Aetherblades in Seitung Province,Убито %num1%/%num2% бойцов Эфирного Клинка в Seitung Province
 Killed %num1%/%num2% Branded during the Shatterer Battle,Убито %num1%/%num2% клеймёных во время битвы с Разрушителем
 Killed %num1%/%num2% Branded in Thunderhead Peaks,Убито %num1%/%num2% клеймёных на Thunderhead Peaks
 Killed %num1%/%num2% Champions in Dragonfall,Убито %num1%/%num2% чемпионов в Драконьем Падении
@@ -135,17 +135,17 @@ Killed %num1%/%num2% Kryptis in Amnytas,Убито %num1%/%num2% криптис�
 Killed %num1%/%num2% Mordant Crescent Champions,Убито %num1%/%num2% чемпионов Едкого Полумесяца
 Killed %num1%/%num2% Naga in Dragon's End,Убито %num1%/%num2% наг в Dragon's End
 Killed %num1%/%num2% Naga in New Kaineng,Убито %num1%/%num2% наг в New Kaineng
-Killed %num1%/%num2% Naga in Seitung Province,Убито %num1%/%num2% наг в Провинции Сейтун
+Killed %num1%/%num2% Naga in Seitung Province,Убито %num1%/%num2% наг в Seitung Province
 Killed %num1%/%num2% Plague Rats,Убито %num1%/%num2% чумных крыс
 Killed %num1%/%num2% Purists,Убито %num1%/%num2% пуристов
 Killed %num1%/%num2% Purists in New Kaineng,Убито %num1%/%num2% пуристов в New Kaineng
-Killed %num1%/%num2% Purists in Seitung Province,Убито %num1%/%num2% пуристов в Провинции Сейтун
+Killed %num1%/%num2% Purists in Seitung Province,Убито %num1%/%num2% пуристов в Seitung Province
 Killed %num1%/%num2% Raid Bosses,Убито %num1%/%num2% рейдовых боссов
 Killed %num1%/%num2% Son[s] of Svanir,Убито %num1%/%num2% Сын[а|а|ов] Сванира
 Killed %num1%/%num2% Spirits in the Echovald Wilds,Убито %num1%/%num2% духов в Echovald Wilds
 Killed %num1%/%num2% Unchained Risen,Убито %num1%/%num2% раскованных восставших
 Killed %num1%/%num2% Unchained in New Kaineng,Убито %num1%/%num2% раскованных в New Kaineng
-Killed %num1%/%num2% Unchained in Seitung Province,Убито %num1%/%num2% раскованных в Провинции Сейтун
+Killed %num1%/%num2% Unchained in Seitung Province,Убито %num1%/%num2% раскованных в Seitung Province
 Killed %num1%/%num2% Underworld Creatures in Dragonfall,Убито %num1%/%num2% существ Подземного мира в Драконьем Падении
 Killed %num1%/%num2% Void Creatures in the Echovald Wilds,Убито %num1%/%num2% существ Пустоты в Echovald Wilds
 Killed %num1%/%num2% of Kasmeer's Training Illusions.,Убито %num1%/%num2% обучающих иллюзий Касмир.

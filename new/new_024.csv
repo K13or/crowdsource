@@ -84,7 +84,7 @@ Returned the Chick to Its Nest,Птенец возвращён в гнездо
 Returned the Cub within the Time Limit,Детёныш возвращён в отведённое время
 Returned to Body without Getting Hit,Вернулся в тело без попаданий
 Returning to the mortars in %str1%,Возвращение к мортирам через: %str1%
-Reveal %num2% lost charr supply caches with a metal detector in the Drizzlewood Coast.,Обнаружьте металлоискателем %num2% утерянных тайников с припасами чарров на Моросистом побережье.
+Reveal %num2% lost charr supply caches with a metal detector in the Drizzlewood Coast.,Обнаружьте металлоискателем %num2% утерянных тайников с припасами чарров на Drizzlewood Coast.
 Revealed %num1%/%num2% Lost Charr Supply Caches,Обнаружено %num1%/%num2% утерянных тайников с припасами чарров
 Revealed the Culprit,Виновник раскрыт
 "Reveals hidden objects, protects tiles, slows, and applies Light Vulnerability to corrupted foes.","Раскрывает скрытые объекты, защищает плитки, замедляет и накладывает уязвимость к свету на осквернённых врагов."
@@ -301,8 +301,8 @@ Sand Shade,Sand Shade
 "Sand, shield us!","Песок, укрой нас!"
 Sandcastle Site,Место замка из песка
 Sandstorm? What's that?,Песчаная буря? Это ещё что?
-Sandswept Isles Adventure Completed,Приключение на Песчаных островах завершено
-Sandswept Isles Race Completed,Гонка на Песчаных островах завершена
+Sandswept Isles Adventure Completed,Приключение на Sandswept Islesх завершено
+Sandswept Isles Race Completed,Гонка на Sandswept Islesх завершена
 Sanity is but a mirage.,Здравомыслие — всего лишь мираж.
 Sannagan the Sloshed,Саннаган Хмельной
 Sap Blob[s],[Комок|Комка|Комков] смоляного сгустка

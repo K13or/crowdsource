@@ -1157,7 +1157,7 @@ In addition, I could use assistance on a matter I cannot discuss here. If your t
 Regards,
 Agent Brandubh","Командир %str1%,
 
-У меня есть срочная просьба о вашей помощи на поле боя. В сотрудничестве с Дозором Order of Whispers работает над обнаружением главной базы операций Molten Alliance, и мы сузили сеть до плато Дьесса. Пока вы читаете это, у нас есть агенты под прикрытием в этом районе.
+У меня есть срочная просьба о вашей помощи на поле боя. В сотрудничестве с Дозором Order of Whispers работает над обнаружением главной базы операций Molten Alliance, и мы сузили сеть до Diessa Plateau. Пока вы читаете это, у нас есть агенты под прикрытием в этом районе.
 
 Ваша помощь будет иметь решающее значение для нашего успеха. Остановите любые операции Альянса в регионе Дьесса, подавите любые беспорядки и помогите беженцам на пути к Black Citadel; всё это позволит нам вывести агентов из тени и собрать их разведданные.
 
@@ -2299,7 +2299,7 @@ Exit the city via the northeastern gate that leads to Diessa Plateau. Pass throu
 Your friend,
 Rytlock Brimstone","Командир, вот маршрут к Северному Питомнику Нолана, где вы встретитесь с Рокс, новобранцем, о котором я упоминал. У неё нет проблем, я просто хотел убедиться, что вы знаете, как я был бы благодарен, если бы вы... Чем бы ни занимался этот «Molten Alliance», мне это не нравится. Я бы отправил с ней больше солдат, но мы по горло в беженцах. Рокс способна, но я буду увереннее, зная, что вы прикрываете её спину.
 
-Выйдите из города через северо-восточные ворота, ведущие на плато Дьесса. Пройдите через Нолан и направляйтесь в предгорья. Питомник там.
+Выйдите из города через северо-восточные ворота, ведущие на Diessa Plateau. Пройдите через Нолан и направляйтесь в предгорья. Питомник там.
 
 Ваш друг,
 Rytlock Brimstone"
@@ -2410,7 +2410,7 @@ Gang War of Echovald (Echovald Wilds)
 Destroy the Ravenous Wanderer (Gyala Delve)
 Battle for the Jade Sea (Dragon's End)","Завершите мета-событие в Кантхе, события на карте с подходящим мета-событием либо события в Maguuma Jungle. Завершение мета-события выполняет эту цель мгновенно; события на его карте дают два очка к выполнению.
 Подходящие мета-события:
-«Штурм Эфирных клинков» (Провинция Ситунг)
+«Штурм Эфирных клинков» (Seitung Province)
 «Затмение Кайненга» (Новый Город Кайненг)
 «Война банд Эховальда» (Дебри Эховальда)
 «Уничтожьте Ненасытного Скитальца» (Копи Гьяла)
@@ -2470,7 +2470,7 @@ The Spider's Lair (Inner Nayos)","Завершите мета-событие в 
 Tower of Nightmares Containment","Завершайте события внутри Tower of Nightmares либо доберитесь до её вершины.
 
 Сдерживание Tower of Nightmares"
-"Complete the ""Collect lightning to keep the asura turrets charged"" event in Mistburned Barrens or the ""Collect jars, fill them with lightning, and deposit them in the drop-off locations"" event in Janthir Syntri to charge the battery.","Завершите событие «Собирайте молнии, чтобы заряжать асурские турели» в Тумановых пустошах или событие «Собирайте банки, наполняйте их молниями и сдавайте в пункты приёма» в Джантир Синтри, чтобы зарядить батарею."
+"Complete the ""Collect lightning to keep the asura turrets charged"" event in Mistburned Barrens or the ""Collect jars, fill them with lightning, and deposit them in the drop-off locations"" event in Janthir Syntri to charge the battery.","Завершите событие «Собирайте молнии, чтобы заряжать асурские турели» в Тумановых пустошах или событие «Собирайте банки, наполняйте их молниями и сдавайте в пункты приёма» в Janthir Syntri, чтобы зарядить батарею."
 "Complete the Festive Imbiber achievement.
 (Only available during Wintersday.)","Выполните достижение «Праздничный выпивоха».
 (Доступно только во время Дня зимы.)"
@@ -2990,7 +2990,7 @@ Recipe obtained from Cymbel.","Создайте материалы для гне
 Рецепт получен от Симбел."
 "Craft a Heat Stone and deposit it at your den.
 Recipe obtained from merchants in Dry Top.","Создайте греющий камень и поместите его в логово.
-Рецепт получен у торговцев в Сухой Вершине."
+Рецепт получен у торговцев в Dry Top."
 "Craft a Scratching Post and deposit it at your den.
 Recipe obtained from Cymbel.","Создайте когтеточку и поместите её в логово.
 Рецепт получен от Симбел."
