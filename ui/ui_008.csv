@@ -200,11 +200,11 @@ english,translate
 %str1%%str2%Iron Greatsword%str3%%str4%,%str1%%str2%Железный двуручный меч%str3%%str4%
 %str1%%str2%Iron Hammer%str3%%str4%,%str1%%str2%Железный молот%str3%%str4%
 %str1%%str2%Iron Legion Combat Blade%str3%%str4%,%str1%%str2%Iron Legion Combat Blade%str3%%str4%
-%str1%%str2%Iron Legion Flamesaw%str3%%str4%,%str1%%str2%Огнепила Железного легиона%str3%%str4%
-%str1%%str2%Iron Legion Longshot%str3%%str4%,%str1%%str2%Дальнобой Железного легиона%str3%%str4%
-%str1%%str2%Iron Legion Pistol%str3%%str4%,%str1%%str2%Пистолет Железного легиона%str3%%str4%
-%str1%%str2%Iron Legion Shield%str3%%str4%,%str1%%str2%Щит Железного легиона%str3%%str4%
-%str1%%str2%Iron Legion Staff%str3%%str4%,%str1%%str2%Посох Железного легиона%str3%%str4%
+%str1%%str2%Iron Legion Flamesaw%str3%%str4%,%str1%%str2%Огнепила Iron Legion%str3%%str4%
+%str1%%str2%Iron Legion Longshot%str3%%str4%,%str1%%str2%Дальнобой Iron Legion%str3%%str4%
+%str1%%str2%Iron Legion Pistol%str3%%str4%,%str1%%str2%Пистолет Iron Legion%str3%%str4%
+%str1%%str2%Iron Legion Shield%str3%%str4%,%str1%%str2%Щит Iron Legion%str3%%str4%
+%str1%%str2%Iron Legion Staff%str3%%str4%,%str1%%str2%Посох Iron Legion%str3%%str4%
 %str1%%str2%Iron Mace%str3%%str4%,%str1%%str2%Железная булава%str3%%str4%
 %str1%%str2%Iron Pistol%str3%%str4%,%str1%%str2%Железный пистолет%str3%%str4%
 %str1%%str2%Iron Polearm%str3%%str4%,%str1%%str2%Железное древковое оружие%str3%%str4%
@@ -214,24 +214,24 @@ english,translate
 %str1%%str2%Iron Sword%str3%%str4%,%str1%%str2%Железный меч%str3%%str4%
 %str1%%str2%Ironfist%str3%%str4%,%str1%%str2%Железный кулак%str3%%str4%
 %str1%%str2%Ithas Longbow%str3%%str4%,%str1%%str2%Длинный лук Итаса%str3%%str4%
-%str1%%str2%Jade Tech Coat%str3%%str4%,%str1%%str2%Куртка нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Cuirass%str3%%str4%,%str1%%str2%Кираса нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Gauntlets%str3%%str4%,%str1%%str2%Латные перчатки нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Hat%str3%%str4%,%str1%%str2%Шляпа нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Heavy Boots%str3%%str4%,%str1%%str2%Тяжёлые сапоги нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Heavy Leggings%str3%%str4%,%str1%%str2%Тяжёлые поножи нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Helm%str3%%str4%,%str1%%str2%Шлем нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Light Boots%str3%%str4%,%str1%%str2%Лёгкие сапоги нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Light Gloves%str3%%str4%,%str1%%str2%Лёгкие перчатки нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Light Shoulderpads%str3%%str4%,%str1%%str2%Лёгкие оплечья нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Masque%str3%%str4%,%str1%%str2%Полумаска нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Medium Boots%str3%%str4%,%str1%%str2%Средние сапоги нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Medium Gloves%str3%%str4%,%str1%%str2%Средние перчатки нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Medium Leggings%str3%%str4%,%str1%%str2%Средние поножи нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Medium Shoulderpads%str3%%str4%,%str1%%str2%Средние оплечья нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Pauldrons%str3%%str4%,%str1%%str2%Наплечники нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Skirt%str3%%str4%,%str1%%str2%Юбка нефритовых технологий%str3%%str4%
-%str1%%str2%Jade Tech Vest%str3%%str4%,%str1%%str2%Жилет нефритовых технологий%str3%%str4%
+%str1%%str2%Jade Tech Coat%str3%%str4%,%str1%%str2%Куртка Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Cuirass%str3%%str4%,%str1%%str2%Кираса Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Gauntlets%str3%%str4%,%str1%%str2%Латные перчатки Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Hat%str3%%str4%,%str1%%str2%Шляпа Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Heavy Boots%str3%%str4%,%str1%%str2%Тяжёлые сапоги Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Heavy Leggings%str3%%str4%,%str1%%str2%Тяжёлые поножи Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Helm%str3%%str4%,%str1%%str2%Шлем Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Light Boots%str3%%str4%,%str1%%str2%Лёгкие сапоги Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Light Gloves%str3%%str4%,%str1%%str2%Лёгкие перчатки Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Light Shoulderpads%str3%%str4%,%str1%%str2%Лёгкие оплечья Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Masque%str3%%str4%,%str1%%str2%Полумаска Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Medium Boots%str3%%str4%,%str1%%str2%Средние сапоги Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Medium Gloves%str3%%str4%,%str1%%str2%Средние перчатки Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Medium Leggings%str3%%str4%,%str1%%str2%Средние поножи Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Medium Shoulderpads%str3%%str4%,%str1%%str2%Средние оплечья Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Pauldrons%str3%%str4%,%str1%%str2%Наплечники Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Skirt%str3%%str4%,%str1%%str2%Юбка Jade Tech%str3%%str4%
+%str1%%str2%Jade Tech Vest%str3%%str4%,%str1%%str2%Жилет Jade Tech%str3%%str4%
 %str1%%str2%Jaws of Death%str3%%str4%,%str1%%str2%Челюсти смерти%str3%%str4%
 %str1%%str2%Jeweled Trident%str3%%str4%,%str1%%str2%Самоцветный трезубец%str3%%str4%
 %str1%%str2%Jora's Defender%str3%%str4%,%str1%%str2%Защитник Йоры%str3%%str4%

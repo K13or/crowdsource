@@ -149,7 +149,7 @@ Double-click to view the target's predicted location.","<c=@flavor>По прик
 "<c=@flavor>Crafted in the style of the famous mercenary, Grymm Svaard.</c>",<c=@flavor>Изготовлено в стиле знаменитого наёмника Grymm Svaard.</c>
 "<c=@flavor>Crafted in the style of the famous minstrel, Maklain.</c>",<c=@flavor>Изготовлено в стиле знаменитого менестреля Маклейна.</c>
 "<c=@flavor>Crafted in the style of the famous necromancer, Verata.</c>",<c=@flavor>Изготовлено в стиле знаменитого некроманта Вераты.</c>
-"<c=@flavor>Crafted in the style of the famous ruler, Turai Ossa.</c>",<c=@flavor>Изготовлено в стиле знаменитого правителя Турая Оссы.</c>
+"<c=@flavor>Crafted in the style of the famous ruler, Turai Ossa.</c>",<c=@flavor>Изготовлено в стиле знаменитого правителя Turai Ossa.</c>
 "<c=@flavor>Crafted in the style of the festive asuran inventor, Tixx.</c>",<c=@flavor>Изготовлено в стиле праздничного изобретателя-асуры Тикса.</c>
 <c=@flavor>Crafted in the style of the Forgotten Keeper of Armor.</c>,<c=@flavor>Изготовлено в стиле Забытого хранителя брони.</c>
 <c=@flavor>Crafted in the style of the Forgotten Keeper of Arms.</c>,<c=@flavor>Изготовлено в стиле Забытого хранителя оружия.</c>
@@ -349,8 +349,8 @@ Confiscated from the Brig in Grothmar Valley.","<c=@flavor>Любовь — по
 <c=@flavor>Lovingly preserved specimen of an exceedingly rare iris.</c>,<c=@flavor>Любовно сохранённый образец чрезвычайно редкого ириса.</c>
 <c=@flavor>Made for hunting.</c>,<c=@flavor>Создано для охоты.</c>
 <c=@flavor>Make use of any tool that fits the job.</c>,"<c=@flavor>Пускай в ход любой инструмент, что подходит для дела.</c>"
-"<c=@flavor>Marjory Delaqua inherited this axe from Mendel, a boy she failed to protect.</c>","<c=@flavor>Марджори Делакуа унаследовала этот топор от Менделя — мальчика, которого не сумела защитить.</c>"
-"<c=@flavor>Marjory Delaqua promised Mendel she'd protect this dagger, though she couldn't protect him.</c>","<c=@flavor>Марджори Делакуа обещала Менделю беречь этот кинжал, хотя самого его уберечь не смогла.</c>"
+"<c=@flavor>Marjory Delaqua inherited this axe from Mendel, a boy she failed to protect.</c>","<c=@flavor>Marjory Delaqua унаследовала этот топор от Менделя — мальчика, которого не сумела защитить.</c>"
+"<c=@flavor>Marjory Delaqua promised Mendel she'd protect this dagger, though she couldn't protect him.</c>","<c=@flavor>Marjory Delaqua обещала Менделю беречь этот кинжал, хотя самого его уберечь не смогла.</c>"
 <c=@flavor>Marked with signs of your battle with the great jungle wurms.</c>,<c=@flavor>Отмечено следами твоей битвы с большими джунглевыми вурмами.</c>
 <c=@flavor>Maut's frustrations forever locked away.</c>,<c=@flavor>Досада Маута заперта навеки.</c>
 <c=@flavor>May fortune favor you in the new year.</c>,<c=@flavor>Да будет удача с тобой в новом году.</c>

@@ -307,9 +307,9 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 <c=@Flavor>This lovely gem has several minute flaws that only enhance its beauty.</c>,"<c=@Flavor>У этого прекрасного самоцвета есть несколько мельчайших изъянов, которые только подчеркивают его красоту.</c>"
 <c=@Reminder>Forge Master Hilina holds the secrets to ancient weaponry.</c>,<c=@Reminder>Кузнец-мастер Хилина владеет секретами древнего оружия.</c>
 <c=@Reminder>Hint: Defeat Warden Amala in the Mordant Crescent Great Hall while holding a Memory Essence Encapsulator in your inventory.</c>,"<c=@Reminder>Подсказка: победите стража Амалу в Большом зале Mordant Crescent, держа в инвентаре инкапсулятор эссенции памяти.</c>"
-<c=@Reminder>Hint: Somewhere near Chalon Docks Waypoint in the Domain of Istan.</c>,<c=@Reminder>Подсказка: Где-то рядом с путевой точкой «Причал Чалон» в области Истан.</c>
-<c=@Reminder>Hint: Somewhere near the Mordant Crescent Great Hall in the Domain of Istan.</c>,<c=@Reminder>Подсказка: Где-то рядом с Большим залом Mordant Crescent в области Истан.</c>
-<c=@Reminder>Hint: Use your skyscale mount to access a rift near the Astralarium in the Domain of Istan.</c>,"<c=@Reminder>Подсказка: Используйте скайскейл, чтобы добраться до разлома рядом с Астраларием в области Истан.</c>"
+<c=@Reminder>Hint: Somewhere near Chalon Docks Waypoint in the Domain of Istan.</c>,<c=@Reminder>Подсказка: Где-то рядом с путевой точкой «Причал Чалон» в Domain of Istan.</c>
+<c=@Reminder>Hint: Somewhere near the Mordant Crescent Great Hall in the Domain of Istan.</c>,<c=@Reminder>Подсказка: Где-то рядом с Большим залом Mordant Crescent в Domain of Istan.</c>
+<c=@Reminder>Hint: Use your skyscale mount to access a rift near the Astralarium in the Domain of Istan.</c>,"<c=@Reminder>Подсказка: Используйте скайскейл, чтобы добраться до разлома рядом с Астраларием в Domain of Istan.</c>"
 <c=@Reminder>This bait will help attract Daijun Blackfin in the Eastern Wilds Bay.</c>,<c=@Reminder>Эта наживка поможет привлечь дайцзюньского чёрноплавника в заливе Восточных Пустошей.</c>
 <c=@Reminder>This item can be exchanged for an upgraded version at the Black Lion Exchange Specialist.</c>,<c=@Reminder>Этот предмет можно обменять на улучшенную версию у специалиста по обмену Black Lion.</c>
 <c=@Task>All unobtained dyes have an equal chance of dropping.</c>,<c=@Task>Все неполученные краски имеют равный шанс выпадения.</c>

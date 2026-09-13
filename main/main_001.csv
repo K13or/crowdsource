@@ -2739,7 +2739,7 @@ Sergeant Walters of the Seraph is heading south from Fort Salma to stand with us
 
 Касмир попытается наложить заклинание, которое, надеюсь, снимет завесу, и твой боевой опыт может оказаться для нас неоценимым.
 
-Sergeant Walters из Серафимов направляется на юг от Форта Салма, чтобы поддержать нас против любых ужасов, которые откроет заклинание Касмир. Пожалуйста, присоединяйся к ней и не стесняйся приводить друзей.
+Sergeant Walters из Серафимов направляется на юг от Fort Salma, чтобы поддержать нас против любых ужасов, которые откроет заклинание Касмир. Пожалуйста, присоединяйся к ней и не стесняйся приводить друзей.
 
 — Марджори"
 "%str1%,
@@ -3090,7 +3090,7 @@ To convince her to give you the cipher, repeat this phrase: ""Long live the king
 
 Чтобы убедить её отдать вам код, повторите эту фразу: «Да здравствует король Дельдримора».
 
-— Марджори Делакуа"
+— Marjory Delaqua"
 "%str1%,
 
 We...we beat Scarlet's marionette (by the skin of our teeth, mind you). We're going to regroup in Lion's Arch. Let's meet there.
@@ -3251,7 +3251,7 @@ If you have the time available to revisit your contributions, the Captain's Coun
 Если у тебя есть время пересмотреть свой вклад, Captain's Council предлагает на этой неделе награды за помощь в обеспечении безопасности интересующих зон, а также за участие в фрактальных симуляциях соответствующих событий для документирования. Встреть меня на Мемориальном мосту капитана Тео Эшфорда, если тебе нужны подробности.
 
 — Капитан Эллен Кил"
-"%str1%, I hope this letter finds you in good health.The city of Lion's Arch has survived many trials in recent years, but none struck as as deeply as Scarlet's war and the schemes leading up to it. The city's historians are reviewing records and collecting firsthand accounts of those events, and—unsurprisingly—your name has been brought up.If you have the time available to revisit your contributions, the Captain's Council is offering certain bounties this week for aid in securing areas of interest—as well as participating in fractal simulations of relevant events for the sake of documentation. Meet me at the Captain Theo Ashford Memorial Bridge if you need any details.—Captain Ellen Kiel","%str1%, Надеюсь, это письмо застанет вас в добром здравии.Город Львиный Архипелаг пережил много испытаний в последние годы, но ни одно не затронуло так глубоко, как война Скарлет и замыслы, предшествовавшие ей. Историки города просматривают записи и собирают свидетельства очевидцев тех событий, и — неудивительно — ваше имя было упомянуто.Если у вас есть время, чтобы поделиться воспоминаниями о вашем вкладе, Капитанский Совет на этой неделе предлагает определённые награды за помощь в обеспечении безопасности интересующих зон, а также за участие в фрактальных симуляциях соответствующих событий для целей документирования. Встретьтесь со мной на Мемориальном мосту капитана Тео Эшфорда, если вам нужны подробности.—Капитан Эллен Кил"
+"%str1%, I hope this letter finds you in good health.The city of Lion's Arch has survived many trials in recent years, but none struck as as deeply as Scarlet's war and the schemes leading up to it. The city's historians are reviewing records and collecting firsthand accounts of those events, and—unsurprisingly—your name has been brought up.If you have the time available to revisit your contributions, the Captain's Council is offering certain bounties this week for aid in securing areas of interest—as well as participating in fractal simulations of relevant events for the sake of documentation. Meet me at the Captain Theo Ashford Memorial Bridge if you need any details.—Captain Ellen Kiel","%str1%, Надеюсь, это письмо застанет вас в добром здравии.Город Львиный Архипелаг пережил много испытаний в последние годы, но ни одно не затронуло так глубоко, как война Скарлет и замыслы, предшествовавшие ей. Историки города просматривают записи и собирают свидетельства очевидцев тех событий, и — неудивительно — ваше имя было упомянуто.Если у вас есть время, чтобы поделиться воспоминаниями о вашем вкладе, Captain's Council на этой неделе предлагает определённые награды за помощь в обеспечении безопасности интересующих зон, а также за участие в фрактальных симуляциях соответствующих событий для целей документирования. Встретьтесь со мной на Мемориальном мосту капитана Тео Эшфорда, если вам нужны подробности.—Капитан Эллен Кил"
 "%str1%, I thought you should know that we've created a statue in memory of Firstborn Trahearne. If you wish to stop by and pay your respects, the statue is located near the Grove's entrance.
 
 —Warden Leide","%str1%, Я подумал, тебе стоит знать, что мы создали статую в память о Первородном Трахёрне. Если хочешь зайти и отдать дань уважения, статуя находится у входа в Рощу.
