@@ -144,10 +144,15 @@ for num, br in pairs:
     base = subprocess.run(["git", "merge-base", "refs/heads/main",
                            "refs/heads/" + br], cwd=ROOT,
                           capture_output=True, text=True).stdout.strip()
+    # encoding= обязателен: под Windows `text=True` декодирует вывод кодировкой
+    # консоли (cp1251), и путь с кириллицей в имени — `orphans/основной_001.csv`
+    # — превращается в мусор. `cat-file` такой путь не находит, батч молча
+    # выпадает из ревизии: партии #136 и #139 показывали «правок 0» при живых
+    # правках.
     files = subprocess.run(
         ["git", "-c", "core.quotepath=false", "diff", "--name-only",
          base, "refs/heads/" + br],
-        cwd=ROOT, capture_output=True, text=True).stdout.split()
+        cwd=ROOT, capture_output=True, text=True, encoding="utf-8").stdout.split()
     files = [f for f in files if f.endswith(".csv")]
     if not files:
         print("  #%-4s %-22s правок нет (не батчи)" % (num, br))
