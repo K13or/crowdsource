@@ -51,7 +51,7 @@ This creature is unstable and will explode on death.,Эта тварь нест�
 "This curious device looks like nothing you've seen before, but it appears to have some role in food preparation, judging from the inside being spattered with some kind of pungent sauce.","Это диковинное устройство не похоже ни на что виденное вами, но, судя по забрызганным изнутри стенкам с каким-то едким соусом, служит оно для готовки."
 This desert's really something.,Эта пустыня и правда нечто.
 This detailed account of the final fight with the Elder Dragon Zhaitan includes a list of all Pact members who were killed. The feats of %str1% are called out as having been critical to the victory.,В этом подробном описании последнего боя с Старшим драконом Зайтаном есть список всех погибших бойцов Пакта. Заслуги %str1% отмечены как решающие для победы.
-"This device is very finicky, and the eggheads in research and development didn't send very good instructions. We need to grab that ley energy and get out of here before the Inquest shows up.","Устройство очень капризное, а умники из исследовательского отдела прислали никудышные указания. Надо взять эту лей-энергию и убраться отсюда, пока не явился Инквест."
+"This device is very finicky, and the eggheads in research and development didn't send very good instructions. We need to grab that ley energy and get out of here before the Inquest shows up.","Устройство очень капризное, а умники из исследовательского отдела прислали никудышные указания. Надо взять эту лей-энергию и убраться отсюда, пока не явился Inquest."
 This djinn is exhausted. Use the jackal's Pounce skill to give him a shield and protect him.,Этот джинн обессилел. Умением шакала «Прыжок» дайте ему щит и прикройте его.
 This door leads into the Astral Ward's Beacon Command Center.,Эта дверь ведёт в командный центр Маяка Astral Ward.
 "This driftwood would be a nice place to sit down and relax, if it weren't for all the crabs around.","На этом плавнике славно было бы посидеть и передохнуть, если бы не крабы вокруг."
@@ -148,7 +148,7 @@ This isn't fair.,Это нечестно.
 This isn't good. The Forged are taking more of an interest in the Order.,Дело плохо. Кованые всё больше интересуются Орденом.
 This isn't our land. We didn't let it get in this shape. Why should we be expected to work it?,Это не наша земля. Не мы довели её до такого. С чего нам её обрабатывать?
 This isn't what I signed on for when I became a bodyguard.,"Я не на это подписывался, когда шёл в телохранители."
-"This journal contains notes about a sea beast's skeleton. There are sketches of what the creature looked like when alive, including a humorous scene in which it's eating Inquest agents.","В этом дневнике заметки о скелете морского зверя. Есть наброски того, как тварь выглядела живой, в том числе шутливая сценка, где она поедает агентов Инквеста."
+"This journal contains notes about a sea beast's skeleton. There are sketches of what the creature looked like when alive, including a humorous scene in which it's eating Inquest agents.","В этом дневнике заметки о скелете морского зверя. Есть наброски того, как тварь выглядела живой, в том числе шутливая сценка, где она поедает агентов Inquest."
 "This journal describes the tragic story of a human mage caught up in his obsession to summon a djinn, believing it would grant him phenomenal cosmic power.","В этом дневнике изложена печальная история человеческого мага, одержимого мыслью призвать джинна и верившего, что тот даст ему невиданную вселенскую мощь."
 "This journey will likely be frought with danger, but the greater danger would be not destroying those spectral weapons. Their deactivation could be the key to our maintaining our hold on the temple.","Путь наверняка будет опасен, но куда опаснее оставить призрачное оружие целым. Возможно, именно от того, удастся ли его обезвредить, зависит, удержим ли мы храм."
 This jungle is dying.,Эти джунгли умирают.
@@ -222,7 +222,7 @@ This tunnel is just big enough for a skritt to go through. A boulder of the righ
 "This volume is a primer on the currently understood principles of magic. It does not cover the recent discoveries concerning ley lines, however.","Этот том — начальный свод нынешних представлений об основах магии. Впрочем, недавних открытий о лей-линиях он не касается."
 "This volume, written by a quaggan named Vloosaloo, describes a recipe for a love potion made from dried seaweed native to the Unending Ocean.","В этом томе, написанном квагганом по имени Влусалу, изложен рецепт любовного зелья из сушёных водорослей Unending Ocean."
 "This wall sconce has survived the centuries, mostly intact. It still holds the torch that some previous intrepid explorer placed in it.","Этот настенный светильник пережил века почти целым. В нём до сих пор стоит факел, вставленный каким-то отважным исследователем до вас."
-"This was once Rata Sum's primary golem factory. My krewe is scouring the site for useful artifacts, as are the Inquest. You're not a spy, are you? Hmm. Your appearance doesn't suggest it.","Когда-то здесь была главная големная мануфактура Rata Sum. Моя артель обшаривает это место в поисках полезных артефактов, как и Инквест. Вы ведь не шпион? Хм. По виду не скажешь."
+"This was once Rata Sum's primary golem factory. My krewe is scouring the site for useful artifacts, as are the Inquest. You're not a spy, are you? Hmm. Your appearance doesn't suggest it.","Когда-то здесь была главная големная мануфактура Rata Sum. Моя артель обшаривает это место в поисках полезных артефактов, как и Inquest. Вы ведь не шпион? Хм. По виду не скажешь."
 This weapon did not belong to Artis Underfist. You have angered his spirit.,Это оружие не принадлежало Артису Подкулаку. Вы прогневали его дух.
 This weapon doesn't seem to suit this statue.,"Похоже, это оружие этой статуе не подходит."
 This weathered plaque appears to describe the crystal in front of you.,"Похоже, эта истёртая табличка описывает кристалл перед вами."
@@ -314,9 +314,9 @@ Time before Biomancer Plezzi regains strength: %str1%,"До того, как Bio
 Time before Golemancer Graxx regains strength: %str1%,"До того, как големантик Гракс восстановит силы: %str1%"
 Time before medicine expires: %str1%,До окончания действия лекарства: %str1%
 Time before plants die: %str1%,До гибели растений: %str1%
-Time before the Inquest repairs the eastern excavator: %str1%,"До того, как Инквест починит восточный экскаватор: %str1%"
-Time before the Inquest repairs the northern excavator: %str1%,"До того, как Инквест починит северный экскаватор: %str1%"
-Time before the Inquest repairs the southern excavator: %str1%,"До того, как Инквест починит южный экскаватор: %str1%"
+Time before the Inquest repairs the eastern excavator: %str1%,"До того, как Inquest починит восточный экскаватор: %str1%"
+Time before the Inquest repairs the northern excavator: %str1%,"До того, как Inquest починит северный экскаватор: %str1%"
+Time before the Inquest repairs the southern excavator: %str1%,"До того, как Inquest починит южный экскаватор: %str1%"
 Time before the siege begins: %str1%,До начала осады: %str1%
 Time before tranquilizers expire: %str1%,До окончания действия снотворного: %str1%
 Time left before Vanak retreats: %str1%,До отступления Ванака: %str1%

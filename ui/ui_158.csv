@@ -188,7 +188,7 @@ Vesperite Ore,Весперитовая руда
 Veteran %str1%,Ветеран %str1%
 "Veteran Air Elemental Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана воздушного элементаля
 "Veteran Anchor the Gold Shark Loot Box[pl:""Boxes""]","[Коробка|Коробки|Коробок] с добычей ветерана Анкора, золотой акулы"
-Veteran Arid Inquest Cache[s],[Тайник|Тайника|Тайников] ветерана засушливого Инквеста
+Veteran Arid Inquest Cache[s],[Тайник|Тайника|Тайников] ветерана засушливого Inquest
 Veteran Arid Skritt Cache[s],[Тайник|Тайника|Тайников] ветерана засушливых скриттов
 "Veteran Ascalonian Ghost Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана аскалонского призрака
 "Veteran Bane's Teeth Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана «Зубы Бейна»
@@ -222,8 +222,8 @@ Veteran Dust Mite Cache[s],[Тайник|Тайника|Тайников] вет
 "Veteran Ice Wolf Matriarch Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана матриарха ледяных волков
 Veteran Icebrood Mauler,Veteran Icebrood Mauler
 "Veteran Icebrood Seer Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана провидца ледяного отродья
-"Veteran Inquest Advanced Defense Golem Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана продвинутого защитного голема Инквеста
-"Veteran Inquest Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана Инквеста
+"Veteran Inquest Advanced Defense Golem Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана продвинутого защитного голема Inquest
+"Veteran Inquest Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана Inquest
 "Veteran Jormag the Ice Dragon Loot Box[pl:""Boxes""]","[Коробка|Коробки|Коробок] с добычей ветерана Йормага, ледяного дракона"
 "Veteran Judah the Brown Deer Loot Box[pl:""Boxes""]","[Коробка|Коробки|Коробок] с добычей ветерана Джуды, бурого оленя"
 Veteran jungle tendrils defeated: %num1%/%num2%,Ветеранов джунглевых усиков побеждено: %num1%/%num2%

@@ -39,7 +39,7 @@ english,translate
 +10%% Experience from Kills","+5%% Урона по Ледяному отродью
 +10%% Опыта за убийства"
 "+5%% Damage vs. Inquest
-+10%% Experience from Kills","+5%% Урона по Инквесту
++10%% Experience from Kills","+5%% Урона по Inquest
 +10%% Опыта за убийства"
 "+5%% Damage vs. Krait
 +10%% Experience from Kills","+5%% Урона по Крайтам
@@ -121,7 +121,7 @@ The taste of April Fools.","+5%% к удаче
 +2%% Strike Damage","+5%% к урону по ледяной чуме
 +2%% к урону"
 "+5%% Strike Damage vs. Inquest
-+2%% Strike Damage","+5%% к урону по Инквесту
++2%% Strike Damage","+5%% к урону по Inquest
 +2%% к урону"
 "+5%% Strike Damage vs. Karka
 +2%% Strike Damage","+5%% к урону по каркам
@@ -444,8 +444,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% Опыт за убийства"
 "+7%% Damage vs. Inquest
 -4%% Damage from Inquest
-+10%% Experience from Kills","+7%% Урон против Инквеста
--4%% урон от Инквеста
++10%% Experience from Kills","+7%% Урон против Inquest
+-4%% урон от Inquest
 +10%% Опыт за убийства"
 "+7%% Damage vs. Krait
 -4%% Damage from Krait
@@ -504,7 +504,7 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +3%% Strike Damage","+7%% урона от ударов по ледяным порождениям
 +3%% урона от ударов"
 "+7%% Strike Damage vs. Inquest
-+3%% Strike Damage","+7%% урона против Инквеста
++3%% Strike Damage","+7%% урона против Inquest
 +3%% обычного урона"
 "+7%% Strike Damage vs. Karka
 +3%% Strike Damage","+7%% урона против карка
@@ -596,8 +596,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% опыта за убийства"
 "+8%% Damage vs. Inquest
 -6%% Damage from Inquest
-+10%% Experience from Kills","+8%% урона по Инквесту
--6%% урона от Инквеста
++10%% Experience from Kills","+8%% урона по Inquest
+-6%% урона от Inquest
 +10%% опыта за убийства"
 "+8%% Damage vs. Karka
 -6%% Damage from Karka
@@ -876,8 +876,8 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 +10%% опыта за убийства"
 "+9%% Damage vs. Inquest
 -8%% Damage from Inquest
-+10%% Experience from Kills","+9%% урона по Инквесту
--8%% урона от Инквеста
++10%% Experience from Kills","+9%% урона по Inquest
+-8%% урона от Inquest
 +10%% опыта за убийства"
 "+9%% Damage vs. Krait
 -8%% Damage from Krait
@@ -923,7 +923,7 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 
 — судя по всему, старый экземпляр. Ещё один новый вид, так что, закончив очистку, сохраним останки для изучения.
 
-- Заметили следы другого — отпечатки куда шире и площе. Попробуем взять след до заката, а завтра, если понадобится, продолжим поиски. - Сегодня у ручья заметили следы иного рода. Тяжёлые и двуногие, вероятно, голем Инквеста. Они не учли давление на грунт, и он едва не увяз в грязи. Глупцы понятия не имеют, что делают на такой местности."
+- Заметили следы другого — отпечатки куда шире и площе. Попробуем взять след до заката, а завтра, если понадобится, продолжим поиски. - Сегодня у ручья заметили следы иного рода. Тяжёлые и двуногие, вероятно, голем Inquest. Они не учли давление на грунт, и он едва не увяз в грязи. Глупцы понятия не имеют, что делают на такой местности."
 "- Brought down a large beast early this morning. Tall and long, it ran on two legs and used its heavy tail as a counterbalance for its heavy head. From the teeth and the hide, it seemed to be an older specimen. This was another new one, so once we finish cleaning it, we'll preserve the remains to be studied.    - Spotted the tracks of another, footprints much wider and flatter. We will try to pick up the trail before dusk, and we will continue the search tomorrow if needed.    - Spotted a different kind of tracks by the stream today. Heavy and bipedal, likely an Inquest golem. They hadn't accounted for ground pressure, and it nearly sank into the mud. Fools have no idea what they're doing on terrain like this.","- Сегодня рано утром завалил крупного зверя. Высокий и длинный, он бегал на двух ногах и использовал свой тяжёлый хвост в качестве противовеса для своей тяжёлой головы. Судя по зубам и шкуре, это был старый экземпляр. Это был ещё один новый вид, поэтому, как только мы закончим его чистить, мы сохраним останки для изучения.    - Заметил следы другого, отпечатки намного шире и площе. Мы постараемся выйти на след до наступления сумерек, и продолжим поиски завтра, если потребуется.    - Сегодня у ручья заметил следы другого рода. Тяжёлые и двуногие, вероятно, голем Инженера. Они не учли давление на грунт, и он чуть не утонул в грязи. Дураки понятия не имеют, что они делают на такой местности."
 - Eliminate other gamers to prove you are the top waster.,"- Устраняйте других игроков, чтобы доказать, что вы — главный прожигатель."
 "- First and foremost, never look a journeykin directly in the eye. Not until you've bonded. Doing so too early will provoke the creature. Until a bond has been established, keep your eyes on the creature's chin while slowly blinking.  

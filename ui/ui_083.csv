@@ -1,54 +1,54 @@
 english,translate
-Inquest looting finished in: %str1%,Мародёрство Инквеста закончится через: %str1%
-Inquest Magitech Component,Магитех-компонент Инквеста
-Inquest Mark II Axe Skin[s],[Облик|Облика|Обликов] топора «Инквест Марк II»
-Inquest Mark II Dagger Skin[s],[Облик|Облика|Обликов] кинжала «Инквест Марк II»
-Inquest Mark II Focus Skin[s],[Облик|Облика|Обликов] фокуса «Инквест Марк II»
-Inquest Mark II Greatsword Skin[s],[Облик|Облика|Обликов] двуручного меча «Инквест Марк II»
-Inquest Mark II Hammer Skin[s],[Облик|Облика|Обликов] молота «Инквест Марк II»
-Inquest Mark II Longbow Skin[s],облик[|а|ов] длинного лука Марк II Инквеста
-Inquest Mark II Mace Skin[s],облик[|а|ов] булавы Марк II Инквеста
-Inquest Mark II Pistol Skin[s],облик[|а|ов] пистолета Марк II Инквеста
-Inquest Mark II Rifle Skin[s],облик[|а|ов] винтовки Марк II Инквеста
-Inquest Mark II Scepter Skin[s],облик[|а|ов] скипетра Марк II Инквеста
-Inquest Mark II Shield Skin[s],облик[|а|ов] щита Марк II Инквеста
-Inquest Mark II Short Bow Skin[s],облик[|а|ов] короткого лука Марк II Инквеста
-Inquest Mark II Staff Skin[s],облик[|а|ов] посоха Марк II Инквеста
-Inquest Mark II Sword Skin[s],облик[|а|ов] меча Марк II Инквеста
-Inquest Mark II Torch Skin[s],облик[|а|ов] факела Марк II Инквеста
-Inquest Mark II Warhorn Skin[s],облик[|а|ов] боевого рога Марк II Инквеста
-"Inquest Mark II Weapon Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с оружием «Инквест Mark II»
-Inquest Mark II Weapons,Оружие Инквест Mark II
-"Inquest Medium Armor Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с бронёй Инквест (средняя)
+Inquest looting finished in: %str1%,Мародёрство Inquest закончится через: %str1%
+Inquest Magitech Component,Магитех-компонент Inquest
+Inquest Mark II Axe Skin[s],[Облик|Облика|Обликов] топора «Inquest Марк II»
+Inquest Mark II Dagger Skin[s],[Облик|Облика|Обликов] кинжала «Inquest Марк II»
+Inquest Mark II Focus Skin[s],[Облик|Облика|Обликов] фокуса «Inquest Марк II»
+Inquest Mark II Greatsword Skin[s],[Облик|Облика|Обликов] двуручного меча «Inquest Марк II»
+Inquest Mark II Hammer Skin[s],[Облик|Облика|Обликов] молота «Inquest Марк II»
+Inquest Mark II Longbow Skin[s],облик[|а|ов] длинного лука Марк II Inquest
+Inquest Mark II Mace Skin[s],облик[|а|ов] булавы Марк II Inquest
+Inquest Mark II Pistol Skin[s],облик[|а|ов] пистолета Марк II Inquest
+Inquest Mark II Rifle Skin[s],облик[|а|ов] винтовки Марк II Inquest
+Inquest Mark II Scepter Skin[s],облик[|а|ов] скипетра Марк II Inquest
+Inquest Mark II Shield Skin[s],облик[|а|ов] щита Марк II Inquest
+Inquest Mark II Short Bow Skin[s],облик[|а|ов] короткого лука Марк II Inquest
+Inquest Mark II Staff Skin[s],облик[|а|ов] посоха Марк II Inquest
+Inquest Mark II Sword Skin[s],облик[|а|ов] меча Марк II Inquest
+Inquest Mark II Torch Skin[s],облик[|а|ов] факела Марк II Inquest
+Inquest Mark II Warhorn Skin[s],облик[|а|ов] боевого рога Марк II Inquest
+"Inquest Mark II Weapon Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с оружием «Inquest Mark II»
+Inquest Mark II Weapons,Оружие Inquest Mark II
+"Inquest Medium Armor Box[pl:""Boxes""]",Коробка с бронёй Inquest (средняя)
 Inquest Mine,Inquest Mine
 Inquest Miner,Inquest Miner
-Inquest motion controls enabled.,Датчики движения Инквест активированы.
+Inquest motion controls enabled.,Датчики движения Inquest активированы.
 Inquest Note,Inquest Note
 Inquest Overseer Chair Glider Combo,Inquest Overseer Chair Glider Combo
-Inquest Overseer Glider[s],глайдер[|а|ов] надзирателя Инквеста
-Inquest Passcode[s],пароль[|я|ей] Инквеста
+Inquest Overseer Glider[s],глайдер[|а|ов] надзирателя Inquest
+Inquest Passcode[s],пароль[|я|ей] Inquest
 Inquest Pilot,Inquest Pilot
-"Inquest Pilot Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей пилота Инквеста
+"Inquest Pilot Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей пилота Inquest
 Inquest Portal,Inquest Portal
-Inquest power cells are used for portable energy. There are likely some lying around with other supplies at the Arcanological Survey Station.,"Элементы питания Инквест используются для портативной энергии. Вероятно, некоторые из них валяются среди прочих припасов на Станции арканологических изысканий."
-Inquest Power Core[s],[силовое ядро|силовых ядра|силовых ядер] Инквеста
+Inquest power cells are used for portable energy. There are likely some lying around with other supplies at the Arcanological Survey Station.,"Элементы питания Inquest используются для портативной энергии. Вероятно, некоторые из них валяются среди прочих припасов на Станции арканологических изысканий."
+Inquest Power Core[s],[силовое ядро|силовых ядра|силовых ядер] Inquest
 Inquest Power Generator,Inquest Power Generator
 Inquest Power Suit,Inquest Power Suit
 Inquest Power Suit Mark III,Inquest Power Suit Mark III
-Inquest reinforcements have arrived.,Подкрепление Инквест прибыло.
+Inquest reinforcements have arrived.,Подкрепление Inquest прибыло.
 Inquest Researcher,Inquest Researcher
 Inquest Resources,Inquest Resources
 Inquest Rifle Turret,Inquest Rifle Turret
 Inquest Rubbish Pile,Inquest Rubbish Pile
 Inquest Senior Engineer,Inquest Senior Engineer
-Inquest Skimmer Skin[s],облик[|а|ов] скакуна Инквеста
+Inquest Skimmer Skin[s],облик[|а|ов] скакуна Inquest
 Inquest Slayer,Inquest Slayer
 Inquest Spanner,Inquest Spanner
 Inquest Spy Equipment,Inquest Spy Equipment
 Inquest Stash,Inquest Stash
 Inquest Supply Crate,Inquest Supply Crate
 Inquest Technician,Inquest Technician
-"Inquest Technician Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей техника Инквеста
+"Inquest Technician Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей техника Inquest
 Inquest Technological Frequency,Inquest Technological Frequency
 Inquest Terminal,Inquest Terminal
 Inquest Thumper Turret,Inquest Thumper Turret
@@ -172,7 +172,7 @@ International Districts,Международные районы
 Internet (IP) address blocked. Please contact technical support at <a=1>%str1%</a>.,"IP-адрес заблокирован. Пожалуйста, свяжитесь с технической поддержкой по адресу <a=1>%str1%</a>."
 Interrogated Sylvari Suspects,Допрошенные подозреваемые сильвари
 Interrogation Log,Журнал допроса
-Interrupt the Inquest's experiments.,Прервите эксперименты Инквеста.
+Interrupt the Inquest's experiments.,Прервите эксперименты Inquest.
 Interrupt!,Прерывание!
 Intertwined Wood Band[s],Переплетённое деревянное [кольцо|кольца|колец]
 Interview with Born from Thunder,Интервью с Рожденным из Грома

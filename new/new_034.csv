@@ -123,7 +123,7 @@ english,translate
 ((NOT SEEN MONSTER ONLY Griffon Unarmed Land)),"((НЕ ВИДЕН ТОЛЬКО МОНСТР: грифон без оружия, суша))"
 (A group of Kryptis seem to be playing hide-and-seek.),"(Похоже, стайка криптисов играет в прятки.)"
 (A saurian is rampaging nearby.),(Неподалёку буйствует завр.)
-(A strange Inquest suit is lying here.),(Здесь лежит странный костюм Инквеста.)
+(A strange Inquest suit is lying here.),(Здесь лежит странный костюм Inquest.)
 "(As you touch the rune, you can feel a subtle power coursing under your fingers. An image flashes through your mind... An intricate circle, filled with stars. Seers are congregating on top of it.)","(Коснувшись руны, вы чувствуете, как под пальцами струится неуловимая сила. В сознании вспыхивает образ... Затейливый круг, усыпанный звёздами. На нём собираются провидцы.)"
 "(As you touch the rune, you can sense the depth of its magic. It's a little overwhelming. An image flashes through your mind... Grand temples and abbeys surround you. You suddenly feel a longing sadness.)","(Коснувшись руны, вы ощущаете глубину её магии. Она немного подавляет. В сознании вспыхивает образ... Вас окружают величественные храмы и аббатства. Вас вдруг охватывает тоскливая печаль.)"
 "(As you touch the rune, you think you hear a voice—you can't make out anything it's saying or what it is, but it feels angry. An image flashes through your mind... A graven image of a seer, standing guard.)","(Коснувшись руны, вы словно слышите голос — не разобрать ни слов, ни того, чей он, но он полон гнева. В сознании вспыхивает образ... Изваяние провидца, стоящего на страже.)"
@@ -179,7 +179,7 @@ english,translate
 (Optional) Talk with the other delegates about the vote.,(Необязательно) Обсудите голосование с другими делегатами.
 (Place the crystal into the terminal.),(Вставить кристалл в терминал.)
 (Press the glowing button.),(Нажать светящуюся кнопку.)
-(Put on the Inquest suit.),(Надеть костюм Инквеста.)
+(Put on the Inquest suit.),(Надеть костюм Inquest.)
 (ROARS IN PAIN),(РЁВ ОТ БОЛИ)
 (ROARS),(РЁВ)
 (Raise the platform to the next level.),(Поднять платформу на следующий уровень.)
@@ -188,7 +188,7 @@ english,translate
 (The lever doesn't budge. Centuries of disuse have caused it to stick.),(Рычаг не поддаётся. За века простоя он намертво прикипел.)
 (The next field on the travel papers asks you to fill out your race.),(Следующая графа в проездных документах требует указать вашу расу.)
 (The travel documents have a number of fields that require filling out. The first of these fields asks for you to enter your name.),"(В проездных документах есть несколько граф, которые нужно заполнить. Первая из них требует ввести ваше имя.)"
-"(There are a lot of Inquest missives inside, including several that suggest the execution of members that had been captured by the alliance and released, on the assumption that they talked.)","(Внутри множество донесений Инквеста, в том числе несколько с предложением казнить тех членов, что попали в плен к альянсу и были отпущены, — исходя из предположения, что они заговорили.)"
+"(There are a lot of Inquest missives inside, including several that suggest the execution of members that had been captured by the alliance and released, on the assumption that they talked.)","(Внутри множество донесений Inquest, в том числе несколько с предложением казнить тех членов, что попали в плен к альянсу и были отпущены, — исходя из предположения, что они заговорили.)"
 (There are golem parts placed here as materials in an unusual nest.),"(Здесь, в странном гнезде, разложены детали големов — как строительный материал.)"
 (This appears to be Renyak's personal log. Most of it is incoherent doodles. The ones you can make out appear to show various things exploding. There are also a couple hearts.),"(Похоже, это личный журнал Реньяка. Большая его часть — бессвязные каракули. На тех, что удаётся разобрать, изображены разные взрывающиеся штуки. Есть ещё пара сердечек.)"
 (This console appears to control the mechanism that raises the central platform to the next level. The controls are ready to be activated.),"(Похоже, эта консоль управляет механизмом, поднимающим центральную платформу на следующий уровень. Управление готово к работе.)"

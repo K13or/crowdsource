@@ -1,6 +1,6 @@
 english,translate
 "%str1%, our people are truly grateful for your help.","%str1%, наш народ искренне благодарен вам за помощь."
-"%str1%, thanks to your endeavors, the Inquest has lost both precious time and momentum in their ill-conceived research. Even though they outnumber us, we continually prove that brilliance trumps desperation. Keep up the good work.","%str1%, благодаря твоим усилиям Инквест потерял драгоценное время и импульс в своих неудачных исследованиях. Хотя они превосходят нас числом, мы постоянно доказываем, что гениальность побеждает отчаяние. Продолжай в том же духе."
+"%str1%, thanks to your endeavors, the Inquest has lost both precious time and momentum in their ill-conceived research. Even though they outnumber us, we continually prove that brilliance trumps desperation. Keep up the good work.","%str1%, благодаря твоим усилиям Inquest потерял драгоценное время и импульс в своих неудачных исследованиях. Хотя они превосходят нас числом, мы постоянно доказываем, что гениальность побеждает отчаяние. Продолжай в том же духе."
 "%str1%, what a pleasure to have worked with you. Although Dragon's influence continues to spread, with your help we've slowed the spread of his corruption. Thank you!","%str1%, как приятно было с вами работать. Хотя влияние Дракона продолжает распространяться, с вашей помощью мы замедлили распространение его осквернения. Спасибо!"
 %str1%. I send you respectful regards and appreciation for your assistance with my scouts. You came at exactly the right moment.,%str1%. Я выражаю вам свое почтение и признательность за помощь моим разведчикам. Вы появились в самый нужный момент.
 %str1%:,%str1%:
@@ -34,7 +34,7 @@ A+,Отлично
 Acquire a medical kit from the field hospitals adjacent to Nebo Terrace. Treat injured Seraph in the Bloodfields. Guard them as they return to the hospital.,"Возьмите аптечку в полевых госпиталях рядом с Nebo Terrace. Окажите помощь раненым Seraph на Кровавых полях. Охраняйте их, пока они возвращаются в госпиталь."
 "Acquire a mining suit from Rebel Isaak, and follow Isaak's instructions to inspire local dredge rebels.","Получите шахтерский костюм у повстанца Исаака и следуйте инструкциям Исаака, чтобы вдохновить местных повстанцев-дредж."
 "Activate beacons to lure out Branded, destroy Branded crystals, and cull Branded creatures.","Активируйте маяки, чтобы выманить Клейменных, уничтожьте Клеймённые кристаллы и истребите Клейменных существ."
-"Activate mini-conduits, stop Inquest interference, and destroy energy distortions and mosquitoes drawn to the grid.","Активируйте мини-кондукторы, пресекайте вмешательство Инквеста и уничтожайте искажения энергии и москитов, слетающихся на сеть."
+"Activate mini-conduits, stop Inquest interference, and destroy energy distortions and mosquitoes drawn to the grid.","Активируйте мини-кондукторы, пресекайте вмешательство Inquest и уничтожайте искажения энергии и москитов, слетающихся на сеть."
 "Activate storm cloud generators and energy storage containers, and remove roaming sparks from the lab.","Активируйте генераторы грозовых облаков и контейнеры для хранения энергии, а также удалите блуждающие искры из лаборатории."
 "Activate surveillance equipment, revive researchers, and reduce the ettin population.","Активируйте оборудование для наблюдения, оживляйте исследователей и сокращайте популяцию эттинов."
 Advances in Dwarven Archaeology,Достижения в археологии дварфов
@@ -147,7 +147,7 @@ Assist the ancient golems.,Помогите древним големам.
 Assist the asuran researchers.,Помогите асурским исследователям.
 Assist the castaways around Hullgarden.,Помогите потерпевшим крушение в районе Халлгарден.
 Assist the charr delegation.,Помогите делегации чарров.
-Assist the hunters in maintaining their camp and protecting the wildlife from the Inquest.,Помогите охотникам поддерживать лагерь и защищать дикую природу от Инквеста.
+Assist the hunters in maintaining their camp and protecting the wildlife from the Inquest.,Помогите охотникам поддерживать лагерь и защищать дикую природу от Inquest.
 "Assist the kodan by undertaking surveys, keeping the camp running, and helping with whatever other odds and ends they may need.","Помогайте коданам, проводя исследования, поддерживая работу лагеря и помогая с любыми другими мелкими делами, которые могут им понадобиться."
 Assist the kodan in researching the titan blight.,Помогите коданам в исследовании титановой порчи.
 "Assist the locals by repairing boats, rescuing villagers, cleaning debris, beating up riffraff, and donating Shinota blackfins to Hall Director Soohee.","Помогите местным, ремонтируя лодки, спасая жителей, убирая обломки, избивая сброд и жертвуя черноплавников шиноты директору зала Сухи."
@@ -199,7 +199,7 @@ Braxa Scalehunter is glad to have your help.,Braxa Scalehunter рада ваше
 "Break up fights, salvage shipwrecked goods, return pillaged supplies, test Mehdi's grog, rouse sleeping corsairs, and catch bombs with water buckets.","Разнимайте драки, спасайте товары с затонувших кораблей, возвращайте награбленное, пробуйте грог Mehdi, будите спящих корсаров и ловите бомбы ведрами с водой."
 Brilliant Minds,Блестящие умы
 Brilliant work you've done.,Блестящая работа.
-"Bring Blopp lush kelp, defeat Inquest, neutralize poisonous ampoules, and defeat crazed hylek.","Принеси Блоппу сочные водоросли, победи Инквест, нейтрализуй ядовитые ампулы и победи безумных хилеков."
+"Bring Blopp lush kelp, defeat Inquest, neutralize poisonous ampoules, and defeat crazed hylek.","Принеси Блоппу сочные водоросли, победи Inquest, нейтрализуй ядовитые ампулы и победи безумных хилеков."
 "Bring corsair supplies and tasteless roots to the supply depot, and rid the allied encampment of Awakened spies.",Доставьте припасы корсаров и безвкусные коренья на склад снабжения и избавьте лагерь союзников от шпионов Пробуждённых.
 "Bring firefly essence to alchemy tables, set spike traps, and stomp Orrian grub holes.","Принесите эссенцию светлячков к алхимическим столам, установите ловушки с шипами и растопчите норы оррианских личинок."
 "Bring fresh food to the starving Seraph soldiers, kill White Mantle, subdue angry mobs, and bring goods to merchants.","Приносите свежую еду голодающим солдатам Серафимов, убивайте White Mantle, усмиряйте разъяренные толпы и доставляйте товары торговцам."
@@ -230,7 +230,7 @@ Check bushes for bandit spies and ambushers. Return Seraph supplies to Goran. He
 "Check traps for hostile creatures, break drake eggs, and kill drakes and skale in the river.","Проверяйте ловушки на наличие враждебных существ, разбивайте яйца дрейков, а также убивайте дрейков и скейлов в реке."
 Chief Fin'kriktik approves.,Вождь Фин'криктик одобряет.
 Cin Fursarai thanks you.,Cin Fursarai благодарит тебя.
-"Clean golem pollution, cleanse infected wildlife, and fight off the Inquest.","Очистите големов от загрязнений, исцелите заражённую дикую природу и дайте отпор Инквесту."
+"Clean golem pollution, cleanse infected wildlife, and fight off the Inquest.","Очистите големов от загрязнений, исцелите заражённую дикую природу и дайте отпор Inquest."
 "Clean immature toxic stalks, dissipate clouds of deadly gas, recover the badges of fallen Seraph, and defeat Toxic Alliance, centaurs and bandits.","Очистите незрелые токсичные стебли, рассейте облака смертельного газа, верните значки павших Серафимов и победите Toxic Alliance, кентавров и бандитов."
 "Clean up chaotic material, kill irradiated rats and chaos beasts, and get the skritt to stop collecting chaotic material.","Убирайте хаотическую материю, убивайте облученных крыс и хаотических зверей, а также не давайте скриттам собирать хаотическую материю."
 "Clean up pollution, destroy turrets and recording devices, and kill Inquest.","Убирайте загрязнения, уничтожайте турели и записывающие устройства, а также убивайте членов Inquest."
@@ -244,7 +244,7 @@ Clear out predators and Separatists near Tyler's Bivouac.,Зачистите х�
 "Clear tower debris to rescue quaggans, kill quaggans' predators, and collect tasty crabmeat for Doolsileep.","Расчистите обломки башни, чтобы спасти квагганов, убейте хищников квагганов и соберите вкусное крабье мясо для Дулислипа."
 "Close portals to the Underworld, vanquish portal minions, and put tortured spirits to rest.","Закрывайте порталы в подземный мир, побеждайте прислужников порталов и упокаивайте замученных духов."
 "Collect dog tags, destroy Modniir equipment, kill centaurs, and free prisoners.","Собирайте жетоны, уничтожайте снаряжение Моднииров, убивайте кентавров и освобождайте пленных."
-"Collect earth elemental cores to power and repair golems, stop Inquest golems from opening fissures, and kill destroyers.","Собирайте ядра земляных элементалей, чтобы заряжать и чинить големов, мешайте големам Инквест открывать разломы и убивайте уничтожителей."
+"Collect earth elemental cores to power and repair golems, stop Inquest golems from opening fissures, and kill destroyers.","Собирайте ядра земляных элементалей, чтобы заряжать и чинить големов, мешайте големам Inquest открывать разломы и убивайте уничтожителей."
 "Collect grub meat, light torches to draw out pests, destroy faulty turrets, and protect the skritt.","Собирай мясо личинок, зажигай факелы, чтобы выманить вредителей, уничтожай неисправные турели и защищай скриттов."
 "Collect quaggan treasures, defeat krait, and free krait prisoners.","Собирайте сокровища квагганов, побеждайте крайт и освобождайте пленных крайт."
 "Collect volcanic rocks, investigate suspicious mounds, and destroy burrows.","Собирайте вулканические породы, исследуйте подозрительные насыпи и уничтожайте разломы."
@@ -310,7 +310,7 @@ Demonstrate your fishing skills to the village fishermen.,Продемонстр
 "Destroy Risen ambushes, rotmouths, and turrets.","Уничтожайте засады Risen, гнилоротых и турели."
 "Destroy Separatist siege weapons and weapon plans, steal their siege weapon ammo, and rescue charr captives.","Уничтожайте осадные орудия и чертежи оружия сепаратистов, крадите их боеприпасы и спасайте пленных чарр."
 "Destroy any signs of the dragon's corruption, including his worshippers.","Уничтожайте любые признаки осквернения дракона, включая его последователей."
-"Destroy containment cells, tinker with power supply equipment, and dispatch the Inquest.","Уничтожьте камеры сдерживания, разберитесь с оборудованием для подачи энергии и разберитесь с Инквестом."
+"Destroy containment cells, tinker with power supply equipment, and dispatch the Inquest.","Уничтожьте камеры сдерживания, разберитесь с оборудованием для подачи энергии и разберитесь с Inquest."
 Destroy corrupted ice blocking the main road. Help the Lionguard defending Snowhawk Landing's northern border. Defeat any icebrood in the area.,"Уничтожьте осквернённый лед, блокирующий главную дорогу. Помогите Львиной страже защитить северную границу Сноухок-Лэндинг. Победите всех ледяных порождений в округе."
 "Destroy corrupted plants, husks, and thorns; fight the Nightmare Court and their minions; and free prisoners.","Уничтожайте оскверненные растения, шелуху и шипы; сражайтесь с Nightmare Court и их приспешниками; освобождайте пленных."
 "Destroy dredge mortars, turrets, APCs, towers, and reinforcements, and clear out cave spiders and their nests.","Уничтожайте мортиры, турели, БТР, башни и подкрепления dredge, а также зачищайте пещерных пауков и их гнезда."

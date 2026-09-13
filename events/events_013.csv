@@ -383,7 +383,7 @@ In Pursuit of Knowledge,В погоне за знаниями
 "In fact, he'll be the one collecting your ransom.","На самом деле, именно он будет собирать ваш выкуп."
 In the healing phase,В фазе исцеления
 "In this wardband, we take our objectives one at a time! You carry out your orders, and if you live, I'll give you new ones. Understood?","В этом отряде мы выполняем задачи по очереди! Выполняй приказы, и если выживешь, я дам тебе новые. Понятно?"
-Inadequate defenses reported. Cease destruction of Inquest property.,Зафиксирована недостаточная защита. Прекратите уничтожение собственности Инквеста.
+Inadequate defenses reported. Cease destruction of Inquest property.,Зафиксирована недостаточная защита. Прекратите уничтожение собственности Inquest.
 Incantation time: x:xx,Время заклинания: x:xx
 Incinerated Husks killed,Сожженных оболочек убито
 Incoming from the west!,Нападение с запада!
@@ -408,10 +408,10 @@ Inner Fortress,Внутренняя крепость
 Innkeeper Klement,Трактирщик Klement
 Inquest Attacker's Strength,Inquest Attacker's Strength
 Inquest Control,Inquest Control
-Inquest Defeated,Инквест побежден
+Inquest Defeated,Inquest побежден
 Inquest Energy Tower,Inquest Energy Tower
 Inquest Forces,Inquest Forces
-Inquest Forces remaining: x,Осталось сил Инквеста: x
+Inquest Forces remaining: x,Осталось сил Inquest: x
 Inquest Gate Control I,Inquest Gate Control I
 Inquest Gate Control II,Inquest Gate Control II
 Inquest Gate Control III,Inquest Gate Control III
@@ -423,31 +423,31 @@ Inquest Invasion,Inquest Invasion
 Inquest Krewe Leader's Patience,Inquest Krewe Leader's Patience
 Inquest Morale,Inquest Morale
 Inquest Ornithologist,Inquest Ornithologist
-Inquest Portals destroyed,Порталы Инквеста уничтожены
+Inquest Portals destroyed,Порталы Inquest уничтожены
 Inquest Power Generators destroyed,Генераторов энергии Inquest уничтожено
 Inquest Synergetics Expert,Inquest Synergetics Expert
 Inquest Tech Sample,Inquest Tech Sample
 Inquest Technician appears near Researcher Nixx.,Technician Inquest появляется рядом с Researcher Nixx.
 Inquest Thief,Inquest Thief
 Inquest assault will subside in: 5:00,Атака Inquest стихнет через: 5:00
-Inquest control:,Контроль Инквеста:
-Inquest determination: %num1%%%,Решимость Инквеста: %num1%%%
-Inquest guards remaining: x,Осталось охранников Инквеста: x
+Inquest control:,Контроль Inquest:
+Inquest determination: %num1%%%,Решимость Inquest: %num1%%%
+Inquest guards remaining: x,Осталось охранников Inquest: x
 Inquest have invaded the Golemagical Institute! They must be scavenging from the wreckage of Prototype X to steal technology. We must remove them and reclaim my research space!,"Inquest вторглись в Golemagical Institute! Они, должно быть, роются в обломках Prototype X, чтобы украсть технологии. Мы должны устранить их и вернуть мое исследовательское пространство!"
-Inquest killed,Инквест убито
+Inquest killed,Inquest убито
 Inquest looting finished in: 15:00,Мародерство Inquest завершится через: 15:00
-Inquest morale: %num1%%%,Боевой дух Инквеста: %num1%%%
+Inquest morale: %num1%%%,Боевой дух Inquest: %num1%%%
 Inquest occupier morale: x%,Боевой дух оккупантов Inquest: x%
-Inquest pod,Капсула Инквеста
+Inquest pod,Капсула Inquest
 Inquest portals disabled,Порталы Inquest отключены
-"Inquest reinforcements have been neutralized. Quickly, take down the bridge!","Подкрепление Инквеста нейтрализовано. Быстрее, разрушайте мост!"
-Inquest reinforcements! Stay alert and take them out!,Подкрепление Инквеста! Будьте начеку и устраните их!
-Inquest remaining,Остатки Инквеста
-Inquest remaining: %num1%%%,Осталось заданий от Инквеста: %num1%%%
+"Inquest reinforcements have been neutralized. Quickly, take down the bridge!","Подкрепление Inquest нейтрализовано. Быстрее, разрушайте мост!"
+Inquest reinforcements! Stay alert and take them out!,Подкрепление Inquest! Будьте начеку и устраните их!
+Inquest remaining,Остатки Inquest
+Inquest remaining: %num1%%%,Осталось заданий от Inquest: %num1%%%
 Inquest security arrives in: 12:00,Охрана ИнКвеста прибудет через: 12:00
-Inquest siphon all magic in: x:xx,Инквест выкачает всю магию через: x:xx
-Inquest-Augmented Steward of Galdra,Усиленный Инквестом Стюард из Galdra
-Inquest: X Crystal Shards,Инквест: X осколков кристалла
+Inquest siphon all magic in: x:xx,Inquest выкачает всю магию через: x:xx
+Inquest-Augmented Steward of Galdra,Усиленный Inquest Стюард из Galdra
+Inquest: X Crystal Shards,Inquest: X осколков кристалла
 Insects filtered out,Насекомые отфильтрованы
 Insect—and—ley—line—correlation—analysis: connection—is—strong.,Анализ—корреляции—насекомых—и—лей-линий: связь—сильная.
 Inside: Destroy the Leviathan's Uvula,Внутри: Уничтожьте язычок левиафана

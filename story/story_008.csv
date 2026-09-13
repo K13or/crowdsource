@@ -242,7 +242,7 @@ Search the basement for Maeva.,Обыщите подвал в поисках Mae
 Search the camp for clues.,Обыщите лагерь в поисках улик.
 Search the courthouse for the treasure.,Обыщи здание суда в поисках сокровищ.
 Search the dredge cave for more evidence.,Обыщите пещеру дрегов в поисках улик.
-Search the dredge mine for the Inquest.,Обыщи шахту дрегов в поисках Инквеста.
+Search the dredge mine for the Inquest.,Обыщи шахту дрегов в поисках Inquest.
 Search the houses for the Arcane Eye's hidden base.,Обыщите дома в поисках скрытой базы Arcane Eye.
 Search the lake for Snarl and his warband.,Обыщи озеро в поисках Snarl и его отряда.
 Search the mine for the dredge prototype weapon.,Обыщите шахту в поисках прототипа оружия дреджей.
@@ -258,7 +258,7 @@ Search the underground.,Обыщите подземелье.
 Secure Hawke Heart.,Обезопась Hawke Heart.
 Secure the Altar of Grenth.,Защитить Алтарь Грента.
 Secure the Funhouse.,Защитить Комнату Ужасов.
-Secure the archives by clearing out the Inquest Agents.,"Обеспечьте безопасность архивов, уничтожив агентов Инквеста."
+Secure the archives by clearing out the Inquest Agents.,"Обеспечьте безопасность архивов, уничтожив агентов Inquest."
 Secure the courtyard.,Обезопасьте внутренний двор.
 Secure the drop site for the Searing Cauldron.,Обеспечьте безопасность места сброса для Пылающего Котла.
 Secure the entrance to the Hawke Heart.,Обезопась вход в Hawke Heart.
@@ -282,7 +282,7 @@ Seek out Carys on the beach near Annwen.,Найдите Carys на пляже в
 "Sergeant Bigsby and I were set up by Captain Tervelan, but we escaped the trap. When I caught up with Tervelan, he confessed that Minister Arton was the mastermind behind the ambush of Falcon Company.","Sergeant Bigsby и я попали в засаду, устроенную Captain Tervelan, но мы сбежали. Когда я настиг Tervelan, он признался, что Minister Arton был вдохновителем засады на Falcon Company."
 Sergeant Hal left Tervelan's command after the Screaming Falcons were ambushed. He directed me toward a Lionguard who was also a member of the company. She might know more.,"Sergeant Hal покинул отряд Tervelan после того, как Screaming Falcons попали в засаду. Он направил меня к Lionguard, которая также была членом этой роты. Возможно, она знает больше."
 Servant cheers for %str1%.,Слуга приветствует %str1%.
-Set up defenses to stop the Inquest attack.,"Установите оборону, чтобы остановить атаку Инквеста."
+Set up defenses to stop the Inquest attack.,"Установите оборону, чтобы остановить атаку Inquest."
 Set up more defenses.,Установите больше защитных сооружений.
 Set up the three prototype turrets.,Установите три прототипа турелей.
 "Settle down Varg, you're embarassing yourself again.","Успокойся, Varg, ты снова позоришься."
@@ -302,7 +302,7 @@ She's taken a slight interest in me. I can't say that I mind...she's very well c
 Shh. Here they come.,Тсс. Вот они идут.
 Shhhhh. She'll hear you. It is. They finally let her out.,Тс-с-с-с. Она услышит вас. Это она. Её наконец-то выпустили.
 "Shodd and I conducted the final test on the upgraded Infinity Ball, which quickly turned into a dangerous and surreal fiasco: variant versions of ourselves from a parallel universe came through with an army of mechanical fiends, bent on conquering this world like they conquered their own. Fortunately, Zojja was there to help us fight them off. I don't think Shodd learned his lesson yet, but I did: too much ego in a genius is like too much arcano-static energy in your crystalline storage matrix—spectacular to behold, but it will inevitably blow up in your face.","Мы с Shodd провели финальное испытание улучшенного Infinity Ball, которое быстро превратилось в опасное и сюрреалистичное фиаско: через него прорвались наши альтернативные версии из параллельной вселенной с армией механических чудовищ, намеревающихся покорить этот мир так же, как они покорили свой. К счастью, Zojja была рядом и помогла нам отбиться. Не думаю, что Shodd усвоил урок, но я — да: слишком большое эго у гения — это как слишком много аркано-статической энергии в кристаллической матрице хранения: зрелище эффектное, но в конечном итоге оно неизбежно взорвется у тебя в руках."
-"Shodd and I managed to obtain the power source we need from the Inquest, but the plan did not go off without a hitch...in fact, like all of Shodd's plans so far, this one was decidedly hitch-heavy. As we accomplished our mission, however, we decided to press on and take the final step toward making the Infinity Ball work as it was always intended to work.","Shodd и мне удалось добыть нужный источник энергии у Инквестов, но план прошёл не без сучка и задоринки... на самом деле, как и все планы Shodd до этого, этот был полон проблем. Однако, выполнив задание, мы решили двигаться дальше и сделать последний шаг к тому, чтобы Infinity Ball заработал так, как и должен был."
+"Shodd and I managed to obtain the power source we need from the Inquest, but the plan did not go off without a hitch...in fact, like all of Shodd's plans so far, this one was decidedly hitch-heavy. As we accomplished our mission, however, we decided to press on and take the final step toward making the Infinity Ball work as it was always intended to work.","Shodd и мне удалось добыть нужный источник энергии у Inquest, но план прошёл не без сучка и задоринки... на самом деле, как и все планы Shodd до этого, этот был полон проблем. Однако, выполнив задание, мы решили двигаться дальше и сделать последний шаг к тому, чтобы Infinity Ball заработал так, как и должен был."
 Shodd beckons to %str1%.,Shodd манит %str1%.
 "Shodd set up a test for my Infinity Ball at the Megahedron Collider, but the results were...problematic. After the collider supercharged the Infinity Ball, a portal opened up and strange mechanized monsters came pouring out. We took care of them, and despite some serious misgivings on my part, Shodd and I agreed to continue with our tests—in a much safer and more remote location.","Shodd устроил испытание для моего Infinity Ball на Megahedron Collider, но результаты были... проблематичными. После того как коллайдер зарядил Infinity Ball, открылся портал, и из него хлынули странные механизированные монстры. Мы разобрались с ними, и, несмотря на серьёзные сомнения с моей стороны, мы с Shodd договорились продолжить испытания — в гораздо более безопасном и отдаленном месте."
 Shore up the lab's defenses.,Укрепите оборону лаборатории.

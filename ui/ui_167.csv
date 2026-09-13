@@ -1,7 +1,7 @@
 english,translate
 You need an Exalted key to open this chest.,"Чтобы открыть этот сундук, нужен ключ Возвышенных."
 You need an ingot to use this machine.,"Чтобы использовать этот механизм, нужен слиток."
-You need an Inquest keypad to access this terminal.,"Чтобы получить доступ к этому терминалу, нужна клавиатура Инквеста."
+You need an Inquest keypad to access this terminal.,"Чтобы получить доступ к этому терминалу, нужна клавиатура Inquest."
 You need bait in order to catch a turtle's attention.,"Нужна приманка, чтобы привлечь внимание черепахи."
 You need both a Fractal Encryption and a Fractal Encryption Key.,"Нужны и фрактальное шифрование, и ключ фрактального шифрования."
 You need both a Mist-Hardened Lockbox and a Mist-Hardened Lockbox Key.,"Нужны и закалённый Туманами ларец, и ключ от него."
@@ -238,7 +238,7 @@ You're carrying the Orb of Ascension.,Вы несёте Сферу Вознес�
 You're covered in spores!,Вы покрыты спорами!
 You're currently carrying the maximum amount of crates.,Вы сейчас несёте максимальное количество ящиков.
 You're currently in the spirit realm. Collect energy to amplify your damage to Tae-Sung's defiance.,"Вы сейчас в царстве духов. Собирайте энергию, чтобы усилить свой урон по стойкости Тай-Сун."
-"You're determined the mystery relic detected by the VOED has three pieces. Your krewe has two, the Inquest has the other—and since they extorted it from you in the first place, it's only fair you should steal it back. The plan is to hit the Inquest caravan while the treasure is in transit. That'll teach them to mess with your krewe!","Вы уверены, что таинственная реликвия, обнаруженная ВОЭД, состоит из трёх частей. У вашего крю есть две, у Инквеста — третья, а раз уж они выманили её у вас первыми, будет только честно украсть её обратно. План — ударить по каравану Инквеста, пока сокровище в пути. Это научит их не связываться с вашим крю!"
+"You're determined the mystery relic detected by the VOED has three pieces. Your krewe has two, the Inquest has the other—and since they extorted it from you in the first place, it's only fair you should steal it back. The plan is to hit the Inquest caravan while the treasure is in transit. That'll teach them to mess with your krewe!","Вы уверены, что таинственная реликвия, обнаруженная ВОЭД, состоит из трёх частей. У вашего крю есть две, у Inquest — третья, а раз уж они выманили её у вас первыми, будет только честно украсть её обратно. План — ударить по каравану Inquest, пока сокровище в пути. Это научит их не связываться с вашим крю!"
 You're doing okay. You just need rest.,У тебя всё неплохо. Просто нужен отдых.
 You're doomed to explode—find containment immediately!,Тебе суждено взорваться — немедленно найди укрытие!
 "You're drowning. To be saved, your bubble needs to be burst.","Ты тонешь. Чтобы спастись, нужно лопнуть твой пузырь."
@@ -338,7 +338,7 @@ You've defeated Canach!,Вы победили Канаха!
 You've defeated many enemies without dying.,"Вы победили многих врагов, не погибнув."
 You've defeated multiple enemies in row.,Вы победили нескольких врагов подряд.
 You've defeated Subdirector NULL!,Вы победили заместителя директора NULL!
-"You've determined that the mystery relic has three pieces, and your krewe has acquired two. Now to steal back the first piece that the Inquest extorted from you. Nothing like a little counter-espionage to keep those villains in their place!","Вы уверены, что таинственная реликвия состоит из трёх частей, и ваш крю добыл две. Теперь нужно украсть обратно первую часть, что вымогнул у вас Инквест. Нет ничего лучше небольшого контршпионажа, чтобы поставить этих злодеев на место!"
+"You've determined that the mystery relic has three pieces, and your krewe has acquired two. Now to steal back the first piece that the Inquest extorted from you. Nothing like a little counter-espionage to keep those villains in their place!","Вы уверены, что таинственная реликвия состоит из трёх частей, и ваш крю добыл две. Теперь нужно украсть обратно первую часть, что вымогнул у вас Inquest. Нет ничего лучше небольшого контршпионажа, чтобы поставить этих злодеев на место!"
 You've died in this instance and may not reenter it.,Вы погибли в этом инстансе и не можете войти в него снова.
 You've discovered a special prize this round.,Вы нашли особый приз в этом раунде.
 You've discovered an adventure! Adventures are special challenges that you can manually activate at certain locations. Pay attention to this area for further instructions when you begin an adventure.,"Вы обнаружили приключение! Приключения — это особые испытания, которые можно активировать вручную в определённых местах. Следите за этой зоной для дальнейших указаний, когда начнёте приключение."
@@ -442,7 +442,7 @@ You've smelted an ingot.,Вы выплавили слиток.
 You've somehow made the curse stronger. The text is permanently illegible.,Вы каким-то образом усилили проклятие. Текст теперь навсегда неразборчив.
 You've spoken to Inspector Kiel and are now ready to search the shoreline.,Вы поговорили с Inspector Kiel и теперь готовы обыскать побережье.
 "You've started the mine sequence. Set the code, or it will explode when time runs out.","Вы запустили последовательность подрыва мины. Установите код, или она взорвётся по истечении времени."
-"You've stopped Varkk's evil scheme to sell out your krewe for a seat on the Arcane Council, but now it's time to deal with Teyo and prevent the Inquest from using your krewe's Interspatial Translocator for their own evil purposes.","Вы остановили злой план Варкка продать ваш крю ради места в Арканическом Совете, но теперь пора разобраться с Тейо и не дать Инквесту использовать межпространственный транслокатор вашего крю в своих злых целях."
+"You've stopped Varkk's evil scheme to sell out your krewe for a seat on the Arcane Council, but now it's time to deal with Teyo and prevent the Inquest from using your krewe's Interspatial Translocator for their own evil purposes.","Вы остановили злой план Варкка продать ваш крю ради места в Арканическом Совете, но теперь пора разобраться с Тейо и не дать Inquest использовать межпространственный транслокатор вашего крю в своих злых целях."
 You've strengthened the dredge revolution. Good job!,Вы укрепили революцию дреджей. Отличная работа!
 You've stung the Flame Legion with your activities.,Вы досадили Flame Legion своими действиями.
 "You've successfully apprehended Mai Trin, ending her reign of terror.","Вы успешно задержали Mai Trin, положив конец её царству ужаса."

@@ -70,7 +70,7 @@ Detonate Poison Pot,Детонировать ядовитый горшок
 Detonate Self,Самоподрыв
 Detonate Snowman Turret,Детонировать турель снеговика
 Detonate Static Conduit,Детонировать статический канал
-"Detonate the E.M.P. to cause an electrical surge, shutting down any Inquest sapper devices. Dazes and damages nearby foes.","Детонировать ЭМИ, чтобы вызвать электрический всплеск, отключающий любые сапёрные устройства Инквеста. Оглушает и наносит урон ближайшим врагам."
+"Detonate the E.M.P. to cause an electrical surge, shutting down any Inquest sapper devices. Dazes and damages nearby foes.","Детонировать ЭМИ, чтобы вызвать электрический всплеск, отключающий любые сапёрные устройства Inquest. Оглушает и наносит урон ближайшим врагам."
 Detonate the flame blast for a large explosion.,Детонировать огненный взрыв для большого взрыва.
 "Detonate the golem arm to cause an electrical surge, dazing and damaging nearby foes.","Детонировать руку голема, чтобы вызвать электрический всплеск, оглушая и нанося урон ближайшим врагам."
 Detonate the Jurisdiction projectile.,Детонировать снаряд Юрисдикции.
@@ -299,9 +299,9 @@ Disable Skill Highlighting,Отключить подсветку навыков
 Disable Spikes,Отключить шипы
 Disable Text Decoding,Отключить декодирование текста
 Disable text decoding,Отключить декодирование текста
-Disable the Awakened Inquest cannon before it powers up.,Отключите пушку Пробуждённых Инквестов до её активации.
+Disable the Awakened Inquest cannon before it powers up.,Отключите пушку Пробуждённых Inquest до её активации.
 Disable the floating health bars above your teammates' heads in a PvP match.,Отключить плавающие полоски здоровья над головами союзников в PvP-матче.
-Disable the Inquest cannon so allied forces can repurpose it.,"Отключите пушку Инквестов, чтобы союзные силы могли её перепрофилировать."
+Disable the Inquest cannon so allied forces can repurpose it.,"Отключите пушку Inquest, чтобы союзные силы могли её перепрофилировать."
 Disable Ward,Отключить барьер
 Disable Ward Lock,Заблокировать барьер
 Disabled during Level Boost,Отключено во время повышения уровня
@@ -405,7 +405,7 @@ Dishonorable play penalty. You cannot enter battle at this time.,Штраф за
 Dishonorable play penalty. You cannot join a party at this time.,Штраф за нечестную игру. Вы не можете присоединиться к группе в данный момент.
 Disillusioned Refugee,Разочарованный беженец
 Dislodge Runestone,Извлечь рунный камень
-Dismantled an Inquest golem clear-cutting the forest.,"Разобрал голема Инквеста, вырубавшего лес."
+Dismantled an Inquest golem clear-cutting the forest.,"Разобрал голема Inquest, вырубавшего лес."
 Dismiss All,Отклонить все
 Dismount your mount,Спешиться с ездового животного
 Disorienting Blast,Дезориентирующий взрыв
@@ -441,7 +441,7 @@ Disrupt grawl worship.,Прервать поклонение граулов.
 Disrupt Igne Mossheart's followers before they can complete their vile ritual.,"Прервать последователей Игне Моссхарт до того, как они завершат свой гнусный ритуал."
 Disrupt Karax's defiance bar to destroy his shield!,"Прервите полосу непокорности Каракса, чтобы уничтожить его щит!"
 Disrupt Purist activity in Kaineng City for Hui.,Прервать деятельность пуристов в городе Каинонг для Хуи.
-Disrupt the Inquest operations.,Прервать операции Инквеста.
+Disrupt the Inquest operations.,Прервать операции Inquest.
 Disrupt the Jade Brotherhood in Kaineng City to get in Suyin's good graces.,"Прервать деятельность Братства Нефрита в городе Каинонг, чтобы заслужить расположение Суйин."
 Disrupt the Svanir in Bitterfrost Frontier.,Прервать действия Сванира в Биттерфрост-Фронтире.
 Disrupt the Svanir.,Прервать действия Сванира.

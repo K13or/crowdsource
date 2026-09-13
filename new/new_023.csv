@@ -5,7 +5,7 @@ Recipe[s]: Commander's Pearl Rod,Рецепт[|а|ов]: жемчужный же
 Recipe[s]: Commander's Pearl Sabre,Рецепт[|а|ов]: жемчужная сабля командира
 Recipe[s]: Commander's Pearl Shell,Рецепт[|а|ов]: жемчужная ракушка командира
 Recipe[s]: Commander's Pearl Siren,Рецепт[|а|ов]: жемчужная сирена командира
-Recipe[s]: Extended Potion of Inquest Slaying,Рецепт[|а|ов]: усиленное зелье истребления Инквеста
+Recipe[s]: Extended Potion of Inquest Slaying,Рецепт[|а|ов]: усиленное зелье истребления Inquest
 Recipe[s]: Feast of Avocado Salsa,Рецепт[|а|ов]: пир сальсы из авокадо
 Recipe[s]: Feast of Bean Salad,Рецепт[|а|ов]: пир фасолевого салата
 Recipe[s]: Feast of Black Pepper Cactus Salad,Рецепт[|а|ов]: пир салата из кактуса с чёрным перцем
@@ -300,7 +300,7 @@ Recover Seraph Badge,Забрать значок Серафимов
 Recover all %num2% Elonian armor pieces through completing the Personal Story.,"Верните все %num2% элонских доспехов, завершив Личную историю."
 "Recover all %num2% Elonian weapons by completing events, looting chests, and identifying items in renown regions of the Crystal Desert.","Верните все %num2% элонских оружий, выполняя события, вскрывая сундуки и опознавая предметы в почётных регионах Crystal Desert."
 Recover the chugger from the dredge.,Отбейте тягач у дреджей.
-Recover the last piece of the artifact from the Inquest.,Заберите у Инквеста последнюю часть артефакта.
+Recover the last piece of the artifact from the Inquest.,Заберите у Inquest последнюю часть артефакта.
 Recover the last piece of the artifact while it's in transit.,"Заберите последнюю часть артефакта, пока её перевозят."
 Recover your krewe's translocator.,Верните транслокатор своего крю.
 Recovered %num1% of %num2% Mementos,Возвращено %num1% из %num2% памятных вещей
@@ -494,8 +494,8 @@ Rescue Tchkik and the skritt treasure hunters.,Спасите Чкика и ох
 Rescue Tegwen from the krait.,Спасите Тегвен от крайтов.
 Rescue Ysvelta from the Nightmare Court.,Спасите Исвельту от Nightmare Court.
 Rescue Zojja from the Funhouse.,Спасите Зоджу из Комнаты смеха.
-Rescue the Priory researchers from the Inquest.,Спасите исследователей Приората от Инквеста.
+Rescue the Priory researchers from the Inquest.,Спасите исследователей Приората от Inquest.
 Rescue the captured townspeople from the centaurs.,Спасите пленённых горожан от кентавров.
 Rescue the spirit of the Wolf Havroun apprentice from the Mists.,Спасите дух послушника Волчьего Хавруна из Туманов.
-Rescue your krewemate Pol from the Inquest.,Спасите своего товарища по крю Пола от Инквеста.
+Rescue your krewemate Pol from the Inquest.,Спасите своего товарища по крю Пола от Inquest.
 Rescued %num1%/%num2% Prisoners,Спасено %num1%/%num2% пленников

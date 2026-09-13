@@ -63,7 +63,7 @@ Champion %str1%,Чемпион %str1%
 "Champion Advanced Assault Golem Noko Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпионского продвинутого штурмового голема Ноко
 "Champion Air Elemental Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпионского элементаля воздуха
 Champion Arid Devourer Cache[s],Сундук[|а|ов] чемпионского сухопутного пожирателя
-Champion Arid Inquest Cache[s],Сундук[|а|ов] чемпионского сухопутного Инквеста
+Champion Arid Inquest Cache[s],Сундук[|а|ов] чемпионского сухопутного Inquest
 "Champion Ark the White Tiger Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона Арка Белого Тигра
 "Champion Ash the Black Phoenix Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей Чемпиона Аша Чёрного Феникса
 "Champion Asmund the White Dolyak Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей чемпиона Асмунда Белого Дольяка
@@ -188,7 +188,7 @@ Chance to drop from Ascalonian ghosts in Grothmar Valley.,Шанс выпаде�
 Chance to drop from centaur enemies. Guaranteed from Modniir Ulgoth.,Шанс выпадения от врагов-кентавров. Гарантировано от Модниира Ульгота.
 Chance to drop from destroyer enemies. Guaranteed from megadestroyer.,Шанс выпадения от врагов-разрушителей. Гарантировано от мегаразрушителя.
 Chance to drop from icebrood enemies. Guaranteed from the Claw of Jormag.,Шанс выпадения от врагов-ледорогов. Гарантировано от Claw of Jormag.
-Chance to drop from Inquest enemies. Guaranteed from Golem Mark II or Mark III Suppressor Golem.,Шанс выпадения из врагов Инквест. Гарантированно выпадает с Подавителя голема II или III.
+Chance to drop from Inquest enemies. Guaranteed from Golem Mark II or Mark III Suppressor Golem.,Шанс выпадения из врагов Inquest. Гарантированно выпадает с Подавителя голема II или III.
 Chance to drop from karka enemies. Guaranteed from Karka Queen.,Шанс выпадения от врагов-карков. Гарантировано от Karka Queen.
 Chancel of Echoes,Придел Эха
 Chandelier[s],[Люстра|Люстры|Люстр]

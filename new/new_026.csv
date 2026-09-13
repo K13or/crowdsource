@@ -27,7 +27,7 @@ Specially Charged Energy Storage Tank,Особо заряженный накоп
 Spectating,Наблюдение
 Specter's Claw,Коготь призрака
 Spectral Temple Guard,Призрачный храмовый страж
-Sped Past Inquest Security,Охрана Инквеста пройдена на скорости
+Sped Past Inquest Security,Охрана Inquest пройдена на скорости
 Sped Through the Portal Puzzle in the Invariant Enclave Lab,Портальная головоломка в лаборатории Инвариантного анклава пройдена на скорости
 Speed and stupidity is not a winning combination.,Скорость и глупость — не выигрышное сочетание.
 Speed of the Battlefield,Скорость поля боя
@@ -182,9 +182,9 @@ Steal %num2% crabs.,Украдите %num2% крабов.
 Steal a foe's health for yourself.,Крадёт здоровье врага себе.
 Steal boons from enemies you strike with <c=@abilitytype>stealth attacks</c>. Striking a boonless foe with a stealth attack breaks their barrier instead.,"Крадёт благодати у врагов, по которым вы бьёте <c=@abilitytype>атаками из невидимости</c>. Если у врага нет благодатей, такая атака вместо этого разрушает его барьер."
 Steal gunpowder from the centaur camp.,Украдите порох из лагеря кентавров.
-Steal high-powered explosives from the Inquest.,Украдите мощную взрывчатку у Инквеста.
+Steal high-powered explosives from the Inquest.,Украдите мощную взрывчатку у Inquest.
 Steal the dredge weapon prototype.,Украдите опытный образец оружия дреджей.
-Steal the research from the Inquest.,Украдите исследования у Инквеста.
+Steal the research from the Inquest.,Украдите исследования у Inquest.
 Steals Boons,Крадёт благодати
 Steals Boons • Launches • Reflects Projectiles,Крадёт благодати • Отбрасывает • Отражает снаряды
 Steals Health • Generates Might and Regeneration,Крадёт здоровье • Даёт мощь и регенерацию
@@ -426,7 +426,7 @@ Successfully disperse %num2% Ley-Line Anomalies before they overload.,Успеш
 Successfully escort %num2% supply caravan[s].,Успешно сопроводите %num2% [караван|каравана|караванов] с припасами.
 Successfully gather resources %num2% times.,Успешно соберите ресурсы %num2% раз.
 Successfully prepare 10 ingredients in a row during a single event.,Успешно подготовьте 10 ингредиентов подряд за одно событие.
-Successfully stop the Inquest from capturing %num2% ley-line coalescences.,Не дайте Инквесту захватить %num2% слияний лей-линий.
+Successfully stop the Inquest from capturing %num2% ley-line coalescences.,Не дайте Inquest захватить %num2% слияний лей-линий.
 Succumb to the storm.,Поддайтесь буре.
 Sucessfully Planted %num1%/%num2% Listening Devices in Northern Drizzlewood Coast,Установлено %num1%/%num2% подслушивающих устройств на севере Моросистого побережья
 Such a meaningless death.,Какая бессмысленная смерть.

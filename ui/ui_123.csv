@@ -171,7 +171,7 @@ Repentance Season,Сезон покаяния
 Replace Sigil,Заменить сигил
 "Replaces gathering results with materials used in higher-level crafting recipes. Material types are determined by the type of node gathered from. Mithril ore, elder wood, and select cooking ingredients can be improved a limited number of times each day.","Заменяет результаты сбора на материалы, используемые в рецептах крафта более высокого уровня. Типы материалов определяются типом узла, с которого производится сбор. Мифриловая руда, древняя древесина и некоторые ингредиенты для готовки могут быть улучшены ограниченное количество раз в день."
 Replaces gathering results with materials used in lower-level crafting recipes. Material types are determined by the type of node gathered from.,"Заменяет результаты сбора на материалы, используемые в рецептах крафта более низкого уровня. Типы материалов определяются типом узла, с которого производится сбор."
-Replant trees razed by the Inquest.,"Посадите заново деревья, сожжённые Инквестом."
+Replant trees razed by the Inquest.,"Посадите заново деревья, сожжённые Inquest."
 Replay %str1% for achievements?,Повторить %str1% для достижений?
 Replay Sequence,Повторить последовательность
 Replay Story Mode (Level %num1%),Повторить сюжетный режим (уровень %num1%)
@@ -266,7 +266,7 @@ Requirements Breakdown:,Разбор требований:
 Requires %num1% more karma. Participate in events or help others with their story to earn more karma.,"Требуется ещё %num1% кармы. Участвуйте в событиях или помогайте другим с их историей, чтобы заработать больше кармы."
 Requires %str1%,Требуется %str1%
 Requires %str1% %num1%.,Требуется %str1% %num1%.
-Requires a functional Inquest technology target.,Требуется функционирующая цель технологии Инквеста.
+Requires a functional Inquest technology target.,Требуется функционирующая цель технологии Inquest.
 Requires an active sand shade.,Требуется активная песчаная тень.
 Requires Apprentice Handiworker Crafting and Homestead Expansion to purchase.,Для покупки требуется ремесло «Подмастерье-ремесленник» и расширение «Усадьба».
 Requires at least one completion of the Illuminating Amnytas achievement.,Требуется как минимум одно завершение достижения «Освещение Амнитаса».
@@ -332,12 +332,12 @@ Rescue prisoner.,Спасите заключенного.
 Rescue Protocol Active,Протокол спасения активен
 "Rescue Protocol is active. If you are put into the downed state, you can command your jade bot to revive you.<br><br>This skill is not available in PvP, WvW, raids, strikes, or fractals.","Rescue Protocol активен. Если вы перейдёте в состояние «повержен», вы сможете приказать своему нефритовому боту воскресить вас.<br><br>Это умение недоступно в PvP, WvW, рейдах, испытаниях и осколках."
 Rescue Protocol Recharging,Протокол спасения перезаряжается
-Rescue the captive Zephyrites from the Inquest in Dry Top.,Спасите пленных зефиритов от Инквест в Сухой Вершине.
+Rescue the captive Zephyrites from the Inquest in Dry Top.,Спасите пленных зефиритов от Inquest в Сухой Вершине.
 Rescue the captives before the grawl shaman can sacrifice them to the volcano in the Volcanic Fractal.,"Спасите пленников до того, как шаман граулов принесет их в жертву вулкану в Volcanic Fractal."
 Rescue the engineer.,Спасите инженера.
 Rescue the quaggan at Moogooloo in Kessex Hills from krait slavery.,Спасите кваггана из Мугулу в Kessex Hills от рабства крайтов.
 Rescue your skyscale from the Branded Ley-Line Anomaly in the Domain of Vabbi.,Спасите своего скайскейла от клеймённой Ley-Line Anomaly в Domain of Vabbi.
-Rescue your skyscale from the Inquest Golem Mark II in Mount Maelstrom.,Спасите своего скайскейла от голема Инквеста Марк II на Mount Maelstrom.
+Rescue your skyscale from the Inquest Golem Mark II in Mount Maelstrom.,Спасите своего скайскейла от голема Inquest Марк II на Mount Maelstrom.
 Rescue your skyscale from the shadow behemoth in Queensdale.,Спасите своего скайскейла от теневого бегемота в Квинсдейле.
 Rescue Zildi's Assist-o-Matic from the chak lobber near Rata Novus.,Спасите Ассист-о-Матик Зилди от метателя чаков возле Rata Novus.
 Rescued Passengers,Спасенные пассажиры

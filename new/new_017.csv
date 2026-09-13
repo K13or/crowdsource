@@ -49,12 +49,12 @@ Improve your building capabilities,Улучшить ваши способнос�
 Improve your repairing capabilities,Улучшить ваши способности к ремонту
 Improved Healing Power and Boon Duration,Улучшенные сила исцеления и длительность благодатей
 Improved Power and Condition Damage,Улучшенные сила и урон от состояний
-"In Blazeridge Steppes, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Consortium.","В Blazeridge Steppes не дайте Инквесту захватить %num2% слияний лей-линий, предварительно передав лей-энергию Консорциуму."
-"In Blazeridge Steppes, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Priory.","В Blazeridge Steppes не дайте Инквесту захватить %num2% слияний лей-линий, предварительно передав лей-энергию Приорату."
-"In Mount Maelstrom, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Consortium.","На Mount Maelstrom не дайте Инквесту захватить %num2% слияний лей-линий, предварительно передав лей-энергию Консорциуму."
-"In Mount Maelstrom, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Priory.","На Mount Maelstrom не дайте Инквесту захватить %num2% слияний лей-линий, предварительно передав лей-энергию Приорату."
-"In Snowden Drifts, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Consortium.","В Snowden Drifts не дайте Инквесту захватить %num2% слияний лей-линий, предварительно передав лей-энергию Консорциуму."
-"In Snowden Drifts, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Priory.","В Snowden Drifts не дайте Инквесту захватить %num2% слияний лей-линий, предварительно передав лей-энергию Приорату."
+"In Blazeridge Steppes, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Consortium.","В Blazeridge Steppes не дайте Inquest захватить %num2% слияний лей-линий, предварительно передав лей-энергию Консорциуму."
+"In Blazeridge Steppes, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Priory.","В Blazeridge Steppes не дайте Inquest захватить %num2% слияний лей-линий, предварительно передав лей-энергию Приорату."
+"In Mount Maelstrom, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Consortium.","На Mount Maelstrom не дайте Inquest захватить %num2% слияний лей-линий, предварительно передав лей-энергию Консорциуму."
+"In Mount Maelstrom, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Priory.","На Mount Maelstrom не дайте Inquest захватить %num2% слияний лей-линий, предварительно передав лей-энергию Приорату."
+"In Snowden Drifts, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Consortium.","В Snowden Drifts не дайте Inquest захватить %num2% слияний лей-линий, предварительно передав лей-энергию Консорциуму."
+"In Snowden Drifts, successfully stop the Inquest from capturing %num2% ley-line coalescences after contributing ley energy to the Priory.","В Snowden Drifts не дайте Inquest захватить %num2% слияний лей-линий, предварительно передав лей-энергию Приорату."
 "In a single event, successfully prepare 5 ingredients in a row for Alchemist Briella.",За одно событие подготовьте 5 ингредиентов подряд для алхимика Бриеллы.
 In a way. They are revered by humans.,В некотором роде. Люди их почитают.
 "In the short time I've been journeying, I've seen much. But...it has only made me want more.",За недолгое время в пути я повидал многое. Но... от этого лишь сильнее хочется ещё.
@@ -193,21 +193,21 @@ Inquest Machinist,Inquest Machinist
 Inquest Magimeter,Inquest Magimeter
 Inquest Medic,Inquest Medic
 Inquest Mount Package,Inquest Mount Package
-Inquest Mount Package now available!,Набор скакунов Инквеста уже доступен!
+Inquest Mount Package now available!,Набор скакунов Inquest уже доступен!
 Inquest Operative,Inquest Operative
 Inquest Pilferer,Inquest Pilferer
 Inquest Poison Ampoule,Inquest Poison Ampoule
 Inquest Prisoner,Inquest Prisoner
-Inquest Raptor Skin[s],Облик[|а|ов] раптора Инквеста
-Inquest Remaining,Осталось бойцов Инквеста
+Inquest Raptor Skin[s],Облик[|а|ов] раптора Inquest
+Inquest Remaining,Осталось бойцов Inquest
 Inquest Sharpshooter,Inquest Sharpshooter
-Inquest Squads Defeated,Отряды Инквеста побеждены
+Inquest Squads Defeated,Отряды Inquest побеждены
 Inquest Technician Greeza,Inquest Technician Greeza
 Inquest Technician Krim,Inquest Technician Krim
 Inquest Void-Emulation Specialist,Inquest Void-Emulation Specialist
-Inquest Weapons Stash,Тайник с оружием Инквеста
-Inquest-Controlled Stewards,Управляемые Инквестом стюарды
-Inquest-Enhanced Saurian,Улучшенный Инквестом завр
+Inquest Weapons Stash,Тайник с оружием Inquest
+Inquest-Controlled Stewards,Управляемые Inquest стюарды
+Inquest-Enhanced Saurian,Улучшенный Inquest завр
 Inquire about my blueprints in the Rata Sum archives.,Разузнайте о моих чертежах в архивах Рата-Сум.
 Insatiable Hunger,Ненасытный голод
 "Inscriptions upon the pages are not in a language familiar to you, but it's clear by its uncanny state of preservation and hum of magic that this tome contains powerful spells.","Надписи на страницах сделаны на незнакомом вам языке, но по сверхъестественной сохранности и гудению магии ясно: в этом фолианте заключены могущественные заклинания."
@@ -225,10 +225,10 @@ Intel Officer Hellena,Офицер разведки Хеллена
 Intentionally Sorted a Text into the Wrong Category,Текст намеренно отнесён не к той категории
 Interact with the casket near the Statue of Grenth in the Temple of Grenth in the Cursed Shore.,Взаимодействуйте с гробом у статуи Гренса в храме Гренса на Cursed Shore.
 Intercept %num2% passes in keg brawl.,Перехватите %num2% передач в бочковой потасовке.
-Intercept the Inquest squad in the area.,Перехватите отряд Инквеста в этой местности.
+Intercept the Inquest squad in the area.,Перехватите отряд Inquest в этой местности.
 Intercept the Knight of Embers.,Перехватите Рыцаря Углей.
 Intercept the prisoner caravan.,Перехватите караван с пленниками.
-Intercepted an Inquest Theft,Кража Инквеста предотвращена
+Intercepted an Inquest Theft,Кража Inquest предотвращена
 Interested in something specific?,Ищешь что-то определённое?
 Interesting Bookshelf,Интересная книжная полка
 Interesting Creature,Интересное существо
@@ -260,7 +260,7 @@ Investigate Falooaloo Village's missing quaggans.,Разберитесь с пр
 Investigate Gorr's lab for clues about his death.,Обыщите лабораторию Горра в поисках улик о его гибели.
 Investigate Tactician Syska's background.,Разузнайте о прошлом тактика Сиски.
 Investigate the Abandoned Caverns with Forktail.,Исследуйте Заброшенные пещеры вместе с Форктейлом.
-Investigate the Inquest dig sites.,Осмотрите раскопки Инквеста.
+Investigate the Inquest dig sites.,Осмотрите раскопки Inquest.
 Investigate the Pact camp for clues about Syska.,Осмотрите лагерь Пакта в поисках зацепок о Сиске.
 Investigate the disturbance in the Mists.,Разберитесь с возмущением в Туманах.
 Investigate the ice formation,Осмотрите ледяное образование

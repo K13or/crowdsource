@@ -1,16 +1,16 @@
 english,translate
 Time before Operation Mosaic Wrath commences: %str1%,До начала операции «Mosaic Wrath»: %str1%
-Time before allies launch their attack on the Inquest: %str1%,До атаки союзников на Инквест: %str1%
+Time before allies launch their attack on the Inquest: %str1%,До атаки союзников на Inquest: %str1%
 Time before deadline: %str1%,До крайнего срока: %str1%
 Time before flower withers: %str1%,До увядания цветка: %str1%
-Time before the Inquest escape: %str1%,До побега Инквеста: %str1%
+Time before the Inquest escape: %str1%,До побега Inquest: %str1%
 Time before the Kryptis invade: %str1%,До вторжения криптисов: %str1%
 Time before the seneschal wakes: %str1%,До пробуждения сенешаля: %str1%
 Time for some help.,Пора звать на помощь.
 Time jumps to avoid the chilling pulses.,"Рассчитывайте прыжки, чтобы избежать леденящих импульсов."
 Time left to close tentacle rifts: %str1%,Осталось времени на закрытие разломов со щупальцами: %str1%
 Time left to defeat Nourys: %str1%,Осталось времени на победу над Нурисом: %str1%
-Time left to disable the Inquest excavators: %str1%,Осталось времени на отключение экскаваторов Инквеста: %str1%
+Time left to disable the Inquest excavators: %str1%,Осталось времени на отключение экскаваторов Inquest: %str1%
 Time left to turn in magic before Corporal Vikar departs: %str1%,Осталось времени сдать магию до ухода Corporal Vikar: %str1%
 Time remaining to confront Ulgoth: %str1%,"Осталось времени, чтобы сойтись с Улготом: %str1%"
 Time remaining to draw out the Shadow Behemoth: %str1%,"Осталось времени, чтобы выманить Shadow Behemoth: %str1%"
@@ -23,11 +23,11 @@ Time to find a fire starter.,"Пора найти, чем разжечь ого�
 Time to pay up.,Пора платить.
 Time to revive Isgarren: %str1%,До оживления Исгаррена: %str1%
 Time to strike!,Пора бить!
-Time until Inquest hide trackers: %str1%,До того как Инквест спрячет маячки: %str1%
+Time until Inquest hide trackers: %str1%,До того как Inquest спрячет маячки: %str1%
 Time until allies prepare to reengage the temple: %str1%,До готовности союзников снова атаковать храм: %str1%
 Time until assault begins: %str1%,До начала штурма: %str1%
 Time until rift target arrives: %str1%,До появления цели из разлома: %str1%
-Time until the Inquest reap all they need: %str1%,До того как Инквест соберёт всё нужное: %str1%
+Time until the Inquest reap all they need: %str1%,До того как Inquest соберёт всё нужное: %str1%
 Time until the basilica closes: %str1%,До закрытия базилики: %str1%
 Time until the devouring: %str1%,До пожирания: %str1%
 Timekeeper Interrupt,Прерывание хронометриста
@@ -187,7 +187,7 @@ Track down the magical object detected by the VOED.,"Разыщите магич
 Tracked %num1%/%num2% Mushroom King[s] in the Lower Canopy,Выслежено %num1%/%num2% [грибного короля|грибных короля|грибных королей] в Нижнем ярусе
 Tracked %num1%/%num2% Titan Stench,Выслежено %num1%/%num2% титаньего смрада
 Tracked %num2% titan stench in Mount Balrior Convergences.,Выследите %num2% источников титаньего смрада в Схождениях на Mount Balrior.
-Tracked the Inquest's Trail in the Allotted Time,След Инквеста прослежен в отведённое время
+Tracked the Inquest's Trail in the Allotted Time,След Inquest прослежен в отведённое время
 Tracked the Missing Magister through a Cave Filled with Trolls,"Пропавший магистр выслежен через пещеру, полную троллей"
 Trader Crintus Doomnight,Торговец Кринтус Роковая Ночь
 Trader Jan,Торговец Ян
@@ -293,7 +293,7 @@ True words. Have a good day.,Верно сказано. Хорошего дня.
 "True, but Bjarni swears he saw one. His mind may be addled, but he's never lied to me. Maybe it's the same yeti. Maybe it's hunting all of us. We have to find out.","Верно, но Бьярни клянётся, что видел его. Пусть рассудок у него и мутится, но мне он никогда не лгал. Может, это тот самый йети. Может, он охотится на всех нас. Мы должны выяснить."
 "True, but I want to know you. And now you owe me. So, start walking and talking, sir!","Верно, но я хочу узнать тебя. А теперь ты мой должник. Так что шагай и рассказывай, сударь!"
 Trumpeter Extraordinaire,Трубач-виртуоз
-Trust your instincts. Sign up with the Inquest today!,Доверься чутью. Вступай в Инквест уже сегодня!
+Trust your instincts. Sign up with the Inquest today!,Доверься чутью. Вступай в Inquest уже сегодня!
 Try out the Fool's Tall Tonic.,Опробуйте тоник «Шутовской рост».
 Trying my best!,Стараюсь изо всех сил!
 Trying...!,Пытаюсь!..

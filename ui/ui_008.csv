@@ -133,48 +133,48 @@ english,translate
 %str1%%str2%Infernal Flail Mace%str3%%str4%,%str1%%str2%Булава «Инфернальный цеп»%str3%%str4%
 %str1%%str2%Infinite Light%str3%%str4%,%str1%%str2%Бесконечный свет%str3%%str4%
 %str1%%str2%Infinite Wisdom%str3%%str4%,%str1%%str2%Бесконечная мудрость%str3%%str4%
-%str1%%str2%Inquest Apparatus%str3%%str4%,%str1%%str2%Аппарат Инквеста%str3%%str4%
-%str1%%str2%Inquest Axe%str3%%str4%,%str1%%str2%Топор Инквеста%str3%%str4%
-%str1%%str2%Inquest Boots%str3%%str4%,%str1%%str2%Сапоги Инквеста%str3%%str4%
-%str1%%str2%Inquest Bracers%str3%%str4%,%str1%%str2%Наручи Инквеста%str3%%str4%
-%str1%%str2%Inquest Breastplate%str3%%str4%,%str1%%str2%Нагрудник Инквеста%str3%%str4%
-%str1%%str2%Inquest Breeches%str3%%str4%,%str1%%str2%Бриджи Инквеста%str3%%str4%
-%str1%%str2%Inquest Circlets%str3%%str4%,%str1%%str2%Венцы Инквеста%str3%%str4%
-%str1%%str2%Inquest Dagger%str3%%str4%,%str1%%str2%Кинжал Инквеста%str3%%str4%
-%str1%%str2%Inquest Device%str3%%str4%,%str1%%str2%Устройство Инквеста%str3%%str4%
-%str1%%str2%Inquest Focus%str3%%str4%,%str1%%str2%Фокус Инквеста%str3%%str4%
-%str1%%str2%Inquest Gauntlets%str3%%str4%,%str1%%str2%Латные перчатки Инквеста%str3%%str4%
-%str1%%str2%Inquest Greatsword%str3%%str4%,%str1%%str2%Двуручный меч Инквеста%str3%%str4%
-%str1%%str2%Inquest Greaves%str3%%str4%,%str1%%str2%Наголенники Инквеста%str3%%str4%
-%str1%%str2%Inquest Guise%str3%%str4%,%str1%%str2%Облик Инквеста%str3%%str4%
-%str1%%str2%Inquest Hammer%str3%%str4%,%str1%%str2%Молот Инквеста%str3%%str4%
-%str1%%str2%Inquest Harpoon%str3%%str4%,%str1%%str2%Гарпун Инквеста%str3%%str4%
-%str1%%str2%Inquest Helm%str3%%str4%,%str1%%str2%Шлем Инквеста%str3%%str4%
-%str1%%str2%Inquest Hood%str3%%str4%,%str1%%str2%Капюшон Инквеста%str3%%str4%
-%str1%%str2%Inquest Leggings%str3%%str4%,%str1%%str2%Поножи Инквеста%str3%%str4%
-%str1%%str2%Inquest Legguards%str3%%str4%,%str1%%str2%Набедренники Инквеста%str3%%str4%
-%str1%%str2%Inquest Longbow%str3%%str4%,%str1%%str2%Длинный лук Инквеста%str3%%str4%
-%str1%%str2%Inquest Mace%str3%%str4%,%str1%%str2%Булава Инквеста%str3%%str4%
-%str1%%str2%Inquest Mantle%str3%%str4%,%str1%%str2%Накидка Инквеста%str3%%str4%
-%str1%%str2%Inquest Mechanism%str3%%str4%,%str1%%str2%Механизм Инквеста%str3%%str4%
-%str1%%str2%Inquest Mega-Spanner%str3%%str4%,%str1%%str2%Мега-гаечный ключ Инквеста%str3%%str4%
-%str1%%str2%Inquest Pauldrons%str3%%str4%,%str1%%str2%Наплечники Инквеста%str3%%str4%
-%str1%%str2%Inquest Pistol%str3%%str4%,%str1%%str2%Пистолет Инквеста%str3%%str4%
-%str1%%str2%Inquest Rifle%str3%%str4%,%str1%%str2%Винтовка Инквеста%str3%%str4%
-%str1%%str2%Inquest Scepter%str3%%str4%,%str1%%str2%Скипетр Инквеста%str3%%str4%
-%str1%%str2%Inquest Shield%str3%%str4%,%str1%%str2%Щит Инквеста%str3%%str4%
-%str1%%str2%Inquest Shoes%str3%%str4%,%str1%%str2%Туфли Инквеста%str3%%str4%
-%str1%%str2%Inquest Short Bow%str3%%str4%,%str1%%str2%Короткий лук Инквеста%str3%%str4%
-%str1%%str2%Inquest Shoulders%str3%%str4%,%str1%%str2%Наплечники Инквеста%str3%%str4%
-%str1%%str2%Inquest Speargun%str3%%str4%,%str1%%str2%Гарпунное ружьё Инквеста%str3%%str4%
-%str1%%str2%Inquest Staff%str3%%str4%,%str1%%str2%Посох Инквеста%str3%%str4%
-%str1%%str2%Inquest Sword%str3%%str4%,%str1%%str2%Меч Инквеста%str3%%str4%
-%str1%%str2%Inquest Torch%str3%%str4%,%str1%%str2%Факел Инквеста%str3%%str4%
-%str1%%str2%Inquest Trident%str3%%str4%,%str1%%str2%Трезубец Инквеста%str3%%str4%
-%str1%%str2%Inquest Tuning Rod%str3%%str4%,%str1%%str2%Настроечный жезл Инквеста%str3%%str4%
-%str1%%str2%Inquest Vest%str3%%str4%,%str1%%str2%Жилет Инквеста%str3%%str4%
-%str1%%str2%Inquest Warhorn%str3%%str4%,%str1%%str2%Боевой рог Инквеста%str3%%str4%
-%str1%%str2%Inquest Wraps%str3%%str4%,%str1%%str2%Обмотки Инквеста%str3%%str4%
+%str1%%str2%Inquest Apparatus%str3%%str4%,%str1%%str2%Аппарат Inquest%str3%%str4%
+%str1%%str2%Inquest Axe%str3%%str4%,%str1%%str2%Топор Inquest%str3%%str4%
+%str1%%str2%Inquest Boots%str3%%str4%,%str1%%str2%Сапоги Inquest%str3%%str4%
+%str1%%str2%Inquest Bracers%str3%%str4%,%str1%%str2%Наручи Inquest%str3%%str4%
+%str1%%str2%Inquest Breastplate%str3%%str4%,%str1%%str2%Нагрудник Inquest%str3%%str4%
+%str1%%str2%Inquest Breeches%str3%%str4%,%str1%%str2%Бриджи Inquest%str3%%str4%
+%str1%%str2%Inquest Circlets%str3%%str4%,%str1%%str2%Венцы Inquest%str3%%str4%
+%str1%%str2%Inquest Dagger%str3%%str4%,%str1%%str2%Кинжал Inquest%str3%%str4%
+%str1%%str2%Inquest Device%str3%%str4%,%str1%%str2%Устройство Inquest%str3%%str4%
+%str1%%str2%Inquest Focus%str3%%str4%,%str1%%str2%Фокус Inquest%str3%%str4%
+%str1%%str2%Inquest Gauntlets%str3%%str4%,%str1%%str2%Латные перчатки Inquest%str3%%str4%
+%str1%%str2%Inquest Greatsword%str3%%str4%,%str1%%str2%Двуручный меч Inquest%str3%%str4%
+%str1%%str2%Inquest Greaves%str3%%str4%,%str1%%str2%Наголенники Inquest%str3%%str4%
+%str1%%str2%Inquest Guise%str3%%str4%,%str1%%str2%Облик Inquest%str3%%str4%
+%str1%%str2%Inquest Hammer%str3%%str4%,%str1%%str2%Молот Inquest%str3%%str4%
+%str1%%str2%Inquest Harpoon%str3%%str4%,%str1%%str2%Гарпун Inquest%str3%%str4%
+%str1%%str2%Inquest Helm%str3%%str4%,%str1%%str2%Шлем Inquest%str3%%str4%
+%str1%%str2%Inquest Hood%str3%%str4%,%str1%%str2%Капюшон Inquest%str3%%str4%
+%str1%%str2%Inquest Leggings%str3%%str4%,%str1%%str2%Поножи Inquest%str3%%str4%
+%str1%%str2%Inquest Legguards%str3%%str4%,%str1%%str2%Набедренники Inquest%str3%%str4%
+%str1%%str2%Inquest Longbow%str3%%str4%,%str1%%str2%Длинный лук Inquest%str3%%str4%
+%str1%%str2%Inquest Mace%str3%%str4%,%str1%%str2%Булава Inquest%str3%%str4%
+%str1%%str2%Inquest Mantle%str3%%str4%,%str1%%str2%Накидка Inquest%str3%%str4%
+%str1%%str2%Inquest Mechanism%str3%%str4%,%str1%%str2%Механизм Inquest%str3%%str4%
+%str1%%str2%Inquest Mega-Spanner%str3%%str4%,%str1%%str2%Мега-гаечный ключ Inquest%str3%%str4%
+%str1%%str2%Inquest Pauldrons%str3%%str4%,%str1%%str2%Наплечники Inquest%str3%%str4%
+%str1%%str2%Inquest Pistol%str3%%str4%,%str1%%str2%Пистолет Inquest%str3%%str4%
+%str1%%str2%Inquest Rifle%str3%%str4%,%str1%%str2%Винтовка Inquest%str3%%str4%
+%str1%%str2%Inquest Scepter%str3%%str4%,%str1%%str2%Скипетр Inquest%str3%%str4%
+%str1%%str2%Inquest Shield%str3%%str4%,%str1%%str2%Щит Inquest%str3%%str4%
+%str1%%str2%Inquest Shoes%str3%%str4%,%str1%%str2%Туфли Inquest%str3%%str4%
+%str1%%str2%Inquest Short Bow%str3%%str4%,%str1%%str2%Короткий лук Inquest%str3%%str4%
+%str1%%str2%Inquest Shoulders%str3%%str4%,%str1%%str2%Наплечники Inquest%str3%%str4%
+%str1%%str2%Inquest Speargun%str3%%str4%,%str1%%str2%Гарпунное ружьё Inquest%str3%%str4%
+%str1%%str2%Inquest Staff%str3%%str4%,%str1%%str2%Посох Inquest%str3%%str4%
+%str1%%str2%Inquest Sword%str3%%str4%,%str1%%str2%Меч Inquest%str3%%str4%
+%str1%%str2%Inquest Torch%str3%%str4%,%str1%%str2%Факел Inquest%str3%%str4%
+%str1%%str2%Inquest Trident%str3%%str4%,%str1%%str2%Трезубец Inquest%str3%%str4%
+%str1%%str2%Inquest Tuning Rod%str3%%str4%,%str1%%str2%Настроечный жезл Inquest%str3%%str4%
+%str1%%str2%Inquest Vest%str3%%str4%,%str1%%str2%Жилет Inquest%str3%%str4%
+%str1%%str2%Inquest Warhorn%str3%%str4%,%str1%%str2%Боевой рог Inquest%str3%%str4%
+%str1%%str2%Inquest Wraps%str3%%str4%,%str1%%str2%Обмотки Inquest%str3%%str4%
 %str1%%str2%Intricate Armorsmith's Backpack%str3%%str4%,%str1%%str2%Рюкзак искусного бронника%str3%%str4%
 %str1%%str2%Intricate Artificer's Backpack%str3%%str4%,%str1%%str2%Рюкзак искусного артифактора%str3%%str4%
 %str1%%str2%Intricate Huntsman's Backpack%str3%%str4%,%str1%%str2%Рюкзак искусного егеря%str3%%str4%

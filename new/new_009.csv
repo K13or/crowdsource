@@ -24,7 +24,7 @@ Consumed after gathering. Applies +100%% chance of extra gathering strikes when 
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>""My darling Nakis, my tender Nakis, my clever Nakis...you're right. Let's go. We'll flee tomorrow.""</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>«Мой милый Накис, мой нежный Накис, мой умный Накис... ты прав. Идём. Завтра мы сбежим».</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>A massive karka shell, and an impressive trophy. Tastes great with butter.</c>",Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Огромный панцирь карка и внушительный трофей. Отлично идёт со сливочным маслом.</c>
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>A small vase, reminiscent of work from Vabbi.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Небольшая ваза, напоминающая работы из Вабби.</c>"
-"Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>Nakis's simple prayer beads, stolen from him by the Inquest.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Простые молитвенные чётки Накиса, украденные у него Инквестом.</c>"
+"Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>Nakis's simple prayer beads, stolen from him by the Inquest.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Простые молитвенные чётки Накиса, украденные у него Inquest.</c>"
 Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>Probably best handled from long distance and behind aegis.</c>,"Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>С этим, пожалуй, лучше управляться с большого расстояния и из-за эгиды.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>Small rocks, blasted by magical fire and force. Probably worthless.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Мелкие камни, опалённые магическим огнём и силой. Вероятно, ничего не стоят.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>The powerful mummy wore this locket, with a picture of an unknown child inside.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Могущественная мумия носила этот медальон, а внутри — портрет неизвестного ребёнка.</c>"
@@ -172,7 +172,7 @@ Crate of Slop,Ящик с помоями
 Crawl Inside,Заползти внутрь
 Crazed,Обезумевший
 Crazed Hylek,Обезумевший хилек
-Crazy Inquest Researcher,Безумный исследователь Инквеста
+Crazy Inquest Researcher,Безумный исследователь Inquest
 Create a containment vessel.,Создайте сосуд для сдерживания.
 "Create a distraction at the Nightmare Court camp, so Caithe can sneak out with the white stag.","Отвлеките внимание в лагере Nightmare Court, чтобы Кейт смогла ускользнуть с белым оленем."
 "Create a healing orb near your target. When an ally touches the orb, nearby allies are healed.","Создаёт исцеляющую сферу возле цели. Когда союзник касается сферы, союзники поблизости исцеляются."
@@ -447,7 +447,7 @@ Defeat %num2% Dominion tribunes in the Northern Drizzlewood Coast.,Победи�
 Defeat %num2% Fallen in Northern Drizzlewood Coast.,Победите %num2% падших на севере Моросистого побережья.
 "Defeat %num2% Flame Legion enemy[pl:""enemies""] in Iron Marches and Fireheart Rise.",Победите %num2% [врага|врага|врагов] из Flame Legion в Железных Топях и на Fireheart Rise.
 "Defeat %num2% Icebrood enemy[pl:""enemies""] in Frostgorge Sound.",Победите %num2% [ледяное отродье|ледяных отродья|ледяных отродий] в Frostgorge Sound.
-"Defeat %num2% Inquest enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% [врага|врага|врагов] из Инквеста на горе Мальстрём и в Топи Искрокрылов.
+"Defeat %num2% Inquest enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% [врага|врага|врагов] из Inquest на горе Мальстрём и в Топи Искрокрылов.
 Defeat %num2% Karka in Southsun Cove.,Победите %num2% карка в Southsun Cove.
 Defeat %num2% Kryptis attacking through rifts while fighting Charybda or Eparch.,"Победите %num2% криптисов, атакующих через разломы, во время боя с Харибдой или Эпархом."
 "Defeat %num2% Risen enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% [восставшего врага|восставших врага|восставших врагов] на Горе Мальстрём и в Топи Искрокрылов.

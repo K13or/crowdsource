@@ -73,7 +73,7 @@ I'll show you... I'll catch the whole ocean!,Я вам покажу... Я выл
 I'll stay with you.,Я останусь с вами.
 I'll take the mirror to Trahearne and let him know what happened.,"Я отнесу зеркало Трехерну и расскажу ему, что случилось."
 "I'll think about it. For now, can you remove the disguise?",Я подумаю. А пока можете снять личину?
-"I'm a good guy! I swear! The Inquest have all of my data, and I need it back!","Я хороший! Клянусь! Все мои данные у Инквеста, мне надо их вернуть!"
+"I'm a good guy! I swear! The Inquest have all of my data, and I need it back!","Я хороший! Клянусь! Все мои данные у Inquest, мне надо их вернуть!"
 "I'm all out of griffon eggs, so I can't cook you anything right now. Come back later, once my apprentice chef fetches more eggs.","Яйца грифона кончились, так что сейчас я ничего не приготовлю. Возвращайтесь позже, когда мой ученик принесёт ещё."
 I'm always up for more chaos. I'll disguise you when you're ready to go back in.,"Я всегда за побольше хаоса. Наведу на вас личину, когда будете готовы вернуться."
 I'm bored with this.,Мне это наскучило.
@@ -93,7 +93,7 @@ I'm in charge of all the woodcutters around these parts. How may I help you?,Я 
 I'm just going to be on my way now.,"Пожалуй, я пойду своей дорогой."
 I'm looking for Priest Sazeer. I heard he may have seen what happened...,"Я ищу Priest Sazeer. Слышал, он мог видеть, что случилось..."
 "I'm no expert on Orrian lore, but my time here has inspired me to learn what I can about the people who once lived here.","Я не знаток оррианских преданий, но время здесь пробудило во мне желание узнать всё возможное о людях, что тут когда-то жили."
-I'm not Inquest! I promise! I just need help getting all my data back.,"Я не из Инквеста! Обещаю! Мне просто нужна помощь, чтобы вернуть свои данные."
+I'm not Inquest! I promise! I just need help getting all my data back.,"Я не из Inquest! Обещаю! Мне просто нужна помощь, чтобы вернуть свои данные."
 I'm not afraid of the unknown. No one could've foreseen jade technology until I made it a reality.,"Я не боюсь неизвестного. Нефритовую технику никто не мог предвидеть, пока я не воплотила её."
 I'm not leaving you. Hang on!,Я тебя не брошу. Держись!
 I'm not letting this go.,Я это так не оставлю.
@@ -166,7 +166,7 @@ Increases power.,Повышает силу.
 Increases toughness.,Повышает стойкость.
 "Indeed, this is one of ours. Thanks for returning it.","И правда, это наше. Спасибо, что вернули."
 Infiltrator!,Лазутчик!
-Inquest siphon all magic in: %str1%,Инквест выкачает всю магию через: %str1%
+Inquest siphon all magic in: %str1%,Inquest выкачает всю магию через: %str1%
 Interesting. I'll look forward to field testing the latest model.,Любопытно. Буду ждать полевых испытаний новейшей модели.
 Interloper!,Незваный гость!
 Into the fray!,В бой!
@@ -235,7 +235,7 @@ Kill Siegemaster Lormar.,Убейте осадного мастера Лорма
 Kill the Branded for King Joko!,Убейте клеймёных во имя короля Джоко!
 Kill the Jade Brotherhood Champion!,Убейте чемпиона Jade Brotherhood!
 Kill the river drake broodmother.,Убейте матку речных дрейков.
-Kinda. One of the Fahranur gates led directly to some big Inquest HQ.,Вроде того. Одни из врат Фахранура вели прямо в какую-то большую ставку Инквеста.
+Kinda. One of the Fahranur gates led directly to some big Inquest HQ.,Вроде того. Одни из врат Фахранура вели прямо в какую-то большую ставку Inquest.
 "Kippo here, from Kippo and Monroe Publishing. Do you like books? Well, that's good, 'cause I got 'em.","Это Киппо из издательства «Киппо и Монро». Любите книги? Вот и славно, потому что они у меня есть."
 Know anything about a group of ornery crabs?,Знаете что-нибудь про свору вредных крабов?
 Knowledge Gained,Получено знание
@@ -487,7 +487,7 @@ Quick and clean!,Быстро и чисто!
 Quick! Toss it some of that bloodstone-dusted meat!,"Скорее! Бросьте ему мяса, присыпанного пылью кровавого камня!"
 Quickly and efficiently!,Быстро и дельно!
 Rally the Olmakhan to your side.,Привлеките олмаханов на свою сторону.
-Reach the tracking network hub quickly without provoking the Inquest.,"Быстро доберитесь до узла сети слежения, не потревожив Инквест."
+Reach the tracking network hub quickly without provoking the Inquest.,"Быстро доберитесь до узла сети слежения, не потревожив Inquest."
 "Read the mail from ""A Friend.""",Прочтите письмо от «Друга».
 Read?,Прочесть?
 Really? I heard Ash is where they stick all the rejects.,"Серьёзно? Я слышал, в Пепельный спихивают всех отбракованных."

@@ -151,14 +151,14 @@ english,translate
 (snarls) Move.,(рычит) Двигайся.
 (snarls) Not sure I like the sound of that.,"(рычит) Не уверен, что мне нравится эта затея."
 "(snarls) Showing your claws, Peitha?","(рычит) Показываешь когти, Peitha?"
-(snarls) Target compromised. Take out those Inquest!,(рычит) Цель обнаружена. Уничтожьте этих членов «Инквеста»!
+(snarls) Target compromised. Take out those Inquest!,(рычит) Цель обнаружена. Уничтожьте этих членов «Inquest»!
 (snarls) They come!,(рычит) Они идут!
 (snarls) Who are you?,(рычит) Кто ты такой?
 (snarls) Why have you stopped fighting back?,(рычит) Почему ты перестал сопротивляться?
 (snarls) You will not touch my hive.,(рычит) Вы не тронете мой улей.
 (sneeze) That sandy mount makes my nose itch.,(чихает) От этого песчаного маунта у меня чешется нос.
 (snicker) Marion...,(хихикает) Marion...
-(snicker) No one noticed that I pocketed a goodie from that Inquest lab.,"(хихикает) Никто не заметил, что я прихватил кое-что из той лаборатории Инквеста."
+(snicker) No one noticed that I pocketed a goodie from that Inquest lab.,"(хихикает) Никто не заметил, что я прихватил кое-что из той лаборатории Inquest."
 (snicker) Not enough without a password. Go away.,(хихикает) Без пароля не обойтись. Убирайся.
 (snicker) You really gotta get out more.,(хихикает) Тебе правда нужно чаще выбираться из дома.
 (sniff) Do you smell that?,(нюхает) Чуешь этот запах?
@@ -381,7 +381,7 @@ english,translate
 /back,/back
 /cancel,/cancel
 /continue,/продолжить
-/detonate Inquest Headquarters,/detonate Штаб-квартира Инквеста
+/detonate Inquest Headquarters,/detonate Штаб-квартира Inquest
 /escape,/escape
 /exit,/exit
 /query custodial golem status,/query custodial golem status

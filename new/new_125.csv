@@ -186,13 +186,13 @@ english,translate
 "(There are 5 buttons, and pushing a button will toggle the corresponding light on or off.)","(Кнопок пять, и каждая включает или выключает свою лампу.)"
 "(There are 5 lights, represented on the console by ""0"" and ""-."" ""0"" means on and ""-"" means off. There are also 5 buttons.)","(Ламп пять, на пульте они показаны знаками «0» и «-». «0» — горит, «-» — погашена. Кнопок тоже пять.)"
 (There's a control panel and some buttons. It seems like you could probably power it down from here.),"(Здесь пульт управления и несколько кнопок. Похоже, отсюда можно отключить питание.)"
-"(This Inquest machine is half broken; you could finish breaking it, or at least power it down.)",(Эта машина Инквеста наполовину сломана: можно доломать её или хотя бы обесточить.)
-"(This system is running again, but with a built-in flaw that will feed the Inquest subtly faulty data that will take them ages to detect.)","(Система снова работает, но с заложенным изъяном: Инквест будет получать едва заметно искажённые данные, и обнаружат они это нескоро.)"
-(This targeting control module seems to have been accidentally dropped by a member of the Inquest. A top-quality component like this would probably fetch a good price.),"(Похоже, этот модуль управления наведением кто-то из Инквеста обронил по случайности. За деталь такого качества наверняка дадут хорошую цену.)"
+"(This Inquest machine is half broken; you could finish breaking it, or at least power it down.)",(Эта машина Inquest наполовину сломана: можно доломать её или хотя бы обесточить.)
+"(This system is running again, but with a built-in flaw that will feed the Inquest subtly faulty data that will take them ages to detect.)","(Система снова работает, но с заложенным изъяном: Inquest будет получать едва заметно искажённые данные, и обнаружат они это нескоро.)"
+(This targeting control module seems to have been accidentally dropped by a member of the Inquest. A top-quality component like this would probably fetch a good price.),"(Похоже, этот модуль управления наведением кто-то из Inquest обронил по случайности. За деталь такого качества наверняка дадут хорошую цену.)"
 "(We are aware of the irony, although they may not be.)","(Мы сознаём иронию, а вот они — вряд ли.)"
 "(You find a damaged inscription on the statue. All that's legible is the phrase ""watcher of the stars."")",(На статуе повреждённая надпись. Разобрать можно только слова «дозорный звёзд».)
 "(You hear Isgarren mutter, ""Leaving so soon?"")","(Вы слышите, как Isgarren бормочет: «Уже уходите?»)"
-(You know that making this device feed the Inquest false data will be more disruptive than it feeding them no data at all.),"(Вы понимаете: если устройство начнёт снабжать Инквест ложными данными, вреда им будет больше, чем от полного молчания.)"
+(You know that making this device feed the Inquest false data will be more disruptive than it feeding them no data at all.),"(Вы понимаете: если устройство начнёт снабжать Inquest ложными данными, вреда им будет больше, чем от полного молчания.)"
 (You see a large door before you...),(Перед вами большая дверь...)
 (angry barking),(злобный лай)
 (annoyed eagle screech),(раздражённый орлиный клёкот)
