@@ -160,7 +160,7 @@ Aha.,Ага.
 "Aha. You survived, did'ye? The cap'n was never the friendliest of men when he was alive, and he's worse now'n he's dead. I'd like to give ya something, for makin' it through.","Ага. Выжил, стало быть? Кэп и при жизни-то не был душкой, а как помер — стал ещё хуже. Хочу тебе кое-что дать, за то что выбрался."
 "Ahai, Commander! You could really help our cause by inspiring potential recruits, and by finding us some Kralkatite that we can use to forge weaponry for those recruits.","Ахай, командир! Ты бы очень помог нашему делу, если бы воодушевил будущих новобранцев и раздобыл нам кралькатита, из которого мы выкуем для них оружие."
 "Ahai, my friend.","Ахай, друг мой."
-"Ahai, traveler! I'm a representative of the Amnoon Travel Bureau and an expert in Elona's unique specializations. Would you like to hear about them?","Ахай, путник! Я представитель Бюро путешествий Амнуна и знаток особых умений Элоны. Хочешь послушать о них?"
+"Ahai, traveler! I'm a representative of the Amnoon Travel Bureau and an expert in Elona's unique specializations. Would you like to hear about them?","Ахай, путник! Я представитель Бюро путешествий Амнуна и знаток особых умений Elona. Хочешь послушать о них?"
 "Ahai, traveler.","Ахай, путник."
 Ahai...you in there. Are you dead?,Ахай... ты там. Ты мёртв?
 Ahem. Today's agenda—the rise and fall of the Elder Dragon Zhaitan.,Кхм. Сегодняшняя тема — возвышение и падение Старшего дракона Зайтана.
@@ -243,7 +243,7 @@ All heat expelled.,Весь жар сброшен.
 All must be cleansed!,Всё должно быть очищено!
 "All my life, I've watched Orr. Studied it. Researched the abominations that Zhaitan spawns.","Всю жизнь я наблюдал за Орром. Изучал его. Исследовал мерзости, которых плодит Зайтан."
 All new to me.,Для меня всё это в новинку.
-All of Cantha should be considered in danger. Please seek shelter and stay tuned for any additional updates.,"Вся Кантха должна считаться в опасности. Пожалуйста, ищите укрытие и следите за новыми сообщениями."
+All of Cantha should be considered in danger. Please seek shelter and stay tuned for any additional updates.,"Вся Cantha должна считаться в опасности. Пожалуйста, ищите укрытие и следите за новыми сообщениями."
 "All of the above, really.","Да всё вышеперечисленное, если честно."
 All of the bastions have been secured and the Astral Ward have returned to the Bastion of the Natural to plan their counteroffensive,"Все бастионы взяты под охрану, и Astral Ward вернулась в Bastion of the Natural, чтобы спланировать контрнаступление"
 All of the guild services have relocated to Postern Ward. Would you like me to mark it on your map?,Все гильдейские услуги переехали в Задворный квартал. Отметить его на твоей карте?
@@ -316,7 +316,7 @@ Allied Tent,Палатка союзников
 Allied forces are engaging ogres at Bloodgorge Watch and Sapper's Delve.,Союзные силы вступили в бой с ограми у Дозора Кровавой Пасти и Сапёрной Штольни.
 Allied forces are preparing to enter the Temple of Abnegation.,Союзные силы готовятся войти в Temple of Abnegation.
 Allied forces have defeated Renyak.,Союзные силы победили Реньяка.
-Allied saboteurs will leave Rytlock's forward camp in: %str1%,Союзные диверсанты покинут передовой лагерь Ритлока через: %str1%
+Allied saboteurs will leave Rytlock's forward camp in: %str1%,Союзные диверсанты покинут передовой лагерь Rytlock через: %str1%
 Allies Bolstered,Союзники усилены
 Allies Remaining,Осталось союзников
 Allies apply burning with their next attack.,Следующая атака союзников накладывает горение.
