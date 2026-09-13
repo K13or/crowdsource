@@ -30,8 +30,8 @@ Purchase the runestone of suffusion from Conri.,Купите руну насыщ
 "Purchase this common egg dish from Ainne in the Grove, Bryndora in Hoelbrak, Caeva in the Black Citadel, or Elnor in Lion's Arch.","Купите это обычное яичное блюдо у Айнн в Роще, Бриндоры в Хельбрэке, Каэвы в Black Citadel или Элнора в Lion's Arch."
 Purchase This Episode,Купить этот эпизод
 "Purchase this item from Alaleh at Chalon Docks in the Domain of Istan, or add this portal scroll to the Season 4 Portal Tome.",Купите этот предмет у Алале в Chalon Docks в Области Истана или добавьте этот свиток портала в Фолиант порталов 4-го сезона.
-"Purchase this item from Anette Eymundrdottir at Jora's Keep in Bjora Marches, or add this portal scroll to the Icebrood Saga Portal Tome.",Купите этот предмет у Аннет Эймундрдоттир в Убежище Йоры в Bjora Marches или добавьте этот свиток портала в Фолиант порталов Саги о ледяном отродье.
-"Purchase this item from Annona Vinedrummer in Umbral Grotto in Drizzlewood Coast, or add this portal scroll to the Icebrood Saga Portal Tome.","Купите этот предмет у Анноны Винодраммер в Умбральной пещере на Побережье Мороси, или добавьте этот свиток портала в Книгу порталов Саги о ледяном отродье."
+"Purchase this item from Anette Eymundrdottir at Jora's Keep in Bjora Marches, or add this portal scroll to the Icebrood Saga Portal Tome.",Купите этот предмет у Аннет Эймундрдоттир в Убежище Йоры в Bjora Marches или добавьте этот свиток портала в Фолиант порталов Icebrood Saga.
+"Purchase this item from Annona Vinedrummer in Umbral Grotto in Drizzlewood Coast, or add this portal scroll to the Icebrood Saga Portal Tome.","Купите этот предмет у Анноны Винодраммер в Умбральной пещере на Побережье Мороси, или добавьте этот свиток портала в Книгу порталов Icebrood Saga."
 "Purchase this item from Ethall at Atholma in the Sandswept Isles, or add this portal scroll to the Season 4 Portal Tome.","Купите этот предмет у Эталла в Атолме на Пескоструйных островах, или добавьте этот свиток портала в Книгу порталов 4-го сезона."
 "Purchase this item from Kynon at the Forge in Thunderhead Peaks, or have previously add this portal scroll to the Season 4 Portal Tome.","Купите этот предмет у Кайнона в Кузнице на Thunderhead Peaks, или ранее добавьте этот свиток портала в Книгу порталов 4-го сезона."
 "Purchase this item from Nalar at the Allied Encampment in the Domain of Kourna, or add this portal scroll to the Season 4 Portal Tome.","Купите этот предмет у Налара в Allied Encampment во Владениях Курны, или добавьте этот свиток портала в Книгу порталов 4-го сезона."
@@ -43,7 +43,7 @@ Purchase this item from Sarettokk in Hooligan's Route in Lion's Arch.,Купит
 "Purchase this item from Slooshoo at Sorrow's Eclipse Sanctuary in Bitterfrost Frontier, or add this portal scroll to the Season 3 Portal Tome.","Купите этот предмет у Слушу в Святилище Затмения Скорби на Bitterfrost Frontier, или добавьте этот свиток портала в Книгу порталов 3-го сезона."
 "Purchase this item from Supplymaster Hanjo at Mariner Landing in Draconis Mons, or add this portal scroll to the Season 3 Portal Tome.","Купите этот предмет у Снабженца Хандзё в Причале Морехода на Draconis Mons, или добавьте этот свиток портала в Книгу порталов 3-го сезона."
 "Purchase this item from the Olmakhan Quartermaster at Pact Command in Dragonfall, or add this portal scroll to the Season 4 Portal Tome.","Купите этот предмет у Квартирмейстера Олмакханов в Pact Command в Падении Дракона, или добавьте этот свиток портала в Книгу порталов 4-го сезона."
-"Purchase this item from the Rally Provisioner at the Lower Blood Keep in Grothmar Valley, or add this portal scroll to the Icebrood Saga Portal Tome.","Купите этот предмет у Снабженца Сбора в Нижней Кровавой Крепости в Grothmar Valley, или добавьте этот свиток портала в Книгу порталов Саги о ледяном отродье."
+"Purchase this item from the Rally Provisioner at the Lower Blood Keep in Grothmar Valley, or add this portal scroll to the Icebrood Saga Portal Tome.","Купите этот предмет у Снабженца Сбора в Нижней Кровавой Крепости в Grothmar Valley, или добавьте этот свиток портала в Книгу порталов Icebrood Saga."
 "Purchase this item from Trader Hyacinth at Yatendi Village in Jahai Bluffs, or add this portal scroll to the Season 4 Portal Tome.","Купите этот предмет у Торговца Гиацинта в Yatendi Village на Jahai Bluffs, или добавьте этот свиток портала в Книгу порталов 4-го сезона."
 Purchase this item from Zotturrikk in Hooligan's Route in Lion's Arch.,Купите этот предмет у Зоттуррикка на Пути Хулигана в Lion's Arch.
 Purchase this license from Gastronome Plikk.,Приобретите эту лицензию у Гастронома Плика.
@@ -70,7 +70,7 @@ Purchased from a Mystic Forge vendor for Spirit Shards.,Куплено у тор
 Purchased from a Mystic Forge vendor.,Куплено у торговца Mystic Forge.
 Purchased from a Rally Provisioner in Grothmar Valley.,Куплено у интенданта сбора в Grothmar Valley.
 "Purchased from a Renown Heart vendor in Echoing Hills, located in Janthir Syntri.","Куплено у торговца «Сердца славы» в Echoing Hills, расположенных в Янтарной Синтри."
-"Purchased from a renown heart vendor in Harvest Den, located in Lowland Shore.","Куплено у торговца «Сердца славы» в Логове Урожая, расположенном на Lowland Shore."
+"Purchased from a renown heart vendor in Harvest Den, located in Lowland Shore.","Куплено у торговца «Сердца славы» в Harvest Den, расположенном на Lowland Shore."
 Purchased from a tengu spy in Echovald Wilds.,Куплено у шпиона тенгу в Echovald Wilds.
 Purchased from Agent Livilla in the Karst Plains of Malchor's Leap after defeating the Inquest Ornithologist.,Куплено у агента Ливиллы на Karst Plains Malchor's Leap после победы над орнитологом Inquest.
 "Purchased from Amusement Adjunct Cagri in the Garden of Seborhin, in the Domain of Vabbi.","Куплено у аттракционного помощника Кагри в Саду Себорин, в Domain of Vabbi."
@@ -95,7 +95,7 @@ Purchased from Grandmaster Craftsman Hobbs after training the Historian of the A
 Purchased from Grandmaster Craftsman Hobbs after training the Magister of Legends ability in the Legendary Crafting Mastery Track.,Куплено у Мастера-ремесленника Хоббса после обучения способности «Magister of Legends» в ветке мастерства «Legendary Crafting».
 Purchased from Grandmaster Craftsman Hobbs after training the Scholar of Secrets ability in the Legendary Crafting Mastery Track.,Куплено у Мастера-ремесленника Хоббса после обучения способности «Scholar of Secrets» в ветке мастерства «Legendary Crafting».
 Purchased from Groffmok in Lommuld Kraal in Desert Highlands.,Куплено у Гроффмока в Ломмульд-Краале в Пустынных Нагорьях.
-Purchased from Guiding Breath in Harvest Den in Lowland Shore.,Куплено у Направляющего Дыхания в Логове Урожая на Низменном Берегу.
+Purchased from Guiding Breath in Harvest Den in Lowland Shore.,Куплено у Направляющего Дыхания в Harvest Den на Низменном Берегу.
 Purchased from Itzel vendors for airship parts.,Куплено у торговцев Итцель за детали дирижабля.
 Purchased from Keeper Pamir at Torment's Watch in the Desolation.,Куплено у Keeper Pamir на Страже Мучений в Пустоши.
 Purchased from Legionnaire Crunchbone in Fields of Ruin after assisting the charr delegation.,Куплено у Легионера Хрусткой Кости на Полях Разрушения после помощи делегации чарров.
@@ -129,7 +129,7 @@ Purchased from Tariq Ayim near Bonestrand Garrison in the Desolation.,Приоб
 Purchased from the crafting research vendor in Dragon's End.,Куплено у торговца исследованиями ремёсел в Dragon's End.
 Purchased from the crafting research vendor in Seitung Province.,Куплено у торговца исследованиями ремёсел в Seitung Province.
 Purchased from the crafting research vendor in the Echovald Wilds.,Куплено у торговца исследованиями ремёсел в Echovald Wilds.
-Purchased from the Crystal Bloom Quartermaster in Dragonfall.,Куплено у квартирмейстера Хрустального Цветения в Драконьем Падении.
+Purchased from the Crystal Bloom Quartermaster in Dragonfall.,Куплено у квартирмейстера Crystal Bloom в Драконьем Падении.
 Purchased from the Heart of the Terebinth when not controlled by Nightmare Court.,"Куплено у Сердца Теревинфа, если оно не контролируется Nightmare Court."
 Purchased from the heket in the Domain of Kourna.,Куплено у хекетов во владениях Курны.
 Purchased from the map currency vendor in New Kaineng City.,Куплено у торговца за валюту карты в Новом Кайенге.
@@ -144,7 +144,7 @@ Purchased from Torruh Sweptweave after helping her disrupt the Separatist activi
 Purchased from unusual coin vendors in Lowland Shore and Janthir Syntri.,Куплено у торговцев за необычные монеты на Низменном Берегу и в Janthir Syntri.
 Purchased from unusual coin vendors in Mistburned Barrens and Bava Nisos.,Куплено у торговцев за необычные монеты в Mistburned Barrens и Bava Nisos.
 Purchased from Vast Caldera in Coursing Upland in Lowland Shore.,Приобретено у Vast Caldera в Coursing Upland в Lowland Shore.
-Purchased from Ward Trader Sampaguita in Bava Nisos.,Приобретено у торговца стражей Сампагиты в Бава-Нисос.
+Purchased from Ward Trader Sampaguita in Bava Nisos.,Приобретено у торговца стражей Сампагиты в Bava Nisos.
 Purchased from Ward Trader Sampaguita in Mantle's Arrival in Bava Nisos.,Приобретено у торговца Sampaguita в Mantle's Arrival в Бава-Низос.
 Purchased from Wark after rescuing him from the infatuated harpy matriarch.,Приобретается у Варка после спасения его от одержимой гарпии-матриархи.
 Purchased from Whispers of Wind in Festering Basin in Janthir Syntri.,Приобретено у Whispers of Wind в Заражённой низине в Janthir Syntri.

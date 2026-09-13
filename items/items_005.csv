@@ -79,7 +79,7 @@ Combine this item in the Mystic Forge with:
 <c=@flavor>This armor exudes the magical energy of the Vale Guardian.</c>,<c=@flavor>Эта броня источает магическую энергию Vale Guardian.</c>
 <c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from renown heart vendors in Lowland Shore.</c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Диких земель Джантира». Остатки можно купить у торговцев сердец почёта в Lowland Shore.</c>
 <c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from the renown heart vendor in Mistburned Barrens. </c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Диких земель Джантира». Остатки можно купить у торговца сердца почёта в Mistburned Barrens. </c>
-<c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from Ward Trader Sampaguita in Bava Nisos.</c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Диких земель Джантира». Остатки можно купить у торговки оберегов Сампагиты в Бава-Нисосе.</c>
+<c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from Ward Trader Sampaguita in Bava Nisos.</c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Диких земель Джантира». Остатки можно купить у торговки оберегов Сампагиты в Bava Nisos.</c>
 <c=@flavor>This badge deputizes the bearer as a Consortium Troubleshooter (Unpaid) for purposes of fractal stabilization.</c>,<c=@flavor>Этот значок наделяет носителя полномочиями устранителя неполадок Консорциума (без оплаты) для целей стабилизации фракталов.</c>
 "<c=@flavor>This badge is in inscribed with the words: ""Honorary member of the Crush warband. Mightiest in the fahrar!""</c>",<c=@flavor>На значке выгравировано: «Почётный член боевого отряда Дави. Могущественнейший в фахраре!»</c>
 <c=@flavor>This badge signifies a defender of the Moon Fortress at Gandara.</c>,<c=@flavor>Этот значок отмечает защитника Лунной крепости в Гандаре.</c>
@@ -578,7 +578,7 @@ Components may require Guild Wars 2: Heart of Thorns.","Книга рецепт�
 A book of homestead decoration recipes needed to craft objects from Fractals of the Mists.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Fractals of the Mists."
 "A book of homestead decoration recipes needed to craft objects from Grothmar Valley.
 Components may require access to Prologue: Bound by Blood in the Icebrood Saga.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Grothmar Valley.
-Для компонентов может потребоваться доступ к «Прологу: Узы крови» в «Саге о ледяном отродье»."
+Для компонентов может потребоваться доступ к «Прологу: Узы крови» в «Icebrood Saga»."
 "A book of homestead decoration recipes needed to craft objects from Inner Nayos.
 Components may require Guild Wars 2: Secrets of the Obscure.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Inner Nayos.
 Для компонентов может потребоваться Guild Wars 2: Secrets of the Obscure."
@@ -622,7 +622,7 @@ A book of recipes needed to craft True Sight shoulders.,"Книга рецепт
 "A bottle of stolen pirate rum. Duidda, east of the Greybeard's Landing, is collecting Pirate Rum.",Бутылка краденого пиратского рома. Дуидда к востоку от Причала Седобородого собирает пиратский ром.
 "A box salvaged from the Aetherblades containing various items from Shing Jea Monastery. A monk nearby is probably looking for this.
 
-This item has no use outside of a collection.","Коробка, снятый у Эфирных Клинков, с разными предметами из монастыря Шинг Джея. Наверняка его ищет кто-то из здешних монахов.
+This item has no use outside of a collection.","Коробка, снятый у Эфирных Клинков, с разными предметами из монастыря Shing Jea. Наверняка его ищет кто-то из здешних монахов.
 
 Вне коллекции этот предмет бесполезен."
 A Breath of Life,A Breath of Life

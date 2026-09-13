@@ -75,7 +75,7 @@ Completed Siren's Reef at Fractal Scale 26 or Higher,Прошли «Сирени
 Complete laps of the roller beetle race in Snowden Drifts. (This achievement can be completed in the race event or adventure.),"Проведите несколько кругов на гоночном жуке в Snowden Drifts. (Это достижение можно получить как в событии «Гонки», так и в приключении.)"
 Destroy the plague experiments in the Inquest lab.,Уничтожьте заражённые образцы в лаборатории Инквизитора.
 ((1015694)),((1015694))
-Complete laps of the roller beetle race in Southsun Cove. (This achievement can be completed in the race event or adventure.),"Проведите несколько полных кругов на гоночном жуке в Южном Заливе. (Это достижение можно получить как во время гонки, так и в приключении.)"
+Complete laps of the roller beetle race in Southsun Cove. (This achievement can be completed in the race event or adventure.),"Проведите несколько полных кругов на гоночном жуке в Southsun Cove. (Это достижение можно получить как во время гонки, так и в приключении.)"
 Equipping a <c=@abilitytype>Virtue</c> grants you quickness. Every third <c=@abilitytype>Tome</c> skill grants you pages.<br><c=@reminder>Stacks reset when exiting a tome.<br>Quickness can only be gained once per interval</c>,Надевание <c=@abilitytype>Добродетели</c> даёт вам эффект «Проворство». Каждое третье умение из <c=@abilitytype>Тома</c> даёт вам страницы.<br><c=@reminder>Бонусы сбрасываются при выходе из тома.<br>Эффект «Проворство» можно получить только один раз за интервал.</c>
 Fire a shot that inflicts vulnerability on your target. Applies additional vulnerability when used against your marked target.,"Выпустите снаряд, который накладывает эффект уязвимости на цель. При использовании против отмеченной цели дополнительно накладывает эффект уязвимости."
 "<c=@abilitytype>Psionic.</c> Drop a massive blade on a location, immobilizing enemies. This attack deals increased damage against controlled, downed, or defiant foes. <c=@reminder>Does bonus defiance-bar damage to defiant foes.</c><br><c=@reminder>Controls include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","<c=@abilitytype>Псионика.</c> Обрушьте на цель огромный клинок, обездвиживая врагов. Эта атака наносит увеличенный урон целям, находящимся под контролем, в состоянии оглушения или сопротивления. <c=@reminder>Наносит дополнительный урон шкале сопротивления врагам, находящимся в состоянии сопротивления.</c><br><c=@reminder>Эффекты контроля включают оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
@@ -835,7 +835,7 @@ Excavation Point 7-G,Раскоп 7-Г
 Heitor,Эйтор
 Lady Kasmeer Meade,Леди Касмир Мид
 Raptor Rental,Аренда рапторов
-Jade Brotherhood,Нефритовое братство
+Jade Brotherhood,Jade Brotherhood
 Tae-Jin's Estate,Имение Тэйджина
 Technician,Техник
 Haunted Nolani Waypoint,Призрачный перекресток Нолани

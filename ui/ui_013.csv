@@ -151,10 +151,10 @@ english,translate
 %str1%%str2%Stellar Short Bow%str3%%str4%,%str1%%str2%Звёздный короткий лук%str3%%str4%
 %str1%%str2%Stellar Spire%str3%%str4%,%str1%%str2%Звёздный шпиль%str3%%str4%
 %str1%%str2%Stone Eye%str3%%str4%,%str1%%str2%Каменный глаз%str3%%str4%
-%str1%%str2%Stone Summit Boots%str3%%str4%,%str1%%str2%Сапоги Каменной Вершины%str3%%str4%
-%str1%%str2%Stone Summit Gauntlets%str3%%str4%,%str1%%str2%Перчатки Каменной Вершины%str3%%str4%
-%str1%%str2%Stone Summit Helmet%str3%%str4%,%str1%%str2%Шлем Каменной Вершины%str3%%str4%
-%str1%%str2%Stone Summit Pauldrons%str3%%str4%,%str1%%str2%Наплечники Каменного Пика%str3%%str4%
+%str1%%str2%Stone Summit Boots%str3%%str4%,%str1%%str2%Сапоги Stone Summit%str3%%str4%
+%str1%%str2%Stone Summit Gauntlets%str3%%str4%,%str1%%str2%Перчатки Stone Summit%str3%%str4%
+%str1%%str2%Stone Summit Helmet%str3%%str4%,%str1%%str2%Шлем Stone Summit%str3%%str4%
+%str1%%str2%Stone Summit Pauldrons%str3%%str4%,%str1%%str2%Наплечники Stone Summit%str3%%str4%
 %str1%%str2%Stone-Growth Axe%str3%%str4%,%str1%%str2%Каменный топор%str3%%str4%
 %str1%%str2%Stone-Growth Dagger%str3%%str4%,%str1%%str2%Каменный кинжал%str3%%str4%
 %str1%%str2%Stone-Growth Focus%str3%%str4%,%str1%%str2%Каменный фокус%str3%%str4%

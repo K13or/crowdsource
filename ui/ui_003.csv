@@ -326,18 +326,18 @@ english,translate
 %str1%%str2%Astral Scepter%str3%%str4%,%str1%%str2%Астральный скипетр%str3%%str4%
 %str1%%str2%Astral Short Bow%str3%%str4%,%str1%%str2%Астральный короткий лук%str3%%str4%
 %str1%%str2%Astral Spire%str3%%str4%,%str1%%str2%Астральный шпиль%str3%%str4%
-%str1%%str2%Astral Ward Heavy Boots%str3%%str4%,%str1%%str2%Тяжёлые сапоги Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Heavy Coat%str3%%str4%,%str1%%str2%Тяжёлая куртка Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Heavy Gloves%str3%%str4%,%str1%%str2%Тяжёлые перчатки Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Heavy Helm%str3%%str4%,%str1%%str2%Тяжёлый шлем Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Heavy Leggings%str3%%str4%,%str1%%str2%Тяжёлые поножи Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Heavy Shoulders%str3%%str4%,%str1%%str2%Тяжёлые наплечники Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Light Boots%str3%%str4%,%str1%%str2%Лёгкие сапоги Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Light Coat%str3%%str4%,%str1%%str2%Лёгкая куртка Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Light Gloves%str3%%str4%,%str1%%str2%Лёгкие перчатки Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Light Helm%str3%%str4%,%str1%%str2%Лёгкий шлем Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Light Leggings%str3%%str4%,%str1%%str2%Лёгкие поножи Астральной стражи%str3%%str4%
-%str1%%str2%Astral Ward Light Shoulders%str3%%str4%,%str1%%str2%Лёгкие наплечники Астральной стражи%str3%%str4%
+%str1%%str2%Astral Ward Heavy Boots%str3%%str4%,%str1%%str2%Тяжёлые сапоги Astral Ward%str3%%str4%
+%str1%%str2%Astral Ward Heavy Coat%str3%%str4%,%str1%%str2%Тяжёлая куртка Astral Ward%str3%%str4%
+%str1%%str2%Astral Ward Heavy Gloves%str3%%str4%,%str1%%str2%Тяжёлые перчатки Astral Ward%str3%%str4%
+%str1%%str2%Astral Ward Heavy Helm%str3%%str4%,%str1%%str2%Тяжёлый шлем Astral Ward%str3%%str4%
+%str1%%str2%Astral Ward Heavy Leggings%str3%%str4%,%str1%%str2%Тяжёлые поножи Astral Ward%str3%%str4%
+%str1%%str2%Astral Ward Heavy Shoulders%str3%%str4%,%str1%%str2%Тяжёлые наплечники Astral Ward%str3%%str4%
+%str1%%str2%Astral Ward Light Boots%str3%%str4%,%str1%%str2%Лёгкие сапоги Astral Ward%str3%%str4%
+%str1%%str2%Astral Ward Light Coat%str3%%str4%,%str1%%str2%Лёгкая куртка Astral Ward%str3%%str4%
+%str1%%str2%Astral Ward Light Gloves%str3%%str4%,%str1%%str2%Лёгкие перчатки Astral Ward%str3%%str4%
+%str1%%str2%Astral Ward Light Helm%str3%%str4%,%str1%%str2%Лёгкий шлем Astral Ward%str3%%str4%
+%str1%%str2%Astral Ward Light Leggings%str3%%str4%,%str1%%str2%Лёгкие поножи Astral Ward%str3%%str4%
+%str1%%str2%Astral Ward Light Shoulders%str3%%str4%,%str1%%str2%Лёгкие наплечники Astral Ward%str3%%str4%
 %str1%%str2%Astral Ward Medium Boots%str3%%str4%,%str1%%str2%Astral Ward Medium Boots%str3%%str4%
 %str1%%str2%Astral Ward Medium Coat%str3%%str4%,%str1%%str2%Astral Ward Medium Coat%str3%%str4%
 %str1%%str2%Astral Ward Medium Gloves%str3%%str4%,%str1%%str2%Astral Ward Medium Gloves%str3%%str4%
