@@ -93,16 +93,16 @@ english,translate
 %str1%%str2%Dragon Slayer Longbow%str3%%str4%,%str1%%str2%Лазурный длинный лук убийцы драконов%str3%%str4%
 %str1%%str2%Dragon Slayer Rifle%str3%%str4%,%str1%%str2%Лазурная Dragon Slayer Rifle%str3%%str4%
 %str1%%str2%Dragon Slayer Short Bow%str3%%str4%,%str1%%str2%Short Bow зверобоя%str3%%str4%
-%str1%%str2%Dragon Slayer Staff%str3%%str4%,%str1%%str2%Лазурный факел убийцы драконов%str3%%str4%
+%str1%%str2%Dragon Slayer Staff%str3%%str4%,%str1%%str2%Посох убийцы драконов%str3%%str4%
 %str1%%str2%Dragon Slayer Warhorn%str3%%str4%,%str1%%str2%Лазурный боевой рог убийцы драконов%str3%%str4%
 %str1%%str2%Dredge Spear%str3%%str4%,%str1%%str2%Золочёное копьё%str3%%str4%
 %str1%%str2%Druid's Shoulderguards%str3%%str4%,%str1%%str2%Оплечья лесовода%str3%%str4%
 %str1%%str2%Duelist Gloves%str3%%str4%,%str1%%str2%Перчатки каббалиста%str3%%str4%
-%str1%%str2%Duelist Mask%str3%%str4%,%str1%%str2%Куртка каббалиста%str3%%str4%
+%str1%%str2%Duelist Mask%str3%%str4%,%str1%%str2%Маска дуэлянта%str3%%str4%
 %str1%%str2%Duelist Pants%str3%%str4%,%str1%%str2%Сапоги каббалиста%str3%%str4%
 %str1%%str2%Ebon Epaulets%str3%%str4%,%str1%%str2%Эполеты адепта%str3%%str4%
-%str1%%str2%Fiery Dragon Slayer Axe%str3%%str4%,%str1%%str2%Лазурная булава убийцы драконов%str3%%str4%
-%str1%%str2%Fractal Focus%str3%%str4%,%str1%%str2%Карнавальный посох%str3%%str4%
+%str1%%str2%Fiery Dragon Slayer Axe%str3%%str4%,%str1%%str2%Огненный топор убийцы драконов%str3%%str4%
+%str1%%str2%Fractal Focus%str3%%str4%,%str1%%str2%Фрактальный фокус%str3%%str4%
 %str1%%str2%Full Moon Greatsword%str3%%str4%,%str1%%str2%Двуручный меч кровавой луны%str3%%str4%
 %str1%%str2%Fused Dagger%str3%%str4%,%str1%%str2%Аурический кинжал%str3%%str4%
 %str1%%str2%Greatbow of the Broken Voice%str3%%str4%,%str1%%str2%Бастион Сломленного Голоса%str3%%str4%
@@ -110,9 +110,9 @@ english,translate
 %str1%%str2%Hearty Chef's Backpack%str3%%str4%,%str1%%str2%Базовый рюкзак повара%str3%%str4%
 %str1%%str2%Herald of the Broken Voice%str3%%str4%,%str1%%str2%Клинок Сломленного Голоса%str3%%str4%
 %str1%%str2%Herald's Shield%str3%%str4%,%str1%%str2%Щит хаоса%str3%%str4%
-%str1%%str2%Hero's Dagger%str3%%str4%,%str1%%str2%Молот хаоса%str3%%str4%
+%str1%%str2%Hero's Dagger%str3%%str4%,%str1%%str2%Кинжал героя%str3%%str4%
 %str1%%str2%Hero's Pistol%str3%%str4%,%str1%%str2%Бронзовый пистолет%str3%%str4%
-%str1%%str2%Hero's Torch%str3%%str4%,%str1%%str2%Меч хаоса%str3%%str4%
+%str1%%str2%Hero's Torch%str3%%str4%,%str1%%str2%Факел героя%str3%%str4%
 %str1%%str2%Hoofed Shoes%str3%%str4%,%str1%%str2%Клинковые туфли%str3%%str4%
 %str1%%str2%Impaler of the Sunless%str3%%str4%,%str1%%str2%Клинок Бессолнечного%str3%%str4%
 %str1%%str2%Leather Aquabreather%str3%%str4%,%str1%%str2%Глубинная аквамаска%str3%%str4%
@@ -139,7 +139,7 @@ english,translate
 %str1%%str2%Steel Shield%str3%%str4%,%str1%%str2%Аурический щит%str3%%str4%
 %str1%%str2%Stride of Koda%str3%%str4%,%str1%%str2%Бремя Коды%str3%%str4%
 %str1%%str2%Studded Helm%str3%%str4%,%str1%%str2%Полосный шлем%str3%%str4%
-%str1%%str2%Student Shoes%str3%%str4%,%str1%%str2%Куртка адепта%str3%%str4%
+%str1%%str2%Student Shoes%str3%%str4%,%str1%%str2%Студенческие туфли%str3%%str4%
 %str1%%str2%Tenebrous Greatsword%str3%%str4%,%str1%%str2%Двуручный меч хаоса%str3%%str4%
 %str1%%str2%Tengu Dagger%str3%%str4%,%str1%%str2%Кинжал чаков%str3%%str4%
 %str1%%str2%Tengu Pistol%str3%%str4%,%str1%%str2%Пистолет чаков%str3%%str4%

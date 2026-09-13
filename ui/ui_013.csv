@@ -51,7 +51,7 @@ english,translate
 %str1%%str2%Spectral Longbow%str3%%str4%,%str1%%str2%Призрачный длинный лук%str3%%str4%
 %str1%%str2%Spectral Mace%str3%%str4%,%str1%%str2%Призрачная булава%str3%%str4%
 %str1%%str2%Spectral Pistol%str3%%str4%,%str1%%str2%Пистолет «Zodiac»%str3%%str4%
-%str1%%str2%Spectral Rifle%str3%%str4%,%str1%%str2%Карнавальный факел%str3%%str4%
+%str1%%str2%Spectral Rifle%str3%%str4%,%str1%%str2%Спектральная винтовка%str3%%str4%
 %str1%%str2%Spectral Shield%str3%%str4%,%str1%%str2%Призрачный щит%str3%%str4%
 %str1%%str2%Spectral Short Bow%str3%%str4%,%str1%%str2%Призрачный короткий лук%str3%%str4%
 %str1%%str2%Spectral Staff%str3%%str4%,%str1%%str2%Призрачный посох%str3%%str4%
@@ -373,7 +373,7 @@ english,translate
 %str1%%str2%Tempered Scale Legs%str3%%str4%,%str1%%str2%Закалённые чешуйчатые поножи%str3%%str4%
 %str1%%str2%Tempered Scale Pauldrons%str3%%str4%,%str1%%str2%Закалённые чешуйчатые наплечники%str3%%str4%
 %str1%%str2%Tempered Spinal Blades%str3%%str4%,%str1%%str2%Закалённые спинные лезвия%str3%%str4%
-%str1%%str2%Tempest Axe%str3%%str4%,%str1%%str2%Булава Инквеста%str3%%str4%
+%str1%%str2%Tempest Axe%str3%%str4%,%str1%%str2%Топор бури%str3%%str4%
 %str1%%str2%Tempest Dagger%str3%%str4%,%str1%%str2%Кинжал Инквеста%str3%%str4%
 "%str1%%str2%Tempest Focus[pl:""Foci""]%str3%%str4%",%str1%%str2%[Фокус|фокуса|фокусов] «Буря»%str3%%str4%
 %str1%%str2%Tempest Greatsword%str3%%str4%,%str1%%str2%Двуручный меч бури%str3%%str4%

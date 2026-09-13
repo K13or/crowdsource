@@ -172,7 +172,7 @@ english,translate
 %str1%%str2%Shadewort%str3%%str4%,%str1%%str2%Теневая трава%str3%%str4%
 %str1%%str2%Shadow Axe%str3%%str4%,%str1%%str2%Теневой топор%str3%%str4%
 %str1%%str2%Shadow Dagger%str3%%str4%,%str1%%str2%Теневой кинжал%str3%%str4%
-%str1%%str2%Shadow Hammer%str3%%str4%,%str1%%str2%Кинжал Абаддона%str3%%str4%
+%str1%%str2%Shadow Hammer%str3%%str4%,%str1%%str2%Теневой молот%str3%%str4%
 %str1%%str2%Shadow Mace%str3%%str4%,%str1%%str2%Теневая булава%str3%%str4%
 %str1%%str2%Shadow of Grenth%str3%%str4%,%str1%%str2%Тень Грента%str3%%str4%
 %str1%%str2%Shadow of the Dragon Gloves%str3%%str4%,%str1%%str2%Перчатки тени дракона%str3%%str4%
@@ -420,7 +420,7 @@ english,translate
 %str1%%str2%Soaring Pistol%str3%%str4%,%str1%%str2%Парящий пистолет%str3%%str4%
 %str1%%str2%Soaring Rifle%str3%%str4%,%str1%%str2%Парящая винтовка%str3%%str4%
 %str1%%str2%Soaring Scepter%str3%%str4%,%str1%%str2%Парящий скипетр%str3%%str4%
-%str1%%str2%Soaring Shield%str3%%str4%,%str1%%str2%Цепной меч%str3%%str4%
+%str1%%str2%Soaring Shield%str3%%str4%,%str1%%str2%Парящий щит%str3%%str4%
 %str1%%str2%Soaring Short Bow%str3%%str4%,%str1%%str2%Парящий короткий лук%str3%%str4%
 %str1%%str2%Soaring Staff%str3%%str4%,%str1%%str2%Парящий посох%str3%%str4%
 %str1%%str2%Soaring Torch%str3%%str4%,%str1%%str2%Парящий факел%str3%%str4%
@@ -458,7 +458,7 @@ english,translate
 %str1%%str2%Sorcerer's Livery%str3%%str4%,%str1%%str2%Одеяние колдуна%str3%%str4%
 %str1%%str2%Sorcerer's Masque%str3%%str4%,%str1%%str2%Маска колдуна%str3%%str4%
 %str1%%str2%Sorcerer's Pants%str3%%str4%,%str1%%str2%Штаны колдуна%str3%%str4%
-%str1%%str2%Sorcerer's Shoes%str3%%str4%,%str1%%str2%Сапоги колдуна%str3%%str4%
+%str1%%str2%Sorcerer's Shoes%str3%%str4%,%str1%%str2%Туфли чародея%str3%%str4%
 %str1%%str2%Soul of Koda%str3%%str4%,%str1%%str2%Душа Коды%str3%%str4%
 %str1%%str2%Soulbeast Pads%str3%%str4%,%str1%%str2%Ступни зверодушника%str3%%str4%
 %str1%%str2%Soulbeast's Dagger%str3%%str4%,%str1%%str2%Кинжал душезверя%str3%%str4%
