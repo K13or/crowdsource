@@ -413,7 +413,7 @@ Death stalks me.,Смерть преследует меня.
 Death!,Смерть!
 Deathly Dye Kit[s],Набор[|а|ов] смертельных красок
 Debrief Pact survivors to discover the location of Trahearne and Destiny's Edge.,"Опросите выживших из Пакта, чтобы выяснить местонахождение Трихерна и Грани Судьбы."
-Decapitate %num2% head[s] of the great jungle wurm in Bloodtide Coast.,Обезглавьте %num2% голов[у|ы|] большого джунглевого вурма на Кровавом побережье.
+Decapitate %num2% head[s] of the great jungle wurm in Bloodtide Coast.,Обезглавьте %num2% голов[у|ы|] большого джунглевого вурма на Bloodtide Coast.
 "Decaying Mass[pl:""Masses""]",Гниющая масса
 Decipher the code to reveal the dredge's next target.,"Расшифруйте код, чтобы узнать следующую цель дреджей."
 Decontamination Core,Ядро дезактивации
@@ -435,7 +435,7 @@ Defeat %num1%/%num2% legendary creatures during the final assault against Kralka
 Defeat %num2% Aberrant in Northern Drizzlewood Coast.,Победите %num2% аберрантов на севере Drizzlewood Coast.
 Defeat %num2% Avatars of Spite.,Победите %num2% воплощений Злобы.
 "Defeat %num2% Branded, Destroyer, Icebrood, or Mordrem enemy[pl:""enemies""].","Победите %num2% [врага|врага|врагов] из числа клеймёных, разрушителей, ледяных отродий или мордремов."
-"Defeat %num2% Destroyer enemy[pl:""enemies""] in Mount Maelstrom.",Победите %num2% [врага-разрушителя|врага-разрушителя|врагов-разрушителей] на горе Мальстрём.
+"Defeat %num2% Destroyer enemy[pl:""enemies""] in Mount Maelstrom.",Победите %num2% [врага-разрушителя|врага-разрушителя|врагов-разрушителей] на Mount Maelstrom.
 Defeat %num2% Dominion charr in Leadfoot Village in the Drizzlewood Coast.,Победите %num2% чарров Доминиона в деревне Свинцовая Стопа на Drizzlewood Coast.
 Defeat %num2% Dominion charr in Lighthouse Point in the Drizzlewood Coast.,Победите %num2% чарров Доминиона на мысе Маяк на Drizzlewood Coast.
 Defeat %num2% Dominion charr in Petraj Overlook in the Drizzlewood Coast.,Победите %num2% чарров Доминиона на Петражском Уступе на Drizzlewood Coast.
@@ -447,10 +447,10 @@ Defeat %num2% Dominion tribunes in the Northern Drizzlewood Coast.,Победи�
 Defeat %num2% Fallen in Northern Drizzlewood Coast.,Победите %num2% падших на севере Drizzlewood Coast.
 "Defeat %num2% Flame Legion enemy[pl:""enemies""] in Iron Marches and Fireheart Rise.",Победите %num2% [врага|врага|врагов] из Flame Legion в Железных Топях и на Fireheart Rise.
 "Defeat %num2% Icebrood enemy[pl:""enemies""] in Frostgorge Sound.",Победите %num2% [ледяное отродье|ледяных отродья|ледяных отродий] в Frostgorge Sound.
-"Defeat %num2% Inquest enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% [врага|врага|врагов] из Inquest на горе Мальстрём и в Топи Искрокрылов.
+"Defeat %num2% Inquest enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% [врага|врага|врагов] из Inquest на Mount Maelstrom и в Топи Искрокрылов.
 Defeat %num2% Karka in Southsun Cove.,Победите %num2% карка в Southsun Cove.
 Defeat %num2% Kryptis attacking through rifts while fighting Charybda or Eparch.,"Победите %num2% криптисов, атакующих через разломы, во время боя с Харибдой или Эпархом."
-"Defeat %num2% Risen enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% [восставшего врага|восставших врага|восставших врагов] на Горе Мальстрём и в Топи Искрокрылов.
+"Defeat %num2% Risen enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% [восставшего врага|восставших врага|восставших врагов] на Mount Maelstrom и в Топи Искрокрылов.
 "Defeat %num2% Risen enemy[pl:""enemies""] in the Straits of Devastation, Malchor's Leap, or Cursed Shore.","Победите %num2% [восставшего врага|восставших врага|восставших врагов] в Проливах Опустошения, на Malchor's Leap или Cursed Shore."
 Defeat %num2% Sons of Svanir in Northern Drizzlewood Coast.,Победите %num2% Sons of Svanir на севере Drizzlewood Coast.
 Defeat %num2% archer[s] or door breaker[s] during Battle of Champion's Dusk rated matches.,Победите %num2% [лучника или взломщика ворот|лучника или взломщика ворот|лучников или взломщиков ворот] в рейтинговых матчах «Битва Сумерек Чемпиона».

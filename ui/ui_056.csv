@@ -43,7 +43,7 @@ Downed Skill 3 Unlocked,Навык в нокдауне 3 разблокиров�
 Downed Skills,Навыки в нокдауне
 Download in Foreground?,Загрузить на переднем плане?
 Download in Progress,Загрузка...
-Download Professor Portmatt's research from his lab in Bloodtide Coast.,Загрузите исследование Professor Portmatt из его лаборатории на Кровавом побережье.
+Download Professor Portmatt's research from his lab in Bloodtide Coast.,Загрузите исследование Professor Portmatt из его лаборатории на Bloodtide Coast.
 Download Region?,Загрузить регион?
 Download the software module from an Inquest terminal and use it to update the software for IG-6417.,Загрузите программный модуль с терминала Inquest и используйте его для обновления ПО для IG-6417.
 "Doyen,    Do not weep for me. I chose this. To give my soul for the preservation of your great works, that your secrets may forever endure...it is more than this astrologer deserves. There can be no higher privilege. No greater honor.    Our star is grown ascendant by your wisdom. This, you know. I have read it for your eminence many times, here in this tower. When I meet the All Seer, I will carry with me the endless pride of having known and served you, my doyen.    My friend. My master of ages. My dearest Sidony.    Farewell,  Your Raul","Доайен, Не плачь по мне. Я выбрал это. Отдать свою душу за сохранение твоих великих трудов, чтобы твои тайны вечно сохранялись... это больше, чем заслуживает этот астролог. Не может быть более высокой привилегии. Большей чести.
@@ -93,33 +93,33 @@ Dragon Ball Champion's Chest[s] of 10 Divine Lucky Envelopes,[Сундук|Су�
 Dragon Ball Champion's Divine Lucky Envelope[s],[Божественный счастливый конверт|Божественного счастливого конверта|Божественных счастливых конвертов] чемпиона по драконболу
 Dragon Ball Champion's Stack[s] of 5 Divine Lucky Envelopes,[Стопка|Стопки|Стопок] чемпиона по драконболу с 5 божественными счастливыми конвертами
 Dragon Banner Tactic[s],[Тактика|Тактики|Тактик] знамени дракона
-Dragon Bash Achievements: %num1%,Достижения «Пиршества Дракона»: %num1%
-Dragon Bash Annual Achievements: %num1%,Годовые достижения «Пиршества Дракона»: %num1%
+Dragon Bash Achievements: %num1%,Достижения «Dragon Bash»: %num1%
+Dragon Bash Annual Achievements: %num1%,Годовые достижения «Dragon Bash»: %num1%
 Dragon Bash Arena,Арена Dragon Bash
-Dragon Bash Armor,Броня «Пиршества Дракона»
-Dragon Bash Banner[s],[Знамя|Знамени|Знамён] Праздника драконов
-Dragon Bash Candy,Конфеты «Пиршества Дракона»
-Dragon Bash Candy Vendor,Торговец конфетами «Пиршества Дракона»
+Dragon Bash Armor,Броня «Dragon Bash»
+Dragon Bash Banner[s],[Знамя|Знамени|Знамён] Dragon Bash
+Dragon Bash Candy,Конфеты «Dragon Bash»
+Dragon Bash Candy Vendor,Торговец конфетами «Dragon Bash»
 "Dragon Bash festivities, including the Effigy Ceremony, continue in Lion's Arch despite disturbances.","Гуляния «Dragon Bash», включая Церемонию чучела, продолжаются в Lion's Arch, несмотря на беспорядки."
-Dragon Bash Firework Launcher[s],[Пусковая установка|Пусковой установки|Пусковых установок] фейерверков Праздника драконов
+Dragon Bash Firework Launcher[s],[Пусковая установка|Пусковой установки|Пусковых установок] фейерверков Dragon Bash
 Dragon Bash Food Vendor,Торговец едой Dragon Bash
 Dragon Bash has not yet begun.,Dragon Bash ещё не начался.
 Dragon Bash Hologram Projector,Голографический проектор Dragon Bash
 Dragon Bash Homestead Recipes,Рецепты усадьбы Dragon Bash
 Dragon Bash in Lion's Arch,Dragon Bash в Lion's Arch
 Dragon Bash is in full swing in Lion's Arch. Catch the fireworks shows this weekend.,Dragon Bash в самом разгаре в Lion's Arch. Ловите фейерверки в эти выходные.
-Dragon Bash Kite[s],[Воздушный змей|Воздушного змея|Воздушных змеев] Праздника драконов
+Dragon Bash Kite[s],[Воздушный змей|Воздушного змея|Воздушных змеев] Dragon Bash
 Dragon Bash Minis,Миниатюры Dragon Bash
 Dragon Bash Potion Vendor,Торговец зельями Dragon Bash
-Dragon Bash Prize Coffer[s],[Сундук|Сундука|Сундуков] с призами Праздника драконов
+Dragon Bash Prize Coffer[s],[Сундук|Сундука|Сундуков] с призами Dragon Bash
 Dragon Bash Prizes,Призы Dragon Bash
-Dragon Bash Pylon[s],[Пилон|Пилона|Пилонов] Праздника драконов
+Dragon Bash Pylon[s],[Пилон|Пилона|Пилонов] Dragon Bash
 Dragon Bash Reward Track,Трек наград Dragon Bash
 Dragon Bash Thanks,Благодарности Dragon Bash
-Dragon Bash Victory Coffer[s],[Сундук|Сундука|Сундуков] победы Праздника драконов
+Dragon Bash Victory Coffer[s],[Сундук|Сундука|Сундуков] победы Dragon Bash
 Dragon Bash Weapons,Оружие Dragon Bash
 Dragon Bash Weekly Trader,Еженедельный торговец Dragon Bash
-Dragon Bash Windcatcher[s],[Флюгер|Флюгера|Флюгеров] Праздника драконов
+Dragon Bash Windcatcher[s],[Флюгер|Флюгера|Флюгеров] Dragon Bash
 Dragon Bash: Celebration,Dragon Bash: Торжество
 Dragon Bash: Effigy Ceremony,Dragon Bash: Церемония чучела
 Dragon Bashers Completed,Участники Драконьего удара завершены
@@ -251,10 +251,10 @@ Dragon's Might,Драконья мощь
 Dragon's Orichalcum Imbued Inscription[s],Напитанн[ая орихалком гравировка|ые орихалком гравировки|ых орихалком гравировок] Дракона
 Dragon's Pounce,Драконий прыжок
 Dragon's Revelry Starcake[s],Звёздный пирог[|а|ов] драконьего веселья
-Dragon's Stand (Pact Base Camp),Оплот Дракона (Базовый лагерь Пакта)
-Dragon's Stand Respite,Приют Оплота Дракона
-Dragon's Stand Tiger Refuge Sign,Вывеска тигриного убежища Оплота Дракона
-Dragon's Stand: Broken Altar,Оплот Дракона: Разрушенный алтарь
+Dragon's Stand (Pact Base Camp),Dragon's Stand (Базовый лагерь Пакта)
+Dragon's Stand Respite,Приют Dragon's Stand
+Dragon's Stand Tiger Refuge Sign,Вывеска тигриного убежища Dragon's Stand
+Dragon's Stand: Broken Altar,Dragon's Stand: Разрушенный алтарь
 Dragon's Stand: Commander's Choice Chest[s],[Сундук|Сундука|Сундуков] командира из Драконьей заставы
 Dragon's Tooth Lantern[s],Фонар[ь|я|ей] «Зуб дракона»
 Dragon's Watch Backpack Voucher Preview,Предпросмотр ваучера на рюкзак Дозора Дракона

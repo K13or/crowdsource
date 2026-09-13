@@ -910,7 +910,7 @@ Summons a Black Lion Merchant If Your Inventory Is Full after Gathering (20-Minu
 -8%% урона от нежити
 +10%% опыта за убийства"
 "+9%% Strike Damage vs. Dragon Bash Holograms
-+1%% Strike Damage","+9%% урона против голограмм Драконьего Разгрома
++1%% Strike Damage","+9%% урона против голограмм Dragon Bash
 +1%% обычного урона"
 ",",","
 ", %str1%",", %str1%"

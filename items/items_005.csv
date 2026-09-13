@@ -78,7 +78,7 @@ Combine this item in the Mystic Forge with:
 <c=@flavor>This armor attempts to channel the power of the envoys.</c>,<c=@flavor>Эта броня пытается направлять силу посланников.</c>
 <c=@flavor>This armor exudes the magical energy of the Vale Guardian.</c>,<c=@flavor>Эта броня источает магическую энергию Vale Guardian.</c>
 <c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from renown heart vendors in Lowland Shore.</c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Диких земель Джантира». Остатки можно купить у торговцев сердец почёта в Lowland Shore.</c>
-<c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from the renown heart vendor in Mistburned Barrens. </c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Диких земель Джантира». Остатки можно купить у торговца сердца почёта в Туманно-выжженных пустошах. </c>
+<c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from the renown heart vendor in Mistburned Barrens. </c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Диких земель Джантира». Остатки можно купить у торговца сердца почёта в Mistburned Barrens. </c>
 <c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from Ward Trader Sampaguita in Bava Nisos.</c>,<c=@flavor>Этот наспинный предмет используется при создании легендарок «Диких земель Джантира». Остатки можно купить у торговки оберегов Сампагиты в Бава-Нисосе.</c>
 <c=@flavor>This badge deputizes the bearer as a Consortium Troubleshooter (Unpaid) for purposes of fractal stabilization.</c>,<c=@flavor>Этот значок наделяет носителя полномочиями устранителя неполадок Консорциума (без оплаты) для целей стабилизации фракталов.</c>
 "<c=@flavor>This badge is in inscribed with the words: ""Honorary member of the Crush warband. Mightiest in the fahrar!""</c>",<c=@flavor>На значке выгравировано: «Почётный член боевого отряда Дави. Могущественнейший в фахраре!»</c>
@@ -573,7 +573,7 @@ Components may require Guild Wars 2: Heart of Thorns.","Книга рецепт�
 Components may require Guild Wars 2: End of Dragons.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из End of Dragons.
 Для компонентов может потребоваться Guild Wars 2: Dragon's End."
 "A book of homestead decoration recipes needed to craft objects from Dragon's Stand.
-Components may require Guild Wars 2: Heart of Thorns.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Драконьей Твердыни.
+Components may require Guild Wars 2: Heart of Thorns.","Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Dragon's Stand.
 Для компонентов может потребоваться Guild Wars 2: Heart of Thorns."
 A book of homestead decoration recipes needed to craft objects from Fractals of the Mists.,"Книга рецептов украшений усадьбы, нужных для изготовления: предметов из Fractals of the Mists."
 "A book of homestead decoration recipes needed to craft objects from Grothmar Valley.

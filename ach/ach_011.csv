@@ -1,7 +1,7 @@
 english,translate
 Defeat %num2% Queen's Gauntlet opponent[s].,Победите %num2% противник[а|а|ов] Queen's Gauntlet.
 Defeat %num2% Queen's Gauntlet opponents.,Победите %num2% противников Queen's Gauntlet.
-"Defeat %num2% Risen enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% [восставшего врага|восставших врага|восставших врагов] на Горе Мальстрём и в Топи Искрокрылов.
+"Defeat %num2% Risen enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% [восставшего врага|восставших врага|восставших врагов] на Mount Maelstrom и в Топи Искрокрылов.
 "Defeat %num2% Risen enemy[pl:""enemies""] in the Straits of Devastation, Malchor's Leap, or Cursed Shore.","Победите %num2% [восставшего врага|восставших врага|восставших врагов] в Проливах Опустошения, на Malchor's Leap или Cursed Shore."
 Defeat %num2% Son[s] of Svanir.,Победите %num2% Сын[а|а|ов] Сванира.
 Defeat %num2% Sons of Svanir in Northern Drizzlewood Coast.,Победите %num2% Sons of Svanir на севере Drizzlewood Coast.
@@ -255,7 +255,7 @@ Defeat a champion boss in the Dragon Bash Arena.,Победите чемпион
 Defeat a champion in Bjora Marches.,Победите чемпиона в Bjora Marches.
 "Defeat a champion-rank enemy in Caledon Forest, Metrica Province, Brisban Wildlands, Sparkfly Fen, or Mount Maelstrom.","Победите врага ранга чемпиона в Caledon Forest, Metrica Province, Brisban Wildlands, Сверкающем болоте или Mount Maelstrom."
 "Defeat a champion-rank enemy in Queensdale, Gendarran Fields, Kessex Hills, Harathi Hinterlands, Bloodtide Coast, or Southsun Cove.","Победите врага ранга чемпиона в Квинсдейле, Gendarran Fields, Kessex Hills, Харатинских предгорьях, Bloodtide Coast или бухте Саутсан."
-"Defeat a champion-rank enemy in Wayfarer Foothills, Snowden Drifts, Lornar's Pass, Dredgehaunt Cliffs, Timberline Falls, or Frostgorge Sound.","Победите врага ранга чемпиона в Wayfarer Foothills, Сноуденских заносах, Lornar's Pass, Dredgehaunt Cliffs, Лесоповальных склонах или Звуке Морозной пропасти."
+"Defeat a champion-rank enemy in Wayfarer Foothills, Snowden Drifts, Lornar's Pass, Dredgehaunt Cliffs, Timberline Falls, or Frostgorge Sound.","Победите врага ранга чемпиона в Wayfarer Foothills, Snowden Drifts, Lornar's Pass, Dredgehaunt Cliffs, Лесоповальных склонах или Звуке Морозной пропасти."
 "Defeat a champion-rank enemy in the Plains of Ashford, Blazeridge Steppes, Iron Marches, Fields of Ruin, Diessa Plateau, or Fireheart Rise.","Победите врага ранга чемпиона на Plains of Ashford, Blazeridge Steppes, Iron Marches, Fields of Ruin, плато Дисса или Fireheart Rise."
 "Defeat a champion-rank enemy in the Straits of Devastation, Malchor's Leap, or the Cursed Shore.","Победите врага ранга чемпиона в проливах Опустошения, Прыжке Мальхора или Cursed Shore."
 Defeat a clone of yourself during the legendary doppelganger group event.,Победите своего клона во время группового события с легендарным двойником.
@@ -324,7 +324,7 @@ Defeat each of the Dominion tribunes.,Победите каждого из тр�
 Defeat each of the augmented emperors during the Shackles of the Ancients meta-event.,Победите каждого из усиленных императоров во время мета-события Shackles of the Ancients.
 Defeat each of the champions that appear after the Jade Crisis meta-event.,"Победите каждого из чемпионов, появляющихся после мета-события Jade Crisis."
 Defeat each of the enemies that is summoned in the ritual at the shrine to Hanuku.,"Победите каждого из врагов, призванных во время ритуала в святилище Hanuku."
-Defeat each of the great jungle wurm's %num2% heads in Bloodtide Coast.,Победите каждую из %num2% голов большого джунглевого вурма на Кровавом побережье.
+Defeat each of the great jungle wurm's %num2% heads in Bloodtide Coast.,Победите каждую из %num2% голов большого джунглевого вурма на Bloodtide Coast.
 Defeat each of the marionette's power regulator wardens.,Победите каждого из стражей регулятора мощности марионетки.
 Defeat each of the prestige hunting targets in the hunting grounds.,Победите каждую из престижных целей охоты на охотничьих угодьях.
 Defeat enemies with a mace as a ranger.,"Победите врагов с помощью булавы, играя за рейнджера."
@@ -434,7 +434,7 @@ Defeat the Mordrem teragriff without being hit by its malformed allies.,"Одо�
 Defeat the Mordrem tetrad after nightfall in Verdant Brink.,Одолейте тетраду мордемов после наступления темноты в Verdant Brink.
 Defeat the Mordrem thrasher without getting hit by its rain of spores.,"Одолейте Mordrem thrasher, не попав под его дождь спор."
 Defeat the Mordrem thrasher without losing any of Marjory's minions.,"Одолейте Mordrem thrasher, не потеряв ни одного из приспешников Marjory."
-Defeat the Mouth of Mordremoth in Dragon's Stand.,Победите Пасть Мордремота в Логове Дракона.
+Defeat the Mouth of Mordremoth in Dragon's Stand.,Победите Пасть Мордремота в Dragon's Stand.
 Defeat the Mursaat Overseer game piece and win the prison game.,Одолейте игровую фигуру Mursaat Overseer и выиграйте в тюремную игру.
 Defeat the Mursaat Overseer game piece while the challenge mote is active.,"Одолейте игровую фигуру Mursaat Overseer, пока активен челлендж-мот."
 Defeat the Ooze Pit's grand champion while pledged to all three legions.,"Одолейте великого чемпиона Ooze Pit, присягнув всем трем легионам."

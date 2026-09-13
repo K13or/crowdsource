@@ -330,7 +330,7 @@ Contains materials gathered from Dragon's End.","Дважды щёлкните, 
 Содержит материалы, собранные в Драконьем Пределе."
 "Double-click to open.
 Contains materials gathered from Echovald Wilds.","Дважды щёлкните, чтобы открыть.
-Содержит материалы, собранные в Эховальдских Пустошах."
+Содержит материалы, собранные в Echovald Wilds."
 "Double-click to open.
 Contains materials gathered from New Kaineng City.","Дважды щёлкните, чтобы открыть.
 Содержит материалы, собранные в New Kaineng."
@@ -380,7 +380,7 @@ Double-click to open. Contains 1 laurel.,"Дважды щёлкните, что�
 "Double-click to open. Contains 1 Sip of Liquid Karma, 1 Orrian Pearl, 25 Unbound Magic, and 1 Scrap of Maguuma Mastery (Autoconsume).","Дважды щёлкните, чтобы открыть. Содержит 1 Sip of Liquid Karma, 1 оррскую жемчужину, 25 несвязанной магии и 1 обрывок мастерства Магуумы (автопотребление)."
 "Double-click to open. Contains 1 Sip of Liquid Karma, 1 Petrified Wood, 25 Unbound Magic, and 1 Scrap of Maguuma Mastery (Autoconsume).","Дважды щёлкните, чтобы открыть. Содержит: 1 Sip of Liquid Karma, 1 Petrified Wood, 25 несвязанной магии и 1 обрывок мастерства Магуумы (автопотребление)."
 "Double-click to open. Contains 1 Sip of Liquid Karma, 1 Writ of Dragon's End, and 1 Scrap of End of Dragons Mastery (Autoconsume).","Дважды щёлкните, чтобы открыть. Содержит: 1 Sip of Liquid Karma, 1 свиток Края Дракона и 1 Scrap of End of Dragons Mastery (автопотребление)."
-"Double-click to open. Contains 1 Sip of Liquid Karma, 1 Writ of Echovald Wilds, and 1 Scrap of End of Dragons Mastery (Autoconsume).","Дважды щёлкните, чтобы открыть. Содержит: 1 Sip of Liquid Karma, 1 свиток Эховальдских пустошей и 1 обрывок мастерства Конца драконов (автопотребление)."
+"Double-click to open. Contains 1 Sip of Liquid Karma, 1 Writ of Echovald Wilds, and 1 Scrap of End of Dragons Mastery (Autoconsume).","Дважды щёлкните, чтобы открыть. Содержит: 1 Sip of Liquid Karma, 1 свиток Echovald Wilds и 1 обрывок мастерства Конца драконов (автопотребление)."
 "Double-click to open. Contains 1 Sip of Liquid Karma, 1 Writ of New Kaineng City, and 1 Scrap of End of Dragons Mastery (Autoconsume).","Дважды щёлкните, чтобы открыть. Содержит: 1 Sip of Liquid Karma, 1 свиток Нового Кайнен-Сити и 1 Scrap of End of Dragons Mastery (автопотребление)."
 "Double-click to open. Contains 1 Sip of Liquid Karma, 1 Writ of Seitung Province, and 1 Scrap of End of Dragons Mastery (Autoconsume).","Дважды щёлкните, чтобы открыть. Содержит: 1 Sip of Liquid Karma, 1 свиток Seitung Province и 1 Scrap of End of Dragons Mastery (автопотребление)."
 "Double-click to open. Contains 1 Sip of Liquid Karma, 10 Airship Parts, and 1 Scrap of Maguuma Mastery (Autoconsume).","Дважды щёлкните, чтобы открыть. Содержит: 1 Sip of Liquid Karma, 10 деталей дирижабля и 1 обрывок мастерства Магуумы (автопотребление)."
@@ -957,7 +957,7 @@ Double-click to take a sample of the miasma surrounding a recently fallen Brands
 Double-click to take out your kite.,"Дважды щёлкните, чтобы достать воздушного змея."
 "Double-click to take out your kite. This kite provides a 5% speed increase, 33% during sandstorms.","Дважды щёлкните, чтобы достать воздушного змея. Этот змей увеличивает вашу скорость на 5%, а во время песчаных бурь — на 33%."
 Double-click to take your rightful place.,"Дважды щёлкните, чтобы занять законное место."
-Double-click to teleport to Arborstone in the Echovald Wilds. <c=@Warning>This item cannot be used while in combat.</c>,"Дважды щёлкните, чтобы телепортироваться в Арборстоун в Эховальдских пустошах. <c=@Warning>Этот предмет нельзя использовать в бою.</c>"
+Double-click to teleport to Arborstone in the Echovald Wilds. <c=@Warning>This item cannot be used while in combat.</c>,"Дважды щёлкните, чтобы телепортироваться в Арборстоун в Echovald Wilds. <c=@Warning>Этот предмет нельзя использовать в бою.</c>"
 Double-click to teleport to Atholma in Sandswept Isles. <c=@Warning>This item cannot be used while in combat.</c>,"Дважды щёлкните, чтобы телепортироваться в Атолму на Занесённых песком островах. <c=@Warning>Этот предмет нельзя использовать в бою.</c>"
 Double-click to teleport to Bjora Marches. <c=@Warning>This item cannot be used while in combat.</c>,"Дважды щёлкните, чтобы телепортироваться в Bjora Marches. <c=@Warning>Этот предмет нельзя использовать в бою.</c>"
 Double-click to teleport to Bloated Beach in Siren's Landing. <c=@Warning>This item cannot be used while in combat.</c>,"Дважды щёлкните, чтобы телепортироваться на Вздутый пляж на Пристани Сирены. <c=@Warning>Этот предмет нельзя использовать в бою.</c>"

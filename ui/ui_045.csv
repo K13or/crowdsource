@@ -23,7 +23,7 @@ Competitive PvP Tower Assault (Regrown),Соревновательный PvP «�
 Complete %num1% ranked season game[s] to earn your skill rating.,"Сыграйте %num1% игр[у|ы|] рейтингового сезона, чтобы получить свой рейтинг мастерства."
 "Complete %num2% ""Flashpoint"" achievement[s].",Выполните %num2% достижени[е|я|й] «Вспышки».
 Complete %num2% achievement[s] for World 2.,Выполните %num2% достижени[е|я|й] Мира 2.
-Complete %num2% Dragon Bash achievement[s].,Выполните %num2% достижени[е|я|й] Драконьего Разгрома.
+Complete %num2% Dragon Bash achievement[s].,Выполните %num2% достижени[е|я|й] Dragon Bash.
 Complete %num2% Dragon Response Mission[s].,Завершите %num2% задани[е|я|й] по реагированию на драконов.
 Complete %num2% event[s] in Fields of Ruin.,Завершите %num2% событи[е|я|й] на Полях Руин.
 Complete %num2% explorable dungeon[s].,Пройдите %num2% исследуемы[х подземелье|х подземелья|х подземелий].
@@ -50,8 +50,8 @@ Complete 15 Repeatable Renown Hearts in Castora,Завершите 15 повто
 Complete 15 repeatable renown hearts in Castora.,Завершите 15 повторяемых сердец почёта на Касторе.
 Complete 15 Repeatable Renown Hearts in Janthir,Завершите 15 повторяемых сердец почёта в Джантире
 Complete 15 repeatable renown hearts in Janthir.,Завершите 15 повторяемых сердец почёта в Джантире.
-Complete 15 Survey Events in Mistburned Barrens,Завершите 15 событий обследования в Туманожжёных Пустошах
-Complete 15 survey events in Mistburned Barrens.,Завершите 15 событий обследования в Туманожжёных Пустошах.
+Complete 15 Survey Events in Mistburned Barrens,Завершите 15 событий обследования в Mistburned Barrens
+Complete 15 survey events in Mistburned Barrens.,Завершите 15 событий обследования в Mistburned Barrens.
 Complete 15 Tier 3 Rift Hunts,Завершите 15 охот на разломы 3-го уровня
 Complete 15 tier 3 rift hunts.,Завершите 15 охот на разломы 3-го уровня.
 Complete 2 supply caravan defense events in the borderlands or Eternal Battlegrounds maps within the time limit. At least 3 guild members must participate in the defense events to complete the mission.,Завершите 2 события защиты каравана снабжения на картах приграничья или Eternal Battlegrounds за отведённое время. Для выполнения задания в событиях защиты должны участвовать не менее 3 членов гильдии.
@@ -120,7 +120,7 @@ Complete all previous steps to unlock this one.,"Выполните все пр�
 Complete all previous steps to unlock this step.,"Выполните все предыдущие шаги, чтобы открыть этот шаг."
 Complete all previous steps to unlock this.,"Выполните все предыдущие шаги, чтобы это открыть."
 Complete all renown hearts in Crystal Oasis.,Завершите все сердца почёта в Crystal Oasis.
-Complete all renown hearts in Echovald Wilds.,Завершите все сердца почёта в Дебрях Эховальда.
+Complete all renown hearts in Echovald Wilds.,Завершите все сердца почёта в Echovald Wilds.
 Complete all renown hearts in the Desert Highlands.,Завершите все сердца почёта в Desert Highlands.
 Complete all renown hearts in the Desolation.,Завершите все сердца почёта в Опустошении.
 Complete all renown hearts in the Domain of Vabbi.,Завершите все сердца почёта в Domain of Vabbi.
@@ -164,13 +164,13 @@ Complete day 3 of the airship.,Завершите день 3 воздушног�
 Complete day 4 of the airship.,Завершите день 4 воздушного корабля.
 Complete day 5 of the airship.,Завершите день 5 воздушного корабля.
 "Complete Destroy the Ravenous Wanderer Meta-Event, Events in Gyala Delve, or Events in Maguuma Jungle","Завершите мета-событие «Уничтожьте Ненасытного Скитальца», события в Копях Гьяла или события в Maguuma Jungle"
-"Complete Dragon's Stand Meta-Event, Events in Dragon's Stand, or Events in Ascalon","Завершите мета-событие «Драконья Твердыня», события в Драконьей Твердыне или события в Аскалоне"
+"Complete Dragon's Stand Meta-Event, Events in Dragon's Stand, or Events in Ascalon","Завершите мета-событие «Dragon's Stand», события в Dragon's Stand или события в Аскалоне"
 Complete dungeon paths to earn the Dungeon Rush Champion achievement.,"Пройдите пути подземелий, чтобы заработать достижение «Чемпион натиска подземелий»."
 Complete either of the Kill the Rampaging Inquest Experiment events in Shipwreck Strand.,Завершите любое из событий «Убейте буйствующий эксперимент Inquest» на Shipwreck Strand.
 Complete events and defeat enemies in the area to draw the attention of a Dominion tribune.,"Завершайте события и побеждайте врагов в этой области, чтобы привлечь внимание трибуна Доминиона."
 Complete events in any location.,Завершайте события в любом месте.
 Complete events in any of the level 1–15 explorable zones.,Завершайте события в любой из исследуемых зон 1–15-го уровней.
-Complete events in Caledon Forest in the Maguuma Jungle.<c=@reminder>You can find events while exploring the world. Events are marked by an orange circle on your map when you're nearby.</c>,"Завершайте события в Лесу Каледон в Maguuma Jungle.<c=@reminder>События можно находить, исследуя мир. Поблизости события отмечаются оранжевым кругом на карте.</c>"
+Complete events in Caledon Forest in the Maguuma Jungle.<c=@reminder>You can find events while exploring the world. Events are marked by an orange circle on your map when you're nearby.</c>,"Завершайте события в Caledon Forest в Maguuma Jungle.<c=@reminder>События можно находить, исследуя мир. Поблизости события отмечаются оранжевым кругом на карте.</c>"
 Complete events in Drizzlwood Coast and control Dominion's Breach to attempt to draw out the Dominion tribune in this region.,"Завершайте события на Моросистом Берегу и удерживайте Прорыв Доминиона, чтобы попытаться выманить трибуна Доминиона в этой области."
 Complete events in Metrica Province in the Maguuma Jungle.<c=@reminder>You can find events while exploring the world. Events are marked by an orange circle on your map when you're nearby.</c>,"Завершайте события в Metrica Province в Maguuma Jungle.<c=@reminder>События можно находить, исследуя мир. Поблизости события отмечаются оранжевым кругом на карте.</c>"
 Complete events in Plains of Ashford in Ascalon.<c=@reminder>You can find events while exploring the world. Events are marked by an orange circle on your map when you're nearby.</c>,"Завершайте события на Plains of Ashford в Аскалоне.<c=@reminder>События можно находить, исследуя мир. Поблизости события отмечаются оранжевым кругом на карте.</c>"
@@ -194,7 +194,7 @@ Complete Meta-Event: The Defense of Amnytas,Завершите мета-собы
 Complete nearby events to bolster Pact resources.,"Завершайте ближайшие события, чтобы пополнить ресурсы Пакта."
 Complete nearby events.,Завершайте ближайшие события.
 Complete Obsidian Sanctum,Пройдите Obsidian Sanctum
-"Complete Of Mists and Monsters, a Mistburned Barrens Survey, and A Titanic Voyage","Завершите «О Туманах и чудовищах», обследование Туманожжёных Пустошей и «Титаническое плавание»"
+"Complete Of Mists and Monsters, a Mistburned Barrens Survey, and A Titanic Voyage","Завершите «О Туманах и чудовищах», обследование Mistburned Barrens и «Титаническое плавание»"
 Complete one of the guild rush courses 15 times within the allotted time.,Пройдите одну из трасс гильдейского забега 15 раз за отведённое время.
 Complete one of the Novice Explorer achievements.,Выполните одно из достижений «Начинающий исследователь».
 Complete Player vs. Player Rush achievements in PvP matches to earn bonus rewards. Call of the Mists boosts PvP rewards during the event.,"Выполняйте достижения «Натиск PvP» в матчах PvP, чтобы заработать бонусные награды. «Зов Туманов» повышает награды PvP на время события."
@@ -233,7 +233,7 @@ Complete step one of the collection to reveal this objective.,"Выполнит�
 Complete step seven of the collection to reveal this objective.,"Выполните седьмой шаг коллекции, чтобы открыть эту цель."
 Complete tasks for Steward Brizio in the forge on Artificer's Islet.,Выполните задачи стюарда Бризио в кузне на Островке Артифактора.
 "Complete the ""A Henge Away from Home"" achievement.",Выполните достижение «Хендж вдали от дома».
-"Complete the ""Collect lightning to keep the asura turrets charged"" event in Mistburned Barrens or the ""Collect jars, fill them with lightning, and deposit them in the drop-off locations"" event in Janthir Syntri to charge the battery.","Чтобы зарядить батарею, завершите событие «Собирайте молнии, чтобы турели асура оставались заряжены» в Туманожжёных Пустошах либо событие «Собирайте банки, наполняйте их молниями и сдавайте в точках приёма» в Janthir Syntri."
+"Complete the ""Collect lightning to keep the asura turrets charged"" event in Mistburned Barrens or the ""Collect jars, fill them with lightning, and deposit them in the drop-off locations"" event in Janthir Syntri to charge the battery.","Чтобы зарядить батарею, завершите событие «Собирайте молнии, чтобы турели асура оставались заряжены» в Mistburned Barrens либо событие «Собирайте банки, наполняйте их молниями и сдавайте в точках приёма» в Janthir Syntri."
 "Complete the ""Gather the necessary supplies for the Sheltered Ones' ritual"" event.",Завершите событие «Соберите необходимые припасы для ритуала Укрытых».
 "Complete the ""Reaper of Magic"" story step to learn to harvest unbound magic.","Завершите сюжетный шаг «Reaper of Magic», чтобы научиться добывать несвязанную магию."
 "Complete the ""Take part in the ritual of the Sheltered Ones"" event.",Завершите событие «Примите участие в ритуале Укрытых».
@@ -241,13 +241,13 @@ Complete tasks for Steward Brizio in the forge on Artificer's Islet.,Выпол�
 Complete the (Annual) Boss Blitz achievement in the Festival of Four Winds.,Выполните достижение «(Ежегодно) Блиц по боссам» на Фестивале Четырёх Ветров.
 Complete the (Annual) Bundle Plunderer achievement in the Festival of Four Winds.,Выполните достижение «(Ежегодно) Расхититель наборов» на Фестивале Четырёх Ветров.
 Complete the (Annual) Commodities Trader achievement in the Festival of Four Winds.,Выполните достижение «(Ежегодно) Commodities Trader» на Фестивале Четырёх Ветров.
-Complete the (Annual) Dragon Bash Feats achievement in the Dragon Bash festival.,Выполните достижение «(Ежегодно) Подвиги Драконьего Разгрома» на фестивале Драконьего Разгрома.
+Complete the (Annual) Dragon Bash Feats achievement in the Dragon Bash festival.,Выполните достижение «(Ежегодно) Подвиги Dragon Bash» на фестивале Dragon Bash.
 Complete the (Annual) Festival Automaton Achievement,Выполните достижение «(Ежегодно) Фестивальный автоматон»
 Complete the (Annual) Four Winds Customs achievement in the Festival of Four Winds.,Выполните достижение «(Ежегодно) Обычаи Четырёх Ветров» на Фестивале Четырёх Ветров.
-Complete the (Annual) Going the Distance achievement in the Dragon Bash festival.,Выполните достижение «(Ежегодно) Пройти дистанцию» на фестивале Драконьего Разгрома.
+Complete the (Annual) Going the Distance achievement in the Dragon Bash festival.,Выполните достижение «(Ежегодно) Пройти дистанцию» на фестивале Dragon Bash.
 Complete the (Annual) Halloween Rituals achievement in the Halloween festival.,Выполните достижение «(Ежегодно) Обряды Хэллоуина» на фестивале Хэллоуина.
-Complete the (Annual) Hologram Herder achievement in the Dragon Bash festival.,Выполните достижение «(Ежегодно) Пастух голограмм» на фестивале Драконьего Разгрома.
-Complete the (Annual) Masters of the Arena achievement in the Dragon Bash festival.,Выполните достижение «(Ежегодно) Владыки арены» на фестивале Драконьего Разгрома.
+Complete the (Annual) Hologram Herder achievement in the Dragon Bash festival.,Выполните достижение «(Ежегодно) Пастух голограмм» на фестивале Dragon Bash.
+Complete the (Annual) Masters of the Arena achievement in the Dragon Bash festival.,Выполните достижение «(Ежегодно) Владыки арены» на фестивале Dragon Bash.
 Complete the (Annual) Masters of the Labyrinth achievement in the Halloween festival.,Выполните достижение «(Ежегодно) Владыки лабиринта» на фестивале Хэллоуина.
 Complete the (Annual) Raceway Regular achievement in the Halloween festival.,Выполните достижение «(Ежегодно) Завсегдатай трассы» на фестивале Хэллоуина.
 Complete the (Annual) Some Disassembly Required Achievement,Выполните достижение «(Ежегодно) Требуется частичная разборка»
@@ -260,16 +260,16 @@ Complete the A New Friend Achievement,Выполните достижение «
 Complete the A New Friend achievement.,Выполните достижение «Новый друг».
 Complete the A Titanic Voyage Meta-Event,Завершите мета-событие «Титаническое плавание»
 Complete the A Titanic Voyage meta-event in Bava Nisos.,Завершите мета-событие «Титаническое плавание» в Bava Nisos.
-"Complete the A Titanic Voyage meta-event in Janthir, events in Mistburned Barrens, or events in Orr. Completing the meta-event finishes this objective instantly; events in its map are worth two points toward completion.","Завершите мета-событие «Титаническое плавание» в Джантире, события в Туманожжёных Пустошах либо события в Орре. Завершение мета-события выполняет эту цель мгновенно; события на его карте дают два очка к выполнению."
-"Complete the A Titanic Voyage Meta-Event, Events in Mistburned Barrens, or Events in Orr","Завершите мета-событие «Титаническое плавание», события в Туманожжёных Пустошах или события в Орре"
+"Complete the A Titanic Voyage meta-event in Janthir, events in Mistburned Barrens, or events in Orr. Completing the meta-event finishes this objective instantly; events in its map are worth two points toward completion.","Завершите мета-событие «Титаническое плавание» в Джантире, события в Mistburned Barrens либо события в Орре. Завершение мета-события выполняет эту цель мгновенно; события на его карте дают два очка к выполнению."
+"Complete the A Titanic Voyage Meta-Event, Events in Mistburned Barrens, or Events in Orr","Завершите мета-событие «Титаническое плавание», события в Mistburned Barrens или события в Орре"
 Complete the Abaddon's Ascent Jumping Puzzle,Пройдите головоломку с прыжками «Восхождение Абаддона»
 Complete the Abaddon's Ascent jumping puzzle in Siren's Landing.,Пройдите головоломку с прыжками «Восхождение Абаддона» на Пристани Сирены.
 "Complete the achievement ""Crystal Oasis Champion Bounties.""",Выполните достижение «Чемпионские награды Кристального Оазиса».
 "Complete the achievement ""Crystal Oasis Legendary Bounties.""",Выполните достижение «Легендарные награды Кристального Оазиса».
 "Complete the achievement ""Desert Highlands Champion Bounties.""",Выполните достижение «Чемпионские награды Desert Highlands».
 "Complete the achievement ""Desert Highlands Legendary Bounties.""",Выполните достижение «Легендарные награды Desert Highlands».
-"Complete the achievement ""Domain of Vabbi Champion Bounties.""",Выполните достижение «Чемпионские награды Владений Вабби».
-"Complete the achievement ""Domain of Vabbi Legendary Bounties.""",Выполните достижение «Легендарные награды Владений Вабби».
+"Complete the achievement ""Domain of Vabbi Champion Bounties.""",Выполните достижение «Чемпионские награды Domain of Vabbi».
+"Complete the achievement ""Domain of Vabbi Legendary Bounties.""",Выполните достижение «Легендарные награды Domain of Vabbi».
 "Complete the achievement ""Elon Riverlands Champion Bounties.""",Выполните достижение «Чемпионские награды Приречья Элона».
 "Complete the achievement ""Elon Riverlands Legendary Bounties.""",Выполните достижение «Легендарные награды Приречья Элона».
 "Complete the achievement ""Klobjarne Geirr: Raid or Convergence Victories"" to purchase again.","Выполните достижение «Klobjarne Geirr: победы в рейдах или Схождениях», чтобы купить снова."
@@ -335,7 +335,7 @@ Complete the Aid the Bastion of Balance Achievement,Выполните дост�
 Complete the Aid the Bastion of the Natural Achievement,Выполните достижение «Помощь Bastion of the Natural»
 Complete the Alliance Field Operative: Boots on the Ground achievement.,Выполните достижение «Полевой оперативник Альянса: сапоги на земле».
 Complete the Alliance Field Operative: Hands On achievement.,Выполните достижение «Полевой оперативник Альянса: руки в дело».
-Complete the annual Dragon Bash Feats achievement to earn a new piece of armor.,"Выполните ежегодное достижение «Подвиги Драконьего Разгрома», чтобы получить новый предмет брони."
+Complete the annual Dragon Bash Feats achievement to earn a new piece of armor.,"Выполните ежегодное достижение «Подвиги Dragon Bash», чтобы получить новый предмет брони."
 Complete the annual Four Winds Customs achievement to earn a new piece of armor.,"Выполните ежегодное достижение «Four Winds Customs», чтобы получить новый предмет брони."
 Complete the annual Halloween Rituals achievement to earn a new piece of armor.,"Выполните ежегодное достижение «Обряды Хэллоуина», чтобы получить новый предмет брони."
 Complete the annual Lunar New Year Customs achievement to earn a new piece of armor.,"Выполните ежегодное достижение «Обычаи Лунного Нового года», чтобы получить новый предмет брони."
@@ -424,7 +424,7 @@ Complete the Desolation Race,Завершите гонку Опустошени�
 Complete the Desperate Measures story chapter to unlock.,Для разблокировки завершите сюжетную главу «Desperate Measures».
 "Complete the Destroy the Ravenous Wanderer meta-event in Gyala Delve, events in Gyala Delve, or events in the Maguuma Jungle. Completing the meta-event finishes this objective instantly; events in its map are worth two points toward completion.","Завершите мета-событие «Уничтожьте Ненасытного Скитальца» в Копях Гьяла, события в Копях Гьяла либо события в Maguuma Jungle. Завершение мета-события выполняет эту цель мгновенно; события на его карте дают два очка к выполнению."
 Complete the Domain of Vabbi Race,Завершите гонку Domain of Vabbi
-"Complete the Dragon's Stand meta-event in Dragon's Stand, events in Dragon's Stand, or events in Ascalon. Completing the meta-event finishes this objective instantly; events in its map are worth two points toward completion.","Завершите мета-событие «Драконья Твердыня» в Драконьей Твердыне, события в Драконьей Твердыне либо события в Аскалоне. Завершение мета-события выполняет эту цель мгновенно; события на его карте дают два очка к выполнению."
+"Complete the Dragon's Stand meta-event in Dragon's Stand, events in Dragon's Stand, or events in Ascalon. Completing the meta-event finishes this objective instantly; events in its map are worth two points toward completion.","Завершите мета-событие «Dragon's Stand» в Dragon's Stand, события в Dragon's Stand либо события в Аскалоне. Завершение мета-события выполняет эту цель мгновенно; события на его карте дают два очка к выполнению."
 Complete the Dragonstorm encounter.,Пройдите схватку «Драконья буря».
 Complete the Dungeon Rush Champion achievement.,Выполните достижение «Чемпион натиска подземелий».
 Complete the Eastern Inflammation Reduction,Завершите «Снижение воспаления на востоке»
@@ -475,7 +475,7 @@ Complete the Forgotten Lore Achievement,Выполните достижение 
 Complete the Fractal Rush Champion achievement.,Выполните достижение «Чемпион натиска фракталов».
 Complete the Friend to Djinn achievement to unlock this purchase.,"Выполните достижение «Friend to Djinn», чтобы открыть эту покупку."
 "Complete the Friend to Djinn achievement, then purchase a Proof of the Key of Ahdashim Completion from the raid vendor in the raid lobby.","Выполните достижение «Friend to Djinn», затем купите «Доказательство прохождения Ключа Ахдашима» у рейдового торговца в рейдовом лобби."
-"Complete the Gang War of Echovald meta-event in the Echovald Wilds, events in the Echovald Wilds, or events in the Maguuma Jungle. Completing the meta-event finishes this objective instantly; events in its map are worth two points toward completion.","Завершите мета-событие «Война банд Эховальда» в Дебрях Эховальда, события в Дебрях Эховальда либо события в Maguuma Jungle. Завершение мета-события выполняет эту цель мгновенно; события на его карте дают два очка к выполнению."
-"Complete the Gang War of Echovald Meta-Event, Events in Echovald Wilds, or Events in Maguuma Jungle","Завершите мета-событие «Война банд Эховальда», события в Дебрях Эховальда или события в Maguuma Jungle"
+"Complete the Gang War of Echovald meta-event in the Echovald Wilds, events in the Echovald Wilds, or events in the Maguuma Jungle. Completing the meta-event finishes this objective instantly; events in its map are worth two points toward completion.","Завершите мета-событие «Война банд Эховальда» в Echovald Wilds, события в Echovald Wilds либо события в Maguuma Jungle. Завершение мета-события выполняет эту цель мгновенно; события на его карте дают два очка к выполнению."
+"Complete the Gang War of Echovald Meta-Event, Events in Echovald Wilds, or Events in Maguuma Jungle","Завершите мета-событие «Война банд Эховальда», события в Echovald Wilds или события в Maguuma Jungle"
 Complete the Gauntlet of the Khan-Ur Jumping Puzzle,Пройдите головоломку с прыжками «Перчатка Хан-Ура»
 Complete the Gift of Aurene collection.,Завершите коллекцию «Дар Аурены».
