@@ -3,7 +3,6 @@ You have received a fragment of Scarlet's Journal.,Вы получили фра�
 You have received a gift!,Вы получили подарок!
 You have received extra map-bonus reward points.,Вы получили дополнительные очки бонусной награды карты.
 You have recently overheated and cannot reactivate Photon Forge.,Вы недавно перегрелись и не можете снова включить Photon Forge.
-You have recently transferred and may not perform another transfer at this time.Transfer Availability In: %str1%,Вы недавно совершали перенос и пока не можете выполнить ещё один.Перенос будет доступен через: %str1%
 You have removed your motivation and are now tracking tier 1 rifts.,Вы убрали своё побуждение и теперь отслеживаете разломы 1-го уровня.
 You have repeated the maximum PvP rank %num1% time[s].,Вы повторили максимальный ранг PvP %num1% [раз|раза|раз].
 You have rescued Queen Jennah!,Вы спасли Queen Jennah!
@@ -131,7 +130,6 @@ You may now equip three core specializations. Visit the build tab of your Hero p
 You may now equip two core specializations. Visit the build tab of your Hero panel to equip a second specialization.,"Теперь вы можете снарядить две основные специализации. Откройте вкладку сборки на панели героя, чтобы снарядить вторую специализацию."
 You may now interact with the chest to claim your reward.,"Теперь вы можете взаимодействовать с сундуком, чтобы забрать награду."
 You may only guest in worlds within your home territory.,Гостить можно только в мирах вашей домашней территории.
-"You may only guest on %num1% different worlds at a time. You will be eligible to guest on a new world of your choosing in %str1%. Each time you guest on a world, that world becomes one of your eligible guest worlds for the next %num2%-hour period.You are currently eligible to guest on the following worlds: %str2%","Гостить можно одновременно лишь в %num1% разных мирах. Вы сможете выбрать новый мир для гостевания через %str1%. Каждый раз, когда вы гостите в мире, он становится одним из ваших доступных гостевых миров на следующие %num2% ч.Сейчас вы можете гостить в следующих мирах: %str2%"
 You may only have one rentable contract NPC out at a time.,Одновременно можно вызвать лишь одного NPC по арендному контракту.
 You may only play with one character per match. Please use your initial character to rejoin the match in progress.,"В одном матче можно играть лишь одним персонажем. Вернитесь в идущий матч тем персонажем, которым начинали."
 You may only use that command while in a mission or explorable area.,Эту команду можно применять только в задании или исследуемой области.
@@ -432,7 +430,6 @@ You must train Crystal Forger in Dragon Slayer Mastery track to purchase this.,"
 You must train Itzel Language in Itzel Lore Mastery and unlock the appropriate collection to purchase this item.,"Чтобы купить этот предмет, нужно изучить «Язык ицелей» в мастерстве «Знания ицелей» и открыть соответствующую коллекцию."
 You must train the Follows Advice Mastery to purchase this item.,"Чтобы купить этот предмет, нужно изучить мастерство «Follows Advice»."
 You must train the Mastery ability Exalted Acceptance and unlock the Astralaria III collection to purchase this item.,"Чтобы купить этот предмет, нужно изучить способность мастерства «Признание Возвышенных» и открыть коллекцию «Астралария III»."
-You must unlock the Advanced Logistics Mastery in the Pact Commander line to use this option.Loot that drops will instantly enter your inventory without you interacting to loot as long as you have inventory space.,"Чтобы использовать эту настройку, нужно разблокировать мастерство «Передовая логистика» в ветви «Командир Пакта».Выпавшая добыча будет сразу попадать в инвентарь без взаимодействия, пока в нём есть место."
 You must unlock the Boneskinner's Rib in the wardrobe to purchase this.,"Чтобы это купить, нужно разблокировать в гардеробе «Ребро Костедёра»."
 You must unlock the Boneskinner's Spine in the wardrobe to purchase this.,"Чтобы это купить, нужно разблокировать в гардеробе «Хребет Костедёра»."
 You must unlock the Boneskinner's Totem in the wardrobe to purchase this.,"Чтобы это купить, нужно разблокировать в гардеробе «Тотем Костедёра»."
