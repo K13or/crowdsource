@@ -2500,7 +2500,7 @@ Good luck,
 
 У меня есть основания полагать, что проходит мифическая Ярмарка Четырёх Ветров. Я планирую отправиться туда. Не хотите присоединиться?
 
-Magnus the Bloody-Handed укажет вам путь. Сейчас он в Львином Когте, остановился в штабе Главной гавани в форте Марринер.
+Magnus the Bloody-Handed укажет вам путь. Сейчас он в Львином Когте, остановился в штабе Главной гавани в Fort Marriner.
 
 Удачи,
 — Капитан Эллен Кил"
@@ -2515,7 +2515,7 @@ Safe travels, Valiant.
 
 У меня к вам просьба. Деревья полны слухов о мифической ярмарке под названием «Ярмарка Четырёх Ветров», и мне любопытно, существует ли она на самом деле.
 
-Пожалуйста, встретьтесь с капитаном Магнусом Кровавой Рукой в Львином Когте. У него есть больше информации об этой ярмарке. Вы найдёте его в штабе Главной гавани в форте Марринер.
+Пожалуйста, встретьтесь с капитаном Магнусом Кровавой Рукой в Львином Когте. У него есть больше информации об этой ярмарке. Вы найдёте его в штабе Главной гавани в Fort Marriner.
 
 Счастливого пути, Доблестный.
 — Кейт"
@@ -2956,7 +2956,7 @@ Until next time,
 
 Королевство получило известие, что мифический Bazaar of the Four Winds снова появился в Тирии. Нам нужен кто-то, кто отправится туда и подтвердит сообщения. Естественно, я подумал о вас.
 
-Капитан Magnus the Bloody-Handed объяснит ситуацию. Сейчас он в Lion's Arch, в штабе Главной Гавани в Форте Марринер.
+Капитан Magnus the Bloody-Handed объяснит ситуацию. Сейчас он в Lion's Arch, в штабе Главной Гавани в Fort Marriner.
 
 До следующей встречи,
 —Логан"
@@ -3333,7 +3333,7 @@ You'll be pleased to know that Mai has been imprisoned in Fort Marriner.  She wo
 
 —Inspector Ellen Kiel of the Lionguard","%str1%, ваше имя теперь внесено в список тех, кто встал на защиту Lion's Arch. Мы ведём этот почётный список, чтобы почтить всех, кто защищал город, несмотря на возможную потерю собственной жизни. Первое имя в списке, конечно же, Кобия Марринер. Он также служит списком тех, кого Корабельный Совет считает союзниками и кого могут призвать на помощь в кризисное время.
 
-Вам будет приятно узнать, что Май заключена в Форт Марринер. Она не будет никому досаждать ещё долгое время. Надеюсь, мы сможем поработать вместе в будущем.
+Вам будет приятно узнать, что Май заключена в Fort Marriner. Она не будет никому досаждать ещё долгое время. Надеюсь, мы сможем поработать вместе в будущем.
 
 —Inspector Ellen Kiel из Львиной Стражи"
 "%str1%, your name now appears on a list of those who have come to the defense of Lion's Arch. We keep this prestigious list to honor anyone who defended the city, despite the possible loss of their own lives. The first name on the list is, of course, Cobiah Marriner. It also serves as a list of those the Ship's Council considers allies and who may be called upon to help again in a time of crisis.
@@ -3368,14 +3368,14 @@ Your aid in this will, of course, be paramount. I will await your favorable repl
 
 —Lady Valette","%str1%. От имени Сияющего Клинка я смиренно прошу вашей помощи в масштабном расследовании.
 
-После широкомасштабных разрушений в районе Кровавого Камня произошёл ряд событий, представляющих критический интерес для Крайтанского трона, главными из которых являются разоблачение White Mantle, возвращение Невидимых — считавшихся вымершими — которые когда-то контролировали Крайту, и откровения, касающиеся бога Бальтазара.
+После широкомасштабных разрушений в районе Bloodstone Fen произошёл ряд событий, представляющих критический интерес для Крайтанского трона, главными из которых являются разоблачение White Mantle, возвращение Невидимых — считавшихся вымершими — которые когда-то контролировали Крайту, и откровения, касающиеся бога Бальтазара.
 
 Чтобы убедиться, что эти события полностью урегулированы, леди Аниз поручила мне собрать все воспоминания и подробные отчёты от важных лиц, связанных с кризисом. Для дальнейшей безопасности Крайты мы должны быть уверены, что её снова не доведут до грани.
 
 Ваша помощь в этом, конечно, будет первостепенной. Я буду ждать вашего благоприятного ответа у Путевой точки Министра в Divinity's Reach.
 
 —Lady Valette"
-"%str1%. On behalf of the Shining Blade, I humbly request your assistance with a large-scale investigation.After the widespread destruction in the Bloodstone Fen region, a number of events of critical interest to the Krytan throne have occurred, chief among them the unmasking of the White Mantle, the return of the Unseen—thought to be extinct—who once controlled Kryta, and revelations concerning the god Balthazar.To ensure that these events are fully put to rest, Lady Anise has instructed me to gather any and all recollections and detailed accounts from persons of importance surrounding the crisis. For the continued security of Kryta, we must be confident that it cannot once more be brought to the brink.Your aid in this will, of course, be paramount. I will await your favorable reply near the Minister's Waypoint in Divinity's Reach.—Lady Valette","%str1%. От имени Сияющего Клинка я смиренно прошу вашей помощи в масштабном расследовании. После обширных разрушений в районе Кровавого Камня произошёл ряд событий, имеющих критическое значение для Крайтанского трона, главными из которых являются разоблачение White Mantle, возвращение Невидимых — считавшихся вымершими — которые когда-то контролировали Крайту, и откровения, касающиеся бога Бальтазара. Чтобы гарантировать, что эти события полностью урегулированы, леди Аниз поручила мне собрать все воспоминания и подробные отчёты от важных лиц, причастных к кризису. Для дальнейшей безопасности Крайты мы должны быть уверены, что она не может снова оказаться на грани. Ваша помощь в этом, конечно, будет первостепенной. Я буду ждать вашего благоприятного ответа у путевой точки Министра в Divinity's Reachнности. —Lady Valette"
+"%str1%. On behalf of the Shining Blade, I humbly request your assistance with a large-scale investigation.After the widespread destruction in the Bloodstone Fen region, a number of events of critical interest to the Krytan throne have occurred, chief among them the unmasking of the White Mantle, the return of the Unseen—thought to be extinct—who once controlled Kryta, and revelations concerning the god Balthazar.To ensure that these events are fully put to rest, Lady Anise has instructed me to gather any and all recollections and detailed accounts from persons of importance surrounding the crisis. For the continued security of Kryta, we must be confident that it cannot once more be brought to the brink.Your aid in this will, of course, be paramount. I will await your favorable reply near the Minister's Waypoint in Divinity's Reach.—Lady Valette","%str1%. От имени Сияющего Клинка я смиренно прошу вашей помощи в масштабном расследовании. После обширных разрушений в районе Bloodstone Fen произошёл ряд событий, имеющих критическое значение для Крайтанского трона, главными из которых являются разоблачение White Mantle, возвращение Невидимых — считавшихся вымершими — которые когда-то контролировали Крайту, и откровения, касающиеся бога Бальтазара. Чтобы гарантировать, что эти события полностью урегулированы, леди Аниз поручила мне собрать все воспоминания и подробные отчёты от важных лиц, причастных к кризису. Для дальнейшей безопасности Крайты мы должны быть уверены, что она не может снова оказаться на грани. Ваша помощь в этом, конечно, будет первостепенной. Я буду ждать вашего благоприятного ответа у путевой точки Министра в Divinity's Reachнности. —Lady Valette"
 %str1%.%str2%,%str1%.%str2%
 %str1%: %num1%,%str1%: %num1%
 %str1%: %num1% %str2%,%str1%: %num1% %str2%

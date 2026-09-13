@@ -151,10 +151,10 @@ Claw at your target.,Царапайте вашу цель.
 Claw Attack,Атака когтем
 Claw Honor Guard,Почётный караул Когтя
 "Claw Island is a small island of barren stone at the mouth of Sanctum Harbor. Created during the early years of the city, the fortress has stood for a generation as the first line of defense against Zhaitan and Orr. It has never been overcome.","Claw Island — это небольшой остров из голого камня в устье Sanctum Harbor. Созданный в первые годы города, форт стоял в течение поколения как первая линия обороны против Зайтана и Орра. Он никогда не был побежден."
-Claw Island: Fort Stalwart,Остров Когтя: Форт Стойкий
-Claw Island: Lion's Mane,Остров Когтя: Грива Льва
-Claw Island: Sorrow's Bay,Остров Когтя: Бухта Скорби
-Claw Island: Western Strait,Остров Когтя: Западный пролив
+Claw Island: Fort Stalwart,Claw Island: Форт Стойкий
+Claw Island: Lion's Mane,Claw Island: Грива Льва
+Claw Island: Sorrow's Bay,Claw Island: Бухта Скорби
+Claw Island: Western Strait,Claw Island: Западный пролив
 Claw repeatedly at your target.,Царапайте вашу цель многократно.
 Claw Rush,Когтевой рывок
 Claw Slash,Удар когтем
@@ -244,7 +244,7 @@ Clear the perimeter.Enemy Strength,Очистить периметр.Сила в
 Clear the Risen from the ramparts.,Очистить бастионы от Восставших.
 Clear the Stage,Очистить сцену
 Clear the Temple,Очистить храм
-Clear the Toxic Alliance from the bridge.Toxic Alliance Strength,Очистить мост от Токсического Альянса.Сила Токсического Альянса
+Clear the Toxic Alliance from the bridge.Toxic Alliance Strength,Очистить мост от Toxic Alliance.Сила Toxic Alliance
 Clear Time,Время очистки
 Clear Waypoint,Очистить путевую точку
 Cleared %num1%/%num2% Dungeon[s],Пройдено подземелий %num1%/%num2%: [|1-4|5+]
@@ -299,7 +299,7 @@ Click to airdrop into the first level of the Tower of Nightmares.,"Нажмит�
 Click to airdrop into the second level of the Tower of Nightmares.,"Нажмите, чтобы высадиться на второй уровень Tower of Nightmares."
 Click to airdrop into the third level of the Tower of Nightmares.,"Нажмите, чтобы высадиться на третий уровень Tower of Nightmares."
 Click to airdrop into the top level of the Tower of Nightmares.,"Нажмите, чтобы высадиться на верхний уровень Tower of Nightmares."
-Click to attempt to find %str1% for sale in the Black Lion Trading Company Gem Store.,"Нажмите, чтобы попытаться найти %str1% в продаже в магазине самоцветов Торговой компании «Black Lion»."
+Click to attempt to find %str1% for sale in the Black Lion Trading Company Gem Store.,"Нажмите, чтобы попытаться найти %str1% в продаже в магазине самоцветов Black Lion Trading Company."
 Click to autorepeat this reward track.,"Нажмите, чтобы автоматически повторять эту дорожку наград."
 Click to change.,"Нажмите, чтобы изменить."
 Click to clear all achievements from your watch list.,"Нажмите, чтобы очистить все достижения из списка отслеживания."

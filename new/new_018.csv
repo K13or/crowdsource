@@ -73,7 +73,7 @@ Kill %num2% members of the Flame Legion.,Убейте %num2% членов Flame 
 Kill %num2% members of the Inquest.,Убейте %num2% членов Inquest.
 Kill %num2% members of the Nightmare Court.,Убейте %num2% членов Nightmare Court.
 Kill %num2% members of the Sons of Svanir.,Убейте %num2% членов Sons of Svanir.
-Kill %num2% members of the Toxic Alliance.,Убейте %num2% членов Ядовитого Альянса.
+Kill %num2% members of the Toxic Alliance.,Убейте %num2% членов Toxic Alliance.
 Kill %num2% minotaurs.,Убейте %num2% минотавров.
 Kill %num2% ogres.,Убейте %num2% огров.
 Kill %num2% oozes.,Убейте %num2% слизней.
@@ -124,11 +124,11 @@ Killed %num1%/%num2% Creatures in the Burning Forest in Dragonfall,Убито %n
 Killed %num1%/%num2% Fallen,Убито %num1%/%num2% падших
 Killed %num1%/%num2% Hostile Wildlife,Убито %num1%/%num2% враждебных зверей
 Killed %num1%/%num2% Jade Brotherhood in Echovald Wilds,Убито %num1%/%num2% бойцов Jade Brotherhood в Echovald Wilds
-Killed %num1%/%num2% Jade Brotherhood in Gyala Delve,Убито %num1%/%num2% бойцов Jade Brotherhood в Гьяла-Дельв
+Killed %num1%/%num2% Jade Brotherhood in Gyala Delve,Убито %num1%/%num2% бойцов Jade Brotherhood в Gyala Delve
 Killed %num1%/%num2% Jade Brotherhood in New Kaineng,Убито %num1%/%num2% бойцов Jade Brotherhood в New Kaineng
 Killed %num1%/%num2% Jade Mechs in Echovald Wilds,Убито %num1%/%num2% нефритовых мехов в Echovald Wilds
 Killed %num1%/%num2% Kappa,Убито %num1%/%num2% капп
-Killed %num1%/%num2% Kappa in Gyala Delve,Убито %num1%/%num2% капп в Гьяла-Дельв
+Killed %num1%/%num2% Kappa in Gyala Delve,Убито %num1%/%num2% капп в Gyala Delve
 Killed %num1%/%num2% Krait in Nonmoa Lake or Killed the Krait Witch,Убито %num1%/%num2% крайтов у Nonmoa Lake или убита крайтовая ведьма
 Killed %num1%/%num2% Kryptis Generals,Убито %num1%/%num2% генералов криптисов
 Killed %num1%/%num2% Kryptis in Amnytas,Убито %num1%/%num2% криптисов в Амнитасе
@@ -331,7 +331,7 @@ Lead Dancer,Lead Dancer
 Lead Explorer Masoud,Lead Explorer Masoud
 Lead Explorer Parsa,Lead Explorer Parsa
 Lead Explorer Tawil,Lead Explorer Tawil
-Lead the Ministry Guard on a false trail.,Заведите Стражу Министерства на ложный след.
+Lead the Ministry Guard on a false trail.,Заведите Ministry Guard на ложный след.
 Lead the squad to sabotage Beacon Torch.,Возглавьте отряд для диверсии на Маяковом факеле.
 Leader is down! Requires aid!,Вожак повержен! Нужна помощь!
 Leader needs help! Please go help!,"Вожаку нужна помощь! Пожалуйста, помогите!"
@@ -344,7 +344,7 @@ Leap Attack • Mighty,Атака в прыжке • Мощь
 "Leap at your foe, striking them. Your pet gains might.",Прыгните на врага и ударьте его. Ваш питомец получает мощь.
 Leaping Attack,Прыжковая атака
 Leaping Flame,Прыгающее пламя
-Learn all you can from Captain Wing Jun in Gyala Delve to unlock.,"Узнайте всё возможное у капитана Уинг Джуна в Гьяла-Дельв, чтобы открыть."
+Learn all you can from Captain Wing Jun in Gyala Delve to unlock.,"Узнайте всё возможное у капитана Уинг Джуна в Gyala Delve, чтобы открыть."
 Learn more about the White Mantle activity in the area.,Узнайте больше об активности White Mantle в этой местности.
 "Learn the /shiver emote from Icebrood Saga Episode 2, ""Shadow in the Ice.""","Изучите жест /shiver из 2-го эпизода Icebrood Saga, «Shadow in the Ice»."
 Learn to survive Castora just like the shipwrecked survivors.,"Научитесь выживать на Касторе, как потерпевшие кораблекрушение."
