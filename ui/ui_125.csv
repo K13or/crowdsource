@@ -243,7 +243,7 @@ Roof[s] 720 x 200 x 240,[Крыша|Крыши|Крыш] 720 x 200 x 240
 Roof[s] 720 x 200 x 480,[Крыша|Крыши|Крыш] 720 x 200 x 480
 Roosted atop Lyssa's Archway.,Устроился на вершине арки Лиссы.
 Rooster Statue[s],[Статуя|Статуи|Статуй] петуха
-"Rooster Statues[pl:""Statues""]",Статуя петуха
+"Rooster Statues[pl:""Statues""]",[Статуя|Статуи|Статуй] петуха
 Rooster's Challenge,Испытание петуха
 "Roosterfish[pl:""Roosterfish""]",[Рыба-петух|Рыбы-петуха|Рыб-петухов]
 Root Dye[s],[Краска|Краски|Красок] «Корневой»
@@ -256,8 +256,8 @@ Root Slap,Корневая пощёчина
 Root Vegetables,Корнеплоды
 Rope Tension,Натяжение верёвки
 Roped Fence[s],[Веревочный забор|Веревочных забора|Веревочных заборов]
-"Rose Agony Lens[pl:""Lenses""] (Left)",Линза агонии из розы(левая)
-"Rose Agony Lens[pl:""Lenses""] (Right)",Линза «Розовая агония» (правая)
+"Rose Agony Lens[pl:""Lenses""] (Left)",[Линза|Линзы|Линз] агонии из розы(левая)
+"Rose Agony Lens[pl:""Lenses""] (Right)",[Линза|Линзы|Линз] «Розовая агония» (правая)
 Rose Breeze Dye[s],[Краска|Краски|Красок] «Розовый бриз»
 Rose Gold Dye[s],[Краска|Краски|Красок] «Розовое золото»
 Rose Ice Dye[s],[Краска|Краски|Красок] «Розовый лёд»
@@ -337,12 +337,12 @@ Royal Cat Sitter,Royal Cat Sitter
 "Royal Featherback[pl:""Featherbacks""]",[Королевская рыба-нож|Королевских рыбы-ножа|Королевских рыб-ножей]
 Royal Flail,Royal Flail
 Royal Flame Weapon Coffer[s],[Сундук|Сундука|Сундуков] оружия королевского пламени
-"Royal Funerary Boot Box[pl:""Boxes""]",Коробка с погребальными сапогами знати
+"Royal Funerary Boot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с погребальными сапогами знати
 "Royal Funerary Coat Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с королевской погребальной курткой
 "Royal Funerary Glove Box[pl:""Boxes""]",Королевская погребальная коробка
-"Royal Funerary Headgear Box[pl:""Boxes""]",Коробка с погребальными головными уборами знати
+"Royal Funerary Headgear Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с погребальными головными уборами знати
 "Royal Funerary Legging Box[pl:""Boxes""]",[Королевский погребальный саван|Королевские погребальные саваны|Королевских погребальных саванов]
-"Royal Funerary Shoulder Box[pl:""Boxes""]",Коробка с погребальными доспехами знати
+"Royal Funerary Shoulder Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с погребальными доспехами знати
 Royal Layered Cape now available!,Королевский многослойный плащ теперь доступен!
 Royal Layered Cape Skin[s],[Облик|Облика|Обликов] королевского многослойного плаща
 Royal Messenger,Royal Messenger

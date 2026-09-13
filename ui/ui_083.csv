@@ -19,7 +19,7 @@ Inquest Mark II Torch Skin[s],облик[|а|ов] факела Марк II Ин
 Inquest Mark II Warhorn Skin[s],облик[|а|ов] боевого рога Марк II Инквеста
 "Inquest Mark II Weapon Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с оружием «Инквест Mark II»
 Inquest Mark II Weapons,Оружие Инквест Mark II
-"Inquest Medium Armor Box[pl:""Boxes""]",Коробка с бронёй Инквест (средняя)
+"Inquest Medium Armor Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с бронёй Инквест (средняя)
 Inquest Mine,Inquest Mine
 Inquest Miner,Inquest Miner
 Inquest motion controls enabled.,Датчики движения Инквест активированы.
@@ -395,11 +395,11 @@ Iron Legion Mortar[s],Мортир[а|ы|] Iron Legion
 "Iron Legion Onyx Materials Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] ониксовых материалов Железного легиона
 "Iron Legion Ore Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с рудой Железного легиона
 Iron Legion Remote Charge,Дистанционный заряд Iron Legion
-"Iron Legion Reward Box[pl:""Boxes""]",Коробка награды Железного легиона
+"Iron Legion Reward Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] награды Железного легиона
 Iron Legion Scout Steeltooth,Разведчик Железного легиона Стальной Зуб
 Iron Legion Soldier,Солдат Iron Legion
 Iron Legion Soldier Truegrip,Солдат Iron Legion Труэлаунч
-Iron Legion Special Mission Document[s],Документ особого задания Iron Legion
+Iron Legion Special Mission Document[s],[Документ|Документа|Документов] особого задания Iron Legion
 Iron Legion troops are building cannons to assist with the assault across the bridge. Defeat cache keepers until the cannons have been fully constructed!,"Войска Iron Legion строят пушки, чтобы помочь с атакой через мост. Уничтожайте хранителей тайников, пока пушки не будут полностью построены!"
 Iron Legion Turret,Турель Iron Legion
 Iron Legion War Banner,Боевое знамя Iron Legion

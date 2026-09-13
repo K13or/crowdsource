@@ -226,12 +226,12 @@ Glowing ore. Got it.,Светящаяся руда. Есть.
 Glubb,Глубб
 Glue Puddle,Клейкая лужа
 Glyph[s] of Industry (Unused),Руны промышленности (неиспользованные)
-Glyph[s] of Overload (Unused),Символ перегрузки (не используется)
-Glyph[s] of Volatility (Unused),Символ нестабильности (не используется)
-Glyph[s] of the Crucible (Unused),Глиф(ы) Горнила (не используется)
-Glyph[s] of the Forester (Unused),Глиф Лесника (не используется)
+Glyph[s] of Overload (Unused),[Символ|Символа|Символов] перегрузки (не используется)
+Glyph[s] of Volatility (Unused),[Символ|Символа|Символов] нестабильности (не используется)
+Glyph[s] of the Crucible (Unused),[Глиф|Глифа|Глифов](ы) Горнила (не используется)
+Glyph[s] of the Forester (Unused),[Глиф|Глифа|Глифов] Лесника (не используется)
 Glyph[s] of the Prospector (Unused),Руны Пропейсера (Неиспользованные)
-Glyph[s] of the Timekeeper (Unused),Глиф Хранителя времени (не используется)
+Glyph[s] of the Timekeeper (Unused),[Глиф|Глифа|Глифов] Хранителя времени (не используется)
 Glyph[s] of the Watchknight (Unused),Глифы Рыцаря-сторожа (не используется)
 Gnarled Tree,Искривлённое дерево
 Gnashblade should have won the election.,Гнашблейд должен был выиграть выборы.
@@ -302,6 +302,6 @@ Golem Bomb,Бомба-голем
 Golem Bomb Console,Консоль для бомб-големов
 Golem Console,Консоль голема
 Golem Crystal Core,Кристальное ядро голема
-Golem Energy Core[s],Ядро энергии голема
+Golem Energy Core[s],[Ядро|Ядра|Ядер] энергии голема
 Golem Generator,Генератор големов
 Golem Ley Line Cannon,Пушка голема для энергетических линий

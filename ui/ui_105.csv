@@ -203,10 +203,10 @@ Oxenblade (Level 44),Оксенблейд (44 уровень)
 Oxidized Copper Deposit,Оксидированная медь
 Oyster[s],[Устрица|Устрицы|Устриц]
 "Oysters[pl:""Oysters""] Gnashblade",Устриц[а|цы|ц] Гнашблейд
-"Oysters[pl:""Oysters""] with Cocktail Sauce",Рецепт: устрицы с коктейльным соусом
-"Oysters[pl:""Oysters""] with Pesto Sauce",Рецепт: устрицы с соусом песто
-"Oysters[pl:""Oysters""] with Spicy Sauce",Рецепт: Устрицы с острым соусом
-"Oysters[pl:""Oysters""] with Zesty Sauce",Рецепт: Устрицы с пикантным соусом
+"Oysters[pl:""Oysters""] with Cocktail Sauce",[Рецепт|Рецепта|Рецептов]: устрицы с коктейльным соусом
+"Oysters[pl:""Oysters""] with Pesto Sauce",[Рецепт|Рецепта|Рецептов]: устрицы с соусом песто
+"Oysters[pl:""Oysters""] with Spicy Sauce",[Рецепт|Рецепта|Рецептов]: Устрицы с острым соусом
+"Oysters[pl:""Oysters""] with Zesty Sauce",[Рецепт|Рецепта|Рецептов]: Устрицы с пикантным соусом
 "P is for Praise. Do that every day.R is for Raze, if parents disobey.A is for Army. Joko has a few.I is for Iberu, Joko's number two.S is for Sunspear. Turn them all in!E is for Eternal Monarch, who always will win.","P означает Похвалу. Делайте это каждый день.R означает Разрушение, если родители не слушаются.A означает Армию. У Джоко есть несколько.I означает Иберу, номер два Джоко.S означает Копьё Солнца. Сдайте их всех!E означает Вечного Монарха, который всегда победит."
 "Pacify foes, dazing them for three seconds.","Успокаивает врагов, оглушая их на три секунды."
 Pack Animal,Вьючное животное
@@ -447,7 +447,7 @@ Palawa Joko's Staff Head[s],Наверши[е|я|й] посоха Палавы �
 Palawa Joko's Staff Ornament[s],Украшени[е|я|й] посоха Палавы Джоко
 Palawa Joko's Staff Pommel[s],Набалдашник[|а|ов] посоха Палавы Джоко
 Palawa Joko's Staff Shaft[s],Древк[о|а|ов] посоха Палавы Джоко
-"Palawa's Personal Tapestry[pl:""Tapestries""]",Ковёр Палавы
+"Palawa's Personal Tapestry[pl:""Tapestries""]",[Ковёр|Ковра|Ковров] Палавы
 "Palawan Phylactery[pl:""Phylacteries""]",Филактерий Палавана
 Pale 1,Бледный 1
 Pale 2,Бледный 2
