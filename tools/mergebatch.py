@@ -232,12 +232,30 @@ def merge_file(rel):
     if None in (base, ours, theirs):
         return None, [("<нет одной из ступеней>", "", "", "")]
     b, o, t = index(base), index(ours), index(theirs)
-    fights, take, welded = [], {}, {}
+    fights, take, welded, dropped = [], {}, {}, set()
     for k in set(o) | set(t):
         ov = o.get(k, (None, None))[1]
         tv = t.get(k, (None, None))[1]
         bv = b.get(k, (None, None))[1]
         if ov == tv:
+            continue
+        # Запись СНЯТА одной стороной. Партии удаления («мёртвые копии»,
+        # «немецкие строки») первыми принесли этот случай, и раньше он валил
+        # слияние с KeyError: код лез за текстом туда, где записи уже нет.
+        # Правило простое и совпадает с git: снятие проходит, если вторая
+        # сторона запись не трогала. Тронула — это спор, и решать его руками.
+        if k not in o or k not in t:
+            if k not in b:
+                # записи не было в базе: одна сторона её ДОБАВИЛА
+                if k in t:
+                    take[k] = t[k][0]
+                continue
+            # запись была в базе и снята одной из сторон
+            other = tv if k not in o else ov
+            if other == bv:
+                dropped.add(k)
+            else:
+                fights.append((k, bv, ov, tv))
             continue
         if ov != bv and tv != bv:
             w = weld(bv, ov, tv) if None not in (bv, ov, tv) else None
@@ -254,6 +272,8 @@ def merge_file(rel):
     out, seen = [], set()
     for i, (raw, f) in enumerate(split_records(ours)):
         k = f[0][0] if len(f) >= 2 else None
+        if i and k in dropped:
+            continue
         if i and k in take:
             out.append(take[k])
         elif i and k in welded:
@@ -281,10 +301,14 @@ def main(check):
             left += 1
             print("СПОР в %s: %d записей" % (rel, len(fights)))
             for k, bv, ov, tv in fights[:3]:
+                # None здесь значит «записи на этой стороне нет»: её сняла
+                # партия удаления, а вторая сторона в это время правила текст
+                show = lambda v: ("<запись снята>" if v is None
+                                  else str(v)[:70].replace("\n", " "))
                 print("   ключ  %s" % str(k)[:70].replace("\n", " "))
-                print("   было  %s" % str(bv)[:70].replace("\n", " "))
-                print("   наше  %s" % str(ov)[:70].replace("\n", " "))
-                print("   их    %s" % str(tv)[:70].replace("\n", " "))
+                print("   было  %s" % show(bv))
+                print("   наше  %s" % show(ov))
+                print("   их    %s" % show(tv))
             continue
         done += 1
         if check:
