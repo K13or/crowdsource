@@ -1,7 +1,7 @@
 english,translate
 Double-click to open.<br>Affected by magic find.<br>Purchasable in Divinity's Reach.,Двойной щелчок для открытия.<br>Зависит от шанса на магическую находку.<br>Можно купить в Пределе Божественности.
 Double-click to open.<br>Contains a Wintersday Gift Tree node for your home instance along with a special star item.,"Двойной щелчок для открытия.<br>Содержит узел «Дерево зимних подарков» для вашей личной инстанции, а также специальный звёздный предмет."
-"Double-click to open.<br>Earned by winning rounds of Dragon Ball.<br>Contains 1 Token of the Dragon Ball Champion, 5 Little Lucky Envelopes, and rare gear.","Дважды щёлкните, чтобы открыть.<br>Получено за победы в раундах Драконьего мяча.<br>Содержит 1 жетон чемпиона Драконьего мяча, 5 Маленьких счастливых конвертов и редкое снаряжение."
+"Double-click to open.<br>Earned by winning rounds of Dragon Ball.<br>Contains 1 Token of the Dragon Ball Champion, 5 Little Lucky Envelopes, and rare gear.","Дважды щёлкните, чтобы открыть.<br>Получено за победы в раундах Dragon Ball.<br>Содержит 1 жетон чемпиона Dragon Ball, 5 Маленьких счастливых конвертов и редкое снаряжение."
 Double-click to play %str1%.,"Дважды щёлкните, чтобы сыграть %str1%."
 Double-click to poison yourself.<br>These would be safer in the hands of an expert.,"Двойной щелчок, чтобы отравить себя.<br>Эти вещи были бы безопаснее в руках эксперта."
 "Double-click to receive a random Battle Commendation. While Commended, receive a bonus damage aura and eligibility for bonus XP from killing specific types of creatures.","Дважды щёлкните, чтобы получить случайную боевую рекомендацию. Пока вы рекомендованы, получаете ауру дополнительного урона и право на бонусный опыт за убийство определенных типов существ."
@@ -89,9 +89,9 @@ Drag the manipulator handles to reposition the decoration. Drag the squares to m
 Drag the manipulator to scale the decoration uniformly in all directions.,"Перетащите манипулятор, чтобы равномерно масштабировать украшение во всех направлениях."
 Dragon Amulet,Амулет дракона
 Dragon Arena,Dragon Arena
-Dragon Ball Champion's Chest[s] of 10 Divine Lucky Envelopes,[Сундук|Сундука|Сундуков] чемпиона по драконболу с 10 божественными счастливыми конвертами
-Dragon Ball Champion's Divine Lucky Envelope[s],[Божественный счастливый конверт|Божественного счастливого конверта|Божественных счастливых конвертов] чемпиона по драконболу
-Dragon Ball Champion's Stack[s] of 5 Divine Lucky Envelopes,[Стопка|Стопки|Стопок] чемпиона по драконболу с 5 божественными счастливыми конвертами
+Dragon Ball Champion's Chest[s] of 10 Divine Lucky Envelopes,[Сундук|Сундука|Сундуков] чемпиона по Dragon Ball с 10 божественными счастливыми конвертами
+Dragon Ball Champion's Divine Lucky Envelope[s],[Божественный счастливый конверт|Божественного счастливого конверта|Божественных счастливых конвертов] чемпиона по Dragon Ball
+Dragon Ball Champion's Stack[s] of 5 Divine Lucky Envelopes,[Стопка|Стопки|Стопок] чемпиона по Dragon Ball с 5 божественными счастливыми конвертами
 Dragon Banner Tactic[s],[Тактика|Тактики|Тактик] знамени дракона
 Dragon Bash Achievements: %num1%,Достижения «Dragon Bash»: %num1%
 Dragon Bash Annual Achievements: %num1%,Годовые достижения «Dragon Bash»: %num1%
