@@ -388,11 +388,11 @@ The Greerling rapidly fires exploding spores in a cone in front of it. Players i
 "The Jade Soldier explodes on death, dealing massive damage.","Нефритовый солдат взрывается при смерти, нанося огромный урон."
 The Jade Soldier pulses magical energy and applies conditions.,Нефритовый солдат пульсирует магической энергией и накладывает состояния.
 The Jade Soldier's basic attack.,Базовая атака Нефритового солдата.
-The Keep Construct assaults foes in front of it.,Конструкт-хранитель атакует врагов перед собой.
-The Keep Construct dismantles itself into hundreds of pieces that hail down on targets from the sky.,"Конструкт-хранитель распадается на сотни частей, которые градом обрушиваются на цели с неба."
-"The Keep Construct falls from the ceiling, crushing foes underneath and knocking them down.","Конструкт-хранитель падает с потолка, раздавливая врагов под собой и сбивая их с ног."
-The Keep Construct smashes its arm down behind it with tremendous force.,Конструкт-хранитель с огромной силой обрушивает свою руку позади себя.
-"The Keep Construct smashes its fists into the ground, rippling out waves of Xera's magic.","Конструкт-хранитель ударяет кулаками по земле, пуская волны магии Xera."
+The Keep Construct assaults foes in front of it.,Keep Construct атакует врагов перед собой.
+The Keep Construct dismantles itself into hundreds of pieces that hail down on targets from the sky.,"Keep Construct распадается на сотни частей, которые градом обрушиваются на цели с неба."
+"The Keep Construct falls from the ceiling, crushing foes underneath and knocking them down.","Keep Construct падает с потолка, раздавливая врагов под собой и сбивая их с ног."
+The Keep Construct smashes its arm down behind it with tremendous force.,Keep Construct с огромной силой обрушивает свою руку позади себя.
+"The Keep Construct smashes its fists into the ground, rippling out waves of Xera's magic.","Keep Construct ударяет кулаками по земле, пуская волны магии Xera."
 The Magma Elemental explodes upon death.,Magma Elemental взрывается при смерти.
 "The Magma Elemental stomps down, sending enemies flying.","Magma Elemental топает, заставляя врагов разлетаться в стороны."
 "The Mech Rider launches toward the target with explosive force, dealing heavy damage and applying Extreme Vulnerability to enemies hit. Targets with Extreme Vulnerability take significant damage from this attack.","Мех-наездник бросается к цели с взрывной силой, нанося тяжёлый урон и накладывая экстремальную уязвимость на пораженных врагов. Цели с экстремальной уязвимостью получают значительный урон от этой атаки."
