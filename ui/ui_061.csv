@@ -442,7 +442,7 @@ Event %str1%,Событие %str1%
 Event Begin: %str1%,Начало события: %str1%
 Event Completion and Rewards,Завершение события и награды
 Event Cooldown Begin: %str1%.  Duration: %num1% seconds.,Начало перезарядки события: %str1%. Длительность: %num1% сек.
-Event Cooldown End : %str1%.,Окончание перезарядки события : %str1%.
+Event Cooldown End : %str1%.,Окончание перезарядки события: %str1%.
 Event Debug Reporting Begin,Начало отчёта отладки события
 Event Debug Reporting End,Окончание отчёта отладки события
 Event Details,Детали события

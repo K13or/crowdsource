@@ -6,7 +6,6 @@ english,translate
 "<c=@flavor>A gift from the treasuries of the King of All Cats.</c>""","<c=@flavor>Дар из сокровищниц Короля всех кошек.</c>»"
 "<c=@flavor>A lot of ways to get this chest, but the portal spikes are still a thorn in my side.</c>","<c=@flavor>Много способов получить этот сундук, но портальные шипы всё ещё заноза в моём боку.</c>"
 <c=@flavor>Amira asked you to be careful with these.</c>,<c=@flavor>Амира просила вас быть осторожными с ними.</c>
-"<c=@flavor>And just like that,' he''s gone. A bag of his old belongings is all that''s left.</c>'","<c=@flavor>И вот так,' он ушёл. Мешок с его старыми вещами — все, что осталось.</c>'"
 <c=@flavor>Be sure to pet the jade behemoth. Who's a good jade behemoth?</c>,<c=@flavor>Обязательно погладьте нефритового бегемота. Кто у нас хороший нефритовый бегемот?</c>
 "<c=@flavor>Dear brothers, when will we sing again? I'm beginning to forget our song.</c>","<c=@flavor>Братья мои, когда мы снова запоём? Я начинаю забывать нашу песню.</c>"
 <c=@flavor>Did Zojja ever get her tea?</c>,<c=@flavor>Получила ли Зойя свой чай?</c>
@@ -168,7 +167,6 @@ Can be traded with Mordrem researchers across Tyria for valuable items.,Можн
 Cannot be used in combat.,Нельзя использовать в бою.
 Cannot be used in the Mystic Forge if transmuted.,"Нельзя использовать в Mystic Forge, если предмет трансмутирован."
 "Carrying this item increases the chance of Bandit Executioners attacking during a bounty hunt.""",Ношение этого предмета увеличивает шанс нападения Бандитов-Палачей во время охоты за головами.
-"Celestial""","Небесный»"
 Champion of Tyria Outfit,Champion of Tyria Outfit
 Checked out by 5-Finger Fareem. Last seen being arrested for subversion.,Выдано Пятипалым Фаримом. Последний раз замечен при аресте за подрывную деятельность.
 Checked out by Captain Barud. Last seen in the Corsair Flotilla.,Выдано Captain Barud. Последний раз замечен в Corsair Flotilla.
@@ -209,15 +207,12 @@ Double-click from inventory to read.,"Дважды щёлкните, чтобы 
 Double-click to acquire the account-bound forms of Ancora.,"Дважды щёлкните, чтобы получить привязанные к учётной записи формы Анкоры."
 Double-click to add an extra Fashion Template tab to this account. Each account can unlock up to 7 additional Fashion Template tabs.,"Дважды щёлкните, чтобы добавить дополнительную вкладку шаблонов моды на эту учётную запись. Каждая учётная запись может открыть до 7 дополнительных вкладок шаблонов моды."
 Double-click to add to wardrobe. (This item is account bound and cannot be sold.),"Дважды щёлкните, чтобы добавить в гардероб. (Этот предмет привязан к учётной записи и не может быть продан.)"
-"Double-click to apply to a piece of armor.""","Дважды щёлкните, чтобы применить к элементу брони."""""
-"Double-click to apply to a weapon.""","Дважды щёлкните, чтобы применить к оружию."""""
 Double-click to bind this glyph to your account.,"Дважды щёлкните, чтобы привязать этот глиф к вашей учётной записи."
 "Double-click to change your skill bar, allowing you to play music for all those nearby.","Дважды щёлкните, чтобы изменить панель навыков и играть музыку для всех поблизости."
 Double-click to draw charge.,"Дважды щёлкните, чтобы зарядить."
 Double-click to feed 250 piles of bloodstone dust in exchange for a gift. Herta can only absorb a limited amount of bloodstone dust in a day.,"Дважды щёлкните, чтобы скормить 250 горстей пыли кровавого камня в обмен на подарок. Херта способна поглотить лишь ограниченное количество пыли за день."
 Double-click to feed this tasty treat to your roller beetle.,"Дважды щёлкните, чтобы скормить это вкусное лакомство вашему жуку-катку."
 "Double-click to feed this to your raptor, who is sure to enjoy this meaty treat.","Дважды щёлкните, чтобы скормить это вашему раптору, который точно оценит это мясное лакомство."
-"Double-click to gain 50 luck.""","Дважды щёлкните, чтобы получить 50 удачи."""""
 Double-click to gain a random deathly dye color. Includes a chance at 1 of 6 exclusive colors.,"Дважды щёлкните, чтобы получить случайный цвет краски смерти. Включает шанс получить 1 из 6 эксклюзивных цветов."
 Double-click to gain one random color. Includes six exclusive Mad King colors.,"Дважды щёлкните, чтобы получить один случайный цвет. Включает шесть эксклюзивных цветов Безумного Короля."
 Double-click to gain one random color. Includes six exclusive bloodstone colors.,"Дважды щёлкните, чтобы получить один случайный цвет. Включает шесть эксклюзивных цветов кровавого камня."
@@ -229,4 +224,3 @@ Double-click to locate a memorial site.,"Дважды щёлкните, чтоб
 Double-click to locate a nearby Mordrem researcher.,"Дважды щёлкните, чтобы найти ближайшего исследователя Мордрем."
 Double-click to locate.,"Дважды щёлкните, чтобы найти на карте."
 "Double-click to locate.""","Дважды щёлкните, чтобы найти."""""
-"Double-click to open.""","Дважды щёлкните, чтобы открыть."""""
