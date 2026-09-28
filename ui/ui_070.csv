@@ -16,7 +16,6 @@ GadgetType: %str1%,ТипПриспособления: %str1%
 Gaeting Crystal Reward Track,Путь наград «Кристалл Гейтинга»
 Gaeting Crystal[s],[Кристалл|Кристалла|Кристаллов] Гейтинга
 "Gaheron Baelfire has been slain, but his dreams of godhood are still alive. Now the Citadel of Flame is abuzz with his followers seeking to restore their lost leader.","Гахерон Бейлфайр убит, но его мечты о божественности живы. Ныне Citadel of Flame кишит его последователями, что жаждут вернуть павшего вождя."
-"Gaheron's death has delivered a blow to the Flame Legion, though many of his followers refuse to surrender. Flame Legion factions are now conspiring to unify their forces to assault the beleaguered Pact soldiers who are holding the zealots in check. There are also dark rumors (are there any other kind?) that the Flame Legion is desperate to turn the tide, and when zealots get desperate, they become dangerous.Return to the Citadel of Flame immediately and make sure the Flame Legion doesn't burn down Tyria. You'll want to locate Commander Suma. He's the officer in charge of the Pact forces inside the citadel.Go now,Your Herald","Гибель Гахерона стала ударом для Flame Legion, однако многие его последователи отказываются сдаваться. Фракции Flame Legion сговариваются объединить силы и ударить по измотанным солдатам Пакта, что сдерживают фанатиков. Ходят и мрачные слухи (а какие ещё бывают?), будто Flame Legion отчаянно ищет, как переломить ход дел, — а отчаявшиеся фанатики опасны.Немедленно возвращайся в Citadel of Flame и проследи, чтобы Flame Legion не спалил Тирию. Тебе понадобится найти командира Суму. Он офицер, начальствующий над силами Пакта внутри цитадели.Ступай,Твой Вестник"
 Gahh!,Гах!
 "Gahn Towerbreaker has located one of the necromaner's amulets near Snowdrift Haven. Along with other members of the Vigil, Ghan intends to defend the haven's residents, and secure the amulet drawing the undead to them.","Ган Башнелом отыскал один из амулетов некроманта близ Убежища Снежных Заносов. Вместе с другими членами Дозора Ган намерен защитить обитателей убежища и завладеть амулетом, что притягивает к ним нежить."
 Gain %str2% Based on a Percentage of %str1%,Получение %str2% на основе процента от %str1%
@@ -58,7 +57,6 @@ Gain a burst of speed. Passing through revealed water spirals reduces the rechar
 "Gain a charge that grants a 0.4%% increase in healing to other allies each time you kill a foe, five charges if you kill an enemy player. <c=@reminder>(Max 25 stacks; ends on down.)</c><br><c=@reminder>(Only one attribute-stacking sigil can be active at a time.)</c>","Даёт заряд, повышающий исцеление других союзников на 0,4%%, за каждое убийство врага и пять зарядов за убийство вражеского игрока. <c=@reminder>(Максимум 25 зарядов; сбрасывается при поражении.)</c><br><c=@reminder>(Одновременно может действовать лишь одна сигил, накапливающая атрибут.)</c>"
 "Gain a charge that grants a 0.5%% increase in healing to other allies each time you kill a foe, five charges if you kill an enemy player. <c=@reminder>(Max 25 stacks; ends on down.)</c><br><c=@reminder>(Only one attribute-stacking sigil can be active at a time.)</c>","Даёт заряд, повышающий исцеление других союзников на 0,5%%, за каждое убийство врага и пять зарядов за убийство вражеского игрока. <c=@reminder>(Максимум 25 зарядов; сбрасывается при поражении.)</c><br><c=@reminder>(Одновременно может действовать лишь одна сигил, накапливающая атрибут.)</c>"
 Gain a damage bonus when endurance is not full.,"Даёт прибавку к урону, когда выносливость не полна."
-Gain a magic find boon when completing a magic mirror. This boon only works while on Castora.Obscured chest locations are visible after completing a magic mirror.,Даёт бон поиска магии за прохождение волшебного зеркала. Этот бон действует только на Касторе.После прохождения волшебного зеркала становятся видны укрытые сундуки.
 Gain a map marker and [lbracket]Mentor[rbracket] chat tag to use as tools for guiding new heroes through Tyria.,Даёт метку на карте и чат-метку [lbracket]Наставник[rbracket] — инструменты для сопровождения новых героев по Тирии.
 Gain a random boon every ten seconds.,Даёт случайный бон каждые десять секунд.
 Gain a sweet companion with these mini pets!,Обзаведитесь милым спутником с этими мини-питомцами!
@@ -146,7 +144,6 @@ Gain swiftness when you kill a foe.,Даёт быстроту при убийс�
 Gain swiftness whenever you equip a kit.,Даёт быстроту при каждом снаряжении набора.
 Gain swiftness.,Даёт быстроту.
 "Gain the ability to consume these multifaceted healing mushrooms, healing you instantly and curing some conditions.","Даёт возможность поедать эти многогранные целебные грибы, которые мгновенно исцеляют и снимают некоторые состояния."
-"Gain the ability to ride ley lines both above and below water as well as updrafts with the skimmer.When in an updraft or a ley line, you can break out of it by using the skimmer's Barrel Roll engage skill.","Даёт возможность скользить по лей-линиям над водой и под водой, а также по восходящим потокам на скиммере.Находясь в восходящем потоке или на лей-линии, можно вырваться из них умением скиммера «Бочка»."
 Gain the Soul of the TItan after completing every trigger.,"Получите Душу Титана, запустив все триггеры."
 Gain tier 1 might for the next 30 minutes.,Даёт мощь 1 уровня на ближайшие 30 минут.
 Gain tier 1 regeneration for the next 30 minutes.,Даёт регенерацию 1 уровня на ближайшие 30 минут.
@@ -200,7 +197,6 @@ Galleon Hull[s] (Stern),[Корпус|Корпуса|Корпусов] гале�
 Galleon Hull[s] with Gunports,[Корпус|Корпуса|Корпусов] галеона с пушечными портами
 Galloping Smash,Удар с наскока
 Gallow Canyons,Виселичные Каньоны
-"Gallumph, gallumph! the choya ranWith terrible scowl and hate in its eyesUntil a brave girl took up knife and panAnd made a whole bowlful of Choya Surprise.","Галумф, галумф! — бежал чойяСо злобным взглядом и оскалом жутким,Пока храбрая девочка не взяла нож и сковородуИ не наготовила целую миску «Сюрприза из чойи»."
 Galrath Slash,Galrath Slash
 Galrath the Undying,Галрат Неумирающий
 Game Access Limited:,Доступ к игре ограничен:
@@ -337,7 +333,6 @@ Gate Piece[s],[Часть|Части|Частей] врат
 Gate Researcher,Исследователь врат
 Gate Supervisor Karrog Duelfang,Смотритель врат Каррог Дуэльный Клык
 Gate Terminal,Терминал врат
-Gates sealedFortresses securedSomething wrongthoughts thinburningashsummit,Врата запечатаныКрепости взяты под охрануЧто-то не такмысли редеютгорениепепелвершина
 Gather %num1%/%num2% Unbound Magic,Собрано %num1%/%num2% несвязанной магии
 Gather 10 ancient surveyor's tools from buried chests in the Desolation.,Соберите 10 древних инструментов землемера из закопанных сундуков в Запустении.
 Gather 10 bunches of rare grapes from desert vegetation nodes in the Domain of Vabbi.,Соберите 10 гроздей редкого винограда с пустынных залежей растительности в Domain of Vabbi.

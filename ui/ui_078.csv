@@ -176,7 +176,6 @@ Hold to display enemy names in the world.,Удерживайте для отоб
 Hold to emit a stream of debilitating noise from the end of the gun.,Удерживайте для испускания потока ослабляющего шума из дула оружия.
 Hold to emit a stream of debilitating noise from the end of the gun. Watch out that it does not overheat!,"Удерживайте для испускания потока ослабляющего шума из дула оружия. Следите, чтобы оно не перегрелось!"
 "Hold to flip, must jump first.","Удерживайте для переворота, сначала нужно прыгнуть."
-Hold to hover using the turtle's jump jets.Applies burning to nearby enemies.,Удерживайте для зависания с помощью реактивных ускорителей черепахи. Наносит горение ближайшим врагам.
 Hold to increase hover height.,Удерживайте для увеличения высоты зависания.
 Hold to leap forward across great distances.,Удерживайте для прыжка вперёд на большие расстояния.
 Hold to lock your autotarget.,Удерживайте для фиксации автонаведения.
@@ -195,7 +194,6 @@ Hold to turn your character to the right.,"Удерживайте, чтобы д
 Hold your position!,Держите позицию!
 "Holding [lbracket]%str1%[rbracket] will activate the siege turtle's jump jets, consuming energy and causing it to lift into the air. The jump jets can be activated at any time.","Удерживание [lbracket]%str1%[rbracket] активирует прыжковые двигатели осадной черепахи, расходуя энергию и поднимая её в воздух. Прыжковые двигатели можно активировать в любое время."
 "Holding [lbracket]%str1%[rbracket] will cause the skimmer to rise higher off of the ground, but be careful: it consumes energy.","Удерживание [lbracket]%str1%[rbracket] заставит скиммер подняться выше над землёй, но будьте осторожны: это расходует энергию."
-"Holding down the security of the fractals best we can; ward is stretched thin. All of your aid, from the smallest task to the most severe, only helps us. Thank you for that.Once you banished the demon, my attention was drawn to a peculiar object on the ground. It doesn't look like any playing card I've ever seen, but I think you may find it interesting nonetheless.I will continue to keep R'tchikk safe from harm. Take care of yourself in return.","Мы держим оборону фракталов как можем; защита ослабла. Вся ваша помощь, от малейшего задания до самого серьёзного, помогает нам. Спасибо за это.Как только вы изгнали демона, моё внимание привлёк странный предмет на земле. Он не похож ни на одну игральную карту, которую я когда-либо видел, но, думаю, он может вас заинтересовать.Я продолжу оберегать Р'тчикка от опасности. Берегите себя."
 Holding: Fresh Eggs,Удерживание: Свежие яйца
 Holding: Raw Meat,Удерживание: Сырое мясо
 Holding: Ripe Fruit,Удерживание: Спелые фрукты
