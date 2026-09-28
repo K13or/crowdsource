@@ -99,7 +99,7 @@ Prepare for sacrifice.,Готовься к жертве.
 Prepare the hylek village for the undead attack.,Подготовьте деревню хилеков к атаке нежити.
 "Prepare to die again, monster.","Приготовься умереть снова, чудовище."
 "Prepare to use Dragon Slash. While channeling, you drain flow. Each interval increases the charge level of Dragon Slash.<br><c=@reminder>This skill is canceled if you dodge or are interrupted.</c>","Готовит применение «Драконьего Рассечения». Во время направления расходует поток. Каждый интервал увеличивает уровень заряда «Драконьего Рассечения».<br><c=@reminder>Это умение отменяется, если вы уклоняетесь или вас прерывают.</c>"
-"Prepare to use Dragon Slash. While channeling, you drain flow. Each interval increases the charge level of Dragon Slash.<br><c=@reminder>This skill is canceled if you move.</c>","Готовит применение «Драконьего Рассечения». Во время направления расходует поток. Каждый интервал увеличивает уровень заряда «Драконьего Рассечения».<br><c=@reminder>Это умение отменяется, если вы двигаетесь.</c>"
+"Prepare to use Dragon Slash. While channeling, you drain flow. Each interval increases the charge level of Dragon Slash.<br><c=@reminder>This skill is canceled if you move.</c>","Готовит применение Dragon Slash. Во время направления расходует поток. Каждый интервал увеличивает уровень заряда Dragon Slash.<br><c=@reminder>Это умение отменяется, если вы двигаетесь.</c>"
 Prepared %num1%/%num2% Successful Ingredients,Успешно подготовлено %num1%/%num2% ингредиентов
 Prepared Soup,Суп приготовлен
 Present arms!,На караул!

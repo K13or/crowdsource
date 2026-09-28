@@ -37,15 +37,15 @@ Daze enemies when you become a celestial avatar. Inflict bleeding on enemies you
 Dazes and stuns inflict immobilize.,Dazes and stuns inflict immobilize.
 "Dazes, stuns, pulls, knockdowns, knockbacks, and launches remove boons.","Ошеломления, оглушения, притягивания, нокдауны, отталкивания и отбрасывания снимают блага."
 Dazzling,Dazzling
-Deactivate Photon Forge converts conditions into boons based on your heat level.,Деактивация Photon Forge превращает состояния в дары в зависимости от уровня нагрева.
+Deactivate Photon Forge converts conditions into boons based on your heat level.,Deactivate Photon Forge превращает состояния в дары в зависимости от уровня нагрева.
 Dead or Alive,Dead or Alive
 Deadeye's Gaze,Deadeye's Gaze
-Deadeye's Mark recharges if your mark is defeated. Gain regeneration when this recharge occurs.,"Метка снайпера перезаряжается, если отмеченная цель повержена. Если это происходит, вам даруется регенерация."
+Deadeye's Mark recharges if your mark is defeated. Gain regeneration when this recharge occurs.,"Deadeye's Mark перезаряжается, если отмеченная цель повержена. Если это происходит, вам даруется регенерация."
 Deadly Ambition,Deadly Ambition
 Deadly Ambush,Deadly Ambush
 Deadly Blades,Deadly Blades
 Deadly Strength,Deadly Strength
-Deafening Drum releases an additional quick wave after a delay. Deal damage to enemies you disable.,"Оглушительный барабан выпускает дополнительную волну после короткой задержки. Вы наносите урон врагам, которых вывели из строя."
+Deafening Drum releases an additional quick wave after a delay. Deal damage to enemies you disable.,"Deafening Drum выпускает дополнительную волну после короткой задержки. Вы наносите урон врагам, которых вывели из строя."
 Deal bonus strike damage based on your distance to the enemy.,Вы наносите дополнительный прямой урон в зависимости от дистанции до противника.
 Deal damage and gain life when stealing. This attack cannot critically hit enemies.,Вы наносите урон и получаете здоровье при краже. Эта атака не может завершиться критическим попаданием.
 Deal increased condition damage for each stack of blight you have. Shroud skill 2 also inflicts poison.,"Вы наносите повышенный урон от состояний за каждый стек Скверны, лежащий на вас. 2-е умение Савана накладывает отравление."
@@ -100,7 +100,7 @@ As you remain in Harbinger Shroud, you accumulate stacking Blight.
 <c=@reminder>Blight decreases your maximum health.</c>","Саван смерти (Death Shroud) заменяется на Harbinger Shroud, дающий мощные атакующие навыки, но делающий вас уязвимым для атак.
 Находясь в Harbinger Shroud, вы накапливаете стаки порчи (Blight).
 <c=@reminder>Порча снижает ваше максимальное здоровье.</c>"
-"Death Shroud is replaced with Reaper's Shroud, which has more melee-oriented skills and consumes life force at a faster rate. Gain access to shouts.","Воплощение смерти заменяется воплощением жнеца, которое имеет более ориентированные на ближний бой умения и потребляет жизненную силу с большей скоростью. Получите доступ к выкрикам."
+"Death Shroud is replaced with Reaper's Shroud, which has more melee-oriented skills and consumes life force at a faster rate. Gain access to shouts.","Death Shroud заменяется Reaper's Shroud, которое имеет более ориентированные на ближний бой умения и потребляет жизненную силу с большей скоростью. Получите доступ к выкрикам."
 "Death shroud is replaced with ritualist's shroud. Spirits created by shroud skills will persist until you exit shroud. After performing their initial attack, spirits will periodically attack enemies. Gain access to <c=@abilitytype>weapon spells</c>.","Саван смерти заменяется на саван ритуалиста. Духи, созданные навыками савана, остаются до тех пор, пока вы не выйдёте из савана. После выполнения своей начальной атаки духи будут периодически атаковать врагов. Даёт доступ к <c=@abilitytype>заклинаниям оружия</c>."
 Death's Carapace,Death's Carapace
 Deathless Courage,Deathless Courage
@@ -134,7 +134,7 @@ Disable Damage,Disable Damage
 "Disabling a foe applies conditions to that foe based on your current state.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Вывод врага из строя накладывает на него состояния в зависимости от вашего текущего состояния.
 <c=@reminder>Вывод из строя включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
-"Disabling a foe cripples your enemy, which leaves them vulnerable and inspires you with Kalla's Fervor.","Обездвиживание врага калечит его, делая уязвимым и вдохновляя вас на Пыл Каллы."
+"Disabling a foe cripples your enemy, which leaves them vulnerable and inspires you with Kalla's Fervor.","Обездвиживание врага калечит его, делая уязвимым и вдохновляя вас на Kalla's Fervor."
 "Disabling a foe grants barrier to nearby allies. Your function gyro dazes foes when cast. 
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Вывод врага из строя накладывает барьер на ближайших союзников. Ваш функциональный гироскоп ошеломляет врагов при использовании.
 <c=@reminder>Вывод из строя включает оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
@@ -169,12 +169,12 @@ Double Helix,Double Helix
 Doubled Standards,Doubled Standards
 Draconic Echo,Draconic Echo
 Draconic Fortitude,Draconic Fortitude
-Dragon Slash becomes unblockable and ignores blindness. Gain might whenever you convert flow into charges.,"Удар Дракона нельзя блокировать, и он игнорирует слепоту. Вам даруется мощь при каждом превращении напора в заряды."
+Dragon Slash becomes unblockable and ignores blindness. Gain might whenever you convert flow into charges.,"Dragon Slash нельзя блокировать, и он игнорирует слепоту. Вам даруется мощь при каждом превращении напора в заряды."
 "Dragon Slash has a lower maximum charge level and consumes more flow per charge, but its effectiveness per charge is increased. Grant boons to nearby allies when you use Dragon Slash.","Dragon Slash имеет более низкий максимальный уровень заряда и потребляет больше потока за заряд, но урон за заряд увеличен. Дарует благословения ближайшим союзникам при использовании Dragon Slash."
-Dragon Slash heals you for a percentage of the damage dealt. Gain protection whenever you convert flow into charges.,Удар дракона лечит вас на процент от нанесенного урона. Получайте протекцию при преобразовании потока в заряды.
+Dragon Slash heals you for a percentage of the damage dealt. Gain protection whenever you convert flow into charges.,Dragon Slash лечит вас на процент от нанесенного урона. Получайте протекцию при преобразовании потока в заряды.
 Dragonscale Defense,Dragonscale Defense
 Dread,Dread
-Drink a Lesser Elixir B when struck while below the health threshold.,"Вы выпиваете Малый Elixir B, когда получаете урон, и ваше здоровье ниже порога."
+Drink a Lesser Elixir B when struck while below the health threshold.,"Вы выпиваете Lesser Elixir B, когда получаете урон, и ваше здоровье ниже порога."
 Drink a Lesser Elixir C when you use a healing skill.,Drink a Lesser Elixir C when you use a healing skill.
 Druidic Clarity,Druidic Clarity
 Dual Wielding,Dual Wielding
@@ -252,9 +252,9 @@ Enduring Refrain,Enduring Refrain
 <c=@reminder>Эта черта может воздействовать на врагов с полоской стойкости только раз в определенный интервал.</c>"
 Energized Elements,Energized Elements
 Energy Amplifier,Energy Amplifier
-Energy Meld grants more endurance and grants its endurance and vigor to nearby allies.,"Умение «Слияние энергии» даёт больше выносливости, а также даёт выносливость и Энергичность союзникам поблизости."
-Energy Meld no longer has an energy cost and grants energy when used in combat.,Умение «Слияние энергии» не требует энергии для активации и даёт энергию при использовании в бою.
-Energy Meld's cooldown is reduced and it increases the effectiveness of your next dodge.,Умение «Слияние энергии» перезаряжается быстрее и увеличивает эффективность вашего следующего уворота.
+Energy Meld grants more endurance and grants its endurance and vigor to nearby allies.,"Умение Energy Meld даёт больше выносливости, а также даёт выносливость и Энергичность союзникам поблизости."
+Energy Meld no longer has an energy cost and grants energy when used in combat.,Умение Energy Meld не требует энергии для активации и даёт энергию при использовании в бою.
+Energy Meld's cooldown is reduced and it increases the effectiveness of your next dodge.,Умение Energy Meld перезаряжается быстрее и увеличивает эффективность вашего следующего уворота.
 Energy Threshold,Energy Threshold
 Enhanced Capacity Storage Unit,Enhanced Capacity Storage Unit
 Enhanced Embodiment,Enhanced Embodiment
@@ -281,7 +281,7 @@ Essence of Speed,Essence of Speed
 Eternal Armory,Eternal Armory
 Eternal Life,Eternal Life
 Ethereal Purification,Ethereal Purification
-Evading an attack inspires you with Kalla's Fervor and grants boons to nearby allies.,Уклонение от атаки наполняет вас страстью Каллы и даёт дары союзникам поблизости.
+Evading an attack inspires you with Kalla's Fervor and grants boons to nearby allies.,Уклонение от атаки наполняет вас Kalla's Fervor и даёт дары союзникам поблизости.
 Evasive Arcana,Evasive Arcana
 Evasive Empowerment,Evasive Empowerment
 Evasive Purity,Evasive Purity
@@ -306,7 +306,7 @@ Expert Examination,Expert Examination
 Expertise Inherited by Mech,Expertise Inherited by Mech
 Expertise granted by fury,Expertise granted by fury
 Explodes on expiration.,Explodes on expiration.
-Explosive Entrance grants barrier. Gain vitality based on a percentage of your power.,Взрывное вступление даёт барьер. Ваша Живучесть увеличивается в зависимости от вашей Силы.
+Explosive Entrance grants barrier. Gain vitality based on a percentage of your power.,Explosive Entrance даёт барьер. Ваша Живучесть увеличивается в зависимости от вашей Силы.
 Explosive Entrance grants you resistance and increased critical-strike chance for a brief duration.,Explosive Entrance даёт вам сопротивление и повышенный шанс критического удара на короткое время.
 Explosive Growth,Explosive Growth
 Explosive Temper,Explosive Temper
@@ -356,7 +356,7 @@ Flow Restored,Flow Restored
 Flow like Water,Flow like Water
 Flow of Time,Flow of Time
 Fluid Strikes,Fluid Strikes
-Flustering Flute now applies torment. Dodging reduces the recharge of Flustering Flute.,Взволнованная флейта вызывает боль. Увороты уменьшают время перезарядки Взволнованной флейты.
+Flustering Flute now applies torment. Dodging reduces the recharge of Flustering Flute.,Flustering Flute вызывает боль. Увороты уменьшают время перезарядки Flustering Flute.
 Focus Mastery,Focus Mastery
 Focus skills grant you protection and gain reduced recharge.,Focus skills grant you protection and gain reduced recharge.
 Focus weapon skills reflect projectiles. Reduces recharge on focus weapon skills.,Умения фокуса отражают снаряды. Уменьшает время перезарядки умений фокуса.
@@ -384,7 +384,7 @@ Furious Strength,Furious Strength
 Furious Surge,Furious Surge
 Fury gives an increased critical hit chance. Gain ferocity based on your vitality.,Ярость даёт повышенный шанс критического удара. Ваша Жестокость увеличивается в зависимости от вашей Живучести.
 "Fury grants ferocity and additional increased critical strike chance. When struck while below the health threshold, gain fury.",Ярость даёт свирепость и дополнительный повышенный шанс критического удара. При получении удара ниже порога здоровья вы получаете ярость.
-Fury increases the duration of bleeds you inflict. Gaining fury inspires you with Kalla's Fervor.,Ярость увеличивает длительность вызываемых вами кровотечений. Получение Ярости наполняет вас страстью Каллы.
+Fury increases the duration of bleeds you inflict. Gaining fury inspires you with Kalla's Fervor.,Ярость увеличивает длительность вызываемых вами кровотечений. Получение Ярости наполняет вас Kalla's Fervor.
 "Gadget. Activate your A.E.D., enabling the system to heal you after a brief period of time. If you take lethal damage while A.E.D. is active, it ends and heals you for a large amount, grants shock aura, and removes conditions.","Гаджет. Активируйте ваш A.E.D., позволяя системе исцелить вас через короткий промежуток времени. Если вы получаете смертельный урон, пока A.E.D. активен, он завершается и исцеляет вас на значительную величину, накладывает ауру шока и снимает состояния."
 "Gadget. Break out of stun, gaining resistance, clearing blindness, and removing damaging conditions.","Гаджет. Вырвитесь из оглушения, получив сопротивляемость, сняв слепоту и удалив вредоносные состояния."
 "Gadget. Fly forward, damaging foes with your rocket exhaust. Cures immobilized, crippled, and chilled. Gain superspeed when this skill ends.","Гаджет. Летите вперёд, повреждая врагов выхлопом вашей ракеты. Снимает обездвиживание, хромоту и заморозку. Получите суперскорость, когда этот навык заканчивается."
@@ -395,15 +395,15 @@ Fury increases the duration of bleeds you inflict. Gaining fury inspires you wit
 Gadgeteer,Gadgeteer
 Gain 1 extra adrenaline per hit.,Gain 1 extra adrenaline per hit.
 Gain <c=@abilitytype>carapace</c> when entering shroud.,"Получайте <c=@abilitytype>панцирь</c> Вы получаете панцирь, когда входите в Саван."
-"Gain Combat High when you use Skritt Swipe, increasing your outgoing strike and condition damage. Lose stacks of Combat High every interval.","Получите Боевой подъём при использовании Удара скритта, увеличивая ваш исходящий урон от атак и состояний. Теряйте стаки Боевого подъёма через каждый интервал."
+"Gain Combat High when you use Skritt Swipe, increasing your outgoing strike and condition damage. Lose stacks of Combat High every interval.","Получите Combat High при использовании Skritt Swipe, увеличивая ваш исходящий урон от атак и состояний. Теряйте стаки Combat High через каждый интервал."
 Gain Elemental Empowerment and might when you disable or immobilize a foe.,"Вам даруется мощь и Elemental Empowerment, когда вы обездвиживаете противника или выводите его из строя."
 Gain Elemental Empowerment and vigor when evading an attack.,Gain Elemental Empowerment and vigor when evading an attack.
 Gain Elemental Empowerment while in combat.,Gain Elemental Empowerment while in combat.
 "Gain Insight when disabling foes or removing boons. Full Counter refreshes all <c=@abilitytype>burst</c> skills on hit.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt and fear.","Получайте Проницательность при оглушении врагов или снятии благословений. Full Counter обновляет все <c=@abilitytype>взрывные</c> навыки при попадании.
 <c=@reminder>Оглушения включают в себя оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх."
-Gain Mirage Cloak instead of dodge rolling. <c=@abilitytype>Ambush</c> skills become available for a short time whenever you gain Mirage Cloak. Gain access to <c=@abilitytype>Deception</c> skills.,Получение «Миража» вместо уклонения перекатом. <c=@abilitytype>Засадные</c> умения становятся доступны на короткое время при получении «Миража». Доступ к <c=@abilitytype>обманным</c> умениям.
-Gain Scoundrel's Luck whenever you use Skritt Swipe. Scoundrel's Luck allows you to use double-edge skills on cooldown without backfiring.,Вы получаете Удачу негодяя при использовании Скриттского ограбления. Она позволяет вам использовать перезаряжающиеся умения-авантюры без риска неудачи.
+Gain Mirage Cloak instead of dodge rolling. <c=@abilitytype>Ambush</c> skills become available for a short time whenever you gain Mirage Cloak. Gain access to <c=@abilitytype>Deception</c> skills.,Получение Mirage Cloak вместо уклонения перекатом. <c=@abilitytype>Засадные</c> умения становятся доступны на короткое время при получении Mirage Cloak. Доступ к <c=@abilitytype>обманным</c> умениям.
+Gain Scoundrel's Luck whenever you use Skritt Swipe. Scoundrel's Luck allows you to use double-edge skills on cooldown without backfiring.,Вы получаете Scoundrel's Luck при использовании Skritt Swipe. Она позволяет вам использовать перезаряжающиеся умения-авантюры без риска неудачи.
 Gain Vitality. Your incoming healing is increased.,Gain Vitality. Your incoming healing is increased.
 Gain a bonus based on your equipped radiant weapon. This bonus lingers for a period of time after exiting Radiant Forge.,"Вы получаете бонус, зависящий от вашего текущего лучезарного оружия. Этот бонус длится некоторое время после того, как вы покинете Сияющую Кузницу."
 Gain a bonus effect when you finish a combo. <c=@reminder>Bonuses can trigger once per attunement per interval.</c>,Получите бонусный эффект при завершении комбо. <c=@reminder>Бонусы могут срабатывать один раз за настройку за интервал.</c>
@@ -423,7 +423,7 @@ Gain access to <c=@abilitytype>Glyphs</c>. Become a celestial avatar once you ga
 "Gain access to <c=@abilitytype>Stances</c>. Survival in the desert has enhanced your connection to your pet, granting you the ability to meld with them by entering beastmode.
 <c=@reminder>Traits that affect your pet may affect you differently while in beastmode.</c>","Открывает доступ к <c=@abilitytype>Стойкам</c> (Stances). Выживание в пустыне усилило вашу связь с питомцем, даровав способность сливаться с ним, входя в режим зверя (beastmode).
 <c=@reminder>Черты, влияющие на вашего питомца, могут влиять на вас иначе, пока вы в режиме зверя.</c>"
-"Gain access to Release Potential, Cosmic Wisdom, and Legendary Entity Stance. The effects of Release Potential and Cosmic Wisdom change depending on which legend you are currently invoking. Gain affinity while using legend skills, which increases the effectiveness of Release Potential. Gain additional affinity when using legend skills above the threshold and while channeling an upkeep skill.","Получите доступ к Высвобождению Потенциала, Cosmic Wisdom и Стойке Легендарного Существа. Эффекты Высвобождения Потенциала и Cosmic Wisdom меняются в зависимости от того, какую легенду вы в данный момент призываете. Получайте сродство при использовании навыков легенды, что увеличивает эффективность Высвобождения Потенциала. Получайте дополнительное сродство при использовании навыков легенды выше порога и во время поддержания навыка."
+"Gain access to Release Potential, Cosmic Wisdom, and Legendary Entity Stance. The effects of Release Potential and Cosmic Wisdom change depending on which legend you are currently invoking. Gain affinity while using legend skills, which increases the effectiveness of Release Potential. Gain additional affinity when using legend skills above the threshold and while channeling an upkeep skill.","Получите доступ к Высвобождению Потенциала, Cosmic Wisdom и Legendary Entity Stance. Эффекты Высвобождения Потенциала и Cosmic Wisdom меняются в зависимости от того, какую легенду вы в данный момент призываете. Получайте сродство при использовании навыков легенды, что увеличивает эффективность Высвобождения Потенциала. Получайте дополнительное сродство при использовании навыков легенды выше порога и во время поддержания навыка."
 Gain access to Reshuffle. Remove conditions from yourself whenever you reshuffle your artifacts or use an artifact skill.,"Вы получаете доступ к Перетасовке. Вы снимаете с себя состояния каждый раз, когда перетасовываете артефакты или используете умение-артефакт."
 Gain access to berserk mode and <c=@abilitytype>primal bursts</c>.,Открывает доступ к режиму берсерка и <c=@abilitytype>первобытным всплескам</c> (primal bursts).
 Gain access to chants and command skills. Gain motivation by using a chant or by using a burst skill while a refrain is active.,"Вы получаете доступ к умениям-хоралам и командам. Вы получаете мотивацию при использовании хоралов или вспышек ярости, пока длится рефрен."
@@ -464,7 +464,7 @@ Off hand—Heal for a percent of your outgoing strike damage.","Получайт
 Вторая рука — исцеляйтесь на процент от вашего исходящего урона от ударов."
 Gain boons upon casting a <c=@abilitytype>glyph</c> based on your attunement. Gain resistance when attuning to air.,Получайте благословения при использовании <c=@abilitytype>глифа</c> в зависимости от вашей настройки. Получайте сопротивляемость при настройке на воздух.
 Gain boons when entering Dragon Trigger.,Gain boons when entering Dragon Trigger.
-"Gain boons when resolve's effect triggers, but you no longer heal. Resolve has a modified duration. Gain boons when you use Flowing Resolve.","Получите благословения при срабатывании эффекта решимости, но вы больше не исцеляетесь. Решимость имеет изменённую длительность. Получите благословения при использовании Текущей решимости."
+"Gain boons when resolve's effect triggers, but you no longer heal. Resolve has a modified duration. Gain boons when you use Flowing Resolve.","Получите благословения при срабатывании эффекта решимости, но вы больше не исцеляетесь. Решимость имеет изменённую длительность. Получите благословения при использовании Flowing Resolve."
 Gain boons when you switch attunements.,Gain boons when you switch attunements.
 Gain chaos aura when you use your Shatter skill 2. Chaos aura grants you increased condition damage for a period of time.,"Вы получаете ауру хаоса при использовании 2-го умения Осколков. Пока у вас есть аура хаоса, наносимый вами урон от состояний увеличен."
 Gain charges when changing attunements. Gain a burst of power when you reach the maximum number of charges.,Вы накапливаете заряды при смене Стихий. Вы получаете прибавку к Силе при достижении максимального числа зарядов.
@@ -485,7 +485,7 @@ Gain condition damage based on your power.,Gain condition damage based on your p
 <c=@reminder>Кровотечение может возникнуть на одной цели только один раз за интервал.</c>"
 Gain condition damage based on your vitality. <c=@abilitytype>Virtues</c> gain reduced recharge.,"Получайте урон от состояний, основанный на вашей живучести. <c=@abilitytype>Добродетели</c> получают сокращенную перезарядку."
 Gain condition damage when you have fury. You have increased chance to critically strike against bleeding foes.,"Ваш урон от состояний увеличивается, когда у вас есть дар Ярости. Ваш шанс на критическое попадание возрастает при атаке кровоточащих противников."
-Gain condition damage. <c=@abilitytype>Willbender Flames</c> now inflict burning on foes they strike.,Получайте урон от состояний. <c=@abilitytype>Пламя Изменяющего Волю</c> теперь накладывает горение на поражённых врагов.
+Gain condition damage. <c=@abilitytype>Willbender Flames</c> now inflict burning on foes they strike.,Получайте урон от состояний. <c=@abilitytype>Willbender Flames</c> теперь накладывает горение на поражённых врагов.
 Gain condition damage. Gain additional condition damage while wielding a staff. Staff and trident skills gain reduced recharge.,Получайте урон от состояний. Получайте дополнительный урон от состояний при использовании посоха. Навыки посоха и трезубца получают сокращенную перезарядку.
 "Gain condition damage. Gain additional condition damage while wielding a torch, dagger, or mace. Torch and dagger skills recharge faster.","Получайте урон от состояний. Получайте дополнительный урон от состояний при использовании факела, кинжала или булавы. Навыки факела и кинжала перезаряжаются быстрее."
 Gain condition damage. Your pistol skills gain increased condition duration.,"Ваш урон от состояний увеличен. Состояния, вызываемые вашими пистолетными умениями, длятся дольше."
@@ -539,14 +539,14 @@ Gain increased movement speed. Gain swiftness when you activate a virtue.,Уве
 "Gain increased outgoing damage when you grant yourself an aura. <c=@reminder>When this triggers, refresh the duration of all stacks. </c>",Увеличивает исходящий урон при наложении на себя ауры. <c=@reminder>При срабатывании обновляет длительность всех эффектов.</c>
 "Gain increased outgoing strike damage and reduced incoming strike damage. When above the health threshold, outgoing strike damage is further increased. When below the health threshold, incoming strike damage is further reduced.",Увеличивает исходящий прямой урон и снижает входящий прямой урон. При здоровье выше порогового значения исходящий прямой урон дополнительно увеличивается. При здоровье ниже порогового значения входящий прямой урон дополнительно снижается.
 Gain increased power while above the health threshold. Gain increased healing power when below it.,"Ваша сила увеличивается, пока ваше здоровье выше порога. Ваша сила исцеления увеличивается, когда ваше здоровье ниже порога."
-Gain increased power. <c=@abilitytype>Willbender Flames</c> deal increased damage to foes they strike.,Увеличивает силу. <c=@abilitytype>Пламя Проклятого Воина</c> наносит пораженным врагам повышенный урон.
+Gain increased power. <c=@abilitytype>Willbender Flames</c> deal increased damage to foes they strike.,Увеличивает силу. <c=@abilitytype>Willbender Flames</c> наносит пораженным врагам повышенный урон.
 Gain increased shadow force when hitting a foe with <c=@abilitytype>Siphon</c>. Grant increased barrier when targeting an ally.,Увеличивает теневую силу при попадании по врагу <c=@abilitytype>Сифоном</c>. Увеличивает барьер при нацеливании на союзника.
 Gain increased strike damage for a period of time when you shadowstep or use a movement skill.,"Наносимый вами прямой урон увеличивается на некоторое время после того, как вы сделали Призрачный Шаг или использовали умение с перемещением."
 Gain increased strike damage for each round of ammunition spent.,Увеличивает прямой урон за каждый потраченный заряд боеприпасов.
 Gain increased strike damage when you equip a radiant weapon.,"Наносимый вами прямой урон увеличивается, когда вы вооружаетесь лучезарным оружием."
 Gain increased strike damage when you use a <c=@abilitytype>burst</c> skill; this damage increase is based on your adrenaline.,Увеличивает ударный урон при использовании навыка <c=@abilitytype>выплеска</c>; повышение урона зависит от вашего адреналина.
 Gain increased vitality when wielding a sword. Gain bonus vitality based on a portion of your power and condition damage.,Увеличивает живучесть при использовании меча. Даёт бонус к живучести на основе части вашей силы и урона от состояний.
-Gain increased vitality. <c=@abilitytype>Willbender Flames</c> now heal you when they strike an enemy.,Увеличивает живучесть. <c=@abilitytype>Пламя Проклятого Воина</c> теперь исцеляет вас при попадании по врагу.
+Gain increased vitality. <c=@abilitytype>Willbender Flames</c> now heal you when they strike an enemy.,Увеличивает живучесть. <c=@abilitytype>Willbender Flames</c> теперь исцеляет вас при попадании по врагу.
 Gain increased vitality. Heal each second for each stack of blight you have.,"Ваша живучесть увеличивается. Вы исцеляетесь каждую секунду за каждый стек скверны, лежащей на вас."
 Gain increased vitality. Healing others is improved based on a percentage of your vitality.,Ваша живучесть увеличивается. Эффективность исцеления союзников увеличивается в зависимости от вашей Живучести.
 Gain initiative and barrier whenever you use an artifact skill. You take reduced strike and condition damage whenever you have barrier.,"Вы получаете инициативу и барьер при использовании умения-артефакта. Вы получаете пониженный прямой урон и урон от состояний, пока на вас действует барьер."
@@ -565,5 +565,5 @@ Gain life force when you enter Harbinger Shroud.,Gain life force when you enter 
 "Gain life force when you inflict burning, and remove or corrupt a boon.","Восстанавливает жизненную силу при наложении горения, а также при снятии или порче благословения."
 "Gain light aura when entering Radiant Forge. Luminary skills detonate light aura, damaging enemies and healing allies.","Получайте ауру света при входе в Сияющую Кузню. Навыки Светоча взрывают ауру света, нанося урон врагам и исцеляя союзников."
 Gain might and fury when you disable a foe.,Gain might and fury when you disable a foe.
-"Gain might for using any skill while attuned to fire. When leaving fire attunement or successfully completing a fire overload, unleash a Flame Expulsion.","Получайте мощь за использование любого навыка, находясь в настройке на огонь. При выходе из настройки на огонь или успешном завершении перегрузки огня высвобождайте Извержение пламени."
+"Gain might for using any skill while attuned to fire. When leaving fire attunement or successfully completing a fire overload, unleash a Flame Expulsion.","Получайте мощь за использование любого навыка, находясь в настройке на огонь. При выходе из настройки на огонь или успешном завершении перегрузки огня высвобождайте Flame Expulsion."
 Gain might on weapon swap. <c=@abilitytype>Burst</c> skills gain reduced recharge.,Получайте мощь при смене оружия. Навыки <c=@abilitytype>Рывок</c> получают уменьшенное время восстановления.

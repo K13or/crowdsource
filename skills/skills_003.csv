@@ -40,7 +40,7 @@ A melee blowout.,Удар ближнего боя.
 A melee daze.,Ошеломление в ближнем бою.
 A melee stun.,Оглушение в ближнем бою.
 "A mutated Matthias charges and fires a beam shot directly in front of him, dealing massive damage to all targets hit.","Мутировавший Маттиас заряжается и выпускает лучевой выстрел прямо перед собой, нанося огромный урон всем поражённым целям."
-"A number of players closest to Decima are targeted with bolts of Discordant Thunder. If a bolt's area of effect strikes a conduit, it gains some charge.","Несколько игроков, ближайших к Decima, становятся целями для разрядов «Дискордантного грома». Если область действия разряда попадает в проводник, он получает заряд."
+"A number of players closest to Decima are targeted with bolts of Discordant Thunder. If a bolt's area of effect strikes a conduit, it gains some charge.","Несколько игроков, ближайших к Decima, становятся целями для разрядов Discordant Thunder. Если область действия разряда попадает в проводник, он получает заряд."
 "A persistent electrical field that increases in damage over time appears under any player hit by Sparkwave. Upon reaching maximum damage, it also dazes and applies vulnerability.","Постоянное электрическое поле, урон от которого со временем увеличивается, появляется под любым игроком, пораженным Sparkwave. При достижении максимального урона оно также ошеломляет и накладывает уязвимость."
 A pistol attack that inflicts poison.,"Выстрел из пистолета, накладывающий яд."
 "A platform bursts into flame, dealing fire damage, stripping boons, and applying cripple and weakness.","Платформа вспыхивает пламенем, нанося урон огнём, снимая благословения и накладывая хромоту и слабость."
@@ -158,7 +158,7 @@ Adina raises a pillar that kills nearby foes and sends out a shock wave that cri
 Adina sends out a shock wave that transforms the arena into a new shape.,"Adina испускает ударную волну, которая меняет форму арены."
 Adina sets off a terrain cascade that pulls anyone caught in it and destroys the furthest pillar along the cascade.,"Adina запускает каскад местности, который притягивает всех попавших в него и разрушает самую дальнюю колонну вдоль каскада."
 "Adina shoots rocks that explode upon impact, causing shrapnel pieces to blind those they hit and to deal high damage.","Adina стреляет камнями, которые взрываются при ударе, вызывая осколки, ослепляющие тех, кого они задевают, и наносящие высокий урон."
-"Adina turns her skin into diamond, reflecting projectiles and applying boons to herself. After two seconds, her skin will cast Radiant Blindness to those who are not facing away.","Adina превращает свою кожу в алмаз, отражая снаряды и накладывая на себя благословения. Через две секунды её кожа наложит «Сияющее слепоту» на тех, кто не отвернулся."
+"Adina turns her skin into diamond, reflecting projectiles and applying boons to herself. After two seconds, her skin will cast Radiant Blindness to those who are not facing away.","Adina превращает свою кожу в алмаз, отражая снаряды и накладывая на себя благословения. Через две секунды её кожа наложит Radiant Blindness на тех, кто не отвернулся."
 Adina's defiance bar must be broken or she will kill all her foes. She can only be broken from the rotating blue region.,"Шкалу стойкости Adina необходимо сломать, иначе она убьёт всех своих врагов. Её можно сломать только из вращающейся синей области."
 Adrenaline,Адреналин
 Adrenaline If Not Attacked,"Адреналин, если не атакован"
@@ -175,7 +175,7 @@ Aerial Support,Aerial Support
 "After a delay, deliver a circular attack to foes around you. Increases flow rate if it hits.",После небольшой задержки нанесите круговой удар по врагам вокруг вас. При попадании увеличивает скорость потока.
 "After a short channel, unleash a blast of compressed magic that stuns enemies. Nearby allies and your tethered ally gain stability. Heal your tethered ally based on each enemy you hit.","После короткого канала высвободите взрыв сжатой магии, оглушающий врагов. Близлежащие союзники и ваш связанный союзник получают устойчивость. Исцелите связанного союзника в зависимости от количества пораженных врагов."
 "After a short delay, release a torrent of flame. Allies are granted might, while damage and burning is increased based on might on you.","После короткой задержки выпустите поток пламени. Союзники получают мощь, а урон и горение увеличиваются в зависимости от вашего мощи."
-"After using a Lava Axe ability, your next Lava Axe attack fires twice.",После использования способности Лавового топора ваша следующая атака Лавовым топором срабатывает дважды.
+"After using a Lava Axe ability, your next Lava Axe attack fires twice.",После использования способности Лавового топора ваша следующая атака Lava Axe срабатывает дважды.
 Afterburner,Afterburner
 Aftershock Damage,Урон от афтершока
 Aftershock Radius,Радиус афтершока
@@ -194,7 +194,7 @@ All elements are now tightly woven together.,Все элементы тепер�
 "All icicles fire at the same target in an inward-facing circular sequence that tracks the target. As health drops, more projectiles are fired.","Все сосульки летят в одну цель по круговой траектории, направленной внутрь, которая отслеживает цель. По мере снижения здоровья выпускается больше снарядов."
 All incoming attacks heal you.,Все входящие атаки исцеляют вас.
 All outgoing attacks are rendered useless.,Все исходящие атаки становятся бесполезными.
-All spear skills are illuminated while standing within the Symbol of Luminance.,"Все навыки копья подсвечиваются, пока вы стоите внутри Символа светимости."
+All spear skills are illuminated while standing within the Symbol of Luminance.,"Все навыки копья подсвечиваются, пока вы стоите внутри Symbol of Luminance."
 Alliance Tactics,Alliance Tactics
 Allied Heal per Pulse,Исцеление союзников за импульс
 Allied Healing,Исцеление союзников
@@ -421,7 +421,7 @@ Beaming Smile,Beaming Smile
 Bear Stance,Bear Stance
 Beast. Gain regeneration.,Зверь. Получает регенерацию.
 Beastmode,Beastmode
-"Become a Reaper of Grenth, chilling and poisoning nearby foes.","Станьте Жнецом Грента, накладывая на врагов холод и отравление."
+"Become a Reaper of Grenth, chilling and poisoning nearby foes.","Станьте Reaper of Grenth, накладывая на врагов холод и отравление."
 "Become a wisp of natural energy, traversing to the targeted location. When you reach the target, heal nearby allies and grant protection to your pet. Recharge is reduced if you heal another ally.","Станьте сгустком природной энергии, перемещаясь к выбранной цели. По прибытии исцелите ближайших союзников и дайте протекцию своему питомцу. Время перезарядки сокращается, если вы исцеляете другого союзника."
 Become surrounded in a magnetic shield that reflects projectiles.,Отразить снаряды при помощи магнитной энергии.
 Become the Bear,Become the Bear

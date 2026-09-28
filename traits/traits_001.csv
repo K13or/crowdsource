@@ -37,12 +37,12 @@ english,translate
 <c=@abilitytype>Explosions</c> have a chance to cripple and cause bleeding on hit.,<c=@abilitytype>Взрывы</c> Взрывы имеют шанс вызвать хромоту и кровотечение при попадании.
 <c=@abilitytype>Gadget</c> skills are more powerful.,Навыки <c=@abilitytype>гаджетов</c> Приспособления становятся мощнее.
 <c=@abilitytype>Glyphs</c> grant protection to nearby allies.,<c=@abilitytype>Глифы</c> дают протекцию ближайшим союзникам.
-<c=@abilitytype>Invoke Torment</c> applies poison and burning.,<c=@abilitytype>Призыв боли</c> накладывает яд и горение.
-<c=@abilitytype>Invoke Torment</c> grants resistance. Resistance heals you every interval.,<c=@abilitytype>Призыв боли</c> даёт сопротивляемость. Сопротивляемость исцеляет вас каждый интервал.
-<c=@abilitytype>Invoke Torment</c> transfers conditions from you onto foes.,<c=@abilitytype>Призыв боли</c> переносит состояния с вас на врагов.
+<c=@abilitytype>Invoke Torment</c> applies poison and burning.,<c=@abilitytype>Invoke Torment</c> накладывает яд и горение.
+<c=@abilitytype>Invoke Torment</c> grants resistance. Resistance heals you every interval.,<c=@abilitytype>Invoke Torment</c> даёт сопротивляемость. Сопротивляемость исцеляет вас каждый интервал.
+<c=@abilitytype>Invoke Torment</c> transfers conditions from you onto foes.,<c=@abilitytype>Invoke Torment</c> переносит состояния с вас на врагов.
 "<c=@abilitytype>Legendary Alliance</c> abilities gain an additional bonus. Activating Energy Meld or Alliance Tactics grants both of these bonuses simultaneously at greater amounts to nearby allies.
 Kurzick abilities grant regeneration.
-Luxon abilities grant might.","<c=@abilitytype>Legendary Alliance.</c> Способности получают дополнительный бонус. Активация «Слияния энергии» или «Alliance Tactics» даёт оба бонуса одновременно в большем объёме ближайшим союзникам.
+Luxon abilities grant might.","<c=@abilitytype>Legendary Alliance.</c> Способности получают дополнительный бонус. Активация Energy Meld или «Alliance Tactics» даёт оба бонуса одновременно в большем объёме ближайшим союзникам.
 Способности Kurzick дают регенерацию.
 Способности Luxon дают мощь."
 "<c=@abilitytype>Legendary Centaur.</c> Collect energy, pulling it into the tablet to build up its power. After a short delay the energy will be released, healing nearby allies.","<c=@abilitytype>Легендарный Кентавр.</c> Собирайте энергию, притягивая её в планшет, чтобы накопить мощь. После небольшой задержки энергия высвободится, исцеляя ближайших союзников."
@@ -65,15 +65,15 @@ Luxon abilities grant might.","<c=@abilitytype>Legendary Alliance.</c> Спос�
 <c=@abilitytype>Physical</c> skills grant endurance when activated.,Умения <c=@abilitytype>Физическое</c> дают выносливость при активации.
 "<c=@abilitytype>Resonance.</c> If Legendary Assassin Stance is equipped, this skill deals additional damage and removes boons if only one enemy was struck by this attack.","<c=@abilitytype>Резонанс.</c> Если экипирована Legendary Assassin Stance, это умение наносит дополнительный урон и снимает благодати, когда атака поразила лишь одного врага."
 "<c=@abilitytype>Resonance.</c> If Legendary Centaur Stance is equipped, you additionally heal allies around you during channeling, and you take reduced strike and condition damage for a short amount of time after channeling completes.","<c=@abilitytype>Резонанс.</c> Если экипирована Legendary Centaur Stance, вы дополнительно лечите союзников вокруг себя во время направления, а также получаете уменьшенный урон от ударов и состояний в течение короткого времени после завершения направления."
-"<c=@abilitytype>Resonance.</c> If Legendary Demon Stance is equipped, the maximum number of projectiles is always fired regardless of conditions removed, and all projectiles are fired at the closest enemy instead.","<c=@abilitytype>Резонанс.</c> Если экипирована Легендарная стойка демона, всегда выпускается максимальное количество снарядов независимо от снятых состояний, и все снаряды летят в ближайшего врага."
-"<c=@abilitytype>Resonance.</c> If Legendary Dwarf Stance is equipped, the additional energy cost for breaking stuns is reduced, and the boons are also granted to allies in a radius around you.","<c=@abilitytype>Резонанс.</c> Если экипирована стойка Легендарного Дварфа, стоимость дополнительной энергии для снятия оглушений снижается, а благословения также даруются союзникам в радиусе вокруг вас."
+"<c=@abilitytype>Resonance.</c> If Legendary Demon Stance is equipped, the maximum number of projectiles is always fired regardless of conditions removed, and all projectiles are fired at the closest enemy instead.","<c=@abilitytype>Резонанс.</c> Если экипирована Legendary Demon Stance, всегда выпускается максимальное количество снарядов независимо от снятых состояний, и все снаряды летят в ближайшего врага."
+"<c=@abilitytype>Resonance.</c> If Legendary Dwarf Stance is equipped, the additional energy cost for breaking stuns is reduced, and the boons are also granted to allies in a radius around you.","<c=@abilitytype>Резонанс.</c> Если экипирована Legendary Dwarf Stance, стоимость дополнительной энергии для снятия оглушений снижается, а благословения также даруются союзникам в радиусе вокруг вас."
 <c=@abilitytype>Resonance.</c> This skill gains bonus effects depending on the legend equipped in the other slot.,"<c=@abilitytype>Резонанс.</c> Этот навык получает бонусные эффекты в зависимости от легенды, экипированной в другом слоте."
 <c=@abilitytype>Shatter</c> skills also remove a boon on hit.,<c=@abilitytype>Разрушение</c> Осколки также снимают дары при попадании.
 <c=@abilitytype>Shatter</c> skills deal more damage. This bonus damage is doubled against foes that are not activating skills.,"<c=@abilitytype>Разрушение</c> Осколки наносят больше урона. Дополнительный урон удваивается, если противник не использовал умения."
 <c=@abilitytype>Shatter</c> skills gain recharge reduction.,<c=@abilitytype>Разрушение</c> Осколки перезаряжаются быстрее.
 <c=@abilitytype>Shatter</c> skills generate a clone and grant alacrity if you have enough clones present.,"<c=@abilitytype>Разрушение</c> Осколки создают клон и даруют рвение, если у вас есть достаточное количество клонов."
 <c=@abilitytype>Shatter</c> skills give vigor. Strike and condition damage dealt is increased when you have vigor.,<c=@abilitytype>Разрушение</c> Осколки даруют энергичность. Энергичность увеличивает наносимый вами прямой урон и урон от состояний.
-<c=@abilitytype>Shatter</c> skills grant Mirage Cloak if you have enough clones present. Gaining Mirage Cloak recharges Mind Wrack and Cry of Frustration.,"<c=@abilitytype>Разрушение</c> Умения- осколки дают покров миража, если у вас достаточно клонов. Получение покрова миража перезаряжает умения Mind Wrack и Cry of Frustration."
+<c=@abilitytype>Shatter</c> skills grant Mirage Cloak if you have enough clones present. Gaining Mirage Cloak recharges Mind Wrack and Cry of Frustration.,"<c=@abilitytype>Разрушение</c> Умения- осколки дают Mirage Cloak, если у вас достаточно клонов. Получение Mirage Cloak перезаряжает умения Mind Wrack и Cry of Frustration."
 <c=@abilitytype>Shatter</c> skills inflict torment on hit.,<c=@abilitytype>Разрушение</c> Осколки вызывают боль при попадании.
 <c=@abilitytype>Shatter</c> skills inflict vulnerability on hit.,<c=@abilitytype>Разрушение</c> Осколки накладывают уязвимость при попадании.
 <c=@abilitytype>Shout</c> skills convert conditions to boons on allies.,<c=@abilitytype>Крик</c> Крики превращают лежащие на союзниках состояния в дары.
@@ -105,7 +105,7 @@ Luxon abilities grant might.","<c=@abilitytype>Legendary Alliance.</c> Спос�
 <c=@abilitytype>Trap</c> skills grant aegis when used.,<c=@abilitytype>Навыки ловушек</c> дают эгиду при использовании.
 <c=@abilitytype>Tricks</c> remove conditions.,<c=@abilitytype>Уловки</c> снимают состояния.
 <c=@abilitytype>Turrets.</c> Turrets create a reflective barrier when built and grant boons to allies around them on a regular interval.,<c=@abilitytype>Турели.</c> Турели создают отражающий барьер при размещении и накладывают дары на союзников вокруг себя с регулярным интервалом.
-<c=@abilitytype>Unleashed Ambush</c> skills grant boons to nearby allies. Refresh Unleashed Power when you swap weapons.,<c=@abilitytype>Навыки высвобожденной засады</c> дают благословения ближайшим союзникам. Обновляют «Высвобожденную силу» при смене оружия.
+<c=@abilitytype>Unleashed Ambush</c> skills grant boons to nearby allies. Refresh Unleashed Power when you swap weapons.,<c=@abilitytype>Навыки высвобожденной засады</c> дают благословения ближайшим союзникам. Обновляют Unleashed Power при смене оружия.
 "<c=@abilitytype>Venom</c> utility skills siphon life from struck foes. Gain stacks of Spider Venom when you enter or exit stealth.
 <c=@reminder>Siphoning can only occur once per strike.</c>","<c=@abilitytype>Навыки ядов</c> вытягивают жизнь из пораженных врагов. Получайте заряды «Spider Venom» при входе в невидимость или выходе из неё.
 <c=@reminder>Вытягивание жизни может сработать только один раз за удар.</c>"
@@ -131,7 +131,7 @@ Absolute Resolve,Absolute Resolve
 Abyssal Chill,Abyssal Chill
 Acolyte of Torment,Acolyte of Torment
 Activate Lesser Utility Goggles after using a healing skill.,Activate Lesser Utility Goggles after using a healing skill.
-Activating Crashing Courage grants resistance. Shadowstepping grants resolution and protection.,Активация «Сокрушительного мужества» даёт сопротивление. Теневой шаг даёт решимость и защиту.
+Activating Crashing Courage grants resistance. Shadowstepping grants resolution and protection.,Активация Crashing Courage даёт сопротивление. Теневой шаг даёт решимость и защиту.
 Activating Virtue skill 2 removes conditions from nearby allies. Virtue skill 2's passive effect is stronger.,Использование 2-го умения Добродетели снимает состояния с союзников поблизости. Пассивный эффект от 2-го умения Добродетели усилен.
 Activating a <c=@abilitytype>Shatter</c> gives your illusions superspeed. Shatters deal increased damage to movement-impaired foes.,"Активация <c=@abilitytype>Раскола</c> Активация умений- осколков даёт вашим иллюзиям сверхскорость. Осколки наносят повышенный урон противникам, на которых лежат состояния, ограничивающие передвижение."
 Activating berserk mode breaks stuns. Reduce incoming damage for a period of time when entering berserk mode.,Активация состояния берсерка снимает оглушение. Получаемый урон снижается на некоторое время после активации состояния берсерка.
@@ -239,7 +239,7 @@ Automated Medical Response,Automated Medical Response
 Awaken the Pain,Awaken the Pain
 Axe Mastery,Axe Mastery
 Axe Proficiency,Axe Proficiency
-Axe skills gain a chance to inflict bleeding. Symbol of Vengeance now dazes on its initial strike.,Навыки топора получают шанс вызвать кровотечение. «Символ возмездия» теперь ошеломляет при первом ударе.
+Axe skills gain a chance to inflict bleeding. Symbol of Vengeance now dazes on its initial strike.,Навыки топора получают шанс вызвать кровотечение. Symbol of Vengeance теперь ошеломляет при первом ударе.
 Balance in Discord,Balance in Discord
 Banner Effect Improvement,Banner Effect Improvement
 Banshee's Wail,Banshee's Wail
@@ -410,8 +410,8 @@ Chain Reactivity,Chain Reactivity
 Chance on Critical Hit,Chance on Critical Hit
 Chance on Critical Strike to Gain Might,Chance on Critical Strike to Gain Might
 Chance to Bleed,Chance to Bleed
-Chant of Freedom grants superspeed to affected allies when activated.,"Хорал Свободы при активации даёт сверхскорость союзникам, попавшим под его действие."
-Chant of Recuperation removes conditions from affected allies when activated.,"Когда Хорал Выздоровления активен, он снимает состояния с союзников, попавших под его воздействие."
+Chant of Freedom grants superspeed to affected allies when activated.,"Chant of Freedom при активации даёт сверхскорость союзникам, попавшим под его действие."
+Chant of Recuperation removes conditions from affected allies when activated.,"Когда Chant of Recuperation активен, он снимает состояния с союзников, попавших под его воздействие."
 Chaotic Interruption,Chaotic Interruption
 Chaotic Persistence,Chaotic Persistence
 Chaotic Potency,Chaotic Potency
@@ -430,7 +430,7 @@ Chilling a foe inflicts vulnerability.,Chilling a foe inflicts vulnerability.
 Chronophantasma,Chronophantasma
 "Citadel Order. Open a portal through the mists of time, unleashing a storm of artillery from the united legions.","Приказ Цитадели. Откройте портал сквозь туманы времени, обрушив артиллерийский шквал объединенных легионов."
 "Citadel Order. Orders from above arrive, renewing your abilities and those of your nearby allies.","Приказ Цитадели. Прибывают приказы сверху, обновляя ваши способности и способности ваших ближайших союзников."
-Citadel Order. Refresh the duration of your Kalla's Fervor and grant nearby allies might for every stack.,Приказ Цитадели. Обновите длительность вашего «Рвения Kalla» и дайте ближайшим союзникам мощь за каждый уровень эффекта.
+Citadel Order. Refresh the duration of your Kalla's Fervor and grant nearby allies might for every stack.,Приказ Цитадели. Обновите длительность вашего Kalla's Fervor и дайте ближайшим союзникам мощь за каждый уровень эффекта.
 Clarion Bond,Clarion Bond
 Cleanse conditions from allies you grant regeneration to.,Cleanse conditions from allies you grant regeneration to.
 Cleansing Channel,Cleansing Channel

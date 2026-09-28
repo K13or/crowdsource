@@ -19,11 +19,11 @@ Shadowstep Range,Дальность теневого шага
 Shadowstep and unleash fierce attacks on nearby foes. Gain might each time you damage a foe.,"Сделать Призрачный Шаг и провести яростную атаку против противников поблизости. Вам даруется мощь каждый раз, когда вы наносите противнику урон."
 Shadowstep away from your target and lose conditions. Poisons foes at your starting location.,Сделать Призрачный Шаг прочь от вашей цели и снять с себя состояния. Отравить противников в вашем исходном местоположении.
 "Shadowstep back to your previous location, crippling foes as you retreat.","Теневой шаг обратно в предыдущую точку, накладывая увечье на врагов при отступлении."
-"Shadowstep to Flash Combo's starting point, healing and removing conditions.","Теневой шаг к начальной точке Вспышки комбо, исцеление и снятие состояний."
-Shadowstep to a foe and strike them. Use Shadow Return to shadowstep back and cure one condition.,"Сделать Призрачный Шаг к противнику и нанести удар. Использовать Призрачное Возвращение, чтобы вернуться обратно и снять с себя одно состояние."
+"Shadowstep to Flash Combo's starting point, healing and removing conditions.","Теневой шаг к начальной точке Flash Combo, исцеление и снятие состояний."
+Shadowstep to a foe and strike them. Use Shadow Return to shadowstep back and cure one condition.,"Сделать Призрачный Шаг к противнику и нанести удар. Использовать Shadow Return, чтобы вернуться обратно и снять с себя одно состояние."
 "Shadowstep to a random location around your target and strike, applying confusion. Apply extra stacks of confusion per active clone. This attack breaks enemy targeting, and your illusions change focus to the targeted foe.","Теневой шаг в случайную точку вокруг цели и удар, накладывающий замешательство. Накладывает дополнительные заряды замешательства за каждого активного клона. Эта атака сбивает прицел врага, а ваши иллюзии переключают внимание на выбранную цель."
 Shadowstep to the foe marked by Dark Path.,"Сделать Призрачный Шаг к противнику, отмеченному Dark Path."
-"Shadowstep to your <c=@abilitytype>Ripple of Horror</c>, destroying it.","Совершите теневой шаг к вашей <c=@abilitytype>Ряби ужаса</c>, уничтожая её."
+"Shadowstep to your <c=@abilitytype>Ripple of Horror</c>, destroying it.","Совершите теневой шаг к вашей <c=@abilitytype>Ripple of Horror</c>, уничтожая её."
 "Shadowstep to your foe and deliver a quick attack, then deliver a second devastating blow if it hits.","Теневой шаг к врагу и быстрый удар, а затем второй сокрушительный удар, если первый попал в цель."
 Shadowstep to your foe and steal from them.,Сделать Призрачный Шаг к вашему противнику и что-нибудь украсть у него.
 Shadowstep to your target and deliver a dazing strike. Gain superspeed if you interrupt an enemy.,"Сделать Призрачный Шаг к цели и нанести ошеломляющий удар. Получить сверхскорость, если вы прервали противника."
@@ -55,7 +55,7 @@ Sharpen Spines,Sharpen Spines
 Sharpening Stone,Sharpening Stone
 Shatter,Shatter
 Shatter Earth,Shatter Earth
-"Shatter your Temporal Curtain, pulling nearby enemies toward its position.","Разбейте вашу Временную завесу, притягивая ближайших врагов к её позиции."
+"Shatter your Temporal Curtain, pulling nearby enemies toward its position.","Разбейте вашу Temporal Curtain, притягивая ближайших врагов к её позиции."
 Shattered Earth,Shattered Earth
 Shattering Assault,Shattering Assault
 Shattering Blow,Shattering Blow
@@ -112,7 +112,7 @@ Shoot a volley of rapid-fire piercing shots that inflict bleeding and cripple.,"
 "Shoot a web, immobilizing your foe.","Выстрелите паутиной, обездвиживая врага."
 Shoot a wind arrow.,Выпустите ветряную стрелу.
 Shoot all of the elemental bullets. Gain an aura based on your current attunement.,"Выпустить все пули Стихий. Получить ауру, зависящую от вашей текущей Стихии."
-Shoot an arrow of water that damages foes and heals allies around the area of impact. Gain a stack of Water Arrow each time you strike an enemy.,"Выстрелить стрелой из воды, которая наносит урон противникам и исцеляет союзников в области вокруг места попадания. Вы получаете стек этого умения при каждом попадании в противника."
+Shoot an arrow of water that damages foes and heals allies around the area of impact. Gain a stack of Water Arrow each time you strike an enemy.,"Выстрелить стрелой из воды, которая наносит урон противникам и исцеляет союзников в области вокруг места попадания. Вы получаете стек Water Arrow при каждом попадании в противника."
 "Shoot an arrow that explodes on impact, blinding foes.","Выпустите стрелу, которая взрывается при попадании, ослепляя врагов."
 "Shoot an explosive round that explodes when it hits, striking nearby enemies and enemies in a cone behind the initial target.","Выпустите взрывной снаряд, который детонирует при попадании, поражая ближайших врагов и врагов в конусе позади основной цели."
 Shoot an illusionary bullet that heals nearby allies on impact.,"Выстрелить иллюзорной пулей, исцеляющей при попадании союзников поблизости."
@@ -271,7 +271,7 @@ Smash the ground and damage nearby foes.,Ударить по земле и на�
 Smash the ground and send out a crippling wave.,"Сокрушительно ударить по земле и вызвать волну, делающую противников хромыми."
 Smash the ground before you with primal strength.,Топнуть по земле с первобытной силой.
 "Smash the ground in front of you to damage foes. After a delay, allies in the area are healed. Heals for more if an enemy was struck.","Разбейте землю перед собой, чтобы нанести урон врагам. С задержкой союзники в области действия получают исцеление. Исцеление сильнее, если был поражен враг."
-"Smash the ground with your mace, damaging your target and sending out a shock wave that damages and knocks down foes. Recharge Crushing Blow if you strike an enemy.","Ударьте булавой по земле, нанося урон цели и создавая ударную волну, которая наносит урон и сбивает с ног врагов. Перезаряжает Сокрушительный удар, если вы поразили врага."
+"Smash the ground with your mace, damaging your target and sending out a shock wave that damages and knocks down foes. Recharge Crushing Blow if you strike an enemy.","Ударьте булавой по земле, нанося урон цели и создавая ударную волну, которая наносит урон и сбивает с ног врагов. Перезаряжает Crushing Blow, если вы поразили врага."
 "Smash the ground with your radiant hammer, dazing nearby foes and granting boons to nearby allies. Gain light aura if this skill finishes a combo.","Ударьте по земле своим сияющим молотом, оглушая ближайших врагов и даруя благословения союзникам поблизости. Получите световную ауру, если это умение завершает комбо."
 "Smash the ground, creating three expanding shock waves that apply conditions.","Разбейте землю, создав три расширяющиеся ударные волны, накладывающие состояния."
 "Smash the ground, creating three shock waves that deal damage. Deal increased damage to disabled enemies, defiant enemies, and enemies with conditions.

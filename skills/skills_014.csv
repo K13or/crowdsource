@@ -75,7 +75,7 @@ Throw a spear of water at your foe that heals you when it strikes.,"Бросит
 "Throw a spear that inflicts conditions on your target. If this strikes a movement-impaired foe, it also inflicts daze. If this skill follows a <c=@abilitytype>Finisher</c> skill, it counts as a <c=@abilitytype>lead attack</c> and grants a bonus to outgoing damage for a duration.","Метать копьё, накладывающее состояния на цель. Если оно поражает врага с нарушением движения, то также накладывает ошеломление. Если этот навык следует после навыка <c=@abilitytype>Финишер</c>, он считается <c=@abilitytype>ведущей атакой</c> и даёт бонус к исходящему урону на время."
 "Throw a spear that makes your foe vulnerable, dealing bonus damage at closer range.","Бросьте копьё, которое делает врага уязвимым, нанося дополнительный урон на близком расстоянии."
 "Throw a spear that pierces foes in a line, immobilizing them. The first enemy struck by this skill is additionally dazed.","Бросьте копьё, которое пронзает врагов по линии, обездвиживая их. Первый пораженный враг дополнительно ошеломляется."
-Throw a spear that pulls enemies to you. Gain stealth and access to Hooked Spear if this skill hits.,"Бросить копьё, которое потягивает к вам врагов. Если это умение сработало, вы станете невидимым и получите умение «Острога»."
+Throw a spear that pulls enemies to you. Gain stealth and access to Hooked Spear if this skill hits.,"Бросить копьё, которое потягивает к вам врагов. Если это умение сработало, вы станете невидимым и получите умение Hooked Spear."
 Throw a vine and trip your foe.,Бросьте лозу и подставьте подножку врагу.
 "Throw a wrench that returns to you, striking foes each way.","Бросьте гаечный ключ, который возвращается к вам, поражая врагов в обоих направлениях."
 Throw an axe that bleeds enemies and leaves a spinning axe on the ground.,"Бросить топор, который вызывает у противников кровотечение и оставляет на земле кружащийся топор."
@@ -157,7 +157,7 @@ Toss Elixir H,Toss Elixir H
 Toss Elixir R,Toss Elixir R
 Toss Elixir S,Toss Elixir S
 Toss Elixir U,Toss Elixir U
-Toss Elixir U out in front of you.,"Швырнуть эликсир U, снимая оглушение с союзников и давая им сверхскорость."
+Toss Elixir U out in front of you.,"Toss Elixir U, снимая оглушение с союзников и давая им сверхскорость."
 Toss Elixir X,Toss Elixir X
 Toss a light spear of stone to bleed your foe.,Швырнуть лёгкое каменное копьё в противника и вызвать у него кровотечение.
 Tow Line,Tow Line
@@ -264,7 +264,7 @@ Unleash an insect swarm to blind and transfer conditions to your enemies.,"На�
 "Unleash darkness in a targeted area, inflicting conditions on foes and cleansing allies. Cleanse conditions from yourself while healing and cleansing your tethered ally, based on targets struck.","Высвободите тьму в выбранной области, накладывая состояния на врагов и очищая союзников. Очищайте состояния с себя, исцеляя и очищая связанного союзника в зависимости от количества пораженных целей."
 "Unleash darkness on your target's location, inflicting conditions on foes. Cleanse conditions from yourself while healing and cleansing your tethered ally based on targets struck.","Высвободите тьму в месте нахождения вашей цели, накладывая состояния на врагов. Очищайте состояния с себя, исцеляя и очищая связанного союзника в зависимости от количества пораженных целей."
 Unleash flames from your pistol to burn foes. Deals more damage the closer you are.,"Выпустить из своего пистолета пламя, чтобы поджечь противников. Нанести тем больше урона, чем ближе вы стоите."
-Unleash gravitational Mist forces on your targeted area that initially pulls foes toward the center. Abyssal Raze's cooldown is reduced for each target you attempt to pull.,"Обрушить силу тяжести Туманов на выбранную область, сперва притянув противников к её центру. Снизить перезарядку Бездонного разрушения за каждую цель, которую вы пытались притянуть."
+Unleash gravitational Mist forces on your targeted area that initially pulls foes toward the center. Abyssal Raze's cooldown is reduced for each target you attempt to pull.,"Обрушить силу тяжести Туманов на выбранную область, сперва притянув противников к её центру. Снизить перезарядку Abyssal Raze за каждую цель, которую вы пытались притянуть."
 "Unleash shadow magic at your prepared location, creating a one-way portal for you and your allies. Allies traveling through the portal gain stealth. Weakens foes around the portal's exit.","Высвободите магию тени в выбранном месте, создав односторонний портал для вас и ваших союзников. Союзники, проходящие через портал, получают невидимость. Ослабляет врагов вокруг выхода из портала."
 "Unleash sonic energy that bounces between multiple foes, damaging and bleeding them. When it hits allies, it applies might, vigor, or swiftness.","Высвободите звуковую энергию, которая отскакивает между несколькими врагами, нанося им урон и вызывая кровотечение. При попадании по союзникам накладывает мощь, энергичность или быстроту."
 "Unleash the Mists toward your enemies, changing effects based on your current legend.","Высвободите Туманы на своих врагов, меняя эффекты в зависимости от вашей текущей легенды."
@@ -314,7 +314,7 @@ Uppercut,Uppercut
 "Ura creates a whirlpool, sucking in players and teleporting them to the center of her arena.","Ura создает водоворот, затягивая игроков и телепортируя их в центр своей арены."
 "Ura launches herself at the furthest target, dealing a high amount of damage when she lands.","Ura бросается к самой дальней цели, нанося большой урон при приземлении."
 Urn of Saint Viktor,Urn of Saint Viktor
-Use Snow Leopard's grace to be unseen by your foes,"Используйте благодать Снежного барса, чтобы оставаться незамеченным для врагов"
+Use Snow Leopard's grace to be unseen by your foes,"Используйте благодать Snow Leopard, чтобы оставаться незамеченным для врагов"
 Use a laser to burn off conditions and set yourself on fire for each condition removed. Removes additional conditions if above the heat threshold.,"Использовать лазер, чтобы выжечь состояния и поджечь себя за каждое снятое состояние. Снимает дополнительные состояния, если уровень вашего нагрева выше порога."
 "Use magnetism to envelop yourself in a shield, becoming invulnerable.","Используйте магнетизм, чтобы окружить себя щитом, становясь неуязвимым."
 "Use natural bandages to heal yourself and remove bleeding, burning, and poison.","Используйте природные бинты, чтобы исцелить себя и снять кровотечение, горение и яд."
@@ -373,7 +373,7 @@ Viper's Nest,Viper's Nest
 Virtue of Courage,Virtue of Courage
 Virtue of Justice,Virtue of Justice
 Virtue of Resolve,Virtue of Resolve
-Virtue. Shadowstep a short distance while gaining boons and emanating Willbender Flames from your location. Gain courage.,"Добродетель. Совершает теневой шаг на короткую дистанцию, получая благословения и испуская Пламя Willbender из вашего местоположения. Получает мужество."
+Virtue. Shadowstep a short distance while gaining boons and emanating Willbender Flames from your location. Gain courage.,"Добродетель. Совершает теневой шаг на короткую дистанцию, получая благословения и испуская Willbender Flames из вашего местоположения. Получает мужество."
 Vital Burst,Vital Burst
 Vital Draw,Vital Draw
 Vital Shot,Vital Shot
@@ -480,13 +480,13 @@ Whack,Whack
 "When Stim State expires, you are healed.","Когда Stim State истекает, вы исцеляетесь."
 "When struck, you gain resolution. Incoming condition damage is reduced by 10%%. <c=@reminder>(Cooldown: 1 Second )</c>",При получении удара вы получаете решимость. Входящий урон от состояний снижается на 10%%. <c=@reminder>(Перезарядка: 1 секунда)</c>
 "When taking damage from a dancing spark, you will also take significant extra damage from Galvanic Sensitivity.",При получении урона от танцующей искры вы также получите значительный дополнительный урон от Galvanic Sensitivity.
-"When taking damage from a fluxlance attack, you will also take significant extra damage from Harmonic Sensitivity.",При получении урона от атаки флюкс-копья вы также получите значительный дополнительный урон от Гармонической чувствительности.
+"When taking damage from a fluxlance attack, you will also take significant extra damage from Harmonic Sensitivity.",При получении урона от атаки флюкс-копья вы также получите значительный дополнительный урон от Harmonic Sensitivity.
 "When you take damage over a percentage of your maximum health, heal for the difference, then steal life from that foe.","Когда вы получаете урон, превышающий определенный процент от вашего максимального здоровья, исцелитесь на разницу, а затем украдите жизнь у этого врага."
 "When you use a Legendary Entity skill, a magical scythe appears and spins around you, dealing damage to enemies.","Когда вы используете навык Легендарной сущности, появляется магическая коса и вращается вокруг вас, нанося урон врагам."
-"Whenever you use a Legendary Assassin skill or while channeling Impossible Odds, fire enchanted daggers at nearby enemies.","Всякий раз, когда вы используете навык Легендарного ассасина или во время поддержания Невозможных шансов, стреляйте зачарованными кинжалами по ближайшим врагам."
+"Whenever you use a Legendary Assassin skill or while channeling Impossible Odds, fire enchanted daggers at nearby enemies.","Всякий раз, когда вы используете навык Легендарного ассасина или во время поддержания Impossible Odds, стреляйте зачарованными кинжалами по ближайшим врагам."
 "While Empowered, the minotaur charges through its foes.","Будучи усиленным, минотавр прорывается сквозь своих врагов."
 "While Empowered, the minotaur's ability is augmented, dealing increased damage and leaving behind areas of destruction.","Будучи усиленным, способность минотавра усиливается, нанося увеличенный урон и оставляя после себя области разрушения."
-"While you have any unique Legendary Dwarf Stance beneficial effect active, deal damage to nearby enemies when you are attacked.","Пока у вас активен любой уникальный полезный эффект Легендарной стойки дворфов, наносите урон ближайшим врагам, когда вас атакуют."
+"While you have any unique Legendary Dwarf Stance beneficial effect active, deal damage to nearby enemies when you are attacked.","Пока у вас активен любой уникальный полезный эффект Legendary Dwarf Stance, наносите урон ближайшим врагам, когда вас атакуют."
 Whiplash,Whiplash
 "Whirl around, damaging enemies and granting barrier to allies if an enemy is struck.","Вращайтесь, нанося урон врагам и накладывая барьер на союзников, если враг поражен."
 "Whirl around, throwing spears that cripple foes and pull them to you.","Вращайтесь, бросая копья, которые калечат врагов и притягивают их к вам."

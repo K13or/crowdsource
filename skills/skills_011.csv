@@ -91,7 +91,7 @@ Red Marble,Red Marble
 Redirect any active circular projectiles toward your target.,Направить на цель все активные кружащиеся снаряды.
 Redraw any artifacts you currently have in your skill slots.,"Пересоздайте любые артефакты, которые в данный момент находятся в ваших ячейках навыков."
 Reduce incoming condition damage.,Снижает входящий урон от состояний.
-Reduce incoming damage by 50%%. Striking an enemy reduces the recharge of Forest's Fortification.,Уменьшает входящий урон на 50%%. Атака врага уменьшает время восстановления Лесного укрепления.
+Reduce incoming damage by 50%%. Striking an enemy reduces the recharge of Forest's Fortification.,Уменьшает входящий урон на 50%%. Атака врага уменьшает время восстановления Forest's Fortification.
 Reduce incoming damage to allies.,Снижает входящий урон союзникам.
 Reduce incoming damage while preventing movement-impeding conditions from being inflicted on you.,"Снижает входящий урон, предотвращая наложение на вас состояний, ограничивающих передвижение."
 Reduce incoming damage.,Снижает входящий урон.
@@ -103,7 +103,7 @@ Reduced incoming strike damage. Heal when this expires. <c=@reminder>Healing wil
 Reduces duration of applied regeneration to instantly heal the target.,"Сокращает длительность наложенной регенерации, мгновенно исцеляя цель."
 Reduces incoming condition duration.,Снижает длительность входящих состояний.
 Reduces your maximum health. Stacks intensity.,Снижает ваше максимальное здоровье. Суммируется по интенсивности.
-"Reeg exhales lingering clouds of poisonous gas that travel outward to form 3 conical areas. The gas clouds stay in place for several seconds, poisoning foes inside them. Victims affected by the gas who have 20 stacks of poison have those stacks turned into 1 stack of Plague Rot.","Reeg выдыхает стойкие облака ядовитого газа, которые распространяются наружу, образуя 3 конические области. Облака газа остаются на месте в течение нескольких секунд, отравляя врагов внутри. Жертвы, затронутые газом и имеющие 20 стаков яда, получают их преобразование в 1 стак Чумной гнили."
+"Reeg exhales lingering clouds of poisonous gas that travel outward to form 3 conical areas. The gas clouds stay in place for several seconds, poisoning foes inside them. Victims affected by the gas who have 20 stacks of poison have those stacks turned into 1 stack of Plague Rot.","Reeg выдыхает стойкие облака ядовитого газа, которые распространяются наружу, образуя 3 конические области. Облака газа остаются на месте в течение нескольких секунд, отравляя врагов внутри. Жертвы, затронутые газом и имеющие 20 стаков яда, получают их преобразование в 1 стак Plague Rot."
 "Reeg exhales lingering clouds of poisonous gas that travel outward to form 3 roughly conical areas. The gas clouds stay in place for several seconds, poisoning foes inside them.","Reeg выдыхает стойкие облака ядовитого газа, которые распространяются наружу, образуя 3 конические области. Облака газа остаются на месте в течение нескольких секунд, отравляя врагов внутри."
 "Reeg targets up to 3 foes, preferring the most distant combatants. He slams his fist down, creating a damaging sphere that will then fire a blob of blight that follows the targeted enemy for 12 seconds, firing multiple smaller projectiles as it moves. If it hits a targeted foe, it will also create a stationary blob of blight that fires projectiles for several seconds.","Reeg выбирает до 3 врагов, отдавая предпочтение самым дальним целям. Он ударяет кулаком по земле, создавая наносящую урон сферу, которая затем выпускает сгусток скверны, преследующий выбранного врага в течение 12 секунд и выпускающий множество мелких снарядов во время движения. Если он попадает в выбранного врага, он также создает стационарный сгусток скверны, который выпускает снаряды в течение нескольких секунд."
 Reflect projectiles with magnetic energy.,Отразить снаряды при помощи магнитной энергии.
@@ -146,7 +146,7 @@ Release a mist of healing liquid to regenerate nearby allies.,"Выпустит�
 Release a rapid volley of arrows.,Выпустить залп стремительных стрел.
 Release a shock wave of inertial force to damage nearby foes.,"Выпустить инерционную шоковую волну, которая наносит урон противникам поблизости."
 "Release a slow-moving, detonatable air pocket. When it explodes, you teleport to that location.",Высвобождает медленно движущийся детонируемый воздушный карман. При взрыве вы телепортируетесь в это место.
-"Release all of your woven elements and end your <c=@abilitytype>Weave Self</c> stance, causing gravity itself to unravel around you.","Высвободите все сплетённые элементы и завершите стойку <c=@abilitytype>Сплетение себя</c>, заставляя саму гравитацию распутываться вокруг вас."
+"Release all of your woven elements and end your <c=@abilitytype>Weave Self</c> stance, causing gravity itself to unravel around you.","Высвободите все сплетённые элементы и завершите стойку <c=@abilitytype>Weave Self</c>, заставляя саму гравитацию распутываться вокруг вас."
 "Release an arrow that shatters upon striking, inflicting bleeding on nearby foes.","Высвобождает стрелу, которая разбивается при попадании, накладывая кровотечение на ближайших врагов."
 Release an orb of cleansing light that cures conditions on allies it passes through and detonates on enemies struck. Burns foes and cures conditions on allies within the blast radius.,"Выпустить шар очистительного света, который снимает состояния с союзников, через которых он пролетает, и взрывается при попадании во врага. Поджигает противников и снимает состояния с союзников в радиусе взрыва."
 "Release piranhas that bleed and cripple foes. The first pulse of this skill will immobilize foes who are movement impaired or disabled. Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.","Высвобождает пираний, которые накладывают кровотечение и хромоту на врагов. Первый импульс этого навыка обездвиживает врагов, чье передвижение ограничено или которые находятся под действием эффектов контроля. Эффекты контроля включают: оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх."
@@ -173,7 +173,7 @@ Remove conditions from you and nearby allies.,Снять состояния с �
 Remove conditions from yourself then breathe magical flames that damage foes and cure conditions on allies. Inflicts burning on the final attack.,"Снять с себя состояния, а затем выдохнуть магическое пламя, которое наносит урон противникам и снимает состояния с союзников. Поджечь при последней атаке."
 Remove conditions from yourself whenever you use a weapon skill that costs initiative.,"Снимайте состояния с себя каждый раз, когда используете оружейный навык, требующий инициативы."
 "Remove conditions on yourself, then fire projectiles that inflict conditions at random enemies within your radius, based on the number of conditions removed.","Снимите состояния с себя, затем выпустите снаряды, накладывающие состояния на случайных врагов в радиусе действия, в зависимости от количества снятых состояний."
-"Remove the Avatar of Melandru, returning to your normal form.","Уберите Аватара Меландру, вернувшись в свою обычную форму."
+"Remove the Avatar of Melandru, returning to your normal form.","Уберите Avatar of Melandru, вернувшись в свою обычную форму."
 Removes conditions from allies and grants them vigor. Affected targets also gain barrier.,Снимает состояния с союзников и даёт им бодрость. Затронутые цели также получают барьер.
 Removes other active Virtue effects.,Снимает другие активные эффекты Добродетелей.
 Removes other active Virtue effects.</c,Снимает другие активные эффекты Добродетелей.</c
@@ -214,10 +214,10 @@ Resist the Darkness,Resist the Darkness
 Resistance Interval,Интервал сопротивления
 Resolute Stance,Resolute Stance
 Resolve,Resolve
-"Resonance. If Legendary Assassin Stance is equipped, this skill deals additional damage and removes boons if only one enemy was struck by this attack.","Резонанс. Если экипирована Легендарная стойка ассасина, этот навык наносит дополнительный урон и снимает благословения, если атака поразила только одного врага."
+"Resonance. If Legendary Assassin Stance is equipped, this skill deals additional damage and removes boons if only one enemy was struck by this attack.","Резонанс. Если экипирована Legendary Assassin Stance, этот навык наносит дополнительный урон и снимает благословения, если атака поразила только одного врага."
 "Resonance. If Legendary Centaur Stance is equipped, you additionally heal allies around you during channeling, and you take reduced strike and condition damage for a short amount of time after channeling completes.","Резонанс. Если экипирована Легендарная Стойка Кентавра (Legendary Centaur Stance), вы дополнительно исцеляете союзников вокруг себя во время направления, а также получаете сниженный урон от ударов и состояний в течение короткого времени после завершения направления."
-"Resonance. If Legendary Demon Stance is equipped, the maximum number of projectiles is always fired regardless of conditions removed, and all projectiles are fired at the closest enemy instead.","Резонанс. Если экипирована Легендарная стойка демона, всегда выпускается максимальное количество снарядов, независимо от количества снятых состояний, и все снаряды летят в ближайшего врага."
-"Resonance. If Legendary Dwarf Stance is equipped, the additional energy cost for breaking stuns is reduced, and the boons are also granted to allies in a radius around you.","Резонанс. Если экипирована Легендарная стойка дворфа, дополнительная стоимость энергии за снятие оглушения снижается, а благословения также даруются союзникам в радиусе вокруг вас."
+"Resonance. If Legendary Demon Stance is equipped, the maximum number of projectiles is always fired regardless of conditions removed, and all projectiles are fired at the closest enemy instead.","Резонанс. Если экипирована Legendary Demon Stance, всегда выпускается максимальное количество снарядов, независимо от количества снятых состояний, и все снаряды летят в ближайшего врага."
+"Resonance. If Legendary Dwarf Stance is equipped, the additional energy cost for breaking stuns is reduced, and the boons are also granted to allies in a radius around you.","Резонанс. Если экипирована Legendary Dwarf Stance, дополнительная стоимость энергии за снятие оглушения снижается, а благословения также даруются союзникам в радиусе вокруг вас."
 Resonance. This skill gains bonus effects depending on the legend equipped in the other slot.,"Резонанс. Этот навык получает бонусные эффекты в зависимости от легенды, экипированной в другом слоте."
 Restorative Glow,Restorative Glow
 Restorative Spear,Restorative Spear
@@ -229,7 +229,7 @@ Retaliate with a flurry of strikes after blocking an attack.,Контратак�
 "Retreat backward, leaving a blinding trail in your wake.","Отступите назад, оставляя за собой ослепляющий след."
 Retreat by tunneling through the ground.,"Отступить, вырыв тоннель в земле."
 Return,Return
-Return to the point where Spectral Walk began.,"Вернуться в то место, где началась ваша Призрачная Прогулка."
+Return to the point where Spectral Walk began.,"Вернуться в то место, где началась ваша Spectral Walk."
 Return to your original location. Cure one condition.,Вернуться в вашу первоначальную позицию. Снять с себя одно состояние.
 Return to your starting point and leave behind a clone at your previous location.,"Вернуться в исходную точку и вместо себя клон там, где вы стояли."
 Returning Damage,Возврат урона
@@ -351,7 +351,7 @@ Saint's Shield,Saint's Shield
 "Samarog summons all turrets back, dealing massive damage to targets who are caught in the projectile's path.","Samarog призывает все турели обратно, нанося огромный урон целям, оказавшимся на пути снаряда."
 "Samarog turns allies against each other, dealing damage to those who choose not to flee from affected allies in time. You chose poorly.","Samarog натравливает союзников друг на друга, нанося урон тем, кто не успел вовремя убежать от затронутых союзников. Вы сделали плохой выбор."
 "Samarog whips a spear back and forth, launching all targets careless enough to be caught in the arc.","Samarog хлещет копьём из стороны в сторону, подбрасывая все цели, неосторожно оказавшиеся в дуге удара."
-Samarog's Impaling Stab creates a shockwave that damages and launches targets.,"Пронзающий удар Samarog создает ударную волну, которая наносит урон и подбрасывает цели."
+Samarog's Impaling Stab creates a shockwave that damages and launches targets.,"Impaling Stab Samarog создает ударную волну, которая наносит урон и подбрасывает цели."
 "Samarog's spear hits the ground, dealing damage in an area. The spear persists, applying fear or taunt to targets in its range.","Копьё Samarog ударяется о землю, нанося урон по площади. Копьё остается на месте, накладывая страх или провокацию на цели в радиусе действия."
 Samarog's spears pulse damage in an area around them because they're pure evil.,"Копья Samarog пульсируют уроном по области вокруг себя, потому что они — чистое зло."
 Sand Call,Sand Call

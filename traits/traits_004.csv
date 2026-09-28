@@ -14,7 +14,7 @@ Might applied to you grants more power. Your critical-hit chance is increased.,�
 Might grants you more power and less condition damage. Gain might when using a legendary stance skill.,"Мощь даёт вам больше силы и меньше урона от состояний. Вам даруется мощь, когда вы используете умения легенд."
 Might grants you more power. Gain might when entering shroud.,"Мощь ещё больше увеличивает вашу силу. Вам даруется мощь, когда вы входите в Саван."
 Might of the Protector,Might of the Protector
-"Mighty Blow becomes Glacial Blow. Heal when you disable, immobilize, or chill a foe.","Mighty Blow становится Ледяным ударом. Исцеляет вас при наложении на врага эффектов контроля, обездвиживания или охлаждения."
+"Mighty Blow becomes Glacial Blow. Heal when you disable, immobilize, or chill a foe.","Mighty Blow становится Glacial Blow. Исцеляет вас при наложении на врага эффектов контроля, обездвиживания или охлаждения."
 Minimum Bonus Damage,Minimum Bonus Damage
 Minion Heal,Minion Heal
 Minion Life Steal,Minion Life Steal
@@ -136,7 +136,7 @@ Planar Protection,Planar Protection
 Poison Damage Increase,Poison Damage Increase
 Poison Master,Poison Master
 Poison damage is increased. Applying poison grants <c=@abilitytype>carapace</c>.,Урон от отравления увеличен. Накладывание отравления даёт вам панцирь. <c=@abilitytype>панцирь</c>.
-Poison you inflict has increased damage and duration. Other Deadly Arts traits apply additional stacks of poison.,"Отравление, вызванное вами, длится дольше и наносит больше урона. Другие черты Смертельных Искусств накладывают дополнительные стеки отравления."
+Poison you inflict has increased damage and duration. Other Deadly Arts traits apply additional stacks of poison.,"Отравление, вызванное вами, длится дольше и наносит больше урона. Другие черты Deadly Arts накладывают дополнительные стеки отравления."
 Possessive Hoarder,Possessive Hoarder
 Potent Poison,Potent Poison
 Power,Power
@@ -195,7 +195,7 @@ Purity of Word,Purity of Word
 Putrid Defense,Putrid Defense
 Pyromancer's Puissance,Pyromancer's Puissance
 Pyromancer's Training,Pyromancer's Training
-"Quarry's Peril and Supersonic Arrow reset the cooldown of Bluster. When you use Bluster or Hawkeye, grant boons to nearby allies.","«Опасность карьера» и «Supersonic Arrow» сбрасывают время восстановления «Ветрености». Используя «Ветреность» или «Ястребиный глаз», вы даёте благословения ближайшим союзникам."
+"Quarry's Peril and Supersonic Arrow reset the cooldown of Bluster. When you use Bluster or Hawkeye, grant boons to nearby allies.","«Quarry's Peril» и «Supersonic Arrow» сбрасывают время восстановления «Ветрености». Используя «Ветреность» или «Ястребиный глаз», вы даёте благословения ближайшим союзникам."
 Quarry's Peril is replaced by Pelt.,Quarry's Peril is replaced by Pelt.
 Quick Draw,Quick Draw
 Quick Pockets,Quick Pockets
@@ -229,7 +229,7 @@ Reduce all incoming damage taken when you have a shade active.,"Уменьшае
 Reduce incoming strike damage from nearby enemies.,Reduce incoming strike damage from nearby enemies.
 Reduce strike damage dealt to you from foes beyond the range threshold.,"Уменьшает прямой урон от противников, которые находятся дальше пороговой дистанции."
 Reduce the duration of movement-impeding conditions and gain regeneration when you are affected by one of these conditions.,"Сокращает длительность состояний, ограничивающих передвижение, и даёт регенерацию, когда вы находитесь под действием одного из этих состояний."
-Reduce the recharge of Skritt Swipe whenever you use an artifact.,Время перезарядки Скриттского ограбления уменьшается при каждом использовании артефакта.
+Reduce the recharge of Skritt Swipe whenever you use an artifact.,Время перезарядки Skritt Swipe уменьшается при каждом использовании артефакта.
 Reduce the recharge of invoking legends in combat. Invoking legends while Cosmic Wisdom is active extends its duration.,Сокращает время перезарядки использования легенды в бою. Использование легенды при активной Cosmic Wisdom увеличивает её длительность.
 Reduce the recharge of your <c=@abilitytype>virtue</c> skills when you equip a radiant weapon.,Сокращает перезарядку ваших навыков <c=@abilitytype>добродетели</c> при экипировке сияющего оружия.
 Reduce the recharge of your elite skill when you dodge.,Reduce the recharge of your elite skill when you dodge.
@@ -243,7 +243,7 @@ Reflects projectiles.,Reflects projectiles.
 Reflect missiles whenever you are blocking. Gain adrenaline when you block an attack or reflect a missile.,Отражает снаряды при блокировании. Даёт адреналин при блокировании атаки или отражении снаряда.
 Refrain effects of chants are stronger. Gain additional motivation when you activate a chant.,Эффекты рефренов у хоралов усилены. При активации хорала вы получаете дополнительную мотивацию.
 Refrains grant bonus effects to you while they are active.,Refrains grant bonus effects to you while they are active.
-Refresh the duration of your Luminary's Blessing and trigger its healing when you exit Radiant Forge.,"Вы обновляете длительность Благословения Люминара и запускаете его исцеляющий эффект, когда покидаете Сияющую Кузницу."
+Refresh the duration of your Luminary's Blessing and trigger its healing when you exit Radiant Forge.,"Вы обновляете длительность Luminary's Blessing и запускаете его исцеляющий эффект, когда покидаете Сияющую Кузницу."
 Regain health by spending adrenaline.,Regain health by spending adrenaline.
 Regain opening strike whenever you gain fury. Opening strike deals more damage.,"Вы снова можете нанести открывающий удар каждый раз, когда вам даруется ярость. Открывающий удар наносит больше урона."
 Regenerate health while affected by swiftness or superspeed.,Regenerate health while affected by swiftness or superspeed.
@@ -303,7 +303,7 @@ Restore arrows when you or your pet disable an enemy.,Restore arrows when you or
 "Retain <c=@abilitytype>Courage</c> passive while it is on cooldown. Grant boons to nearby allies when you disable, immobilize, or slow an enemy.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Сохраняет пассивный эффект <c=@abilitytype>Мужества</c>, пока он на перезарядке. Дарует благословения ближайшим союзникам, когда вы накладываете эффекты контроля, обездвиживания или замедления на врага.
 <c=@reminder>Эффекты контроля включают оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
-Retain <c=@abilitytype>Justice</c> passive while it is on cooldown. Granting quickness to an ally also grants Ashes of the Just.,"Сохраняет пассивный эффект <c=@abilitytype>Справедливости</c>, пока он на перезарядке. Дарование стремительности союзнику также даёт Пепел Справедливых."
+Retain <c=@abilitytype>Justice</c> passive while it is on cooldown. Granting quickness to an ally also grants Ashes of the Just.,"Сохраняет пассивный эффект <c=@abilitytype>Справедливости</c>, пока он на перезарядке. Дарование стремительности союзнику также даёт Ashes of the Just."
 Retain <c=@abilitytype>Resolve</c> passive while it is on cooldown. You generate pages more quickly.,"Сохраняет пассивный эффект <c=@abilitytype>Решимости</c>, пока он на перезарядке. Вы создаете страницы быстрее."
 Revealed Training,Revealed Training
 Reverberation,Reverberation
@@ -315,7 +315,7 @@ Righteous Rebel,Righteous Rebel
 Righteous Sprint,Righteous Sprint
 Rising Momentum,Rising Momentum
 Rising Tide,Rising Tide
-"Rite of the Great Dwarf affects condition damage as well. When struck below the health threshold, cast the Rite of the Great Dwarf. Gain power based on your toughness.","Обряд Великого Гнома также влияет на урон от состояний. При получении удара, снижающего здоровье ниже порога, накладывается Обряд Великого Гнома. Получайте силу, основанную на вашей стойкости."
+"Rite of the Great Dwarf affects condition damage as well. When struck below the health threshold, cast the Rite of the Great Dwarf. Gain power based on your toughness.","Rite of the Great Dwarf также влияет на урон от состояний. При получении удара, снижающего здоровье ниже порога, накладывается Rite of the Great Dwarf. Получайте силу, основанную на вашей стойкости."
 Ritual of Life,Ritual of Life
 River's Flow,River's Flow
 Roaring Reveille,Roaring Reveille
@@ -351,7 +351,7 @@ Set in Stone,Set in Stone
 Shadestep,Shadestep
 Shadow Savior,Shadow Savior
 Shadow Shroud per Initiative Spent,Shadow Shroud per Initiative Spent
-Shadow Shroud skills provide additional supportive effects to nearby allies and your tethered ally.,Умения в Саване Теней дают дополнительные эффекты поддержки союзникам поблизости и привязанному к вам союзнику.
+Shadow Shroud skills provide additional supportive effects to nearby allies and your tethered ally.,Умения в Shadow Shroud дают дополнительные эффекты поддержки союзникам поблизости и привязанному к вам союзнику.
 Shadow Siphoning,Shadow Siphoning
 Shadow's Embrace,Shadow's Embrace
 Shadow's Rejuvenation,Shadow's Rejuvenation
@@ -475,7 +475,7 @@ Steal health and gain shadow force when you torment a foe.,Steal health and gain
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Крадет здоровье у врагов, когда вы или ваш питомец накладываете на них эффекты контроля.
 <c=@reminder>Эффекты контроля включают оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 "Steal is replaced with Deadeye's Mark, which unlocks new Stolen skills and malice generation. Stealth attacks consume malice for bonus effects. Gain access to rifles and cantrips.","Кража заменяется на Deadeye's Mark, которая открывает новые украденные навыки и генерацию злобы. Атаки из невидимости расходуют злобу для получения бонусных эффектов. Открывает доступ к винтовкам и уловкам."
-"Steal is replaced with Skritt Swipe, allowing you to pilfer from enemies. Successfully pilfering grants one offensive and one defensive artifact. Only one artifact may be used each time you pilfer, and pilfering overrides any artifacts you already have.","Кража заменяется на Удар скритта, позволяющий обворовывать врагов. Успешная кража даёт один атакующий и один защитный артефакт. Каждый раз можно использовать только один артефакт, а новая кража заменяет уже имеющиеся."
+"Steal is replaced with Skritt Swipe, allowing you to pilfer from enemies. Successfully pilfering grants one offensive and one defensive artifact. Only one artifact may be used each time you pilfer, and pilfering overrides any artifacts you already have.","Кража заменяется на Skritt Swipe, позволяющий обворовывать врагов. Успешная кража даёт один атакующий и один защитный артефакт. Каждый раз можно использовать только один артефакт, а новая кража заменяет уже имеющиеся."
 Steal.,Steal.
 Stealing also applies bleeding. Bleeding you inflict deals more damage.,Кража также вызывает кровотечение. Вызываемые вами кровотечения наносят повышенный урон.
 Stealing also dazes the target. Reduces the recharge of Steal.,Кража также ошеломляет цель. Уменьшает время перезарядки Кражи.

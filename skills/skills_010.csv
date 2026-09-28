@@ -130,7 +130,7 @@ Orbital Command Strike,Orbital Command Strike
 Orbital Strike,Orbital Strike
 Orbital Sweep,Orbital Sweep
 Orchestrated Assault,Orchestrated Assault
-Order Ofela Soulcleave to leave the field.,Приказать Офеле Разрубленная Душа покинуть поле боя.
+Order Ofela Soulcleave to leave the field.,Приказать Ofela Soulcleave покинуть поле боя.
 Orders from Above,Orders from Above
 Ordnance Count,Счётчик боеприпасов
 Otherworldly Attraction,Otherworldly Attraction
@@ -363,7 +363,7 @@ Prisoner Sweep,Prisoner Sweep
 Procession of Blades,Procession of Blades
 Project Tranquility,Project Tranquility
 "Project Ventari's Tablet into the world. The tablet will heal allies near it every few seconds.
-<c=#888888>(The tablet will disappear if you move outside the tether distance.)</c>","Проецируйте Планшет Вентари в мир. Планшет будет исцелять союзников, находящихся рядом с ним, каждые несколько секунд.
+<c=#888888>(The tablet will disappear if you move outside the tether distance.)</c>","Проецируйте Ventari's Tablet в мир. Планшет будет исцелять союзников, находящихся рядом с ним, каждые несколько секунд.
 <c=#888888>(Планшет исчезнет, если вы отойдёте от него на слишком большое расстояние.)</c>"
 Project a defensive dome and grant stability to allies in the area.,Создать защитный купол и даровать Устойчивость союзникам в области.
 Projectile Damage,Урон от снарядов
@@ -483,7 +483,7 @@ Qadim raises damaging energy along specific surfaces.,Qadim поднимает �
 Qadim sends forth a fiery storm that leaves behind lingering flames.,"Qadim посылает огненный шторм, оставляющий после себя тлеющее пламя."
 Qadim sends forth a wave of flame that knocks back foes and makes them vulnerable.,"Qadim посылает волну пламени, которая отбрасывает врагов назад и делает их уязвимыми."
 "Qadim slams his maces downward, creating a powerful cascading attack.","Qadim обрушивает свои булавы вниз, создавая мощную каскадную атаку."
-"Qadim steadily fires projectiles, hitting all foes near the target. Applies Chaos Corrosion.","Qadim непрерывно выпускает снаряды, поражая всех врагов рядом с целью. Накладывает Хаотическую коррозию."
+"Qadim steadily fires projectiles, hitting all foes near the target. Applies Chaos Corrosion.","Qadim непрерывно выпускает снаряды, поражая всех врагов рядом с целью. Накладывает Chaos Corrosion."
 Qadim summons a powerful burst of flame.,Qadim призывает мощный всплеск пламени.
 Qadim summons forth a powerful flame bolt that stuns the targeted foe.,"Qadim призывает мощный огненный снаряд, который оглушает выбранного врага."
 "Qadim summons forth heavily damaging fire along all nearby metal surfaces, burning and weakening foes.","Qadim призывает разрушительный огонь вдоль всех ближайших металлических поверхностей, сжигая и ослабляя врагов."

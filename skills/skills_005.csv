@@ -89,8 +89,8 @@ Crash Down,Crash Down
 Crashing Courage,Crashing Courage
 Crashing Font,Crashing Font
 Crashing Waves,Crashing Waves
-"Create a Radiation Field at target location, inflicting poison and weakness on foes.","Создайте поле радиации в целевой области, накладывая на врагов отравление и слабость."
-Create a Seed Turret at targeted location which will attack nearby foes.,"Создайте турель-семя в целевой области, которая будет атаковать ближайших врагов."
+"Create a Radiation Field at target location, inflicting poison and weakness on foes.","Создайте Radiation Field в целевой области, накладывая на врагов отравление и слабость."
+Create a Seed Turret at targeted location which will attack nearby foes.,"Создайте Seed Turret в целевой области, которая будет атаковать ближайших врагов."
 Create a bubble that blocks enemy missiles and grants resolution to allies.,"Создайте пузырь, который блокирует вражеские снаряды и даёт союзникам решимость."
 "Create a burst of energy, the effect of which changes based on the radiant weapon you have equipped.","Создайте всплеск энергии, эффект которого меняется в зависимости от экипированного сияющего оружия."
 Create a continually expanding field near you that applies chill and vulnerability to enemies and deals damage when it ends. Fire <c=@abilitytype>Crimson Tide</c> on each pulse at enemies within the maximum range.,"Создает постоянно расширяющееся поле возле вас, накладывающее на врагов холод и уязвимость и наносящее урон при завершении. Запускает <c=@abilitytype>Crimson Tide</c> при каждой пульсации по врагам в пределах максимальной дальности."
@@ -167,7 +167,7 @@ Crimson Dawn,Crimson Dawn
 Crimson Tide,Crimson Tide
 Cripple multiple foes with lava chains.,Сделать нескольких противников хромыми с помощью цепей из лавы.
 Cripple nearby foes and remove their boons. Gain resolution for each foe you strike. Remove additional boons on foes below the health threshold.,"Калечит ближайших врагов и снимает с них благословения. Получите решимость за каждого пораженного врага. Снимает дополнительные благословения с врагов, чей уровень здоровья ниже порогового."
-Cripple nearby foes and remove their boons. Release an Unholy Burst on foes below the health threshold.,Хромота на ближайших врагов и удаление их благ. Высвобождение нечестивого взрыва на врагов ниже порога здоровья.
+Cripple nearby foes and remove their boons. Release an Unholy Burst on foes below the health threshold.,Хромота на ближайших врагов и удаление их благ. Высвобождение Unholy Burst на врагов ниже порога здоровья.
 Cripple your foe with a final strike.,Калечит врага финальным ударом.
 Cripple your foe with a kick.,Калечит врага ударом ноги.
 Cripple your foe with a precise slash.,Сделать противника хромым с помощью точного пореза.
@@ -196,7 +196,7 @@ Cruel Strike,Cruel Strike
 "Crush your opponent's armor, leaving them vulnerable and gaining might. Vulnerability and might stacks doubled if you hit a disabled foe.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Сокрушите броню противника, оставляя его уязвимым и получая мощь. Стаки уязвимости и мощи удваиваются, если вы бьёте обездвиженного врага.
 <c=@reminder>К обездвиживанию относятся оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокация и страх.</c>"
-Crushes the target with the Giant Snowball's frosty form.,Сокрушает цель ледяной формой Гигантского снежка.
+Crushes the target with the Giant Snowball's frosty form.,Сокрушает цель ледяной формой Giant Snowball.
 Crushing Abyss,Crushing Abyss
 Crushing Blow,Crushing Blow
 Crushing Guilt,Crushing Guilt
@@ -280,7 +280,7 @@ Damage increase per stack.,Увеличение урона за заряд.
 Damage increased 50%% on next attack.,Урон следующей атаки увеличен на 50%%.
 Damage is reduced per target each time they are struck by this skill.,Урон снижается для каждой цели при каждом попадании этим навыком.
 Damage nearby enemies with a gust of wind.,Наносит урон ближайшим врагам порывом ветра.
-Damage nearby foes and apply conditions to them. Lose heat. This attack activates Heat Therapy if you have not overheated.,"Наносит урон ближайшим врагам и накладывает на них состояния. Теряет тепло. Эта атака активирует Теплотерапию, если вы не перегрелись."
+Damage nearby foes and apply conditions to them. Lose heat. This attack activates Heat Therapy if you have not overheated.,"Наносит урон ближайшим врагам и накладывает на них состояния. Теряет тепло. Эта атака активирует Heat Therapy, если вы не перегрелись."
 "Damage nearby foes with a mighty ground slam. If your target has been struck by <c=@abilitytype>Banish</c>, teleport to them.","Нанесите урон ближайшим врагам мощным ударом о землю. Если ваша цель была поражена <c=@abilitytype>Изгнанием</c>, переместитесь к ней."
 "Damage nearby foes with a ring of fire, burning foes that pass through it.","Наносит урон ближайшим врагам кольцом огня, сжигая врагов, проходящих сквозь него."
 Damage on Unmarked Foes,Урон по неотмеченным врагам
@@ -301,7 +301,7 @@ Damage without Boons,Урон без благословений
 Damage your foe with a forceful peck.,Наносит урон вашему врагу мощным клевком.
 Damage your target and nearby foes. Inflict vulnerability on foes whose skills aren't active.,"Нанести урон цели и противникам поблизости. Сделать уязвимыми противников, умения которые неактивны."
 Damages enemies with a series of chaotic blasts.,Наносит урон врагам серией хаотичных взрывов.
-Damages enemies with a solar blast. Followed by Crimson Dawn.,Наносит урон врагам солнечным взрывом. Сопровождается Багровым рассветом.
+Damages enemies with a solar blast. Followed by Crimson Dawn.,Наносит урон врагам солнечным взрывом. Сопровождается Crimson Dawn.
 Damages foes in the area with a spike of frost.,Наносит урон врагам в области ледяным шипом.
 Damages foes who stand too close.,"Наносит урон врагам, стоящим слишком близко."
 Damages your target and dazes foes around that target.,Нанести урон вашей цели и ошеломить противников вокруг цели.
@@ -332,7 +332,7 @@ Dash at your foe with a wave of water.,Окатить противника ст�
 "Dash at your foe, removing boons from them. Leave a phantasm at your initial location that will launch a spear at your target, dealing heavy damage and crippling targets. If your phantasm strikes a crippled target, immobilize them instead. If you have Clarity, summon an additional phantasm.","Рывок к врагу, снимая с него благословения. Оставьте фантома на исходной позиции, который запустит копьё в вашу цель, нанося большой урон и накладывая увечье. Если ваш фантом поражает цель с увечьем, вместо этого обездвиживает её. Если у вас есть Ясность, призовите дополнительного фантома."
 Dash forward with a rocket-charged hammer to damage enemies.,"Рвануться вперёд с молотом, заряженным ракетой, чтобы нанести урон противникам."
 "Dash forward, releasing dark energy on nearby targets. Damage enemies hit and heal per target hit with reduced healing beyond the first. This skill can be reactivated to dash again.","Рванитесь вперёд, высвобождая тёмную энергию по ближайшим целям. Нанесите урон врагам и получите исцеление за каждую пораженную цель (эффективность исцеления снижается после первой цели). Этот навык можно активировать повторно для ещё одного рывка."
-Dash in a direction and slightly recharge Abyssal Raze while leaving portals in your wake that detonate when foes walk over them.,"Броситься в выбранном направлении, слегка перезаряжая Бездонное разрушение и оставляя на своем пути порталы, которые взрываются, когда в них входят противники."
+Dash in a direction and slightly recharge Abyssal Raze while leaving portals in your wake that detonate when foes walk over them.,"Броситься в выбранном направлении, слегка перезаряжая Abyssal Raze и оставляя на своем пути порталы, которые взрываются, когда в них входят противники."
 "Dash in the direction you are facing, applying fear to foes at your end point. Grant barrier to your tethered ally and yourself based on the targets struck. Heal your tethered ally based on targets struck.","Рванитесь в направлении взгляда, накладывая страх на врагов в конечной точке. Дайте барьер себе и связанному союзнику в зависимости от количества пораженных целей. Исцелите связанного союзника в зависимости от количества пораженных целей."
 "Dash then fire a quick shot. If the shot hits, you can dash again for a short time.","Рванитесь, затем произведите быстрый выстрел. Если выстрел попал, вы можете совершить рывок снова в течение короткого времени."
 Dawn's Repose,Dawn's Repose
@@ -370,13 +370,13 @@ Deadly Strike,Deadly Strike
 Deadly Venom,Deadly Venom
 Deadly attack focused on a single player. Multiple allies can take damage from this attack in order to prevent instant death.,"Смертельная атака, направленная на одного игрока. Несколько союзников могут принять урон от этой атаки, чтобы предотвратить мгновенную смерть."
 Deafening Drum,Deafening Drum
-Deafening Drum releases an additional quick wave after a delay.,"Оглушительный барабан выпускает дополнительную волну после короткой задержки. Вы наносите урон врагам, которых вывели из строя."
+Deafening Drum releases an additional quick wave after a delay.,"Deafening Drum выпускает дополнительную волну после короткой задержки. Вы наносите урон врагам, которых вывели из строя."
 Deal a downward strike on your foe. Downed enemies struck with this ability are finished.,"Нанести противнику добивающий удар. Если противник был повержен, этот удар убьёт его."
 "Deal a heavy blow with your fist, sending enemies flying.","Нанесите тяжёлый удар кулаком, отбрасывая врагов."
 Deal damage and inflict conditions based on your current attunements.,Наносит урон и накладывает состояния в зависимости от ваших текущих настроек стихий.
 Deal damage to nearby enemies with a temporal explosion.,Наносит урон ближайшим врагам временным взрывом.
 Deals a large amount of damage to enemies on the left.,Наносит большой урон врагам слева.
-"Deals damage and applies burning. If the Minister of Morale charges through a Flame Wall, her damage is increased.","Наносит урон и накладывает горение. Если Minister of Morale проходит сквозь Стену Огня, её урон увеличивается."
+"Deals damage and applies burning. If the Minister of Morale charges through a Flame Wall, her damage is increased.","Наносит урон и накладывает горение. Если Minister of Morale проходит сквозь Flame Wall, её урон увеличивается."
 Deals damage and applies chill and slow.,Наносит урон и накладывает охлаждение и замедление.
 Deals damage and applies knockback.,Наносит урон и отталкивает.
 Deals damage and applies vulnerability.,Наносит урон и накладывает уязвимость.
@@ -447,7 +447,7 @@ Decima periodically links two conduits together with a tether of arcane flux. En
 "Decima slams an orb of arcane flux into the ground, causing a cascade of ruptures to form around her. The ground heaves with enough force to shatter bones and cripple her enemies.","Decima ударяет сферой магического потока о землю, вызывая каскад разломов вокруг себя. Земля содрогается с силой, достаточной, чтобы сокрушить кости и искалечить её врагов."
 "Decima slams down, causing the immediate vicinity to erupt with jagged rocks and pyrite. The tremendous force sends enemies sliding away. Dodge rolling will end the slide prematurely. Deals increased damge to close targets.","Decima обрушивается вниз, вызывая извержение зазубренных камней и пирита в непосредственной близости. Огромная сила заставляет врагов скользить прочь. Перекат завершит скольжение преждевременно. Наносит увеличенный урон близким целям."
 Decima targets a conduit with a focused fluxlance attack. The beam charges the targeted conduit unless the indicated number of players stand in the beam to absorb it.,"Decima выбирает проводник целью для сфокусированной атаки флюкс-копьём. Луч заряжает выбранный проводник, если только указанное количество игроков не встанет на пути луча, чтобы поглотить его."
-"Decima targets a number of conduits with bolts of Harmonious Thunder, granting them each some charge.","Decima выбирает несколько проводников в качестве целей для разрядов «Гармоничного грома», даруя каждому из них заряд."
+"Decima targets a number of conduits with bolts of Harmonious Thunder, granting them each some charge.","Decima выбирает несколько проводников в качестве целей для разрядов Harmonious Thunder, даруя каждому из них заряд."
 Decima will periodically consume stacks of this effect to target a number of nearby enemies with Chorus of Thunder.,"Decima будет периодически поглощать заряды этого эффекта, чтобы поразить нескольких ближайших врагов с помощью Chorus of Thunder."
 Decima will periodically consumes stacks of this effect to target a number of conduits with Chorus of Thunder.,"Decima будет периодически поглощать заряды этого эффекта, чтобы поразить несколько проводников с помощью Chorus of Thunder."
 "Decima's armor fractures, leaving her vulnerable to her own Flux Nova attack. When Flux Nova detonates, Decima will become stunned and exposed.","Броня Decima трескается, делая её уязвимой к собственной атаке Flux Nova. Когда Flux Nova детонирует, Decima будет оглушена и станет уязвимой."

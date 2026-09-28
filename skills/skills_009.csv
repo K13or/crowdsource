@@ -45,7 +45,7 @@ Launch a slow-moving homing missile.,Запустить медленно дви�
 Launch a spear of lightning that makes your foe vulnerable.,"Бросить копьё из молнии, которое делает противника уязвимым."
 "Launch a sphere outward from the Mists. The sphere will attack nearby foes as it travels, poisoning them.","Запустите сферу из Туманов. Сфера будет атаковать ближайших врагов по мере движения, отравляя их."
 Launch a twisting earthen vortex at your enemies.,Выпустить в противников крутящийся земляной вихрь.
-Launch a wave that terrorizes foes it hits. You may activate March of Undeath to shadowstep to the wave.,"Выпустить пугающую врагов волну. Вы можете использовать Марш Мертвецов, чтобы сделать Призрачный Шаг к этой волне."
+Launch a wave that terrorizes foes it hits. You may activate March of Undeath to shadowstep to the wave.,"Выпустить пугающую врагов волну. Вы можете использовать March of Undeath, чтобы сделать Призрачный Шаг к этой волне."
 Launch an arc of light at your foe.,Запустите дугу света во врага.
 "Launch an explosive round from your mortar, damaging foes in the target area.","Запустите взрывной снаряд из своего миномета, нанося урон врагам в целевой области."
 Launch an orb of lightning that fires projectiles at nearby foes.,"Создать шаровую молнию, которая выпускает метательные снаряды в противников поблизости."
@@ -360,8 +360,8 @@ Mass Invisibility,Mass Invisibility
 "Matthias charges and fires a beam that's shot directly in front of him, dealing massive damage to all targets hit.","Matthias совершает рывок и выпускает луч прямо перед собой, нанося огромный урон всем пораженным целям."
 "Matthias corrupts a target, dealing pulsing damage to all foes in an area. Can be cleansed by entering uncorrupted fountains.","Matthias оскверняет цель, нанося периодический урон всем врагам в области. Эффект можно снять, войдя в неоскверненные фонтаны."
 Matthias creates a deadly pool of magic where Unstable Blood Magic was purged.,"Matthias создает смертоносную лужу магии там, где была очищена Unstable Blood Magic."
-Matthias fires a stream of projectiles at a target. Reflected projectiles remove stacks of Blood Shield.,Маттиас выпускает поток снарядов по цели. Отраженные снаряды снимают стаки Кровавого щита.
-Matthias fires a volley of projectiles that can be reflected. Applies stacks of Blood Fueled on hit.,"Маттиас выпускает залп снарядов, которые можно отразить. При попадании накладывает стаки Кровавого топлива."
+Matthias fires a stream of projectiles at a target. Reflected projectiles remove stacks of Blood Shield.,Маттиас выпускает поток снарядов по цели. Отраженные снаряды снимают стаки Blood Shield.
+Matthias fires a volley of projectiles that can be reflected. Applies stacks of Blood Fueled on hit.,"Маттиас выпускает залп снарядов, которые можно отразить. При попадании накладывает стаки Blood Fueled."
 "Matthias inflicts multiple targets with an attack effect that explodes after a few seconds, damaging all foes in the area of impact.","Matthias поражает несколько целей эффектом атаки, который взрывается через несколько секунд, нанося урон всем врагам в области поражения."
 Matthias pulses downpour damage every 3 seconds to all targets in the area.,Matthias каждые 3 секунды наносит урон ливнем всем целям в области.
 Matthias pulses heat-wave damage every 3 seconds to all targets in the area.,Matthias каждые 3 секунды наносит урон тепловой волной всем целям в области.

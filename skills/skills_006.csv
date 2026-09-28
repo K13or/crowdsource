@@ -100,7 +100,7 @@ Diversion,Diversion
 Diving Knife,Diving Knife
 Djinn's Gaze,Djinn's Gaze
 Does damage every second. Damage increased per stack.,Наносит урон каждую секунду. Урон увеличивается за каждый стак.
-Does not trigger extra damage from Harmonic Sensitivity.,Не вызывает дополнительный урон от «Гармонической чувствительности».
+Does not trigger extra damage from Harmonic Sensitivity.,Не вызывает дополнительный урон от Harmonic Sensitivity.
 Dolyak Signet,Dolyak Signet
 Dolyak Stance,Dolyak Stance
 Dome Radius,Радиус купола
@@ -187,7 +187,7 @@ Dwayna's Lightning,Dwayna's Lightning
 Dwayna's Tempest,Dwayna's Tempest
 Dynamic Deterrent,Dynamic Deterrent
 Dysapoptosis,Dysapoptosis
-Each stack of Peal of Discord lets Decima target the closest untargeted player with Chorus of Thunder.,Каждый заряд «Peal of Discord» позволяет Decima выбрать ближайшего невыбранного игрока целью для «Хора грома».
+Each stack of Peal of Discord lets Decima target the closest untargeted player with Chorus of Thunder.,Каждый заряд «Peal of Discord» позволяет Decima выбрать ближайшего невыбранного игрока целью для Chorus of Thunder.
 Each stack of Peal of Harmony lets Decima target an uncharged conduit near the farthest player.,Каждый заряд «Peal of Harmony» позволяет Decima выбрать незаряженный проводник рядом с самым дальним игроком.
 Earth Attunement,Earth Attunement
 Earth Render,Earth Render
@@ -360,7 +360,7 @@ As you remain in Harbinger Shroud, you accumulate blight over time.
 Пока действует «Harbinger Shroud», вы постепенно накапливаете скверну.
 <c=@reminder>Скверна уменьшает ваш максимальный запас здоровья.</c>"
 Enter Radiant Forge,Enter Radiant Forge
-Enter Radiant Forge. The recharge time of this skill is reduced for each unused radiant weapon in shroud.,"Активировать сияющую кузницу. Время перезарядки этого умения уменьшается за каждое лучезарное оружие, которое не было использовано в саване."
+Enter Radiant Forge. The recharge time of this skill is reduced for each unused radiant weapon in shroud.,"Enter Radiant Forge. Время перезарядки этого умения уменьшается за каждое лучезарное оружие, которое не было использовано в саване."
 Enter Shadow Shroud,Enter Shadow Shroud
 "Entomb your foe, making them sink. Fire <c=@abilitytype>Crimson Tide</c> at your target multiple times.","Заточите врага, заставив его утонуть. Выпустите <c=@abilitytype>Crimson Tide</c> по вашей цели несколько раз."
 "Envelop target friend or foe with energy from the Mists. The energy explodes outward after a short delay or when manually detonated, granting barrier to nearby allies. The amount of barrier granted increases over time. If targeting an enemy, the aura also deals damage over time, and it does additional damage when the aura explodes based on how long the aura lasts.","Окутайте дружественную или враждебную цель энергией из Туманов. Энергия взрывается наружу после небольшой задержки или при ручной детонации, накладывая барьер на ближайших союзников. Количество накладываемого барьера увеличивается со временем. Если цель — враг, аура также наносит периодический урон, а при взрыве наносит дополнительный урон, зависящий от длительности действия ауры."
