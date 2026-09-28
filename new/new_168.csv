@@ -83,7 +83,7 @@ Welcome to the Festival of the Four Winds. Are you going to take part in the tre
 "Welcome, Commander of the Pact. I'd hoped you might attend. Will you be volunteering to battle our watchknight?","Добро пожаловать, Коммандир Пакта. Я надеялась, что вы придёте. Вызоветесь сразиться с нашим рыцарем-стражем?"
 "Welcome, Commander. You've given the Itzel new courage. Pity it won't help.","Добро пожаловать, Коммандир. Ты вернул ицелям мужество. Жаль, что это не поможет."
 "Welcome, guppy, to my First Annual Fishing Competition. How is it both ""first"" and ""annual""?","Добро пожаловать, малёк, на моё Первое ежегодное состязание рыболовов. Как оно может быть разом «первым» и «ежегодным»?"
-"Welcome, newcomers! I realize not everyone in Hullgarden is happy to see you...but we here are looking forward to—","Добро пожаловать, новички! Я понимаю, не все в Халлгардене рады вас видеть... но мы здесь очень ждём..."
+"Welcome, newcomers! I realize not everyone in Hullgarden is happy to see you...but we here are looking forward to—","Добро пожаловать, новички! Я понимаю, не все в Hullgarden рады вас видеть... но мы здесь очень ждём..."
 "Welcome, stranger, and grab a mug. I stock exotic brews from all over the abovelands. Though if you're looking for a taste of home, my newest shipment was from a Krytan abbey.","Добро пожаловать, странник, бери кружку. У меня есть диковинные напитки со всех верхних земель. А если хочешь вкус дома — последнюю партию мне привезли из крайтанского аббатства."
 "Welcome, trainee. For your last combat trial, please step into the designated exam area.","Добро пожаловать, новобранец. Для последнего боевого испытания пройди в отведённую зону экзамена."
 "Welcome, welcome to my island. Mine.","Добро пожаловать, добро пожаловать на мой остров. Мой."
@@ -119,13 +119,13 @@ Well there is the matter of the disguises.,"Ну, остаётся вопрос 
 "Well, best of luck to you, Sergeant Walters.","Что ж, удачи вам, Sergeant Walters."
 "Well, braid my ears! Those ancient Flame Legion pooh-bahs may've been evil, oppressive oiks, but they knew how to enchant a weapon.","Заплети мне уши! Эти древние шишки из Flame Legion были злобными самодурами, но зачаровывать оружие умели."
 "Well, hello there!","О, здравствуй!"
-"Well, hello there. What brings you to Shaemoor?","О, здравствуй. Что привело тебя в Шеймур?"
+"Well, hello there. What brings you to Shaemoor?","О, здравствуй. Что привело тебя в Shaemoor?"
 "Well, if spores are all we've got, then spores are what we'll use!","Что ж, если у нас есть только споры, значит, спорами и обойдёмся!"
 "Well, if that's what's keeping you here, I guess we'd better help you out.","Ну, раз тебя держит здесь только это, придётся тебе помочь."
 "Well, if there's no rifts, it's safer than Tyria.","Ну, если разломов нет, там безопаснее, чем в Тирии."
 "Well, in theory they work perfectly. And to be honest, if the last two catastrophes—I mean, inconclusive tests—are any indication, it isn't quite ready for market.","В теории они работают безупречно. А честно говоря, если судить по двум последним катастрофам — то есть по неубедительным испытаниям, — до продажи ему далеко."
 "Well, it's complicated. All you need to know is that you push the buttons, knock the wind out of the ghost, then when it's gasping, you suck it up into the collector.","Ну, всё непросто. Тебе достаточно знать: жмёшь кнопки, вышибаешь из призрака дух, а когда он хватает воздух — засасываешь его в собиратель."
-"Well, look here—it's the Hero of Shaemoor! Welcome to Beetletun.",Гляньте-ка — сам Hero of Shaemoor! Добро пожаловать в Битлтун.
+"Well, look here—it's the Hero of Shaemoor! Welcome to Beetletun.",Гляньте-ка — сам Hero of Shaemoor! Добро пожаловать в Beetletun.
 "Well, look who's here.","Гляньте, кто пришёл."
 "Well, looks like I'm headed to the Fire Islands solo.","Что ж, похоже, на Огненные острова я отправлюсь один."
 "Well, maybe next time.","Ну, может, в другой раз."
@@ -321,10 +321,10 @@ What's it for?,Для чего это?
 What's on your menu?,Что у тебя в меню?
 What's out here to hunt?,На кого здесь охотятся?
 What's required to build a war room?,"Что нужно, чтобы построить военную комнату?"
-What's so great about Jora?,И что такого замечательного в Йоре?
+What's so great about Jora?,И что такого замечательного в Jora?
 What's so interesting about it?,Что в этом такого занятного?
 What's so special about it?,Чем оно так особенно?
-"What's so strange about it? Jora was a beauty, and a ferocious beauty at that. Just the way I like them.","А что тут странного? Йора была красавицей, притом свирепой красавицей. Как раз в моём вкусе."
+"What's so strange about it? Jora was a beauty, and a ferocious beauty at that. Just the way I like them.","А что тут странного? Jora была красавицей, притом свирепой красавицей. Как раз в моём вкусе."
 What's taking the other demolitionists so long? All three portals need to close.,Почему остальные подрывники так возятся? Все три портала должны закрыться.
 What's that about Separatists?,Что там про Сепаратистов?
 What's that from? Your tablet?,Откуда это? Из твоей скрижали?
@@ -457,7 +457,7 @@ Which smell?,Какой запах?
 "While our toxins rend your minds, our blades will carve out your hearts.","Пока наши токсины разрывают ваш разум, наши клинки вырежут ваши сердца."
 "While the Mordrem are distracted, we can slip past.","Пока Мордремы отвлечены, мы можем проскользнуть мимо."
 "While the concept of making purchases with such an unwieldy substance seems illogical, we seem poised to use **DATA CORRUPTED** as a form of currency for some time.","Хотя сама мысль расплачиваться столь неудобным веществом кажется нелогичной, похоже, мы ещё некоторое время будем использовать **ДАННЫЕ ПОВРЕЖДЕНЫ** в качестве валюты."
-"While the scandal led to a sham of a trial against our great founder, Zinn, the Reactor Blast ability of the *DATA CORRUPTED* Golem was a power management marvel.","Хотя скандал и вылился в судилище над нашим великим основателем Зинном, способность «Взрыв реактора» голема *ДАННЫЕ ПОВРЕЖДЕНЫ* была чудом управления энергией."
+"While the scandal led to a sham of a trial against our great founder, Zinn, the Reactor Blast ability of the *DATA CORRUPTED* Golem was a power management marvel.","Хотя скандал и вылился в судилище над нашим великим основателем Zinn, способность «Взрыв реактора» голема *ДАННЫЕ ПОВРЕЖДЕНЫ* была чудом управления энергией."
 "While you've been wasting time here, we've invaded your nations, killed your kind...","Пока вы тратили здесь время, мы вторглись в ваши страны, убивали ваших сородичей..."
 "Whine at someone else, will you?","Ной кому-нибудь другому, ладно?"
 Whip Blast,Удар хлыстом

@@ -88,7 +88,7 @@ Double-click to open.","<c=@flavor>На прикреплённой записк�
 <c=@flavor>Break down the walls of your world.</c>,<c=@flavor>Сломай стены своего мира.</c>
 <c=@flavor>Break free of your fear.</c>,<c=@flavor>Вырвись из своего страха.</c>
 <c=@flavor>Break out the old standby.</c>,<c=@flavor>Достань старое проверенное.</c>
-"<c=@flavor>Brewed from an ancient Elonian recipe, Istan Pale Ale is full of bitter hops with a unique citrus finish. The perfect beer for a summer day.</c>","<c=@flavor>Сваренный по древнему элонскому рецепту, светлый эль Истана полон горького хмеля с неповторимым цитрусовым послевкусием. Идеальное пиво для летнего дня.</c>"
+"<c=@flavor>Brewed from an ancient Elonian recipe, Istan Pale Ale is full of bitter hops with a unique citrus finish. The perfect beer for a summer day.</c>","<c=@flavor>Сваренный по древнему элонскому рецепту, светлый эль Istan полон горького хмеля с неповторимым цитрусовым послевкусием. Идеальное пиво для летнего дня.</c>"
 "<c=@flavor>Brewed from ingredients that include Kryta's finest pumpkins, Mad King's Pumpkin Porter delivers a preferable alternative to the trickster spirits tormenting Lion's Arch.</c>","<c=@flavor>Сваренный из ингредиентов, среди которых лучшие тыквы Крайты, тыквенный портер Безумного Короля — предпочтительная альтернатива духам-проказникам, что донимают Lion's Arch.</c>"
 <c=@flavor>Bring order to primordial chaos.</c>,<c=@flavor>Принеси порядок в первозданный хаос.</c>
 <c=@flavor>Bring your next adventure into focus.<c>,<c=@flavor>Наведи резкость на своё следующее приключение.<c>
@@ -145,7 +145,7 @@ Double-click to view the target's predicted location.","<c=@flavor>По прик
 "<c=@flavor>Crafted in the style of the charr philanthropist, Claws Giftbringer.</c>",<c=@flavor>Изготовлено в стиле чаррского благотворителя Когтя Дарителя.</c>
 "<c=@flavor>Crafted in the style of the enigmatic oracle, Suun.</c>",<c=@flavor>Изготовлено в стиле загадочной прорицательницы Суун.</c>
 "<c=@flavor>Crafted in the style of the Exalted wanderer, Ruka.</c>",<c=@flavor>Изготовлено в стиле возвышенного странника Руки.</c>
-"<c=@flavor>Crafted in the style of the famous centaur pacifist, Ventari.</c>",<c=@flavor>Изготовлено в стиле знаменитого кентавра-пацифиста Вентари.</c>
+"<c=@flavor>Crafted in the style of the famous centaur pacifist, Ventari.</c>",<c=@flavor>Изготовлено в стиле знаменитого кентавра-пацифиста Ventari.</c>
 "<c=@flavor>Crafted in the style of the famous mercenary, Grymm Svaard.</c>",<c=@flavor>Изготовлено в стиле знаменитого наёмника Grymm Svaard.</c>
 "<c=@flavor>Crafted in the style of the famous minstrel, Maklain.</c>",<c=@flavor>Изготовлено в стиле знаменитого менестреля Маклейна.</c>
 "<c=@flavor>Crafted in the style of the famous necromancer, Verata.</c>",<c=@flavor>Изготовлено в стиле знаменитого некроманта Вераты.</c>
@@ -156,7 +156,7 @@ Double-click to view the target's predicted location.","<c=@flavor>По прик
 <c=@flavor>Crafted in the style of the Forgotten wizard Vass.</c>,<c=@flavor>Изготовлено в стиле Забытого волшебника Васса.</c>
 "<c=@flavor>Crafted in the style of the Forgotten, Sariss Yassith.</c>",<c=@flavor>Изготовлено в стиле Забытого Сарисс Ясситх.</c>
 "<c=@flavor>Crafted in the style of the great Nuhoch commander, Tizlak.</c>",<c=@flavor>Изготовлено в стиле великого командира нухочей Тизлака.</c>
-<c=@flavor>Crafted in the style of the holy Zintl hylek tribe.</c>,<c=@flavor>Изготовлено в стиле священного племени хилеков Зинтл.</c>
+<c=@flavor>Crafted in the style of the holy Zintl hylek tribe.</c>,<c=@flavor>Изготовлено в стиле священного племени хилеков Zintl.</c>
 <c=@flavor>Crafted in the style of the legendary Eternal Forgemaster.</c>,<c=@flavor>Изготовлено в стиле легендарного Вечного Мастера Горна.</c>
 "<c=@flavor>Crafted in the style of the legendary Sunspear, Nerashi.</c>",<c=@flavor>Изготовлено в стиле легендарной воительницы Солнечных Копий Нераши.</c>
 "<c=@flavor>Crafted in the style of the renowned asura engineer, Demolitionist Tonn.</c>","<c=@flavor>Изготовлено в стиле прославленного инженера-асуры, подрывника Тонна.</c>"
