@@ -426,7 +426,7 @@ This item only has value as part of a collection.","<c=@flavor>«Простак 
 —Brikk</c>","<c=@flavor>«Этот для моего любимого эксперимента: разобьётся ли он?»
 —Брикк</c>"
 "<c=@flavor>""This piece was anointed by Vollym himself. Wear it proudly!""
-—Johan</c>","<c=@flavor>«Этот предмет освятил сам Воллим. Носи его с гордостью!»
+—Johan</c>","<c=@flavor>«Этот предмет освятил сам Vollym. Носи его с гордостью!»
 —Йохан</c>"
 "<c=@flavor>""This pin might be a little too tactical.""
 —Tactician Lyan</c>","<c=@flavor>«Этот значок может быть чуточку слишком тактическим».
@@ -588,7 +588,7 @@ This item only has value as part of a collection.","<c=@flavor>«Использ�
 —Мастер Шепчущих</c>"
 "<c=@flavor>""Vishen Steelshot: immediately regroup with Steel warband at Terra Carorunda Waypoint for an important assignment.""</c>",<c=@flavor>«Вишен Сталестрел: немедленно воссоединиться со отрядом Стали у путевой точки „Terra Carorunda“ для важного задания».</c>
 "<c=@flavor>""Vollym himself used to dual wield two of these at a time.""
-—Johan</c>","<c=@flavor>«Сам Воллим когда-то сражался сразу двумя такими».
+—Johan</c>","<c=@flavor>«Сам Vollym когда-то сражался сразу двумя такими».
 —Йохан</c>"
 "<c=@flavor>""Walk a mile in these shoes.""
 —Lionscout Tunnira</c>","<c=@flavor>«Пройди милю в этой обуви».
@@ -1045,7 +1045,7 @@ This item only has value as part of a collection.","<c=@flavor>«Да, да, э�
 "<c=@flavor>""You're one of us now. Just don't let it go to your head."" -Cap</c>",<c=@flavor>«Теперь ты один из нас. Только не дай этому вскружить тебе голову». —Кэп</c>
 "<c=@flavor>""You've got some bite after all—just not enough to best the best.""
 —Vollym</c>","<c=@flavor>«В тебе всё же есть хватка — просто не настолько, чтобы одолеть лучших».
-—Воллим</c>"
+—Vollym</c>"
 "<c=@flavor>""Your enemy doesn't stand a chance now!""</c>",<c=@flavor>«Теперь у твоего врага нет ни шанса!»</c>
 "<c=@flavor>""Your lucky day! I usually keep things this shiny.""
 —Mrr'kkant</c>","<c=@flavor>«Твой счастливый день! Обычно я держу вещи именно такими блестящими».
