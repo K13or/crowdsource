@@ -161,9 +161,9 @@ Deadeye,Deadeye
 Deadly Arts,Deadly Arts
 Deadly Bloom,Deadly Bloom
 Deadly Force,Deadly Force
-"Deal 100,000 Damage to Enemy Players","Deal 100,000 Damage to Enemy Players"
-"Deal 50,000 Damage Using Siege Equipment","Deal 50,000 Damage Using Siege Equipment"
-"Deal 500,000 Damage Using Siege Equipment","Deal 500,000 Damage Using Siege Equipment"
+"Deal 100,000 Damage to Enemy Players",Нанесите 100 000 урона вражеским игрокам
+"Deal 50,000 Damage Using Siege Equipment",Нанесите 50 000 урона с помощью осадных орудий
+"Deal 500,000 Damage Using Siege Equipment",Нанесите 500 000 урона с помощью осадных орудий
 Deal increased damage while mounted on the warclaw. Warclaw Lance and Engage skills inflict increased control effects.,"Наносит увеличенный урон, находясь верхом на боевом когте. Навыки «Копьё боевого когтя» и «Вступление в бой» накладывают усиленные эффекты контроля."
 "Deal the finishing blow to the ravenous wanderer, once and for all.","Нанесите решающий удар по ravenous wanderer, раз и навсегда."
 Deal with the Kryptis in Amnytas.,Разберитесь с Kryptis в Amnytas.
@@ -224,24 +224,24 @@ Deeply Tangled Roots,Глубоко переплетенные корни
 Deepwater Barbshell,Deepwater Barbshell
 Deer Commander,Deer Commander
 Deer Rank Finisher,Deer Rank Finisher
-Defeat 1 Enemy Supply Caravan in World vs. World,Defeat 1 Enemy Supply Caravan in World vs. World
-Defeat 10 Enemies in Cantha,Defeat 10 Enemies in Cantha
-Defeat 10 Enemies in the Castora Region,Defeat 10 Enemies in the Castora Region
-Defeat 10 Enemies in the Crystal Desert,Defeat 10 Enemies in the Crystal Desert
-Defeat 10 Enemies in the Heart of Maguuma,Defeat 10 Enemies in the Heart of Maguuma
-Defeat 10 Enemies in the Horn of Maguuma,Defeat 10 Enemies in the Horn of Maguuma
-Defeat 10 World vs. World Invaders,Defeat 10 World vs. World Invaders
-Defeat 1000 Enemies in the Janthir Region,Defeat 1000 Enemies in the Janthir Region
-Defeat 25 Enemies,Defeat 25 Enemies
+Defeat 1 Enemy Supply Caravan in World vs. World,Победите 1 вражеский караван снабжения в World vs. World
+Defeat 10 Enemies in Cantha,Уничтожить 10 врагов в Канте
+Defeat 10 Enemies in the Castora Region,Уничтожить 10 врагов в регионе Кастора
+Defeat 10 Enemies in the Crystal Desert,Уничтожить 10 врагов в Crystal Desert
+Defeat 10 Enemies in the Heart of Maguuma,Победите 10 врагов в Heart of Maguuma
+Defeat 10 Enemies in the Horn of Maguuma,Победите 10 врагов в Horn of Maguuma
+Defeat 10 World vs. World Invaders,Победите 10 захватчиков в World vs. World
+Defeat 1000 Enemies in the Janthir Region,Победите 1000 врагов в регионе Janthir
+Defeat 25 Enemies,Победите 25 врагов
 Defeat 3 Enemies While Defending a Capture Point in Rated Player vs. Player Conquest Matches,"Победите 3 врагов, защищая точку захвата в рейтинговых матчах Завоевания Игрок против Игрока"
-Defeat 30 Players in Structured Player vs. Player,Defeat 30 Players in Structured Player vs. Player
-Defeat 5 Enemy Guards in World vs. World,Defeat 5 Enemy Guards in World vs. World
-Defeat 5 Veteran Enemies,Defeat 5 Veteran Enemies
+Defeat 30 Players in Structured Player vs. Player,Победите 30 игроков в структурированном PvP
+Defeat 5 Enemy Guards in World vs. World,Победите 5 вражеских стражей в World vs. World
+Defeat 5 Veteran Enemies,Победите 5 ветеранов
 Defeat Ankka!,Победи Ankka!
 Defeat Archon Iberu,Победите Archon Iberu
 Defeat Archon Iberu.,Победи Archon Iberu.
 Defeat Asthenes.,Победите Asthenes.
-Defeat Awakened or Risen,Defeat Awakened or Risen
+Defeat Awakened or Risen,Одолейте Пробуждённых или Восставших
 Defeat Balthazar's forces.,Одолейте силы Бальтазара.
 Defeat Balthazar's hounds.,Победите гончих Balthazar.
 Defeat Balthazar.,Одолейте Бальтазара.
@@ -262,16 +262,16 @@ Defeat Death-Branded Hierarch Chikere,Победите иерарха Чикер
 "Defeat Eparch's assassins, the Daggers of Zakiros.","Победите убийц Eparch, Кинжалы Закироса."
 Defeat Eparch's guards.,Победите стражников Эпарха.
 Defeat Eparch.,Одолейте Eparch.
-Defeat Forged or Flame Legion,Defeat Forged or Flame Legion
+Defeat Forged or Flame Legion,Победите Кованых или Flame Legion
 "Defeat Greer, the Blightbringer.","Победите Грира, Носителя Чумы."
 Defeat Heitor!,Победи Heitor!
-Defeat Inquest Enemies or Pirates,Defeat Inquest Enemies or Pirates
+Defeat Inquest Enemies or Pirates,Победите врагов Inquest или Пиратов
 Defeat Isgarren's Manifestation of Ego,Одолейте проявление эго Исгаррена
 Defeat Isgarren's manifestations to draw him out.,"Победите проявления Isgarren, чтобы выманить его."
 Defeat Isgarren.,Победите Isgarren.
 Defeat Istari the Inexorable.,Победите Istari the Inexorable.
 Defeat Ivan!,Победи Ivan!
-Defeat Jade Mechs or Inquest,Defeat Jade Mechs or Inquest
+Defeat Jade Mechs or Inquest,Одолейте Нефритовых мехов или Inquest
 Defeat Joon's security mechs.,Победите охранных мехов Joon.
 Defeat Justiciar Adrienne.,Победите Justiciar Adrienne.
 "Defeat Kela, Seneschal of Waves.","Победите Kela, Сенешаля Волн."
@@ -279,14 +279,14 @@ Defeat King Wasi.,Одолейте короля Васи.
 Defeat Koss.,Победи Koss.
 Defeat Kralkatorrik's Torment.,Одолейте Мучение Кралькаторрика.
 Defeat Kryptis and gather their essence.,Победи Kryptis и собери их эссенцию.
-Defeat Kryptis or Bandits,Defeat Kryptis or Bandits
+Defeat Kryptis or Bandits,Одолейте криптидов или бандитов
 Defeat Kuda's Omega Team,Одолейте команду «Омега» Куды
 Defeat Labris's remaining royal guard.,Победите оставшуюся королевскую стражу Labris.
 Defeat Lazarus's remaining aspects.,Победите оставшиеся аспекты Lazarus.
 Defeat Mai Trin!,Победите Mai Trin!
 Defeat Minister Estelle,Одолейте министра Эстель
 Defeat Minister Li!,Победите Minister Li!
-Defeat Mordrem or Nightmare Court,Defeat Mordrem or Nightmare Court
+Defeat Mordrem or Nightmare Court,Одолейте Мордрем или Nightmare Court
 Defeat Mordremoth.,Победите Mordremoth.
 Defeat Naati,Одолейте Наати
 Defeat Olar.,Одолейте Олара.
@@ -305,11 +305,11 @@ Defeat Sons of Svanir,Победите Sons of Svanir
 Defeat Sons of Svanir: %num1%/%num2%,Победите Sons of Svanir: %num1%/%num2%
 Defeat Sorrow.,Победи Sorrow.
 Defeat Tequatl the Sunless or Complete Events in Sparkfly Fen,Одолейте Tequatl the Sunless или завершите события в Sparkfly Fen
-Defeat Titanspawn or Elemental Enemies,Defeat Titanspawn or Elemental Enemies
+Defeat Titanspawn or Elemental Enemies,Победите порождения титанов или элементалей
 Defeat Togonn Windmane.,Победите Togonn Windmane.
 Defeat Ura's spawn.,Победите порождения Ura.
 Defeat Varinia Stormsounder.,Победите Varinia Stormsounder.
-Defeat Void Enemies or Sons of Svanir,Defeat Void Enemies or Sons of Svanir
+Defeat Void Enemies or Sons of Svanir,Победите врагов Бездны или Sons of Svanir
 Defeat Warden Amala.,Победите Warden Amala.
 Defeat Yagon,Победите Ягона.
 Defeat Zipp,Победите Зиппа.
@@ -319,7 +319,7 @@ Defeat and unmask Lazarus.,Победите и разоблачите Lazarus.
 Defeat any remaining enemies inside the hideout.,Победи всех оставшихся врагов внутри убежища.
 Defeat demons while Rama attempts to cast the sealing incantation.,"Победите демонов, пока Rama пытается произнести запечатывающее заклинание."
 Defeat destroyers until you find a usable sample,"Побеждайте разрушителей, пока не найдёте подходящий образец"
-Defeat enemy invaders in World vs. World.,Defeat enemy invaders in World vs. World.
+Defeat enemy invaders in World vs. World.,Победите 3 вражеских захватчиков в World vs. World.
 Defeat freebooters to obtain a disguise and the password to the Wardroom.,"Победите мародеров, чтобы получить маскировку и пароль от офицерской кают-компании."
 "Defeat hallucinations shielding Molten portals, and then destroy them.","Победите галлюцинации, защищающие порталы Molten, а затем уничтожьте их."
 Defeat spiders to find the gem key.,"Победите пауков, чтобы найти ключ-самоцвет."
@@ -488,7 +488,7 @@ While wielding multiple Dragon Essences, activating your elite skill now grants 
 You can now purchase recipes for superior Dragon Slayer weapons from vendors in Eye of the North.","Победа над чемпионом драконов в Миссии реагирования на драконов даёт дополнительные материалы под действием Драконьего благословения двух Старших драконов.
 При использовании нескольких Драконьих эссенций активация элитного навыка теперь даёт мощь, ярость и стабильность.
 Теперь вы можете приобрести рецепты превосходного оружия Убийцы драконов у торговцев в Eye of the North."
-Defend 10 World vs. World Objectives,Defend 10 World vs. World Objectives
+Defend 10 World vs. World Objectives,Защитите 10 целей в World vs. World
 Defend Amnoon.,Защитите Amnoon.
 Defend Blish while he fixes the tracker.,"Защищайте Blish, пока он чинит трекер."
 Defend Blish while he sets up the tracker.,"Защищайте Blish, пока он настраивает трекер."
