@@ -220,7 +220,7 @@ Veteran Dust Mite Cache[s],[Тайник|Тайника|Тайников] вет
 "Veteran Honor's Voice Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана «Глас чести»
 "Veteran Ice Elemental Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана ледяного элементаля
 "Veteran Ice Wolf Matriarch Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана матриарха ледяных волков
-Veteran Icebrood Mauler,Veteran Icebrood Mauler
+Veteran Icebrood Mauler,Ветеран-крушитель ледяного отродья
 "Veteran Icebrood Seer Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана провидца ледяного отродья
 "Veteran Inquest Advanced Defense Golem Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана продвинутого защитного голема Inquest
 "Veteran Inquest Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей ветерана Inquest
@@ -356,35 +356,35 @@ Viewing Story Collections,Просмотр сюжетных коллекций
 Viewing time ends in: %str1%,Время просмотра истекает через: %str1%
 Vigil and Sentinel forces are about to assault the Shatterer in the Lowland Burns of Blazeridge Steppes.,Силы Дозора и Стражей готовятся к штурму Крушителя в Низинных пожарищах Blazeridge Steppes.
 Vigil Backplate[s],[Наспинник|Наспинника|Наспинников] Дозора
-Vigil Ballastician,Vigil Ballastician
-Vigil Blaze,Vigil Blaze
-Vigil Cat Sitter,Vigil Cat Sitter
-Vigil Crusader Brice,Vigil Crusader Brice
-Vigil Crusader Rugan,Vigil Crusader Rugan
+Vigil Ballastician,Баллистик Дозора
+Vigil Blaze,Всполох Дозора
+Vigil Cat Sitter,Смотритель за котами Дозора
+Vigil Crusader Brice,Крестоносец Дозора Брайс
+Vigil Crusader Rugan,Крестоносец Дозора Руган
 Vigil crusaders are investigating mysterious probes near the Firth of Revanion outpost in Bloodtide Coast.,Крестоносцы Дозора расследуют таинственные зонды у заставы Firth of Revanion на Bloodtide Coast.
 "Vigil crusaders are trained, eduated, and prepared for direct combat against minions of the Elder Dragons. It is the Vigil's purpose to fight, but also to shelter those who have been ravaged by the dragons' approach.","Крестоносцы Дозора обучены, образованы и готовы к прямому бою с прислужниками Старших драконов. Цель Дозора — сражаться, но также давать приют тем, кто пострадал от приближения драконов."
-Vigil Emissary Chest,Vigil Emissary Chest
+Vigil Emissary Chest,Сундук эмиссара Дозора
 Vigil Equipment Guide[s],Руководств[о|а|] по снаряжению Дозора
 Vigil forces are defending Coiled Watch from Sons of Svanir.,Силы Дозора защищают Coiled Watch от Sons of Svanir.
 Vigil Honing Crystal[s],Кристалл[|ы|ов] заточки Дозора
-Vigil Huntsman,Vigil Huntsman
-Vigil Inferno,Vigil Inferno
-Vigil Keep Asura Gate,Vigil Keep Asura Gate
+Vigil Huntsman,Охотник Дозора
+Vigil Inferno,Инферно Дозора
+Vigil Keep Asura Gate,Асура-врата Крепости Дозора
 "Vigil Keep is the headquarters of one of the three great Orders of Tyria. The Vigil stands the line against the Elder Dragons, and offers charity and protection to those who are in need.","Vigil Keep — штаб-квартира одного из трёх великих орденов Тирии. Дозор стоит на пути Старших драконов, дарит милость и защиту нуждающимся."
-Vigil Lumberjack,Vigil Lumberjack
+Vigil Lumberjack,Лесоруб Дозора
 Vigil Maintenance Oil[s],[Масло|Масла|Масел] для обслуживания Дозора
-Vigil Medic,Vigil Medic
-Vigil Mortar,Vigil Mortar
+Vigil Medic,Медик Дозора
+Vigil Mortar,Мортира Дозора
 "Vigil Rations[pl:""Rations""]",[Паёк|Пайка|Пайков] Дозора
-Vigil Recruit,Vigil Recruit
-Vigil Scout,Vigil Scout
+Vigil Recruit,Новобранец Дозора
+Vigil Scout,Разведчик Дозора
 Vigil Scout Premhoc: %num1%/%num2%,Разведчик Дозора Премох: %num1%/%num2%
-Vigil Scout Tommi,Vigil Scout Tommi
-Vigil Scouts Helped,Vigil Scouts Helped
-Vigil Soldier,Vigil Soldier
-Vigil Submarine,Vigil Submarine
+Vigil Scout Tommi,Разведчик Дозора Томми
+Vigil Scouts Helped,Помощь разведчикам Дозора
+Vigil Soldier,Солдат Дозора
+Vigil Submarine,Подводная лодка Дозора
 Vigil Tactician Blazefur,Тактик Дозора Блейзфер
-Vigil War Banner,Vigil War Banner
+Vigil War Banner,Боевое знамя Дозора
 Vigil Weapon Container[s],Контейнер[|ы|ов] с оружием Дозора
 Vigil Weapon Crate[s],Ящик[|и|ов] с оружием Дозора
 Vigilance Chest 01,Сундук бдительности 01
@@ -393,7 +393,7 @@ Vigilance Chest 03,Сундук бдительности 03
 "Vigilance. Honor. Duty, above all.",Бдительность. Честь. Долг превыше всего.
 Vigilant Amulet,Амулет бдительности
 Vigilant Armor Chest,Сундук бдительной брони
-Vigilant Dawn,Vigilant Dawn
+Vigilant Dawn,Бдительный рассвет
 Vigilant Intricate Gossamer Insignia[s],[Бдительная замысловатая инсигния из паутины|Бдительные замысловатые инсигнии из паутины|Бдительных замысловатых инсигний из паутины]
 Vigilant Orichalcum Imbued Inscription[s],"[Бдительная гравировка, пропитанная орихалком|Бдительные гравировки, пропитанные орихалком|Бдительных гравировок, пропитанных орихалком]"
 Vigilant Physician's Mask now available!,Бдительная маска врача теперь доступна!

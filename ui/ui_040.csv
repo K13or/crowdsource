@@ -98,21 +98,21 @@ Cast Line,Леска
 Cast Vote for %str1%,Отдать голос за %str1%
 "Cast your fishing rod, releasing your line and bobber into the water.","Забрасывает удочку, отпуская леску и поплавок в воду."
 Castavall Corner,Угол Каставалла
-Castaway Agnes,Castaway Agnes
-Castaway Alta,Castaway Alta
-Castaway Clio,Castaway Clio
-Castaway Crushbrine,Castaway Crushbrine
-Castaway Nat,Castaway Nat
+Castaway Agnes,Агнес-изгой
+Castaway Alta,Альта-изгой
+Castaway Clio,Клио-изгнанница
+Castaway Crushbrine,Крашбрайн-изгой
+Castaway Nat,Нэт-изгой
 Castaway Resource[s],[Ресурс|Ресурса|Ресурсов] изгоя
-Castaway Supply Crate,Castaway Supply Crate
-Castaway Ursulette,Castaway Ursulette
+Castaway Supply Crate,Ящик припасов изгоя
+Castaway Ursulette,Урсулетта-изгой
 "Casters and archivists alike worship the iridescent glow that the Bifrost emits. Although the source of its magic is unknown, its luminous aura may hint of realms bygone—tucked away in the Mists.","И маги, и архивариусы поклоняются переливчатому сиянию, которое излучает Бифрёст. Хотя источник его магии неизвестен, его светящаяся аура может намекать на ушедшие миры, скрытые в Туманах."
 Casting and Voice Production,Озвучивание и постановка голоса
 Castle - %num1% Points,Замок - %num1% очков
 Castle Improvement,Улучшение замка
 Castle Tactic,Тактика замка
 Castor Crushpaw,Кастор Крушпэу
-Castor Shoutsman,Castor Shoutsman
+Castor Shoutsman,Кастор Крикун
 Castora Cache[s],[Тайник|Тайника|Тайников] Касторы
 Castora Fishing Reward[s],[Награда|Награды|Наград] за рыбалку Касторы
 Castora: Hero's Choice Chest[s],Кастора: Сундук[|а|ов] героического выбора
@@ -120,7 +120,7 @@ Castora: Hero's Choice Chest[s],Кастора: Сундук[|а|ов] геро�
 "Castoran Bicorn[pl:""Bicorn""]",Бикорн Касторана
 Castoran Cache[s] of Riches,Касторанский сундук[|а|ов] богатств
 "Castoran Choya Treasure Box[pl:""Boxes""]",Коробка с сокровищами Касторана Чои[|а|ы]
-Castoran Coral,Castoran Coral
+Castoran Coral,Коралл Касторы
 Castoran Curse-Breaker,Касторан Разрушитель Проклятий
 Castoran Entomology Research,Исследование энтомологии Касторы
 "Castoran Freebooter Treasure Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с сокровищами Касторана Свободного Корсара
@@ -128,7 +128,7 @@ Castoran Freshwater Fish,Пресноводная рыба Касторана
 "Castoran Gear Box[pl:""Boxes""]",[Коробка с шестерёнками Касторана|Коробки с шестерёнками Касторана|Коробок с шестерёнками Касторана]
 "Castoran Gnarled Boar Treasure Box[pl:""Boxes""]","[Коробка|Коробки|Коробок] с сокровищами Касторана, наполненный кореньями и щетиной"
 "Castoran Inquest Treasure Box[pl:""Boxes""]",[Коробка с сокровищами Касторана|Коробки с сокровищами Касторана|Коробок с сокровищами Касторана]
-Castoran King Crab,Castoran King Crab
+Castoran King Crab,Королевский краб Касторана
 Castoran Magic Sample,Образец магии Касторана
 "Castoran Milkfish[pl:""Milkfish""]",Касторанский молочный окунь[|а|и]
 Castoran Offshore Fish,Морская рыба Касторана
@@ -288,7 +288,7 @@ Cayman Islands,Каймановы острова
 Ceiling Crumble,Обрушение потолка
 Celebrate Bear,Праздновать Медведя
 Celebrate epic deeds with a noble toast and a fancy drink.,Отпразднуйте эпические подвиги благородным тостом и изысканным напитком.
-"Celebrate Evon Gnashblade's ""birthday"" at the Vaults in Lion's Arch!","Отпразднуйте \«день рождения\» Evon Gnashblade в Хранилищах в Lion's Arch!"
+"Celebrate Evon Gnashblade's ""birthday"" at the Vaults in Lion's Arch!",Отпразднуйте \«день рождения\» Evon Gnashblade в Хранилищах в Lion's Arch!
 Celebrate Guild Wars 2's 10th anniversary! Complete new achievements and earn the Decade armor set.,Отпразднуйте 10-летие Guild Wars 2! Выполните новые достижения и получите набор брони «Десятилетие».
 Celebrate Guild Wars 2's anniversary with boosted rewards!,Отпразднуйте годовщину Guild Wars 2 с увеличенными наградами!
 Celebrate Raven,Отпразднуйте Ворона
@@ -368,7 +368,7 @@ Central forces are prepared.,Центральные силы готовы.
 "Central Plaza, Divinity's Reach","Центральная площадь, Убежище Божественности"
 Central Pylon Vulnerable,Центральный пилон уязвим
 Central Spire,Центральный шпиль
-Central Tyria,Central Tyria
+Central Tyria,Центральная Тайрия
 Central Tyria Waypoint Unlock Cache[s],[Сундук открытия путевой точки Центральной Тирии|Сундука открытия путевой точки Центральной Тирии|Сундуков открытия путевой точки Центральной Тирии]
 Central Tyria Waypoint Unlock Package,Центральная Тайрия Набор для разблокировки путевых точек
 Central Tyrian and Maguuma Ascended Artificer Weapons,Центрально-тирийское и Магуумское вознесённое оружейное дело (артефакты)
@@ -414,12 +414,12 @@ Central<br>Ladders,Центральные<br>Лестницы
 Centralized location to find other players who want to explore the world of Tyria.,"Централизованное место для поиска других игроков, желающих исследовать мир Тирии."
 Centrifugal Force,Центробежная сила
 Centripetal Assault,Центростремительный штурм
-Centurion Truthbringer,Centurion Truthbringer
+Centurion Truthbringer,Центурион Правдоносец
 Centurion Truthbringer salutes your efforts against the Flame Legion.,Centurion Truthbringer приветствует ваши усилия против Flame Legion.
 Centurion's Enthusiasm,Энтузиазм центуриона
 Centurions Claw[s],[Коготь|Когтя|Когтей] центуриона
 Ceramic Planter[s],Керамический [горшок|горшка|горшков]
-Cerberus Scalecatcher,Cerberus Scalecatcher
+Cerberus Scalecatcher,Цербер Чешуелов
 Cerburus' Enhanced Incubator,Улучшенный инкубатор Цербера
 Cereboth's Darkness,Тьма Церебота
 Ceremonial Bulwark Skin[s],[Облик|Облика|Обликов] церемониального бастиона
@@ -443,7 +443,7 @@ Ceremonial Warhorn Skin[s],[Облик|Облика|Обликов] церемо
 Ceremonial Winged Axe Skin[s],[Облик|Облика|Обликов] церемониального крылатого топора
 Ceremony of Passing,Церемония прощания
 Cern is grateful for your help.,Церн благодарен за вашу помощь.
-Cerosi Breaksteel,Cerosi Breaksteel
+Cerosi Breaksteel,Церози Ломатель Стали
 Certain goop piles are poisonous.,Некоторые кучи слизи ядовиты.
 Certificate[s] of Honor,[Сертификат|Сертификата|Сертификатов] чести
 Certificate[s] of Support,[Сертификат|Сертификата|Сертификатов] поддержки
@@ -463,7 +463,7 @@ Chad's Test Map,Тестовая карта Чада
 "Chag, Led into Darkness","Чаг, ведомый во тьму"
 Chain Lightning Damage,Урон от цепной молнии
 "Chain Pickerel[pl:""Pickerel""]",Цепной Потычок[к|ка|ков]
-Chain Pull,Chain Pull
+Chain Pull,Цепной рывок
 Chain Reaction Might,Цепная реакция: Могущество
 Chain Reaction Protection,Цепная реакция: Защита
 Chain Reaction Resolution,Цепная реакция: Решимость

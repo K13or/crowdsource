@@ -1,26 +1,26 @@
 english,translate
 "Destroys tiles and chains attacks to allies who are struck by the blast. Applies agony, daze, and knockback.","Разрушает плитки и цепляет атаки к союзникам, задетым взрывом. Накладывает агонию, ошеломление и отталкивание."
-Destructive Aura,Destructive Aura
-Detonate,Detonate
-Detonate Blossoming Aura,Detonate Blossoming Aura
-Detonate Cluster,Detonate Cluster
-Detonate Elixir B,Detonate Elixir B
-Detonate Elixir C,Detonate Elixir C
-Detonate Elixir H,Detonate Elixir H
-Detonate Elixir R,Detonate Elixir R
-Detonate Elixir S,Detonate Elixir S
-Detonate Elixir U,Detonate Elixir U
-Detonate Elixir X,Detonate Elixir X
-Detonate Flame Turret,Detonate Flame Turret
-Detonate Harpoon Turret,Detonate Harpoon Turret
-Detonate Healing Turret,Detonate Healing Turret
-Detonate Light,Detonate Light
-Detonate Mine Field,Detonate Mine Field
-Detonate Net Turret,Detonate Net Turret
-Detonate Rifle Turret,Detonate Rifle Turret
-Detonate Rocket Turret,Detonate Rocket Turret
-Detonate Supply Crate Turrets,Detonate Supply Crate Turrets
-Detonate Thumper Turret,Detonate Thumper Turret
+Destructive Aura,Разрушительная аура
+Detonate,Детонировать
+Detonate Blossoming Aura,Детонировать цветущую ауру
+Detonate Cluster,Детонировать кассетную бомбу
+Detonate Elixir B,Детонировать эликсир B
+Detonate Elixir C,Детонировать эликсир C
+Detonate Elixir H,Детонировать эликсир H
+Detonate Elixir R,Детонировать эликсир R
+Detonate Elixir S,Детонировать эликсир S
+Detonate Elixir U,Детонировать эликсир U
+Detonate Elixir X,Детонировать эликсир X
+Detonate Flame Turret,Детонировать огнеметную турель
+Detonate Harpoon Turret,Детонировать гарпунную турель
+Detonate Healing Turret,Детонировать лечащую турель
+Detonate Light,Детонировать свет
+Detonate Mine Field,Детонировать минное поле
+Detonate Net Turret,Детонировать сеть-турель
+Detonate Rifle Turret,Детонировать винтовочную турель
+Detonate Rocket Turret,Детонировать ракетную турель
+Detonate Supply Crate Turrets,Детонировать турели ящика с припасами
+Detonate Thumper Turret,Детонировать ударную турель
 Detonate a burst of ice that chills nearby foes.,"Взорвать заряд льда, который замораживает противников поблизости."
 Detonate a burst of ice that immobilizes nearby foes.,"Взорвать заряд льда, который замораживает противников поблизости."
 Detonate the dome to heal nearby allies.,"Взорвать купол, чтобы исцелить союзников поблизости."
@@ -44,13 +44,13 @@ Detonate your thumper turret.,Взорвите свою грохочущую т�
 Detonates when enemies draw near.,Детонирует при приближении врагов.
 Detonation Damage,Урон от детонации
 Detonation Window,Окно детонации
-Devastator,Devastator
-Devour Brand,Devour Brand
-Devourer Retreat,Devourer Retreat
-Devourer Venom,Devourer Venom
-Devouring Cut,Devouring Cut
-Devouring Darkness,Devouring Darkness
-Devouring Visage,Devouring Visage
+Devastator,Опустошитель
+Devour Brand,Пожирающее клеймо
+Devourer Retreat,Отступление пожирателя
+Devourer Venom,Яд пожирателя
+Devouring Cut,Пожирающий разрез
+Devouring Darkness,Пожирающая тьма
+Devouring Visage,Пожирающий лик
 Dhuum calls forth deadly claws that pull foes toward him.,"Dhuum призывает смертоносные когти, которые притягивают к нему врагов."
 "Dhuum creates a rippling fracture in the ground, erupting after a short time.","Dhuum создает волнообразный разлом в земле, который извергается спустя короткое время."
 "Dhuum links two targets, causing their souls to merge and destroy each other if they're in close proximity.","Dhuum связывает две цели, заставляя их души слиться и уничтожить друг друга, если они находятся близко друг к другу."
@@ -58,85 +58,85 @@ Dhuum calls forth deadly claws that pull foes toward him.,"Dhuum призыва�
 "Dhuum slams his scythe on the ground, creating a soul-shattering explosion after which he pulls targets toward him. Targets hit by the initial attack will have their souls ripped out of their bodies. Failure to reunite body and soul means death.","Dhuum ударяет косой о землю, создавая сокрушающий душу взрыв, после чего притягивает цели к себе. У душ целей, пораженных начальной атакой, будет вырвано тело. Неспособность воссоединить тело и душу означает смерть."
 "Dhuum slams his scythe on the ground, creating a soul-shattering explosion and leaving a deadly ring of Dhuumfire. Targets hit by the initial blast will have their souls ripped from their bodies. Failure to reunite body and soul means death.","Dhuum ударяет косой о землю, создавая сокрушающий душу взрыв и оставляя смертоносное кольцо Dhuumfire. У душ целей, пораженных начальным взрывом, будет вырвано тело. Неспособность воссоединить тело и душу означает смерть."
 Dhuum's mere presence saps your will to live.,Одно присутствие Dhuum истощает вашу волю к жизни.
-Dhuumfire,Dhuumfire
-Diamond Palisade,Diamond Palisade
-Diffractive Edge,Diffractive Edge
-Dimension Breach,Dimension Breach
-Dimensional Aperture,Dimensional Aperture
-Diminish Solace,Diminish Solace
-Dire Drafts,Dire Drafts
+Dhuumfire,Огонь Дуума
+Diamond Palisade,Алмазный палисад
+Diffractive Edge,Дифракционное лезвие
+Dimension Breach,Разрыв измерения
+Dimensional Aperture,Пространственная апертура
+Diminish Solace,Уменьшение утешения
+Dire Drafts,Зловещие сквозняки
 Disable the tether.,Отключить привязку.
-Disabling Shot,Disabling Shot
+Disabling Shot,Выводящий из строя выстрел
 "Disappear in a cloud of smoke, blinding nearby foes and losing conditions. Reappear three seconds later, burning nearby foes.","Исчезните в облаке дыма, ослепляя ближайших врагов и снимая состояния. Появитесь вновь через три секунды, обжигая ближайших врагов."
-Discarded Grasp,Discarded Grasp
-Discharge,Discharge
-Discharge Array,Discharge Array
-Discharge Lightning,Discharge Lightning
+Discarded Grasp,Отброшенная хватка
+Discharge,Разряд
+Discharge Array,Массив разрядов
+Discharge Lightning,Разряд молнии
 "Discharge a lightning shot that bounces between multiple foes, blinding and confusing them.","Выпустите выстрел молнии, который отскакивает между несколькими врагами, ослепляя и сбивая их с толку."
 "Discharges solar energy, knocking back foes in its path. This attack can be jumped over.","Выпускает солнечную энергию, отбрасывая врагов на своем пути. Через эту атаку можно перепрыгнуть."
-Discordant Thunder,Discordant Thunder
-Diseased Bite,Diseased Bite
-Disenchantment,Disenchantment
-Disintegration Blast,Disintegration Blast
-Dismiss Cyclone Bow,Dismiss Cyclone Bow
-Dismiss Lieutenant Soulcleave,Dismiss Lieutenant Soulcleave
+Discordant Thunder,Диссонирующий гром
+Diseased Bite,Зараженный укус
+Disenchantment,Разочарование
+Disintegration Blast,Взрыв дезинтеграции
+Dismiss Cyclone Bow,Убрать лук циклона
+Dismiss Lieutenant Soulcleave,Рассеять Лейтенанта Душереза
 "Dispel your Cyclone Bow, losing all Wind Force.","Уберите свой лук циклона, теряя всю Wind Force."
 "Displace your foe through the Mists, forcing them away from you.","Переместите своего врага через Туманы, заставляя его отдалиться от вас."
-Displacement,Displacement
-Disrupt Attunement,Disrupt Attunement
-Disrupting Dagger,Disrupting Dagger
-Disrupting Stab,Disrupting Stab
-Disrupting Throw,Disrupting Throw
-Dissonance,Dissonance
+Displacement,Смещение
+Disrupt Attunement,Нарушение настройки
+Disrupting Dagger,Разрушающий кинжал
+Disrupting Stab,Разрушительный удар
+Disrupting Throw,Разрушительный бросок
+Dissonance,Диссонанс
 Distance,Дистанция
 Distance Traveled,Пройденное расстояние
-Distortion,Distortion
-Distracting Daggers,Distracting Daggers
-Distracting Throw,Distracting Throw
-Distress,Distress
-Distributed Magic,Distributed Magic
+Distortion,Искажение
+Distracting Daggers,Отвлекающие кинжалы
+Distracting Throw,Отвлекающий бросок
+Distress,Бедствие
+Distributed Magic,Распределенная магия
 Dive-bomb blast.,Взрыв при пикировании.
-Diversion,Diversion
-Diving Knife,Diving Knife
-Djinn's Gaze,Djinn's Gaze
+Diversion,Отвлечение
+Diving Knife,Нож для ныряния
+Djinn's Gaze,Взгляд джинна
 Does damage every second. Damage increased per stack.,Наносит урон каждую секунду. Урон увеличивается за каждый стак.
 Does not trigger extra damage from Harmonic Sensitivity.,Не вызывает дополнительный урон от Harmonic Sensitivity.
-Dolyak Signet,Dolyak Signet
-Dolyak Stance,Dolyak Stance
+Dolyak Signet,Печать дольяка
+Dolyak Stance,Стойка дольяка
 Dome Radius,Радиус купола
-Dome of the Mists,Dome of the Mists
-Doom,Doom
-Double Arc,Double Arc
-Double Bolt,Double Bolt
-Double Chop,Double Chop
-Double Lava Axe,Double Lava Axe
-Double Strike,Double Strike
-Double Tap,Double Tap
-Douse in Darkness,Douse in Darkness
-Downpour,Downpour
+Dome of the Mists,Купол Туманов
+Doom,Рок
+Double Arc,Двойная дуга
+Double Bolt,Двойной болт
+Double Chop,Двойной рубящий удар
+Double Lava Axe,Двойной лавовый топор
+Double Strike,Двойной удар
+Double Tap,Двойное нажатие
+Douse in Darkness,Окутать тьмой
+Downpour,Ливень
 Downs any foe that does not dodge or block.,"Сбивает с ног любого врага, который не уклонился или не заблокировал удар."
-Dragon Slash—Burst,Dragon Slash—Burst
-Dragon Slash—Rush,Dragon Slash—Rush
-Dragon Slash—Wave,Dragon Slash—Wave
-Dragon Trigger,Dragon Trigger
-Dragon's Maw,Dragon's Maw
-Dragon's Roar,Dragon's Roar
-Dragon's Tooth,Dragon's Tooth
-Dragonspike Mine,Dragonspike Mine
-Drain,Drain
+Dragon Slash—Burst,Драконий разрез — Взрыв
+Dragon Slash—Rush,Драконий разрез — Рывок
+Dragon Slash—Wave,Драконий разрез — Волна
+Dragon Trigger,Драконий триггер
+Dragon's Maw,Пасть дракона
+Dragon's Roar,Рев дракона
+Dragon's Tooth,Зуб дракона
+Dragonspike Mine,Мина «Шип дракона»
+Drain,Истощение
 Drains the heat from foes.,Вытягивает тепло из врагов.
-Drake's Breath,Drake's Breath
-Drake's Swipe,Drake's Swipe
+Drake's Breath,Дыхание дракона
+Drake's Swipe,Удар дракона
 Draw a symbol on the ground that heals allies and damages foes.,"Начертать на земле символ, который исцеляет союзников и наносит урон противникам."
 Draw both hidden pistols and unload a volley of bullets on your foe.,Достаньте оба скрытых пистолета и обрушьте на врага шквал пуль.
 "Draw conditions from nearby allies to yourself, and inflict weakness on yourself.",Перетяните состояния с ближайших союзников на себя и наложите на себя слабость.
-Dread Visage,Dread Visage
-Dreg Detritus,Dreg Detritus
-Dreg Flop,Dreg Flop
+Dread Visage,Облик ужаса
+Dreg Detritus,Мусор дрегов
+Dreg Flop,Плюх дрега
 Drive piranhas into a feeding frenzy around your foe. Apply fury to your pet.,Ввергните пираний в пищевое безумие вокруг вашего врага. Наложите ярость на вашего питомца.
-Drop Gunk,Drop Gunk
-Drop Mine,Drop Mine
-Drop Urn of Saint Viktor,Drop Urn of Saint Viktor
+Drop Gunk,Сбросить грязь
+Drop Mine,Сбросить мину
+Drop Urn of Saint Viktor,Сбросить урну святого Виктора
 "Drop a comet of ice on target foe, damaging and dazing foes in the area.","Сбросить ледяную комету на цель, нанося урон и оглушая врагов в области."
 Drop a giant ice spike on foes to make them vulnerable.,"Бросить в противников гигантский ледяной шип, делая их уязвимыми."
 Drop a mine that deals damage to enemies that trigger it.,"Сбросьте мину, которая наносит урон врагам, активировавшим её."
@@ -149,26 +149,26 @@ Drop an explosive dragon's tooth on your foe.,Бросить в противни
 "Drop from above, granting barrier and healing to allies in the affected area.","Спрыгнуть сверху, даруя барьер и исцеление союзникам в области действия."
 Drop gunk at your location to inflict a random condition.,"Сбросьте грязь в вашем местоположении, чтобы наложить случайное состояние."
 Drop mines behind you as you dodge.,Оставить за собой мины при увороте.
-Drop the Hammer,Drop the Hammer
-Drum Playing,Drum Playing
-Dual Attack,Dual Attack
+Drop the Hammer,Сбросить молот
+Drum Playing,Игра на барабанах
+Dual Attack,Двойная атака
 Dual Attack. Bleed your foe with ice and stone.,Dual Attack. Вызвать кровотечение у врага с помощью льда и камня.
 Dual Attack. Bombard your foe with a meteor that inflicts multiple conditions.,"Dual Attack. Обрушить на врага метеор, накладывающий несколько эффектов состояния."
 Dual Attack. Evade backward and grant yourself boons.,Dual Attack. Уклониться назад и получить благословения.
 "Dual Attack. Fire a ball of plasma that explodes when it hits, striking enemies behind the target.","Dual Attack. Выпустить плазменный шар, который взрывается при попадании, поражая врагов позади цели."
 Dual Attack. Fire a quick shot that debilitates your target.,"Dual Attack. Сделать быстрый выстрел, ослабляющий цель."
 "Dual Attack. Fire multiple bullets of fire and ice, inflicting conditions.","Dual Attack. Выпустить несколько огненных и ледяных пуль, накладывая эффекты состояния."
-Dual Bite,Dual Bite
-Dual Horizon,Dual Horizon
-Dual Orbits: Air and Earth,Dual Orbits: Air and Earth
-Dual Orbits: Fire and Air,Dual Orbits: Fire and Air
-Dual Orbits: Fire and Earth,Dual Orbits: Fire and Earth
-Dual Orbits: Fire and Water,Dual Orbits: Fire and Water
-Dual Orbits: Water and Air,Dual Orbits: Water and Air
-Dual Orbits: Water and Earth,Dual Orbits: Water and Earth
-Dual Shot,Dual Shot
-Dual Strike,Dual Strike
-Duelist's Preparation,Duelist's Preparation
+Dual Bite,Двойной укус
+Dual Horizon,Двойной горизонт
+Dual Orbits: Air and Earth,Двойные орбиты: Воздух и Земля
+Dual Orbits: Fire and Air,Двойные орбиты: Огонь и Воздух
+Dual Orbits: Fire and Earth,Двойные орбиты: Огонь и Земля
+Dual Orbits: Fire and Water,Двойные орбиты: Огонь и Вода
+Dual Orbits: Water and Air,Двойные орбиты: Вода и Воздух
+Dual Orbits: Water and Earth,Двойные орбиты: Вода и Земля
+Dual Shot,Двойной выстрел
+Dual Strike,Двойной удар
+Duelist's Preparation,Подготовка дуэлянта
 Duration,Длительность
 Duration Decrease per Affinity,Снижение длительности за сродство
 Duration Decreased,Длительность снижена
@@ -177,103 +177,103 @@ Duration Increase per Affinity,Увеличение длительности з�
 Duration Increase per Malice,Увеличение длительности за злобу
 Duration Increase per Note,Увеличение длительности за ноту
 Duration Increase per Water Arrow Stack,Увеличение длительности за стак водяной стрелы
-Dusk Strike,Dusk Strike
-Dust Charge,Dust Charge
-Dust Devil,Dust Devil
-Dust Storm,Dust Storm
-Dust Strike,Dust Strike
-Dust Tornado,Dust Tornado
-Dwayna's Lightning,Dwayna's Lightning
-Dwayna's Tempest,Dwayna's Tempest
-Dynamic Deterrent,Dynamic Deterrent
-Dysapoptosis,Dysapoptosis
+Dusk Strike,Сумеречный удар
+Dust Charge,Заряд пыли
+Dust Devil,Пыльный дьявол
+Dust Storm,Пыльная буря
+Dust Strike,Удар пылью
+Dust Tornado,Пыльный торнадо
+Dwayna's Lightning,Молния Dwayna
+Dwayna's Tempest,Буря Dwayna
+Dynamic Deterrent,Динамическое сдерживание
+Dysapoptosis,Дизопоптоз
 Each stack of Peal of Discord lets Decima target the closest untargeted player with Chorus of Thunder.,Каждый заряд «Peal of Discord» позволяет Decima выбрать ближайшего невыбранного игрока целью для Chorus of Thunder.
 Each stack of Peal of Harmony lets Decima target an uncharged conduit near the farthest player.,Каждый заряд «Peal of Harmony» позволяет Decima выбрать незаряженный проводник рядом с самым дальним игроком.
-Earth Attunement,Earth Attunement
-Earth Render,Earth Render
-Earth Sphere,Earth Sphere
-Earthen Rush,Earthen Rush
-Earthen Spear,Earthen Spear
-Earthen Synergy,Earthen Synergy
-Earthen Vortex,Earthen Vortex
-Earthfall,Earthfall
-Earthquake,Earthquake
-Earthrend,Earthrend
-Earthshaker,Earthshaker
-Eat Egg,Eat Egg
-Eat Owl Egg,Eat Owl Egg
-Eat Wurm Egg,Eat Wurm Egg
+Earth Attunement,Настройка земли
+Earth Render,Земляной удар
+Earth Sphere,Сфера земли
+Earthen Rush,Земляной рывок
+Earthen Spear,Земляное копьё
+Earthen Synergy,Земляная синергия
+Earthen Vortex,Земляной вихрь
+Earthfall,Землепад
+Earthquake,Землетрясение
+Earthrend,Земляной разлом
+Earthshaker,Землетряс
+Eat Egg,Съесть яйцо
+Eat Owl Egg,Съесть яйцо совы
+Eat Wurm Egg,Съесть яйцо червя
 Eat a wurm's egg to gain vigor and regeneration.,"Съешьте яйцо червя, чтобы получить энергичность и регенерацию."
 Eat an owl's egg to gain swiftnesss and regeneration.,"Съешьте яйцо совы, чтобы получить стремительность и регенерацию."
-Eaten,Eaten
-Echo,Echo
+Eaten,Съедено
+Echo,Эхо
 Echo Adrenaline,Эхо адреналина
 Echo Barrier,Эхо-барьер
 Echo Bonus Defiance Damage,Бонус к урону по стойкости от Эха
 Echo Healing,Исцеление Эха
-Echo of Memory,Echo of Memory
-Echo of Truth,Echo of Truth
-Echoing Erosion,Echoing Erosion
-Echoing Eruption,Echoing Eruption
-Eclipsed Backlash,Eclipsed Backlash
-Ectoplasm,Ectoplasm
+Echo of Memory,Эхо памяти
+Echo of Truth,Эхо истины
+Echoing Erosion,Эхо эрозии
+Echoing Eruption,Эхо извержения
+Eclipsed Backlash,Затменная отдача
+Ectoplasm,Эктоплазма
 "Ectoplasm covers the ground, damaging and crippling foes caught in it.","Эктоплазма покрывает землю, нанося урон и замедляя врагов, попавших в неё."
-Ectoplasmic Flame,Ectoplasmic Flame
+Ectoplasmic Flame,Эктоплазменное пламя
 Ectoplasmic fire covers foes' skin.,Эктоплазменный огонь покрывает кожу врагов.
 "Ectoplasmic ooze slams into the ground, physically damaging everyone around it.","Эктоплазменная слизь ударяется о землю, нанося физический урон всем вокруг."
 Effect Radius,Радиус эффекта
 Effective Radius,Эффективный радиус
-Effervescence,Effervescence
-Effigy Pulse,Effigy Pulse
-Effulgent Stance,Effulgent Stance
+Effervescence,Шипение
+Effigy Pulse,Импульс чучела
+Effulgent Stance,Сияющая стойка
 Eldritch energy launches foes and destroys tiles.,Мистическая энергия подбрасывает врагов и разрушает плитки.
-Electric Artillery,Electric Artillery
-Electric Blast,Electric Blast
-Electric Bomb,Electric Bomb
-Electric Enchantment,Electric Enchantment
-Electric Exposure,Electric Exposure
-Electric Fence,Electric Fence
-Electric Rain,Electric Rain
-Electrical Repulsion,Electrical Repulsion
+Electric Artillery,Электрическая артиллерия
+Electric Blast,Электрический взрыв
+Electric Bomb,Электрическая бомба
+Electric Enchantment,Электрическое зачарование
+Electric Exposure,Электрическое воздействие
+Electric Fence,Электрический забор
+Electric Rain,Электрический дождь
+Electrical Repulsion,Электрическое отталкивание
 "Electrical currents surge through you, increasing incoming and outgoing damage. Stacks 5 times.Outgoing Damage +5%Incoming Damage +5%","Электрические разряды проходят сквозь вас, увеличивая входящий и исходящий урон. Суммируется до 5 раз.Исходящий урон +5%Входящий урон +5%"
-Electrified Net,Electrified Net
-Electrified Shield,Electrified Shield
-Electrified Tornado,Electrified Tornado
+Electrified Net,Электрическая сеть
+Electrified Shield,Электрический щит
+Electrified Tornado,Электрический торнадо
 "Electrify your enemy, making them vulnerable.","Электризует врага, делая его уязвимым."
 "Electrify your shield, preparing to throw it at foes. Stun nearby enemies that attack you while blocking.","Электризует ваш щит, подготавливая его к броску во врагов. Оглушает ближайших противников, атакующих вас во время блокирования."
 Electrify your tornado form and make it shoot lightning.,"Насытить ваш торнадо электричеством, заставив его выпускать молнии."
-Electro-Repulsion,Electro-Repulsion
-Electro-whirl,Electro-whirl
-Electrocute,Electrocute
-Electrospark,Electrospark
-Elemental Blast,Elemental Blast
-Elemental Breath,Elemental Breath
-Elemental Celerity,Elemental Celerity
-Elemental Compression,Elemental Compression
-Elemental Explosion,Elemental Explosion
-Elemental Manipulation,Elemental Manipulation
-Elemental Procession,Elemental Procession
-Elemental Requiem,Elemental Requiem
-Elemental Surge,Elemental Surge
-Elemental Sweep,Elemental Sweep
-Elemental Whirl,Elemental Whirl
-Elite Mortar Kit,Elite Mortar Kit
-Elixir B,Elixir B
-Elixir C,Elixir C
-Elixir F,Elixir F
-Elixir Gun,Elixir Gun
-Elixir H,Elixir H
-Elixir R,Elixir R
-Elixir S,Elixir S
-Elixir Shell,Elixir Shell
-Elixir U,Elixir U
-Elixir X,Elixir X
-Elixir of Ambition,Elixir of Ambition
-Elixir of Anguish,Elixir of Anguish
-Elixir of Bliss,Elixir of Bliss
-Elixir of Ignorance,Elixir of Ignorance
-Elixir of Promise,Elixir of Promise
-Elixir of Risk,Elixir of Risk
+Electro-Repulsion,Электроотталкивание
+Electro-whirl,Электрический вихрь
+Electrocute,Удар током
+Electrospark,Электроискра
+Elemental Blast,Элементальный взрыв
+Elemental Breath,Элементальное дыхание
+Elemental Celerity,Элементальная быстрота
+Elemental Compression,Элементальное сжатие
+Elemental Explosion,Элементальный взрыв
+Elemental Manipulation,Манипуляция стихиями
+Elemental Procession,Стихийная процессия
+Elemental Requiem,Элементальный реквием
+Elemental Surge,Элементальный всплеск
+Elemental Sweep,Элементальный взмах
+Elemental Whirl,Элементальный вихрь
+Elite Mortar Kit,Элитный комплект миномёта
+Elixir B,Эликсир B
+Elixir C,Эликсир C
+Elixir F,Эликсир F
+Elixir Gun,Эликсирная пушка
+Elixir H,Эликсир H
+Elixir R,Эликсир R
+Elixir S,Эликсир S
+Elixir Shell,Эликсирный снаряд
+Elixir U,Эликсир U
+Elixir X,Эликсир X
+Elixir of Ambition,Эликсир амбиций
+Elixir of Anguish,Эликсир мучений
+Elixir of Bliss,Эликсир блаженства
+Elixir of Ignorance,Эликсир невежества
+Elixir of Promise,Эликсир обещания
+Elixir of Risk,Эликсир риска
 "Elixir. Infuse an elixir with the promise of good health, healing yourself and gaining regeneration, and then toss the elixir at the targeted area, poisoning foes. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир обещанием крепкого здоровья, исцеляя себя и получая регенерацию, а затем бросьте эликсир в выбранную область, отравляя врагов. Если вы находитесь в области действия эликсира, получите Blight."
 "Elixir. Infuse the magical essence of anguish into an elixir, gaining swiftness and quickness, and then toss the elixir at the targeted area, inflicting cripple on foes. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир магической сущностью мучений, получая быстроту и проворство, а затем бросьте эликсир в выбранную область, накладывая хромоту на врагов. Если вы находитесь в области действия эликсира, получите Blight."
 "Elixir. Infuse the magical essence of bliss into an elixir, gaining resolution and converting conditions on yourself into life force, and then toss the elixir at the targeted area, corrupting a boon on targets into a condition. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир магической сущностью блаженства, получая решимость и превращая состояния на себе в жизненную силу, а затем бросьте эликсир в выбранную область, превращая благословение на целях в состояние. Если вы находитесь в области действия эликсира, получите Blight."
@@ -281,29 +281,29 @@ Elixir of Risk,Elixir of Risk
 "Elixir. Infuse the magical essence of ignorance into an elixir, gaining resistance and protection and breaking stuns, and then toss the elixir at the targeted area, inflicting blindness on foes. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир магической сущностью невежества, чтобы получить сопротивляемость и протекцию, а также снять оглушение, а затем бросьте его в выбранную область, ослепляя врагов. Если вы находитесь в зоне действия эликсира, получите Порчу."
 "Elixir. Infuse the magical essence of risk into an elixir, gaining might and fury, and then toss the elixir at the targeted area, inflicting weakness on foes. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир магической сущностью риска, чтобы получить мощь и ярость, а затем бросьте его в выбранную область, накладывая слабость на врагов. Если вы находитесь в зоне действия эликсира, получите Порчу."
 "Elixir. Infuse your boundless ambition into an elixir, gaining every possible boon, and then toss the elixir at the targeted area, inflicting all damaging conditions on foes. If you are in the splash area of the elixir, gain Blight.","Эликсир. Наполните эликсир своим безграничным честолюбием, чтобы получить все возможные благословения, а затем бросьте его в выбранную область, накладывая все вредоносные состояния на врагов. Если вы находитесь в зоне действия эликсира, получите Порчу."
-Elutriate,Elutriate
-Embalming Barrage,Embalming Barrage
-Embalming Shot,Embalming Shot
-Ember Sweep,Ember Sweep
-Embrace the Darkness,Embrace the Darkness
+Elutriate,Элютриация
+Embalming Barrage,Бальзамирующий залп
+Embalming Shot,Бальзамирующий выстрел
+Ember Sweep,Угольный взмах
+Embrace the Darkness,Принятие тьмы
 Embue allies with protection.,Наделить союзников протекцией.
-Emergency Jade Shield,Emergency Jade Shield
+Emergency Jade Shield,Аварийный нефритовый щит
 Emit noxious fumes that poisons foes in the area. Poison duration is increased on disabled foes.,"Выпустить ядовитые пары, которые отравляют противников в области. Отравление длится дольше у выведенных из строя противников."
 Emits a damaging stench.,"Испускает зловоние, наносящее урон."
-Empathic Manipulation,Empathic Manipulation
-Empower,Empower
+Empathic Manipulation,Эмпатическая манипуляция
+Empower,Усиление
 Empowered Healing,Усиленное исцеление
 Empowered Phantasms Created,Созданы усиленные фантазмы
 Empowered Stun,Усиленное оглушение
-Empowering Blast,Empowering Blast
-Empowering Misery,Empowering Misery
+Empowering Blast,Усиливающий взрыв
+Empowering Misery,Усиливающее страдание
 Encase your hammer with earthen spikes to deliver a powerful blow.,Усилить свой молот каменными шипами и нанести мощный удар.
 Encase your target in a block of solid ice. Duration is increased per stack of Water Arrow.,Заключить вашу цель в кусок прочного льда. Длительность увеличивается за каждый стек умения Water Arrow.
-Enchanted Daggers,Enchanted Daggers
-End Death Shroud,End Death Shroud
+Enchanted Daggers,Зачарованные кинжалы
+End Death Shroud,Завершить саван смерти
 Ending Heal,Завершающее исцеление
-Endless Night,Endless Night
-Endothermic Shell,Endothermic Shell
+Endless Night,Бесконечная ночь
+Endothermic Shell,Эндотермическая оболочка
 Endurance Gain,Получение выносливости
 Endurance Gained,Полученная выносливость
 Endurance Regeneration Increase,Увеличение регенерации выносливости
@@ -313,55 +313,55 @@ Endurance per Hit,Выносливость за удар
 Endurance per Malice,Выносливость за злобу
 Endurance per Target,Выносливость за цель
 Endurance regeneration decreased by 50%%. 50%% of hits are Glancing Blows (50%% damage). Stacks duration.,Регенерация выносливости снижена на 50%%. 50%% попаданий становятся скользящими ударами (50%% урона). Длительность суммирования.
-Endure Pain,Endure Pain
-Enduring Pain,Enduring Pain
-Enduring Swing,Enduring Swing
+Endure Pain,Стойкость к боли
+Enduring Pain,Длительная боль
+Enduring Swing,Длительный взмах
 Enemies that impact a conduit will take extra damage and ricochet in another direction.,"Враги, столкнувшиеся с проводником, получат дополнительный урон и отскочат в другом направлении."
 Enemy Shadowstep Distance,Дистанция вражеского Шага сквозь тень
 Enemy Target Radius,Радиус вражеской цели
-Enemy Tile,Enemy Tile
+Enemy Tile,Вражеская плитка
 "Energies from Qadim and the pylon combine, causing a violent reaction.","Энергии Qadim и пилона соединяются, вызывая бурную реакцию."
-Energize,Energize
-Energized Affliction,Energized Affliction
-Energized Hologram,Energized Hologram
-Energizing Slam,Energizing Slam
+Energize,Энергизация
+Energized Affliction,Энергизированное страдание
+Energized Hologram,Энергизированная голограмма
+Energizing Slam,Энергизирующий удар
 Energy Cost,Затраты энергии
-Energy Eclipse,Energy Eclipse
-Energy Expulsion,Energy Expulsion
+Energy Eclipse,Энергетическое затмение
+Energy Expulsion,Выброс энергии
 Energy Gain,Прирост энергии
-Energy Meld,Energy Meld
-Energy Surge,Energy Surge
-Energy Torrent,Energy Torrent
-Energy Wave,Energy Wave
+Energy Meld,Энергетическое слияние
+Energy Surge,Энергетический всплеск
+Energy Torrent,Энергетический поток
+Energy Wave,Энергетическая волна
 Energy inflicts damage upon the wielder and their allies.,Энергия наносит урон владельцу и его союзникам.
 "Energy orbs erupt from Qadim and detonate upon landing, damaging and applying Unbridled Chaos to all foes.","Сферы энергии вырываются из Qadim и детонируют при приземлении, нанося урон и накладывая «Unbridled Chaos» на всех врагов."
 "Energy orbs overload Qadim, causing a power discharge that deals damage to all foes.","Сферы энергии перегружают Qadim, вызывая разряд энергии, наносящий урон всем врагам."
-Enervating Earth,Enervating Earth
-Enervation Blade,Enervation Blade
-Enervation Echo,Enervation Echo
-Enfeebled Force,Enfeebled Force
-Enfeebling Blood,Enfeebling Blood
-Enfeebling Maul,Enfeebling Maul
-Enfeebling Miasma,Enfeebling Miasma
-Enfeebling Roar,Enfeebling Roar
-Engage Photon Forge,Engage Photon Forge
-Engulfing Darkness,Engulfing Darkness
-Enhanced Destructive Aura,Enhanced Destructive Aura
+Enervating Earth,Обессиливающая земля
+Enervation Blade,Клинок обессиливания
+Enervation Echo,Эхо обессиливания
+Enfeebled Force,Ослабленная сила
+Enfeebling Blood,Ослабляющая кровь
+Enfeebling Maul,Ослабляющий удар
+Enfeebling Miasma,Ослабляющий миазм
+Enfeebling Roar,Ослабляющий рык
+Engage Photon Forge,Активировать фотонную кузницу
+Engulfing Darkness,Поглощающая тьма
+Enhanced Destructive Aura,Усиленная разрушительная аура
 Enhances Frost Bow abilities. Increases healing to others.,Усиливает способности Ледяного лука. Увеличивает исцеление других.
 Enhances nearby allies.,Усиливает ближайших союзников.
-Enraging Stomp,Enraging Stomp
-Entangle,Entangle
+Enraging Stomp,Разъяряющий топот
+Entangle,Опутать
 "Entangle all nearby foes with binding roots, preventing them from moving until the roots have been destroyed.","Опутывает всех ближайших врагов связывающими корнями, не давая им двигаться, пока корни не будут уничтожены."
-Entangling Asp,Entangling Asp
-Entangling Web,Entangling Web
+Entangling Asp,Опутывающая гадюка
+Entangling Web,Опутывающая паутина
 "Enter Harbinger Shroud, granting powerful offensive skills but leaving you vulnerable to attack.
 As you remain in Harbinger Shroud, you accumulate blight over time.
 <c=@reminder>Blight decreases your maximum health.</c>","Активируйте «Harbinger Shroud», чтобы получить мощные атакующие умения, но при этом вы станете уязвимы для атак.
 Пока действует «Harbinger Shroud», вы постепенно накапливаете скверну.
 <c=@reminder>Скверна уменьшает ваш максимальный запас здоровья.</c>"
-Enter Radiant Forge,Enter Radiant Forge
+Enter Radiant Forge,Войдите в Сияющую Кузню
 Enter Radiant Forge. The recharge time of this skill is reduced for each unused radiant weapon in shroud.,"Enter Radiant Forge. Время перезарядки этого умения уменьшается за каждое лучезарное оружие, которое не было использовано в саване."
-Enter Shadow Shroud,Enter Shadow Shroud
+Enter Shadow Shroud,Войдите в Теневой Саван
 "Entomb your foe, making them sink. Fire <c=@abilitytype>Crimson Tide</c> at your target multiple times.","Заточите врага, заставив его утонуть. Выпустите <c=@abilitytype>Crimson Tide</c> по вашей цели несколько раз."
 "Envelop target friend or foe with energy from the Mists. The energy explodes outward after a short delay or when manually detonated, granting barrier to nearby allies. The amount of barrier granted increases over time. If targeting an enemy, the aura also deals damage over time, and it does additional damage when the aura explodes based on how long the aura lasts.","Окутайте дружественную или враждебную цель энергией из Туманов. Энергия взрывается наружу после небольшой задержки или при ручной детонации, накладывая барьер на ближайших союзников. Количество накладываемого барьера увеличивается со временем. Если цель — враг, аура также наносит периодический урон, а при взрыве наносит дополнительный урон, зависящий от длительности действия ауры."
 Envelop yourself in a fiery shield that burns foes and grants might each time you are struck (cooldown of 1 second per attacker).,"Окружить себя огненным щитом, который поджигает противников и дарует вам мощь каждый раз, когда вам наносят удар (перезарядка 1 секунда на атакующего)."
@@ -370,44 +370,44 @@ Envelop yourself in a stony barrier that improves toughness.,"Окружить �
 "Envelop yourself in thorns, striking nearby enemies and gaining stability for a brief duration. Gain additional bonuses and Nature's Strength if you strike an enemy.","Оберните себя шипами, поражая ближайших врагов и получая устойчивость на короткое время. Получите дополнительные бонусы и Nature's Strength, если поразите врага."
 Envelop yourself with electrical energy that stuns nearby foes if they attack you. Each attacker can be affected by this only once every 2 seconds.,"Окружить себя электрической энергией, которая оглушает противников поблизости, если они вас атакуют. Каждый нападающий может быть поражен только один раз в 2 секунды."
 "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).","Окутан огненным щитом, который сжигает врагов и даёт мощь каждый раз, когда вас бьют (перезарядка 1 секунда на каждого атакующего)."
-Enveloping Haze,Enveloping Haze
-Envoy of Exuberance,Envoy of Exuberance
-Epidemic,Epidemic
-Equalizing Blow,Equalizing Blow
+Enveloping Haze,Окутывающая дымка
+Envoy of Exuberance,Посланник изобилия
+Epidemic,Эпидемия
+Equalizing Blow,Уравнивающий удар
 Equip a kit that gives you grenade skills.,"Достать снаряжение, которое замещает ваше оружие гранатами."
-Eroding Curse,Eroding Curse
-Eruption,Eruption
-Eruption Vent,Eruption Vent
-Eruption of Rot,Eruption of Rot
-Escape,Escape
+Eroding Curse,Разъедающее проклятие
+Eruption,Извержение
+Eruption Vent,Вентиляция извержения
+Eruption of Rot,Извержение гнили
+Escape,Побег
 Escape toward the surface and heal.,Всплыть прямо на поверхность и исцелиться.
-Essence Blast,Essence Blast
-Essence Sap,Essence Sap
-Essence of Animated Sand,Essence of Animated Sand
-Essence of Borrowed Time,Essence of Borrowed Time
-Essence of Liquid Wrath,Essence of Liquid Wrath
-Essence of Living Shadows,Essence of Living Shadows
+Essence Blast,Взрыв эссенции
+Essence Sap,Вытягивание эссенции
+Essence of Animated Sand,Эссенция ожившего песка
+Essence of Borrowed Time,Эссенция заемного времени
+Essence of Liquid Wrath,Эссенция жидкого гнева
+Essence of Living Shadows,Эссенция живых теней
 "Establish a defensive field, granting protection to allies in its area.","Создать защитное поле, дарующее протекцию союзникам в его области."
 "Etch a spell into the ground that creates a violent eruption. Using a number of other skills within this etching completes the spell, unlocking its full potential.","Выгравируйте заклинание на земле, создающее мощное извержение. Использование ряда других навыков в пределах этой гравировки завершает заклинание, раскрывая его полный потенциал."
 "Etch a spell into the ground that invokes a glacial flood. Using a number of other skills within this etching completes the spell, unlocking its full potential.","Выгравируйте заклинание на земле, вызывающее ледниковый поток. Использование ряда других навыков в пределах этой гравировки завершает заклинание, раскрывая его полный потенциал."
 "Etch a spell into the ground that summons an intense windstorm. Using a number of other skills within this etching completes the spell, unlocking its full potential.","Выгравируйте заклинание на земле, призывающее сильный шторм. Использование ряда других навыков в пределах этой гравировки завершает заклинание, раскрывая его полный потенциал."
 "Etch a spell into the ground that unleashes a devastating dust storm. Using a number of other skills within this etching completes the spell, unlocking its full potential.","Выгравируйте заклинание на земле, высвобождающее разрушительную пыльную бурю. Использование ряда других навыков в пределах этой гравировки завершает заклинание, раскрывая его полный потенциал."
-Etching: Derecho,Etching: Derecho
-Etching: Haboob,Etching: Haboob
-Etching: Jökulhlaup,Etching: Jökulhlaup
-Etching: Volcano,Etching: Volcano
-Eternal Bond,Eternal Bond
-Eternal Champion,Eternal Champion
-Eternal Night,Eternal Night
-Eternity's Requiem,Eternity's Requiem
-Ether Barrage,Ether Barrage
-Ether Blast,Ether Blast
-Ether Bolt,Ether Bolt
-Ether Clone,Ether Clone
-Ether Feast,Ether Feast
-Ether Renewal,Ether Renewal
-Ether Strikes,Ether Strikes
-Ethereal Chop,Ethereal Chop
+Etching: Derecho,Гравировка: Деречо
+Etching: Haboob,Гравировка: Хабуб
+Etching: Jökulhlaup,Гравировка: Йёкульхлёйп
+Etching: Volcano,Гравировка: Вулкан
+Eternal Bond,Вечные узы
+Eternal Champion,Вечный чемпион
+Eternal Night,Вечная ночь
+Eternity's Requiem,Реквием вечности
+Ether Barrage,Эфирный шквал
+Ether Blast,Эфирный взрыв
+Ether Bolt,Эфирный болт
+Ether Clone,Эфирный клон
+Ether Feast,Эфирный пир
+Ether Renewal,Эфирное обновление
+Ether Strikes,Эфирные удары
+Ethereal Chop,Эфирный удар
 Evade,Уклонение
 Evade Distance,Дистанция уклонения
 Evade all attacks.,Уклоняйтесь от всех атак.
@@ -419,87 +419,87 @@ Evade incoming attacks.,Уклоняйтесь от входящих атак.
 Evade while delivering a powerful final attack.,"Уклониться, проведя мощную завершающую атаку."
 "Evade your foe and then strike, dealing increased damage from the side or behind.","Уклонитесь от врага и нанесите удар, нанося повышенный урон сбоку или сзади."
 Evasion Duration While Swinging,Длительность уклонения во время взмаха
-Evasive Strike,Evasive Strike
+Evasive Strike,Уклоняющий удар
 Evasive Strike Damage,Урон уклоняющего удара
-Eviscerate,Eviscerate
-Evolve,Evolve
-Evolved,Evolved
-Exalted Hammer,Exalted Hammer
-Executioner's Calling,Executioner's Calling
-Executioner's Scythe,Executioner's Scythe
-Exhaust Plume,Exhaust Plume
-Exit Harbinger Shroud,Exit Harbinger Shroud
-Exit Radiant Forge,Exit Radiant Forge
-Exit Reaper's Shroud,Exit Reaper's Shroud
-Exit Ritualist's Shroud,Exit Ritualist's Shroud
-Exit Shadow Shroud,Exit Shadow Shroud
+Eviscerate,Потрошение
+Evolve,Эволюция
+Evolved,Эволюционировавший
+Exalted Hammer,Возвышенный молот
+Executioner's Calling,Призыв палача
+Executioner's Scythe,Коса палача
+Exhaust Plume,Выхлопной шлейф
+Exit Harbinger Shroud,Выход из савана предвестника
+Exit Radiant Forge,Выход из сияющей кузни
+Exit Reaper's Shroud,Выход из савана жнеца
+Exit Ritualist's Shroud,Выход из савана ритуалиста
+Exit Shadow Shroud,Выход из теневого савана
 Exit berserk mode.,Выход из режима берсерка.
 "Exit your shadow shroud, breaking the tether between you and your ally.","Выйдите из своего теневого савана, разрывая связь между вами и вашим союзником."
-Explode,Explode
+Explode,Взорвать
 Explode a bone minion.,Взорвать костяного миньона.
 Explodes in an eruption of energy that deals massive damage to all foes.,"Взрывается извержением энергии, нанося огромный урон всем врагам."
 Explodes upon impact.,Взрывается при ударе.
 "Explodes when an enemy enters proximity, dealing heavy damage.","Взрывается, когда враг приближается, нанося тяжёлый урон."
 Explodes with astral energy.,Взрывается астральной энергией.
 "Explodes, floating and damaging nearby enemies.","Взрывается, подбрасывая и повреждая ближайших врагов."
-Exploding Spores,Exploding Spores
-Explosion,Explosion
+Exploding Spores,Взрывающиеся споры
+Explosion,Взрыв
 Explosion Damage,Урон от взрыва
 Explosion Radius,Радиус взрыва
 Explosions of sand damage and blind enemies.,Песчаные взрывы наносят урон и ослепляют врагов.
-Explosive Entrance,Explosive Entrance
-Explosive Knuckle,Explosive Knuckle
-Explosive Lava Axe,Explosive Lava Axe
-Explosive Longshot,Explosive Longshot
-Explosive Rockets,Explosive Rockets
-Explosive Shell,Explosive Shell
-Explosive Thrust,Explosive Thrust
-Explosive Uppercut,Explosive Uppercut
+Explosive Entrance,Взрывное появление
+Explosive Knuckle,Взрывной кулак
+Explosive Lava Axe,Взрывной лавовый топор
+Explosive Longshot,Взрывной дальний выстрел
+Explosive Rockets,Взрывные ракеты
+Explosive Shell,Взрывной снаряд
+Explosive Thrust,Взрывной рывок
+Explosive Uppercut,Взрывной апперкот
 Explosively damaging attack.,"Взрывная атака, наносящая урон."
-Exponential Repercussion,Exponential Repercussion
+Exponential Repercussion,Экспоненциальный отголосок
 "Expose your enemies, inflicting vulnerability in an area.","Раскройте своих врагов, накладывая уязвимость по области."
 Extended Duration Increase,Увеличение длительности
-Extirpate,Extirpate
-Extirpation,Extirpation
+Extirpate,Искоренение
+Extirpation,Истребление
 Extra Impacts,Дополнительные удары
 Extra Strikes per Target,Дополнительные удары по цели
-Eye Beam,Eye Beam
-Eye Blast,Eye Blast
-Face Smash,Face Smash
-Facet of Chaos,Facet of Chaos
-Facet of Elements,Facet of Elements
-Facet of Light,Facet of Light
-Facet of Nature,Facet of Nature
-Facet of Nature—Assassin,Facet of Nature—Assassin
-Facet of Nature—Centaur,Facet of Nature—Centaur
-Facet of Nature—Demon,Facet of Nature—Demon
-Facet of Nature—Dragon,Facet of Nature—Dragon
-Facet of Nature—Dwarf,Facet of Nature—Dwarf
-Facet of Strength,Facet of Strength
-Fading Twilight,Fading Twilight
+Eye Beam,Луч из глаза
+Eye Blast,Глазной взрыв
+Face Smash,Удар в лицо
+Facet of Chaos,Грань хаоса
+Facet of Elements,Грань стихий
+Facet of Light,Грань света
+Facet of Nature,Грань природы
+Facet of Nature—Assassin,Грань природы — Ассасин
+Facet of Nature—Centaur,Грань природы — Кентавр
+Facet of Nature—Demon,Грань природы — Демон
+Facet of Nature—Dragon,Грань природы — Дракон
+Facet of Nature—Dwarf,Грань природы — Дварф
+Facet of Strength,Грань силы
+Fading Twilight,Угасающие сумерки
 Failing to absorb Hailstorm results in heavy arena-wide damage.,Неспособность поглотить Градовый шторм приводит к мощному урону по всей арене.
-Faithful Strike,Faithful Strike
-Falcon's Stoop,Falcon's Stoop
-Fall of the Axe,Fall of the Axe
-Falling Debris,Falling Debris
-Falling Ice,Falling Ice
-Falling Spider,Falling Spider
-False Oasis,False Oasis
-Fan of Fire,Fan of Fire
-Fang Grapple,Fang Grapple
+Faithful Strike,Верный удар
+Falcon's Stoop,Пикирование сокола
+Fall of the Axe,Падение топора
+Falling Debris,Падающие обломки
+Falling Ice,Падающий лед
+Falling Spider,Падающий паук
+False Oasis,Ложный оазис
+Fan of Fire,Веер огня
+Fang Grapple,Захват клыком
 "Fear overtakes the mind, wracking the body with incredible pain. Targets closer to the source of Terrorstorm take increased damage.","Страх овладевает разумом, терзая тело невероятной болью. Цели, находящиеся ближе к источнику Шторма ужаса, получают увеличенный урон."
-Feast,Feast
-Feast of Corruption,Feast of Corruption
-Featherfoot Grace,Featherfoot Grace
-Feedback,Feedback
-Feeding Frenzy,Feeding Frenzy
-Feigned Surge,Feigned Surge
-Fermented Explosion,Fermented Explosion
-Fetid Fog,Fetid Fog
-Fetid Ground,Fetid Ground
+Feast,Пир
+Feast of Corruption,Пир порчи
+Featherfoot Grace,Грация лёгкой поступи
+Feedback,Обратная связь
+Feeding Frenzy,Пиршество
+Feigned Surge,Ложный рывок
+Fermented Explosion,Бродильный взрыв
+Fetid Fog,Зловонный туман
+Fetid Ground,Зловонная земля
 Field Damage,Урон по области
 Field Duration,Длительность поля
-Field of the Mists,Field of the Mists
-Fierce Blow,Fierce Blow
-Fierce Shot,Fierce Shot
-Fiery Eruption,Fiery Eruption
+Field of the Mists,Область Туманов
+Fierce Blow,Свирепый удар
+Fierce Shot,Свирепый выстрел
+Fiery Eruption,Огненное извержение

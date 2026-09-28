@@ -10,11 +10,11 @@ Research Pod,Исследовательская капсула
 Research Project,Исследовательский проект
 Research pods,Исследовательские капсулы
 Researched %num1%/%num2% Upgrades,Исследовано %num1%/%num2% улучшений
-Researcher Dellia,Researcher Dellia
-Researcher Kokoris,Researcher Kokoris
-Researcher Lanni,Researcher Lanni
-Researcher Soomin,Researcher Soomin
-Researcher Vera,Researcher Vera
+Researcher Dellia,Исследовательница Деллия
+Researcher Kokoris,Исследователь Кокорис
+Researcher Lanni,Исследовательница Ланни
+Researcher Soomin,Исследователь Сумин
+Researcher Vera,Исследовательница Вера
 Researchers Rescued,Исследователи спасены
 Reset the randomizer.,Сбросьте генератор случайных чисел.
 Residue Transform,Преобразование остатка
@@ -35,7 +35,7 @@ Resuming conversation mode.,Возобновление режима общени
 Resynchronize,Пересинхронизировать
 Reta,Рета
 Retake Overlake Haven from the Risen.,Отвоюйте Overlake Haven у восставших.
-Reth,Reth
+Reth,Рет
 "Retreat, firing a shot as you go.","Отступите, стреляя на ходу."
 Retreating.,Отступление.
 Retrieve Forgotten lights to decrypt.,Заберите огни Забытых для расшифровки.
@@ -65,7 +65,7 @@ Return to Divinity's Reach and speak to Captain Thackeray.,Вернитесь в
 Return to Fort Trinity and join the victory celebration.,Вернитесь в Fort Trinity и присоединитесь к празднованию победы.
 Return to Fort Trinity to study the Eye of Zhaitan.,"Вернитесь в Fort Trinity, чтобы изучить Eye of Zhaitan."
 Return to Nenah.,Вернитесь к Нене.
-Return to Secrets of the Obscure,Return to Secrets of the Obscure
+Return to Secrets of the Obscure,Вернуться в Тайнах Сокрытого
 Return to Timin.,Вернитесь к Тимину.
 "Return to dust, my friend.","Обратись в прах, мой друг."
 Return to the Forward Bivouac,Вернуться на передовой бивак
@@ -124,10 +124,10 @@ Revives allies or finishes off foes on your behalf.,Воскрешает сою�
 Reviving allies counts toward the Skyscale of Life achievement.,Воскрешения союзников засчитываются в достижение «Skyscale of Life».
 Reward Track Completed,Наградной трек завершён
 Rheoln,Реолн
-Rian,Rian
+Rian,Риан
 Rianna,Рианна
 Riannoc's Grave,Могила Рианнока
-Riba Crushheart,Riba Crushheart
+Riba Crushheart,Риба Раздавитель Сердец
 Rich Clump[s] of Ore,Богат[ый комок руды|ых комка руды|ых комков руды]
 Ride the Mistfire,Прокатись на туманном огне
 "Ride the lightning to your foe, then strike all nearby foes with an electrical burst.","Направьте молнию к врагу, затем поразите всех ближайших врагов электрическим разрядом."
@@ -158,9 +158,9 @@ Ripped Pelt[s],Рваная шкурка[|и|ок]
 Ripped from its home by the unstable magic of the reactor.,Вырвана из родного дома нестабильной магией реактора.
 Rise and serve.,Восстань и служи.
 Risen Drake Broodmother[s],[Мать|Матери|Матерей] выводка восставших дрейков
-Risen Drake Hatchling,Risen Drake Hatchling
+Risen Drake Hatchling,Детёныш дрейка-восставшего
 Risen Gorilla[s],Восставш[ая горилла|ие гориллы|их горилл]
-Risen Villager,Risen Villager
+Risen Villager,Восставший житель деревни
 Risen mob strength: %num1%%%,Сила орды восставших: %num1%%%
 "Rite of the Great Dwarf reduces damage by an additional amount. When struck below the health threshold, cast Rite of the Great Dwarf. Gain power based on your toughness.",Rite of the Great Dwarf дополнительно снижает урон. При ударе ниже порога здоровья применяет Rite of the Great Dwarf. Получает силу в зависимости от вашей стойкости.
 Ritual Bag[s],Ритуальн[ый мешок|ых мешка|ых мешков]
@@ -189,7 +189,7 @@ Rocks,Камни
 Rocks and mountains.,Скалы и горы.
 Rocks and stones will break your bones.,Камни и булыжники переломают твои кости.
 Rode the Branded Tornado,Прокатился на клеймёном торнадо
-Rodex Rustpaw,Rodex Rustpaw
+Rodex Rustpaw,Родекс Ржавая Лапа
 Rodion the Vile: (roar),Родион Мерзкий: (рычит)
 Rogue,Изгой
 Rogues%num1%,Изгои%num1%
@@ -216,7 +216,7 @@ Rox and Braham Living Story Instances Completed,Эпизоды Живого ми
 Rox: Avenger of the Dispossessed,Рокс: Мстительница обездоленных
 Rox: I will.,Рокс: Хорошо.
 Rox: It chose me.,Рокс: Он выбрал меня.
-Royal Decree,Royal Decree
+Royal Decree,Королевский указ
 Rugga the Gruff,Ругга Грубиян
 Rugged Leather Strap[s],Прочн[ый кожаный ремешок|ых кожаных ремешка|ых кожаных ремешков]
 Ruined Ore Chunk[s],[Кусок|Куска|Кусков] разрушенной руды
@@ -249,8 +249,8 @@ Ruvarg,Рувараг
 Rytandor Blightcaller,Ритандор Заклинатель Порчи
 Rytlock: Chose a new pet?,Rytlock: Выбрал нового питомца?
 "Rytlock—as blunt as always—wrote and asked me to meet him at the Hero's Canton to check in on an urgent situation. Given that I'm not especially busy, I'm on my way.","Rytlock — как всегда прямолинейный — написал и попросил встретиться с ним в Кантоне Героя, чтобы разобраться со срочной ситуацией. Раз уж я не особо занят, иду туда."
-SCRAP 80-T,SCRAP 80-T
-SERV,SERV
+SCRAP 80-T,МЕТАЛЛОЛОМ 80-T
+SERV,СЕРВ
 Saartje,Саартье
 Sabinus Cointooth,Сабинус Монетозуб
 Sabotage Strike,Диверсионный удар
@@ -272,11 +272,11 @@ Sacrifices have to be made. It's worth losing a few thousand lives to save a mil
 "Sadly, you can't take it with you.","К сожалению, с собой не заберёшь."
 Safe from harm.,В безопасности.
 Safely Navigated the Basilica Crypt,Благополучно преодолел склеп базилики
-Sage Bombmaker,Sage Bombmaker
-Sage Essher,Sage Essher
-Sage Laural,Sage Laural
-Sage Salim,Sage Salim
-Sage Zende,Sage Zende
+Sage Bombmaker,Мудрец-подрывник
+Sage Essher,Мудрец Эшшер
+Sage Laural,Мудрец Лаураль
+Sage Salim,Мудрец Салим
+Sage Zende,Мудрец Зенде
 Sage Zende is trying to activate the Northwatch pylons to recall enchanted armors for Tarir.,"Sage Zende пытается активировать пилоны Северного Дозора, чтобы отозвать зачарованные доспехи для Tarir."
 Salanda,Саланда
 Salim,Салим
@@ -297,7 +297,7 @@ Sample of Raw Ley Magic,Образец необработанной лей-ма�
 Sample of Raw Seer Magic,Образец необработанной магии провидцев
 Sample[s] of Hylek Poison,Образ[ец|ца|цов] яда хилеков
 Sampled %num1%/%num2% Dishes,Дегустировано %num1%/%num2% блюд
-Sand Shade,Sand Shade
+Sand Shade,Песчаная тень
 "Sand, shield us!","Песок, укрой нас!"
 Sandcastle Site,Место замка из песка
 Sandstorm? What's that?,Песчаная буря? Это ещё что?
@@ -306,7 +306,7 @@ Sandswept Isles Race Completed,Гонка на Sandswept Islesх заверше�
 Sanity is but a mirage.,Здравомыслие — всего лишь мираж.
 Sannagan the Sloshed,Саннаган Хмельной
 Sap Blob[s],[Комок|Комка|Комков] смоляного сгустка
-Sapping Device,Sapping Device
+Sapping Device,Истощающее устройство
 Sarge,Сардж
 "Sarthel, Concealing Truth","Сартель, Скрывающая Правду"
 Sarya the Droll,Сарья Пустомеля
@@ -357,16 +357,16 @@ Scavenge for supplies %num2% times.,Обыщите местность на пр�
 Scavenger,Мусорщик
 Scent Masker,Маскирующий запах
 Schala,Скала
-Scholar Benita,Scholar Benita
+Scholar Benita,Учёная Бенита
 Scholar Brogun is headed to the Maw to investigate the grawl.,"Scholar Brogun направляется к Пасти, чтобы разобраться с граулами."
-Scholar Caterin,Scholar Caterin
-Scholar Debb,Scholar Debb
-Scholar Decima Preystalker,Scholar Decima Preystalker
+Scholar Caterin,Учёная Катерин
+Scholar Debb,Учёная Дэбб
+Scholar Decima Preystalker,Учёная Десима Ловец Добычи
 Scholar Jayna reported an oxidized copper deposit on the face of a cliff east of the Deepwood Outpost.,Учёная Джейна сообщила о залежи окислившейся меди на склоне утёса к востоку от Аванпоста Дебрей.
-Scholar Murro,Scholar Murro
-Scholar Renato,Scholar Renato
-Scholar Taryn,Scholar Taryn
-Scholar Trueclaw,Scholar Trueclaw
+Scholar Murro,Учёный Мурро
+Scholar Renato,Учёный Ренато
+Scholar Taryn,Учёная Тарин
+Scholar Trueclaw,Учёный Верный Коготь
 Scorch them!,Опалите их!
 Scorch warband assisted.,Помощь оказана боевому отряду Скорч.
 Scorched Corn,Обугленная кукуруза
@@ -374,10 +374,10 @@ Scorcher,Опалитель
 Score %num2% kegs in keg brawl.,Наберите %num2% бочонков в бочковой потасовке.
 Score one for me!,Очко в мою пользу!
 Scour for Seer Relics,Обыщите всё в поисках реликвий провидцев
-Scout,Scout
-Scout Acan,Scout Acan
-Scout Keiji,Scout Keiji
-Scout Mundi,Scout Mundi
+Scout,Разведчик
+Scout Acan,Разведчик Акан
+Scout Keiji,Разведчик Кейджи
+Scout Mundi,Разведчик Мунди
 Scout's Overlook,Обзорная точка разведчика
 Scouted %num1%/%num2% Locations of Interest,Разведано %num1%/%num2% интересных мест
 Scouts reported a saltpeter deposit at the eastern edge of the Ley-Drowned Quarry.,Разведчики сообщили о залежи селитры на восточном краю Затопленного Лей-Карьера.
@@ -387,7 +387,7 @@ Scrawled Notes,Нацарапанные заметки
 "Scroll 2, Verse 2 (Encrypted)","Свиток 2, стих 2 (зашифровано)"
 "Scroll 2, Verse 3 (Encrypted)","Свиток 2, стих 3 (зашифровано)"
 Scroll Case,Футляр для свитка
-Scylla Rustcloud,Scylla Rustcloud
+Scylla Rustcloud,Сцилла Ржавая Туча
 Scyllix,Сциллекс
 Seal Rift,Запечатать разлом
 Seal the rift to the Mists,Запечатайте разлом в Туманы
@@ -425,8 +425,8 @@ Searing flesh from bone!,Обжигающая плоть до кости!
 Seaside Scholar's Shades[s],Оч[ки|ков|ков] прибрежного учёного
 Seasoned Harpoon[s],Приправленн[ый гарпун|ых гарпуна|ых гарпунов]
 Sebastian,Себастьян
-Second Brazier Lit,Second Brazier Lit
-Second Ley Hub,Second Ley Hub
+Second Brazier Lit,Вторая жаровня зажжена
+Second Ley Hub,Второй лей-узел
 Second Lieutenant Geigal has retreated.,Младший лейтенант Гейгал отступил.
 Secrets of the Obscure Launch Supply Drop: Week One Delivery,Стартовая посылка припасов Тайн Сокрытого: доставка первой недели
 Secrets of the Obscure Mastery Insight,Прозрение мастерства Secrets of the Obscure
@@ -488,14 +488,14 @@ Send out a scythe that bounces between foes and allies. Causes vulnerability on 
 Send out grasping claws to damage your enemies.,"Выпустите хватающие когти, чтобы нанести урон врагам."
 "Send the energy of Glint toward the target area, granting protection to allies before releasing a burst of energy that heals allies and granting protection again when it returns to you.","Направьте энергию Glint в целевую область, давая протекцию союзникам перед высвобождением всплеска энергии, который исцеляет союзников и снова даёт протекцию, вернувшись к вам."
 "Seneca the Jailer and I took Forktail back from the Flame Legion. I had a tough decision to make: go with Vallus to disrupt the Flame Legion ritual threatening the Black Citadel brass, or lock Vallus up again and defend the tribunes and imperator personally. I made my choice, and now I have to make sure that no harm comes to the High Legions' leaders.","Мы с Сенекой Тюремщицей отбили Форктейла у Flame Legion. Мне предстоял непростой выбор: пойти с Валлусом, чтобы сорвать ритуал Flame Legion, угрожающий верхушке Black Citadel, или снова запереть Валлуса и лично защитить трибунов и императора. Я сделал выбор, и теперь должен проследить, чтобы с лидерами Высших Легионов ничего не случилось."
-Seneca the Relentless,Seneca the Relentless
-Sentinel Scalefist,Sentinel Scalefist
-Sentinel Scalemonger,Sentinel Scalemonger
-Sentinel Smash,Sentinel Smash
-Sentinel Swiftwrench,Sentinel Swiftwrench
+Seneca the Relentless,Сенека Безжалостная
+Sentinel Scalefist,Страж Чешуйчатый Кулак
+Sentinel Scalemonger,Страж Чешуйчатый Торговец
+Sentinel Smash,Сокрушение стража
+Sentinel Swiftwrench,Страж Быстрый Гаечный Ключ
 Sentries spotted that traitor Rage Steeltongue in the citadel.,Часовые заметили предателя Ярость Стальной Язык в цитадели.
 Senwynna,Сенвинна
-Separatist Bow,Separatist Bow
-Separatist Envoy,Separatist Envoy
-Separatist Hammer,Separatist Hammer
-Separatist Sorcerer Dagger,Separatist Sorcerer Dagger
+Separatist Bow,Лук сепаратистов
+Separatist Envoy,Посланник сепаратистов
+Separatist Hammer,Молот сепаратистов
+Separatist Sorcerer Dagger,Кинжал чародея сепаратистов

@@ -1,7 +1,7 @@
 english,translate
 Isn't traveling wonderful?,Разве путешествия – это не прекрасно?
 Isn't. Threatening. You!,Разве это угроза?
-Isobel,Isobel
+Isobel,Изобель
 "Issormir's corpse has been chewed on by animals and birds, but it will remain frozen here until the thaw. Its magic lingers as well.","Труп Иссормира был обглодан животными и птицами, но он останется здесь, замерзшим, до наступления оттепели. Его магия все ещё ощущается."
 Issvano's Bombardment,Бомбардировка Иссавано
 "Issvano, Avatar of the All Seer","Иссавано, Аватар Всевидящего."
@@ -58,7 +58,7 @@ It looks perfectly...normal.,Вполне обычно.
 It must really want that bait. Here it comes!,"Должно быть, ему очень хочется этой приманки. Вот он идет!"
 "It reads, ""I will prove my strength to Jormag by defeating the strongest fighters in the world. If you consider yourself among them, accept my challenge and face me.""","Я докажу свою силу Jormag, победив сильнейших воинов в мире. Если ты считаешь себя одним из них, прими мой вызов и сразись со мной."
 It saddens me to see the wreckage hanging in the sky.,"Мне грустно видеть обломки, повисшие в небе."
-"It says, ""%str1%.""","Говорится: «%str1%»."
+"It says, ""%str1%.""",Говорится: «%str1%».
 It seems I underestimated you.,"Похоже, я недооценил тебя."
 It seems like Scarlet used this area to assemble a variety of different objects. Her tools could be used to assemble some of your own.,"Похоже, Scarlet использовала эту область для сборки различных предметов. Её инструменты можно использовать и для создания собственных вещей."
 "It seems strange to find bandits this far south, but here they are—and in large numbers, too. Willem's group tries to steal our supplies when they aren't harassing the local skritt. If that wasn't bad enough, Scotta's bunch have taken control of the route to the west. Between you and me, we have no idea what those thugs are up to out there.","Странно встретить бандитов так далеко на юге, но они здесь, и их довольно много. Группа Виллема пытается украсть наши припасы, а в остальное время издевается над местными скриттами. И как будто этого недостаточно, банда Скотты захватила контроль над дорогой на запад. Если честно, мы понятия не имеем, что эти головорезы там замышляют."
@@ -209,7 +209,7 @@ It's the charr. To arms!,Это чарр! К оружию!
 "It's the least the ward can do, given that we're partially responsible for them even existing.","Это самое малое, что может сделать стража, учитывая, что мы частично ответственны за их существование."
 "It's the most beautiful, wonderful market I've ever seen. I...I need a moment.","Это самый красивый и чудесный рынок, который я когда-либо видел. Мне... мне нужно немного времени."
 It's the way she talks to it. Like it's another asura. I think she would give her life for that thing if it came down to it.,"Ей нравится, как она с ним разговаривает. Словно это ещё один асура. Думаю, ради него она отдаст жизнь, если придётся."
-"It's time I introduced you to my ""cousin.""","Пора познакомить тебя со своим «кузеном»."
+"It's time I introduced you to my ""cousin.""",Пора познакомить тебя со своим «кузеном».
 "It's time for you to fight me! Can't you feel it in the wind? You're ripe for it, and I'm ready to share my knowledge with you. The spirits have brought us both here. I've waited long for this day. Are you ready?","Пришло время тебе сразиться со мной! Разве ты не чувствуешь этого в ветре? Ты созрел для этого, и я готов поделиться с тобой своими знаниями. Духи привели нас обоих сюда. Я долго ждал этого дня. Ты готов?"
 It's time we settled this.,Пора положить этому конец.
 "It's time, Wayfinder. We gather at the camp to discuss our strategy. Come when you are able.","Пришло время, Искатель Путей. Мы собираемся в лагере, чтобы обсудить нашу стратегию. Приходите, когда сможете."
@@ -252,8 +252,8 @@ Ix,Икс
 Ixanna,Иксанна
 Ixxa,Икса
 Izem won! I'm so happy.,Изем победила! Я так рад(а).
-Izu Steelshrike,Izu Steelshrike
-Izurri,Izurri
+Izu Steelshrike,Изу Стальной Удар
+Izurri,Изурри
 "I—I truly thought I'd never see the Astral Ward set foot on these shores. They can't be here for me, can they?","Я… я и представить себе не мог, что когда-нибудь увижу отряд Astral Ward на этих берегах. Неужели они пришли за мной?"
 I—am—equipped—with—all—basic—social—interactions.,Я—оснащён—всеми—базовыми—социальными—навыками.
 I—am—online.,Я—онлайн.
@@ -270,7 +270,7 @@ Jackdaw Captain,Капитан «Галки»
 Jackdaw Sniper,Снайпер Галка
 Jackpot! These guys are no match for professionals. They fall all over themselves.,Джекпот! Эти ребята — не чета профессионалам. Сами лезут на рожон.
 Jade Abyss,Изумрудная Безддна
-Jade Behemoth,Jade Behemoth
+Jade Behemoth,Нефритовый Бегемот
 Jade Behemoth Recharging,Нефритовый бегемот восстанавливает силы.
 Jade Blast,Изумрудный взрыв
 Jade Bot Dispenser,Диспенсер с нефритовыми ботами
@@ -360,7 +360,7 @@ Jaynes,Джеймс
 Jeden Stein umgedreht,Один камень перевернут.
 Jeger,Егерь
 Jen,Джен
-Jenk Cutspecter,Jenk Cutspecter
+Jenk Cutspecter,Дженк Катспектер
 Jennah didn't listen. Trin... A disappointment.,Jennah не послушалась. Трин... Разочарование.
 "Jennah is safe. I should be happy, yet I feel empty inside.","Jennah в безопасности. Я должен радоваться, но чувствую себя опустошенным."
 Jennah! Look out!,Дженна! Осторожно!

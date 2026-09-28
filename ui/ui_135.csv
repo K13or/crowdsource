@@ -232,7 +232,7 @@ Special Objective: 3 Points,Спецзадача: 3 очка
 Special Ops Armor Skins,Облики брони спецназа
 Special Ops Boots,Сапоги спецназа
 Special Ops Captain's Helmet Skin[s],[Облик|Облика|Обликов] шлема капитана спецназа
-Special Ops Chestpiece,Special Ops Chestpiece
+Special Ops Chestpiece,Нагрудник спецназа
 Special Ops Gloves,Перчатки спецназа
 Special Ops Harness,Сбруя спецназа
 Special Ops Heavy Boots Skin[s],[Облик|Облика|Обликов] тяжёлых сапог спецназа
@@ -241,7 +241,7 @@ Special Ops Heavy Gloves Skin[s],[Облик|Облика|Обликов] тяж
 Special Ops Heavy Helm Skin[s],[Облик|Облика|Обликов] тяжёлого шлема спецназа
 Special Ops Heavy Pants Skin[s],[Облик|Облика|Обликов] тяжёлых поножей спецназа
 Special Ops Heavy Pauldrons Skin[s],[Облик|Облика|Обликов] тяжёлых наплечников спецназа
-Special Ops Helmet,Special Ops Helmet
+Special Ops Helmet,Шлем спецназа
 Special Ops Light Boots Skin[s],[Облик|Облика|Обликов] лёгких сапог спецназа
 Special Ops Light Chestpiece Skin[s],[Облик|Облика|Обликов] лёгкого нагрудника спецназа
 Special Ops Light Gloves Skin[s],[Облик|Облика|Обликов] лёгких перчаток спецназа
@@ -254,8 +254,8 @@ Special Ops Medium Gloves Skin[s],[Облик|Облика|Обликов] ср�
 Special Ops Medium Helm Skin[s],[Облик|Облика|Обликов] среднего шлема спецназа
 Special Ops Medium Pants Skin[s],[Облик|Облика|Обликов] средних штанов спецназа
 Special Ops Medium Pauldrons Skin[s],[Облик|Облика|Обликов] средних наплечников спецназа
-Special Ops Pants,Special Ops Pants
-Special Ops Pauldrons,Special Ops Pauldrons
+Special Ops Pants,Штаны Спецопераций
+Special Ops Pauldrons,Наплечники Спецопераций
 Special Ops Requisition[s]: Boots,[Запрос|Запроса|Запросов] спецназа: сапоги
 Special Ops Requisition[s]: Chestpiece,[Запрос|Запроса|Запросов] спецназа: нагрудник
 Special Ops Requisition[s]: Gloves,[Запрос|Запроса|Запросов] спецназа: перчатки
@@ -466,11 +466,11 @@ Spinal Blades Blueprint Scrap[s] (1/4),[Обломок|Обломка|Облом
 Spinal Blades Blueprint Scrap[s] (2/4),[Обломок|Обломка|Обломков] чертежа спинных лезвий (2/4)
 Spinal Blades Blueprint Scrap[s] (3/4),[Обломок|Обломка|Обломков] чертежа спинных лезвий (3/4)
 Spinal Blades Blueprint Scrap[s] (4/4),[Обломок|Обломка|Обломков] чертежа спинных лезвий (4/4)
-"Spindrift Weapon Box[pl:""Boxes""]","Коробка с оружием «Морской бриз»[|и|а]"
+"Spindrift Weapon Box[pl:""Boxes""]",Коробка с оружием «Морской бриз»[|и|а]
 Spineback Crab[s],Колючеспинный краб[|а|ов]
 Spinel Lump[s],[Кусок|Куска|Кусков] шпинели
 Spinel Nugget[s],[Самородок|Самородка|Самородков] шпинели
-Spineshell Impaler,Spineshell Impaler
+Spineshell Impaler,Колючепанцирный пронзатель
 Spineshell Roller Beetle Skin[s],[Облик|Облика|Обликов] кругложука «Панцирный шип»
 Spinning Assault,Вращающийся штурм
 Spinning Attack,Вращающаяся атака

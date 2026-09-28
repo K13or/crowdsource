@@ -1119,8 +1119,12 @@ def cmd_frombatches(a):
     for en, ru in human_pairs().items():
         h = fnv1a_u16(en)
         tgt = route.get(h, "основной")
-        if h in pn_ru and not LAYER_BLIND.search(en) and ru.strip() != en.strip():
-            ru = en
+        # До 2026-09-28 здесь в категорию принудительно ставился английский,
+        # если строку держит слой: «русскую форму подставит слой». В игре это
+        # не так — запись категории, пусть английская, перекрывает слой, и
+        # игрок видел оригинал при любых настройках (78 624 названия). Теперь
+        # категория получает то, что в батче; счётчик оставлен для отчёта.
+        if h in pn_ru and not LAYER_BLIND.search(en) and ru.strip() == en.strip():
             forced += 1
         old_cats = where.get(h, ())
         old = None
@@ -1161,7 +1165,7 @@ def cmd_frombatches(a):
           % (add, chg, move))
     print("слой имён: добавить %d | поправить %d" % (pn_add, pn_chg))
     if forced:
-        print("в тексте оставлен английский, русскую форму держит слой: %d" % forced)
+        print("в категории оригинал, а русскую форму держит только слой (мод покажет английский): %d" % forced)
     print("в bin, но ни в одном батче: обычных %d, слоя %d%s"
           % (len(drop), len(pn_drop),
              " — будут удалены" if a.prune else " (оставляем; удалить: --prune)"))

@@ -1,6 +1,6 @@
 english,translate
 Supply Package[s],Постав[ка|ки|ок]
-Supply Recruit,Supply Recruit
+Supply Recruit,Набор новобранцев
 Supply crate[s],Ящик[|а|ов] снабжения
 Supplymaster Kani,Снабженец Кани
 Support me over here!,Поддержите меня здесь!
@@ -50,7 +50,7 @@ Surround yourself with an energy shield that stops half of incoming damage but d
 Surrounded by rot—pull her down to shatter the shield!,"Окружена гнилью — потяните её вниз, чтобы разрушить щит!"
 Surveillance Device,Устройство наблюдения
 Surveilled,Под наблюдением
-Surveyor Brigg,Surveyor Brigg
+Surveyor Brigg,Геодезист Бригг
 Survive the Ambush,Выжить в засаде
 Survive the Inquest attack!,Выдержите атаку Инквизитора!
 Survive the Molten Alliance ambush.,Выдержите нападение Огненного Альянса.
@@ -96,7 +96,7 @@ Suwash Pirate,Сувашский пират
 "Suwash the quaggan wants to become a pirate, but one crewmaster is preventing him from joining.","Суваш хочет стать пиратом, но один из капитанов не позволяет ему присоединиться к команде."
 "Suwash the quaggan wants to become a pirate, but three crewmasters are preventing him from joining their ranks.","Суваш хочет стать пиратом, но трое капитанов не позволяют ему присоединиться к их командам."
 "Suwash the quaggan wants to become a pirate, but two crewmasters are preventing him from joining their ranks.","Суваш хочет стать пиратом, но двое капитанов не дают ему присоединиться к их команде."
-Suyin,Suyin
+Suyin,Суйин
 Svalkar the Skullcrusher,"Свалкар, сокрушитель черепов"
 Svanir Ballista,Сванирская баллиста
 Svanir Ballista Operator,Оператор сванской баллисты
@@ -130,7 +130,7 @@ Sweeper Mech,Подметальный механизм
 Sweet release...,Сладкое избавление...
 Swell. You're talking.,Прекрасно. Ты заговорил.
 Swift Flight,Стремительный полёт
-Swift Rapids,Swift Rapids
+Swift Rapids,Стремительные пороги
 Swift Sword Attacks,Быстрые атаки мечом
 Swift • Air Attunement,Быстрота • Гармония с воздухом
 Swift • Burns • Inflicts Bleeding,Быстрота • Горение • Наносит кровотечение
@@ -195,38 +195,38 @@ System—crash—imminent.,Система даёт сбой. Неизбежно.
 T minus three seconds and counting.,До старта осталось три секунды.
 TEST:Placeholder asset: Cleanse Derangement,ТЕСТ:Пример ресурса: Очищение от безумия
 THE FOOLS WILL PAY FOR THEIR INSOLENCE!,За свою дерзость они дорого заплатят!
-"TNY-R65 ""Teeny""","TNY-R65 «Кроха»"
-"TNY-R66 ""Tiny""","TNY-R66 «Кроха»"
+"TNY-R65 ""Teeny""",TNY-R65 «Кроха»
+"TNY-R66 ""Tiny""",TNY-R66 «Кроха»
 Tabbie,Табби
 Tabitha,Табита
 Table,Стол
-Taccius Stormbane,Taccius Stormbane
+Taccius Stormbane,Такциус Штормклин
 Tactical Officer Bjoern,Тактический офицер Бьёрн
 Tactical Officer Smokemane,Тактический офицер Смоукман
-Tactician,Tactician
-Tactician Alec,Tactician Alec
-Tactician Atl,Tactician Atl
-Tactician Babin,Tactician Babin
-Tactician Bearpaw,Tactician Bearpaw
-Tactician Beirne,Tactician Beirne
-Tactician Brahce,Tactician Brahce
-Tactician Coyoti,Tactician Coyoti
-Tactician Devonnah,Tactician Devonnah
-Tactician Dutch,Tactician Dutch
-Tactician Footi,Tactician Footi
-Tactician Gloria,Tactician Gloria
-Tactician Goomf,Tactician Goomf
-Tactician Jazmei,Tactician Jazmei
-Tactician Leepa,Tactician Leepa
-Tactician Luzii,Tactician Luzii
-Tactician Lystratia,Tactician Lystratia
-Tactician Ryan,Tactician Ryan
-Tactician Sarrena,Tactician Sarrena
-Tactician Septana,Tactician Septana
-Tactician Syska,Tactician Syska
-Tactician Terque,Tactician Terque
-Tactician Vrada,Tactician Vrada
-Tactician Wylld,Tactician Wylld
+Tactician,Тактик
+Tactician Alec,Тактик Алек
+Tactician Atl,Тактик Атл
+Tactician Babin,Тактик Бабин
+Tactician Bearpaw,Тактик Медведолап
+Tactician Beirne,Тактик Бейрн
+Tactician Brahce,Тактик Брэйс
+Tactician Coyoti,Тактик Койоти
+Tactician Devonnah,Тактик Девенна
+Tactician Dutch,Тактик Дюш
+Tactician Footi,Тактик Фути
+Tactician Gloria,Тактик Глория
+Tactician Goomf,Тактик Гумф
+Tactician Jazmei,Тактик Джазмей
+Tactician Leepa,Тактик Липа
+Tactician Luzii,Тактик Лузии
+Tactician Lystratia,Тактик Листратия
+Tactician Ryan,Тактик Райан
+Tactician Sarrena,Тактик Сарена
+Tactician Septana,Тактик Септана
+Tactician Syska,Тактик Сыска
+Tactician Terque,Тактик Терке
+Tactician Vrada,Тактик Врада
+Tactician Wylld,Тактик Вайлльд
 Tactictian Eliot,Тактик Элиот
 Tadpole,Головастик
 Tafor,Тафор
@@ -415,7 +415,7 @@ Tami,Тами
 Tamini Captor,Тамини-захватчик
 Tamini Raider,Тамини-рейдер
 Tamini Scout,Разведчик Тамини
-Tanek,Tanek
+Tanek,Танек
 Tangle Line,Запутанная нить
 Tangle Weed[s],Танглистая трава
 Tangled Depths: Hero's Choice Chest[s],Сундук Героя из Запутанных Глубин[|а|ов]|
@@ -456,9 +456,9 @@ Tarir was overrun by Mordrem. They can't be allowed to control the city.,"Tarir 
 Tarleov,Тарлеов
 Tarnflug,Тарнфлюг
 Tarnished Key[s],Запятнанный ключ[|и|и]
-Tarocheeki,Tarocheeki
+Tarocheeki,Тарочеки
 Tarocheeki is heading to his farm.,Тарочеки направляется к своей ферме.
 Tarocheeki's Farmhand,Фермер Тарочеки
 Tarocheeki's Mushroom,Гриб Тарочеки
-Tarrktun,Tarrktun
+Tarrktun,Тарктун
 Tarron,Таррон

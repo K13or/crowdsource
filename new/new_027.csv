@@ -1,5 +1,5 @@
 english,translate
-Supply Wagon,Supply Wagon
+Supply Wagon,Повозка с припасами
 Supplymaster Aisly,Интендант Айсли
 Supplymaster Azzi,Интендант Аззи
 Supported Lord Faren's Training,Тренировки Lord Faren поддержаны
@@ -40,7 +40,7 @@ Suspicious Mound,Подозрительный холмик
 Suspicious Order[s],Подозрительный приказ[|а|ов]
 Suspicious Orichalcum Node,Подозрительная орихалковая залежь
 Suspicious Portal to the Underworld,Подозрительный портал в Преисподнюю
-Suspicious Salvage Specialist,Suspicious Salvage Specialist
+Suspicious Salvage Specialist,Подозрительный специалист по утилизации
 Suspicious Technician,Подозрительный техник
 Suspicious Tree,Подозрительное дерево
 "Suspicious actions will compromise your disguise. At 100 stacks, you'll be ejected from the camp.",Подозрительные действия выдадут вашу личину. При 100 стаках вас выдворят из лагеря.
@@ -80,7 +80,7 @@ Swirl like sand!,"Кружись, как песок!"
 Swollen Choya,Раздувшаяся чойя
 Swoop • Flies,Пикирование • Летает
 Sword of the Rift Hunters,Меч Охотников на разломы
-Swordmaster Faren,Swordmaster Faren
+Swordmaster Faren,Мастер меча Фарен
 Sylanna,Силанна
 Sylvan hounds,Лесные псы
 Sylvari Lap Warmer,Сильварийская грелка для колен
@@ -93,11 +93,11 @@ TIER 2: Hunt kryptis to lure out their leader.,"УРОВЕНЬ 2: охотьте
 TIER 2: Lure out the rift target and defeat it.,УРОВЕНЬ 2: выманите цель разлома и победите её.
 Taask Steamcaller,Тааск Парозов
 Tacita,Тацита
-Tactician Arndon,Tactician Arndon
-Tactician Elke,Tactician Elke
-Tactician Jarvan,Tactician Jarvan
-Tactician Smokeshot,Tactician Smokeshot
-Tactician Swikk,Tactician Swikk
+Tactician Arndon,Тактик Арндон
+Tactician Elke,Тактик Эльке
+Tactician Jarvan,Тактик Джарван
+Tactician Smokeshot,Тактик Дымострел
+Tactician Swikk,Тактик Свикк
 Tactivator,Тактиватор
 "Taham, the Adversary","Тахам, Противник"
 Tail Spikes,Хвостовые шипы
@@ -179,7 +179,7 @@ Talked to %num1%/%num2% Scout[s],Поговорили с %num1%/%num2% [разв
 Talked to All Guests,Поговорили со всеми гостями
 Talked to the Lieutenant,Поговорили с лейтенантом
 Talla,Талла
-Talon Killpeace,Talon Killpeace
+Talon Killpeace,Талон Убеймир
 Talon Razorbeak,Талон Бритвоклюв
 Talons out!,Когти наружу!
 Tamarisk Reed[s],Тамарисковый тростник
@@ -218,13 +218,13 @@ Targeted Only the Real Nadijeh and Dahlah,Целями были только н�
 "Targets take 60%% of their health in damage, split between any nearby allies.","Цели получают урон в 60%% своего здоровья, разделённый между союзниками поблизости."
 Tari,Тари
 Tarkad,Таркад
-Tarn,Tarn
+Tarn,Тарн
 Tarnished Bastion,Потускневший бастион
 Taser Ends,Электрошокер разряжен
 Tasty Fish,Вкусная рыба
 Tasty Ooze-Cured Meat[s],"Вкусное мясо, вяленное в слизи"
 Tasty Wurm Segment[s],Вкусный сегмент[|а|ов] вурма
-Tatsu Farkill,Tatsu Farkill
+Tatsu Farkill,Тацу Дальнобой
 Tattered Cloth,Истрёпанная ткань
 Tattered Hide[s],Истрёпанная шкура
 Tattered Journal Vol. 3,"Истрёпанный дневник, том 3"
@@ -243,7 +243,7 @@ Team and Battle Guild Selection,Выбор команды и боевой гил
 Team members will periodically be affected with vomit-inducing sickness. Combatants struck by vomit are debilitated and inflicted with conditions.,"На членов команды будет периодически накладываться недомогание, вызывающее рвоту. Бойцы, попавшие под рвоту, ослабляются и получают состояния."
 Tears of Pain,Слёзы боли
 Technician Penn,Техник Пенн
-Tecla the Venerable,Tecla the Venerable
+Tecla the Venerable,Текла Почтенная
 Tegeirian Rees,Тегейриан Рис
 Tekki's Drawing Board,Чертёжная доска Текки
 Teleport Residue,Остаток телепортации
@@ -291,7 +291,7 @@ Tengu Warrior,Воин тенгу
 "Tensions are higher than usual this morning. I've heard whispers about someone called ""B."" No one in the barracks can put a face to the name. Who is this? Are they pulling the strings?",Этим утром напряжение выше обычного. Я слышал шёпот о ком-то по имени «Б». Никто в казармах не может связать с этим именем лицо. Кто это? Он ли дёргает за ниточки?
 Tentacle Rift,Разлом со щупальцами
 Tentacle Thrash,Удар щупальцем
-Tentacle of Nourys,Tentacle of Nourys
+Tentacle of Nourys,Щупальце Нуриса
 Tentacle rifts closed,Разломы со щупальцами закрыты
 Terje Strongarm,Терье Крепкая Рука
 Terranexic Fan,Терранексический вентилятор
@@ -343,8 +343,8 @@ Thanks very much. I'll have you know I'm seriously reconsidering my employment c
 "Thanks, Professor.","Спасибо, профессор."
 "Thanks, but seasoned beef makes me gassy.","Спасибо, но от приправленной говядины меня пучит."
 Thanks. I'll go look around for a bit.,Спасибо. Пойду немного осмотрюсь.
-Tharon,Tharon
-That Belongs in a Museum,That Belongs in a Museum
+Tharon,Тарон
+That Belongs in a Museum,Этому место в музее
 That doesn't belong to you!,Это не твоё!
 That feels better.,Так-то лучше.
 That feels good.,Хорошо-то как.

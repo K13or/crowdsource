@@ -181,7 +181,7 @@ Centaurs inbound! Man your positions. They're going to try and take back the cam
 Centaurs incoming from Southforge! Watch your flanks!,"Внимание, кентавры приближаются с Южной Кузницы! Остерегайтесь флангов!"
 Hold the lines! We took these camps fair and square!,Держите позиции! Мы захватили эти лагеря честным путем!
 Sound the retreat! Fall back and regroup at Bridgewatch. The centaurs have won.,Отступаем! Перегруппируемся у Бриджуоча. Кентавры победили.
-Modniir Warleader,Modniir Warleader
+Modniir Warleader,Военачальник Моднир
 ((931918)),((931918))
 "+15%% Experience in the Open World
 +6%% Reward Track Gain in PvP and WvW","+15%% опыта в открытом мире
@@ -669,8 +669,8 @@ Demon's Maw Waypoint,Путь к Пасти Демона
 Winterthaw Waypoint,Перекрёсток «Зимний оттепель»
 False Lake Waypoint,Путь к Ложному Озеру
 Brute,Грубиян
-Black Lion Trading Company,Black Lion Trading Company
-Order of Whispers,Order of Whispers
+Black Lion Trading Company,Чёрная торговая компания
+Order of Whispers,Орден Шепчущих
 Salvador,Сальвадор
 Tanner,Таннер
 Guardian,Страж
@@ -719,7 +719,7 @@ Refugee,Беженец
 Servant,Слуга
 Dig Site Gamma,Раскопки Гамма
 Sailor's Heart,Сердце моряка
-Malice Swordshadow,Malice Swordshadow
+Malice Swordshadow,Меч-тень злобы
 Forecastle Rock,Скальный выступ Фо́ркасл
 Consecrated Piazza,Освящённая площадь
 Hidden Aquifer,Скрытый водоносный горизонт
@@ -734,7 +734,7 @@ Colosseum of the Faithful,Колизей Верных
 Iris,Ирис
 Griffon,Грифон
 Elon Riverbank,Элон Ривербанк
-Unending Ocean,Unending Ocean
+Unending Ocean,Бесконечный океан
 Tyria (Surface),Тирия (поверхность)
 Refugee Camp Director,Директор лагеря беженцев
 Suspicious Heirloom Lost and Found,Подозрительная реликвия из отдела потерянных и найденных вещей
@@ -762,10 +762,10 @@ Highborn Kings Waypoint,Путь Высокородных королей
 Temple of Kormir Waypoint,Путь к Temple of Kormir
 Amnoon Harbor,Порт Амнун
 First Camp,Первый лагерь
-Temple of Kormir,Temple of Kormir
+Temple of Kormir,Храм Кормира
 Free City of Amnoon,Свободный город Амнун
 Destiny's Gorge,Ущелье Судьбы
-Throne of Pellentia,Throne of Pellentia
+Throne of Pellentia,Трон Пеллентии
 Scattered Remnants,Разбросанные останки
 The Deadhouse,Мёртвый дом
 Amnoon Southern Outskirts,Южная окраина Амнуна
@@ -833,9 +833,9 @@ Candescent Corridor,Раскалённый коридор
 Isgarren,Исгаррен
 Excavation Point 7-G,Раскоп 7-Г
 Heitor,Эйтор
-Lady Kasmeer Meade,Lady Kasmeer Meade
+Lady Kasmeer Meade,Леди Касмир Мид
 Raptor Rental,Аренда рапторов
-Jade Brotherhood,Jade Brotherhood
+Jade Brotherhood,Нефритовое братство
 Tae-Jin's Estate,Имение Тэйджина
 Technician,Техник
 Haunted Nolani Waypoint,Призрачный перекресток Нолани
@@ -932,7 +932,7 @@ Ley-Infused Branded Forgotten Priest,"Забытый жрец, отмеченн�
 Hammer of Wisdom,Молот Мудрости
 Shield of the Avenger,Щит Мстителя
 Sword of Justice,Меч справедливости
-Eye of Zhaitan,Eye of Zhaitan
+Eye of Zhaitan,Око Зайтана
 Dominion's Breach,Пролом Доминиона
 Lighthouse Point,Маяк Пойнт
 Wolf's Crossing,Волчий переход
@@ -1054,7 +1054,7 @@ Red Team is tracking your movement.,Красная команда отслежи
 Surprise Attack,Внезапная атака
 Deploy your trap.,Установите свою ловушку.
 Gravel Shot,Гравийный залп
-Supply Explosion Trap,Supply Explosion Trap
+Supply Explosion Trap,Ловушка взрывного снабжения
 Plant the banner in the ground with such force that you knock down enemies and grant stability and protection to allies.,"Водрузите знамя в землю с такой силой, чтобы отбросить врагов и даровать союзникам устойчивость и защиту."
 Fire grapeshot to bleed foes,"Выпустите огненный град, чтобы вызвать кровотечение у врагов."
 Deploy your shield generator.,Активируйте генератор щита.
@@ -1080,7 +1080,7 @@ Place metal,Поместите металл
 Cakilak'ka,Какилак'ка
 Aetheric Resonator,Эфирный резонатор
 "The alliance of the Durmand Priory and the Vigil has been constructive, though even together we are challenged. Caer Evermore is under constant attack by the Risen as the Priory scours the surrounding ruins for ancient secrets of the Elder Dragons.","Союз Durmand Priory и Дозора оказался продуктивным, хотя даже вместе мы сталкиваемся с трудностями. Цитадель Эвермор постоянно подвергается атакам восставших, в то время как члены Приората исследуют окружающие руины в поисках древних секретов Старших драконов."
-Scholar Loren,Scholar Loren
+Scholar Loren,Учёный Лорен
 "The Inquest make no sense to me. I don't know if they're oblivious to the destruction they cause, impartial to it, or actively trying to destroy Tyria.","Я не понимаю, что творится с Inquest. Не знаю, просто ли они не замечают разрушений, которые причиняют, равнодушны к ним или же намеренно пытаются уничтожить Тирию."
 "Regardless, those rotten scumbags are trouble and need to be shut down!","В любом случае, эти гниды – настоящая проблема, и с ними нужно покончить!"
 You really think they're trying to destroy Tyria?,"Ты действительно думаешь, что они пытаются уничтожить Тирию?"
@@ -1133,7 +1133,7 @@ I cannot divulge my sources to you.,Я не могу раскрывать сво
 ((267285)),((267285))
 I spoke with Syska in the field hospital. She seemed entirely normal.,Я поговорил с Сиской в полевом госпитале. Она казалась совершенно нормальной.
 Intro LC,Вступление к испытанию
-Pact Caravan Leader,Pact Caravan Leader
+Pact Caravan Leader,Глава каравана Пакт
 Well of Lament,Колодец скорби
 "Throw a signalling grenade that calls down an artillery barrage, damaging foes.","Бросьте сигнальную гранату, чтобы вызвать артиллерийский обстрел, который нанесет урон врагам."
 Chill Radius,Радиус заморозки

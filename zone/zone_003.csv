@@ -281,7 +281,7 @@ english,translate
 "...It still isn't enough. I see our mistake now: we captured only one facet, but we need the whole spectrum.","...Этого все ещё недостаточно. Теперь я вижу нашу ошибку: мы захватили лишь одну грань, а нам нужен весь спектр."
 "...Just following orders? Contrition won't bring back the dead, Mai.","...Просто выполняла приказы? Раскаяние не вернет мёртвых, Mai."
 ...Just in case.,...На всякий случай.
-...Mad King Says!,...Mad King Says!
+...Mad King Says!,...Безумный король говорит!
 ...Master-at-Arms Neary!,...Мастер-оружейник Neary!
 ...Minister Li of the Ministry of Security has been arrested. Details are still emerging...,...Министр Li из Ministry of Security был арестован. Подробности все ещё выясняются...
 ...My guildmates.,...Мои согильдийцы.
@@ -384,10 +384,10 @@ english,translate
 /detonate Inquest Headquarters,/detonate Штаб-квартира Inquest
 /escape,/escape
 /exit,/exit
-/query custodial golem status,/query custodial golem status
-/query fire golem status,/query fire golem status
+/query custodial golem status,/запрос: статус голема-уборщика
+/query fire golem status,/запрос: статус огненного голема
 /return,/return
-/return to main menu,/return to main menu
+/return to main menu,/возврат в главное меню
 0,0
 07734,07734
 1,1

@@ -1,18 +1,18 @@
 english,translate
-Confusing Images,Confusing Images
-Confusing Speech,Confusing Speech
-Confusion,Confusion
-Conjure Earth Attributes,Conjure Earth Attributes
-Conjure Earth Shield,Conjure Earth Shield
-Conjure Fiery Greatsword,Conjure Fiery Greatsword
-Conjure Fire Attributes,Conjure Fire Attributes
-Conjure Flame,Conjure Flame
-Conjure Flame Attributes,Conjure Flame Attributes
-Conjure Flame Axe,Conjure Flame Axe
-Conjure Frost Attributes,Conjure Frost Attributes
-Conjure Frost Bow,Conjure Frost Bow
-Conjure Lightning Attributes,Conjure Lightning Attributes
-Conjure Lightning Hammer,Conjure Lightning Hammer
+Confusing Images,Сбивающие с толку образы
+Confusing Speech,Сбивающая с толку речь
+Confusion,Замешательство
+Conjure Earth Attributes,Призвать атрибуты земли
+Conjure Earth Shield,Призвать щит земли
+Conjure Fiery Greatsword,Призвать огненный двуручный меч
+Conjure Fire Attributes,Призвать атрибуты огня
+Conjure Flame,Призвать пламя
+Conjure Flame Attributes,Призвать атрибуты пламени
+Conjure Flame Axe,Призвать топор пламени
+Conjure Frost Attributes,Призвать атрибуты мороза
+Conjure Frost Bow,Призвать ледяной лук
+Conjure Lightning Attributes,Призвать атрибуты молнии
+Conjure Lightning Hammer,Призвать молот молнии
 Conjure a bullet that bounces to nearby enemies. Gain might for each target struck.,"Призовите пулю, которая рикошетит в ближайших врагов. Получайте мощь за каждую пораженную цель."
 "Conjure a drill of dark energy on your blade, and rend the armor of foes in front of you.",Призовите бур из тёмной энергии на свой клинок и разорвите броню врагов перед собой.
 Conjure a focused volley of arrows to harass your foes.,"Выстрелить сконцентрированным залпом из стрел, которые преследуют противников."
@@ -23,72 +23,72 @@ Conjure a powerful bow of wind that consumes arrows and generates Wind Force.,"�
 "Conjure a twister at the target location, making foes vulnerable. Foes in the center of the twister are lifted into the air.","Призовите смерч в указанной области, делая врагов уязвимыми. Враги в центре смерча подбрасываются в воздух."
 "Conjure a whirlpool at the target location, pulling enemies in. Enemies at the center of the whirlpool are slowed.","Призовите водоворот в указанной области, притягивающий врагов. Враги в центре водоворота замедляются."
 "Conjure claws of darkness from the shadows to attack foes, applying a condition to them and pulling them to you. Gain quickness if you strike a foe and gain life force for each struck foe.","Призовите когти тьмы из теней для атаки врагов, накладывая на них состояние и притягивая их к себе. Получите проворство при попадании по врагу и жизненную силу за каждого пораженного врага."
-Conjured Barrier,Conjured Barrier
-Conjured Slash,Conjured Slash
+Conjured Barrier,Призванный барьер
+Conjured Slash,Призванный удар
 Conjured arrows strike your target.,Призванные стрелы поражают вашу цель.
 Consecutive attacks cause burning.,Последовательные атаки вызывают горение.
 Consecutive attacks grant boons.,Последовательные атаки дают благословения.
 Consecutive attacks grant regenerative effects.,Последовательные атаки дают эффекты регенерации.
-Construct Aura,Construct Aura
-Consume,Consume
-Consume Conditions,Consume Conditions
-Consume Plasma,Consume Plasma
+Construct Aura,Аура конструкта
+Consume,Поглощение
+Consume Conditions,Поглощение состояний
+Consume Plasma,Поглотить плазму
 Consume conditions to gain life force.,"Поглощайте состояния, чтобы получить жизненную силу."
 Consume your accumulated astral force to become a celestial avatar.,Использовать накопленную астральную силу и принять форму Небесного аватара.
 Consumes All Ammunition,Потребляет все боеприпасы
-Consuming Flame,Consuming Flame
-Consuming Hatred,Consuming Hatred
-Contemplation of Purity,Contemplation of Purity
-Continuum Shift,Continuum Shift
-Continuum Split,Continuum Split
-Controlled Analysis,Controlled Analysis
-Coolant Blast,Coolant Blast
+Consuming Flame,Пожирающее пламя
+Consuming Hatred,Пожирающая ненависть
+Contemplation of Purity,Созерцание чистоты
+Continuum Shift,Сдвиг континуума
+Continuum Split,Разрыв континуума
+Controlled Analysis,Контролируемый анализ
+Coolant Blast,Взрыв хладагента
 Cooling Delay,Задержка охлаждения
-Cooling Vapor,Cooling Vapor
-Copying Text,Copying Text
-Coral Shot,Coral Shot
-Core Cleave,Core Cleave
-Core Reactor Shot,Core Reactor Shot
-Corona Burst,Corona Burst
-Corporal Punishment,Corporal Punishment
-Corporeal Reassignment,Corporeal Reassignment
-Corpse Detonation,Corpse Detonation
-Corrosive Poison Cloud,Corrosive Poison Cloud
-Corrosive Residue,Corrosive Residue
-Corrupt Boon,Corrupt Boon
+Cooling Vapor,Охлаждающий пар
+Copying Text,Копирование текста
+Coral Shot,Коралловый выстрел
+Core Cleave,Раскол ядра
+Core Reactor Shot,Выстрел реактора ядра
+Corona Burst,Взрыв короны
+Corporal Punishment,Телесное наказание
+Corporeal Reassignment,Телесное перераспределение
+Corpse Detonation,Детонация трупа
+Corrosive Poison Cloud,Едкое ядовитое облако
+Corrosive Residue,Едкий остаток
+Corrupt Boon,Осквернение благословения
 Corrupt boons from enemies around your target. Inflict torment and gain life force for each condition on your initial target up to the threshold. Gain extra life force for each extra foe struck.,Оскверняет благословения врагов вокруг вашей цели. Накладывает боль и даёт жизненную силу за каждое состояние на вашей начальной цели вплоть до порогового значения. Даёт дополнительную жизненную силу за каждого дополнительного пораженного врага.
-Corrupt the Living,Corrupt the Living
+Corrupt the Living,Испортить живое
 "Corrupt the ground under your target; if they remain within the area, they will be knocked down. Grant might to allies near your target based on how many conditions they have.","Испортите землю под вашей целью; если они останутся в области, они будут сбиты с ног. Даруйте мощь союзникам рядом с вашей целью в зависимости от того, сколько состояний на них наложено."
-Corrupted Claws,Corrupted Claws
-Corrupted Ground,Corrupted Ground
-Corrupted Siphon,Corrupted Siphon
+Corrupted Claws,Осквернённые когти
+Corrupted Ground,Осквернённая земля
+Corrupted Siphon,Осквернённый сифон
 Corrupted energy coats the ground.,Осквернённая энергия покрывает землю.
-Corruption,Corruption
-Cosmic Aura,Cosmic Aura
-Cosmic Ray,Cosmic Ray
-Cosmic Streaks,Cosmic Streaks
-Cosmic Wisdom,Cosmic Wisdom
+Corruption,Осквернение
+Cosmic Aura,Космическая аура
+Cosmic Ray,Космический луч
+Cosmic Streaks,Космические полосы
+Cosmic Wisdom,Космическая мудрость
 Count Recharge,Перезарядка зарядов
-Counter Attack,Counter Attack
-Counter Blade,Counter Blade
-Counter Ready,Counter Ready
-Counter Throw,Counter Throw
-Counterattack,Counterattack
+Counter Attack,Контратака
+Counter Blade,Контрудар клинком
+Counter Ready,Контратака готова
+Counter Throw,Контрудар броском
+Counterattack,Контратака
 Counterattack Evasion,Уклонение контратакой
-Counterattack Kick,Counterattack Kick
+Counterattack Kick,Удар ногой в контратаке
 Counterattack with a powerful kick.,Контратака мощным ударом ноги.
-Counterblow,Counterblow
-Counterspell,Counterspell
-Counterstrike,Counterstrike
+Counterblow,Контрудар
+Counterspell,Контрзаклинание
+Counterstrike,Контрудар
 Crack the ground to chill your foes.,"Расколоть землю, чтобы заморозить противников."
-Crackling Wind,Crackling Wind
-Cracks in Reality,Cracks in Reality
-Cranial Cascade,Cranial Cascade
-Crash,Crash
-Crash Down,Crash Down
-Crashing Courage,Crashing Courage
-Crashing Font,Crashing Font
-Crashing Waves,Crashing Waves
+Crackling Wind,Трещащий ветер
+Cracks in Reality,Разломы в реальности
+Cranial Cascade,Черепной каскад
+Crash,Крах
+Crash Down,Крушение
+Crashing Courage,Сокрушительная отвага
+Crashing Font,Сокрушительный источник
+Crashing Waves,Сокрушительные волны
 "Create a Radiation Field at target location, inflicting poison and weakness on foes.","Создайте Radiation Field в целевой области, накладывая на врагов отравление и слабость."
 Create a Seed Turret at targeted location which will attack nearby foes.,"Создайте Seed Turret в целевой области, которая будет атаковать ближайших врагов."
 Create a bubble that blocks enemy missiles and grants resolution to allies.,"Создайте пузырь, который блокирует вражеские снаряды и даёт союзникам решимость."
@@ -161,10 +161,10 @@ Creates a tar pool that slows enemies.,"Создает лужу смолы, ко
 Creates a tremor that knocks out foes and destroys raised pillars within its area of effect.,"Создает дрожь, которая выводит из строя врагов и разрушает поднятые столбы в области действия."
 "Creates a wall of magically infused shredding sand that applies agony, burning, and stun.","Создает стену из магически заряженного измельчающего песка, которая накладывает агонию, горение и оглушение."
 Creates areas of blazing fire.,Создает области пылающего огня.
-Crescendo,Crescendo
-Crescent Wind,Crescent Wind
-Crimson Dawn,Crimson Dawn
-Crimson Tide,Crimson Tide
+Crescendo,Крещендо
+Crescent Wind,Серповидный ветер
+Crimson Dawn,Багровый рассвет
+Crimson Tide,Багровый прилив
 Cripple multiple foes with lava chains.,Сделать нескольких противников хромыми с помощью цепей из лавы.
 Cripple nearby foes and remove their boons. Gain resolution for each foe you strike. Remove additional boons on foes below the health threshold.,"Калечит ближайших врагов и снимает с них благословения. Получите решимость за каждого пораженного врага. Снимает дополнительные благословения с врагов, чей уровень здоровья ниже порогового."
 Cripple nearby foes and remove their boons. Release an Unholy Burst on foes below the health threshold.,Хромота на ближайших врагов и удаление их благ. Высвобождение Unholy Burst на врагов ниже порога здоровья.
@@ -173,44 +173,44 @@ Cripple your foe with a kick.,Калечит врага ударом ноги.
 Cripple your foe with a precise slash.,Сделать противника хромым с помощью точного пореза.
 Cripple your foe with shackles.,"Надеть на противника оковы, которые делают его хромым."
 Cripple your target with a powerful strike.,"Нанести по цели мощный удар, вызывающий хромоту."
-Crippled,Crippled
+Crippled,Искалечен
 Cripples foes.,Калечит врагов.
 Cripples nearby foes.,Калечит ближайших врагов.
-Crippling Anguish,Crippling Anguish
-Crippling Dagger,Crippling Dagger
-Crippling Leap,Crippling Leap
-Crippling Shield,Crippling Shield
-Crippling Shot,Crippling Shot
-Crippling Strike,Crippling Strike
-Crippling Swipe,Crippling Swipe
-Crippling Talon,Crippling Talon
-Crippling Thrust,Crippling Thrust
-Crippling Thump,Crippling Thump
-Crisis Zone,Crisis Zone
+Crippling Anguish,Калечащая мука
+Crippling Dagger,Калечащий кинжал
+Crippling Leap,Калечащий прыжок
+Crippling Shield,Калечащий щит
+Crippling Shot,Калечащий выстрел
+Crippling Strike,Калечащий удар
+Crippling Swipe,Калечащий взмах
+Crippling Talon,Калечащий коготь
+Crippling Thrust,Калечащий выпад
+Crippling Thump,Калечащий толчок
+Crisis Zone,Кризисная зона
 Critical Chance Increase,Увеличение шанса критического удара
 Critical Damage Increase,Увеличение критического урона
 Critical chance increased; stacks duration.,Шанс критического удара увеличен; суммируется по длительности.
-Crossfire,Crossfire
-Cruel Strike,Cruel Strike
+Crossfire,Перекрестный огонь
+Cruel Strike,Жестокий удар
 "Crush nearby foes with a chilling slam. If your target has been struck by <c=@abilitytype>Banish</c>, teleport to them.","Сокрушите ближайших врагов леденящим ударом. Если ваша цель была поражена <c=@abilitytype>Изгнанием</c>, телепортируйтесь к ней."
 "Crush your opponent's armor, leaving them vulnerable and gaining might. Vulnerability and might stacks doubled if you hit a disabled foe.
 <c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Сокрушите броню противника, оставляя его уязвимым и получая мощь. Стаки уязвимости и мощи удваиваются, если вы бьёте обездвиженного врага.
 <c=@reminder>К обездвиживанию относятся оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокация и страх.</c>"
 Crushes the target with the Giant Snowball's frosty form.,Сокрушает цель ледяной формой Giant Snowball.
-Crushing Abyss,Crushing Abyss
-Crushing Blow,Crushing Blow
-Crushing Guilt,Crushing Guilt
-Cry of Frustration,Cry of Frustration
-Crystal Fling,Crystal Fling
-Crystal Hibernation,Crystal Hibernation
-Crystal Sands,Crystal Sands
-Crystal Slash,Crystal Slash
-Crystalline Impact,Crystalline Impact
-Crystalline Strike,Crystalline Strike
-Crystalline Sunder,Crystalline Sunder
-Cull,Cull
-Cultivate,Cultivate
-Cunning Salvo,Cunning Salvo
+Crushing Abyss,Сокрушающая бездна
+Crushing Blow,Сокрушающий удар
+Crushing Guilt,Сокрушающая вина
+Cry of Frustration,Крик разочарования
+Crystal Fling,Кристальный бросок
+Crystal Hibernation,Кристальная спячка
+Crystal Sands,Кристальные пески
+Crystal Slash,Кристальный разрез
+Crystalline Impact,Кристаллическое воздействие
+Crystalline Strike,Кристаллический удар
+Crystalline Sunder,Кристаллический раскол
+Cull,Отбраковка
+Cultivate,Культивация
+Cunning Salvo,Хитрый залп
 Currently invisible. Ends if you deal damage.,"Вы сейчас невидимы. Эффект спадет, если вы нанесете урон."
 Currently invoking the power of Archemorus and Saint Viktor.,В настоящее время призывает силу Архемора и Святого Виктора.
 Currently invoking the power of Glint.,В настоящее время призывает силу Glint.
@@ -220,19 +220,19 @@ Currently invoking the power of Razah.,В настоящее время приз
 Currently invoking the power of Shiro Tagachi.,В настоящее время призывается сила Широ Тагачи.
 Currently invoking the power of Ventari.,В настоящее время призывается сила Ventari.
 Curtain Duration,Длительность завесы
-Curved Shot,Curved Shot
-Cutlass Carve,Cutlass Carve
-Cyclone,Cyclone
-Cyclone Axe,Cyclone Axe
-Cyclone Burst,Cyclone Burst
+Curved Shot,Изогнутый выстрел
+Cutlass Carve,Рассечение абордажной саблей
+Cyclone,Циклон
+Cyclone Axe,Топор циклона
+Cyclone Burst,Взрыв циклона
 Cyclone Lifetime,Время жизни циклона
 Cyclone Radius,Радиус циклона
-Cyclone Spin,Cyclone Spin
+Cyclone Spin,Вращение циклона
 "Dagda fires a constellation at targets in sequential order. This constellation explodes on impact, dealing significant damage and applying extreme vulnerability to targets in an area. Targets with extreme vulnerability take significant damage from this attack.","Dagda выпускает созвездие в цели по очереди. Созвездие взрывается при попадании, нанося значительный урон и накладывая экстремальную уязвимость на цели в области. Цели с экстремальной уязвимостью получают значительный урон от этой атаки."
 Dagda's anxieties manifest into entities that spread instabilities. Being struck by this too many times will cause you to enter a blind frenzy.,"Тревоги Dagda проявляются в виде сущностей, распространяющих нестабильность. Получение слишком большого количества ударов от них приведет вас в состояние слепого бешенства."
-Dagger Storm,Dagger Storm
+Dagger Storm,Шторм кинжалов
 Dagger Storm Duration,Длительность шторма кинжалов
-Dagger Strike,Dagger Strike
+Dagger Strike,Удар кинжалом
 Daggers Thrown,Бросок кинжалов
 Damage,Урон
 Damage (10–20 Might),Урон (10–20 ед. Мощи)
@@ -241,7 +241,7 @@ Damage (under 10 Might),Урон (менее 10 ед. Мощи)
 Damage Below 25%,Урон при здоровье ниже 25%
 Damage Below 50%,Урон при здоровье ниже 50%
 Damage Bonus per Stack,Бонус к урону за стак
-Damage Increase,Damage Increase
+Damage Increase,Увеличение урона
 Damage Increase against Mark,Увеличение урона по метке
 Damage Increase per Affinity,Увеличение урона за сродство
 Damage Increase per Condition,Увеличение урона за состояние
@@ -310,21 +310,21 @@ Damage—One Boon,Урон — одно благо
 Damage—Three Boons,Урон — три блага
 Damage—Two Boons,Урон — два блага
 Damaging Conditions Removed,Наносящие урон состояния сняты
-Dancing Dagger,Dancing Dagger
-Daring Advance,Daring Advance
-Dark Aura,Dark Aura
-Dark Barrage,Dark Barrage
-Dark Pact,Dark Pact
-Dark Path,Dark Path
-Dark Pursuit,Dark Pursuit
+Dancing Dagger,Танцующий кинжал
+Daring Advance,Дерзкое наступление
+Dark Aura,Тёмная аура
+Dark Barrage,Тёмный залп
+Dark Pact,Тёмный пакт
+Dark Path,Тёмный путь
+Dark Pursuit,Тёмное преследование
 Dark Pursuit Duration,Длительность тёмного преследования
-Dark Slash,Dark Slash
-Dark Spear,Dark Spear
-Dark Water,Dark Water
-Darkrazor's Daring,Darkrazor's Daring
+Dark Slash,Тёмный удар
+Dark Spear,Тёмное копьё
+Dark Water,Тёмная вода
+Darkrazor's Daring,Дерзость Тёмного Лезвия
 "Dart at your foe and strike them with tremendous force, inflicting poison based on distance traveled. You constantly release <c=@abilitytype>Crimson Tide</c> toward your target as you travel.","Рывок к врагу и удар с огромной силой, накладывающий отравление в зависимости от пройденного расстояния. Вы постоянно выпускаете <c=@abilitytype>Crimson Tide</c> в сторону цели во время движения."
 "Dart at your foe, inflicting more bleeding based on the amount of time spent charging.","Рванитесь к противнику, накладывая кровотечение, сила которого зависит от времени зарядки."
-Dash,Dash
+Dash,Рывок
 Dash Range,Дальность рывка
 Dash again.,Рванитесь снова.
 Dash at foes. Hold down to increase the length of the dash.,"Рванитесь к противникам. Удерживайте, чтобы увеличить дальность рывка."
@@ -335,9 +335,9 @@ Dash forward with a rocket-charged hammer to damage enemies.,"Рвануться
 Dash in a direction and slightly recharge Abyssal Raze while leaving portals in your wake that detonate when foes walk over them.,"Броситься в выбранном направлении, слегка перезаряжая Abyssal Raze и оставляя на своем пути порталы, которые взрываются, когда в них входят противники."
 "Dash in the direction you are facing, applying fear to foes at your end point. Grant barrier to your tethered ally and yourself based on the targets struck. Heal your tethered ally based on targets struck.","Рванитесь в направлении взгляда, накладывая страх на врагов в конечной точке. Дайте барьер себе и связанному союзнику в зависимости от количества пораженных целей. Исцелите связанного союзника в зависимости от количества пораженных целей."
 "Dash then fire a quick shot. If the shot hits, you can dash again for a short time.","Рванитесь, затем произведите быстрый выстрел. Если выстрел попал, вы можете совершить рывок снова в течение короткого времени."
-Dawn's Repose,Dawn's Repose
-Daybreaking Slash,Daybreaking Slash
-Daze,Daze
+Dawn's Repose,Покой Рассвета
+Daybreaking Slash,Рассветный удар
+Daze,Ошеломление
 "Daze and weaken nearby enemies. Grant fury, might, and swiftness to yourself and nearby allies.","Ошеломите и ослабьте ближайших врагов. Дайте ярость, мощь и быстроту себе и ближайшим союзникам."
 Daze enemies.,Ошеломите врагов.
 Daze from Behind,Ошеломление со спины
@@ -354,22 +354,22 @@ Daze your target and nearby foes.,Ошеломить вашу цель и про
 Dazes enemies within a cone trajectory.,Ошеломляет врагов в конусной траектории.
 Dazes its target.,Ошеломляет цель.
 "Dazes your target. If your target is using a skill, the daze duration is extended.","Ошеломляет цель. Если цель использует навык, длительность ошеломления увеличивается."
-Dazing Discharge,Dazing Discharge
-Dazing Screech,Dazing Screech
-Dazzling Hammer,Dazzling Hammer
-Deactivate Otherworldly Bond,Deactivate Otherworldly Bond
-Deactivate Photon Forge,Deactivate Photon Forge
-Deadeye's Mark,Deadeye's Mark
-Deadly Aim,Deadly Aim
-Deadly Catch,Deadly Catch
-Deadly Delivery,Deadly Delivery
-Deadly Feast,Deadly Feast
-Deadly Kick,Deadly Kick
-Deadly Slice,Deadly Slice
-Deadly Strike,Deadly Strike
-Deadly Venom,Deadly Venom
+Dazing Discharge,Ошеломляющий разряд
+Dazing Screech,Ошеломляющий визг
+Dazzling Hammer,Ослепляющий молот
+Deactivate Otherworldly Bond,Деактивировать потустороннюю связь
+Deactivate Photon Forge,Деактивировать фотонную кузницу
+Deadeye's Mark,Метка Меткого Стрелка
+Deadly Aim,Смертельный прицел
+Deadly Catch,Смертельный улов
+Deadly Delivery,Смертельная доставка
+Deadly Feast,Смертельный пир
+Deadly Kick,Смертельный удар ногой
+Deadly Slice,Смертельный разрез
+Deadly Strike,Смертельный удар
+Deadly Venom,Смертельный яд
 Deadly attack focused on a single player. Multiple allies can take damage from this attack in order to prevent instant death.,"Смертельная атака, направленная на одного игрока. Несколько союзников могут принять урон от этой атаки, чтобы предотвратить мгновенную смерть."
-Deafening Drum,Deafening Drum
+Deafening Drum,Оглушающий барабан
 Deafening Drum releases an additional quick wave after a delay.,"Deafening Drum выпускает дополнительную волну после короткой задержки. Вы наносите урон врагам, которых вывели из строя."
 Deal a downward strike on your foe. Downed enemies struck with this ability are finished.,"Нанести противнику добивающий удар. Если противник был повержен, этот удар убьёт его."
 "Deal a heavy blow with your fist, sending enemies flying.","Нанесите тяжёлый удар кулаком, отбрасывая врагов."
@@ -404,36 +404,36 @@ Deals fatal damage to foes.,Наносит смертельный урон вр�
 Deals incredible damage and knocks down foes in the targeted section of the platform.,Наносит невероятный урон и сбивает врагов с ног в целевой секции платформы.
 "Deals percentage health damage, increasing with each additional Void Empowerment stack.","Наносит процентный урон от здоровья, увеличивающийся с каждым дополнительным стаком Void Empowerment."
 Deals periodic damage to all enemies in range.,Наносит периодический урон всем врагам в радиусе действия.
-Death Bloom,Death Bloom
-Death Blossom,Death Blossom
-Death Curse,Death Curse
-Death Drop,Death Drop
-Death Mark,Death Mark
-Death Shroud,Death Shroud
-Death Spiral,Death Spiral
-Death Wind,Death Wind
+Death Bloom,Смертельный расцвет
+Death Blossom,Смертельный цветок
+Death Curse,Проклятие смерти
+Death Drop,Смертельное падение
+Death Mark,Метка смерти
+Death Shroud,Саван смерти
+Death Spiral,Смертельная спираль
+Death Wind,Ветер смерти
 Death is inevitable. Defeat Ankka before you succumb to her final hallucination.,"Смерть неизбежна. Победите Ankka, прежде чем поддадитесь её последней галлюцинации."
-Death's Advance,Death's Advance
-Death's Charge,Death's Charge
-Death's Embrace,Death's Embrace
-Death's Hand,Death's Hand
-Death's Judgment,Death's Judgment
-Death's Reprise,Death's Reprise
-Death's Retreat,Death's Retreat
-Deathly Aura,Deathly Aura
-Deathly Chill,Deathly Chill
-Deathly Claws,Deathly Claws
-Deathly Enervation,Deathly Enervation
+Death's Advance,Поступь смерти
+Death's Charge,Смертельный натиск
+Death's Embrace,Объятия смерти
+Death's Hand,Длань смерти
+Death's Judgment,Суд смерти
+Death's Reprise,Эхо смерти
+Death's Retreat,Отступление смерти
+Deathly Aura,Аура смерти
+Deathly Chill,Смертельный холод
+Deathly Claws,Смертоносные когти
+Deathly Enervation,Смертельное истощение
 Deathly Haste,Смертельная спешка
-Deathly Swarm,Deathly Swarm
-Deathstrike,Deathstrike
-Debilitated,Debilitated
-Debilitating Arc,Debilitating Arc
-Debris Tornado,Debris Tornado
+Deathly Swarm,Смертоносный рой
+Deathstrike,Смертельный удар
+Debilitated,Ослабление
+Debilitating Arc,Ослабляющая дуга
+Debris Tornado,Торнадо обломков
 Debris from the engulfed boulder scorches your body.,Обломки от поглощенного валуна обжигают ваше тело.
 Debris left over from an exploded pylon. Deals damage in an area.,Остатки взорванного пилона. Наносит урон по площади.
-Decapitate,Decapitate
-Deception,Deception
+Decapitate,Обезглавливание
+Deception,Обман
 "Decima calls out to the storm, and the storm responds with a thundering chorus.","Decima взывает к буре, и буря отвечает громоподобным хором."
 "Decima calls out to the storm, which responds with a thundering chorus. This consumes all stacks of Peal of Discord and Peal of Harmony.","Decima взывает к буре, которая отвечает громоподобным хором. Это поглощает все заряды «Peal of Discord» и «Peal of Harmony»."
 Decima causes a large ring-shaped area of ground to erupt with jagged rocks and pyrite. The tremendous force sends enemies sliding toward Decima. Enemies that impact a conduit will take extra damage and ricochet in another direction.,"Decima вызывает извержение зазубренных камней и пирита на большой кольцеобразной области земли. Огромная сила заставляет врагов скользить к Decima. Враги, столкнувшиеся с проводником, получат дополнительный урон и отскочат в другом направлении."
@@ -452,22 +452,22 @@ Decima will periodically consume stacks of this effect to target a number of nea
 Decima will periodically consumes stacks of this effect to target a number of conduits with Chorus of Thunder.,"Decima будет периодически поглощать заряды этого эффекта, чтобы поразить несколько проводников с помощью Chorus of Thunder."
 "Decima's armor fractures, leaving her vulnerable to her own Flux Nova attack. When Flux Nova detonates, Decima will become stunned and exposed.","Броня Decima трескается, делая её уязвимой к собственной атаке Flux Nova. Когда Flux Nova детонирует, Decima будет оглушена и станет уязвимой."
 "Decima's aura makes your bones resonate with arcane flux. Each time she gains charge, the sensation becomes more painful.",Аура Decima заставляет ваши кости резонировать от магического потока. С каждым полученным ею зарядом ощущение становится всё болезненнее.
-Decoy,Decoy
-Deep Abyss,Deep Abyss
-Deep Freeze,Deep Freeze
-Defense Field,Defense Field
+Decoy,Приманка
+Deep Abyss,Глубокая бездна
+Deep Freeze,Глубокая заморозка
+Defense Field,Защитное поле
 "Defensive Artifact. Dash toward your target, damaging and inflicting conditions on enemies and removing conditions from allies around you when you reach your destination. You evade attacks as long as you are still traveling.","Защитный артефакт. Совершите рывок к цели, нанося урон и накладывая состояния на врагов, а также снимая состояния с союзников вокруг вас по прибытии. Вы уклоняетесь от атак, пока продолжаете движение."
 "Defensive Artifact. Leap to the targeted area and slam down with an enchanted exalted hammer, damaging enemies while healing and granting boons to allies in the area.","Защитный артефакт. Прыгните в указанную область и обрушьтесь вниз с зачарованным молотом возвышенных, нанося урон врагам, исцеляя и накладывая благословения на союзников в этой области."
 "Defensive Artifact. Place an electrified shield at your position that blocks projectiles, dealing damage to enemies and granting barrier to allies within it.","Защитный артефакт. Установите электрифицированный щит на своей позиции, который блокирует снаряды, наносит урон врагам и накладывает барьер на союзников внутри него."
 "Defensive Artifact. Summon a holo-dancer decoy that taunts enemies and grants boons to nearby allies. It self-destructs if it is not destroyed, dealing damage to enemies in a large area and granting additional boons to allies.","Защитный артефакт. Призовите голо-танцора-приманку, который провоцирует врагов и накладывает благословения на ближайших союзников. Он самоуничтожается, если не будет уничтожен, нанося урон врагам в большой области и накладывая дополнительные благословения на союзников."
-Defensive Protocol: Cleanse,Defensive Protocol: Cleanse
-Defensive Protocol: Protect,Defensive Protocol: Protect
-Defensive Protocol: Thorns,Defensive Protocol: Thorns
-Defiant Roar,Defiant Roar
-Defiant Stance,Defiant Stance
-Deflecting Shot,Deflecting Shot
-Deft Strike,Deft Strike
-Defy Pain,Defy Pain
+Defensive Protocol: Cleanse,Защитный протокол: Очищение
+Defensive Protocol: Protect,Защитный протокол: Защита
+Defensive Protocol: Thorns,Защитный протокол: Шипы
+Defiant Roar,Дерзкий рык
+Defiant Stance,Дерзкая стойка
+Deflecting Shot,Отражающий выстрел
+Deft Strike,Ловкий удар
+Defy Pain,Игнорирование боли
 Deimos creates deadly zones around the room that can periodically be consumed.,"Deimos создает смертоносные зоны вокруг комнаты, которые могут периодически поглощаться."
 "Deimos decomposes the ground beneath a target. For each target hit, the affected area rapidly increases in size.",Deimos разлагает землю под целью. Для каждой пораженной цели затронутая область быстро увеличивается в размерах.
 "Deimos pulses energy every 3 seconds, damaging all foes in range.","Deimos пульсирует энергией каждые 3 секунды, нанося урон всем врагам в радиусе действия."
@@ -475,7 +475,7 @@ Deimos creates deadly zones around the room that can periodically be consumed.,"
 "Deimos smashes the ground, knocking back players.","Deimos разбивает землю, отбрасывая игроков."
 "Deimos unleashes Saul's sins, creating devastating damage. Cannot be evaded or mitigated with invulnerability.","Deimos высвобождает грехи Saul, создавая разрушительный урон. Нельзя уклониться или смягчить неуязвимостью."
 Deimos's basic attack.,Базовая атака Deimos.
-Deja Vu,Deja Vu
+Deja Vu,Дежавю
 Delay,Задержка
 Delay Time,Время задержки
 Delayed Damage,Отложенный урон
@@ -493,23 +493,23 @@ Deliver a second strike that heals yourself for each target it hits.,"Нанес
 "Deliver multiple strikes, weakening foes.","Нанесите несколько ударов, ослабляя врагов."
 "Deliver the final attack, calling lightning strikes onto enemies.","Нанесите финальную атаку, призывая удары молнии на врагов."
 Deliver three final chops to your foe.,В завершение атаки трижды рубануть по противнику.
-Deluge,Deluge
-Demonic Aura,Demonic Aura
-Demonic Blast,Demonic Blast
-Demonic Fever,Demonic Fever
-Demonic Projection,Demonic Projection
-Demonic Shock Wave,Demonic Shock Wave
-Deploy Jade Sphere,Deploy Jade Sphere
-Deploy Mine,Deploy Mine
+Deluge,Потоп
+Demonic Aura,Демоническая аура
+Demonic Blast,Демонический взрыв
+Demonic Fever,Демоническая лихорадка
+Demonic Projection,Демоническая проекция
+Demonic Shock Wave,Демоническая ударная волна
+Deploy Jade Sphere,Развернуть нефритовую сферу
+Deploy Mine,Установить мину
 Deploy a remote-controlled mine that damages nearby foes and removes a boon.,"Устанавливает мину с дистанционным управлением, которая наносит урон ближайшим врагам и снимает благословение."
 Deploy two remote-controlled mines that damage nearby foes and remove a boon.,"Устанавливает две мины с дистанционным управлением, которые наносят урон ближайшим врагам и снимают благословение."
-Derecho,Derecho
-Desert Shroud,Desert Shroud
-Desiccate,Desiccate
+Derecho,Деречо
+Desert Shroud,Песчаный саван
+Desiccate,Осушение
 "Designates a target for timed explosion. Targets must seek containment alone in a time pocket, or they will harm themselves and allies.","Назначает цель для взрыва по таймеру. Цели должны искать изоляцию в одиночку во временном кармане, иначе они навредят себе и союзникам."
 "Desmina pulses an aura every three seconds, causing damage.","Desmina испускает ауру каждые три секунды, нанося урон."
 Desmina's Wurm hurls a glob of acidic spit.,Червь Desmina извергает сгусток кислотной слюны.
-Despairing Darkness,Despairing Darkness
+Despairing Darkness,Отчаянная тьма
 "Destroy all your clones and create a rift in the space-time continuum. When it expires, you will revert back to your original point with your previous health, endurance, and skill recharges. Duration increases with each illusion shattered.
 <c=@reminder>This skill's recharge cannot be reset by other mesmer skills.</c>","Уничтожьте всех своих клонов и создайте разлом в пространственно-временном континууме. Когда он исчезнет, вы вернетесь в исходную точку с прежним уровнем здоровья, выносливости и перезарядками навыков. Длительность увеличивается с каждым разбитым иллюзорным образом.
 <c=@reminder>Перезарядка этого навыка не может быть сброшена другими навыками месмера.</c>"

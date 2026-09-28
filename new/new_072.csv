@@ -15,17 +15,17 @@ Kinderspiel,Детская игра
 "King Adelbern has called the city together to make an announcement. The Vanguard are ordered to appear in full dress uniform. Uncertainty ripples through the unit, but this does not diminish their pride.","King Adelbern созвал жителей города, чтобы сделать объявление. От отряда «Авангард» требуется появиться в полной парадной форме. В рядах подразделения царит неясность, но это ничуть не умаляет их гордость."
 King Adelbern's speech commemorating the efforts of Captain Gwen Thackeray and the Vanguard moved both civilians and soldiers alike. The Vanguard's efforts bring hope to a war-torn land.,"Речь King Adelbern, посвященная заслугам капитана Гвен Такери и отряда «Авангард», тронула как простых жителей, так и солдат. Благодаря усилиям «Авангарда» в измученной войной земле вновь зажглась надежда."
 King Joko's will brought you back into this world. Don't make him regret choosing you!,"Воля короля Joko вернула тебя в этот мир. Не заставляй его пожалеть о том, что выбрал именно тебя!"
-King Moa,King Moa
-King Slam,King Slam
-King Wisp,King Wisp
+King Moa,Король-моа
+King Slam,Королевский шлепок
+King Wisp,Король-светляк
 King's Altar,Царский алтарь
 King's Nighthunter,Ночной охотник короля
 King's Sight,Взор короля
-Kippf,Kippf
+Kippf,Кипф
 Kiran,Киран
 Kirin Statue,Статуя Кирина
 Kirins,Кирины
-Kispik,Kispik
+Kispik,Киспик
 Kiss my tail!,Поцелуй мой хвост!
 Kitah Manse Doors,Двери Китах-Мансе
 Kitchen closes in %str1%,Кухня закрывается в %str1%.
@@ -34,7 +34,7 @@ Kite-Flying Area,Место для запуска воздушных змеев
 Kito wants your team to be more mixed. Grab someone else.,"Кито хочет, чтобы ваша команда была более разнообразной. Привлеките кого-нибудь ещё."
 Kitshark Broodmother,Китшарк-мать
 Kitshark Pup,Щенок кита-акулы
-Kix,Kix
+Kix,Кикс
 "Kixxa, Black Lion Trader","Кикса, торговец Чёрного Льва"
 Kkot-Bi,Ккот-Би
 Klagg's Rocket Gun,Ракетная пушка Клагга
@@ -55,7 +55,7 @@ Knew she'd win!,"Знала, что победит!"
 Knife Tail Gang members cannot be found until more information is gathered. (Information gathering is automatic and only takes time.),"Членов банды «Ножехвостые» пока нельзя найти, необходимо собрать больше информации. (Сбор информации происходит автоматически и занимает некоторое время.)"
 Knife Throw,Бросок ножа
 Knight Kurri,Рыцарь Курри
-Knight of Sorrows,Knight of Sorrows
+Knight of Sorrows,Рыцарь Скорби
 Knock,Удар
 Knock Out,Нокаутируйте
 Knock down your target foe.,Сбивайте врага с ног.
@@ -118,18 +118,18 @@ Koaleszenz III: Kulmination,Коалесценция III: Кульминация
 Koda listens.,Кода слушает.
 Koda sei gepriesen,Кода да пребудет с вами
 Koda's Flame is fading...,Пламя Коды угасает...
-Kodan Brazier,Kodan Brazier
-Kodan Defender,Kodan Defender
-Kodan Experience,Kodan Experience
-Kodan Experience Boost,Kodan Experience Boost
-Kodan Flags,Kodan Flags
-Kodan Flagstand,Kodan Flagstand
-Kodan Landspeaker,Kodan Landspeaker
-Kodan Mother,Kodan Mother
-Kodan Preparation,Kodan Preparation
-Kodan Refugee,Kodan Refugee
-Kodan Scout,Kodan Scout
-Kodan Voice,Kodan Voice
+Kodan Brazier,Коданский жаровник
+Kodan Defender,Защитник кодан
+Kodan Experience,Опыт кодан
+Kodan Experience Boost,Ускоритель опыта Кодана
+Kodan Flags,Флаги кодан
+Kodan Flagstand,Флагшток кодан
+Kodan Landspeaker,Кодан-глашатай
+Kodan Mother,Мать кодан
+Kodan Preparation,Подготовка кодан
+Kodan Refugee,Беженец-кодан
+Kodan Scout,Разведчик-кодан
+Kodan Voice,Голос кодан
 Kodan leave in: %str1%,Кодан покидает: %str1%
 Kodan time to beat: %str1%,Время прохождения Кодана: %str1%
 Kodan village,Деревня кодан
@@ -147,7 +147,7 @@ Konvergenz-Herausforderungsmodus – Decima: Gold,Режим «Конверге�
 Konvergenz-Herausforderungsmodus – Greer: Gold,Режим испытания «Конвергенция» – Грер: золото.
 Konvergenz-Herausforderungsmodus – Ura: Gold,Режим «Конвергенция» - испытание: золото.
 Koptev! I thought he was executed by the generals!,"Коптев! Я думал, генералы его казнили!"
-Kor the Warcaller,Kor the Warcaller
+Kor the Warcaller,"Кор, Военачальник"
 Korag's Hammer,Молот Корага
 Korag's Horn,Рог Корага
 "Korahm, Echoing Gale","Кораэм, Эхо бури"
@@ -166,7 +166,7 @@ Koss Dejarin,Косс Дежарин
 Koss Must Rest,Косс должен отдохнуть.
 Koss on Koss: Volume Two,Косс о Коссе: том второй
 Koss's Legacy,Наследие Косса
-Kossan Dejarin,Kossan Dejarin
+Kossan Dejarin,Коссан Дежарин
 Kossan's Inspiration,Вдохновение Коссана
 Kouris,Курис
 Koza,Коза
@@ -175,20 +175,20 @@ Kraft,Ремесло
 Kraftloser Anzug,Бессильный костюм
 Kraftschub,Рывок силы
 Krag Shatteraxe,Кракг Разрушительтопоров
-Krait Altar,Krait Altar
-Krait Blood Idol,Krait Blood Idol
-Krait Cage,Krait Cage
-Krait Chest,Krait Chest
-Krait Harpoon Turret,Krait Harpoon Turret
-Krait Leader,Krait Leader
-Krait Neoss,Krait Neoss
-Krait Net,Krait Net
+Krait Altar,Алтарь Крайтов
+Krait Blood Idol,Идол крови крайтов
+Krait Cage,Крайтская Клетка
+Krait Chest,Крайтская кираса
+Krait Harpoon Turret,Крайтская гарпунная турель
+Krait Leader,Вожак крайт
+Krait Neoss,Крайт-неосс
+Krait Net,Крайтовая сеть
 Krait Place of Power,Крайтское место силы
-Krait Priestess,Krait Priestess
-Krait Prison,Krait Prison
-Krait Reliquary,Krait Reliquary
+Krait Priestess,Жрица Крайт
+Krait Prison,Крайтская тюрьма
+Krait Reliquary,Реликварий Крайта
 Krait Skin[s],Крайтская кожа[а|и|ей]
-Krait Turret,Krait Turret
+Krait Turret,Крайтийская турель
 Krait are attacking the United Arcanist Lab.,На Объединенную арканистскую лабораторию напали крайты.
 Krait are attacking the United Arcanist Lab. Quaggans from Brooloonu need protection.,На Объединенную арканистскую лабораторию нападают крайты. Квагганам из Брулуну нужна защита.
 Krait are attacking the United Arcanist Lab. Risen are attacking Chokevine Gorge.,На Объединённую арканистскую лабораторию нападают крайты. В ущелье Чокевайн нападали восставшие.
@@ -207,20 +207,20 @@ Kralkatorrik's Heart,Сердце Кралькаторрика
 Kralkatorrik's Ire,Гнев Кралькаторрика
 Kralkatorrik's Reach,Обитель Кралькаторрика
 Kralkatorrik's Strength,Сила Кралькаторрика
-Kralkatorrik's Torment,Kralkatorrik's Torment
+Kralkatorrik's Torment,Мучение Кралькаторрика
 "Kralkatorrik's cocoon has violently shattered, and Brandstorms now flood the region.","Кокон Kralkatorrik был яростно разрушен, и теперь регион захлестнули Брандовые бури."
 Kraya,Края
 Krazbee,Кразби
 Krebs-Wurfspiel-Champion,Чемпион по метанию раков.
 Kreislauf geschlossen,Цикл завершён.
-Krennak the Short,Krennak the Short
+Krennak the Short,Креннак Коротышка
 Kresdor Altar,Алтарь Кресдора
-Krewe Apprentice Pekk,Krewe Apprentice Pekk
-Krewe Leader Drazz,Krewe Leader Drazz
-Krewe Leader Krattz,Krewe Leader Krattz
-Krewe Leader Lenx,Krewe Leader Lenx
-Krewe Researcher Inja,Krewe Researcher Inja
-Krewe Researcher Tyaj,Krewe Researcher Tyaj
+Krewe Apprentice Pekk,Ученик гильдии Пекк
+Krewe Leader Drazz,Лидер отряда Дразз
+Krewe Leader Krattz,Лидер банды Краттц
+Krewe Leader Lenx,"Лидер Крева, Ленкс"
+Krewe Researcher Inja,Исследовательница гильдии «Крёв» Инджа
+Krewe Researcher Tyaj,Исследовательница гильдии Тьяй
 Krewe members freed: %num1%/5,Освобождено членов гильдии: %num1%/5
 Krewe to revive,Креве для воскрешения
 Krewe! Avenge me!,Креве! Отомстите за меня!
@@ -238,7 +238,7 @@ Kristallraserei,Кристальная ярость
 Kristina,Кристина
 Kristun,Kristun
 Kritki,Критки
-Krrsol,Krrsol
+Krrsol,Кррсол
 Kru-Mitglied ehrenhalber,Почётный член Кру.
 Krunko's Bug,Жук Крунко
 Krunko's Bugs%num1%,Жуки Кронко: %num1%
@@ -257,7 +257,7 @@ Krytan Gate,Крытанские Ворота
 Krytan Longbow,Крытанский длинный лук
 Krytas Elite,Элитный крайтас
 Kryxx Fizzleban,Крыкс Физзлбан
-Kubo,Kubo
+Kubo,Кубо
 Kuchen Debbies,Кексы Дебби
 Kuckucksuhr,Кукушечные часы
 Kudu and the Inquest seem to disagree with that assessment.,"Похоже, Куду и члены Inquest с этим не согласны."
@@ -273,5 +273,5 @@ Kurzick Illusionist Spirit,Дух-иллюзионист Курзика
 Kutch Darry<br>1258-1277 AE<br>There's no such thing<br>As a devourer with three tails,"Куч Дарри<br>1258–1277 гг.<br>Нет такого понятия,<br>как пожиратель с тремя хвостами."
 Kvothe,Квоут
 Kyran Stonecrush,Киран Стоункраш
-"LGA-R69 ""Frank""","LGA-R69 «Франк»"
+"LGA-R69 ""Frank""",LGA-R69 «Франк»
 LUM-0009,ЛЮМ-0009

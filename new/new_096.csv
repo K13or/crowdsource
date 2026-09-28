@@ -6,7 +6,7 @@ Stew,Рагу
 Stew Pot,Кастрюля с тушеным мясом
 Steward Adamo,Управляющий Адамо
 Steward Bello,Управляющий Белло
-Steward Cecco,Steward Cecco
+Steward Cecco,Управляющий Чекко
 Steward Director,Директор службы поддержки
 Steward Drudo,Управляющий Друдо
 Steward Lanca,Управляющий Ланка
@@ -62,7 +62,7 @@ Stone Summit Cannoneer,Пушкарь Стоун-Саммит
 Stone Summit Demolitionist,Подрывник из Stone Summit
 Stone Summit Drake Rider,Всадник Stone Summit
 Stone Summit Warder,Страж Stone Summit
-Stonecrafter Helena,Stonecrafter Helena
+Stonecrafter Helena,Камнедел Елена
 Stonefist Brawler,Боец-каменная кулачка
 Stonefist Crew • Frenzies,Каменная кулачная команда • Ярость
 Stonefist Cutthroat,Каменная хватка
@@ -372,10 +372,10 @@ Supplies Destroyed,Припасы уничтожены
 Supplies Gathered,Собраны припасы.
 Supplies Stolen,Добыча украдена
 Supplies remaining: %num1%,Осталось припасов: %num1%
-Supply Assistant,Supply Assistant
-Supply Backpack,Supply Backpack
-Supply Box,Supply Box
-Supply Crate Build Location,Supply Crate Build Location
-Supply Crates,Supply Crates
-Supply Golem,Supply Golem
-Supply Master Sootspitter,Supply Master Sootspitter
+Supply Assistant,Помощник по снабжению
+Supply Backpack,Рюкзак снабжения
+Supply Box,Коробка с припасами
+Supply Crate Build Location,Место для строительства ящика с припасами
+Supply Crates,Ящики с припасами
+Supply Golem,Снабжающий голем
+Supply Master Sootspitter,Мастер снабжения Сутспиттер

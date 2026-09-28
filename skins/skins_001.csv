@@ -1,12 +1,12 @@
 english,translate
-"<c=@flavor>""Caution: Contents extremely volatile. Store in a well ventilated area.""</c>","<c=@flavor>«Осторожно: содержимое крайне нестабильно. Хранить в хорошо проветриваемом помещении».</c>"
-"<c=@flavor>""Dread"" is cold.</c>","<c=@flavor>«Ужас» — это холод.</c>"
-"<c=@flavor>""Glaust...""</c>","<c=@flavor>«Глауст...»</c>"
+"<c=@flavor>""Caution: Contents extremely volatile. Store in a well ventilated area.""</c>",<c=@flavor>«Осторожно: содержимое крайне нестабильно. Хранить в хорошо проветриваемом помещении».</c>
+"<c=@flavor>""Dread"" is cold.</c>",<c=@flavor>«Ужас» — это холод.</c>
+"<c=@flavor>""Glaust...""</c>",<c=@flavor>«Глауст...»</c>
 "<c=@flavor>""Good night,"" she whispered. They were little more than speckles of light.</c>","<c=@flavor>«Спокойной ночи», прошептала она. Они были не более чем крошечными светящимися точками.</c>"
-"<c=@flavor>""He bore the weight of his guilt.""</c>","<c=@flavor>«Он нёс бремя своей вины».</c>"
+"<c=@flavor>""He bore the weight of his guilt.""</c>",<c=@flavor>«Он нёс бремя своей вины».</c>
 "<c=@flavor>""Instinct"" means you have to do it.</c>","<c=@flavor>«Инстинкт» означает, что ты должен это сделать.</c>"
 "<c=@flavor>""It's a custom masterpiece refined from hundreds of bounties. I doubt even I could evade its mark."" —Nakato Ibori</c>","<c=@flavor>«Это кастомный шедевр, заточенный на сотнях вознаграждений. Сомневаюсь, что даже я смог бы уклониться от его метки». —Nakato Ibori</c>"
-"<c=@flavor>""Legacy""? It follows you.</c>","<c=@flavor>«Наследие»? Оно следует за тобой.</c>"
+"<c=@flavor>""Legacy""? It follows you.</c>",<c=@flavor>«Наследие»? Оно следует за тобой.</c>
 "<c=@flavor>""Lift up thy weapons. For you are my soldiers, and must you be steadfast, strong, and brave of heart. They who neither hesitate nor stumble shall be rewarded."" -Scriptures of Balthazar, 48 BE</c>","<c=@flavor>«Вознесите ваше оружие. Ибо вы — мои солдаты, и вы должны быть стойкими, сильными и храбрыми сердцем. Те, кто не колеблется и не спотыкается, будут вознаграждены». —Писания Balthazar, 48 БЭ</c>"
 "<c=@flavor>""Normal choya are vicious, but give these guys an extra three feet of height and reach, and they become unstoppable."" —Pit Master Oberon</c>","<c=@flavor>«Обычные чойя свирепы, но дайте этим парням лишние три фута роста и размах рук — и они становятся неудержимыми». —Смотритель Ямы Оберон</c>"
 <c=@flavor>...but you must act now. No one else can see it; only you.</c>,<c=@flavor>...но ты должен действовать сейчас. Никто другой этого не видит; только ты.</c>
@@ -124,378 +124,378 @@ english,translate
 <c=@flavor>Your eyes lie—life is in eternal motion.</c>,<c=@flavor>Твои глаза лгут — жизнь вечно движется.</c>
 <c=@reminder>Unlocked by purchasing from Lin in the Eastern Wilds area of Seitung Province.</c>,<c=@reminder>Разблокируется при покупке у Линь в области Восточные Пустоши Seitung Province.</c>
 <c=@reminder>Unlocked by purchasing from Ukyo Seafeather in Arborstone.</c>,<c=@reminder>Разблокируется при покупке у Укё Морское Перо в Арборстоуне.</c>
-Abaddon's Mask,Abaddon's Mask
-Abomination Axe,Abomination Axe
-Abomination Dagger,Abomination Dagger
-Abomination Focus,Abomination Focus
-Abomination Greatsword,Abomination Greatsword
-Abomination Longbow,Abomination Longbow
-Abomination Mace,Abomination Mace
-Abomination Pistol,Abomination Pistol
-Abomination Rifle,Abomination Rifle
-Abomination Scepter,Abomination Scepter
-Abomination Shield,Abomination Shield
-Abomination Short Bow,Abomination Short Bow
-Abomination Staff,Abomination Staff
-Abomination Sword,Abomination Sword
-Abomination Torch,Abomination Torch
-Abomination Warhorn,Abomination Warhorn
-Abyss Stalker Axe,Abyss Stalker Axe
-Abyss Stalker Dagger,Abyss Stalker Dagger
-Abyss Stalker Focus,Abyss Stalker Focus
-Abyss Stalker Greatsword,Abyss Stalker Greatsword
-Abyss Stalker Hammer,Abyss Stalker Hammer
-Abyss Stalker Longbow,Abyss Stalker Longbow
-Abyss Stalker Mace,Abyss Stalker Mace
-Abyss Stalker Pistol,Abyss Stalker Pistol
-Abyss Stalker Rifle,Abyss Stalker Rifle
-Abyss Stalker Scepter,Abyss Stalker Scepter
-Abyss Stalker Shield,Abyss Stalker Shield
-Abyss Stalker Short Bow,Abyss Stalker Short Bow
-Abyss Stalker Spear,Abyss Stalker Spear
-Abyss Stalker Staff,Abyss Stalker Staff
-Abyss Stalker Sword,Abyss Stalker Sword
-Abyss Stalker Torch,Abyss Stalker Torch
-Abyss Stalker Warhorn,Abyss Stalker Warhorn
-Abyssal Fractal Axe,Abyssal Fractal Axe
-Abyssal Fractal Dagger,Abyssal Fractal Dagger
-Abyssal Fractal Focus,Abyssal Fractal Focus
-Abyssal Fractal Greatsword,Abyssal Fractal Greatsword
-Abyssal Fractal Hammer,Abyssal Fractal Hammer
-Abyssal Fractal Harpoon,Abyssal Fractal Harpoon
-Abyssal Fractal Longbow,Abyssal Fractal Longbow
-Abyssal Fractal Mace,Abyssal Fractal Mace
-Abyssal Fractal Pistol,Abyssal Fractal Pistol
-Abyssal Fractal Rifle,Abyssal Fractal Rifle
-Abyssal Fractal Scepter,Abyssal Fractal Scepter
-Abyssal Fractal Shield,Abyssal Fractal Shield
-Abyssal Fractal Short Bow,Abyssal Fractal Short Bow
-Abyssal Fractal Speargun,Abyssal Fractal Speargun
-Abyssal Fractal Staff,Abyssal Fractal Staff
-Abyssal Fractal Sword,Abyssal Fractal Sword
-Abyssal Fractal Torch,Abyssal Fractal Torch
-Abyssal Fractal Trident,Abyssal Fractal Trident
-Abyssal Fractal Warhorn,Abyssal Fractal Warhorn
-Accelerated Edge Axe,Accelerated Edge Axe
-Accelerated Edge Dagger,Accelerated Edge Dagger
-Accelerated Edge Focus,Accelerated Edge Focus
-Acclaimed Militia Chestpiece,Acclaimed Militia Chestpiece
-Acclaimed Militia Leggings,Acclaimed Militia Leggings
-Adept Boots,Adept Boots
-Adept Epaulets,Adept Epaulets
-Adept Gloves,Adept Gloves
-Adept Leggings,Adept Leggings
-Adina's Nexus,Adina's Nexus
-Adina's Rifle,Adina's Rifle
-Adventurer's Scarf,Adventurer's Scarf
-Adventurer's Spectacles,Adventurer's Spectacles
-Aetherblade Heavy Legplates,Aetherblade Heavy Legplates
-Aetherblade Heavy Warplate,Aetherblade Heavy Warplate
-Aetherblade Medium Boots,Aetherblade Medium Boots
-Aetherblade Medium Leggings,Aetherblade Medium Leggings
-Aetherized Arsenite Greatsword,Aetherized Arsenite Greatsword
-Aetherized Arsenite Hammer,Aetherized Arsenite Hammer
-Aetherized Arsenite Staff,Aetherized Arsenite Staff
-Aetherized Dagger,Aetherized Dagger
-Aetherized Focus,Aetherized Focus
-Aetherized Greatsword,Aetherized Greatsword
-Aetherized Harpoon Gun,Aetherized Harpoon Gun
-Aetherized Indigo Greatsword,Aetherized Indigo Greatsword
-Aetherized Indigo Hammer,Aetherized Indigo Hammer
-Aetherized Indigo Staff,Aetherized Indigo Staff
-Aetherized Longbow,Aetherized Longbow
-Aetherized Mace,Aetherized Mace
-Aetherized Scepter,Aetherized Scepter
-Aetherized Shield,Aetherized Shield
-Aetherized Short Bow,Aetherized Short Bow
-Aetherized Spear,Aetherized Spear
-Aetherized Staff,Aetherized Staff
-Aetherized Trident,Aetherized Trident
-Aetherized Vermilion Greatsword,Aetherized Vermilion Greatsword
-Aetherized Vermilion Hammer,Aetherized Vermilion Hammer
-Aetherized Vermilion Staff,Aetherized Vermilion Staff
-Aetherized Warhorn,Aetherized Warhorn
-Air-Filtration Device,Air-Filtration Device
-Alabaster Spider's Axe,Alabaster Spider's Axe
-Alabaster Spider's Dagger,Alabaster Spider's Dagger
-Alabaster Spider's Focus,Alabaster Spider's Focus
-Alabaster Spider's Greatsword,Alabaster Spider's Greatsword
-Alabaster Spider's Hammer,Alabaster Spider's Hammer
-Alabaster Spider's Longbow,Alabaster Spider's Longbow
-Alabaster Spider's Mace,Alabaster Spider's Mace
-Alabaster Spider's Pistol,Alabaster Spider's Pistol
-Alabaster Spider's Rifle,Alabaster Spider's Rifle
-Alabaster Spider's Scepter,Alabaster Spider's Scepter
-Alabaster Spider's Shield,Alabaster Spider's Shield
-Alabaster Spider's Short Bow,Alabaster Spider's Short Bow
-Alabaster Spider's Spear,Alabaster Spider's Spear
-Alabaster Spider's Staff,Alabaster Spider's Staff
-Alabaster Spider's Sword,Alabaster Spider's Sword
-Alabaster Spider's Torch,Alabaster Spider's Torch
-Alabaster Spider's Warhorn,Alabaster Spider's Warhorn
-Alchemist Axe,Alchemist Axe
-Alchemist Dagger,Alchemist Dagger
-Alchemist Focus,Alchemist Focus
-Alchemist Greatsword,Alchemist Greatsword
-Alchemist Hammer,Alchemist Hammer
-Alchemist Longbow,Alchemist Longbow
-Alchemist Mace,Alchemist Mace
-Alchemist Pistol,Alchemist Pistol
-Alchemist Rifle,Alchemist Rifle
-Alchemist Scepter,Alchemist Scepter
-Alchemist Shield,Alchemist Shield
-Alchemist Short Bow,Alchemist Short Bow
-Alchemist Staff,Alchemist Staff
-Alchemist Sword,Alchemist Sword
-Alchemist Torch,Alchemist Torch
-Alchemist Warhorn,Alchemist Warhorn
-Amethyst Shield,Amethyst Shield
+Abaddon's Mask,Маска Абаддона
+Abomination Axe,Топор чудовища
+Abomination Dagger,Кинжал мерзости
+Abomination Focus,Фокус Мерзости
+Abomination Greatsword,Двуручный меч абоминации
+Abomination Longbow,Длинный лук чудовища
+Abomination Mace,Булава чудовища
+Abomination Pistol,Пистолет «Чудовище»
+Abomination Rifle,Винтовка мерзости
+Abomination Scepter,Скипетр мерзости
+Abomination Shield,Щит мерзости
+Abomination Short Bow,Короткий лук чудовища
+Abomination Staff,Посох чудовища
+Abomination Sword,Меч чудовища
+Abomination Torch,Факел чудовища
+Abomination Warhorn,Боевой рог отродья
+Abyss Stalker Axe,Топор Странника Бездны
+Abyss Stalker Dagger,Кинжал Странника Бездны
+Abyss Stalker Focus,Фокус Странника Бездны
+Abyss Stalker Greatsword,Двуручный меч Странника Бездны
+Abyss Stalker Hammer,Молот Странника Бездны
+Abyss Stalker Longbow,Длинный лук Странника Бездны
+Abyss Stalker Mace,Булава Странника Бездны
+Abyss Stalker Pistol,Пистолет Преследователя Бездны
+Abyss Stalker Rifle,Винтовка Преследователя Бездны
+Abyss Stalker Scepter,Скипетр Преследователя Бездны
+Abyss Stalker Shield,Щит Преследователя Бездны
+Abyss Stalker Short Bow,Короткий лук Преследователя Бездны
+Abyss Stalker Spear,Копьё Преследователя Бездны
+Abyss Stalker Staff,Посох Преследователя Бездны
+Abyss Stalker Sword,Меч Преследователя Бездны
+Abyss Stalker Torch,Факел Преследователя Бездны
+Abyss Stalker Warhorn,Боевой рог Преследователя Бездны
+Abyssal Fractal Axe,Топор Бездонного Фрактала
+Abyssal Fractal Dagger,Кинжал бездонного фрактала
+Abyssal Fractal Focus,Бездонный фрактальный фокус
+Abyssal Fractal Greatsword,Двуручный меч бездонного фрактала
+Abyssal Fractal Hammer,Бездонный фрактальный молот
+Abyssal Fractal Harpoon,Гарпун бездонного фрактала
+Abyssal Fractal Longbow,Бездонный фрактальный длинный лук
+Abyssal Fractal Mace,Бездонная фрактальная булава
+Abyssal Fractal Pistol,Пистолет бездонного фрактала
+Abyssal Fractal Rifle,Бездонная фрактальная винтовка
+Abyssal Fractal Scepter,Скипетр Бездны Фрактала
+Abyssal Fractal Shield,Бездонный фрактальный щит
+Abyssal Fractal Short Bow,Короткий лук бездонного фрактала
+Abyssal Fractal Speargun,Бездонное фрактальное гарпунное ружьё
+Abyssal Fractal Staff,Посох Бездонного Фрактала
+Abyssal Fractal Sword,Меч бездонного фрактала
+Abyssal Fractal Torch,Факел бездонного фрактала
+Abyssal Fractal Trident,Трезубец Бездонного фрактала
+Abyssal Fractal Warhorn,Бездонный фрактальный боевой рог
+Accelerated Edge Axe,Ускоренный топор с лезвием
+Accelerated Edge Dagger,Ускоренный кинжал
+Accelerated Edge Focus,Ускоренный фокус
+Acclaimed Militia Chestpiece,Нагрудник прославленного ополчения
+Acclaimed Militia Leggings,Поножи прославленного ополчения
+Adept Boots,Сапоги умельца
+Adept Epaulets,Эполеты адепта
+Adept Gloves,Перчатки адепта
+Adept Leggings,Поножи ученика
+Adina's Nexus,Узел Адины
+Adina's Rifle,Винтовка Адины
+Adventurer's Scarf,Шарф авантюриста
+Adventurer's Spectacles,Очки искателя приключений
+Aetherblade Heavy Legplates,Тяжёлые набедренники эфирного клинка
+Aetherblade Heavy Warplate,Тяжёлая броня «Эфирные клинки»
+Aetherblade Medium Boots,Средние сапоги эфирного клинка
+Aetherblade Medium Leggings,Средние поножи эфирного клинка
+Aetherized Arsenite Greatsword,Эфиризованный арсенитовый двуручный меч
+Aetherized Arsenite Hammer,Эфиризированный арсенитовый молот
+Aetherized Arsenite Staff,Эфиризированный посох арсенита
+Aetherized Dagger,Эфирный кинжал
+Aetherized Focus,Эфирный фокус
+Aetherized Greatsword,Эфирный двуручный меч
+Aetherized Harpoon Gun,Эфирное гарпунное ружьё
+Aetherized Indigo Greatsword,Лазурный двуручный меч эфира
+Aetherized Indigo Hammer,Этеризованный индиговый молот
+Aetherized Indigo Staff,Эфирный индиговый посох
+Aetherized Longbow,Эфирный длинный лук
+Aetherized Mace,Эфирная булава
+Aetherized Scepter,Эфирный скипетр
+Aetherized Shield,Эфирный щит
+Aetherized Short Bow,Этеризованный короткий лук
+Aetherized Spear,Этеризованное копьё
+Aetherized Staff,Этеризованный посох
+Aetherized Trident,Этеризованный трезубец
+Aetherized Vermilion Greatsword,Эфиризованный вермильоновый двуручный меч
+Aetherized Vermilion Hammer,Эфиризованный вермильоновый молот
+Aetherized Vermilion Staff,Эфирный посох цвета вермильон
+Aetherized Warhorn,Этеризованный боевой рог
+Air-Filtration Device,Воздухоочистительное устройство
+Alabaster Spider's Axe,Топор алебастрового паука
+Alabaster Spider's Dagger,Кинжал алебастрового паука
+Alabaster Spider's Focus,Фокус алебастрового паука
+Alabaster Spider's Greatsword,Алебастровый паучий двуручный меч
+Alabaster Spider's Hammer,Молот алебастрового паука
+Alabaster Spider's Longbow,Алебастровый длинный лук паука
+Alabaster Spider's Mace,Булава алебастрового паука
+Alabaster Spider's Pistol,Пистолет алебастрового паука
+Alabaster Spider's Rifle,Винтовка алебастрового паука
+Alabaster Spider's Scepter,Алебастровый скипетр паука
+Alabaster Spider's Shield,Щит «Алебастровый паук»
+Alabaster Spider's Short Bow,Короткий лук алебастрового паука
+Alabaster Spider's Spear,Копьё алебастрового паука
+Alabaster Spider's Staff,Посох алебастрового паука
+Alabaster Spider's Sword,Меч алебастрового паука
+Alabaster Spider's Torch,Факел алебастрового паука
+Alabaster Spider's Warhorn,Алебастровый боевой рог паука
+Alchemist Axe,Топор алхимика
+Alchemist Dagger,Кинжал алхимика
+Alchemist Focus,Фокус алхимика
+Alchemist Greatsword,Двуручный меч алхимика
+Alchemist Hammer,Молот алхимика
+Alchemist Longbow,Длинный лук алхимика
+Alchemist Mace,Булава алхимика
+Alchemist Pistol,Пистолет алхимика
+Alchemist Rifle,Винтовка алхимика
+Alchemist Scepter,Скипетр алхимика
+Alchemist Shield,Щит алхимика
+Alchemist Short Bow,Короткий лук алхимика
+Alchemist Staff,Посох алхимика
+Alchemist Sword,Меч алхимика
+Alchemist Torch,Факел алхимика
+Alchemist Warhorn,Боевой рог алхимика
+Amethyst Shield,Аметистовый щит
 "An Ancient Boreal shield, crafted using materials found in Bjora Marches.","Древний бореальный щит, изготовленный из материалов, найденных в Бьорских Марках."
 "An Ancient Boreal weapon, crafted using materials found in Bjora Marches.","Древнее бореальное оружие, изготовленное из материалов, найденных в Бьорских Марках."
-Ancient Boreal Axe,Ancient Boreal Axe
-Ancient Boreal Dagger,Ancient Boreal Dagger
-Ancient Boreal Focus,Ancient Boreal Focus
-Ancient Boreal Greatsword,Ancient Boreal Greatsword
-Ancient Boreal Hammer,Ancient Boreal Hammer
-Ancient Boreal Longbow,Ancient Boreal Longbow
-Ancient Boreal Mace,Ancient Boreal Mace
-Ancient Boreal Pistol,Ancient Boreal Pistol
-Ancient Boreal Rifle,Ancient Boreal Rifle
-Ancient Boreal Scepter,Ancient Boreal Scepter
-Ancient Boreal Shield,Ancient Boreal Shield
-Ancient Boreal Short Bow,Ancient Boreal Short Bow
-Ancient Boreal Staff,Ancient Boreal Staff
-Ancient Boreal Sword,Ancient Boreal Sword
-Ancient Boreal Torch,Ancient Boreal Torch
-Ancient Boreal Warhorn,Ancient Boreal Warhorn
-Ancient Canthan Gambeson,Ancient Canthan Gambeson
-Ancient Canthan Gauntlets,Ancient Canthan Gauntlets
-Ancient Canthan Greaves,Ancient Canthan Greaves
-Ancient Canthan Helm,Ancient Canthan Helm
-Ancient Canthan Jacket,Ancient Canthan Jacket
-Ancient Canthan Light Boots,Ancient Canthan Light Boots
-Ancient Canthan Light Gloves,Ancient Canthan Light Gloves
-Ancient Canthan Light Helm,Ancient Canthan Light Helm
-Ancient Canthan Light Leggings,Ancient Canthan Light Leggings
-Ancient Canthan Light Shoulderpads,Ancient Canthan Light Shoulderpads
-Ancient Canthan Medium Boots,Ancient Canthan Medium Boots
-Ancient Canthan Medium Gloves,Ancient Canthan Medium Gloves
-Ancient Canthan Medium Helm,Ancient Canthan Medium Helm
-Ancient Canthan Medium Leggings,Ancient Canthan Medium Leggings
-Ancient Canthan Medium Shoulderpads,Ancient Canthan Medium Shoulderpads
-Ancient Canthan Spaulders,Ancient Canthan Spaulders
-Ancient Canthan Tassets,Ancient Canthan Tassets
-Ancient Canthan Tunic,Ancient Canthan Tunic
-Ancient Kraken Cuirass,Ancient Kraken Cuirass
-Ancient Kraken Gauntlets,Ancient Kraken Gauntlets
-Ancient Kraken Greaves,Ancient Kraken Greaves
-Ancient Kraken Helmet,Ancient Kraken Helmet
-Ancient Kraken Pauldrons,Ancient Kraken Pauldrons
-Ancient Kraken Tassets,Ancient Kraken Tassets
-Ancient Ritualist Cowl,Ancient Ritualist Cowl
-Ancient Ritualist Gloves,Ancient Ritualist Gloves
-Ancient Ritualist Mantle,Ancient Ritualist Mantle
-Ancient Ritualist Pants,Ancient Ritualist Pants
-Ancient Ritualist Shoes,Ancient Ritualist Shoes
-Ancient Ritualist Vestments,Ancient Ritualist Vestments
-Ancient Tahkayun Boots,Ancient Tahkayun Boots
-Ancient Tahkayun Jerkin,Ancient Tahkayun Jerkin
-Ancient Tahkayun Leggings,Ancient Tahkayun Leggings
-Ancient Tahkayun Mask,Ancient Tahkayun Mask
-Ancient Tahkayun Shoulders,Ancient Tahkayun Shoulders
-Ancient Tahkayun Vambraces,Ancient Tahkayun Vambraces
-Angler Hat,Angler Hat
-Angler Vest,Angler Vest
-Annelid Rifle,Annelid Rifle
-Apprentice Band,Apprentice Band
-Apprentice Gloves,Apprentice Gloves
-Aquarium Greatsword,Aquarium Greatsword
-Arbiter Greatbow,Arbiter Greatbow
-Arborist Boots,Arborist Boots
-Arborist Gloves,Arborist Gloves
-Arborist Helm,Arborist Helm
-Arborist Leggings,Arborist Leggings
-Arborist Shoulderguards,Arborist Shoulderguards
-Arcane Battlestaff,Arcane Battlestaff
-Arcane Marksman Pistol,Arcane Marksman Pistol
-Arcane Marksman Rifle,Arcane Marksman Rifle
-Arcane Sigil Backpack,Arcane Sigil Backpack
-Arcane Spellweaver's Hat,Arcane Spellweaver's Hat
-Archdemon Wings Backpack,Archdemon Wings Backpack
-Archon Boots,Archon Boots
-Archon Coat,Archon Coat
-Archon Gloves,Archon Gloves
-Archon Helm,Archon Helm
-Archon Leggings,Archon Leggings
-Archon Shoulders,Archon Shoulders
-Aristocrat's Epaulets,Aristocrat's Epaulets
-Aristocrat's Livery,Aristocrat's Livery
-Aristocrat's Masque,Aristocrat's Masque
-Aristocrat's Pants,Aristocrat's Pants
-Aristocrat's Shoes,Aristocrat's Shoes
-Artisan Zharra's Cape,Artisan Zharra's Cape
-Artisan Zharra's Hood,Artisan Zharra's Hood
-Ash Dominion Pistol,Ash Dominion Pistol
-Ash Legion Combat Blade,Ash Legion Combat Blade
-Ash Legion Flamesaw,Ash Legion Flamesaw
-Ash Legion Longshot,Ash Legion Longshot
-Ash Legion Pistol,Ash Legion Pistol
-Ash Legion Staff,Ash Legion Staff
-Aspect Master's Greatsword,Aspect Master's Greatsword
-Assassin's Boots,Assassin's Boots
-Assassin's Coat,Assassin's Coat
-Assassin's Gloves,Assassin's Gloves
-Assassin's Leggings,Assassin's Leggings
-Assassin's Mask,Assassin's Mask
-Assassin's Shoulderpads,Assassin's Shoulderpads
-Astral Apparatus,Astral Apparatus
-Astral Avenger,Astral Avenger
-Astral Beacon,Astral Beacon
-Astral Cannon,Astral Cannon
-Astral Cleaver,Astral Cleaver
-Astral Disk,Astral Disk
-Astral Harbinger,Astral Harbinger
-Astral Khopesh,Astral Khopesh
-Astral Knobkerrie,Astral Knobkerrie
-Astral Longbow,Astral Longbow
-Astral Orrery,Astral Orrery
-Astral Razor,Astral Razor
-Astral Revolver,Astral Revolver
-Astral Scepter,Astral Scepter
-Astral Short Bow,Astral Short Bow
-Astral Spire,Astral Spire
-Aureate Axe,Aureate Axe
-Aureate Highlander Greatsword,Aureate Highlander Greatsword
-Aureate Longbow,Aureate Longbow
-Aureate Mace,Aureate Mace
-Aureate Musket,Aureate Musket
-Aureate Partisan,Aureate Partisan
-Aureate Pistol,Aureate Pistol
-Aureate Rinblade,Aureate Rinblade
-Aureate Sconce,Aureate Sconce
-Aureate Short Bow,Aureate Short Bow
-Aureate Spear,Aureate Spear
-Aureate Speargun,Aureate Speargun
-Aureate Targe,Aureate Targe
-Aureate Trident,Aureate Trident
-Aureate Virge,Aureate Virge
-Aureate Warhammer,Aureate Warhammer
-Aureate Warhorn,Aureate Warhorn
-Aurene's Crystalline Claws,Aurene's Crystalline Claws
-Aurene's Crystalline Diadem,Aurene's Crystalline Diadem
-Aurene's Crystalline Pauldrons,Aurene's Crystalline Pauldrons
-Auric Axe,Auric Axe
-Auric Dagger,Auric Dagger
-Auric Focus,Auric Focus
-Auric Greatsword,Auric Greatsword
-Auric Hammer,Auric Hammer
-Auric Longbow,Auric Longbow
-Auric Mace,Auric Mace
-Auric Pistol,Auric Pistol
-Auric Rifle,Auric Rifle
-Auric Scepter,Auric Scepter
-Auric Shield,Auric Shield
-Auric Short Bow,Auric Short Bow
-Auric Staff,Auric Staff
-Auric Sword,Auric Sword
-Auric Torch,Auric Torch
-Auric Warhorn,Auric Warhorn
-Aurous Wand,Aurous Wand
-Austral Mantle,Austral Mantle
-Auxiliary Powered Boots,Auxiliary Powered Boots
-Auxiliary Powered Coat,Auxiliary Powered Coat
-Auxiliary Powered Epaulets,Auxiliary Powered Epaulets
-Auxiliary Powered Gloves,Auxiliary Powered Gloves
-Auxiliary Powered Helm,Auxiliary Powered Helm
-Auxiliary Powered Leggings,Auxiliary Powered Leggings
+Ancient Boreal Axe,Древний бореальный топор
+Ancient Boreal Dagger,Древний бореальный кинжал
+Ancient Boreal Focus,Древний бореальный фокус
+Ancient Boreal Greatsword,Древний бореальный двуручный меч
+Ancient Boreal Hammer,Древний бореальный молот
+Ancient Boreal Longbow,Древний бореальный длинный лук
+Ancient Boreal Mace,Древняя бореальная булава
+Ancient Boreal Pistol,Древний бореальный пистолет
+Ancient Boreal Rifle,Древняя бореальная винтовка
+Ancient Boreal Scepter,Древний бореальный скипетр
+Ancient Boreal Shield,Древний бореальный щит
+Ancient Boreal Short Bow,Древний Бореальный Короткий Лук
+Ancient Boreal Staff,Древний бореальный посох
+Ancient Boreal Sword,Древний бореальный меч
+Ancient Boreal Torch,Древний бореальный факел
+Ancient Boreal Warhorn,Древний бореальный боевой рог
+Ancient Canthan Gambeson,Древний кантский гамбезон
+Ancient Canthan Gauntlets,Древние кантанские рукавицы
+Ancient Canthan Greaves,Древние кантанские наголенники
+Ancient Canthan Helm,Древний кантанский шлем
+Ancient Canthan Jacket,Древняя кантанская куртка
+Ancient Canthan Light Boots,Древние кантанские лёгкие сапоги
+Ancient Canthan Light Gloves,Древние кантанские лёгкие перчатки
+Ancient Canthan Light Helm,Древний кантийский лёгкий шлем
+Ancient Canthan Light Leggings,Древние кантанские лёгкие поножи
+Ancient Canthan Light Shoulderpads,Древние кантские лёгкие наплечники
+Ancient Canthan Medium Boots,Древние кантанские средние ботинки
+Ancient Canthan Medium Gloves,Древние кантанские перчатки (средняя броня)
+Ancient Canthan Medium Helm,Древний кантанский средний шлем
+Ancient Canthan Medium Leggings,Древние кантанские средние поножи
+Ancient Canthan Medium Shoulderpads,Древние кантанские средние наплечники
+Ancient Canthan Spaulders,Древние кантанские наплечники
+Ancient Canthan Tassets,Древние кантанские набедренники
+Ancient Canthan Tunic,Древняя кантанская туника
+Ancient Kraken Cuirass,Кираса древнего кракена
+Ancient Kraken Gauntlets,Перчатки Древнего кракена
+Ancient Kraken Greaves,Древние наголенники кракена
+Ancient Kraken Helmet,Древний шлем кракена
+Ancient Kraken Pauldrons,Наплечники древнего кракена
+Ancient Kraken Tassets,Набедренники древнего кракена
+Ancient Ritualist Cowl,Древний капюшон ритуалиста
+Ancient Ritualist Gloves,Перчатки древнего ритуалиста
+Ancient Ritualist Mantle,Плащ древнего ритуалиста
+Ancient Ritualist Pants,Штаны древнего ритуалиста
+Ancient Ritualist Shoes,Древние туфли ритуалиста
+Ancient Ritualist Vestments,Одеяние древнего ритуалиста
+Ancient Tahkayun Boots,Древние сапоги Тахкаюна
+Ancient Tahkayun Jerkin,Древняя куртка тахкаюн
+Ancient Tahkayun Leggings,Древние Поножи Тахкаюн
+Ancient Tahkayun Mask,Древняя маска Тахкаюн
+Ancient Tahkayun Shoulders,Наплечники древнего тахкаюна
+Ancient Tahkayun Vambraces,Древние тахкаюнские наручи
+Angler Hat,Шляпа рыболова
+Angler Vest,Жилет рыбака
+Annelid Rifle,Кольчатая винтовка
+Apprentice Band,Ученическая повязка
+Apprentice Gloves,Перчатки ученика
+Aquarium Greatsword,Аквариумный двуручный меч
+Arbiter Greatbow,Великий лук вершителя
+Arborist Boots,Сапоги древолюба
+Arborist Gloves,Перчатки древовода
+Arborist Helm,Шлем древесника
+Arborist Leggings,Поножи древоведа
+Arborist Shoulderguards,Наплечники древоведа
+Arcane Battlestaff,Тайный боевой посох
+Arcane Marksman Pistol,Мистический пистолет стрелка
+Arcane Marksman Rifle,Мистическая винтовка стрелка
+Arcane Sigil Backpack,Мистический рюкзак с сигилом
+Arcane Spellweaver's Hat,Шляпа мистического ткача заклинаний
+Archdemon Wings Backpack,Рюкзак «Крылья архидемона»
+Archon Boots,Сапоги архонта
+Archon Coat,Куртка архонта
+Archon Gloves,Перчатки архонта
+Archon Helm,Шлем архонта
+Archon Leggings,Поножи Архонта
+Archon Shoulders,Наплечники архонта
+Aristocrat's Epaulets,Эполеты аристократа
+Aristocrat's Livery,Ливрея аристократа
+Aristocrat's Masque,Маска аристократа
+Aristocrat's Pants,Штаны аристократа
+Aristocrat's Shoes,Туфли аристократа
+Artisan Zharra's Cape,Плащ мастера Жарры
+Artisan Zharra's Hood,Капюшон мастера Жарры
+Ash Dominion Pistol,Пистолет пепельного владычества
+Ash Legion Combat Blade,Боевой клинок Пепельного легиона
+Ash Legion Flamesaw,Пила Пепельного легиона
+Ash Legion Longshot,Дальнобойщик Пепельного легиона
+Ash Legion Pistol,Пистолет Пепельного легиона
+Ash Legion Staff,Посох Пепельного легиона
+Aspect Master's Greatsword,Двуручный меч мастера аспектов
+Assassin's Boots,Сапоги убийцы
+Assassin's Coat,Куртка убийцы
+Assassin's Gloves,Перчатки убийцы
+Assassin's Leggings,Поножи убийцы
+Assassin's Mask,Маска убийцы
+Assassin's Shoulderpads,Наплечники убийцы
+Astral Apparatus,Астральный аппарат
+Astral Avenger,Астральный мститель
+Astral Beacon,Астральный маяк
+Astral Cannon,Астральная пушка
+Astral Cleaver,Астральный тесак
+Astral Disk,Астральный диск
+Astral Harbinger,Астральный предвестник
+Astral Khopesh,Астральный хопеш
+Astral Knobkerrie,Астральная дубинка
+Astral Longbow,Астральный длинный лук
+Astral Orrery,Астральный оррерий
+Astral Razor,Астральная бритва
+Astral Revolver,Астральный револьвер
+Astral Scepter,Астральный скипетр
+Astral Short Bow,Астральный короткий лук
+Astral Spire,Астральный шпиль
+Aureate Axe,Золотистый топор
+Aureate Highlander Greatsword,Двуручный меч «Златошёрстный горный»
+Aureate Longbow,Золотой длинный лук
+Aureate Mace,Золотая булава
+Aureate Musket,Золотой мушкет
+Aureate Partisan,Золочёная алебарда
+Aureate Pistol,Золочёный пистолет
+Aureate Rinblade,Златолистный ринблейд
+Aureate Sconce,Золочёный бра
+Aureate Short Bow,Золотистый короткий лук
+Aureate Spear,Золочёное копьё
+Aureate Speargun,Золотое гарпунное ружьё
+Aureate Targe,Ауреат-тарж
+Aureate Trident,Золочёный трезубец
+Aureate Virge,Ауреатовый жезл
+Aureate Warhammer,Ауреатовый боевой молот
+Aureate Warhorn,Золотой боевой рог
+Aurene's Crystalline Claws,Кристаллические когти Аурены
+Aurene's Crystalline Diadem,Кристаллическая диадема Аурены
+Aurene's Crystalline Pauldrons,Кристаллические наплечники Аурены
+Auric Axe,Аурический топор
+Auric Dagger,Золотой кинжал
+Auric Focus,Аурический фокус
+Auric Greatsword,Золотой двуручный меч
+Auric Hammer,Аурический молот
+Auric Longbow,Золотой длинный лук
+Auric Mace,Аурическая булава
+Auric Pistol,Аурический пистолет
+Auric Rifle,Аурическая винтовка
+Auric Scepter,Аурический скипетр
+Auric Shield,Аурический щит
+Auric Short Bow,Аурический короткий лук
+Auric Staff,Аурический посох
+Auric Sword,Аурический меч
+Auric Torch,Аурический факел
+Auric Warhorn,Золотой боевой рог
+Aurous Wand,Золотистый жезл
+Austral Mantle,Южная мантия
+Auxiliary Powered Boots,Вспомогательные энергетические ботинки
+Auxiliary Powered Coat,Вспомогательная силовая куртка
+Auxiliary Powered Epaulets,Вспомогательные силовые наплечники
+Auxiliary Powered Gloves,Перчатки с вспомогательным питанием
+Auxiliary Powered Helm,Шлем с дополнительным питанием
+Auxiliary Powered Leggings,Поножи с дополнительным питанием
 Available as a part of select appearance packs in the Black Lion Trading Company Gem Store.,Доступно в составе избранных наборов внешности в магазине самоцветов Black Lion Trading Company.
-Avenger's Armor,Avenger's Armor
-Avenger's Chausses,Avenger's Chausses
-Avenger's Footgear,Avenger's Footgear
-Avenger's Gauntlets,Avenger's Gauntlets
-Avenger's Helm,Avenger's Helm
-Avenger's Shoulderplates,Avenger's Shoulderplates
-Avian Aspect Helm,Avian Aspect Helm
-Axe of the Unseen,Axe of the Unseen
-Azure Dragon Slayer Axe,Azure Dragon Slayer Axe
-Azure Dragon Slayer Dagger,Azure Dragon Slayer Dagger
-Azure Dragon Slayer Focus,Azure Dragon Slayer Focus
-Azure Dragon Slayer Greatsword,Azure Dragon Slayer Greatsword
-Azure Dragon Slayer Hammer,Azure Dragon Slayer Hammer
-Azure Dragon Slayer Longbow,Azure Dragon Slayer Longbow
-Azure Dragon Slayer Mace,Azure Dragon Slayer Mace
-Azure Dragon Slayer Pistol,Azure Dragon Slayer Pistol
-Azure Dragon Slayer Rifle,Azure Dragon Slayer Rifle
-Azure Dragon Slayer Scepter,Azure Dragon Slayer Scepter
-Azure Dragon Slayer Shield,Azure Dragon Slayer Shield
-Azure Dragon Slayer Short Bow,Azure Dragon Slayer Short Bow
-Azure Dragon Slayer Staff,Azure Dragon Slayer Staff
-Azure Dragon Slayer Sword,Azure Dragon Slayer Sword
-Azure Dragon Slayer Torch,Azure Dragon Slayer Torch
-Azure Dragon Slayer Warhorn,Azure Dragon Slayer Warhorn
-Baggy Cargo Pants,Baggy Cargo Pants
-Baleful Dragon Pistol,Baleful Dragon Pistol
-Balthazar's Axe,Balthazar's Axe
-Balthazar's Dagger,Balthazar's Dagger
-Balthazar's Focus,Balthazar's Focus
-Balthazar's Greatsword,Balthazar's Greatsword
-Balthazar's Hammer,Balthazar's Hammer
-Balthazar's Longbow,Balthazar's Longbow
-Balthazar's Mace,Balthazar's Mace
-Balthazar's Pistol,Balthazar's Pistol
-Balthazar's Rifle,Balthazar's Rifle
-Balthazar's Scepter,Balthazar's Scepter
-Balthazar's Shield,Balthazar's Shield
-Balthazar's Short Bow,Balthazar's Short Bow
-Balthazar's Staff,Balthazar's Staff
-Balthazar's Sword,Balthazar's Sword
-Balthazar's Torch,Balthazar's Torch
-Balthazar's Warhorn,Balthazar's Warhorn
-Bamboo Fishing Rod,Bamboo Fishing Rod
-Banner of the Ash Legion,Banner of the Ash Legion
-Banner of the Blood Legion,Banner of the Blood Legion
-Banner of the Dauntless Commander,Banner of the Dauntless Commander
-Banner of the Flame Legion,Banner of the Flame Legion
-Banner of the Iron Legion,Banner of the Iron Legion
-Banner of the Steel Warband,Banner of the Steel Warband
-Banners of Ancient Elona,Banners of Ancient Elona
-Banners of the Sunspear Order,Banners of the Sunspear Order
-Basic Harvesting Sickle,Basic Harvesting Sickle
-Basic Logging Axe,Basic Logging Axe
-Basic Mining Pick,Basic Mining Pick
-Bat Wings Headpiece,Bat Wings Headpiece
-Battlelord's Cape,Battlelord's Cape
-Battlelord's Hood Helm,Battlelord's Hood Helm
-Beach Bracelet,Beach Bracelet
-Beach Hat,Beach Hat
-Beach Sandals,Beach Sandals
-Beaded Bastion,Beaded Bastion
-Beaded Caller,Beaded Caller
-Beaded Claymore,Beaded Claymore
-Beaded Crusher,Beaded Crusher
-Beaded Firearm,Beaded Firearm
-Beaded Greataxe,Beaded Greataxe
-Beaded Harpoon Shooter,Beaded Harpoon Shooter
-Beaded Icon,Beaded Icon
-Beaded Lacerator,Beaded Lacerator
-Beaded Lancea,Beaded Lancea
-Beaded Morning Star,Beaded Morning Star
-Beaded Needler,Beaded Needler
-Beaded Shooter,Beaded Shooter
-Beaded Spear,Beaded Spear
-Beaded Spike,Beaded Spike
-Beaded Stinger,Beaded Stinger
-Beaded Torch,Beaded Torch
-Beaded Trident,Beaded Trident
-Beaded Wand,Beaded Wand
-Beaded Warstaff,Beaded Warstaff
-Bearkin War Helm,Bearkin War Helm
-Beastslayer Axe,Beastslayer Axe
-Beastslayer Dagger,Beastslayer Dagger
-Beastslayer Focus,Beastslayer Focus
-Beastslayer Greatsword,Beastslayer Greatsword
-Beastslayer Hammer,Beastslayer Hammer
-Beastslayer Longbow,Beastslayer Longbow
-Beastslayer Mace,Beastslayer Mace
-Beastslayer Pistol,Beastslayer Pistol
-Beastslayer Rifle,Beastslayer Rifle
+Avenger's Armor,Броня Мстителя
+Avenger's Chausses,Поножи мстителя
+Avenger's Footgear,Обувь мстителя
+Avenger's Gauntlets,Рукавицы мстителя
+Avenger's Helm,Шлем мстителя
+Avenger's Shoulderplates,Наплечные пластины мстителя
+Avian Aspect Helm,Шлем аспекта птиц
+Axe of the Unseen,Топор незримого
+Azure Dragon Slayer Axe,Лазурный топор убийцы драконов
+Azure Dragon Slayer Dagger,Лазурный кинжал убийцы драконов
+Azure Dragon Slayer Focus,Лазурный фокус убийцы драконов
+Azure Dragon Slayer Greatsword,Лазурный двуручный меч убийцы драконов
+Azure Dragon Slayer Hammer,Лазурный молот убийцы драконов
+Azure Dragon Slayer Longbow,Лазурный длинный лук убийцы драконов
+Azure Dragon Slayer Mace,Лазурная булава убийцы драконов
+Azure Dragon Slayer Pistol,Лазурный пистолет убийцы драконов
+Azure Dragon Slayer Rifle,Лазурная винтовка убийцы драконов
+Azure Dragon Slayer Scepter,Лазурный скипетр убийцы драконов
+Azure Dragon Slayer Shield,Лазурный щит убийцы драконов
+Azure Dragon Slayer Short Bow,Лазурный короткий лук убийцы драконов
+Azure Dragon Slayer Staff,Лазурный посох убийцы драконов
+Azure Dragon Slayer Sword,Лазурный меч убийцы драконов
+Azure Dragon Slayer Torch,Лазурный факел убийцы драконов
+Azure Dragon Slayer Warhorn,Лазурный боевой рог убийцы драконов
+Baggy Cargo Pants,Мешковатые карго-штаны
+Baleful Dragon Pistol,Зловещий драконий пистолет
+Balthazar's Axe,Топор Бальтазара
+Balthazar's Dagger,Кинжал Бальтазара
+Balthazar's Focus,Фокус Бальтазара
+Balthazar's Greatsword,Двуручный меч Бальтазара
+Balthazar's Hammer,Молот Бальтазара
+Balthazar's Longbow,Длинный лук Бальтазара
+Balthazar's Mace,Булава Бальтазара
+Balthazar's Pistol,Пистолет Бальтазара
+Balthazar's Rifle,Винтовка Бальтазара
+Balthazar's Scepter,Скипетр Бальтазара
+Balthazar's Shield,Щит Бальтазара
+Balthazar's Short Bow,Короткий лук Бальтазара
+Balthazar's Staff,Посох Бальтазара
+Balthazar's Sword,Меч Бальтазара
+Balthazar's Torch,Факел Бальтазара
+Balthazar's Warhorn,Боевой рог Бальтазара
+Bamboo Fishing Rod,Бамбуковая удочка
+Banner of the Ash Legion,Знамя Ash Legion
+Banner of the Blood Legion,Знамя Blood Legion
+Banner of the Dauntless Commander,Знамя Бесстрашного Командира
+Banner of the Flame Legion,Знамя Flame Legion
+Banner of the Iron Legion,Знамя Iron Legion
+Banner of the Steel Warband,Знамя отряда Стали
+Banners of Ancient Elona,Знамёна Древней Элоны
+Banners of the Sunspear Order,Знамёна Ордена Копьеносцев Солнца
+Basic Harvesting Sickle,Базовый серп сбора
+Basic Logging Axe,Базовый топор лесоруба
+Basic Mining Pick,Базовая кирка горняка
+Bat Wings Headpiece,Головной убор из крыльев летучей мыши
+Battlelord's Cape,Плащ полководца
+Battlelord's Hood Helm,Шлем с капюшоном полководца
+Beach Bracelet,Пляжный браслет
+Beach Hat,Пляжная шляпа
+Beach Sandals,Пляжные сандалии
+Beaded Bastion,Бастион с бисером
+Beaded Caller,Бисерный заклинатель
+Beaded Claymore,Бисерный клеймор
+Beaded Crusher,Бисерный крушитель
+Beaded Firearm,Бисерный пистолет
+Beaded Greataxe,Большой топор с бисером
+Beaded Harpoon Shooter,Копьеметатель с бисером
+Beaded Icon,Бисерная икона
+Beaded Lacerator,Бисерный Раздиратель
+Beaded Lancea,Бисерная ланцея
+Beaded Morning Star,Бисерная утренняя звезда
+Beaded Needler,Бисерная игла
+Beaded Shooter,Стрелковое ожерелье
+Beaded Spear,Украшенное бисером копьё
+Beaded Spike,Шип с бисером
+Beaded Stinger,Бисерное жало
+Beaded Torch,Бисерный факел
+Beaded Trident,Трезубец с бусинами
+Beaded Wand,Бисерная палочка
+Beaded Warstaff,Бисерный боевой посох
+Bearkin War Helm,Боевой шлем медвежьего рода
+Beastslayer Axe,Топор зверобоя
+Beastslayer Dagger,Кинжал убийцы зверей
+Beastslayer Focus,Фокус истребителя зверей
+Beastslayer Greatsword,Двуручный меч истребителя чудовищ
+Beastslayer Hammer,Молот зверобоя
+Beastslayer Longbow,Длинный лук убийцы чудовищ
+Beastslayer Mace,Булава убийцы зверей
+Beastslayer Pistol,Пистолет истребителя зверей
+Beastslayer Rifle,Оружие для убийства зверей «Винтовка»

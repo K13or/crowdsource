@@ -47,13 +47,13 @@ Follow up with Snargle.,Загляните к Снарглу.
 Follow your target,Следовать за целью
 Follow-Up Shot Damage,Урон добивающего выстрела
 Follower Adisa thanks you.,Последователь Адиса благодарит вас.
-Follower Dawnwynn,Follower Dawnwynn
+Follower Dawnwynn,Последовательница Даунвинн
 Follower Dawnwynn thanks you.,Последовательница Даунвинн благодарит вас.
-Follower Lucius Anvilblade,Follower Lucius Anvilblade
+Follower Lucius Anvilblade,Последователь Люций Наковальнеклинок
 Follower of Ascension,Последователь Вознесения
 Follower of Dwayna,Последователь Двайны
 Follower of Zintl,Последователь Зинтля
-Follower Xunn,Follower Xunn
+Follower Xunn,Последователь Ксунн
 Follower Xunn thanks you.,Последователь Ксунн благодарит вас.
 Followers of Ascension have joined Kaidenna's mission!,Followers of Ascension присоединились к заданию Кайденны!
 "Following a trail of slaughtered Flame Legion soldiers, you move deep behind enemy lines to meet up with whoever is responsible for this impressive venture into the heart of Flame Legion territory. The trail ends at the entrance to a mysterious cavern. Whatever the purpose of this bold strike, the answers must lie within...","Идя по следу из перебитых солдат Flame Legion, вы уходите глубоко в тыл врага, чтобы встретиться с тем, кто устроил эту впечатляющую вылазку в сердце земель Flame Legion. След обрывается у входа в загадочную пещеру. Какой бы ни была цель этого дерзкого удара, ответы должны быть внутри..."
@@ -128,7 +128,7 @@ Forage seaweed in Jetsam Point.,Соберите водоросли на Мыс�
 Forage shellfish in Breezy Cay.,Соберите моллюсков в Ветреном Кэе.
 Forage shellfish in Glimmering Arches.,Соберите моллюсков в Glimmering Arches.
 Forage shellfish in Jetsam Point.,Соберите моллюсков на Мысе Выброса.
-Forager Sneckit,Forager Sneckit
+Forager Sneckit,Собирательница Снеккит
 Forager's Hunt Food Stores,Запасы еды с Forager's Hunt
 Forager's Midden,Мусорная куча собирателя
 Foraging Collection Box,Коробка для собранного
@@ -159,10 +159,10 @@ Forceful Explosives,Мощная взрывчатка
 Forceful Firebolt,Мощная огненная стрела
 Forces the framerate to synchronize with the monitor's refresh rate. Helps eliminate tearing artifacts but can result in artificially low framerates.,"Принудительно синхронизирует частоту кадров с частотой обновления монитора. Помогает убрать разрывы изображения, но может искусственно занижать частоту кадров."
 "Foreground downloading will increase your download speed, but you will no longer be able to play while you wait. Proceed?","Загрузка в приоритетном режиме ускорит скачивание, но играть во время ожидания больше не получится. Продолжить?"
-Foreman Flannum,Foreman Flannum
+Foreman Flannum,Бригадир Фланнум
 Foreman Flannum thanks you for your work at the dam.,Foreman Flannum благодарит вас за работу на плотине.
-Foreman Mynik,Foreman Mynik
-Foreman Timar Cubisson,Foreman Timar Cubisson
+Foreman Mynik,Бригадир Миник
+Foreman Timar Cubisson,Бригадир Тимар Кубиссон
 Foreman's Gear,Снаряжение бригадира
 Foreman's Recess,Ниша бригадира
 Foremon Boslo,Бригадир Босло
@@ -204,63 +204,63 @@ Forge mystique (Arche du Lion),Мистическая кузня (Львиный
 Forge mystique (JcJ),Мистическая кузня (PvP)
 "Forge Supplies[pl:""Supplies""]",[Припасы горна|Припасов горна|Припасов горна]
 Forgeblasted Barrel[s],[Обожжённая в горне бочка|Обожжённых в горне бочки|Обожжённых в горне бочек]
-Forged Ambusher,Forged Ambusher
-Forged Ammunition,Forged Ammunition
-Forged Assembler,Forged Assembler
-Forged Bait,Forged Bait
-Forged Brutalizer,Forged Brutalizer
+Forged Ambusher,Кованый засадник
+Forged Ammunition,Боеприпасы Кованых
+Forged Assembler,Кованый сборщик
+Forged Bait,Приманка Кованых
+Forged Brutalizer,Кованый громила
 Forged Cache[s],[Схрон|Схрона|Схронов] Кованых
-Forged Cannon,Forged Cannon
-Forged Cannonade,Forged Cannonade
-Forged Cart,Forged Cart
-Forged Catapult,Forged Catapult
-Forged Catapult Attack,Forged Catapult Attack
-Forged Chest,Forged Chest
-Forged Corpsrazer,Forged Corpsrazer
-Forged Drainer,Forged Drainer
-Forged Explosive,Forged Explosive
-Forged Forerunner,Forged Forerunner
+Forged Cannon,Пушка Кованых
+Forged Cannonade,Канонада Кованых
+Forged Cart,Повозка Кованых
+Forged Catapult,Катапульта Кованых
+Forged Catapult Attack,Атака катапульты Кованых
+Forged Chest,Сундук Кованых
+Forged Corpsrazer,Кованый трупорез
+Forged Drainer,Кованый иссушитель
+Forged Explosive,Взрывчатка Кованых
+Forged Forerunner,Кованый предвестник
 Forged Glider[s],[Планёр|Планёра|Планёров] Кованых
-Forged Hookhead,Forged Hookhead
-Forged Husk,Forged Husk
-Forged Lieutenant,Forged Lieutenant
-Forged Link,Forged Link
-Forged Lurker,Forged Lurker
-Forged Marauder,Forged Marauder
+Forged Hookhead,Кованый крюкоглав
+Forged Husk,Кованая оболочка
+Forged Lieutenant,Кованый лейтенант
+Forged Link,Кованое звено
+Forged Lurker,Кованый скрытень
+Forged Marauder,Кованый мародёр
 "Forged Matrix[pl:""Matrices""]",[Матрица|Матрицы|Матриц] Кованых
-Forged Maverick,Forged Maverick
-Forged Mortar Battery,Forged Mortar Battery
+Forged Maverick,Кованый отщепенец
+Forged Mortar Battery,Мортирная батарея Кованых
 Forged Outfit[s],Наряд[|а|ов] «Кованый»
-Forged Plate,Forged Plate
-Forged Projectile,Forged Projectile
-Forged Proliferator,Forged Proliferator
-Forged Prowler,Forged Prowler
-Forged Punisher,Forged Punisher
-Forged Raider,Forged Raider
-Forged Rampager,Forged Rampager
-Forged Reinforcement,Forged Reinforcement
-Forged Rifle Club,Forged Rifle Club
-Forged Scavenger,Forged Scavenger
-Forged Scrap,Forged Scrap
-Forged Sharpshooter,Forged Sharpshooter
-Forged Shieldbearer,Forged Shieldbearer
-Forged Soldier,Forged Soldier
-Forged Sorcerer,Forged Sorcerer
-Forged Spike Trap,Forged Spike Trap
-Forged Tormentor,Forged Tormentor
+Forged Plate,Пластина Кованых
+Forged Projectile,Снаряд Кованых
+Forged Proliferator,Кованый распространитель
+Forged Prowler,Кованый рыскун
+Forged Punisher,Кованый каратель
+Forged Raider,Кованый налётчик
+Forged Rampager,Кованый буян
+Forged Reinforcement,Подкрепление Кованых
+Forged Rifle Club,Винтовка-дубина Кованых
+Forged Scavenger,Кованый падальщик
+Forged Scrap,Лом Кованых
+Forged Sharpshooter,Кованый меткий стрелок
+Forged Shieldbearer,Кованый щитоносец
+Forged Soldier,Кованый солдат
+Forged Sorcerer,Кованый чародей
+Forged Spike Trap,Шипованная ловушка Кованых
+Forged Tormentor,Кованый истязатель
 Forged Tormentor Elegy Mosaic[s],[Мозаика|Мозаики|Мозаик] элегии кованого истязателя
-Forged Trap,Forged Trap
+Forged Trap,Ловушка Кованых
 Forged Vanguard[s],[Авангардист|Авангардиста|Авангардистов] Кованых
-Forged War Banner,Forged War Banner
-Forged War Mage,Forged War Mage
-Forged Warhound,Forged Warhound
-Forged Warhounds,Forged Warhounds
-Forged Warmonger,Forged Warmonger
-Forged Weapon Emplacement,Forged Weapon Emplacement
-Forged Weaponeer,Forged Weaponeer
-Forged Wildhound,Forged Wildhound
+Forged War Banner,Боевое знамя Кованых
+Forged War Mage,Кованый боевой маг
+Forged Warhound,Кованый боевой пёс
+Forged Warhounds,Кованые боевые псы
+Forged Warmonger,Кованый поджигатель войны
+Forged Weapon Emplacement,Огневая позиция Кованых
+Forged Weaponeer,Кованый оружейник
+Forged Wildhound,Кованый дикий пёс
 Forged Wing Backpack[s],[Крылатый рюкзак|Крылатых рюкзака|Крылатых рюкзаков] Кованых
-Forged Wolfhound,Forged Wolfhound
+Forged Wolfhound,Кованый волкодав
 Forged-Light Chest[s],[Сундук|Сундука|Сундуков] кованого света
 Forgemaster Zerax,Мастер горна Зеракс
 Forgemaster's Rampager Insignia[s],[Буянская инсигния|Буянских инсигнии|Буянских инсигний] мастера горна
@@ -294,11 +294,11 @@ Former Employees,Бывшие сотрудники
 Former skritt research subjects survived testing to take up residence in long-abandoned Proxemics Lab. Are you as clever as the one-time lab rats?,Бывшие подопытные скритты пережили испытания и поселились в давно заброшенной Проксемической лаборатории. Хватит ли вам смекалки против недавних лабораторных крыс?
 Formerly Priceless Heirloom[s],[Некогда бесценная реликвия|Некогда бесценных реликвии|Некогда бесценных реликвий]
 Forsaken Gloom,Покинутый мрак
-Forsaken Thicket,Forsaken Thicket
+Forsaken Thicket,Покинутая Чаща
 Forsaken Thicket—Salvation Pass,Forsaken Thicket — Перевал Спасения
 Forsaken Thicket—Spirit Vale,Forsaken Thicket — Долина Духов
 Forsaken Thicket—Stronghold of the Faithful,Forsaken Thicket — Твердыня Верных
-Fort Aspenwood,Fort Aspenwood
+Fort Aspenwood,Форт Осиновый Лес
 Fort Aspenwood [lbracket]D[rbracket],Форт Осиновый Лес [lbracket]D[rbracket]
 Fort Defiance (Dominion),Форт Непокорности (Доминион)
 Fort Defiance (United Legions),Форт Непокорности (Объединённые легионы)

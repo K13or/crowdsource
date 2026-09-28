@@ -27,7 +27,7 @@ Chase the Spirit through the Rookery,Преследуйте духа через 
 Chasing Fire,В погоне за огнём
 Chat Channel,Канал чата
 Chat Command,Команда чата
-"Chat log saved as: ""%str1%""","Лог чата сохранен как: «%str1%»"
+"Chat log saved as: ""%str1%""",Лог чата сохранен как: «%str1%»
 Chat Message,Сообщение чата
 Chat Options,Настройки чата
 Chat Panel,Панель чата
@@ -62,7 +62,7 @@ Check in with Holo Knut Whitebear in Hoelbrak.,Свяжитесь с Холо К
 Check in with Magister Tassi in Lion's Arch.,Зайдите к Magister Tassi в Lion's Arch.
 Check in with Marjory at Arborstone.,Свяжитесь с Marjory в Арборстоуне.
 Check in with Snargle.,Свяжитесь с Снарглом.
-"Check in with the Black Lion ""Birthday"" Manager in Lion's Arch.","Свяжитесь с менеджером «Дня рождения» Black Lion в Lion's Arch."
+"Check in with the Black Lion ""Birthday"" Manager in Lion's Arch.",Свяжитесь с менеджером «Дня рождения» Black Lion в Lion's Arch.
 Check in with the Mist Stranger and your allies.,Свяжитесь с Туманным Незнакомцем и вашими союзниками.
 Check on Captain Thess.,Проверьте Captain Thess.
 Check out Dominion Killing Zone in Kessex Hills.,Посетите Зону убийств Доминиона в Kessex Hills.
@@ -331,13 +331,13 @@ Chicken[s],[Курица|Курицы|Куриц]
 Chickenado Finisher[s],[Финишер|Финишера|Финишеров] «Цыплёнок»
 Chickpea Fritter[s],[Оладий|Оладия|Оладий] из нута
 Chickpea[s],[Нут|Нута|Нута]
-Chief Engineer Timblin Elected,Chief Engineer Timblin Elected
-Chief Executive Officer,Chief Executive Officer
+Chief Engineer Timblin Elected,Главный инженер Тимблин избран
+Chief Executive Officer,Главный исполнительный директор
 Chief Fin'kriktik is pleased with all your help. Well done.,Главный Фин'криктик доволен всей вашей помощью. Отлично сработано.
 Chief Hazim arrives in: %str1%,Главный Хазим прибудет через: %str1%
-Chief Inspector Lutze,Chief Inspector Lutze
-Chief Kronon,Chief Kronon
-Chief Mognoll,Chief Mognoll
+Chief Inspector Lutze,Главный инспектор Лутце
+Chief Kronon,Главный Кронон
+Chief Mognoll,Вождь Могнолл
 Chieftain Krella,Вождь Крелла
 Chieftain Tochzotl,Вождь Точзотль
 Chieftain Utahein Killed,Вождь Утахейн убит

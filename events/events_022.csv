@@ -1,8 +1,8 @@
 english,translate
-Supply Dolyak,Supply Dolyak
-Supply Drop-Off,Supply Drop-Off
-Supply Officer,Supply Officer
-Supply Remanining,Supply Remanining
+Supply Dolyak,Дольяк с припасами
+Supply Drop-Off,Точка сброса припасов
+Supply Officer,Офицер снабжения
+Supply Remanining,Осталось припасов
 Supply containers remaining,Осталось контейнеров с припасами
 Supply crates remaining: 7,Осталось ящиков с припасами: 7
 "Supply in Depot: x of 1,400.",Припасов на складе: x из 1400.
@@ -35,7 +35,7 @@ Survivors rescued,Спасенные выжившие
 Survivors safe,Выживших спасено
 Survivors will be consumed in: 10:00,Выжившие будут поглощены через: 10:00
 "Suspicious? Well, the charr just gave us a bunch of rotten eggs. Does that count?","Подозрительное? Ну, чарр только что дали нам кучу тухлых яиц. Это считается?"
-Suwash,Suwash
+Suwash,Суваш
 Svanir Attackers Remaining,Осталось атакующих Сванира
 Svanir Dragon Shaman,Драконий шаман Svanir
 Svanir Hunters killed,Охотников Svanir убито
@@ -43,7 +43,7 @@ Svanir Morale,Боевой дух Сваниров
 Svanir Portal,Портал Сваниров
 Svanir Portal destroyed,Портал Svanir уничтожен
 Svanir Remaining,Осталось Svanir
-Svanir Shaman,Svanir Shaman
+Svanir Shaman,Шаман Сванира
 Svanir Shaman have corrupted members of the Vigil assault force,Шаманы Svanir осквернили членов штурмового отряда Vigil
 Svanir mist portals destroyed,Порталы Туманов Svanir уничтожены
 Svanir reinforcements arrive in: 10:00,Подкрепление Svanir прибудет через: 10:00
@@ -89,11 +89,11 @@ TIER 3: Lure out the rift target and defeat it,УРОВЕНЬ 3: Выманит�
 TIER 3: Lure out the rift target and defeat it (Castora),УРОВЕНЬ 3: Выманите цель разлома и победите её (Castora)
 TIER 3: Lure out the rift target and defeat it (titanspawn),УРОВЕНЬ 3: Выманите цель разлома и победите её (titanspawn)
 Taccius Stormbane waves at %str1%.,Taccius Stormbane машет %str1%.
-Tacitus Swordshatter,Tacitus Swordshatter
-Tactician Mansell,Tactician Mansell
-Tactician Megill,Tactician Megill
-Tactician Pitto,Tactician Pitto
-Tactician Quickweld,Tactician Quickweld
+Tacitus Swordshatter,Тацит Мечелом
+Tactician Mansell,Тактик Манселл
+Tactician Megill,Тактик Мегилл
+Tactician Pitto,Тактик Питто
+Tactician Quickweld,Тактик Быстросвар
 Tag the great monument so Joko will grant our house a glorious victory in the tournament.,"Пометьте великий монумент, чтобы Joko даровал нашему дому славную победу в турнире."
 Taidha's Gate,Ворота Taidha
 Tainted Artifacts destroyed 0/4,Испорченных артефактов уничтожено 0/4
@@ -131,7 +131,7 @@ Take them out and seal the rifts.,Уничтожьте их и закройте 
 Take to the air and gather latent magic for Lyhr.,Поднимитесь в воздух и соберите скрытую магию для Lyhr.
 Take your shoes off and luxuriate in my rug! I couldn't have done it without you.,Снимай обувь и наслаждайся моим ковром! Я бы не справился без тебя.
 Taking extra salvage: 0:30,Время на сбор утиля: 0:30
-Talaith,Talaith
+Talaith,Талаит
 Talk to Agent Zula,Поговорите с Agent Zula
 Talk to Alaw to sign up for the race.,"Поговорите с Alaw, чтобы записаться на гонку."
 Talk to Asho,Поговорите с Asho
@@ -186,8 +186,8 @@ Targets destroyed: %num1%,Уничтожено целей: %num1%
 Targets hit,Мишеней поражено
 Targets remaining,Осталось целей
 Tarir has been saved from the Mordrem! The Exalted have revealed grand Exalted chests beneath the city.,Tarir спасен от Mordrem! Возвышенных открыли великие сундуки возвышенных под городом.
-Tarkkakt,Tarkkakt
-Tarnished Sage,Tarnished Sage
+Tarkkakt,Тарккакт
+Tarnished Sage,Потускневший мудрец
 Tea Crate,Ящик с чаем
 Team flees in 0:45,Группа сбежит через 0:45
 Team members found,Членов отряда найдено
@@ -199,20 +199,20 @@ Tell me again what the note said?,"Скажи мне ещё раз, что бы�
 Temple Entrance,Вход в храм
 Temple Footpath,Тропа к храму
 Temple Interior,Внутренняя часть храма
-Temple Priest,Temple Priest
+Temple Priest,Храмовый жрец
 Temple desecration,Осквернение храма
 Temple of Balthazar,Храм Бальтазара
 Temple of Grenth,Храм Грента
 Temple of Melandru,Храм Меландру
-Temple of Storms,Temple of Storms
-Temvay the Arrogant,Temvay the Arrogant
-Tenad the Faithful,Tenad the Faithful
+Temple of Storms,Храм Штормов
+Temvay the Arrogant,Темвей Надменный
+Tenad the Faithful,Тенад Верный
 Tendril Strength,Сила щупалец
 Tendrils of Nourys Remaining,Осталось усиков Nourys
 Tendrils of Nourys deplete magic in: 8:00,Усики Nourys поглотят магию через: 8:00
 Tendrils remaining: x,Осталось усиков: x
 Tengu contestant score: %num1%,Счёт участника тенгу: %num1%
-Tenrat,Tenrat
+Tenrat,Тенрат
 "Tentacles of Nourys, the Eyes of the Abyss","Щупальца Nourys, Очи Бездны"
 Tents constructed,Палаток построено
 Tents remaining: 5,Осталось палаток: 5
@@ -394,7 +394,7 @@ The Flame Legion is actually doing us a favor by showing up here. We get to repa
 "The Flame Legion will try to fight for this land. Break their bones, break their spirit!","Flame Legion попытается сражаться за эту землю. Сломайте их кости, сломайте их дух!"
 "The Flame incursion will be defeated! First step, recapture the mill!",Вторжение Пламени будет подавлено! Первый шаг — отбить лесопилку!
 "The Foefire? If she was a ghost of Ascalon, doesn't that mean she will reappear?","Огненный шторм? Если она была призраком Ascalon, разве это не значит, что она вернётся?"
-The Foreman,The Foreman
+The Foreman,Бригадир
 The Forged are here!,Forged здесь!
 "The Forged are increasing in number. Feels like for every one we kill, two more take its place.","Количество Forged растёт. Такое чувство, что на каждого убитого нами приходится двое новых."
 The Forged will relent in: x:xx,Кованые отступят через: x:xx
@@ -423,7 +423,7 @@ The Lost Shores (meta event),Затерянные берега (мета-соб�
 The Marauder,Мародер
 The Maw is aiming right for you! Grab hold of a crystal—quickly!,Пасть целится прямо в тебя! Хватай кристалл — скорее!
 The Mighty Oouo demands your attention.,Могучий Oouo требует вашего внимания.
-The Mindblade,The Mindblade
+The Mindblade,Клинок разума
 The Mists Tide has receded. The ghosts will return with their sacrifice!,Прилив Туманов отступил. Призраки вернутся со своей жертвой!
 "The Modniir overlords are dead! Take and hold the hill, and this camp will be ours!","Повелители Моднииров мертвы! Захватите и удерживайте холм, и этот лагерь станет нашим!"
 The Molten Dominator will retreat in 20:00,Molten Dominator отступит через 20:00
@@ -447,13 +447,13 @@ The Pact will never submit to them or their so-called god. We'll be standing lon
 The Path to Arah,Путь к Arah
 The Path to Ascension,Путь к Вознесению
 The Priory is preparing to launch field surveys into Mistburned Barrens.,Priory готовится начать полевые исследования в Mistburned Barrens.
-The Prophet,The Prophet
+The Prophet,Пророк
 The Pumpkin Paradise race is starting soon!,Гонка «Тыквенный рай» скоро начнется!
 The Quaggan Games grounds are clear! Begin lightning the track.,Площадка Quaggan Games очищена! Начинайте освещать трассу.
 The Queen's Pavilion,Павильон Королевы
 The Red Dagger,Красный Кинжал
 The Reliquary (Blood and Madness),Реликварий (Кровь и безумие)
-The Ritualist,The Ritualist
+The Ritualist,Ритуалист
 The Road to Heitor,Путь к Heitor
 The Road to Ruin,Дорога к руинам
 The Roll into Madness race is starting soon!,Гонка «Кувырок в безумие» скоро начнется!

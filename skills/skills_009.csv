@@ -12,26 +12,26 @@ Knockback foes with a spread of rockets.,Оттолкните врагов ве�
 Knockback on Landing,Отталкивание при приземлении
 Knockdown,Нокдаун
 Knocks foes down.,Сбивает врагов с ног.
-Knot Shot,Knot Shot
-Kryptis Haze,Kryptis Haze
-Lacerating Chop,Lacerating Chop
-Lacerating Slash,Lacerating Slash
-Lahar,Lahar
+Knot Shot,Узловой выстрел
+Kryptis Haze,Криптисская дымка
+Lacerating Chop,Рваный удар
+Lacerating Slash,Рваный разрез
+Lahar,Лахар
 Landing Damage,Урон при приземлении
-Larcenous Strike,Larcenous Strike
+Larcenous Strike,Воровской удар
 Large Explosion,Крупный взрыв
-Largos' Domain,Largos' Domain
-Laser Disk,Laser Disk
+Largos' Domain,Владения Ларгос
+Laser Disk,Лазерный диск
 Lash out against nearby foes.,Нанесите удар по ближайшим врагам.
 "Lash out with bear claws, damaging foes in front of you.","Атакуйте медвежьими когтями, нанося урон врагам перед собой."
 "Lash out with raven wings, damaging and crippling your target.","Атакуйте вороньими крыльями, нанося урон и накладывая увечье на цель."
 "Lash out with raven wings, damaging your target.","Атакуйте вороньими крыльями, нанося урон цели."
 Lash your foe with lightning.,Хлыстнуть своего противника молнией.
 "Lashes out in a series of furious strikes, knocking back and damaging enemies and calling down fire from the skies.","Наносит серию яростных ударов, отбрасывая и повреждая врагов, а также призывая огонь с небес."
-Lashtail Venom,Lashtail Venom
+Lashtail Venom,Яд хвоста-хлыста
 Launch,Отбрасывание
-Launch Personal Battering Ram,Launch Personal Battering Ram
-Launch Wall,Launch Wall
+Launch Personal Battering Ram,Запуск личного тарана
+Launch Wall,Запуск стены
 Launch a deployable net wall to immobilize foes caught within.,"Выстрелить сетью, которую можно развернуть, чтобы обездвижить противников, которые попадутся в неё."
 "Launch a fist that explodes on the first target hit, damaging and stunning nearby enemies.","Запустите кулак, который взрывается при попадании в первую цель, нанося урон и оглушая ближайших врагов."
 Launch a harpoon from your belt.,Запустите гарпун с пояса.
@@ -56,14 +56,14 @@ Launch three waves of heat. Each burns foes and grants vigor to allies.,Запу
 Launch your foe backward with mighty wing beats.,Отбросить противников назад могучими ударами крыльев.
 Launch your foe with a banishing smash.,Отбросить вашего противника сокрушительным изгоняющим ударом.
 Launch your foe with a powerful smash. Striking a foe refreshes <c=@abilitytype>Mighty Blow</c> and allows your next <c=@abilitytype>Mighty Blow</c> to teleport to that foe.,С силой отбросьте врага мощным ударом. Попадание по врагу обновляет <c=@abilitytype>Mighty Blow</c> и позволяет вашему следующему <c=@abilitytype>Мощному удару</c> телепортироваться к этому врагу.
-Lava Chains,Lava Chains
-Lava Font,Lava Font
-Lava Rift,Lava Rift
-Lava Skin,Lava Skin
+Lava Chains,Лавовые цепи
+Lava Font,Лавовый источник
+Lava Rift,Лавовый разлом
+Lava Skin,Лавовая кожа
 "Lava spews forth from a geyser, causing damage and burning.","Лава извергается из гейзера, нанося урон и вызывая горение."
-Leading Swipe,Leading Swipe
-Leafy Bandage,Leafy Bandage
-Leap,Leap
+Leading Swipe,Ведущий взмах
+Leafy Bandage,Лиственная повязка
+Leap,Прыжок
 Leap Damage,Урон от прыжка
 Leap and knock nearby foes back.,Прыгнуть и отбросить назад противников поблизости.
 "Leap and strike your foe, inflicting slow.","Прыгните и ударьте врага, наложив медлительность."
@@ -85,7 +85,7 @@ Leap away from your foe while firing a crippling shot.,"Отпрыгнуть о�
 Leap forward and slash at your foe. Gain quickness if you successfully strike.,Прыгнуть вперёд и порезать противника. Даровать себе проворство при успешном ударе.
 "Leap forward and smash the ground, inflicting conditions on foes while granting barrier and boons to allies.","Прыгните вперёд и ударьте по земле, накладывая состояния на врагов и даруя барьер и благословения союзникам."
 "Leap into an area, and deliver a massive blow to enemies.",Прыгните в область и нанесите мощный удар по врагам.
-Leap of Faith,Leap of Faith
+Leap of Faith,Прыжок веры
 "Leap onto foe, crippling them.","Прыгните на врага, наложив на него увечье."
 "Leap onto foe, knocking them down.","Прыгните на врага, сбив его с ног."
 "Leap through a rift in the Mists, shadowstepping briefly to the target's location and inflicting damage and conditions.","Прыгните через разлом в Туманах, совершив короткий теневой шаг к цели и нанеся урон и состояния."
@@ -103,15 +103,15 @@ Leap to your target and create an arc of light that strikes nearby foes. Gain qu
 Leap to your target and summon a clone if you hit. Can be recast to return to your starting point.,"Прыгнуть к вашей цели и создать клон при попадании. Умение можно использовать повторно, чтобы вернуться в первоначальную позицию."
 "Leap toward your destination, damaging foes upon impact.","Прыгните к месту назначения, нанося урон врагам при приземлении."
 "Leap toward your target, unleashing intense energy on the area if you strike them. Your primary target becomes the focus of your other skills. If a focused target dies, this skill is refreshed.","Прыгните к цели, высвобождая мощную энергию в области, если попадете. Ваша основная цель становится фокусом для других ваших умений. Если сфокусированная цель погибает, это умение перезаряжается."
-Leaping Lizard,Leaping Lizard
-Leaping Slice,Leaping Slice
-Leaping Strike,Leaping Strike
+Leaping Lizard,Прыгающая ящерица
+Leaping Slice,Прыгающий разрез
+Leaping Strike,Прыгающий удар
 Leaps and attaches to an enemy.,Прыгает и прикрепляется к врагу.
 "Leaps forward, creating an area of corruption that deals damage and inflicts torment. Creates a dark combo field.","Прыгает вперёд, создавая область порчи, которая наносит урон и накладывает боль. Создает комбо-поле тьмы."
 "Leaps forward, dealing damage and creating a damaging field.","Броситься вперёд, делая хромыми противников на своем пути."
 "Leaps to the target and creates a massive shock wave, damaging and knocking back enemies.","Прыгает к цели и создает мощную ударную волну, нанося урон и отбрасывая врагов."
 Leash Range,Дистанция привязки
-Leave Beastmode,Leave Beastmode
+Leave Beastmode,Выйти из режима зверя
 Leave Death Shroud and return to your normal form.,Покиньте Death Shroud и вернитесь в обычную форму.
 Leave Harbinger Shroud and return to your normal form.,Покиньте Harbinger Shroud и вернитесь в обычную форму.
 Leave Radiant Forge.,Покиньте Сияющую кузню.
@@ -125,66 +125,66 @@ Leaves a trail of cleansing flames. Inflicts heavy damage to foes.,Оставл�
 Leech a foe's health to heal yourself.,"Высосать здоровье у противника, чтобы исцелить себя."
 Leech health from a foe to heal yourself.,"Высосать здоровье у противника, чтобы исцелить себя."
 "Left undisturbed, the Eye unleashes its power on all foes in the area.","Оставшись без помех, Око высвобождает свою силу на всех врагов в области."
-Legendary Alliance,Legendary Alliance
-Legendary Alliance Stance,Legendary Alliance Stance
-Legendary Assassin Stance,Legendary Assassin Stance
-Legendary Centaur Stance,Legendary Centaur Stance
+Legendary Alliance,Легендарный альянс
+Legendary Alliance Stance,Стойка легендарного альянса
+Legendary Assassin Stance,Стойка легендарного ассасина
+Legendary Centaur Stance,Стойка легендарного кентавра
 "Legendary Centaur. Collect energy, pulling it into the tablet to build up its power. After a short delay the energy will be released, healing nearby allies.","Легендарный кентавр. Собирает энергию, притягивая её в планшет для накопления силы. После короткой задержки энергия высвобождается, исцеляя ближайших союзников."
 "Legendary Centaur. Force energy to erupt from the tablet, knocking down nearby foes and healing nearby allies.","Легендарный кентавр. Вынуждает энергию извергаться из планшета, сбивая с ног ближайших врагов и исцеляя ближайших союзников."
 "Legendary Centaur. Remove conditions from allies near the tablet, and heal them for a small amount per condition removed.",Легендарный кентавр. Снимает состояния с союзников рядом с планшетом и исцеляет их на небольшое количество за каждое снятое состояние.
 Legendary Centaur. Summon a protective barrier around the tablet that blocks enemy projectiles.,"Легендарный кентавр. Призывает защитный барьер вокруг планшета, который блокирует вражеские снаряды."
-Legendary Demon Stance,Legendary Demon Stance
-Legendary Dragon Stance,Legendary Dragon Stance
-Legendary Dwarf Stance,Legendary Dwarf Stance
-Legendary Entity Stance,Legendary Entity Stance
-Legendary Renegade Stance,Legendary Renegade Stance
+Legendary Demon Stance,Стойка легендарного демона
+Legendary Dragon Stance,Стойка легендарного дракона
+Legendary Dwarf Stance,Стойка легендарного дворфа
+Legendary Entity Stance,Стойка легендарной сущности
+Legendary Renegade Stance,Легендарная стойка ренегата
 Legendary Renegade. Summon Kus Darkrazor to disrupt your enemies.,"Легендарный ренегат. Призовите Kus Darkrazor, чтобы дезориентировать врагов."
 Less than 33% Health,Здоровье ниже 33%
 Less than 66% Health,Здоровье ниже 66%
-"Lesser ""Guard!""","Lesser ""Guard!"""
-"Lesser ""Sic 'Em!""","Lesser ""Sic 'Em!"""
-Lesser Arcane Shield,Lesser Arcane Shield
-Lesser Call of the Wild,Lesser Call of the Wild
-Lesser Caltrops,Lesser Caltrops
-Lesser Chaos Storm,Lesser Chaos Storm
-Lesser Chilblains,Lesser Chilblains
-Lesser Cleansing Fire,Lesser Cleansing Fire
-Lesser Derecho,Lesser Derecho
-Lesser Elixir B,Lesser Elixir B
-Lesser Elixir C,Lesser Elixir C
-Lesser Endure Pain,Lesser Endure Pain
-Lesser Fiery Eruption,Lesser Fiery Eruption
-Lesser Grenade Barrage,Lesser Grenade Barrage
-Lesser Haboob,Lesser Haboob
-Lesser Haste,Lesser Haste
-Lesser Healing,Lesser Healing
-Lesser Jökulhlaup,Lesser Jökulhlaup
-Lesser Litany of Wrath,Lesser Litany of Wrath
-Lesser Mark of Blood,Lesser Mark of Blood
-Lesser Muddy Terrain,Lesser Muddy Terrain
-Lesser Power Cleanse,Lesser Power Cleanse
-Lesser Quickening Zephyr,Lesser Quickening Zephyr
-Lesser Shield of Absorption,Lesser Shield of Absorption
-Lesser Signet of Might,Lesser Signet of Might
-Lesser Signet of Stone,Lesser Signet of Stone
-Lesser Signet of Wrath,Lesser Signet of Wrath
-Lesser Signet of the Locust,Lesser Signet of the Locust
-Lesser Smite Condition,Lesser Smite Condition
-Lesser Spinal Shivers,Lesser Spinal Shivers
-Lesser Stone Resonance,Lesser Stone Resonance
-Lesser Symbol of Blades,Lesser Symbol of Blades
-Lesser Symbol of Protection,Lesser Symbol of Protection
-Lesser Symbol of Resolution,Lesser Symbol of Resolution
-Lesser Utility Goggles,Lesser Utility Goggles
-Lesser Volcano,Lesser Volcano
-Lesser Well of Blood,Lesser Well of Blood
+"Lesser ""Guard!""",Малый «В ружьё!»
+"Lesser ""Sic 'Em!""",Малая «Взять!»
+Lesser Arcane Shield,Малый магический щит
+Lesser Call of the Wild,Малый зов дикой природы
+Lesser Caltrops,Малые шипы
+Lesser Chaos Storm,Малый хаотический шторм
+Lesser Chilblains,Малые обморожения
+Lesser Cleansing Fire,Малый очищающий огонь
+Lesser Derecho,Малый деречо
+Lesser Elixir B,Малый эликсир B
+Lesser Elixir C,Малый эликсир C
+Lesser Endure Pain,Малая стойкость к боли
+Lesser Fiery Eruption,Малое огненное извержение
+Lesser Grenade Barrage,Малый залп гранат
+Lesser Haboob,Малый хабуб
+Lesser Haste,Малое ускорение
+Lesser Healing,Малое исцеление
+Lesser Jökulhlaup,Малый йокульхлауп
+Lesser Litany of Wrath,Малая литания гнева
+Lesser Mark of Blood,Малая метка крови
+Lesser Muddy Terrain,Малая грязная местность
+Lesser Power Cleanse,Малое очищение силы
+Lesser Quickening Zephyr,Малый ускоряющий зефир
+Lesser Shield of Absorption,Малый щит поглощения
+Lesser Signet of Might,Малая печать мощи
+Lesser Signet of Stone,Малая печать камня
+Lesser Signet of Wrath,Малая печать гнева
+Lesser Signet of the Locust,Малая печать саранчи
+Lesser Smite Condition,Малая кара состояний
+Lesser Spinal Shivers,Малая спинная дрожь
+Lesser Stone Resonance,Малый каменный резонанс
+Lesser Symbol of Blades,Малый символ клинков
+Lesser Symbol of Protection,Малый символ защиты
+Lesser Symbol of Resolution,Малый символ решимости
+Lesser Utility Goggles,Малые вспомогательные очки
+Lesser Volcano,Малый вулкан
+Lesser Well of Blood,Малый колодец крови
 "Let out a battle roar, giving might and fury to nearby allies.","Издайте боевой рык, дарующий мощь и ярость ближайшим союзникам."
 "Let out a growl, weakening foes.","Издайте рычание, ослабляющее врагов."
 Let out a moa screech.,Издать крик моа.
 "Let out a snarl, striking fear into your foes.","Издать рык, вселяющий страх во врагов."
 "Let out a wild shriek, dazing nearby foes.","Издать дикий визг, ошеломляющий ближайших врагов."
 "Let out an inspiring roar, removing weakness and vulnerability from allies and granting vigor.","Издать вдохновляющий рык, снимающий слабость и уязвимость с союзников и дарующий энергичность."
-Lethal Coalescence,Lethal Coalescence
+Lethal Coalescence,Смертоносная коалесценция
 Level 1 Boons Removed,Уровень 1: снятые благословения
 Level 1 Damage,Уровень 1: урон
 Level 1 Healing,Уровень 1: исцеление
@@ -198,14 +198,14 @@ Level 3 Damage,Уровень 3: урон
 Level 3 Healing,Уровень 3: исцеление
 Level 3 stun,Уровень 3: оглушение
 Lextalion's mere presence causes a wave of spectral energy to wash over the area every 3 seconds.,"Одно присутствие Lextalion вызывает волну спектральной энергии, проходящую по области каждые 3 секунды."
-Ley Breach,Ley Breach
-Ley Energy Pulse,Ley Energy Pulse
-Ley-Line Surge,Ley-Line Surge
-Ley-Line Vortex,Ley-Line Vortex
-Lich Form,Lich Form
-Lich's Gaze,Lich's Gaze
-Lick Wounds,Lick Wounds
-Life Blast,Life Blast
+Ley Breach,Разлом магической энергии
+Ley Energy Pulse,Импульс магической энергии
+Ley-Line Surge,Магический всплеск
+Ley-Line Vortex,Магический вихрь
+Lich Form,Облик лича
+Lich's Gaze,Взгляд лича
+Lick Wounds,Зализывание ран
+Life Blast,Взрыв жизни
 Life Force,Жизненная сила
 Life Force Cost,Затраты жизненной силы
 Life Force Gain per Bullet,Прирост жизненной силы за пулю
@@ -217,88 +217,88 @@ Life Force per Condition,Жизненная сила за состояние
 Life Force per Foe,Жизненная сила за врага
 Life Force per Melee Hit,Жизненная сила за удар в ближнем бою
 Life Force vs. Skill Use,Жизненная сила при использовании навыка
-Life Leech,Life Leech
-Life Reap,Life Reap
-Life Rend,Life Rend
-Life Siphon,Life Siphon
+Life Leech,Похищение жизни
+Life Reap,Жатва жизни
+Life Rend,Разрыв жизни
+Life Siphon,Высасывание жизни
 Life Siphon Damage,Урон от высасывания жизни
 Life Siphon Healing,Исцеление от высасывания жизни
-Life Slash,Life Slash
-Life Transfer,Life Transfer
+Life Slash,Рассечение жизни
+Life Transfer,Перенос жизни
 Life is siphoned when struck by players.,Жизнь высасывается при ударах игроков.
-Light Aura,Light Aura
-Light Ball,Light Ball
-Light Pool,Light Pool
-Light Strike,Light Strike
-Light Strike—Storm,Light Strike—Storm
-Light's Judgment,Light's Judgment
-Lightning Assault,Lightning Assault
-Lightning Blitz,Lightning Blitz
-Lightning Bolt,Lightning Bolt
-Lightning Breath,Lightning Breath
-Lightning Cage,Lightning Cage
-Lightning Flash,Lightning Flash
-Lightning Javelin,Lightning Javelin
-Lightning Leap,Lightning Leap
-Lightning Orb,Lightning Orb
-Lightning Rod Charges,Lightning Rod Charges
-Lightning Storm,Lightning Storm
-Lightning Strike,Lightning Strike
+Light Aura,Аура света
+Light Ball,Световой шар
+Light Pool,Лужа света
+Light Strike,Световой удар
+Light Strike—Storm,Световой удар — Шторм
+Light's Judgment,Суд света
+Lightning Assault,Молниеносная атака
+Lightning Blitz,Молниеносный блиц
+Lightning Bolt,Удар молнии
+Lightning Breath,Дыхание молнии
+Lightning Cage,Клетка молний
+Lightning Flash,Вспышка молнии
+Lightning Javelin,Копьё молнии
+Lightning Leap,Прыжок молнии
+Lightning Orb,Сфера молнии
+Lightning Rod Charges,Заряды громоотвода
+Lightning Storm,Шторм молний
+Lightning Strike,Удар молнии
 Lightning Strike Damage,Урон от удара молнии
-Lightning Strikes,Lightning Strikes
-Lightning Surge,Lightning Surge
-Lightning Swing,Lightning Swing
-Lightning Whip,Lightning Whip
-Line Breaker,Line Breaker
-Line of Warding,Line of Warding
-Lingering Thoughts,Lingering Thoughts
-Linked Ignition,Linked Ignition
+Lightning Strikes,Удары молнии
+Lightning Surge,Всплеск молнии
+Lightning Swing,Взмах молнии
+Lightning Whip,Хлыст молнии
+Line Breaker,Прорыватель строя
+Line of Warding,Линия защиты
+Lingering Thoughts,Затяжные мысли
+Linked Ignition,Связанное воспламенение
 Linking to an energy source causes damage.,Подключение к источнику энергии наносит урон.
-Liquid State,Liquid State
-Litany of Wrath,Litany of Wrath
-Lively Lute,Lively Lute
-Locked,Locked
+Liquid State,Жидкое состояние
+Litany of Wrath,Литания гнева
+Lively Lute,Живая лютня
+Locked,Заблокировано
 Locks onto one foe and damages the first target in its line of sight.,Захватывает цель и наносит урон первому противнику на линии обзора.
-Locust Swarm,Locust Swarm
-Lofted Cryoflash,Lofted Cryoflash
-Long Range Shot,Long Range Shot
+Locust Swarm,Рой саранчи
+Lofted Cryoflash,Воздушная криовспышка
+Long Range Shot,Дальний выстрел
 Long-Range Daze,Ошеломление на расстоянии
 Long-Range Radius,Радиус дальнего действия
 Long-range explosive shots.,Взрывные снаряды дальнего действия.
-Lotus Strike,Lotus Strike
-Lucent Thrust,Lucent Thrust
-Luminary's Blessing,Luminary's Blessing
-Luminous Staff,Luminous Staff
-Lunar Impact,Lunar Impact
-Lunge,Lunge
+Lotus Strike,Удар лотоса
+Lucent Thrust,Светящийся выпад
+Luminary's Blessing,Благословение Светила
+Luminous Staff,Светящийся посох
+Lunar Impact,Лунный удар
+Lunge,Выпад
 Lunge at your foe and strike them with your sword.,Броситься на противника и ударить его мечом.
 "Lunge at your foe, striking them with your sword.","Выполните выпад к противнику, ударив его мечом."
 "Lunge forward, crippling opponents in the path.","Выпад вперёд, накладывающий увечье на противников на пути."
-Lute Playing,Lute Playing
-Mace Bash,Mace Bash
-Mace Blast,Mace Blast
-Mace Head Crack,Mace Head Crack
-Mace Smash,Mace Smash
-Mace Strike,Mace Strike
-Magebane Tether,Magebane Tether
-Magehunter Strike,Magehunter Strike
-Magic Aura,Magic Aura
-Magic Blast,Magic Blast
-Magic Bullet,Magic Bullet
-Magic Pulse,Magic Pulse
-Magic Storm,Magic Storm
+Lute Playing,Игра на лютне
+Mace Bash,Удар булавой
+Mace Blast,Взрыв булавы
+Mace Head Crack,Удар булавой в голову
+Mace Smash,Разгром булавой
+Mace Strike,Удар булавой
+Magebane Tether,Привязь магоубийцы
+Magehunter Strike,Удар охотника на магов
+Magic Aura,Магическая аура
+Magic Blast,Магический взрыв
+Magic Bullet,Магическая пуля
+Magic Pulse,Магический импульс
+Magic Storm,Магический шторм
 "Magic orbs erupt from the Vale Guardian, releasing energy and damaging targets in a small area around their impact point.","Магические сферы извергаются из Vale Guardian, высвобождая энергию и нанося урон целям в небольшой области вокруг точки их падения."
 Magical charge that applies agony.,"Магический заряд, накладывающий агонию."
-Magma Orb,Magma Orb
-Magnet,Magnet
-Magnetic Aura,Magnetic Aura
-Magnetic Bomb,Magnetic Bomb
-Magnetic Current,Magnetic Current
-Magnetic Inversion,Magnetic Inversion
-Magnetic Leap,Magnetic Leap
-Magnetic Shield,Magnetic Shield
-Magnetic Surge,Magnetic Surge
-Magnetic Wave,Magnetic Wave
+Magma Orb,Магматическая сфера
+Magnet,Магнит
+Magnetic Aura,Магнитная аура
+Magnetic Bomb,Магнитная бомба
+Magnetic Current,Магнитный поток
+Magnetic Inversion,Магнитная инверсия
+Magnetic Leap,Магнитный прыжок
+Magnetic Shield,Магнитный щит
+Magnetic Surge,Магнитный всплеск
+Magnetic Wave,Магнитная волна
 Mai Trin follows up with another sweep of her rapier.,Mai Trin наносит ещё один взмах своей рапирой.
 "Mai Trin leaps forward, striking and knocking down enemies in her path.","Mai Trin прыгает вперёд, поражая и сбивая с ног врагов на своем пути."
 Mai Trin lunges forward to deliver a crippling thrust with her rapier.,"Mai Trin делает выпад вперёд, нанося калечащий удар своей рапирой."
@@ -308,8 +308,8 @@ Mai Trin overloads her pistol with energy from the Mists before releasing a deva
 Mai Trin sweeps her rapier forward in an arc.,Mai Trin делает дуговой взмах рапирой вперёд.
 Mai Trin teleports behind her target and delivers two quick slashes with her rapier.,Mai Trin телепортируется за спину своей цели и наносит два быстрых удара рапирой.
 "Mai Trin unleashes a flurry of attacks with her sword, teleporting before each strike.","Mai Trin обрушивает шквал атак своим мечом, телепортируясь перед каждым ударом."
-Maiming Spear,Maiming Spear
-Mainshock,Mainshock
+Maiming Spear,Калечащее копьё
+Mainshock,Главный удар
 Make lava erupt from the target area.,Создать извержение лавы в выбранной области.
 Make your foe flee in fear.,Заставить вашего противника убегать в страхе.
 Make your foe vulnerable with a shot to their vitals.,"Сделать противника уязвимым, выстрелив ему в жизненно важные органы."
@@ -318,45 +318,45 @@ Makes enemies vulnerable to dancing sparks.,Делает врагов уязви
 Malice Gained upon Critical Hit,"Злоба, полученная при критическом ударе"
 Malice Gained upon Hit,"Злоба, полученная при ударе"
 Malice Threshold for Stealth,Порог злобы для невидимости
-Malicious Ashen Assault,Malicious Ashen Assault
-Malicious Backstab,Malicious Backstab
-Malicious Cunning Salvo,Malicious Cunning Salvo
-Malicious Deadly Strike,Malicious Deadly Strike
-Malicious Death's Judgment,Malicious Death's Judgment
-Malicious Hook Strike,Malicious Hook Strike
-Malicious Restoration,Malicious Restoration
-Malicious Ripper,Malicious Ripper
-Malicious Shadowsquall,Malicious Shadowsquall
-Malicious Sneak Attack,Malicious Sneak Attack
-Malicious Surprise Shot,Malicious Surprise Shot
-Malicious Tactical Strike,Malicious Tactical Strike
-Man O' War,Man O' War
-Manifest Sand Shade,Manifest Sand Shade
-Manifest Toxin,Manifest Toxin
+Malicious Ashen Assault,Злобная пепельная атака
+Malicious Backstab,Злобный удар в спину
+Malicious Cunning Salvo,Злобный хитрый залп
+Malicious Deadly Strike,Злобный смертельный удар
+Malicious Death's Judgment,Злобный приговор смерти
+Malicious Hook Strike,Злобный удар крюком
+Malicious Restoration,Злобное восстановление
+Malicious Ripper,Злобный потрошитель
+Malicious Shadowsquall,Злобный теневой шквал
+Malicious Sneak Attack,Злобная скрытная атака
+Malicious Surprise Shot,Злобный неожиданный выстрел
+Malicious Tactical Strike,Злобный тактический удар
+Man O' War,Боевой корабль
+Manifest Sand Shade,Проявление песчаной тени
+Manifest Toxin,Проявление токсина
 "Manifest a powerful cyclone at the target location, periodically damaging enemies.","Создает мощный циклон в указанной области, периодически нанося урон врагам."
 Manifest an electrical field that stuns foes crossing it.,"Создать электрическое поле, которое оглушает пересекающих его противников."
 Manifest flames that damage enemies on an interval.,"Создает пламя, наносящее урон врагам с определенным интервалом."
-Mantis Sting,Mantis Sting
-Mantra of Concentration,Mantra of Concentration
-Mantra of Distraction,Mantra of Distraction
-Mantra of Flame,Mantra of Flame
-Mantra of Liberation,Mantra of Liberation
-Mantra of Lore,Mantra of Lore
-Mantra of Pain,Mantra of Pain
-Mantra of Potence,Mantra of Potence
-Mantra of Recovery,Mantra of Recovery
-Mantra of Resolve,Mantra of Resolve
-Mantra of Solace,Mantra of Solace
-Mantra of Truth,Mantra of Truth
-March of Undeath,March of Undeath
-Mariner's Frenzy,Mariner's Frenzy
-Mariner's Shot,Mariner's Shot
+Mantis Sting,Жало богомола
+Mantra of Concentration,Мантра концентрации
+Mantra of Distraction,Мантра отвлечения
+Mantra of Flame,Мантра пламени
+Mantra of Liberation,Мантра освобождения
+Mantra of Lore,Мантра знаний
+Mantra of Pain,Мантра боли
+Mantra of Potence,Мантра мощи
+Mantra of Recovery,Мантра восстановления
+Mantra of Resolve,Мантра решимости
+Mantra of Solace,Мантра утешения
+Mantra of Truth,Мантра истины
+March of Undeath,Марш нежити
+Mariner's Frenzy,Ярость моряка
+Mariner's Shot,Выстрел моряка
 "Mark a single target; after a short delay, bombard the area with spears that deal more damage to the marked target and continue to track their location.","Отметьте одну цель; после небольшой задержки обрушьте на область копья, которые наносят больше урона отмеченной цели и продолжают отслеживать её местоположение."
 "Mark an area for judgment, rapidly healing allies and then blasting foes in the area.","Отметьте область для суда, быстро исцеляя союзников, а затем поражая врагов в этой области."
-Mark of Anguish,Mark of Anguish
-Mark of Blood,Mark of Blood
-Mass Driver,Mass Driver
-Mass Invisibility,Mass Invisibility
+Mark of Anguish,Метка мучений
+Mark of Blood,Метка крови
+Mass Driver,Масс-драйвер
+Mass Invisibility,Массовая невидимость
 "Matthias charges and fires a beam that's shot directly in front of him, dealing massive damage to all targets hit.","Matthias совершает рывок и выпускает луч прямо перед собой, нанося огромный урон всем пораженным целям."
 "Matthias corrupts a target, dealing pulsing damage to all foes in an area. Can be cleansed by entering uncorrupted fountains.","Matthias оскверняет цель, нанося периодический урон всем врагам в области. Эффект можно снять, войдя в неоскверненные фонтаны."
 Matthias creates a deadly pool of magic where Unstable Blood Magic was purged.,"Matthias создает смертоносную лужу магии там, где была очищена Unstable Blood Magic."
@@ -366,7 +366,7 @@ Matthias fires a volley of projectiles that can be reflected. Applies stacks of 
 Matthias pulses downpour damage every 3 seconds to all targets in the area.,Matthias каждые 3 секунды наносит урон ливнем всем целям в области.
 Matthias pulses heat-wave damage every 3 seconds to all targets in the area.,Matthias каждые 3 секунды наносит урон тепловой волной всем целям в области.
 Matthias pulses snowstorm damage every 3 seconds to all targets in the area.,Matthias каждые 3 секунды наносит урон снежной бурей всем целям в области.
-Maul,Maul
+Maul,Растерзание
 Maw Barrier Duration,Длительность барьера пасти
 Maw Barrier Radius,Радиус барьера пасти
 Max Barrier,Макс. барьер
@@ -416,13 +416,13 @@ Maximum-Strength Daze,Ошеломление максимальной силы
 "McLeod sends out a flurry of slashes at frontline targets, applying confusion with each hit.","McLeod обрушивает шквал ударов на цели в первой линии, накладывая замешательство с каждым попаданием."
 McLeod slashes foes.,Резануть вашего противника.
 McLeod teleports and blasts the area.,McLeod телепортируется и взрывает область.
-Measured Shot,Measured Shot
+Measured Shot,Выверенный выстрел
 Mech Command. Pulse a barrier and boons to all nearby allies.,Команда меха. Создайте барьер и наложите благословения на всех ближайших союзников.
 "Mech Command. Your mech removes conditions, breaks stuns, and grants boons to itself and nearby allies.","Команда меха. Ваш мех снимает состояния, прерывает оглушение и накладывает благословения на себя и ближайших союзников."
-Mech Support: Depth Charges,Mech Support: Depth Charges
-Med Blaster,Med Blaster
-Med Kit,Med Kit
-Med Pack Drop,Med Pack Drop
+Mech Support: Depth Charges,Поддержка меха: Глубинные бомбы
+Med Blaster,Мед-бластер
+Med Kit,Медкомплект
+Med Pack Drop,Сброс медпакета
 Medium-Range Daze,Ошеломление средней дальности
 Medium-Range Radius,Радиус средней дальности
 "Meld with your other pet. 
@@ -431,37 +431,37 @@ Medium-Range Radius,Радиус средней дальности
 Meld with your pet.,Слейтесь с вашим питомцем.
 Melee Radius,Радиус ближнего боя
 "Melee. Hurl your weapon at your foe. If you are in close range, swing your weapon at them instead. Striking a foe reduces the cooldown of Abyssal Raze once per skill use.","Ближний бой. Метните оружие во врага. Если вы находитесь на близком расстоянии, вместо этого ударьте его оружием. Попадание по врагу сокращает время перезарядки Abyssal Raze один раз за использование навыка."
-Mender's Rebuke,Mender's Rebuke
-Mental Collapse,Mental Collapse
-Merciful Intervention,Merciful Intervention
-Mercy,Mercy
-Mercy Shot,Mercy Shot
-Metal Legion Guitar,Metal Legion Guitar
-Meteor,Meteor
-Meteor Crash,Meteor Crash
-Meteor Shower,Meteor Shower
-Meteor Swarm,Meteor Swarm
-Mib Ring,Mib Ring
-Might,Might
+Mender's Rebuke,Упрек целителя
+Mental Collapse,Ментальный коллапс
+Merciful Intervention,Милосердное вмешательство
+Mercy,Милосердие
+Mercy Shot,Милосердный выстрел
+Metal Legion Guitar,Гитара Металлического Легиона
+Meteor,Метеор
+Meteor Crash,Падение метеора
+Meteor Shower,Метеоритный дождь
+Meteor Swarm,Рой метеоров
+Mib Ring,Кольцо Mib
+Might,Мощь
 Might Radius,Радиус Мощи
-Mighty Blow,Mighty Blow
-Mighty Roar,Mighty Roar
-Mighty Slashes,Mighty Slashes
-Mighty Spin,Mighty Spin
-Mighty Throw,Mighty Throw
-Mimic,Mimic
-Mind Blast,Mind Blast
-Mind Crush,Mind Crush
-Mind Gash,Mind Gash
-Mind Pierce,Mind Pierce
-Mind Shock,Mind Shock
-Mind Slash,Mind Slash
-Mind Spike,Mind Spike
-Mind Stab,Mind Stab
-Mind Wrack,Mind Wrack
-Mind the Gap,Mind the Gap
-Mine Explosion,Mine Explosion
-Mine Field,Mine Field
+Mighty Blow,Мощный удар
+Mighty Roar,Мощный рык
+Mighty Slashes,Мощные рассечения
+Mighty Spin,Мощное вращение
+Mighty Throw,Мощный бросок
+Mimic,Имитация
+Mind Blast,Ментальный взрыв
+Mind Crush,Ментальное сокрушение
+Mind Gash,Ментальный порез
+Mind Pierce,Ментальный пронзатель
+Mind Shock,Ментальный шок
+Mind Slash,Ментальный удар
+Mind Spike,Ментальный шип
+Mind Stab,Ментальный выпад
+Mind Wrack,Ментальный крах
+Mind the Gap,"Осторожно, разрыв"
+Mine Explosion,Взрыв мины
+Mine Field,Минное поле
 Minimum Barrier,Минимальный барьер
 Minimum Damage,Минимальный урон
 Minimum Knockback,Минимальное отталкивание
@@ -479,27 +479,27 @@ Minion Lifetime,Время жизни прислужника
 Minister Li fires a shell at long-range targets that explode on the first enemy hit.,"Использовать все заряды, чтобы выстрелить из вашего меча пулей, которая взрывается, попав в первого противника на своем пути. Нанести дополнительный урон и наложить эффекты, зависящие от числа использованных зарядов."
 "Minister Li launches forward to a target location, damaging and launching enemies in his path.","Minister Li совершает рывок к выбранной цели, нанося урон и отбрасывая врагов на своем пути."
 "Minister Li swings his blade with mighty strength, creating a cone-shaped shock wave that deals significant damage and launches enemies.","Minister Li с огромной силой взмахивает клинком, создавая конусообразную ударную волну, которая наносит значительный урон и отбрасывает врагов."
-Mirage Advance,Mirage Advance
-Mirage Cloak,Mirage Cloak
+Mirage Advance,Продвижение миража
+Mirage Cloak,Плащ миража
 Mirage Duration,Длительность миража
-Mirage Mirror,Mirage Mirror
-Mirage Retreat,Mirage Retreat
-Mirage Thrust,Mirage Thrust
-Mirror Blade,Mirror Blade
-Mirror Images,Mirror Images
-Mirror Strikes,Mirror Strikes
-Misery Swipe,Misery Swipe
-Missed Stroke,Missed Stroke
+Mirage Mirror,Зеркало миража
+Mirage Retreat,Отступление миража
+Mirage Thrust,Рывок миража
+Mirror Blade,Зеркальный клинок
+Mirror Images,Зеркальные образы
+Mirror Strikes,Зеркальные удары
+Misery Swipe,Удар страданий
+Missed Stroke,Промах
 Missile Damage,Урон от снаряда
 Missile Explosion Radius,Радиус взрыва снаряда
 Missile Launch Interval,Интервал запуска снарядов
 Missile Radius,Радиус снаряда
 Missiles per Target,Снарядов на цель
-Mist Bomb,Mist Bomb
-Mist Form,Mist Form
-Mist Meteorite,Mist Meteorite
-Mist Slash,Mist Slash
-Mist Smash,Mist Smash
-Mist Swing,Mist Swing
-Mist Unleashed,Mist Unleashed
+Mist Bomb,Бомба Тумана
+Mist Form,Форма Тумана
+Mist Meteorite,Метеорит Тумана
+Mist Slash,Рассекающий удар Тумана
+Mist Smash,Сокрушающий удар Тумана
+Mist Swing,Взмах Тумана
+Mist Unleashed,Высвобожденный Туман
 "Mist essence explodes on impact, damaging and burning nearby creatures.","Эссенция Тумана взрывается при попадании, нанося урон и поджигая ближайших существ."

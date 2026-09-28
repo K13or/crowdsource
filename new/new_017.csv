@@ -7,7 +7,7 @@ Iida,Иида
 Illa,Илла
 Illuminate!,Озарение!
 Illusory,Иллюзорный
-Imbued Shaman,Imbued Shaman
+Imbued Shaman,Напитанный шаман
 Imbued the runestone of suffusion.,Рунный камень пропитки напитан.
 "Imbues your attacks with blue toxin, enabling damage against enemies weak to it.","Напитывает ваши атаки синим токсином, позволяя наносить урон уязвимым к нему врагам."
 "Imbues your attacks with green toxin, enabling damage against enemies weak to it.","Напитывает ваши атаки зелёным токсином, позволяя наносить урон уязвимым к нему врагам."
@@ -106,7 +106,7 @@ Increased vitality and toughness.,Повышенные живучесть и с�
 "Increases Power, Toughness, and Vitality.","Повышает силу, стойкость и живучесть."
 Increases all stats by a small amount.,Немного повышает все характеристики.
 "Increases condition damage, precision, and toughness.","Повышает урон от состояний, точность и стойкость."
-Increases critical-hit chance,Increases critical-hit chance
+Increases critical-hit chance,Повышает шанс критического удара
 Increases damage dealt by 100%%.,Увеличивает наносимый урон на 100%%.
 Increases damage dealt by 25%%.,Увеличивает наносимый урон на 25%%.
 Increases damage delivered.,Увеличивает наносимый урон.
@@ -135,8 +135,8 @@ Infiltrate the bandit hideout to keep Quinn out of jail.,"Проникните �
 Infiltrate the krait tower and steal the orb.,Проникните в башню крайтов и похитьте сферу.
 Infiltrate the prison.,Проникните в тюрьму.
 Infiltrator Seric,Лазутчик Серик
-Infinite Glacial Gathering Tools,Infinite Glacial Gathering Tools
-Infinite Strong Swing,Infinite Strong Swing
+Infinite Glacial Gathering Tools,Бесконечные ледниковые инструменты сбора
+Infinite Strong Swing,Бесконечный сильный замах
 Inflict a random condition on your foe.,Накладывает на противника случайное состояние.
 Inflict bleeding on enemies you immobilize or disable.,"Вы вызываете кровотечение у противников, которых обездвижили или вывели из строя."
 Inflicting a condition on a foe grants <c=@abilitytype>carapace</c>. Gain incoming damage reduction while at or above the <c=@abilitytype>carapace</c> threshold.,"Наложение состояния на врага даёт <c=@abilitytype>панцирь</c>. Пока количество <c=@abilitytype>панциря</c> не ниже порогового, входящий урон снижается."
@@ -173,38 +173,38 @@ Input received. WARNING! Data does not match sample set. Shutting down analysis.
 Inputting value. Modulation array online. Crystal tuning efficiency improved!,Ввод значения. Модуляционная матрица активна. Эффективность настройки кристаллов повышена!
 Inputting value. Ratios correct. Distributing crystals to network.,Ввод значения. Соотношения верны. Кристаллы распределяются по сети.
 Input—denied. Unscheduled—requests—will—slow—decryption. Redirect—inquires—to—future—Ascension—hero—Xunn. End—of—feed.,Ввод—отклонён. Внеплановые—запросы—замедлят—дешифровку. Перенаправьте—обращения—к—будущему—герою—Вознесения—Ксунну. Конец—передачи.
-Inquest Agent Coll,Inquest Agent Coll
-Inquest Agent Dinn,Inquest Agent Dinn
-Inquest Amalgam Assassin,Inquest Amalgam Assassin
-Inquest Amalgam Engineer,Inquest Amalgam Engineer
-Inquest Audio Log Box,Inquest Audio Log Box
-Inquest Barrier,Inquest Barrier
-Inquest Canister,Inquest Canister
-Inquest Containment Cell,Inquest Containment Cell
-Inquest Corpses,Inquest Corpses
-Inquest Danger Sign,Inquest Danger Sign
-Inquest Data Console,Inquest Data Console
-Inquest Dig Site,Inquest Dig Site
-Inquest Galvanic Technician,Inquest Galvanic Technician
-Inquest Grunt,Inquest Grunt
-Inquest Hunter,Inquest Hunter
-Inquest Intern,Inquest Intern
-Inquest Machinist,Inquest Machinist
-Inquest Magimeter,Inquest Magimeter
-Inquest Medic,Inquest Medic
-Inquest Mount Package,Inquest Mount Package
+Inquest Agent Coll,Агент Inquest Колл
+Inquest Agent Dinn,Агент Inquest Динн
+Inquest Amalgam Assassin,Амальгам-убийца Inquest
+Inquest Amalgam Engineer,Амальгам-инженер Inquest
+Inquest Audio Log Box,Коробка с аудиозаписями Inquest
+Inquest Barrier,Барьер Inquest
+Inquest Canister,Канистра Inquest
+Inquest Containment Cell,Камера содержания Inquest
+Inquest Corpses,Трупы Inquest
+Inquest Danger Sign,Знак опасности Inquest
+Inquest Data Console,Консоль данных Inquest
+Inquest Dig Site,Раскопки Inquest
+Inquest Galvanic Technician,Гальванический техник Inquest
+Inquest Grunt,Рядовой Inquest
+Inquest Hunter,Охотник Inquest
+Inquest Intern,Стажёр Inquest
+Inquest Machinist,Механик Inquest
+Inquest Magimeter,Магиметр Inquest
+Inquest Medic,Медик Inquest
+Inquest Mount Package,Набор скакунов Inquest
 Inquest Mount Package now available!,Набор скакунов Inquest уже доступен!
-Inquest Operative,Inquest Operative
-Inquest Pilferer,Inquest Pilferer
-Inquest Poison Ampoule,Inquest Poison Ampoule
-Inquest Prisoner,Inquest Prisoner
+Inquest Operative,Оперативник Inquest
+Inquest Pilferer,Воришка Inquest
+Inquest Poison Ampoule,Ампула с ядом Inquest
+Inquest Prisoner,Пленник Inquest
 Inquest Raptor Skin[s],Облик[|а|ов] раптора Inquest
 Inquest Remaining,Осталось бойцов Inquest
-Inquest Sharpshooter,Inquest Sharpshooter
+Inquest Sharpshooter,Меткий стрелок Inquest
 Inquest Squads Defeated,Отряды Inquest побеждены
-Inquest Technician Greeza,Inquest Technician Greeza
-Inquest Technician Krim,Inquest Technician Krim
-Inquest Void-Emulation Specialist,Inquest Void-Emulation Specialist
+Inquest Technician Greeza,Техник Inquest Гриза
+Inquest Technician Krim,Техник Inquest Крим
+Inquest Void-Emulation Specialist,Специалист Inquest по эмуляции Пустоты
 Inquest Weapons Stash,Тайник с оружием Inquest
 Inquest-Controlled Stewards,Управляемые Inquest стюарды
 Inquest-Enhanced Saurian,Улучшенный Inquest завр
@@ -285,7 +285,7 @@ Iron Legion Sentinel,Часовой Iron Legion
 Iron Legion Warrior,Воин Iron Legion
 Iron Pledge,Железная клятва
 "Iron Stairs[pl:""Stairs""] (120 x 120)",[Железная лестница|Железные лестницы|Железных лестниц] (120 x 120)
-Irvine,Irvine
+Irvine,Ирвин
 Is a bit of treasure worth your life?,Стоит ли горстка сокровищ твоей жизни?
 Is it fun to be a Ministry guard?,Весело быть стражником Министерства?
 "Is it just me, or am I amazing?","Мне кажется, или я великолепен?"
@@ -376,10 +376,10 @@ Jade Tech Console,Консоль Jade Tech
 Jade Tech Gate,Врата Jade Tech
 Jade Wasp Bot,Нефритовый бот-оса
 Jade guard blaster attacks will track targets.,Атаки бластеров нефритовой стражи будут следовать за целями.
-Jafri,Jafri
+Jafri,Джафри
 Jagged Metal Scrap[s],Зазубренный обрезок[|а|ов] металла
 Jail Door,Дверь тюрьмы
-Jalis,Jalis
+Jalis,Джалис
 Jamie,Джейми
 Jaycee McKellar,Джейси Маккеллар
 Jealous Swipe,Ревнивый удар
@@ -389,7 +389,7 @@ Jeppa's Campsite,Стоянка Джеппы
 Jerafim,Джерафим
 Jeremi the Carny,Джереми Балаганщик
 Jeska,Джеска
-Jess,Jess
+Jess,Джесс
 Jimmy Hammerhart might have a book about this...,"Может, у Джимми Молотосерда есть книга об этом..."
 Job well done,Отличная работа
 Join Selected Team,Присоединиться к выбранной команде
@@ -408,8 +408,8 @@ Jonathan McKellar,Джонатан Маккеллар
 Jorg Tomefeaster,Йорг Книгоед
 "Jormag's influence extends far beyond his actual reach. To the west, the Sons of Svanir grow ever more dangerous and violent. To the east, the weak-minded grawl worship the great beast in the sky. We must stem the tide, or this land will be lost.","Влияние Jormag простирается далеко за пределы его досягаемости. На западе Sons of Svanir становятся всё опаснее и злее. На востоке слабоумные граулы поклоняются великому зверю в небе. Мы должны остановить эту волну, иначе эта земля будет потеряна."
 Jortun the Cunning,Йортун Хитрый
-Jorund,Jorund
-Jorund Soderhem,Jorund Soderhem
+Jorund,Йорунд
+Jorund Soderhem,Йорунд Сёдерхем
 Jotun Runestone[s],Рунный [камень|камня|камней] йотунов
 Journal Scroll,Свиток дневника
 Journal of Kormir,Дневник Кормир
@@ -432,7 +432,7 @@ Jumped into the Water near the Fortress of the Founding,Прыжок в воду
 Jumped into the Water near the Northern Beacon,Прыжок в воду у Северного маяка совершён
 Jumped off the Waterfall into the Chak Hive,Прыжок с водопада в улей чаков совершён
 Jumped over Drakkar's Shock Wave Attack %num1%/%num2% Times,Shock Wave Драккара перепрыгнута %num1%/%num2% раз
-Junior Archivist's Aide Conri,Junior Archivist's Aide Conri
+Junior Archivist's Aide Conri,Помощник младшего архивариуса Конри
 Just a bit of your soul—you won't miss it.,Всего кусочек твоей души — ты и не заметишь.
 Just another dead cow.,Просто ещё одна дохлая корова.
 Just hope our equipment isn't all jammed with sand when we need it.,"Остаётся надеяться, что наше снаряжение не забьётся песком, когда понадобится."
@@ -449,8 +449,8 @@ Juvenile Elonian raptors rely more on cuteness than leaping ability.<br>Combine 
 "Juvenile Elonian raptors rely more on cuteness than leaping ability.<br>Combine a Red, Blue, and Yellow Raptor with 8 Unidentified Dyes in the Mystic Forge to create a Black Raptor.<br>Combine a Red, Yellow, and Black Raptor with 12 Unidentified Dyes in the Mystic Forge to create a Gold Raptor.","Молодые элонские рапторы полагаются больше на милоту, чем на прыгучесть.<br>Соедините красного, синего и жёлтого рапторов с 8 неопознанными красками в Mystic Forge, чтобы получить чёрного раптора.<br>Соедините красного, жёлтого и чёрного рапторов с 12 неопознанными красками в Mystic Forge, чтобы получить золотого раптора."
 "Juvenile Elonian raptors rely more on cuteness than leaping ability.<br>Combine a Silver, Gold, and White Raptor with 20 Unidentified Dyes in the Mystic Forge to create an Ice Raptor.","Молодые элонские рапторы полагаются больше на милоту, чем на прыгучесть.<br>Соедините серебряного, золотого и белого рапторов с 20 неопознанными красками в Mystic Forge, чтобы получить ледяного раптора."
 "Juvenile Elonian raptors rely more on cuteness than on leaping ability.<br>Combine a Gold, Silver, and Black Raptor with 20 Unidentified Dyes in the Mystic Forge to create a Fire Raptor.","Молодые элонские рапторы полагаются больше на милоту, чем на прыгучесть.<br>Соедините золотого, серебряного и чёрного рапторов с 20 неопознанными красками в Mystic Forge, чтобы получить огненного раптора."
-Juvenile Frog,Juvenile Frog
-Juvenile Mordrem Vile Thrasher,Juvenile Mordrem Vile Thrasher
+Juvenile Frog,Молодая лягушка
+Juvenile Mordrem Vile Thrasher,Молодой мордремский мерзостный молотильщик
 KZ-529,КЗ-529
 Ka-ching!,Дзынь-дзынь!
 Kabam!,Ба-бах!

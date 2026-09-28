@@ -4,11 +4,11 @@ Basic,Базовый
 Basilisk,Василиск
 Batling,Летучий мышонок
 Battle,Битва
-Battle-Worn,Battle-Worn
-Bauble,Bauble
+Battle-Worn,Потрёпанный в боях
+Bauble,Безделушка
 Baubles,Побрякушки
-Bayonet,Bayonet
-Bazaar,Bazaar
+Bayonet,Штык
+Bazaar,Базар
 "Be careful, this bomb is unstable. The smallest scratch could detonate it, so avoid combat. And move quickly—the fuse only lasts three minutes.","Будьте осторожны, эта бомба нестабильна. Даже малейшая царапина может привести к взрыву, поэтому избегайте боя. И поторопитесь — у вас всего три минуты до того, как сработает детонатор."
 Beach,Пляж
 Beaker looks a little antsy.,"Похоже, Бикер немного нервничает."
@@ -20,7 +20,7 @@ Beech,Бук
 Beehive,Улей
 Beer,Пиво
 Bees,Пчёлы
-Beet,Beet
+Beet,Свёкла
 Beetle,Жук
 Beggar,Нищий
 Begin training the ranger's soulbeast elite specialization.,Начните обучение элитной специализации рейнджера «Слияние с природой».
@@ -32,14 +32,14 @@ Belarus,Беларусь
 Belgium,Бельгия
 Belize,Белиз
 Bell,Колокол
-Belladonna,Belladonna
+Belladonna,Белладонна
 Bellow,Рёв
-Bellower,Bellower
+Bellower,Крикун
 Below,Ниже
-Beluga,Beluga
-Benedikt,Benedikt
+Beluga,Белуга
+Benedikt,Бенедикт
 Benin,Бенин
-Benwah,Benwah
+Benwah,Бенва
 Beramy,Берами
 Bercilak,Берсилак
 Bergwerk,Бергверк
@@ -48,44 +48,44 @@ Berserkers,Берсерки
 Bertie,Берти
 Berusad,Берусад
 Besieger,Осаждатель
-Bess,Bess
+Bess,Бесс
 Best,Лучший
-Beta,Beta
+Beta,Бета
 Betrayal,Предательство
 Bian,Биан
-Bicuda,Bicuda
+Bicuda,Бикуда
 Bile,Желчь
-Binyam,Binyam
+Binyam,Биньям
 Birch,Берёза
 Birds,Птицы
 Bites,Кусается
-Bitterling,Bitterling
-Bizz,Bizz
-Bjarni,Bjarni
+Bitterling,Горчак
+Bizz,Бизз
+Bjarni,Бьярни
 Blackberries,Ежевика
-Blackberry,Blackberry
+Blackberry,Ежевика
 Blackgate,Чёрные врата
 Blackleaf,Чернолист
-Blackout,Blackout
+Blackout,Затемнение
 Blackstone,Чёрный камень
 Blacktide,Чёрный прилив
-Blaine,Blaine
+Blaine,Блейн
 Blank,Пусто
 Blanket,Одеяло
 Blankets,Одеяла
 Blast,Взрыв
 Blastwave,Взрывная волна
-Blattellidae,Blattellidae
-Blattodea,Blattodea
+Blattellidae,Блаттеллиды
+Blattodea,Блаттодея
 Bleeder,Кровопускатель
 Bleeds,Кровотечения
-Blightbob,Blightbob
+Blightbob,Блайтбоб
 Blindlight,Светослепота
 Blindness,Слепота
 Blinds,Ослепляет
 Bloat,Вздутие
 Blobby,Блобби
-Blobfish,Blobfish
+Blobfish,Рыба-капля
 Block,Блок
 Block the next attack. Counter with an attack if you are in melee range.,"Блокировать следующую атаку. Контратаковать, если вы находитесь на дистанции ближнего боя."
 Block.,Блокировать.
@@ -94,27 +94,27 @@ Blocking,Блокировка
 Blocks,Блоки
 Blond,Блондин
 Bloodfang,Кровавый Клык
-Bloodfish,Bloodfish
-Bloodletter,Bloodletter
-Bloodlily,Bloodlily
+Bloodfish,Кроворыба
+Bloodletter,Кровопийца
+Bloodlily,Кровавая лилия
 Bloodmines,Кровавые шахты
-Bloodroot,Bloodroot
-Bloodseeker,Bloodseeker
+Bloodroot,Кровавый корень
+Bloodseeker,Кровоискатель
 Bloodspirit,Кровавый дух
 Bloodstones,Кровавые камни
 Bloodthirst,Кровожадность
-Bloomboom,Bloomboom
-Blork,Blork
+Bloomboom,Цветущий взрыв
+Blork,Блорк
 Blowback,Отдача
-Blowfish,Blowfish
+Blowfish,Иглобрюх
 Blowout,Выхлоп
 Blubloop,Блублуп
 Blue,Синий
 Bluebell,Колокольчик
-Bluegill,Bluegill
+Bluegill,Синежаберник
 Bluff,Блеф
 Blumenkohl,Блюменколь
-Bo,Bo
+Bo,Бо
 Board,Доска
 Boast,Хвастовство
 Boatmaster,Лодочник
@@ -122,11 +122,11 @@ Bobcat,Рысь
 Body,Тело
 Bolan,Болан
 Bolivia,Боливия
-Bolt,Bolt
-Boltcaster,Boltcaster
-Bombard,Bombard
-Bone,Bone
-Bonefish,Bonefish
+Bolt,Болт
+Boltcaster,Молниеносец
+Bombard,Бомбардировать
+Bone,Кость
+Bonefish,Костлявая рыба
 Bonereaver,Костерез
 Bonfires,Костры
 Bonus,Бонус
@@ -139,26 +139,26 @@ Boons,Благословения
 Boost,Усиление
 Boosts,Усиления
 Boots,Бутс
-Boregun,Boregun
+Boregun,Борегун
 Borrow,Одолжить
 Botanist,Ботаник
 Botswana,Ботсвана
 Botting,Боттинг
-Bottle,Bottle
-Boulder,Boulder
+Bottle,Бутылка
+Boulder,Валун
 Bounce,Отскок
 Bounty,Награда
-Boxfish,Boxfish
+Boxfish,Кузовок
 Boyde,Бойд
 Braham: Avenger of the Dispossessed,Мститель обездоленных
 Bramble,Ежевика
 Brambles,Ежевика
-Bramblethorne,Bramblethorne
+Bramblethorne,Ежевичник
 Branch,Ветвь
 Branches,Ветви
 Brandclaw,Брендкоготь
-Brandt,Brandt
-Brannen,Brannen
+Brandt,Брандт
+Brannen,Браннен
 Bravo,Браво
 Brawler,Драчун
 Brawlers,Драчуны
@@ -168,7 +168,7 @@ Bread,Хлеб
 Break,Сломать
 Breakable,Ломаемый
 Breakout,Прорыв
-Bream,Bream
+Bream,Лещ
 Brennan,Бреннан
 Bria,Бриа
 Briar,Терновник
@@ -178,7 +178,7 @@ Broken,Сломанный
 Bromaj,Бромаж
 Brombeeren,Ежевика
 Bronden,Бронден
-Bronson,Bronson
+Bronson,Бронсон
 Brown,Коричневый
 Brownout,Затемнение
 Bruiser,Громила
@@ -186,7 +186,7 @@ Bryndora,Бриндор
 Buccaneer,Буканьер
 Buck,Бак
 Bucket,Ведро
-Buckler,Buckler
+Buckler,Баклер
 Buffs,Усиления
 Bugs,Жуки
 Build,Строить
@@ -195,7 +195,7 @@ Bulk,Объём
 Bull,Бык
 Bullet,Пуля
 Bundles,Связки
-Burden,Burden
+Burden,Бремя
 Burglar,Взломщик
 Burl,Сучок
 Burn,Горение
@@ -211,7 +211,7 @@ Burundi,Бурунди
 Bury,Закопать
 Bust,Бюст
 Buster,Бастер
-Butch,Butch
+Butch,Бутч
 Buttercup,Лютик
 Butternut,Баттернат
 Button,Кнопка
@@ -224,29 +224,29 @@ Caala,Каала
 Cabbage,Капуста
 Cactus,Кактус
 Caheris,Кахерис
-Cairn,Cairn
+Cairn,Кэрн
 Caladbolg,Каладболг
 Calamity,Бедствие
 Calibrate,Калибровать
 Calibrations,Калибровки
-Callu,Callu
+Callu,Каллу
 Cambodia,Камбоджа
 Camera,Камера
 Cameroon,Камерун
 Camouflage,Камуфляж
 Camp,Лагерь
-Campfire,Campfire
+Campfire,Костёр
 Campsite,Лагерь
 Canada,Канада
 Cancel,Отмена
 Candle,Свеча
 Cannon,Пушка
-Cannonball,Cannonball
+Cannonball,Пушечное ядро
 Cannonballs,Пушечные ядра
 Canthan,Кантский
 Cantrip,Кантрип
-Canvas,Canvas
-Captain,Captain
+Canvas,Холст
+Captain,Капитан
 Captain...,Капитан...
 Captivating,Захватывающий
 Capture,Захват
@@ -255,10 +255,10 @@ Capture 3 Keeps in World vs. World,Захватите 3 крепости в Worl
 Capture 5 Camps in World vs. World,Захватите 5 лагерей в World vs. World
 Caramel,Карамель
 Caravan,Караван
-Carcharias,Carcharias
+Carcharias,Кархариас
 Caretaker,Смотритель
-Carmel,Carmel
-Carrot,Carrot
+Carmel,Карамель
+Carrot,Морковь
 Carrots,Моркови
 Cart,Тележка
 Cartographer,Картограф
@@ -269,7 +269,7 @@ Catapult,Катапульта
 Catch,Поймать
 Categories,Категории
 Category,Категория
-Catfish,Catfish
+Catfish,Сом
 Catherina,Катерина
 "Caudecus's Manor
 Story recommended level: <c=#CC9900>40</c>
@@ -278,27 +278,27 @@ Explorable recommended level: <c=#CC9900>45</c>","Caudecus's Manor
 Рекомендуемый уровень для исследования: <c=#CC9900>45</c>"
 Cauldron,Котёл
 Cauliflower,Цветная капуста
-Cauterizer,Cauterizer
+Cauterizer,Прижигатель
 Caution,Осторожно
-Cavalier,Cavalier
-Cavalon,Cavalon
+Cavalier,Кавалер
+Cavalon,Кавалон
 Cave,Пещера
 Cavern,Пещера
-Caw,Caw
+Caw,Кар
 Ceera,Сира
 Ceiling,Потолок
 Cell,Ячейка
 Censure,Порицание
 Centaur,Кентавр
-Cesseilia,Cesseilia
+Cesseilia,Цесселия
 Chad,Чад
-Chain,Chain
-Chainblade,Chainblade
+Chain,Цепь
+Chainblade,Цепной клинок
 Chairs,Стулья
 Challenge,Испытание
 Challenges,Испытания
 Champagne,Шампанское
-Chandelier,Chandelier
+Chandelier,Люстра
 Chandran,Чандрана
 Change,Изменить
 "Change the appearance of your gathering, fishing, and jade bot tools.
@@ -308,10 +308,10 @@ Channel,Канал
 Character,Персонаж
 Charged,Заряжен
 Charges,Заряды
-Charisma,Charisma
+Charisma,Харизма
 Charming,Очаровательный
-Charr,Charr
-Charr-Nip,Charr-Nip
+Charr,Чарр
+Charr-Nip,Чарр-мята
 Chat,Чат
 Chats,Чаты
 Chatter,Болтовня
@@ -321,21 +321,21 @@ Checkpoint,Контрольная точка
 Checkpoints,Контрольные точки
 Cheeks,Щёки
 Cheer,Подбадривание
-Cheeseburger,Cheeseburger
-Chest,Chest
+Cheeseburger,Чизбургер
+Chest,Сундук
 Chestplate,Нагрудник
 Chicken,Курица
 Chickenado,Чикенадо
-Chickpea,Chickpea
-Chikkchak,Chikkchak
+Chickpea,Нут
+Chikkchak,Чиккчак
 Chile,Чили
 Chill,Озноб
 China,Китай
-Chiroptophobia,Chiroptophobia
-Chisel,Chisel
+Chiroptophobia,Хироптофобия
+Chisel,Зубило
 Chitaritta,Chitaritta
 Chitterogg,Chitterogg
-Chloroblaster,Chloroblaster
+Chloroblaster,Хлоробластер
 Choice,Выбор
 Choices,Выбор
 Choisir...,Выбрать...
@@ -344,7 +344,7 @@ Chokocooka,Чококука
 Choose...,Выбрать...
 Chopper,Вертолёт
 Chords,Аккорды
-Chromecurve,Chromecurve
+Chromecurve,Хромокривая
 Chs,Chs
 Cht,Cht
 Chunk[s] of Refined Dredge Ore,Куски неочищенной руды дрегов
@@ -359,15 +359,15 @@ Explorable recommended level: <c=#CC9900>75</c>","Цитадаль Пламен�
 Рекомендуемый уровень для сюжета: <c=#CC9900>70</c>
 Рекомендуемый уровень для исследования: <c=#CC9900>75</c>"
 Claim,Забрать
-Clam,Clam
+Clam,Моллюск
 Clap,Хлопок
-Clawfish,Clawfish
+Clawfish,Когтерыба
 Clean,Чистый
 Clean-o-matic,Чисто-матик
 Cleaner,Чистильщик
 Cleanse,Очистить
 Clear,Очистить
-Cleaver,Cleaver
+Cleaver,Тесак
 Clerics,Клерики
 Climb,Взобраться
 Cloak,Плащ
@@ -383,19 +383,19 @@ Cmd,Команда
 Coast,Побережье
 Coat,Куртка
 Coats,Куртки
-Cobia,Cobia
+Cobia,Кобия
 Coconut,Кокос
 Coconuts,Кокосы
 Cocoon,Кокон
-Codmander,Codmander
+Codmander,Кодмандер
 Coffee,Кофе
-Cog,Cog
-Coiler,Coiler
+Cog,Шестерня
+Coiler,Намотчик
 Coins,Монеты
-Coldsnap,Coldsnap
-Coleoptera,Coleoptera
+Coldsnap,Холодный рывок
+Coleoptera,Колеоптера
 Coliseum,Колизей
-Collaboration,Collaboration
+Collaboration,Сотрудничество
 Collect,Собрать
 Collect 4 Relics from Visions of Eternity Relic Set 3,Собрать 4 реликвии из набора реликвий 3 Visions of Eternity
 "Collect Any Two of These Aquabreathers: Inquest Aquabreather, Castoran Researcher's Mask, Castoran Diver's Mask, or Castoran Explorer's Rebreather","Соберите любые два из этих аквалангов: Акваланг Inquest, Маска исследователя Касторана, Маска водолаза Касторана или Ребризер исследователя Касторана"
@@ -411,13 +411,13 @@ Combat,Бой
 Combinations,Комбинации
 Combo,Комбо
 Combos,Комбо
-Combustion,Combustion
-Comfort,Comfort
+Combustion,Горение
+Comfort,Комфорт
 Comma,Запятая
 Command,Команда
 Commendation,Рекомендация
 Commerce,Торговля
-Commission,Commission
+Commission,Поручение
 Commitment,Преданность
 Common,Обычный
 Commune,Слияние
@@ -465,11 +465,11 @@ Completion,Завершение
 Comportement,Поведение
 Compose,Составить
 Composer,Композитор
-Compost,Compost
+Compost,Компост
 Compounding,Составление
 Compulsion,Принуждение
 Concessions,Уступки
-Concordance,Concordance
+Concordance,Согласие
 Condition,Состояние
 Conditioner,Специалист по состояниям
 Conditions,Состояния
@@ -477,15 +477,15 @@ Conductrosphere,Проводосфера
 Confidential,Конфиденциально
 Confirm,Подтвердить
 Conflagrate,Воспламенить
-Conflux,Conflux
+Conflux,Конфлюкс
 Confront,Противостоять
-Confrontation,Confrontation
-Confronting Captain Tervelan,Confronting Captain Tervelan
+Confrontation,Противостояние
+Confronting Captain Tervelan,Противостояние капитану Тервелану
 Congo,Конго
 Congrats,Поздравляю
 Congratulations,Поздравления
 Conjured,Сотворённый
-Conn,Conn
+Conn,Конн
 Connecting...,Подключение...
 Conquest,Завоевание
 Console,Консоль
@@ -494,7 +494,7 @@ Consumable,Расходуемый предмет
 Consumables,Расходуемые предметы
 Consumed,Поглощено
 Contacts,Контакты
-Contagion,Contagion
+Contagion,Заражение
 Container,Контейнер
 Containers,Контейнеры
 Contemplation,Созерцание
@@ -504,21 +504,21 @@ Control,Управление
 Convene,Созвать
 Convergences,Схождения
 Conversions,Преобразования
-Cooguloosh,Cooguloosh
+Cooguloosh,Кугулуш
 Cook,Готовить
 Cool,Холодный
 Cooldown,Восстановление
-Cordyceps,Cordyceps
+Cordyceps,Кордицепс
 Corn,Кукуруза
 Correct,Верно
-Corvina,Corvina
+Corvina,Корвина
 Costs,Затраты
 Costume,Костюм
 Count,Граф
-Courage,Courage
+Courage,Храбрость
 Courrier,Курьер
 Cower,Съёжиться
 Coyote,Койот
-Crabmeat,Crabmeat
+Crabmeat,Крабовое мясо
 Crackedhoof,Треснувшее Копыто
 Craft,Создание

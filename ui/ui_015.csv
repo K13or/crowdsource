@@ -26,7 +26,7 @@ english,translate
 %str1%%str2%Winged Spatha%str3%%str4%,%str1%%str2%Winged Spatha%str3%%str4%
 %str1%%str2%Winged Tunic%str3%%str4%,%str1%%str2%Туника «Winged»%str3%%str4%
 %str1%%str2%Wings of Dwayna%str3%%str4%,%str1%%str2%Wings of Dwayna%str3%%str4%
-%str1%%str2%Wings of the Sunless%str3%%str4%,%str1%%str2%Wings of the Sunless%str3%%str4%
+%str1%%str2%Wings of the Sunless%str3%%str4%,%str1%%str2%Крылья Бессолнечного%str3%%str4%
 %str1%%str2%Winter Fur Shoulders%str3%%str4%,%str1%%str2%Наплечники «Winter Fur»%str3%%str4%
 %str1%%str2%Winter Mittens%str3%%str4%,%str1%%str2%Варежки «Winter»%str3%%str4%
 %str1%%str2%Winter's Arc%str3%%str4%,%str1%%str2%Winter's Arc%str3%%str4%
@@ -169,7 +169,7 @@ english,translate
 %str1%%str2%Wrapped Sword%str3%%str4%,%str1%%str2%Меч «Wrapped»%str3%%str4%
 %str1%%str2%Wrapped Torch%str3%%str4%,%str1%%str2%Факел «Wrapped»%str3%%str4%
 %str1%%str2%Wrapped Warhorn%str3%%str4%,%str1%%str2%Боевой рог «Wrapped»%str3%%str4%
-%str1%%str2%Wrappings of the Lich%str3%%str4%,%str1%%str2%Wrappings of the Lich%str3%%str4%
+%str1%%str2%Wrappings of the Lich%str3%%str4%,%str1%%str2%Обмотки лича%str3%%str4%
 %str1%%str2%Wrath of Ignaxious%str3%%str4%,%str1%%str2%Wrath of Ignaxious%str3%%str4%
 %str1%%str2%Wreath of Cooperation%str3%%str4%,%str1%%str2%Wreath of Cooperation%str3%%str4%
 %str1%%str2%Wurmslayer's Epaulets%str3%%str4%,%str1%%str2%Эполеты «Wurmslayer's»%str3%%str4%

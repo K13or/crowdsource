@@ -129,8 +129,8 @@ Double-click to gain a hero point.<br>This strange fermented meat smells exotic.
 "Double-click to transform into a thundershrimp.<br><br><c=@flavor>""Still pretty big for a shrimp, if you ask me!""</c>","Дважды щёлкните, чтобы превратиться в креветку-щелкуна.<br><br><c=@flavor>«По мне, для креветки всё равно великовата!»</c>"
 Doubled Deluge,Двойной ливень
 Doudoop,Дудуп
-Dougal,Dougal
-Dougal Keane,Dougal Keane
+Dougal,Дугал
+Dougal Keane,Дугал Кин
 Douse Yourself,Окатить себя
 Dove into the abyss.,Нырнул в бездну.
 Down for the count.,"Готов, отсчёт пошёл."
@@ -197,34 +197,34 @@ Drawbridge Mechanism,Механизм подъёмного моста
 Dream of finer things.,Мечтай о лучшем.
 Dream with me!,Мечтай со мной!
 Dreas,Дреас
-Dredge APC,Dredge APC
-Dredge Advanced Rifle,Dredge Advanced Rifle
+Dredge APC,БТР дреджей
+Dredge Advanced Rifle,Улучшенная винтовка дреджей
 Dredge Armory Gate,Врата оружейной дреджей
-Dredge Basic Rifle,Dredge Basic Rifle
-Dredge Blockade,Dredge Blockade
-Dredge Burrow,Dredge Burrow
-Dredge Carrier,Dredge Carrier
-Dredge Digging Machine,Dredge Digging Machine
+Dredge Basic Rifle,Простая винтовка дреджей
+Dredge Blockade,Блокада дреджей
+Dredge Burrow,Нора дреджей
+Dredge Carrier,Носитель дреджей
+Dredge Digging Machine,Копательная машина дреджей
 Dredge Diving Suit[s],[Водолазный костюм|Водолазных костюма|Водолазных костюмов] дреджей
-Dredge Excavator,Dredge Excavator
-Dredge Furnace,Dredge Furnace
-Dredge Grenadier,Dredge Grenadier
-Dredge Heat-Targeted Mortar,Dredge Heat-Targeted Mortar
-Dredge Land Mine,Dredge Land Mine
+Dredge Excavator,Землекоп дреджей
+Dredge Furnace,Печь дреджей
+Dredge Grenadier,Гренадер дреджей
+Dredge Heat-Targeted Mortar,Теплонаводящаяся мортира дреджей
+Dredge Land Mine,Фугас дреджей
 Dredge Mining Supplies,Горные припасы дреджей
-Dredge Mortar Cannon,Dredge Mortar Cannon
+Dredge Mortar Cannon,Мортирная пушка дреджей
 Dredge Mortar Shot Signal on Hit,Сигнал мортирного выстрела дреджей при попадании
-Dredge Munitions Crate,Dredge Munitions Crate
-Dredge Ore Vein,Dredge Ore Vein
-Dredge Prison,Dredge Prison
-Dredge Repair Crew,Dredge Repair Crew
-Dredge Rock Crusher,Dredge Rock Crusher
-Dredge Saboteur,Dredge Saboteur
-Dredge Siege Mortar,Dredge Siege Mortar
-Dredge Siegemaster,Dredge Siegemaster
-Dredge Soldier,Dredge Soldier
+Dredge Munitions Crate,Ящик боеприпасов дреджей
+Dredge Ore Vein,Рудная жила дреджей
+Dredge Prison,Тюрьма дреджей
+Dredge Repair Crew,Ремонтная бригада дреджей
+Dredge Rock Crusher,Камнедробилка дреджей
+Dredge Saboteur,Диверсант дреджей
+Dredge Siege Mortar,Осадная мортира дреджей
+Dredge Siegemaster,Осадный мастер дреджей
+Dredge Soldier,Солдат дреджей
 Dredge Strazar[s],[Стразар|Стразара|Стразаров] дреджей
-Dredge Tunnel,Dredge Tunnel
+Dredge Tunnel,Туннель дреджей
 "Dredge and grawl are becoming a problem to the east. The relentless drilling of the dredge is disturbing our prey, and aggressive grawl have been pushing into the region. Help us deal with these nuisances so that we can get back to hunting.","На востоке дреджи и граулы становятся проблемой. Нескончаемое бурение дреджей распугивает нашу добычу, а в эти края лезут агрессивные граулы. Помоги нам разобраться с этой напастью, чтобы мы вернулись к охоте."
 Dredge are building a barricade at Burrows of Moledavia.,Дреджи строят баррикаду у Нор Кротодавии.
 Dredge controllers,Контролёры дреджей
@@ -283,7 +283,7 @@ Dry Soil,Сухая почва
 Dry Waterbag,Пустой бурдюк
 Drying Station,Станция сушки
 Drying off.,Обсыхаю.
-Drysdan,Drysdan
+Drysdan,Дрисдан
 Drysdan will start making medicine in: %str1%,Дрисдан начнёт готовить лекарство через: %str1%
 Dual Attunement,Двойная настройка
 Dual Skill Recharge Reduced,Перезарядка парного умения снижена
@@ -294,7 +294,7 @@ Duchess Chrysanthea (1),Герцогиня Хризантея (1)
 Dumpling,Пельмень
 "Dunderhead! I've devoted half my life to finding this place, I'm not going to let some passerby sneak in while I'm off scrounging for crystals. Besides, my assistants have proven themselves incompetent.","Болван! Я полжизни отдал поискам этого места и не позволю какому-то прохожему прокрасться внутрь, пока я рыскаю за кристаллами. К тому же мои помощники доказали свою бестолковость."
 Dunk,Данк
-Durgar,Durgar
+Durgar,Дургар
 Duri,Дури
 "During your travels you will find adventure at every turn, but do not forget where you come from. The heart of all cultures is farming and commerce. To this end, the sylvari of Ogham Wilds serve as providers to all of the Grove; be it gathering from the water's edge, or farming from within the heart of the jungle.","В странствиях приключения будут ждать тебя на каждом шагу, но не забывай, откуда ты родом. Сердце любой культуры — земледелие и торговля. Ради этого сильвари Дебрей Огама кормят всю Рощу: будь то сбор у кромки воды или возделывание земли в самом сердце джунглей."
 Durmand Priory Arcanist,Арканист Durmand Priory

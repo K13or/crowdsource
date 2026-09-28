@@ -51,7 +51,7 @@ Achievement Eligibility: Sweet Relief,Право на достижение: Сл
 Achievement Eligibility: Theft Deterrence,Право на достижение: Защита от кражи
 Achievement Eligibility: This Is Fine,Право на достижение: Всё в порядке
 "Adds life steal to attacks, and converts conditions to boons every 10 seconds.",Добавляет атакам похищение жизни и каждые 10 секунд обращает состояния в благодати.
-Agent Kashud,Agent Kashud
+Agent Kashud,Агент Кашуд
 "Ah, a tricky question. The unusual materials are as old as Tyria, maybe older. But they've developed their essence from their surroundings only recently.","Ах, непростой вопрос. Эти необычные материалы стары, как Тирия, а может, и старше. Но свою сущность они переняли у окружения совсем недавно."
 Ah. I was looking fer a fight! ...C'mon!,А-а. Я как раз искал драки! ...Ну давай!
 Alcohol Content,Содержание алкоголя
@@ -96,7 +96,7 @@ Anyone who helps me trap some imps will be duly rewarded. I guarantee.,"Всяк
 Applies quickness and vigor. Recharges all skills when removed.,Даёт быстроту и бодрость. При снятии восстанавливает все умения.
 "Appreciated. Yes, following the Lake Doric campaign, we've made incredible progress, I think. These new watchknights are stronger and safer than ever before.","Благодарю. Да, после кампании у Lake Doric мы, по-моему, продвинулись невероятно. Новые часовые рыцари сильнее и безопаснее прежних."
 Apus Stonetalon,Апус Каменный Коготь
-Archivist Sestina,Archivist Sestina
+Archivist Sestina,Архивариус Сестина
 "Are doing an excellent job? Yes, I know. Is that what this is about? Perhaps you're looking for some work?","Отлично справляюсь? Да, я знаю. Вы за этим пришли? Или, может, ищете работу?"
 Are you a fan of NOODLES? Bora's Bowls is a national delight. You can locate one on almost every corner.,Вы любите ЛАПШУ? «Миски Боры» — народная отрада. Их найдёшь почти на каждом углу.
 Are you going to polish those antiques?,Вы собираетесь полировать эти старинные вещи?
@@ -119,18 +119,18 @@ Attacks cause burning. Returns to normal on timeout.,Атаки поджигаю
 Aura of Power - Svanir,Аура силы — Сванир
 Avoid attacks that cause knockdown or knockback and don't leave the room during the fight against Duke Barradin's statue.,"Уклоняйтесь от атак, вызывающих нокдаун или отталкивание, и не покидайте зал во время боя со статуей Duke Barradin."
 "Aw, thanks for asking! Which of my stock would you like to browse, %str1%?","Ой, спасибо, что спросили! Что из моего товара желаете посмотреть, %str1%?"
-Awakened Armorsmith,Awakened Armorsmith
-Awakened Asura,Awakened Asura
+Awakened Armorsmith,Пробуждённый бронник
+Awakened Asura,Пробуждённый асура
 Awakened Masons Remaining: %num1%,Осталось пробуждённых каменщиков: %num1%
-Awakened Officer,Awakened Officer
-Awakened Officers,Awakened Officers
-Awakened Rations,Awakened Rations
+Awakened Officer,Пробуждённый офицер
+Awakened Officers,Пробуждённые офицеры
+Awakened Rations,Паёк Пробуждённых
 Axe Murder,Убийство топором
 B2D-B00P,B2D-B00P
 Baedal Hill (Off-line),Холм Бэдал (не в сети)
 Baedal Hill: Yong Reactor Entrance (Off-line),Холм Бэдал: вход к реактору Ён (не в сети)
 "Balthazar's forces slaughtered the Awakened here, but some still survive.","Силы Balthazar перебили здесь Пробуждённых, но некоторые уцелели."
-Bandit Supply Camp,Bandit Supply Camp
+Bandit Supply Camp,Разбойничий лагерь снабжения
 Bandit turrets,Разбойничьи турели
 "Bandits are invading our scratch, trying to force my peoples out. Stop the nasties!","Разбойники лезут в нашу царапку, хотят выгнать мой народ. Остановите этих гадов!"
 Barrage the target area with a hail of arrows that cripples foes.,"Обрушьте на выбранную область град стрел, что калечит врагов."
@@ -189,7 +189,7 @@ Can you revive quaggan's friend?,Ты можешь оживить друга к�
 Canach's employees are keeping track of how many coins are collected!<br>Event Item,"Работники Canach считают, сколько монет собрано!<br>Предмет события"
 Cannon—recharge—in—five—minutes.,Перезарядка—пушки—через—пять—минут.
 "Cantha, please.","В Канту, пожалуйста."
-Captain Barud,Captain Barud
+Captain Barud,Капитан Баруд
 Care to enlighten me?,Не просветите меня?
 Careful around these skyscales; they've had a rough time and aren't in a great mood.,"Осторожнее с этими скайскейлами: им досталось, и настроение у них скверное."
 Carrying Jade Tech,Несёт нефритовую технику
@@ -234,7 +234,7 @@ Coward! You have no spine!,Трус! У тебя нет хребта!
 Creates a deadly shock wave that applies conditions to foes.,"Создаёт смертоносную ударную волну, что накладывает на врагов состояния."
 Creating an impassable barrier.,Создаётся непроходимый барьер.
 "Crystal Desert, please.","В Crystal Desert, пожалуйста."
-Crystal Runner,Crystal Runner
+Crystal Runner,Кристальный курьер
 Curfew violators are subject to arrest and inquisition by the Mordant Crescent.,Нарушители комендантского часа подлежат аресту и дознанию Mordant Crescent.
 Curse-Breaking Station,Станция снятия проклятий
 DE-FENSE PRO-TO-COL EN-GAGED. STAND YOUR GROUND.,ПРО-ТО-КОЛ О-БО-РО-НЫ ВКЛЮ-ЧЁН. СТОЙ-ТЕ НА МЕС-ТЕ.
@@ -309,7 +309,7 @@ Earn 30%% bonus experience while in Draconis Mons.,"Получайте 30%% до
 Eavesdrop on the Speaker guards.,Подслушайте стражу Говорящих.
 Eir's bow has been imbued with intense fire magic.,Лук Эйр напитан сильной огненной магией.
 Eliminate the Dominion and their Flame Shaman before the ritual is completed.,"Уничтожьте Доминион и их шамана Пламени, пока обряд не завершён."
-Emperor Mattake,Emperor Mattake
+Emperor Mattake,Император Маттакэ
 Empress Ihn: Traitor to the Nation,Empress Ihn: предательница державы
 Energy Overload,Перегрузка энергией
 Enough! The Inquest needs live test subjects. You're alive. That's it. Now shut your gobs!,Довольно! Inquest нужны живые подопытные. Вы живы. Вот и всё. А теперь закрыли рты!
@@ -326,7 +326,7 @@ Excellent work. Find more of them. Save them from the chak.,Отличная р�
 Excelsior! Let me see your research notes!,Экс-цельсиор! Покажите ваши исследовательские записи!
 "Excuse me. Please don't take those. Seriously, stop, please.","Простите. Пожалуйста, не берите это. Серьёзно, прекратите."
 Experiment with components in the Discovery Pane at the huntsman's station to learn new recipes.,"Пробуйте сочетать составляющие на панели открытий у верстака охотника, чтобы узнавать новые рецепты."
-Explorer Mora's Trusted Assistant,Explorer Mora's Trusted Assistant
+Explorer Mora's Trusted Assistant,Доверенный помощник исследовательницы Моры
 "Exquisite Ingredients Pouch[pl:""Pouches""]",[Мешочек|Мешочка|Мешочков] изысканных составляющих
 Fabric,Ткань
 Faction Aid: Tengu,Помощь фракции: тенгу
@@ -378,7 +378,7 @@ Get someone else to take care of your troubles.,Найдите кого-нибу
 Get yourself a steaming cup of tree-root-and-ginger stew! Perfect after a long day of work in the lab.,"Возьмите горячую чашку похлёбки из корней дерева с имбирём! То, что нужно после долгого дня в лаборатории."
 Getting close. A little more.,Уже близко. Ещё немного.
 Getting kind of...hard to breathe in here... Find more...pods to smash...!,"Тут как-то...трудно дышать... Найдите ещё...стручков, чтобы разбить!.."
-Ghostly Vortex,Ghostly Vortex
+Ghostly Vortex,Призрачный вихрь
 Gift[s] of Verdarach,[Дар|Дара|Даров] Вердараха
 Give this to Watcher Shaman.,Отдайте это Дозорному-шаману.
 Give this to Watcher Titan.,Отдайте это Дозорному-титану.

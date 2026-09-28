@@ -34,19 +34,19 @@ Bleeds • Cripples • Knocks Down • Heals,Кровоточит • Нано�
 Bleeds • Poisons • Explodes,Кровоточит • Отравляет • Взрывается
 Bleeds • Poisons • Immobilizes,Кровоточит • Отравляет • Обездвиживает
 Blight tenders will recover in: %str1%,Тендеры порчи восстановятся через: %str1%
-Blighted Canach,Blighted Canach
-Blighted Eir Stegalkin,Blighted Eir Stegalkin
-Blighted Garm,Blighted Garm
-Blighted Marjory Delaqua,Blighted Marjory Delaqua
-Blighted Pale Tree,Blighted Pale Tree
+Blighted Canach,Заражённый Канах
+Blighted Eir Stegalkin,Заражённый Эйр Стегалкин
+Blighted Garm,Заражённый Гарм
+Blighted Marjory Delaqua,Заражённая Марджори Делаква
+Blighted Pale Tree,Заражённое бледное дерево
 Blitz-Verteidigung,Блиц-вертейдигунг
 Blitzreflexe,Блицрефлекс
 Blocks all damage and conditions.,Блокирует все повреждения и состояния.
 Blocks the next incoming attack; stacks duration.,Блокирует следующую входящую атаку; продолжительность стаков.
 Blocks • Stuns • Cripples • Vulnerability,Блокирует • Оглушает • Наносит вред • Уязвимость
-Blood Console,Blood Console
-Blood Cub,Blood Cub
-Blood Legion Spectator,Blood Legion Spectator
+Blood Console,Кровавая консоль
+Blood Cub,Кровавый детёныш
+Blood Legion Spectator,Наблюдатель Кровавого Легиона
 Blood Legion!,Кровавый Легион!
 Blood lane pledges: %num1%/%num2%,Обещания на линии крови: %num1%/%num2%
 Blood trials completed: %num1%/%num2%,Испытания крови завершены: %num1%/%num2%
@@ -90,10 +90,10 @@ Brand Eruption,Извержение бренда
 Brand Lightning Strike,Бренд «Удар молнии»
 Brand Tornado,Бренд Торнадо
 Brand zerstampft,Торговая марка
-Branded Conflagration,Branded Conflagration
-Branded Djinn,Branded Djinn
-Branded Dredge Miner,Branded Dredge Miner
-Branded Dredge Ratnik,Branded Dredge Ratnik
+Branded Conflagration,Фирменный пожар
+Branded Djinn,Фирменный джинн
+Branded Dredge Miner,Фирменный земснаряд-шахтер
+Branded Dredge Ratnik,Фирменный Дредж Ратник
 Branded invaders have breached Steeleye Span. Tribune Steelgrip is in grave danger.,Фирменные захватчики прорвались в Стили-Спан. Tribune Steelgrip находится в серьёзной опасности.
 Break the storage vessels. The magic will be free to spread out.,Разбейте сосуды для хранения. Магия будет свободно распространяться.
 Brennen sollen sie,Бреннен Соллен Си
@@ -200,14 +200,14 @@ Cannons assembled and loaded.,Пушки собраны и заряжены.
 Cannot be harmed by conventional means.,Невозможно нанести вред обычными способами.
 Cantha durchwandern,Канта дурхвандерн
 Caos variado,Каос вариадо
-Captain Glennon,Captain Glennon
-Captain Hilde Wulfsdottir,Captain Hilde Wulfsdottir
-Captain Jessica Hammerhart,Captain Jessica Hammerhart
+Captain Glennon,Капитан Гленнон
+Captain Hilde Wulfsdottir,Капитан Хильда Вульфсдоттир
+Captain Jessica Hammerhart,Капитан Джессика Хаммерхарт
 Captain Leo the Relentless and the Kitty Crew: Table of Contents,Капитан Лео Неумолимый и команда Китти: Содержание
 Captain Rahim should know where the Forged camps are.,"Капитан Рахим должен знать, где находятся лагеря Кованых."
-Captain Romke,Captain Romke
-Captain Strazny,Captain Strazny
-Captain Taffer,Captain Taffer
+Captain Romke,Капитан Ромке
+Captain Strazny,Капитан Стразный
+Captain Taffer,Капитан Таффер
 Captive Branded Fish,Фирменная рыба в неволе
 Capture the camp's central area.,Захватите центральную часть лагеря.
 Capture the camp's entry area.,Захватите вход в лагерь.
@@ -226,11 +226,11 @@ Carry me home...,Неси меня домой...
 Cascade,Каскад
 Caso cerrado,Казо Серрадо
 Caso cerrado (2013),Казо серрадо (2013)
-Castaway Azurr,Castaway Azurr
-Castaway Castellian,Castaway Castellian
-Castaway Darian,Castaway Darian
-Castaway Nozz,Castaway Nozz
-Castaway Saltwhisker,Castaway Saltwhisker
+Castaway Azurr,Кастауэй Азурр
+Castaway Castellian,Кастауэй Кастельиан
+Castaway Darian,Кастауэй Дариан
+Castaway Nozz,Кастауэй Нозз
+Castaway Saltwhisker,Кастэуэй Солотус
 Castora-Koralle: Gewolbe-Auftrag,Кастора-Коралле: Гевольбе-Ауфтраг
 Castoranische Uberwucherung,Касторанисче Убервухерунг
 Casts Ice Wave,Создает ледяную волну
@@ -257,7 +257,7 @@ Center Vent,Центр Вент
 Central Advanced Camp,Центральный продвинутый лагерь
 Central Gate,Центральные ворота
 Cepha,Цефа
-Ceri,Ceri
+Ceri,Кери
 Certainly. Let's go now.,Конечно. Пойдём сейчас.
 Certainly. What else would you like to talk about?,Конечно. О чем ещё вы хотели бы поговорить?
 Certificacion arcana,Сертификация тайны
@@ -273,16 +273,16 @@ Challenge Nochtli to a sparring match.,Вызовите Ночтли на спа
 Challenge yourself to learn.,"Бросайте себе вызов, чтобы учиться."
 Challenger assuming control.,Челленджер берет на себя управление.
 Challenges  • Counters while Blocking,Проблемы • Контратаки при блокировании
-Champion Captain Cork,Champion Captain Cork
-Champion Krait Witch,Champion Krait Witch
+Champion Captain Cork,Чемпион Капитан Корк
+Champion Krait Witch,Чемпион Крайт Ведьма
 Champion der Champions,Чемпион дер Чемпионов
 Champion in einem Stuck,Чемпион в Эйнеме Штуке
 Champion von Orr,Чемпион фон Орр
 Champion-Genie,Чемпион-Джинн
-Champion-Kopfgeldauftrage Elon-Flusslande,Champion-Kopfgeldauftrage Elon-Flusslande
-Champion-Kopfgeldauftrage Kristalloase,Champion-Kopfgeldauftrage Kristalloase
-Champion-Kopfgeldauftrage Odland,Champion-Kopfgeldauftrage Odland
-Champion-Kopfgeldauftrage Wusten-Hochland,Champion-Kopfgeldauftrage Wusten-Hochland
+Champion-Kopfgeldauftrage Elon-Flusslande,Чемпион-Копфгельдауфтраж Элон-Флюссланде
+Champion-Kopfgeldauftrage Kristalloase,Чемпион-Копфгельдауфтраж Кристаллоазе
+Champion-Kopfgeldauftrage Odland,Чемпион-Копфгельдауфтраж Одланд
+Champion-Kopfgeldauftrage Wusten-Hochland,Чемпион-Копфгельдауфтраж Вустен-Хохланд
 Champion-Legionar,Чемпион-Легионар
 Champion-Phantom,Чемпион-Фантом
 Champion-Schatten,Чемпион-Шаттен
@@ -313,8 +313,8 @@ Check the cattle's cargo for suspicious contents.,Проверьте груз с
 Checking angles. ERROR: Refraction scattering too dense. Failure imminent.,Проверка углов. ОШИБКА: Преломление рассеяния слишком сильное. Неизбежный провал.
 Checking dimensions. ERROR: Incorrect scaling factor. Sample destroyed.,Проверка размеров. ОШИБКА: Неправильный коэффициент масштабирования. Образец уничтожен.
 Chef Wardrobe,Гардероб шеф-повара
-Chief Akik'tak,Chief Akik'tak
-Chief Logger,Chief Logger
+Chief Akik'tak,Вождь Акик'так
+Chief Logger,Главный лесоруб
 Chieftain Vreega,Вождь Врига
 Child's play. I expected more from Eparch.,Детская игра. Я ожидал большего от Епарха.
 Chills • Icy Blast,Озноб • Ледяной взрыв
@@ -326,7 +326,7 @@ Choose which elder race to investigate.,"Выберите, какую старе
 Chop Chop,Чоп Чоп
 Choya-Champion,Чойя-Чемпион
 Choya-Schwung,Чойя-Швунг
-Chromatic Cubozoa,Chromatic Cubozoa
+Chromatic Cubozoa,Хроматическая кубозоа
 Chuka und Champawat I: Die Jagd,Чука и Чампават I: Die Jagd
 Cidd,Сидд
 Cielos despejados,Сьелос деспехадос
@@ -414,8 +414,8 @@ Consider,Учитывать
 Consiguiendo Agaleus,Консигуендо Агалеус
 Console Rebooting,Перезагрузка консоли
 Console is active.,Консоль активна.
-Consortium Collection Chest,Consortium Collection Chest
-Consortium Memo,Consortium Memo
+Consortium Collection Chest,Сундук с коллекцией Консорциума
+Consortium Memo,Памятка консорциуму
 Consume your weapon to create a devastating tornado at your location.,"Поглотите свое оружие, чтобы создать разрушительный торнадо в вашем месте."
 Contacto secreto,Секретный контакт
 Contain the sword.,Сдержи меч.
@@ -426,7 +426,7 @@ Contratiempo,Контратиемпо
 Controls Gravity • Summons Singularities,Управляет гравитацией • Вызывает сингулярности
 Controls Mines,Управляет минами
 Coo-coo! Quaggan has never been so happy to see land-folk!,Ку-ку! Квагган никогда ещё не был так рад видеть жителей суши!
-Cook Forah,Cook Forah
+Cook Forah,Кук Фора
 Cook of Robbari's Bandits,Повар бандитов Роббари
 Cooler als cool,Круче тоже круто
 Coops,Кооперативы
@@ -472,13 +472,13 @@ Cross the Arcanic Reactor Room,Пересеките арканический р�
 Cross the pit without touching the water.,"Пересеките яму, не касаясь воды."
 Crumbling Wall,Рушащаяся стена
 Crusader Apatia: Back! Get back! (scream),Крестоносец Апатия: Назад! Вернись! (крик)
-Crusader Tecachotl,Crusader Tecachotl
+Crusader Tecachotl,Крестоносец Текахотль
 Crusader Thurkill: Those dredge aren't wasting any time. We'll be overwhelmed by dragon minions if we don't turn off that weapon!,"Крестоносец Теркилл: Эти драги не теряют времени даром. Нас задавят приспешники-драконы, если мы не выключим это оружие!"
-Crusader Xihpilli,Crusader Xihpilli
+Crusader Xihpilli,Крестоносец Ксихпилли
 Crush large shovel-face with rocks! Yes!,Раздавите большую лопату камнями! Да!
 Crushing Waves,Сокрушительные волны
-Crystal Bloom Race Master,Crystal Bloom Race Master
-Crystal Wave,Crystal Wave
+Crystal Bloom Race Master,Мастер расы Кристал Блум
+Crystal Wave,Хрустальная волна
 Crystal density: 2.99. Warning! Crystal density reduced by 5 percent. ERROR: Calculation incorrect. User input required: Approximate density?,"Плотность кристаллов: 2,99. Предупреждение! Плотность кристаллов уменьшена на 5 процентов. ОШИБКА: Неправильный расчёт. Требуется ввод данных пользователем: Приблизительная плотность?"
 Crystals like these?,Такие кристаллы?
 Cualli,Куалли

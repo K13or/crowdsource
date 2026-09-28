@@ -44,19 +44,19 @@ Ward Scout Peony,Разведчик-страж Пион
 Ward Scout Robb,Разведчик Робб
 Ward's control over the map room:,Контроль Варда над комнатой с картами:
 Ward-Detection Spell Book,Книга заклинаний обнаружения стражей
-Warden Agam,Warden Agam
-Warden Eve,Warden Eve
-Warden Fermeoir,Warden Fermeoir
-Warden Hywel,Warden Hywel
-Warden Idon,Warden Idon
-Warden Kentee,Warden Kentee
-Warden Llewyr,Warden Llewyr
-Warden Lochin,Warden Lochin
-Warden Magh,Warden Magh
-Warden Meinir,Warden Meinir
-Warden Mella,Warden Mella
-Warden Ritualist,Warden Ritualist
-Warden Watcher,Warden Watcher
+Warden Agam,Варден Агам
+Warden Eve,Страж Ева
+Warden Fermeoir,Варден Фермуар
+Warden Hywel,Варден Хайвел
+Warden Idon,Варден Идон
+Warden Kentee,Варден Кенти
+Warden Llewyr,Варден Ллевир
+Warden Lochin,Варден Лохин
+Warden Magh,Варден Магх
+Warden Meinir,Варден Мейнир
+Warden Mella,Страж Мелла
+Warden Ritualist,Ритуалист-страж
+Warden Watcher,Страж-наблюдатель
 Wardens Remaining,Осталось стражей
 Wardens remaining,Осталось стражей.
 Warding Seal,Защитная печать
@@ -67,24 +67,24 @@ Warehouse Defense Golem,Складской оборонительный голе
 Warg Bloodhound,Кровавый гончий варг
 Warhorn for Harathi chieftains,Боевой рог для вождей харати
 Warhound,Боевой пёс
-Wark,Wark
-Warmaster Benson,Warmaster Benson
-Warmaster Bladekicker,Warmaster Bladekicker
-Warmaster Efut,Warmaster Efut
+Wark,Варк
+Warmaster Benson,Военачальник Бенсон
+Warmaster Bladekicker,Военачальник Блейдкикер
+Warmaster Efut,Военачальник Эфут
 "Warmaster Efut: The Orrian siege weapons are down! You did it, Warmaster!","Warmaster Efut: Осадные орудия оррианцев уничтожены! Ты справился, военачальник!"
-Warmaster Elena,Warmaster Elena
-Warmaster Grast,Warmaster Grast
-Warmaster Jhavi Jorasdottir,Warmaster Jhavi Jorasdottir
-Warmaster Junetta,Warmaster Junetta
-Warmaster Labofski,Warmaster Labofski
-Warmaster Shadowstriker,Warmaster Shadowstriker
+Warmaster Elena,Военачальница Елена
+Warmaster Grast,Военачальник Граст
+Warmaster Jhavi Jorasdottir,Военачальник Яви Йорасдоттир
+Warmaster Junetta,Военачальница Джунетта
+Warmaster Labofski,Военачальник Лабофски
+Warmaster Shadowstriker,Военачальник Теневой Удар
 "Warmaster Shadowstriker is preparing his assault west of here. Catch up with him, and lend our troops your extra support.",Военачальник Шэдоустрайкер готовится к наступлению западнее этого места. Догоните его и окажите нашим войскам дополнительную поддержку.
-Warmaster Smoketail,Warmaster Smoketail
-Warmaster Striketail,Warmaster Striketail
-Warmaster Uma Threshgrowl,Warmaster Uma Threshgrowl
-Warmaster Urho,Warmaster Urho
+Warmaster Smoketail,Военачальник Смокитейл
+Warmaster Striketail,Военачальник Страйктейл
+Warmaster Uma Threshgrowl,Вармастер Ума Треск-Рык
+Warmaster Urho,Военачальник Урхо
 Warmaster. Thank the Pale Tree. We're over here!,Военачальник. Спасибо Древу Бледности. Мы здесь!
-Warming Sun,Warming Sun
+Warming Sun,Согревающее солнце
 Warmonger,Разжигатель войны
 Warning! Pact assistance has been requested at one of the following Heart of Maguuma operation locations. Selecting an operation will teleport you there.,"Внимание! В одном из мест проведения операций в Сердце Магумы запрошена помощь Пакт. Выбрав операцию, вы будете телепортированы туда."
 Warning! Several major threats have been detected across Tyria. Your assistance is requested at one of the following locations. Selecting a threat will teleport you there.,"Внимание! В Тирии обнаружено несколько серьёзных угроз. Просим вас оказать помощь в одном из следующих мест. Выбрав угрозу, вы будете телепортированы туда."
@@ -111,7 +111,7 @@ Waste Disposal Bin,Контейнер для отходов
 Waste Management Container Mark VII—enter command option.,"Контейнер для переработки отходов, модель VII — введите команду."
 Waste reclamation.,Переработка отходов.
 Wasted your time?,Зря потратил время?
-Watch Commander Talon,Watch Commander Talon
+Watch Commander Talon,Комендант Талон
 Watch Out,Осторожно
 "Watch it, big-ears. I'm as ""airtight"" as the next guy.","Следи за языком, ушастый. Я такой же «герметичный», как и все остальные."
 Watch my back!,Прикройте меня!
@@ -137,7 +137,7 @@ Watch your step. There are some shady characters around here.,Будьте ос�
 Watcher Akuchi,Страж Акучи
 Watcher Fransen,Страж Франзен
 Watchman Erik,Страж Эрик
-Watchman Kord,Watchman Kord
+Watchman Kord,Сторож Корд
 Watchman Laurie,Страж Лори
 Watchwork Fragments,Осколки часового механизма
 Water Current,Водный поток
@@ -158,7 +158,7 @@ Water washes the surface. Battle alone can cleanse your insides.,Вода очи
 Waterlogged Inquest Debris,Водянистые обломки Inquest
 Waterproof Chest,Водонепроницаемый сундук
 Watery Grave,Водяная могила
-Watl,Watl
+Watl,Ватл
 Wave Console,Волновая консоль
 Wave to Volden,Помахать Волдену
 Waveform Modulator,Волновой модулятор
