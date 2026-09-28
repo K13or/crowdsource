@@ -23,7 +23,7 @@ Consumed after gathering. Applies +100%% chance of extra gathering strikes when 
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>""Djinn, like most subasuran species, crudely approximate feelings like our own. Use this.""</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>«Джинны, как и большинство субасурских видов, грубо подражают чувствам вроде наших. Используй это».</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>""My darling Nakis, my tender Nakis, my clever Nakis...you're right. Let's go. We'll flee tomorrow.""</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>«Мой милый Накис, мой нежный Накис, мой умный Накис... ты прав. Идём. Завтра мы сбежим».</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>A massive karka shell, and an impressive trophy. Tastes great with butter.</c>",Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Огромный панцирь карка и внушительный трофей. Отлично идёт со сливочным маслом.</c>
-"Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>A small vase, reminiscent of work from Vabbi.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Небольшая ваза, напоминающая работы из Вабби.</c>"
+"Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>A small vase, reminiscent of work from Vabbi.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Небольшая ваза, напоминающая работы из Vabbi.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>Nakis's simple prayer beads, stolen from him by the Inquest.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Простые молитвенные чётки Накиса, украденные у него Inquest.</c>"
 Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>Probably best handled from long distance and behind aegis.</c>,"Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>С этим, пожалуй, лучше управляться с большого расстояния и из-за эгиды.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>Small rocks, blasted by magical fire and force. Probably worthless.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Мелкие камни, опалённые магическим огнём и силой. Вероятно, ничего не стоят.</c>"
@@ -335,9 +335,9 @@ DEL-X99,DEL-X99
 Daaaaad! Do you see where I left my pants?,"Па-а-а-ап! Ты не видел, где я оставил штаны?"
 Daaaaad! He won't let me pour honey in his hair!,Па-а-а-ап! Он не даёт мне вылить мёд ему на голову!
 Dack Farsight,Dack Farsight
-"Dagda becomes vulnerable and loses control of Planet Crash, causing a lesser effect.","Дагда становится уязвимой и теряет контроль над Падением планеты, отчего эффект слабеет."
+"Dagda becomes vulnerable and loses control of Planet Crash, causing a lesser effect.","Dagda становится уязвимой и теряет контроль над Падением планеты, отчего эффект слабеет."
 Dagda's Diary,Дневник Дагды
-"Dagda, listen to me!","Дагда, послушай меня!"
+"Dagda, listen to me!","Dagda, послушай меня!"
 Dahvida the Blue,Давида Синяя
 Dalal,Далал
 Dalles,Даллес

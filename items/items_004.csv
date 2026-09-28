@@ -524,7 +524,7 @@ Double-click to summon this mini to follow you around. Only one mini may be in u
 <c=@flavor>The chill of Gorseval the Multifarious radiates from this staff.</c>,<c=@flavor>От этого посоха исходит холод Gorseval the Multifarious.</c>
 <c=@flavor>The chilling novelization of Moto's hit Super Adventure Box: World 1.</c>,<c=@flavor>Леденящая новеллизация хита Мото «Super Adventure Box: Мир 1».</c>
 <c=@flavor>The chilling wind of night.</c>,<c=@flavor>Стылый ветер ночи.</c>
-<c=@Flavor>The citizens of Vabbi are known for their use of exquisite cosmetics.</c>,"<c=@Flavor>Жители Вабби славятся тем, что пользуются изысканной косметикой.</c>"
+<c=@Flavor>The citizens of Vabbi are known for their use of exquisite cosmetics.</c>,"<c=@Flavor>Жители Vabbi славятся тем, что пользуются изысканной косметикой.</c>"
 <c=@flavor>The claw that catches the prey.</c>,"<c=@flavor>Коготь, что настигает добычу.</c>"
 <c=@flavor>The common man's weed sickle</c>,<c=@flavor>Серп для сорняков на все руки</c>
 <c=@flavor>The cool wind of dusk.</c>,<c=@flavor>Прохладный ветер сумерек.</c>
@@ -549,7 +549,7 @@ Purchased from Magister Kathryn at the Tribulation Rift renown heart in Dredgeha
 <c=@flavor>The frog contained in the vessel is resting. Holes poked in the top ensure the frog will have plenty of air.</c>,<c=@flavor>Лягушка в сосуде отдыхает. Отверстия в крышке обеспечат ей вдоволь воздуха.</c>
 <c=@flavor>The fulfillment of a legacy spanning thousands of years flies alongside you.</c>,"<c=@flavor>Рядом с тобой летит воплощение наследия, растянувшегося на тысячи лет.</c>"
 <c=@flavor>The gift that keeps on giving.</c>,"<c=@flavor>Подарок, который дарит снова и снова.</c>"
-"<c=@Flavor>The great Junundu Wurms have lived in these deserts for centuries, and tracking them by a sign is a rite of passage for young adventurers in Vabbi.</c>","<c=@Flavor>Великие вурмы джунунду живут в этих пустынях столетиями, и выследить их по приметам — обряд посвящения для юных искателей приключений в Вабби.</c>"
+"<c=@Flavor>The great Junundu Wurms have lived in these deserts for centuries, and tracking them by a sign is a rite of passage for young adventurers in Vabbi.</c>","<c=@Flavor>Великие вурмы джунунду живут в этих пустынях столетиями, и выследить их по приметам — обряд посвящения для юных искателей приключений в Vabbi.</c>"
 <c=@flavor>The heart wants what it wants.</c>,<c=@flavor>Сердцу не прикажешь.</c>
 "<c=@flavor>The height of form, function, and fashion for the wintry season.</c>","<c=@flavor>Вершина формы, функции и моды для зимней поры.</c>"
 <c=@flavor>The historical significance of this shard barely makes up for its pungent odor.</c>,<c=@flavor>Историческая значимость этого осколка едва искупает его едкий запах.</c>
