@@ -158,7 +158,7 @@ Lord Joko's blessings upon you.,Да пребудет с тобой благос
 Lord Valodor,Lord Valodor
 Lore Located,Предание найдено
 Lorica Ripclash,Lorica Ripclash
-Lose one stack of this effect when struck by an enemy attack. Complete the Heart of Grenth event with at least one stack of this effect remaining for achievement credit.,"Вражеская атака снимает один стак этого эффекта. Завершите событие «Сердце Гренса», сохранив хотя бы один стак, чтобы получить зачёт достижения."
+Lose one stack of this effect when struck by an enemy attack. Complete the Heart of Grenth event with at least one stack of this effect remaining for achievement credit.,"Вражеская атака снимает один стак этого эффекта. Завершите событие «Сердце Grenth», сохранив хотя бы один стак, чтобы получить зачёт достижения."
 Loss of endurance regeneration.,Потеря восстановления выносливости.
 Lost Artifact[s],Утраченный артефакт[|а|ов]
 Lost Cartographer,Заблудившийся картограф
@@ -187,10 +187,10 @@ Lure in and kill the Eye of Zhaitan.,Выманите и убейте Eye of Zha
 Lure the White Mantle into a trap.,Заманите White Mantle в ловушку.
 Lush Kelp Bed,Густые заросли водорослей
 Luvis Gutslit,Лувис Потрошитель
-Lyhr forges a key at Droknar's Forge in: %str1%,Лир выкует ключ в Droknar's Forge через: %str1%
-"Lyhr has been corrupted by Kryptis invaders. When his defiance bar is broken, the Kryptis corrupting him will materialize and can be defeated.","Лира осквернили захватчики-криптисы. Когда его шкала стойкости будет сломана, осквернившие его криптисы материализуются, и их можно будет победить."
-Lyhr has boosted your regret. You can now damage Kryptis foes that are shielded by regret.,"Лир усилил ваше сожаление. Теперь вы можете наносить урон криптисам, укрытым щитом сожаления."
-Lyhr will attempt to forge a key in: %str1%,Лир попытается выковать ключ через: %str1%
+Lyhr forges a key at Droknar's Forge in: %str1%,Lyhr выкует ключ в Droknar's Forge через: %str1%
+"Lyhr has been corrupted by Kryptis invaders. When his defiance bar is broken, the Kryptis corrupting him will materialize and can be defeated.","Lyhr осквернили захватчики-криптисы. Когда его шкала стойкости будет сломана, осквернившие его криптисы материализуются, и их можно будет победить."
+Lyhr has boosted your regret. You can now damage Kryptis foes that are shielded by regret.,"Lyhr усилил ваше сожаление. Теперь вы можете наносить урон криптисам, укрытым щитом сожаления."
+Lyhr will attempt to forge a key in: %str1%,Lyhr попытается выковать ключ через: %str1%
 Lyssa's Frustration,Досада Лиссы
 M.E.T.A. Golem,Голем М.Е.Т.А.
 MONSTER ONLY Bat Unarmed,ТОЛЬКО МОНСТР: летучая мышь без оружия
@@ -227,9 +227,9 @@ MONSTER ONLY Vampire Beast Unarmed,ТОЛЬКО МОНСТР: зверь-вам�
 MONSTER ONLY Vigil Sword,ТОЛЬКО МОНСТР: боец Дозора с мечом
 Ma! We got another dead chicken! That cross ol' hen musta pecked it to death.,"Ма! У нас ещё одна дохлая курица! Похоже, та злющая наседка её заклевала."
 Ma'am...,Госпожа...
-Mabon and Lyhr open the Wizard's Tower in: %str1%,Мабон и Лир откроют Wizard's Tower через: %str1%
-Mabon reaches Droknar's Light in: %str1%,Мабон достигнет Droknar's Light через: %str1%
-Mabon will begin attempting to cleanse Lyhr in: %str1%,Мабон начнёт попытки очистить Лира через: %str1%
+Mabon and Lyhr open the Wizard's Tower in: %str1%,Mabon и Lyhr откроют Wizard's Tower через: %str1%
+Mabon reaches Droknar's Light in: %str1%,Mabon достигнет Droknar's Light через: %str1%
+Mabon will begin attempting to cleanse Lyhr in: %str1%,Mabon начнёт попытки очистить Lyhr через: %str1%
 Mach the Carny,Мах Балаганщик
 Mada,Мада
 Maddie,Мэдди
@@ -364,7 +364,7 @@ Maximum targets,Максимум целей
 May Dwayna bless you.,Да благословит тебя Двайна.
 "May I take a moment of your time, Commander?","Можно вас на минуту, командир?"
 May Lyssa aid you.,Да поможет тебе Лисса.
-May Melandru blaze your path.,Да проложит Меландру твой путь.
+May Melandru blaze your path.,Да проложит Melandru твой путь.
 May Wolf walk beside you.,Да идёт Волк рядом с тобой.
 May all your theories be sound.,Пусть все твои теории будут верны.
 May courage guide your hand.,Да направит твою руку отвага.
@@ -456,7 +456,7 @@ Meeting an Old Friend.,Встреча со старым другом.
 Megalaser attacks avoided: %num1%/%num2%,Уклонений от атак мегалазера: %num1%/%num2%
 Megasloth,Мегаленивец
 Megyn Vardfoetir,Мегин Вардфётир
-Melandru lives in all life.,Меландру живёт во всём живом.
+Melandru lives in all life.,Melandru живёт во всём живом.
 Melandru's Sorrow,Скорбь Меландру
 Melee Attack. +200%% damage.,Атака ближнего боя. +200%% урона.
 Melee Warrior,Воин ближнего боя

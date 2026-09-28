@@ -27,7 +27,7 @@ I may go take a look.,"Может, схожу посмотрю."
 I mean... I may have occasionally experienced mild heart arrhythmia when we were working together...,"В смысле... возможно, у меня иногда случалась лёгкая аритмия, когда мы работали вместе..."
 "I mean—oh, never mind. Get a bell.","Я хотел сказать... а, неважно. Возьми колокольчик."
 I merely go where I'm needed.,"Я просто иду туда, где нужен."
-I met someone who says you see Caudecus often.,"Я встретил человека, который говорит, что ты часто видишься с Кодекусом."
+I met someone who says you see Caudecus often.,"Я встретил человека, который говорит, что ты часто видишься с Caudecus."
 I met you.,Я встретил тебя.
 I might go to Lion's Arch and ask. Thanks.,"Может, съезжу в Lion's Arch и спрошу. Спасибо."
 I might have the free time to do a little sparring.,"Может, у меня и найдётся время немного пофехтовать."
@@ -94,7 +94,7 @@ I regret your loss.,Сожалею о твоей утрате.
 I reign supreme.,Я царствую безраздельно.
 I reject Mordremoth!,Я отвергаю Мордремота!
 "I remember it like it was yesterday. You were there, right? The battle for Lion's Arch.",Помню как вчера. Ты ведь там был? Битва за Lion's Arch.
-I remember waaay back when Kormir was a Sunspear... I wish those soldiers had survived the years.,"Помню ещё те време-е-ена, когда Кормир была Копьём Солнца... Жаль, что те солдаты не пережили годы."
+I remember waaay back when Kormir was a Sunspear... I wish those soldiers had survived the years.,"Помню ещё те време-е-ена, когда Kormir была Копьём Солнца... Жаль, что те солдаты не пережили годы."
 I remember when I first got here... For weeks all I wanted to do was curl up and die.,"Помню, как я только сюда попал... Неделями мне хотелось только свернуться калачиком и умереть."
 I remember when I first joined the Vigil. General Soulkeeper told me our work would likely never be done—,"Помню, как я только вступил в Страж. Генерал Хранительница Душ сказала, что наша работа, скорее всего, не кончится никогда..."
 I said you needed to catch a Charradis Firefly. Get going!,"Я сказал, тебе нужно поймать чаррадийского светлячка. Пошёл!"
@@ -112,7 +112,7 @@ I see that. Good talking with you.,Понятно. Приятно было по�
 "I see the Zephyrites are no strangers to the appeal of a well-kept home. I've adapted a number of decorations for your homestead—for a small trade, you can bring some souvenirs back home.","Вижу, зефириты тоже знают толк в уютном доме. Я приспособил несколько украшений для твоей усадьбы — за небольшой обмен можешь привезти домой сувениры."
 I see the wisdom in that. Good-bye.,Вижу в этом мудрость. Прощай.
 I see them! Invasion is imminent. Someone do something! Now would be good!,Я их вижу! Вторжение вот-вот начнётся. Пусть кто-нибудь что-нибудь сделает! Прямо сейчас было бы неплохо!
-"I see you clearly now, Nenah. You worshiped Kormir, and were a teacher.","Теперь я ясно вижу тебя, Нена. Ты поклонялась Кормир и была учительницей."
+"I see you clearly now, Nenah. You worshiped Kormir, and were a teacher.","Теперь я ясно вижу тебя, Нена. Ты поклонялась Kormir и была учительницей."
 I see you've already figured out the art of marching single file. Excellent.,"Вижу, ты уже освоил искусство ходить гуськом. Отлично."
 I see you've found my workshop. Something I can do for you?,"Вижу, ты нашёл мою мастерскую. Могу чем-то помочь?"
 "I see you've had a few chips knocked out of you, %str1%. You continue on your Wyld Hunt, I presume?","Вижу, из тебя выбили пару щепок, %str1%. Полагаю, ты продолжаешь свою Wyld Hunt?"
@@ -172,7 +172,7 @@ I take no pleasure in bloodshed.,Я не нахожу удовольствия �
 I taste salt. Do you taste salt?,Я чувствую соль. Ты чувствуешь соль?
 I taste...danger.,Я чувствую... опасность.
 "I tell you, the generosity of the Seraph is heartening. I'd thought I could hold out against the centaurs... Here, at least, I feel somewhat safe.","Скажу тебе, щедрость серафимов вселяет надежду. Я думал, что выстою против кентавров... Здесь мне хотя бы немного спокойно."
-I think I ate a bad oyster. Did they come all the way from Amnoon?,"Кажется, я съел негодную устрицу. Их что, везли аж из Амнуна?"
+I think I ate a bad oyster. Did they come all the way from Amnoon?,"Кажется, я съел негодную устрицу. Их что, везли аж из Amnoon?"
 I think I felt that one.,"Кажется, этот я почувствовал."
 I think I get it. Only one way to know for sure.,"Кажется, я понял. Проверить можно только одним способом."
 I think I hit my head during the crash. I've got a splitting headache right now.,"Кажется, я ударился головой при крушении. Голова раскалывается."
@@ -207,9 +207,9 @@ I thought I smelled black powder on the breeze. We should link up with them.,"М
 "I thought myself weak, but we all have the ability to protect the things we care for. %str1%, I may be able to grant you a boon, in memory of Owl.","Я считал себя слабым, но у каждого есть силы защитить то, что дорого. %str1%, я могу даровать тебе благодать в память о Сове."
 I thought skritt kept everything?,"Я думал, скритты хранят вообще всё?"
 "I thought that dredge leader would put up more of a fight. How embarrassing, dying so easily. We should revive him and give him another chance to fight. Then he can die with honor.","Я думал, тот вожак дреджей окажет больше сопротивления. Какой позор — умереть так легко. Надо бы его оживить и дать ещё один шанс подраться. Тогда он умрёт с честью."
-"I thought we had our hands full with Caudecus and Lazarus, but sure, I think we can squeeze in a quick trip to the Shiverpeaks to take down a dragon.","Я думал, у нас и так хватает забот с Кодекусом и Лазарусом, но да, наверное, мы втиснем короткую поездку в Дрожащие Пики, чтобы завалить дракона."
-"I thought we had our hands full with Caudecus and Lazarus, but sure, we can squeeze in a quick trip to take down a dragon.","Я думал, у нас и так хватает забот с Кодекусом и Лазарусом, но да, мы втиснем короткую поездку, чтобы завалить дракона."
-"I thought we had our hands full with Caudecus and Lazarus, but sure, we can squeeze in a quick trip to the Shiverpeaks to take down a dragon.","Я думал, у нас и так хватает забот с Кодекусом и Лазарусом, но да, мы втиснем короткую поездку в Дрожащие Пики, чтобы завалить дракона."
+"I thought we had our hands full with Caudecus and Lazarus, but sure, I think we can squeeze in a quick trip to the Shiverpeaks to take down a dragon.","Я думал, у нас и так хватает забот с Caudecus и Лазарусом, но да, наверное, мы втиснем короткую поездку в Дрожащие Пики, чтобы завалить дракона."
+"I thought we had our hands full with Caudecus and Lazarus, but sure, we can squeeze in a quick trip to take down a dragon.","Я думал, у нас и так хватает забот с Caudecus и Лазарусом, но да, мы втиснем короткую поездку, чтобы завалить дракона."
+"I thought we had our hands full with Caudecus and Lazarus, but sure, we can squeeze in a quick trip to the Shiverpeaks to take down a dragon.","Я думал, у нас и так хватает забот с Caudecus и Лазарусом, но да, мы втиснем короткую поездку в Дрожащие Пики, чтобы завалить дракона."
 I took a class. Let's roll.,Я ходил на занятия. Погнали.
 I totally get it.,Полностью понимаю.
 "I traveled all over Tyria to find them all. It took quite a lot of effort, but I'd say it's worth it.","Я объездил всю Тирию, чтобы собрать их все. Сил ушло немало, но, по-моему, оно того стоило."
@@ -269,7 +269,7 @@ I will assist in any way that I can.,"Я помогу всем, чем смог�
 I will become a storm wizard! Summon water for the ship to sail! (grunt),"Я стану штормовым волшебником! Призову воду, чтобы корабль плыл! (кряхтит)"
 I will die to defend the Queen!,"Я умру, защищая королеву!"
 I will dispel the vines. That will surely attract their attention.,Я развею лозы. Это наверняка привлечёт их внимание.
-"I will do my best, your Majesty. May Dwayna watch over us all.","Я сделаю всё возможное, ваше величество. Пусть Двайна хранит нас всех."
+"I will do my best, your Majesty. May Dwayna watch over us all.","Я сделаю всё возможное, ваше величество. Пусть Dwayna хранит нас всех."
 I will find them and end their torment. Send aid if you can.,"Я найду их и прекращу их мучения. Пришли подмогу, если сможешь."
 I will haunt your dreams.,Я буду являться тебе во снах.
 "I will help find rest of you, with help from friends. Oh. Must get friends!","Я помогу найти остальных, с помощью друзей. Ой. Надо найти друзей!"
@@ -328,7 +328,7 @@ I would never...,Я бы никогда...
 "I would tell you not to fear, but... (giggle)","Я бы сказал «не бойся», но... (хихикает)"
 "I wouldn't get too close to those gates, if I were you!",На твоём месте я бы не подходил близко к тем воротам!
 I wouldn't sweat it. They'll rise up against us long before that happens.,Я бы не переживал. Они восстанут против нас задолго до этого.
-"I'd be able to let go of all this...grief. Mabon, Maguuma... But I'd leave almost everything of merit I've ever achieved.","Я смог бы отпустить всё это... горе. Мабон, Магуума... Но я оставил бы почти всё стоящее, чего добился."
+"I'd be able to let go of all this...grief. Mabon, Maguuma... But I'd leave almost everything of merit I've ever achieved.","Я смог бы отпустить всё это... горе. Mabon, Maguuma... Но я оставил бы почти всё стоящее, чего добился."
 I'd be careful. Choya like to burrow under the sand.,Я бы поостерёгся. Чойя любят зарываться в песок.
 I'd be glad to. Let's go.,С радостью. Идём.
 I'd be honored. Haven't seen Rox since Dragonfall—it'll be nice to catch up.,Почту за честь. Я не видел Рокс со времён Драконьего Падения — приятно будет наверстать.
