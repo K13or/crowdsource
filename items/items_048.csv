@@ -346,10 +346,10 @@ Gain increased critical-hit chance for a duration after inflicting blindness or 
 "Gain increased movement speed, which is further increased while out of combat. When you enter combat, gain a burst of speed.","Увеличивает скорость передвижения, которая дополнительно возрастает вне боя. При входе в бой даёт рывок скорости."
 Gain might and weaken nearby enemies when you use a healing skill. Gain additional might for each enemy struck.,Получайте мощь и ослабляйте ближайших врагов при использовании умения исцеления. Получайте дополнительное мощь за каждого поражённого врага.
 Gain protection and regeneration after using a healing skill.,Получайте защиту и регенерацию после использования умения исцеления.
-Gain protection when you use a <c=@abilitytype>well</c> or <c=@abilitytype>consecration</c> skill.,Получайте защиту при использовании умения <c=@abilitytype>колодец</c> или <c=@abilitytype>освящение</c>.
+Gain protection when you use a <c=@abilitytype>well</c> or <c=@abilitytype>consecration</c> skill.,Получайте протекцию при использовании умения <c=@abilitytype>колодец</c> или <c=@abilitytype>освящение</c>.
 "Gain protection, regeneration, and resolution after using a healing skill.","Получайте защиту, регенерацию и решимость после использования умения исцеления."
 Gain quickness when you disable a foe.,"Получайте быстроту, когда обездвиживаете врага."
-Gain quickness when you use a <c=@abilitytype>well</c> skill.,Получайте быстроту при использовании умения <c=@abilitytype>колодец</c>.
+Gain quickness when you use a <c=@abilitytype>well</c> skill.,Получайте проворство при использовании умения <c=@abilitytype>колодец</c>.
 Gain shocking aura for 4 seconds after using an elite skill.,Получайте шоковую ауру на 4 секунды после использования элитного умения.
 Gain stability when you use a healing skill.,Получайте устойчивость при использовании умения исцеления.
 "Gain stacking condition damage when you are hit by a poisoned foe. <c=@reminder>When this triggers, it refreshes the duration of all stacks.</c>","Получайте накладываемый урон от состояния, когда вас атакует отравленный враг. <c=@reminder>При срабатывании обновляет длительность всех наложений.</c>"

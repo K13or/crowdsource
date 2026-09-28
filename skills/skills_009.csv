@@ -52,7 +52,7 @@ Launch an orb of lightning that fires projectiles at nearby foes.,"Создат�
 Launch an orb that bounces between foes and applies conditions.,"Запустить шар энергии, который рикошетит между противниками и союзниками, давая случайные дары союзникам и накладывая случайные состояния на противников."
 Launch another arc of light at your target.,Запустите ещё одну дугу света в цель.
 Launch spikes at all nearby foes.,Выпустить шипы во всех противников поблизости.
-Launch three waves of heat. Each burns foes and grants vigor to allies.,Запустите три волны жара. Каждая сжигает врагов и даёт бодрость союзникам.
+Launch three waves of heat. Each burns foes and grants vigor to allies.,Запустите три волны жара. Каждая сжигает врагов и даёт энергичность союзникам.
 Launch your foe backward with mighty wing beats.,Отбросить противников назад могучими ударами крыльев.
 Launch your foe with a banishing smash.,Отбросить вашего противника сокрушительным изгоняющим ударом.
 Launch your foe with a powerful smash. Striking a foe refreshes <c=@abilitytype>Mighty Blow</c> and allows your next <c=@abilitytype>Mighty Blow</c> to teleport to that foe.,С силой отбросьте врага мощным ударом. Попадание по врагу обновляет <c=@abilitytype>Mighty Blow</c> и позволяет вашему следующему <c=@abilitytype>Мощному удару</c> телепортироваться к этому врагу.
@@ -66,7 +66,7 @@ Leafy Bandage,Leafy Bandage
 Leap,Leap
 Leap Damage,Урон от прыжка
 Leap and knock nearby foes back.,Прыгнуть и отбросить назад противников поблизости.
-"Leap and strike your foe, inflicting slow.","Прыгните и ударьте врага, наложив замедление."
+"Leap and strike your foe, inflicting slow.","Прыгните и ударьте врага, наложив медлительность."
 "Leap and strike your foe. The less health your target has, the more damage you cause.","Прыгните и ударьте врага. Чем меньше здоровья у вашей цели, тем больше урона вы наносите."
 Leap at your foe and cripple them.,Прыгнуть к противнику и сделать его хромым.
 Leap at your foe and deliver a massive attack that cascades outward.,"Прыгнуть к вашему противнику и провести мощную атаку, расходящуюся каскадами."
@@ -82,14 +82,14 @@ Leap away from your foe while firing a crippling shot.,"Отпрыгнуть о�
 "Leap finisher that leaps to the target, slamming down with massive force.","Прыжковый финишер, который прыгает к цели, обрушиваясь с огромной силой."
 "Leap forward and slam the ground with your hammer, gaining boons for each target struck.","Прыгните вперёд и ударьте молотом по земле, получая благословения за каждую пораженную цель."
 "Leap forward and slam the ground with your hammer, knocking down nearby enemies.","Прыгните вперёд и ударьте молотом по земле, сбивая ближайших врагов с ног."
-Leap forward and slash at your foe. Gain quickness if you successfully strike.,Прыгнуть вперёд и порезать противника. Даровать себе Проворство при успешном ударе.
+Leap forward and slash at your foe. Gain quickness if you successfully strike.,Прыгнуть вперёд и порезать противника. Даровать себе проворство при успешном ударе.
 "Leap forward and smash the ground, inflicting conditions on foes while granting barrier and boons to allies.","Прыгните вперёд и ударьте по земле, накладывая состояния на врагов и даруя барьер и благословения союзникам."
 "Leap into an area, and deliver a massive blow to enemies.",Прыгните в область и нанесите мощный удар по врагам.
 Leap of Faith,Leap of Faith
 "Leap onto foe, crippling them.","Прыгните на врага, наложив на него увечье."
 "Leap onto foe, knocking them down.","Прыгните на врага, сбив его с ног."
 "Leap through a rift in the Mists, shadowstepping briefly to the target's location and inflicting damage and conditions.","Прыгните через разлом в Туманах, совершив короткий теневой шаг к цели и нанеся урон и состояния."
-"Leap through the Mists to the target area. When you land, damage and chill foes in an area, then teleport back to your previous location.","Прыгните через Туманы в целевую область. При приземлении нанесите урон и наложите холод на врагов в области, затем телепортируйтесь обратно в исходную точку."
+"Leap through the Mists to the target area. When you land, damage and chill foes in an area, then teleport back to your previous location.","Прыгните через Туманы в целевую область. При приземлении нанесите урон и наложите заморозку на врагов в области, затем телепортируйтесь обратно в исходную точку."
 "Leap through the air, crippling enemies upon landing.","Прыгните в воздух, накладывая увечье на врагов при приземлении."
 "Leap to a target location, damaging nearby enemies. Deal more damage to foes below the health threshold.","Прыгните в целевую область, нанося урон ближайшим врагам. Наносите больше урона врагам с уровнем здоровья ниже порогового."
 "Leap to targeted area, damaging enemies at the target location. Gain barrier if at least one enemy was struck. Each point of affinity increases damage dealt and the barrier granted by this skill.","Прыгните в целевую область, нанося урон врагам в точке приземления. Получите барьер, если был поражен хотя бы один враг. Каждая единица сродства увеличивает наносимый урон и барьер, даваемый этим умением."

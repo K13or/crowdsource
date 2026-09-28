@@ -84,8 +84,8 @@ Deal increased strike damage to targets based on their vulnerability stacks.,Н�
 Deal increased strike damage to your target for each unique condition on them.,Вы наносите повышенный прямой урон цели за каждое лежащее на ней уникальное состояние.
 Deal increased strike damage to weakened foes. <c=@abilitytype>Burst</c> skills inflict weakness. <c=@reminder>Can only occur once per interval per target for multihit burst skills.</c>,Наносите повышенный ударный урон ослабленным врагам. <c=@abilitytype>Навыки рывка</c> накладывают слабость. <c=@reminder>Может срабатывать не чаще одного раза за интервал на цель для многоударных навыков рывка.</c>
 Deal increased strike damage when your target is below the health threshold.,"Вы наносите повышенный прямой урон, когда здоровье вашей цели ниже порога."
-Deal increased strike damage while in berserk mode. Gain resistance when entering berserk mode.,Наносит увеличенный прямой урон в режиме берсерка. Даёт сопротивление при входе в режим берсерка.
-"Deal increased strike damage while you have stability, swiftness, or superspeed. This damage increase compounds for each boon you have.","Наносит увеличенный прямой урон, пока на вас действует устойчивость, быстроту или суперскорость. Этот бонус к урону суммируется за каждое имеющееся у вас благословение."
+Deal increased strike damage while in berserk mode. Gain resistance when entering berserk mode.,Наносит увеличенный прямой урон в режиме берсерка. Даёт сопротивляемость при входе в режим берсерка.
+"Deal increased strike damage while you have stability, swiftness, or superspeed. This damage increase compounds for each boon you have.","Наносит увеличенный прямой урон, пока на вас действует устойчивость, быстроту или сверхскорость. Этот бонус к урону суммируется за каждое имеющееся у вас благословение."
 Deal increased strike damage while your endurance is not full.,"Вы наносите повышенный прямой урон, пока ваш запас выносливости не полон."
 "Deal increased strike damage with active upkeep skills.
 <c=@reminder>Herald and weapon upkeep skills grant less damage but can be stacked.</c>","Наносит увеличенный прямой урон при активных навыках поддержания.
@@ -252,7 +252,7 @@ Enduring Refrain,Enduring Refrain
 <c=@reminder>Эта черта может воздействовать на врагов с полоской стойкости только раз в определенный интервал.</c>"
 Energized Elements,Energized Elements
 Energy Amplifier,Energy Amplifier
-Energy Meld grants more endurance and grants its endurance and vigor to nearby allies.,"Умение Energy Meld даёт больше выносливости, а также даёт выносливость и Энергичность союзникам поблизости."
+Energy Meld grants more endurance and grants its endurance and vigor to nearby allies.,"Умение Energy Meld даёт больше выносливости, а также даёт выносливость и энергичность союзникам поблизости."
 Energy Meld no longer has an energy cost and grants energy when used in combat.,Умение Energy Meld не требует энергии для активации и даёт энергию при использовании в бою.
 Energy Meld's cooldown is reduced and it increases the effectiveness of your next dodge.,Умение Energy Meld перезаряжается быстрее и увеличивает эффективность вашего следующего уворота.
 Energy Threshold,Energy Threshold
@@ -265,7 +265,7 @@ Enigmatic Connection,Enigmatic Connection
 Entering beastmode grants you the boons affecting your pet.,Entering beastmode grants you the boons affecting your pet.
 Entering or exiting beast mode grants protection.,Entering or exiting beast mode grants protection.
 Entering or exiting shroud increases all damage you deal for a duration.,Вход в Саван или выход из него на некоторое время увеличивает весь наносимый вами урон.
-Entering shroud grants swiftness and removes movement-impairing conditions.,"Активация Савана дарует Быстроту и снимает состояния, ограничивающие передвижение."
+Entering shroud grants swiftness and removes movement-impairing conditions.,"Активация Савана дарует быстроту и снимает состояния, ограничивающие передвижение."
 Entering shroud transfers conditions from allies to you. Exiting shroud consumes conditions currently on you and converts them to life force.,"Вы переносите на себя состояния с союзников, когда входите в Саван. Выходя из Савана, вы поглощаете лежащие на вас состояния, превращая их в жизненную силу."
 Enterprising Aristocrat,Enterprising Aristocrat
 Equal and Opposite Reaction,Equal and Opposite Reaction
@@ -307,7 +307,7 @@ Expertise Inherited by Mech,Expertise Inherited by Mech
 Expertise granted by fury,Expertise granted by fury
 Explodes on expiration.,Explodes on expiration.
 Explosive Entrance grants barrier. Gain vitality based on a percentage of your power.,Explosive Entrance даёт барьер. Ваша Живучесть увеличивается в зависимости от вашей Силы.
-Explosive Entrance grants you resistance and increased critical-strike chance for a brief duration.,Explosive Entrance даёт вам сопротивление и повышенный шанс критического удара на короткое время.
+Explosive Entrance grants you resistance and increased critical-strike chance for a brief duration.,Explosive Entrance даёт вам сопротивляемость и повышенный шанс критического удара на короткое время.
 Explosive Growth,Explosive Growth
 Explosive Temper,Explosive Temper
 Expose Defenses,Expose Defenses
@@ -382,12 +382,12 @@ Furious Grip,Furious Grip
 Furious Interruption,Furious Interruption
 Furious Strength,Furious Strength
 Furious Surge,Furious Surge
-Fury gives an increased critical hit chance. Gain ferocity based on your vitality.,Ярость даёт повышенный шанс критического удара. Ваша Жестокость увеличивается в зависимости от вашей Живучести.
+Fury gives an increased critical hit chance. Gain ferocity based on your vitality.,Ярость даёт повышенный шанс критического удара. Ваша Свирепость увеличивается в зависимости от вашей Живучести.
 "Fury grants ferocity and additional increased critical strike chance. When struck while below the health threshold, gain fury.",Ярость даёт свирепость и дополнительный повышенный шанс критического удара. При получении удара ниже порога здоровья вы получаете ярость.
-Fury increases the duration of bleeds you inflict. Gaining fury inspires you with Kalla's Fervor.,Ярость увеличивает длительность вызываемых вами кровотечений. Получение Ярости наполняет вас Kalla's Fervor.
+Fury increases the duration of bleeds you inflict. Gaining fury inspires you with Kalla's Fervor.,Ярость увеличивает длительность вызываемых вами кровотечений. Получение ярости наполняет вас Kalla's Fervor.
 "Gadget. Activate your A.E.D., enabling the system to heal you after a brief period of time. If you take lethal damage while A.E.D. is active, it ends and heals you for a large amount, grants shock aura, and removes conditions.","Гаджет. Активируйте ваш A.E.D., позволяя системе исцелить вас через короткий промежуток времени. Если вы получаете смертельный урон, пока A.E.D. активен, он завершается и исцеляет вас на значительную величину, накладывает ауру шока и снимает состояния."
 "Gadget. Break out of stun, gaining resistance, clearing blindness, and removing damaging conditions.","Гаджет. Вырвитесь из оглушения, получив сопротивляемость, сняв слепоту и удалив вредоносные состояния."
-"Gadget. Fly forward, damaging foes with your rocket exhaust. Cures immobilized, crippled, and chilled. Gain superspeed when this skill ends.","Гаджет. Летите вперёд, повреждая врагов выхлопом вашей ракеты. Снимает обездвиживание, хромоту и заморозку. Получите суперскорость, когда этот навык заканчивается."
+"Gadget. Fly forward, damaging foes with your rocket exhaust. Cures immobilized, crippled, and chilled. Gain superspeed when this skill ends.","Гаджет. Летите вперёд, повреждая врагов выхлопом вашей ракеты. Снимает неподвижность, хромоту и заморозку. Получите сверхскорость, когда этот навык заканчивается."
 "Gadget. Gain resistance, clear blindness, and remove damaging conditions.","Гаджет. Получите сопротивляемость, снимите слепоту и удалите вредоносные состояния."
 "Gadget. Launch a target foe with a concealed ram head. The ram explodes on contact, burning foes.","Гаджет. Запустите во врага скрытую голову тарана. Таран взрывается при контакте, сжигая врагов."
 "Gadget. Spray oil behind you, knocking down foes. Break stun and gain stability. If underwater, foes entering the field are blinded and slowed.","Гаджет. Распылите масло позади себя, сбивая врагов с ног. Снимите оглушение и получите устойчивость. Если под водой, враги, входящие в область, ослепляются и замедляются."
@@ -416,7 +416,7 @@ Gain a burst of speed when entering berserk mode.,Gain a burst of speed when ent
 <c=@reminder>Также срабатывает при навыках перегрузки (overload).</c>"
 Gain a light aura and blind nearby foes when you activate Virtue skill 1.,Вы получаете ауру Света и ослепляете противников поблизости при активации 1-го умения Добродетели.
 Gain a note when you use a <c=@abilitytype>phantasm</c> skill.,Вы получаете ноту при использовании умения- фантома. <c=@abilitytype>фантома</c>.
-Gain a stacking ferocity effect when you or one of your illusions strikes with a one-handed sword or an underwater spear. Reduces recharge on sword and underwater spear skills.,"Вы получаете суммирующийся бонус к Жестокости, когда вы или ваша иллюзия наносит удар мечом или подводным копьём. Уменьшает время перезарядки умений меча и подводного копья."
+Gain a stacking ferocity effect when you or one of your illusions strikes with a one-handed sword or an underwater spear. Reduces recharge on sword and underwater spear skills.,"Вы получаете суммирующийся бонус к Свирепости, когда вы или ваша иллюзия наносит удар мечом или подводным копьём. Уменьшает время перезарядки умений меча и подводного копья."
 Gain a temporary bonus after using a <c=@abilitytype>familiar</c> skill.,Вы получаете временный бонус после использования умения фамильяра. <c=@abilitytype>фамильяра</c>.
 "Gain access to <c=@abilitytype>Cantrips</c> and <c=@abilitytype>Unleash</c>. While your pet is unleashed, its skills are replaced with larger area-of-effect skills. Once per interval, <c=@abilitytype>Unleashed Ambush</c> skills become available for a short period of time after you unleash.","Получите доступ к <c=@abilitytype>Фокусам</c> и <c=@abilitytype>Высвобождению</c>. Пока ваш питомец высвобожден, его навыки заменяются навыками с большей областью действия. Один раз за интервал навыки <c=@abilitytype>Высвобожденной засады</c> становятся доступны на короткое время после высвобождения."
 Gain access to <c=@abilitytype>Glyphs</c>. Become a celestial avatar once you gain enough astral force. Generate astral force by healing allies and damaging foes.,"Получите доступ к <c=@abilitytype>Глифам</c>. Станьте небесным аватаром, как только наберёте достаточно астральной силы. Генерируйте астральную силу, исцеляя союзников и нанося урон врагам."
@@ -441,7 +441,7 @@ Gain adrenaline on weapon swap.,Gain adrenaline on weapon swap.
 Gain aegis when you are struck while below the health threshold.,"Вам даруется эгида при получении урона, когда ваше здоровье ниже порога."
 Gain affinity when using a weapon skill that costs energy.,Gain affinity when using a weapon skill that costs energy.
 Gain affinity when you invoke a different legend.,Gain affinity when you invoke a different legend.
-Gain alacrity for each clone you shatter. Gain increased critical-strike chance for you and your illusions when you have alacrity.,"Вам даруется рвение за каждый клон, разбитый на осколки. Когда у вас есть дар Рвения, вы и ваши иллюзии получаете повышенный шанс на критический удар."
+Gain alacrity for each clone you shatter. Gain increased critical-strike chance for you and your illusions when you have alacrity.,"Вам даруется рвение за каждый клон, разбитый на осколки. Когда у вас есть дар рвения, вы и ваши иллюзии получаете повышенный шанс на критический удар."
 "Gain an additional artifact slot. Whenever you pilfer, you gain an additional, random artifact. You can use one additional artifact when you pilfer with Skritt Swipe.","Получайте дополнительный слот для артефакта. Всякий раз, когда вы крадете, вы получаете дополнительный случайный артефакт. Вы можете использовать один дополнительный артефакт, когда крадете с помощью «Удара скритта» (Skritt Swipe)."
 "Gain an attack of opportunity for you and your pet on interrupting a foe. Daze and stun durations that you inflict last longer.
 <c=@reminder>This trait can only grant an attack of opportunity against enemies with defiance bars once per interval.</c>","Получайте возможность атаки для себя и своего питомца при прерывании врага. Длительность оглушения и ошеломления, которые вы накладываете, увеличена.
@@ -469,8 +469,8 @@ Gain boons when you switch attunements.,Gain boons when you switch attunements.
 Gain chaos aura when you use your Shatter skill 2. Chaos aura grants you increased condition damage for a period of time.,"Вы получаете ауру хаоса при использовании 2-го умения Осколков. Пока у вас есть аура хаоса, наносимый вами урон от состояний увеличен."
 Gain charges when changing attunements. Gain a burst of power when you reach the maximum number of charges.,Вы накапливаете заряды при смене Стихий. Вы получаете прибавку к Силе при достижении максимального числа зарядов.
 Gain concentration and deal increased strike damage for each active boon you have.,"Ваша Концентрация увеличивается, и вы наносите повышенный прямой урон за каждый имеющийся у вас дар."
-Gain concentration and expertise when you have an active shade.,"Ваши Концентрация и Сноровка увеличиваются, если у вас есть активная песчаная тень."
-Gain concentration and expertise while affected by regeneration.,"Ваши Концентрация и Сноровка повышаются, пока у вас есть дар Регенерации."
+Gain concentration and expertise when you have an active shade.,"Ваши Концентрация и Экспертиза увеличиваются, если у вас есть активная песчаная тень."
+Gain concentration and expertise while affected by regeneration.,"Ваши Концентрация и Экспертиза повышаются, пока у вас есть дар регенерации."
 Gain concentration and your attunements gain reduced recharge.,"Ваша Концентрация увеличена, а Стихии перезаряжаются быстрее."
 Gain concentration. Empower now grants endurance to allies in addition to its effects. Staff skills recharge time is reduced.,Ваша Концентрация увеличивается. Умение Empower теперь дополнительно даёт союзникам выносливость. Умения посоха перезаряжаются быстрее.
 "Gain concentration. Gain adrenaline and motivation when you swap weapons.
@@ -481,10 +481,10 @@ Gain concentration. Empower now grants endurance to allies in addition to its ef
 <c=@reminder>Духи и миньоны являются существами.</c>"
 Gain condition damage based on your power.,Gain condition damage based on your power.
 "Gain condition damage based on your toughness. Inflict bleeding when you immobilize a foe.
-<c=@reminder>Bleeding can only occur on the same target once per interval.</c>","Получайте урон от состояний, основанный на вашей стойкости. Накладывайте кровотечение при обездвиживании врага.
+<c=@reminder>Bleeding can only occur on the same target once per interval.</c>","Получайте урон от состояний, основанный на вашей стойкости. Накладывайте кровотечение при неподвижности врага.
 <c=@reminder>Кровотечение может возникнуть на одной цели только один раз за интервал.</c>"
 Gain condition damage based on your vitality. <c=@abilitytype>Virtues</c> gain reduced recharge.,"Получайте урон от состояний, основанный на вашей живучести. <c=@abilitytype>Добродетели</c> получают сокращенную перезарядку."
-Gain condition damage when you have fury. You have increased chance to critically strike against bleeding foes.,"Ваш урон от состояний увеличивается, когда у вас есть дар Ярости. Ваш шанс на критическое попадание возрастает при атаке кровоточащих противников."
+Gain condition damage when you have fury. You have increased chance to critically strike against bleeding foes.,"Ваш урон от состояний увеличивается, когда у вас есть дар ярости. Ваш шанс на критическое попадание возрастает при атаке кровоточащих противников."
 Gain condition damage. <c=@abilitytype>Willbender Flames</c> now inflict burning on foes they strike.,Получайте урон от состояний. <c=@abilitytype>Willbender Flames</c> теперь накладывает горение на поражённых врагов.
 Gain condition damage. Gain additional condition damage while wielding a staff. Staff and trident skills gain reduced recharge.,Получайте урон от состояний. Получайте дополнительный урон от состояний при использовании посоха. Навыки посоха и трезубца получают сокращенную перезарядку.
 "Gain condition damage. Gain additional condition damage while wielding a torch, dagger, or mace. Torch and dagger skills recharge faster.","Получайте урон от состояний. Получайте дополнительный урон от состояний при использовании факела, кинжала или булавы. Навыки факела и кинжала перезаряжаются быстрее."
@@ -496,22 +496,22 @@ Gain endurance when you successfully steal from an enemy.,Gain endurance when yo
 Gain energy and boons when you switch attunements. <c=@reminder>Energy can only be gained while in combat. </c>,Получайте энергию и благословения при смене настроек. <c=@reminder>Энергию можно получить только в бою.</c>
 Gain energy when you break stun.,Gain energy when you break stun.
 Gain evasion when you use an elite skill.,Gain evasion when you use an elite skill.
-Gain expertise based on a percentage of your vitality. Torment you inflict deals increased damage.,Ваша Сноровка увеличивается в зависимости от вашей Живучести. Вызываемая вами боль наносит повышенный урон.
+Gain expertise based on a percentage of your vitality. Torment you inflict deals increased damage.,Ваша Экспертиза увеличивается в зависимости от вашей Живучести. Вызываемая вами боль наносит повышенный урон.
 Gain expertise based on your precision.,Gain expertise based on your precision.
-Gain expertise. Gain condition damage while wielding a sword. Sword skills gain reduced recharge.,"Ваша Сноровка увеличивается. Ваш урон от состояний увеличивается, пока вы вооружены мечом. Умения меча перезаряжаются быстрее."
-Gain expertise. Increase your outgoing condition damage when you inflict burning.,"Ваша Сноровка увеличивается. Увеличивает ваш урон от состояний, когда вы поджигаете противников."
+Gain expertise. Gain condition damage while wielding a sword. Sword skills gain reduced recharge.,"Ваша Экспертиза увеличивается. Ваш урон от состояний увеличивается, пока вы вооружены мечом. Умения меча перезаряжаются быстрее."
+Gain expertise. Increase your outgoing condition damage when you inflict burning.,"Ваша Экспертиза увеличивается. Увеличивает ваш урон от состояний, когда вы поджигаете противников."
 "Gain ferocity and quickness while in Reaper's Shroud. Hitting with Life Reap reduces the recharge time of shroud skills.
-<c=@reminder>Recharge reduction can only occur once per use of Life Reap.</c>","Получайте ярость и проворство, находясь в Reaper's Shroud. Удары с помощью Life Reap сокращают время перезарядки навыков савана.
+<c=@reminder>Recharge reduction can only occur once per use of Life Reap.</c>","Получайте свирепость и проворство, находясь в Reaper's Shroud. Удары с помощью Life Reap сокращают время перезарядки навыков савана.
 <c=@reminder>Сокращение перезарядки может произойти только один раз за использование Life Reap.</c>"
 Gain ferocity based on your precision.,Gain ferocity based on your precision.
 Gain ferocity for a short duration when you hit with an <c=@abilitytype>explosion</c>. This effect stacks duration.,Получайте свирепость на короткое время при попадании <c=@abilitytype>взрывом</c>. Этот эффект суммирует длительность.
 "Gain ferocity, and gain additional ferocity while attuned to air. Air weapon skills get a reduced recharge time.","Получайте свирепость, а также дополнительную свирепость при настройке на воздух. Воздушные навыки оружия получают сокращенное время перезарядки."
-Gain ferocity. Gain additional ferocity when wielding an axe. Axe skills gain reduced recharge and grant adrenaline when critically striking.,"Ваша Жестокость увеличивается. Вы получаете дополнительную Жестокость, если вы вооружены топором. Умения топора перезаряжаются быстрее и дают адреналин при критических ударах."
+Gain ferocity. Gain additional ferocity when wielding an axe. Axe skills gain reduced recharge and grant adrenaline when critically striking.,"Ваша Свирепость увеличивается. Вы получаете дополнительную Свирепость, если вы вооружены топором. Умения топора перезаряжаются быстрее и дают адреналин при критических ударах."
 Gain fire aura when an ally picks up a conjured weapon.,Gain fire aura when an ally picks up a conjured weapon.
 Gain fury and adrenaline when you immobilize or disable a foe.,"Вам даруются ярость и адреналин, когда вы обездвиживаете цель или выводите её из строя."
 Gain fury when entering shroud. Gain additional precision.,Gain fury when entering shroud. Gain additional precision.
 Gain fury when swapping weapons in combat.,Gain fury when swapping weapons in combat.
-Gain fury when you activate Bladesong Sorrow. Fury increases your expertise.,При активации умения Bladesong Sorrow вам даруется ярость. Ярость повышает вашу Сноровку.
+Gain fury when you activate Bladesong Sorrow. Fury increases your expertise.,При активации умения Bladesong Sorrow вам даруется ярость. Ярость повышает вашу Экспертизу.
 Gain fury when you gain might at or above the threshold.,Gain fury when you gain might at or above the threshold.
 Gain fury when you hit a foe with an <c=@abilitytype>Explosion</c>.,"Вам даруется ярость, когда вы поражаете противника взрывом. <c=@abilitytype>взрывом</c>."
 Gain fury when you inflict bleeding on an enemy. Fury gives an increased critical-strike chance.,Получайте ярость при наложении кровотечения на врага. Ярость даёт увеличенный шанс критического удара.
@@ -529,13 +529,13 @@ Gain health based on adrenaline spent.,Gain health based on adrenaline spent.
 Gain increased attributes while affected by quickness.,Gain increased attributes while affected by quickness.
 Gain increased condition duration for a period of time after attuning to a different element.,Увеличивает длительность состояний на некоторое время после настройки на другой элемент.
 Gain increased critical damage against foes whose health is above the threshold.,"Вы наносите повышенный критический урон противникам, чье здоровье выше порога."
-Gain increased critical-hit chance. This bonus is increased further while your endurance is full. Gain vigor when you gain fury.,Увеличивает шанс критического удара. Этот бонус дополнительно возрастает при полной выносливости. Даёт бодрость при получении ярости.
+Gain increased critical-hit chance. This bonus is increased further while your endurance is full. Gain vigor when you gain fury.,Увеличивает шанс критического удара. Этот бонус дополнительно возрастает при полной выносливости. Даёт энергичность при получении ярости.
 Gain increased critical-strike chance. Gain increased critical-strike damage while in shroud.,"Увеличивает шанс критического попадания. Увеличивает урон от критических попаданий, пока вы находитесь в Саване."
 Gain increased damage for a period of time after using an artifact.,Наносимый вами урон увеличивается на некоторое время после использования артефакта.
 Gain increased endurance recovery.,Gain increased endurance recovery.
 Gain increased maximum health.,Gain increased maximum health.
 Gain increased movement speed for each point of upkeep currently in use.,"Ваша скорость перемещения увеличивается за каждую единицу восстановления энергии, которую вы тратите в данный момент."
-Gain increased movement speed. Gain swiftness when you activate a virtue.,Увеличивает скорость передвижения. Даёт стремительность при активации добродетели.
+Gain increased movement speed. Gain swiftness when you activate a virtue.,Увеличивает скорость передвижения. Даёт быстроту при активации добродетели.
 "Gain increased outgoing damage when you grant yourself an aura. <c=@reminder>When this triggers, refresh the duration of all stacks. </c>",Увеличивает исходящий урон при наложении на себя ауры. <c=@reminder>При срабатывании обновляет длительность всех эффектов.</c>
 "Gain increased outgoing strike damage and reduced incoming strike damage. When above the health threshold, outgoing strike damage is further increased. When below the health threshold, incoming strike damage is further reduced.",Увеличивает исходящий прямой урон и снижает входящий прямой урон. При здоровье выше порогового значения исходящий прямой урон дополнительно увеличивается. При здоровье ниже порогового значения входящий прямой урон дополнительно снижается.
 Gain increased power while above the health threshold. Gain increased healing power when below it.,"Ваша сила увеличивается, пока ваше здоровье выше порога. Ваша сила исцеления увеличивается, когда ваше здоровье ниже порога."
@@ -560,7 +560,7 @@ Gain initiative when you enter or exit stealth.,Gain initiative when you enter o
 <c=@reminder>Using Tome skills consumes pages. You regenerate pages every interval.</c>","Даёт знание элонских легенд, разжигая яростное стремление очистить порчу и воплощая ваши <c=@abilitytype>Добродетели</c> в виде мистических фолиантов. Даёт доступ к <c=@abilitytype>Мантры</c>.
 <c=@reminder>Использование навыков фолианта расходует страницы. Вы восстанавливаете страницы каждый интервал.</c>"
 Gain life force and health when you apply a boon to yourself or remove a boon from an enemy.,"Вам даётся жизненная сила и здоровье, когда вы даёте себе дар или снимаете дар с противника."
-Gain life force every interval up to the threshold when not in shroud. Gain protection when you enter shroud.,"Восстанавливает жизненную силу каждый интервал до порогового значения, если вы не в саване. Даёт защиту при входе в саван."
+Gain life force every interval up to the threshold when not in shroud. Gain protection when you enter shroud.,"Восстанавливает жизненную силу каждый интервал до порогового значения, если вы не в саване. Даёт протекцию при входе в саван."
 Gain life force when you enter Harbinger Shroud.,Gain life force when you enter Harbinger Shroud.
 "Gain life force when you inflict burning, and remove or corrupt a boon.","Восстанавливает жизненную силу при наложении горения, а также при снятии или порче благословения."
 "Gain light aura when entering Radiant Forge. Luminary skills detonate light aura, damaging enemies and healing allies.","Получайте ауру света при входе в Сияющую Кузню. Навыки Светоча взрывают ауру света, нанося урон врагам и исцеляя союзников."

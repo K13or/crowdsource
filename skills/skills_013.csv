@@ -48,7 +48,7 @@ Strike at foes in front of you and launch two blades of light at your target. Ea
 "Strike enemies around you, inflicting multiple conditions.","Поразите врагов вокруг себя, накладывая несколько состояний."
 "Strike enemies around you, inflicting vulnerability and gaining quickness. Gain additional quickness for each foe you hit.","Поразите врагов вокруг себя, накладывая уязвимость и получая проворство. Получайте дополнительную проворство за каждого пораженного врага."
 "Strike enemies around you, inflicting weakness, gaining barrier, and gaining additional barrier per target hit.","Поразите врагов вокруг себя, накладывая слабость, получая барьер и дополнительный барьер за каждую пораженную цель."
-"Strike enemies in front of you and roll backward, breaking immobilizing effects. Gain access to Helmet Breaker.","Ударьте врагов перед собой и отпрыгните назад, снимая эффекты обездвиживания. Получите доступ к Helmet Breaker."
+"Strike enemies in front of you and roll backward, breaking immobilizing effects. Gain access to Helmet Breaker.","Ударьте врагов перед собой и отпрыгните назад, снимая эффекты неподвижности. Получите доступ к Helmet Breaker."
 Strike fear into nearby foes.,Вселить страх в противников поблизости.
 Strike foes in front of you with a storm of jabs.,Обрушить на противников прямо перед вами шквал тычков.
 "Strike foes in front of you with bear claws, making them vulnerable.","Поразите врагов перед собой медвежьими когтями, делая их уязвимыми."
@@ -78,7 +78,7 @@ Strike your foe repeatedly with a shadowy assault. Evades while active.,Нане
 Strike your foe with a final powerful thrust that does extra damage and inflicts bleeding against foes below the health threshold.,"Ударьте врага финальным мощным выпадом, который наносит дополнительный урон и накладывает кровотечение на врагов с уровнем здоровья ниже порогового."
 Strike your foe with a final powerful thrust.,Ударьте врага финальным мощным выпадом.
 "Strike your foe with a flurry of strikes, distorting the space around you, making you evade attacks.","Ударьте врага шквалом ударов, искажая пространство вокруг себя и позволяя уклоняться от атак."
-Strike your foe with both weapons. Gain quickness for each strike that hits.,Ударить противника оружием в обеих руках. Вам будет даровано Проворство при каждом попадании.
+Strike your foe with both weapons. Gain quickness for each strike that hits.,Ударить противника оружием в обеих руках. Вам будет даровано проворство при каждом попадании.
 Strike your foe with flame.,Нанести противнику удар пламенем.
 Strike your foe with rending force. Follow up this attack with a dual strike that deals increased damage against foes you struck with the first.,"Нанести противнику сокрушительный удар. Продолжить эту атаку двойным ударом, который наносит повышенный урон противникам, пораженным первым ударом."
 Strike your foe with shocking force.,Ударить противника с шокирующей силой.
@@ -352,7 +352,7 @@ The Apocalypse Bringer summons a reaper of flesh on an enemy if there is no near
 The Apocalypse Bringer summons forth allies if its defiance is not broken.,"Вестник Апокалипсиса призывает союзников, если его шкала стойкости не разбита."
 The Blue Guardian distributes its magic to a point that must be absorbed before it unleashes devastating damage.,"Синий Страж распределяет свою магию в точку, которую необходимо поглотить, прежде чем он нанесет разрушительный урон."
 "The Blue Guardian pulses energy every 3 seconds, damaging all foes in range.","Синий Страж пульсирует энергией каждые 3 секунды, нанося урон всем врагам в радиусе действия."
-"The Brood Queen charges, knocking away foes in her path.","Приказать вашему голему из плоти даровать себе Устойчивость и напасть на противника, сбивая с ног или отбрасывая противников у себя на пути."
+"The Brood Queen charges, knocking away foes in her path.","Приказать вашему голему из плоти даровать себе устойчивость и напасть на противника, сбивая с ног или отбрасывая противников у себя на пути."
 "The Brood Queen lashes out, sinking poisonous fangs into her foes as she knocks them down.","Brood Queen наносит удар, вонзая ядовитые клыки во врагов и сбивая их с ног."
 The Brood Queen unleashes its webs to pull and slow opponents.,"Brood Queen выпускает паутину, чтобы притянуть и замедлить противников."
 The Broodmother lashes out with poisonous fangs.,Мать выводка наносит удар ядовитыми клыками.
@@ -455,7 +455,7 @@ The ground erupts with deadly skeletal fingers that deal damage and corrupt boon
 The harp is playing in the background.,На фоне играет арфа.
 "The heavy bomb explodes, dealing massive damage to foes and the platform.","Тяжёлая бомба взрывается, нанося огромный урон врагам и платформе."
 The hologram's presence causes all foes within range to take damage every 3 seconds.,Присутствие голограммы заставляет всех врагов в радиусе действия получать урон каждые 3 секунды.
-"The hydra bites with two heads, applying bleeding, poison, and chill.","Гидра кусает двумя головами, накладывая кровотечение, яд и холод."
+"The hydra bites with two heads, applying bleeding, poison, and chill.","Гидра кусает двумя головами, накладывая кровотечение, отравление и заморозку."
 The hydra spits a fireball that leaves behind a burning field.,"Гидра извергает огненный шар, оставляющий после себя область горения."
 "The hydra teleports to a new platform, knocking back foes when it appears.","Гидра телепортируется на новую платформу, отбрасывая врагов при появлении."
 The hydra unleashes a deadly flurry of meteors at all its foes while also applying boons to itself.,"Гидра обрушивает смертоносный шквал метеоров на всех своих врагов, одновременно накладывая благословения на себя."

@@ -49,7 +49,7 @@ Fire a beam of searing light that damages and burns all enemies in its path.,"В
 "Fire a blast of lightning that explodes when it reaches its destination, stunning nearby foes.","Выпустите разряд молнии, который взрывается при достижении цели, оглушая ближайших врагов."
 Fire a blast so strong that it launches your foe as the recoil frees you from any movement-impairing conditions.,"Выстрелить столь мощным зарядом, что он отбросит противника назад, а отдача снимет с вас все состояния, ограничивающие передвижение."
 Fire a bolt that damages foes.,"Выпустить стрелу, наносящую урон противникам."
-Fire a bouncing glob that cripples foes and grants swiftness to you and your allies. The first enemy struck is immobilized.,"Выпустите рикошетирующий сгусток, который калечит врагов и даёт стремительность вам и вашим союзникам. Первый пораженный враг обездвиживается."
+Fire a bouncing glob that cripples foes and grants swiftness to you and your allies. The first enemy struck is immobilized.,"Выпустите рикошетирующий сгусток, который калечит врагов и даёт быстроту вам и вашим союзникам. Первый пораженный враг обездвиживается."
 Fire a bullet out of your belt.,Выстрелить пулей из вашего Пояса.
 Fire a bullet that inflicts conditions on your target and grants you a boon.,"Выстрелите пулей, которая накладывает состояния на цель и даёт вам благословение."
 Fire a cluster bomb at the target area. Detonate in midair for multiple explosions.,"Выстрелить кассетной бомбой по выбранной области. Подорвать бомбу над землей, чтобы произвести несколько взрывов."
@@ -100,7 +100,7 @@ Fire an arrow that bleeds and immobilizes your target.,"Выстрелить с�
 Fire an arrow that bounces between nearby foes and inflicts bleeding when striking poisoned enemies.,"Выстрелить стрелой, которая рикошетит между противниками поблизости и вызывает кровотечение у отравленных врагов."
 "Fire an arrow that cripples your target. If you are flanking or behind your target or your target is defiant, immobilize them. Your pet's next three attacks inflict bleeding.","Выстрелите стрелой, которая калечит цель. Если вы атакуете с фланга или с тыла, либо если цель обладает эффектом «Непокорность», обездвижьте её. Следующие три атаки вашего питомца накладывают кровотечение."
 Fire an arrow that dazes enemies on impact and poisons the target area.,"Выстрелить стрелой, которая ошеломляет противников при попадании и отравляет область вокруг себя."
-Fire an arrow that grants you stealth when it hits an enemy. Your pet gains swiftness.,"Выстрелить стрелой, которая делает вас невидимым, если попадает в противника. Вашему питомцу будет дарована Быстрота."
+Fire an arrow that grants you stealth when it hits an enemy. Your pet gains swiftness.,"Выстрелить стрелой, которая делает вас невидимым, если попадает в противника. Вашему питомцу будет дарована быстрота."
 Fire an arrow that inflicts bleeding on your target. Attacks are stronger from behind or from the side or against defiant foes.,"Выстрелить стрелой, вызывающей у цели кровотечение. Атаки усиливаются при нападении сзади или сбоку, или если у противника есть полоса сопротивления."
 "Fire an arrow that pierces enemies. If the arrow hits a second target, all enemies struck are crippled.","Выстрелите стрелой, которая пронзает врагов. Если стрела попадает во вторую цель, все пораженные враги получают эффект «Хромота»."
 Fire an explosive grenade from your rifle.,Выстрелить из винтовки разрывной гранатой.
@@ -324,7 +324,7 @@ Frozen Fusillade,Frozen Fusillade
 Frozen Ground,Frozen Ground
 Frozen Missile,Frozen Missile
 Frozen Teeth,Frozen Teeth
-Frozen breaches in the ice that deal heavy damage and apply chill.,"Замерзшие разломы во льду, которые наносят большой урон и накладывают эффект охлаждения."
+Frozen breaches in the ice that deal heavy damage and apply chill.,"Замерзшие разломы во льду, которые наносят большой урон и накладывают эффект заморозки."
 Fulgent Aura,Fulgent Aura
 Fulgent Fence,Fulgent Fence
 Fulgor,Fulgor
@@ -367,8 +367,8 @@ Gain increased condition damage.,Получите увеличенный уро�
 Gain life force when taking damage.,Получайте жизненную силу при получении урона.
 "Gain stacks when striking or being struck by an enemy. When this ends, damage nearby enemies based on the number of stacks.","Получайте стаки при нанесении или получении ударов от врага. Когда эффект заканчивается, нанесите урон ближайшим врагам в зависимости от количества стаков."
 Gain superspeed. Your next spear skill always critically strikes.,Получить сверхскорость. Ваша следующая атака копьём завершится критическим попаданием.
-Gain swiftness and summon a swarm of vampiric shrimp that siphon health from nearby foes.,"Даровать себе Быстроту и призвать стаю креветок-вампиров, которые высасывают здоровье у противников поблизости."
-Gain swiftness from a gust of wind that launches nearby foes.,Порыв ветра дарует вам Быстроту и отбрасывает противников поблизости.
+Gain swiftness and summon a swarm of vampiric shrimp that siphon health from nearby foes.,"Даровать себе быстроту и призвать стаю креветок-вампиров, которые высасывают здоровье у противников поблизости."
+Gain swiftness from a gust of wind that launches nearby foes.,Порыв ветра дарует вам быстроту и отбрасывает противников поблизости.
 Gaining vitality.,Получение живучести.
 Gale,Gale
 Gale Breath,Gale Breath
@@ -439,23 +439,23 @@ Gorge,Gorge
 Gormandize,Gormandize
 Gorseval's mere presence causes all foes within range to take damage every 3 seconds.,Само присутствие Gorseval заставляет всех врагов в радиусе действия получать урон каждые 3 секунды.
 Grand Finale,Grand Finale
-Grant aegis to allies around you and poison your marked target. Gain stealth if malice is at or above the threshold.,"Даровать Эгиду союзникам вокруг вас и отравить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
+Grant aegis to allies around you and poison your marked target. Gain stealth if malice is at or above the threshold.,"Даровать эгиду союзникам вокруг вас и отравить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
 Grant allies the ability to steal life with their strikes.,Дарует союзникам способность похищать жизнь своими атаками.
 Grant barrier to allies.,Дарует барьер союзникам.
 Grant boons and remove movement-impairing conditions from allies.,"Даёт союзникам дары и снимает с них состояния, ограничивающие передвижение."
 Grant boons to nearby allies and summon a dust storm that inflicts conditions.,"Дать дары союзникам поблизости и вызвать пылевую бурю, которая накладывает состояния."
 "Grant boons to nearby allies as you launch a wave of temporal energy that damages and stops enemies it passes through, then returns to you. Touching the returning wave reduces the recharge of this skill.","Дарует благословения ближайшим союзникам, выпуская волну энергии времени, которая наносит урон и останавливает врагов на своем пути, а затем возвращается к вам. Если коснуться возвращающейся волны, время перезарядки этого навыка сокращается."
 Grant boons to yourself and nearby allies.,Дарует благословения вам и ближайшим союзникам.
-Grant fury to allies around you and blind your marked target. Gain stealth if malice is at or above the threshold.,"Даровать Ярость союзникам вокруг вас и ослепить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
+Grant fury to allies around you and blind your marked target. Gain stealth if malice is at or above the threshold.,"Даровать ярость союзникам вокруг вас и ослепить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
 Grant might to allies around you and weaken your marked target. Gain stealth if malice is at or above the threshold.,"Даровать мощь союзникам вокруг вас и ослабить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
-Grant protection to allies around you and inflict vulnerability on your marked target. Gain stealth if malice is at or above the threshold.,"Даровать Протекцию союзникам вокруг вас и сделать отмеченную цель уязвимой. Стать невидимым, если злобность равна или превышает порог."
+Grant protection to allies around you and inflict vulnerability on your marked target. Gain stealth if malice is at or above the threshold.,"Даровать протекцию союзникам вокруг вас и сделать отмеченную цель уязвимой. Стать невидимым, если злобность равна или превышает порог."
 Grant protection to nearby allies.,Дарует протекцию ближайшим союзникам.
-Grant quickness to allies around you and slow your marked target. Gain stealth if malice is at or above the threshold.,"Даровать Проворство союзникам вокруг вас и замедлить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
+Grant quickness to allies around you and slow your marked target. Gain stealth if malice is at or above the threshold.,"Даровать проворство союзникам вокруг вас и замедлить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
 Grant resistance to allies around you and inflict torment on your marked target. Gain stealth if malice is at or above the threshold.,"Даровать сопротивляемость союзникам вокруг вас и вызвать у отмеченной цели боль. Стать невидимым, если злобность равна или превышает порог."
 Grant superspeed to allies around you and immobilize your marked target. Gain stealth if malice is at or above the threshold.,"Дать сверхскорость союзникам вокруг вас и обездвижить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
-Grant swiftness to allies and summon a swarm of locusts that siphons health to you and your allies from nearby foes.,"Даровать союзникам Быстроту и призвать рой саранчи, которая вытягивает у противников поблизости здоровье для вас и ваших союзников."
-Grant swiftness to nearby allies and remove movement-impairing conditions from them.,"Даровать Быстроту союзникам поблизости и снять с них состояния, ограничивающие передвижение."
-Grant vigor to allies around you and chill your marked target. Gain stealth if malice is at or above the threshold.,"Даровать Энергичность союзникам вокруг вас и заморозить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
+Grant swiftness to allies and summon a swarm of locusts that siphons health to you and your allies from nearby foes.,"Даровать союзникам быстроту и призвать рой саранчи, которая вытягивает у противников поблизости здоровье для вас и ваших союзников."
+Grant swiftness to nearby allies and remove movement-impairing conditions from them.,"Даровать быстроту союзникам поблизости и снять с них состояния, ограничивающие передвижение."
+Grant vigor to allies around you and chill your marked target. Gain stealth if malice is at or above the threshold.,"Даровать энергичность союзникам вокруг вас и заморозить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
 Grants boons and applies Erratic Energy to the attacked target.,Дарует благословения и накладывает «Беспорядочную энергию» на атакованную цель.
 Grants might to your pet when you attack.,"Дарует мощь вашему питомцу, когда вы атакуете."
 Grappling Line,Grappling Line
@@ -465,7 +465,7 @@ Grasping Earth,Grasping Earth
 Grasping Horror,Grasping Horror
 Grasping Shadows,Grasping Shadows
 Grasping Vines,Grasping Vines
-"Grasping arms attack nearby targets, inflicting poison and torment.","Хватающие руки атакуют ближайшие цели, накладывая яд и боль."
+"Grasping arms attack nearby targets, inflicting poison and torment.","Хватающие руки атакуют ближайшие цели, накладывая отравление и боль."
 Gravedigger,Gravedigger
 Gravitational Wave,Gravitational Wave
 Gravity Hammer,Gravity Hammer
@@ -483,7 +483,7 @@ Greatsword Swing,Greatsword Swing
 "Greer creates a fan of 5 cascades, starting at the edges of a 180-degree arc and moving toward the center. Rippling thorn barriers travel along these arcs, damaging and knocking back anything struck by them. When the barriers reach the end of their track, they create a circular rot cage surrounding a zone of noxious blight. Players caught in the rot cage gain a stack of Plague Rot.","Greer создает веер из 5 каскадов, начиная с краев 180-градусной дуги и двигаясь к центру. Барьеры из колючих волн движутся вдоль этих дуг, нанося урон и отбрасывая всех, кого заденут. Когда барьеры достигают конца пути, они создают круговую клетку гнили, окружающую зону вредоносного поражения. Игроки, попавшие в клетку гнили, получают заряд Plague Rot."
 "Greer creates a fan of 5 cascades, starting at the edges of a 180-degree arc and moving toward the center. Rippling thorn barriers travel along these lines, damaging and knocking back anything struck by them. When the barriers reach the end of their track, they create a circular rot cage of barriers surrounding a zone of noxious blight.","Greer создает веер из 5 каскадов, начиная с краев 180-градусной дуги и двигаясь к центру. Барьеры из колючих волн движутся вдоль этих линий, нанося урон и отбрасывая всех, кого заденут. Когда барьеры достигают конца пути, они создают круговую клетку гнили, окружающую зону вредоносного поражения."
 "Greer encircles himself in a barrier, protecting himself from further harm while his Greerlings attack his foes. Players entering the barrier will be knocked back.","Greer окружает себя барьером, защищаясь от дальнейшего урона, пока его Greerlings атакуют врагов. Игроки, вошедшие в барьер, будут отброшены."
-"Greer exhales lingering clouds of poisonous gas that travel outward to form 3 conical areas. The gas clouds stay in place for several seconds, poisoning foes inside them. If a victim of the gas gains 20 stacks of poison, they will be converted into 1 stack of Plague Rot.","Greer выдыхает затяжные облака ядовитого газа, которые распространяются наружу, образуя 3 конические области. Облака газа остаются на месте в течение нескольких секунд, отравляя врагов внутри. Если жертва газа получает 20 зарядов яда, они преобразуются в 1 заряд Plague Rot."
+"Greer exhales lingering clouds of poisonous gas that travel outward to form 3 conical areas. The gas clouds stay in place for several seconds, poisoning foes inside them. If a victim of the gas gains 20 stacks of poison, they will be converted into 1 stack of Plague Rot.","Greer выдыхает затяжные облака ядовитого газа, которые распространяются наружу, образуя 3 конические области. Облака газа остаются на месте в течение нескольких секунд, отравляя врагов внутри. Если жертва газа получает 20 зарядов отравления, они преобразуются в 1 заряд Plague Rot."
 "Greer exhales lingering clouds of poisonous gas that travel outward to form 3 roughly conical areas. The gas clouds stay in place for several seconds, poisoning foes inside them.","Greer выдыхает затяжные облака ядовитого газа, которые распространяются наружу, образуя 3 конические области. Облака газа остаются на месте в течение нескольких секунд, отравляя врагов внутри."
 "Greer leaps into the air toward a targeted player. When he lands, targets directly under him will be knocked back and gain a stack of Plague Rot. Greer then fires cascades of rot walls that ripple outward, inflicting damage, knockback, and bleeding on anyone hit by them. The final rot wall stays in place, blocking player projectiles that hit it.","Greer прыгает в воздух в сторону выбранного игрока. При приземлении цели прямо под ним будут оттолкнуты и получат заряд Plague Rot. Затем Greer выпускает каскады стен гнили, которые расходятся наружу, нанося урон, отталкивая и вызывая кровотечение у всех, кого заденут. Последняя стена гнили остается на месте, блокируя снаряды игроков."
 "Greer leaps into the air towards a targeted player. When Greer lands, targets directly under him will be knocked back. He then fires cascades of rot walls that ripple outward, inflicting damage, knockback, and bleeding on anyone hit by them. The final rot wall stays in place, blocking player projectiles that hit them.","Greer прыгает в воздух в сторону выбранного игрока. При приземлении Greer цели прямо под ним будут оттолкнуты. Затем он выпускает каскады стен гнили, которые расходятся наружу, нанося урон, отталкивая и вызывая кровотечение у всех, кого заденут. Последняя стена гнили остается на месте, блокируя снаряды игроков."

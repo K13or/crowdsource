@@ -14,7 +14,7 @@ Might applied to you grants more power. Your critical-hit chance is increased.,�
 Might grants you more power and less condition damage. Gain might when using a legendary stance skill.,"Мощь даёт вам больше силы и меньше урона от состояний. Вам даруется мощь, когда вы используете умения легенд."
 Might grants you more power. Gain might when entering shroud.,"Мощь ещё больше увеличивает вашу силу. Вам даруется мощь, когда вы входите в Саван."
 Might of the Protector,Might of the Protector
-"Mighty Blow becomes Glacial Blow. Heal when you disable, immobilize, or chill a foe.","Mighty Blow становится Glacial Blow. Исцеляет вас при наложении на врага эффектов контроля, обездвиживания или охлаждения."
+"Mighty Blow becomes Glacial Blow. Heal when you disable, immobilize, or chill a foe.","Mighty Blow становится Glacial Blow. Исцеляет вас при наложении на врага эффектов контроля, неподвижности или заморозки."
 Minimum Bonus Damage,Minimum Bonus Damage
 Minion Heal,Minion Heal
 Minion Life Steal,Minion Life Steal
@@ -57,7 +57,7 @@ Necromantic Corruption,Necromantic Corruption
 Nefarious Favor Cooldown Increase,Nefarious Favor Cooldown Increase
 Nefarious Favor now burns nearby enemy targets.,Nefarious Favor now burns nearby enemy targets.
 New Genes,New Genes
-New combat subroutines enable your mech to use Rocket Punch when you activate Skill 3 on your equipped weapon. Your mech gains a greater percentage of your own toughness and vitality stats.,"Новые боевые подпрограммы дают вашему Меху возможность использовать умение Rocket Punch, когда вы активируете 3-е умение вашего оружия. Мех наследует повышенную часть вашей Прочности и Живучести."
+New combat subroutines enable your mech to use Rocket Punch when you activate Skill 3 on your equipped weapon. Your mech gains a greater percentage of your own toughness and vitality stats.,"Новые боевые подпрограммы дают вашему Меху возможность использовать умение Rocket Punch, когда вы активируете 3-е умение вашего оружия. Мех наследует повышенную часть вашей Стойкости и Живучести."
 Next attack weakens enemies.,Next attack weakens enemies.
 No Escape,No Escape
 No Scope,No Scope
@@ -117,7 +117,7 @@ Phantasm damage increased per stack.,Phantasm damage increased per stack.
 Phantasmal Force,Phantasmal Force
 Phantasmal Fury,Phantasmal Fury
 Phantasmal Haste,Phantasmal Haste
-Phantasms that successfully complete their attack launch a blade at their target and grant you fury when they expire.,"Фантомы, которые провели успешную атаку, бросают в свою цель клинок и даруют вам Ярость, когда исчезают."
+Phantasms that successfully complete their attack launch a blade at their target and grant you fury when they expire.,"Фантомы, которые провели успешную атаку, бросают в свою цель клинок и даруют вам ярость, когда исчезают."
 Phantom Pain,Phantom Pain
 Phoenix Protocol,Phoenix Protocol
 Photon Forge reduces incoming damage but has increased passive heat generation.,"Photon Forge уменьшает получаемый вами урон, но имеет увеличенный эффект пассивного нагрева."
@@ -130,7 +130,7 @@ Physical. Cause a rupture that deals massive damage when this skill ends. This a
 Piercing Shards,Piercing Shards
 Pinnacle of Strength,Pinnacle of Strength
 Pistol Proficiency,Pistol Proficiency
-Pistol skills gain reduced recharge. Gain expertise based on your vitality.,Умения пистолета перезаряжаются быстрее. Ваша Сноровка увеличивается в зависимости от вашей Живучести.
+Pistol skills gain reduced recharge. Gain expertise based on your vitality.,Умения пистолета перезаряжаются быстрее. Ваша Экспертиза увеличивается в зависимости от вашей Живучести.
 Plague Sending,Plague Sending
 Planar Protection,Planar Protection
 Poison Damage Increase,Poison Damage Increase
@@ -256,7 +256,7 @@ Relentless Pursuit,Relentless Pursuit
 Remorseless,Remorseless
 Removal upon Application,Removal upon Application
 Removal upon Transmute,Removal upon Transmute
-Remove a nondamaging condition and gain swiftness whenever you evade an attack.,Снимает одно не наносящее урон состояние и даёт стремительность при каждом уклонении от атаки.
+Remove a nondamaging condition and gain swiftness whenever you evade an attack.,Снимает одно не наносящее урон состояние и даёт быстроту при каждом уклонении от атаки.
 Remove conditions and heal when blocking attacks.,Remove conditions and heal when blocking attacks.
 Remove conditions from nearby allies when attuning to water.,Remove conditions from nearby allies when attuning to water.
 Remove conditions from nearby allies when you grant yourself light aura. Gain light aura when you use a healing skill.,"Вы снимаете состояния с союзников поблизости, когда даёте себе ауру Света. Вы получаете ауру Света при использовании исцеляющего умения."
@@ -301,7 +301,7 @@ Restorative Strength,Restorative Strength
 Restorative Virtues,Restorative Virtues
 Restore arrows when you or your pet disable an enemy.,Restore arrows when you or your pet disable an enemy.
 "Retain <c=@abilitytype>Courage</c> passive while it is on cooldown. Grant boons to nearby allies when you disable, immobilize, or slow an enemy.
-<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Сохраняет пассивный эффект <c=@abilitytype>Мужества</c>, пока он на перезарядке. Дарует благословения ближайшим союзникам, когда вы накладываете эффекты контроля, обездвиживания или замедления на врага.
+<c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>","Сохраняет пассивный эффект <c=@abilitytype>Мужества</c>, пока он на перезарядке. Дарует благословения ближайшим союзникам, когда вы накладываете эффекты контроля, неподвижности или медлительности на врага.
 <c=@reminder>Эффекты контроля включают оглушение, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, отбрасывание, провокацию и страх.</c>"
 Retain <c=@abilitytype>Justice</c> passive while it is on cooldown. Granting quickness to an ally also grants Ashes of the Just.,"Сохраняет пассивный эффект <c=@abilitytype>Справедливости</c>, пока он на перезарядке. Дарование стремительности союзнику также даёт Ashes of the Just."
 Retain <c=@abilitytype>Resolve</c> passive while it is on cooldown. You generate pages more quickly.,"Сохраняет пассивный эффект <c=@abilitytype>Решимости</c>, пока он на перезарядке. Вы создаете страницы быстрее."
@@ -376,7 +376,7 @@ Shattered Aegis,Shattered Aegis
 Shattered Concentration,Shattered Concentration
 Shield Proficiency,Shield Proficiency
 Shield of Courage gains increased radius and duration.,Shield of Courage gains increased radius and duration.
-Shield skills grant protection to nearby allies. Protection on you gains increased damage reduction.,Умения щита даруют Протекцию союзникам поблизости. Протекция ещё сильнее сокращает получаемый вами урон.
+Shield skills grant protection to nearby allies. Protection on you gains increased damage reduction.,Умения щита даруют протекцию союзникам поблизости. Протекция ещё сильнее сокращает получаемый вами урон.
 Shielding Restoration,Shielding Restoration
 Shimmering Stances,Shimmering Stances
 Shining Aspects,Shining Aspects
@@ -420,7 +420,7 @@ Soaring Devastation,Soaring Devastation
 Solar Focusing Lens,Solar Focusing Lens
 Soldier's Comfort,Soldier's Comfort
 Soldier's Focus grants boons to affected allies and removes conditions from them. Refresh Soldier's Focus when you swap weapons.,"Сосредоточенность Солдата даёт дары союзникам, попавшим под действие этого эффекта, и снимает с них состояния. Сосредоточенность Солдата обновляется, когда вы меняете оружие."
-Soldier's Focus heals affected allies and grants them protection.,Фокус солдата лечит затронутых союзников и даёт им защиту.
+Soldier's Focus heals affected allies and grants them protection.,Фокус солдата лечит затронутых союзников и даёт им протекцию.
 Song of Arboreum,Song of Arboreum
 Song of the Mists,Song of the Mists
 Soothing Detonation,Soothing Detonation
@@ -446,7 +446,7 @@ Spellbreaker's Conviction,Spellbreaker's Conviction
 Sphere Cooldown Increase,Sphere Cooldown Increase
 Sphere Specialist,Sphere Specialist
 Spider and Devourer Additional Expertise,Spider and Devourer Additional Expertise
-Spider pet's Spit and devourer pet's Twin Darts additionally inflict torment. You and your pet gain expertise; spiders and devourers gain more.,Умения Spit питомцев-пауков и Twin Darts питомцев-ящеров дополнительно вызывают боль. У вас и у вашего питомца увеличивается Сноровка; у пауков и ящеров Сноровка увеличивается сильнее.
+Spider pet's Spit and devourer pet's Twin Darts additionally inflict torment. You and your pet gain expertise; spiders and devourers gain more.,Умения Spit питомцев-пауков и Twin Darts питомцев-ящеров дополнительно вызывают боль. У вас и у вашего питомца увеличивается Экспертиза; у пауков и ящеров Экспертиза увеличивается сильнее.
 Spirit Boon,Spirit Boon
 Spirit's Gift,Spirit's Gift
 Spirit's Strength,Spirit's Strength
@@ -480,9 +480,9 @@ Steal.,Steal.
 Stealing also applies bleeding. Bleeding you inflict deals more damage.,Кража также вызывает кровотечение. Вызываемые вами кровотечения наносят повышенный урон.
 Stealing also dazes the target. Reduces the recharge of Steal.,Кража также ошеломляет цель. Уменьшает время перезарядки Кражи.
 Stealing gives you initiative.,Stealing gives you initiative.
-Stealing grants you and all nearby allies vigor. You rip boons from your target and grant them to nearby allies. Grant additional boons to allies if your target has no boons.,"Кража даёт вам и всем ближайшим союзникам бодрость. Вы срываете благословения с цели и передаете их ближайшим союзникам. Даёт дополнительные благословения союзникам, если у цели нет благословений."
+Stealing grants you and all nearby allies vigor. You rip boons from your target and grant them to nearby allies. Grant additional boons to allies if your target has no boons.,"Кража даёт вам и всем ближайшим союзникам энергичность. Вы срываете благословения с цели и передаете их ближайшим союзникам. Даёт дополнительные благословения союзникам, если у цели нет благословений."
 Stealing inflicts blindness. <c=@abilitytype>Stealth Attacks</c> inflict weakness. <c=@reminder>Cannot affect the same target more than once per interval.</c>,Кража накладывает слепоту. <c=@abilitytype>Атаки из невидимости</c> накладывают слабость. <c=@reminder>Не может воздействовать на одну и ту же цель чаще одного раза за интервал.</c>
-"Stealing inflicts poison. While in the downed state, your attacks apply poison.",Кража накладывает яд. В состоянии сбитого с ног ваши атаки накладывают яд.
+"Stealing inflicts poison. While in the downed state, your attacks apply poison.",Кража накладывает отравление. В состоянии сбитого с ног ваши атаки накладывают отравление.
 Stealth Attack Barrier,Stealth Attack Barrier
 Stealth Barrier,Stealth Barrier
 Steel-Packed Powder,Steel-Packed Powder
@@ -505,13 +505,13 @@ Strike around you when entering shroud.,Strike around you when entering shroud.
 Strike damage dealt increases when above health threshold.,Strike damage dealt increases when above health threshold.
 Strike damage dealt is increased after activating a virtue.,Strike damage dealt is increased after activating a virtue.
 Strike damage dealt is increased when your endurance is not full.,"Наносимый вами прямой урон увеличивается, когда у вас неполный запас выносливости."
-Strike damage dealt is increased while you have aegis. Strike damage dealt is increased while you are above the health threshold.,"Вы наносите увеличенный прямой урон, пока у вас есть дар Эгиды. Вы наносите увеличенный прямой урон, пока ваше здоровье выше порога."
+Strike damage dealt is increased while you have aegis. Strike damage dealt is increased while you are above the health threshold.,"Вы наносите увеличенный прямой урон, пока у вас есть дар эгиды. Вы наносите увеличенный прямой урон, пока ваше здоровье выше порога."
 Strike damage dealt is increased while you have resolution.,Strike damage dealt is increased while you have resolution.
 Strike damage dealt is increased while you have vigor.,Strike damage dealt is increased while you have vigor.
 "Strike damage dealt to your marked target is increased, and strike damage taken from your marked target is reduced.","Урон от ударов по вашей отмеченной цели увеличивается, а получаемый от неё урон от ударов снижается."
 Strike damage from nearby foes is reduced. Earth weapon skills gain reduced recharge.,Прямой урон от противников поблизости уменьшен. Время перезарядки оружейных умений Земли уменьшено.
 Strike damage is increased against foes within the range threshold.,"Прямой урон, наносимый противникам в пределах порога дальности, увеличивается."
-Strike damage is increased when you have swiftness or superspeed. Swiftness is more effective.,"Ваш прямой урон увеличивается, когда у вас есть дар Быстроты или сверхскорость. Эффективность Быстроты увеличивается."
-Strike damage taken is reduced by a percentage while you have resolution.,"Вы получаете меньше прямого урона, пока у вас есть дар Решимости."
+Strike damage is increased when you have swiftness or superspeed. Swiftness is more effective.,"Ваш прямой урон увеличивается, когда у вас есть дар быстроты или сверхскорость. Эффективность быстроты увеличивается."
+Strike damage taken is reduced by a percentage while you have resolution.,"Вы получаете меньше прямого урона, пока у вас есть дар решимости."
 Strike damage taken is reduced for each point of upkeep currently in use. Shield skills remove conditions.,"Получаемый прямой урон уменьшается за каждую единицу восстановления энергии, которую вы тратите в данный момент. Умения щита снимают состояния."
 Strike damage taken is reduced while attuned to earth.,Strike damage taken is reduced while attuned to earth.

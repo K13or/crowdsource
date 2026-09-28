@@ -42,7 +42,7 @@ A melee stun.,Оглушение в ближнем бою.
 "A mutated Matthias charges and fires a beam shot directly in front of him, dealing massive damage to all targets hit.","Мутировавший Маттиас заряжается и выпускает лучевой выстрел прямо перед собой, нанося огромный урон всем поражённым целям."
 "A number of players closest to Decima are targeted with bolts of Discordant Thunder. If a bolt's area of effect strikes a conduit, it gains some charge.","Несколько игроков, ближайших к Decima, становятся целями для разрядов Discordant Thunder. Если область действия разряда попадает в проводник, он получает заряд."
 "A persistent electrical field that increases in damage over time appears under any player hit by Sparkwave. Upon reaching maximum damage, it also dazes and applies vulnerability.","Постоянное электрическое поле, урон от которого со временем увеличивается, появляется под любым игроком, пораженным Sparkwave. При достижении максимального урона оно также ошеломляет и накладывает уязвимость."
-A pistol attack that inflicts poison.,"Выстрел из пистолета, накладывающий яд."
+A pistol attack that inflicts poison.,"Выстрел из пистолета, накладывающий отравление."
 "A platform bursts into flame, dealing fire damage, stripping boons, and applying cripple and weakness.","Платформа вспыхивает пламенем, нанося урон огнём, снимая благословения и накладывая хромоту и слабость."
 A platform has been violently torn apart.,Платформа была яростно разорвана на части.
 A pool of poison left behind after purging the volatile-poison condition.,"Лужа яда, оставшаяся после очистки состояния volatile-poison."
@@ -78,7 +78,7 @@ A sweeping attack that knocks targets back.,"Широкая атака, отбр
 A sweeping tail strike that inflicts bleeding.,"Широкий удар хвостом, накладывающий кровотечение."
 "A swirling blade comprised of toxic gasses returns to Prototype Arsenite, striking everything in its path for high damage.","Вращающееся лезвие из токсичного газа возвращается к Prototype Arsenite, поражая всё на своем пути и нанося высокий урон."
 "A swirling blade comprised of toxic gasses slowly tracks its target. After a short delay or upon striking the target, the blade reverses course at high speed, striking everything in its path. Drops Boiling Aether at the location from which it reversed course.","Вращающееся лезвие из токсичного газа медленно преследует цель. После небольшой задержки или при попадании в цель лезвие меняет направление на высокой скорости, поражая всё на своем пути. Оставляет Boiling Aether в точке, где оно сменило направление."
-"A swirling vortex applies agony, weakness, and chill.","Вращающийся вихрь, накладывающий агонию, слабость и холод."
+"A swirling vortex applies agony, weakness, and chill.","Вращающийся вихрь, накладывающий агонию, слабость и заморозку."
 A targeted area attack.,Направленная атака по области.
 A teleporting attack.,Телепортирующая атака.
 A terrible cackle reverberates through your soul.,Ужасающий хохот отдается эхом в вашей душе.
@@ -154,7 +154,7 @@ Addle,Addle
 Adina channels deadly earth beams and scatters them around the arena.,Adina направляет смертоносные лучи земли и рассеивает их по арене.
 "Adina conjures stalagmites that cannot be evaded or blocked. They will detonate if anyone gets close, inflicting heavy damage and destroying the underlying pillar.","Adina призывает сталагмиты, от которых нельзя уклониться или заблокировать. Они детонируют, если кто-то подойдёт близко, нанося тяжёлый урон и разрушая колонну под ними."
 Adina hurls forth a damaging cascade of stone and applies might to herself.,Adina обрушивает разрушительный каскад камней и накладывает на себя мощь.
-Adina raises a pillar that kills nearby foes and sends out a shock wave that cripples and immobilizes those who don't jump over it.,"Adina поднимает колонну, которая убивает ближайших врагов и испускает ударную волну, накладывающую увечье и обездвиживание на тех, кто не перепрыгнул через неё."
+Adina raises a pillar that kills nearby foes and sends out a shock wave that cripples and immobilizes those who don't jump over it.,"Adina поднимает колонну, которая убивает ближайших врагов и испускает ударную волну, накладывающую увечье и неподвижность на тех, кто не перепрыгнул через неё."
 Adina sends out a shock wave that transforms the arena into a new shape.,"Adina испускает ударную волну, которая меняет форму арены."
 Adina sets off a terrain cascade that pulls anyone caught in it and destroys the furthest pillar along the cascade.,"Adina запускает каскад местности, который притягивает всех попавших в него и разрушает самую дальнюю колонну вдоль каскада."
 "Adina shoots rocks that explode upon impact, causing shrapnel pieces to blind those they hit and to deal high damage.","Adina стреляет камнями, которые взрываются при ударе, вызывая осколки, ослепляющие тех, кого они задевают, и наносящие высокий урон."
@@ -256,7 +256,7 @@ Applies additional stacks of bleeding to foes at closer range.,Накладыв�
 Applies bleeding and Vampiric Infection to foes.,Накладывает кровотечение и Vampiric Infection на врагов.
 Applies bleeding to foes who are vulnerable.,Накладывает кровотечение на уязвимых врагов.
 Applies conditions and reduces outgoing damage by 10%.,Накладывает состояния и снижает исходящий урон на 10%.
-"Applies poison and Sulfuric Acid, and grants protection and might to Ura.","Накладывает яд и Серную кислоту, а также даёт протекцию и мощь Ura."
+"Applies poison and Sulfuric Acid, and grants protection and might to Ura.","Накладывает отравление и Серную кислоту, а также даёт протекцию и мощь Ura."
 Applies vulnerability.,Накладывает уязвимость.
 Apply Buff/Condition,Наложить бафф/состояние
 Apply confusion to nearby foes. You gain resolution.,Наложите замешательство на ближайших врагов. Вы получаете решимость.
@@ -421,7 +421,7 @@ Beaming Smile,Beaming Smile
 Bear Stance,Bear Stance
 Beast. Gain regeneration.,Зверь. Получает регенерацию.
 Beastmode,Beastmode
-"Become a Reaper of Grenth, chilling and poisoning nearby foes.","Станьте Reaper of Grenth, накладывая на врагов холод и отравление."
+"Become a Reaper of Grenth, chilling and poisoning nearby foes.","Станьте Reaper of Grenth, накладывая на врагов заморозку и отравление."
 "Become a wisp of natural energy, traversing to the targeted location. When you reach the target, heal nearby allies and grant protection to your pet. Recharge is reduced if you heal another ally.","Станьте сгустком природной энергии, перемещаясь к выбранной цели. По прибытии исцелите ближайших союзников и дайте протекцию своему питомцу. Время перезарядки сокращается, если вы исцеляете другого союзника."
 Become surrounded in a magnetic shield that reflects projectiles.,Отразить снаряды при помощи магнитной энергии.
 Become the Bear,Become the Bear

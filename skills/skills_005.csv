@@ -93,7 +93,7 @@ Crashing Waves,Crashing Waves
 Create a Seed Turret at targeted location which will attack nearby foes.,"Создайте Seed Turret в целевой области, которая будет атаковать ближайших врагов."
 Create a bubble that blocks enemy missiles and grants resolution to allies.,"Создайте пузырь, который блокирует вражеские снаряды и даёт союзникам решимость."
 "Create a burst of energy, the effect of which changes based on the radiant weapon you have equipped.","Создайте всплеск энергии, эффект которого меняется в зависимости от экипированного сияющего оружия."
-Create a continually expanding field near you that applies chill and vulnerability to enemies and deals damage when it ends. Fire <c=@abilitytype>Crimson Tide</c> on each pulse at enemies within the maximum range.,"Создает постоянно расширяющееся поле возле вас, накладывающее на врагов холод и уязвимость и наносящее урон при завершении. Запускает <c=@abilitytype>Crimson Tide</c> при каждой пульсации по врагам в пределах максимальной дальности."
+Create a continually expanding field near you that applies chill and vulnerability to enemies and deals damage when it ends. Fire <c=@abilitytype>Crimson Tide</c> on each pulse at enemies within the maximum range.,"Создает постоянно расширяющееся поле возле вас, накладывающее на врагов заморозку и уязвимость и наносящее урон при завершении. Запускает <c=@abilitytype>Crimson Tide</c> при каждой пульсации по врагам в пределах максимальной дальности."
 Create a current at your location that immobilizes enemies entering it and grants superspeed to allies passing through it.,"Создать в своем местоположении течение, которое обездвиживает попавших в него противников и даёт сверхскорость союзникам, проплывшим через него."
 "Create a dark maelstrom that deals damage, inflicts vulnerability, and steals health. Reactivate this skill to inflict additional damage and conditions on all targets hit by the maelstrom.","Создайте тёмный водоворот, который наносит урон, накладывает уязвимость и крадет здоровье. Активируйте это умение повторно, чтобы нанести дополнительный урон и наложить состояния на все цели, пораженные водоворотом."
 Create a deadly holographic shockwave that launches foes upward. This attack always deals a critical hit.,"Создать смертоносную голографическую шоковую волну, которая отбрасывает противников. Эта атака всегда наносит критический урон."
@@ -120,12 +120,12 @@ Create a healing seed at targeted location which periodically gives nearby allie
 Create a magical storm at the target location that applies random conditions to foes and boons to allies. The first strike of the storm dazes foes.,"Создать магический шторм в выбранной области, который накладывает случайные состояния на противников и дары на союзников. Первый удар шторма ошеломляет противников."
 Create a magnetic field that reflects projectiles and can be released to knock back foes.,"Создать магнитное поле, которое отражает снаряды и может быть выпущено наружу, чтобы оттолкнуть противников назад."
 "Create a massive, rocky explosion that knocks back foes.","Создает мощный каменный взрыв, отбрасывающий врагов."
-Create a nova at the target that damages and chills nearby foes.,"Создает новую в цели, которая наносит урон и накладывает охлаждение на ближайших врагов."
+Create a nova at the target that damages and chills nearby foes.,"Создает новую в цели, которая наносит урон и накладывает заморозку на ближайших врагов."
 Create a rift from the Mists that blocks incoming attacks. When the rift closes it blinds foes in front of you.,"Создать разлом из Туманов, блокирующий атаки. Когда разлом закрывается, он ослепляет противников перед вами."
 Create a ring of flame that damages enemies.,"Создает кольцо огня, наносящее урон врагам."
 Create a set of med packs around you.,Вызвать выброску медпакетов в выбранной области.
 "Create a shield to block the next three attacks. If the shield is not destroyed, it explodes and damages nearby foes.","Создает щит, блокирующий следующие три атаки. Если щит не разрушен, он взрывается и наносит урон ближайшим врагам."
-Create a shielding wave in front of you that damages foes while giving protection and aegis to you and up to five allies.,"Создать перед собой защитную волну, которая наносит урон противникам и дарует Протекцию и Эгиду вам и пятерым вашим союзникам."
+Create a shielding wave in front of you that damages foes while giving protection and aegis to you and up to five allies.,"Создать перед собой защитную волну, которая наносит урон противникам и дарует протекцию и эгиду вам и пятерым вашим союзникам."
 Create a shock wave that bleeds and cripples nearby foes.,"Создать шоковую волну, которая вызывает кровотечение и неподвижность у вашей цели."
 Create a shock wave that bleeds and immobilizes your target.,"Создать шоковую волну, которая вызывает кровотечение и неподвижность у вашей цели."
 Create a storm of lightning that inflicts damage over time to affected foes.,"Создать шторм из молний, которые с течением времени наносят урон пораженным противникам."
@@ -133,12 +133,12 @@ Create a swirling wind that blocks projectiles.,"Создать воздушны
 "Create a tar pool that damages, cripples, and slows enemies.","Создает лужу смолы, которая наносит урон, накладывает увечье и замедляет врагов."
 "Create a telekinetic storm of daggers that damages foes. With each interval, the bladestorm will fire blades at nearby enemies.","Создает телекинетический шторм из кинжалов, наносящий урон врагам. С каждым интервалом шторм клинков будет выпускать лезвия в ближайших врагов."
 Create a thermal vent around your target.,Создать термальный выброс вокруг вашей цели.
-Create a tornado that knocks back foes.,"Обрести дар Устойчивости и превратиться в торнадо, который наносит урон противникам и отбрасывает их."
+Create a tornado that knocks back foes.,"Обрести дар устойчивости и превратиться в торнадо, который наносит урон противникам и отбрасывает их."
 "Create a violent eruption that damages foes.
 <c=@reminder>Damage is reduced on subsequent hits against the same foe.</c>","Создайте мощный взрыв, который наносит урон врагам.
 <c=@reminder>Урон от последующих атак по одной и той же цели будет снижен.</c>"
 "Create a vortex at your location, pulling nearby foes toward you.","Создает вихрь в вашем местоположении, притягивающий ближайших врагов к вам."
-Create a wall of energy that grants swiftness to allies who cross it and cripples foes who touch it. Allies may cross the wall more than once but receive less swiftness after the first crossing.,"Создать стену энергии, которая дарует Быстроту всем прошедшим сквозь неё союзникам и делает хромыми коснувшихся её противников. Союзники могут проходить через стену более одного раза, но получают при этом Быстроты меньше, чем при первом проходе."
+Create a wall of energy that grants swiftness to allies who cross it and cripples foes who touch it. Allies may cross the wall more than once but receive less swiftness after the first crossing.,"Создать стену энергии, которая дарует быстроту всем прошедшим сквозь неё союзникам и делает хромыми коснувшихся её противников. Союзники могут проходить через стену более одного раза, но получают при этом быстроты меньше, чем при первом проходе."
 Create a wall of flame at the target area that burns foes.,"Создать стену огня в выбранной области, которая поджигает противников."
 "Create a wall of ice that shatters when touched by enemies or when it expires, dealing heavy damage and chilling foes.","Создает стену льда, которая разбивается при касании врагами или по истечении времени, нанося тяжёлый урон и накладывая холод на врагов."
 Create an area that blocks projectiles and prevents enemies from entering or leaving.,"Создать область, которая блокирует снаряды и не даёт врагам ни войти в неё, ни покинуть её."
@@ -377,7 +377,7 @@ Deal damage and inflict conditions based on your current attunements.,Нанос
 Deal damage to nearby enemies with a temporal explosion.,Наносит урон ближайшим врагам временным взрывом.
 Deals a large amount of damage to enemies on the left.,Наносит большой урон врагам слева.
 "Deals damage and applies burning. If the Minister of Morale charges through a Flame Wall, her damage is increased.","Наносит урон и накладывает горение. Если Minister of Morale проходит сквозь Flame Wall, её урон увеличивается."
-Deals damage and applies chill and slow.,Наносит урон и накладывает охлаждение и замедление.
+Deals damage and applies chill and slow.,Наносит урон и накладывает заморозку и медлительность.
 Deals damage and applies knockback.,Наносит урон и отталкивает.
 Deals damage and applies vulnerability.,Наносит урон и накладывает уязвимость.
 Deals damage and chills enemies.,Наносит урон и охлаждает врагов.
