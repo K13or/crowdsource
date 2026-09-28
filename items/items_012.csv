@@ -134,7 +134,7 @@ This item only has value as part of a collection.","После победы на
 Этот предмет имеет ценность только как часть коллекции."
 "After dodge rolling in combat or evading an attack, your next attack is guaranteed to be a critical hit. <c=@reminder>(Cooldown: 1 Second)</c>",После уклонения перекатом в бою или уклонения от атаки ваша следующая атака гарантированно будет критическим ударом. <c=@reminder>(Перезарядка: 1 секунда)</c>
 "After dodge rolling in combat, the next incoming strike will always be a glancing blow.",После уклонения перекатом в бою следующий входящий удар всегда будет скользящим.
-"After evading an enemy's attack, place the Eye of Isgarren on them for a duration. You deal increased strike and condition duration against enemies with the Eye of Isgarren.",После уклонения от атаки врага наложите на него Око Исгаррена на некоторое время. Вы наносите повышенный прямой урон и увеличиваете длительность состояний против врагов с Оком Исгаррена.
+"After evading an enemy's attack, place the Eye of Isgarren on them for a duration. You deal increased strike and condition duration against enemies with the Eye of Isgarren.",После уклонения от атаки врага наложите на него Око Isgarren на некоторое время. Вы наносите повышенный прямой урон и увеличиваете длительность состояний против врагов с Оком Isgarren.
 "After finding a collection of his works, revisit Snargle Goldclaw in the Eye of the North.","После того как найдёте собрание его работ, снова навестите Snargle Goldclaw в Eye of the North."
 "After shadowstepping or using a deception skill, fire a blade at a nearby enemy after a short delay, applying torment and increasing your strike damage against that target.","После теневого шага или использования умения обмана через короткую задержку выпустите лезвие в ближайшего врага, накладывая боль и увеличивая ваш прямой урон по этой цели."
 "After using a healing or elixir skill, your next few attacks inflict poison. <c=@reminder>Healing skills can only trigger this effect once every interval.</c>",После использования умения лечения или эликсира ваши следующие несколько атак накладывают отравление. <c=@reminder>Лечащие умения могут вызывать этот эффект только раз в интервал.</c>
@@ -491,7 +491,7 @@ An impossibly thin ticket of shiny golden material that signifies access to the 
 Double-click to show.","Инертная куча пыли из лей-линии. Всплеск энергии из специализированной лаборатории асуров активирует её.
 Дважды щёлкните, чтобы показать."
 "An inscription on this memorial says, ""For Zor, who calmed all arguments.""","Надпись на этом мемориале гласит: «Зору, который улаживал все споры»."
-"An inscription on this memorial says, ""For Zor, who fought for Elona.""","Надпись на этом мемориале гласит: «Зору, который сражался за Элону»."
+"An inscription on this memorial says, ""For Zor, who fought for Elona.""","Надпись на этом мемориале гласит: «Зору, который сражался за Elona»."
 "An inscription on this memorial says, ""For Zor, who listened to everyone's troubles.""","Надпись на этом мемориале гласит: «Зору, который выслушивал все проблемы»."
 "An inscription on this memorial says, ""For Zor, who looked after his older sister.""","Надпись на этом мемориале гласит: «Зору, который заботился о своей старшей сестре»."
 "An inscription on this memorial says, ""For Zor, who tended garden and field.""","Надпись на этом мемориале гласит: «Зору, который ухаживал за садом и полем»."

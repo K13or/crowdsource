@@ -200,10 +200,10 @@ Double-click to gain 50 luck.","«Теперь, когда Корага не с�
 <c=@flavor>«Я усвоила, что деньги лучше не выставлять напоказ. Попробуй сама — можешь даже забыть, что несёшь их с собой». —Касмир</c>"
 "20 Slots
 <c=@flavor>""It's not actually bigger on the inside, but the compression field can give that impression! Just don't put your hand in for long."" —Taimi</c>","20 ячеек
-<c=@flavor>«На самом деле внутри не больше, но поле сжатия создаёт такое впечатление! Только не суй руку туда надолго». —Тайми</c>"
+<c=@flavor>«На самом деле внутри не больше, но поле сжатия создаёт такое впечатление! Только не суй руку туда надолго». —Taimi</c>"
 "20 Slots
 <c=@flavor>""They, uhh, don't let you take any watchknight parts back home as proof of the kill."" —Braham</c>","20 ячеек
-<c=@flavor>«Они, э-э, не дают забрать домой ни одной детали часового рыцаря в доказательство убийства». —Брейхам</c>"
+<c=@flavor>«Они, э-э, не дают забрать домой ни одной детали часового рыцаря в доказательство убийства». —Braham</c>"
 "20 Slots. If possible, consumable items will fill this pack before other empty spaces. The contents of this pack will not move when inventory is sorted.",20 ячеек. По возможности расходуемые предметы заполняют этот ранец прежде других свободных мест. Содержимое этого ранца не перемещается при сортировке инвентаря.
 "20 slots. If possible, containers and consumable items will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.",20 ячеек. По возможности контейнеры и расходуемые предметы заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
 "20 Slots. If possible, crafting materials and upgrade components will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.",20 ячеек. По возможности материалы для ремесла и компоненты улучшений заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
@@ -717,7 +717,7 @@ This item only has value as part of a collection.","<c=@flavor>«Пока еда
 "<c=@flavor>""Don't just go around touching things. I learned that the unpleasant way.""
 —Recruit Tochacatl</c>","<c=@flavor>«Не трогай всё подряд без разбора. Я усвоила это неприятным способом».
 —Recruit Tochacatl</c>"
-"<c=@flavor>""Don't make that face. Engineering isn't good or evil, it's just blueprints. Which I improved on, and you're welcome."" —Taimi</c>","<c=@flavor>«Не делай такое лицо. Инженерия не добрая и не злая, это просто чертежи. Которые я улучшила, и не за что». —Тайми</c>"
+"<c=@flavor>""Don't make that face. Engineering isn't good or evil, it's just blueprints. Which I improved on, and you're welcome."" —Taimi</c>","<c=@flavor>«Не делай такое лицо. Инженерия не добрая и не злая, это просто чертежи. Которые я улучшила, и не за что». —Taimi</c>"
 "<c=@flavor>""Don't mind the centaur blood.""
 —Corporal Lebeau</c>","<c=@flavor>«Не обращай внимания на кровь кентавра».
 —Corporal Lebeau</c>"
