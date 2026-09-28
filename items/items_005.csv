@@ -94,7 +94,7 @@ Combine this item in the Mystic Forge with:
 <c=@flavor>This device might help gain access to some secret place.</c>,<c=@flavor>Это устройство может помочь попасть в некое тайное место.</c>
 "<c=@flavor>This document details a standing, but not permanent, end to charr hostilities against the humans.</c>","<c=@flavor>В этом документе изложено длительное, но не окончательное прекращение враждебных действий чарров против людей.</c>"
 <c=@flavor>This ensemble is only missing a parrot.</c>,<c=@flavor>Этому наряду не хватает только попугая.</c>
-<c=@flavor>This feather is said to have fallen from the spirit of Owl before being destroyed by Jormag.</c>,"<c=@flavor>Говорят, это перо выпало у духа Совы прежде, чем её уничтожил Йормаг.</c>"
+<c=@flavor>This feather is said to have fallen from the spirit of Owl before being destroyed by Jormag.</c>,"<c=@flavor>Говорят, это перо выпало у духа Совы прежде, чем её уничтожил Jormag.</c>"
 <c=@flavor>This hand-carved figurine bears a crude resemblance to a norn.</c>,<c=@flavor>Эта фигурка ручной резьбы грубо напоминает норна.</c>
 <c=@flavor>This helmet is used for crafting Janthir Wilds legendary items. Additional copies can be purchased in the near future.</c>,<c=@flavor>Этот шлем используется при создании легендарных предметов «Диких земель Джантира». Дополнительные экземпляры можно будет купить в ближайшем будущем.</c>
 "<c=@flavor>This is a copy of the declaration of cease-fire between humans and charr, putting a pause on a war that has lasted for generations.</c>","<c=@flavor>Это копия декларации о прекращении огня между людьми и чаррами, приостановившей войну, что длилась поколениями.</c>"
@@ -129,7 +129,7 @@ Combine this item in the Mystic Forge with:
 <c=@flavor>This unlabeled bottle has a disturbingly murky and thick liquid in it.</c>,<c=@flavor>В этой бутылке без ярлыка плещется тревожно мутная и густая жидкость.</c>
 "<c=@flavor>This used to be a pet for a skritt. A lonely, lonely skritt.</c>","<c=@flavor>Когда-то это было питомцем скритта. Очень, очень одинокого скритта.</c>"
 "<c=@flavor>This vine that you cultivated from seed, seems to almost like you. Is it possible that it is loyal to you as a child is to a parent?</c>","<c=@flavor>Похоже, эта лоза, выращенная тобой из семени, тебя даже любит. Возможно ли, что она предана тебе, как дитя родителю?</c>"
-"<c=@flavor>This vine, while appearing to be touched by Mordremoth, has been grown from seed under the good influence of a hero of Tyria.<c>","<c=@flavor>Эта лоза, хоть и кажется тронутой Мордремотом, выращена из семени под добрым влиянием героя Тирии.<c>"
+"<c=@flavor>This vine, while appearing to be touched by Mordremoth, has been grown from seed under the good influence of a hero of Tyria.<c>","<c=@flavor>Эта лоза, хоть и кажется тронутой Mordremoth, выращена из семени под добрым влиянием героя Тирии.<c>"
 "<c=@flavor>This weapon is deactivated, but still possesses an explosive core. Do not drop.</c>","<c=@flavor>Это оружие отключено, но взрывное ядро в нём осталось. Не ронять.</c>"
 <c=@flavor>This weapon is used to craft the legendary axe Astralaria.</c>,<c=@flavor>Это оружие используется для создания легендарного топора «Astralaria».</c>
 "<c=@flavor>This weapon is used to craft the legendary axe Frostfang.
@@ -432,10 +432,10 @@ Combine this weapon in the Mystic Forge with:
 <c=@flavor>Warning: small parts. Not for children. Double-click to open.</c>,"<c=@flavor>Внимание: мелкие детали. Не для детей. Дважды щёлкните, чтобы открыть.</c>"
 "<c=@flavor>Washed ashore by countless waves, the castle endures.</c>","<c=@flavor>Омытый бесчисленными волнами, замок стоит.</c>"
 <c=@flavor>Waves of darkness emanate from this twisted ring.</c>,<c=@flavor>От этого искривлённого кольца исходят волны тьмы.</c>
-"<c=@flavor>We faced Scarlet at our door, and that day we brought the fight to her.<c>","<c=@flavor>Скарлет стояла у нашего порога, и в тот день мы сами перешли в наступление.<c>"
+"<c=@flavor>We faced Scarlet at our door, and that day we brought the fight to her.<c>","<c=@flavor>Scarlet стояла у нашего порога, и в тот день мы сами перешли в наступление.<c>"
 "<c=@flavor>We faced Scarlet at our door, and that day we brought the fight to her.<c>
 
-Cannot be used in the Mystic Forge if transmuted.","<c=@flavor>Скарлет стояла у нашего порога, и в тот день мы сами перешли в наступление.<c>
+Cannot be used in the Mystic Forge if transmuted.","<c=@flavor>Scarlet стояла у нашего порога, и в тот день мы сами перешли в наступление.<c>
 
 Нельзя использовать в Mystic Forge, если предмет трансмутирован."
 <c=@flavor>We're close to fully cracking the code behind the seers' shadowstone and their magic. Prototypes like this will be a footnote in history as we regain our technological dominance.</c>,"<c=@flavor>Мы близки к тому, чтобы полностью разгадать теневой камень провидцев и их магию. Прототипы вроде этого станут сноской в истории, когда мы вернём себе технологическое господство.</c>"
@@ -669,11 +669,11 @@ A Collective History Vol. 4,A Collective History Vol. 4
 A Collective History Vol. 5,A Collective History Vol. 5
 A compendium of knowledge of our lessers.,"Свод знаний о тех, кто ниже нас."
 "A complete, first edition copy of ""The Shining Blade Manual,"" written by Master Exemplar Bartholos in 1089 A.E","Полный экземпляр первого издания «Наставления Сияющего Клинка», написанного мастером-образцом Бартолосом в 1089 ПИ"
-"A completed memory of the Elder Dragon of Crystal and Fury, Kralkatorrik.","Завершённое воспоминание о Старшем драконе Кристалла и Ярости, Кралькаторрика."
-"A completed memory of the Elder Dragon of Fire and Destruction, Primordus.","Завершённое воспоминание о Старшем драконе Огня и Разрушения, Примордуса."
-"A completed memory of the Elder Dragon of Ice and Persuasion, Jormag.","Завершённое воспоминание о Старшем драконе Льда и Убеждения, Йормага."
-"A completed memory of the Elder Dragon of Plant and Mind, Mordremoth.","Завершённое воспоминание о Старшем драконе Растений и Разума, Мордремота."
-"A completed memory of the Elder Dragon of Shadow and Death, Zhaitan.","Завершённое воспоминание о Старшем драконе Тени и Смерти, Зайтана."
+"A completed memory of the Elder Dragon of Crystal and Fury, Kralkatorrik.","Завершённое воспоминание о Старшем драконе Кристалла и Ярости, Kralkatorrik."
+"A completed memory of the Elder Dragon of Fire and Destruction, Primordus.","Завершённое воспоминание о Старшем драконе Огня и Разрушения, Primordus."
+"A completed memory of the Elder Dragon of Ice and Persuasion, Jormag.","Завершённое воспоминание о Старшем драконе Льда и Убеждения, Jormag."
+"A completed memory of the Elder Dragon of Plant and Mind, Mordremoth.","Завершённое воспоминание о Старшем драконе Растений и Разума, Mordremoth."
+"A completed memory of the Elder Dragon of Shadow and Death, Zhaitan.","Завершённое воспоминание о Старшем драконе Тени и Смерти, Zhaitan."
 "A completed memory of the Elder Dragon of Water and Life, Soo-Won.","Завершённое воспоминание о Старшем драконе Воды и Жизни, Су-Вон."
 A component for skyscale medicine.,Компонент для лекарства скайскейлам.
 A component used to create a Spirit Quest Tonic.,Компонент для создания тоника духовного поиска.

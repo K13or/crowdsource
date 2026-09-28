@@ -62,7 +62,7 @@ Have you finished cataloging? No? Hurry up!,Ты закончил опись? Н
 Have you fixed many bridges before?,Тебе доводилось чинить мосты?
 Have you heard it...?,Ты это слышал?..
 Have you heard that Captain's order?,Ты слышал приказ капитана?
-Have you heard that icebrood attacks have increased in number and viciousness since Mordremoth's death?,"Ты слышал, что после смерти Мордремота нападения ледяного отродья участились и стали злее?"
+Have you heard that icebrood attacks have increased in number and viciousness since Mordremoth's death?,"Ты слышал, что после смерти Mordremoth нападения ледяного отродья участились и стали злее?"
 Have you seen Faren anywhere?,Ты нигде не видел Фарена?
 Have you seen my gold pocket watch?,Ты не видел мои золотые карманные часы?
 "Havens are small outposts scattered throughout the inland, built and maintained by the Lionguard, as places where weary travelers and mechants can seek shelter and provisions on their journeys.","Пристани — небольшие заставы, разбросанные по внутренним землям и содержимые Стражей Львиной Арки: там усталые путники и торговцы могут найти в дороге кров и припасы."
@@ -77,11 +77,11 @@ He didn't go into much detail—his visions were of a deceased friend. And they 
 "He died a soldier's death! He'll probably get a statue in the Grove, the lucky devil.","Он погиб смертью солдата! Ему, счастливчику, наверное, поставят статую в Роще."
 "He knows his hunting, but he's the biggest rulesmonger I've ever seen. He means well, but I've been hunting for years. He forgets some of us know what we're doing.","Он знает толк в охоте, но такого крючкотвора я ещё не встречал. Он желает добра, но я охочусь много лет. Он забывает, что некоторые из нас знают своё дело."
 "He may have been a thief, but I heard he gave his plunder to the needy. That generosity deserves Awakening!","Может, он и был вором, но, я слышал, добычу он раздавал нуждающимся. Такая щедрость достойна Пробуждения!"
-"He may have been a tyrant and a scourge, but he made life colorful. Without Joko, the whole world feels gray. Pretty stupid, right?","Может, он и был тираном и бичом, но с ним жизнь была яркой. Без Джоко весь мир кажется серым. Глупо звучит, да?"
+"He may have been a tyrant and a scourge, but he made life colorful. Without Joko, the whole world feels gray. Pretty stupid, right?","Может, он и был тираном и бичом, но с ним жизнь была яркой. Без Joko весь мир кажется серым. Глупо звучит, да?"
 He sections off his mind so that one part can work while the other rests.,"Он делит свой разум на части, чтобы одна работала, пока другая отдыхает."
 "He sounded pretty sad when he was talking about it, so maybe that's one of his big regrets.","Он говорил об этом довольно печально, так что, наверное, это одно из его главных сожалений."
 He took a small group to meet the tactician at the Stone of Hazaan. They're going to try to capture that area. It's critical to our success.,Он взял небольшой отряд на встречу с тактиком у Stone of Hazaan. Они попробуют захватить ту местность. Она решает всё.
-"He was a Sunspear once like our friend Olishar, but now he's the cruel warden of this work farm. King Joko gave him authority and power to punish our community for failing to meet our harvest quotas.","Он когда-то был Копьём Солнца, как наш друг Олишар, а теперь он жестокий надсмотрщик этой рабочей фермы. Король Джоко дал ему власть карать нашу общину за то, что мы не выполняем нормы урожая."
+"He was a Sunspear once like our friend Olishar, but now he's the cruel warden of this work farm. King Joko gave him authority and power to punish our community for failing to meet our harvest quotas.","Он когда-то был Копьём Солнца, как наш друг Олишар, а теперь он жестокий надсмотрщик этой рабочей фермы. Король Joko дал ему власть карать нашу общину за то, что мы не выполняем нормы урожая."
 "He was the first to suggest that the Captain's Council turn away from both the Krytan navy and the Orrian fleet. He was also the first asura to own a business, and the first to wear a hat. He was the first to—","Он первым предложил Captain's Council отвернуться и от крайтанского флота, и от оррианского. Он же был первым асурой, который завёл своё дело, и первым, кто надел шляпу. Он был первым, кто..."
 He would be proud of what we did here today.,"Он бы гордился тем, что мы сегодня здесь сделали."
 "He would probably say, ""It's time to be realistic, Seraphette. You don't even know his real name.""","Он бы, наверное, сказал: «Пора смотреть правде в глаза, Серафетта. Ты даже настоящего его имени не знаешь»."
@@ -138,7 +138,7 @@ Hello there. Interested in my research are you?,Здравствуй. Интер
 Hello there. You must be looking for Sven. I'm just his apprentice.,"Здравствуй. Ты, должно быть, ищешь Свена. Я всего лишь его ученик."
 "Hello! Personal space, please?","Эй! Личное пространство, будьте добры."
 "Hello, %str1%. On behalf of the Consortium, I would like to make you a special offer.","Здравствуйте, %str1%. От имени Консорциума я хотел бы сделать вам особое предложение."
-"Hello, Advocate. You got here just in time. My contacts have spotted Kellach—and a host of Zhaitan's minions are following him.","Здравствуй, защитник. Ты как раз вовремя. Мои осведомители заметили Келлаха — и по его следу идёт целая свора прислужников Зайтана."
+"Hello, Advocate. You got here just in time. My contacts have spotted Kellach—and a host of Zhaitan's minions are following him.","Здравствуй, защитник. Ты как раз вовремя. Мои осведомители заметили Келлаха — и по его следу идёт целая свора прислужников Zhaitan."
 "Hello, I am the Jade Heights Gatekeeper. I'm here to maintain a safe and pleasant environment for our residents.","Здравствуйте, я привратник Нефритовых высот. Я слежу за тем, чтобы нашим жильцам было безопасно и приятно."
 "Hello, Valiant. I hope you don't need me. I'm right in the middle of something. Talk to you later?","Здравствуй, Доблестный. Надеюсь, я тебе не нужен. Я как раз кое-чем занят. Поговорим позже?"
 "Hello, friend. You look like you've seen the world. Bear's teeth, I'm envious.","Здравствуй, друг. По тебе видно, что ты повидал мир. Клянусь зубами Медведя, завидую."
@@ -202,7 +202,7 @@ Here's the plan. There are switches surrounding the stairs. Each one controls a 
 "Here's what we can offer from raids, %str1%.","Вот что мы можем предложить за рейды, %str1%."
 "Here's what we have on record in regards to what you can exchange. Anything of interest, %str1%?","Вот что у нас записано насчёт того, что можно обменять. Есть что-нибудь любопытное, %str1%?"
 Here's what we know. There are Mordrem breachers in the area. They're feeding on the energy of this place.,Вот что нам известно. В этой местности есть проломщики мордремов. Они питаются энергией этого места.
-Here's what we know: Mordremoth and his minions completely control the area.,Вот что нам известно: Мордремот и его прислужники полностью держат эту местность.
+Here's what we know: Mordremoth and his minions completely control the area.,Вот что нам известно: Mordremoth и его прислужники полностью держат эту местность.
 "Here, I'll show you on your map. The drake broodmother is right there. Please, stop her!","Смотри, покажу на твоей карте. Праматерь дрейков вот здесь. Прошу, останови её!"
 "Here, I'll show you the way.","Вот, я покажу дорогу."
 "Here, let me help you out of my way.","Так, дай-ка я уберу тебя с дороги."
@@ -388,7 +388,7 @@ How about I put a timer spell on you. You'll have to catch it and feed it to the
 How about I put a timer spell on you. You'll have to catch the bug and feed it to the cow before the spell wears off. How difficult do you want to make it?,"Давай я наложу на тебя заклинание с таймером. Тебе надо будет поймать жука и скормить его корове, пока чары не спали. Насколько сложно тебе это сделать?"
 How about some scarab meat?,Как насчёт мяса скарабея?
 "How about the scholars—elementalists, mesmers, and necromancers?","А как насчёт учёных — элементалистов, месмеров и некромантов?"
-"How about, ""...and he did everything right forever, praise Joko.""","Например: «...и он всё делал правильно во веки веков, славься Джоко»."
+"How about, ""...and he did everything right forever, praise Joko.""","Например: «...и он всё делал правильно во веки веков, славься Joko»."
 How are things with your band going?,Как дела у твоей группы?
 How are you enjoying the Festival of the Four Winds? I'm guessing you're here to trade in your loot for some of my fantastic rewards.,"Как тебе Festival of the Four Winds? Полагаю, ты пришёл обменять добычу на какую-нибудь из моих чудесных наград."
 "How bizarre. The readings state this was water once. But good news, this fractal appears fairly stable. You should be out in no time.","Как странно. По показаниям, здесь когда-то была вода. Но есть и хорошая новость: этот фрактал выглядит довольно устойчивым. Скоро выберешься."

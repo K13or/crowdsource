@@ -26,7 +26,7 @@ Destroy %num2% malfunctioning jade mechs in New Kaineng City.,Уничтожьт
 Destroy %num2% propaganda speakers in Drizzlewood Coast.,Уничтожьте %num2% пропагандистских громкоговорителей на Drizzlewood Coast.
 Destroy %num2% propaganda speakers in the Drizzlewood Coast.,Уничтожьте %num2% пропагандистских громкоговорителей на Drizzlewood Coast.
 Destroy %num2% siege engines.,Уничтожьте %num2% осадных орудий.
-Destroy %num2% small Jormag idols during or following The Hunt Begins chapter.,Уничтожьте %num2% малых идолов Йормага во время или после главы «The Hunt Begins».
+Destroy %num2% small Jormag idols during or following The Hunt Begins chapter.,Уничтожьте %num2% малых идолов Jormag во время или после главы «The Hunt Begins».
 Destroy %num2% structures at Fort Defiance in the Drizzlewood Coast.,Уничтожьте %num2% построек в форте Непокорности на Drizzlewood Coast.
 Destroy %num2% structures at Leadfoot Village in the Drizzlewood Coast.,Уничтожьте %num2% построек в деревне Свинцовая Стопа на Drizzlewood Coast.
 Destroy %num2% structures at Lighthouse Point in Drizzlewood Coast.,Уничтожьте %num2% построек на мысе Маяк на Drizzlewood Coast.
@@ -47,7 +47,7 @@ Destroy the prototype dredge weapon.,Уничтожьте опытное ору�
 Destroy the supply caravan.,Уничтожьте караван снабжения.
 Destroy you.,Уничтожить тебя.
 Destroy!,Уничтожить!
-Destroyed %num1% of %num2% Fountains of Joko,Уничтожено %num1% из %num2% фонтанов Джоко
+Destroyed %num1% of %num2% Fountains of Joko,Уничтожено %num1% из %num2% фонтанов Joko
 Destroyed %num1%/%num2% Bridges,Уничтожено %num1%/%num2% мостов
 Destroyed %num1%/%num2% Caravan[s],Уничтожено %num1%/%num2% [караван|каравана|караванов]
 Destroyed %num1%/%num2% Corrupted Shards,Уничтожено %num1%/%num2% порченых осколков
@@ -61,7 +61,7 @@ Destroyed %num1%/%num2% Haze Heart[s],Уничтожено %num1%/%num2% [сер
 Destroyed %num1%/%num2% Illusions,Уничтожено %num1%/%num2% иллюзий
 Destroyed %num1%/%num2% Kryptis Turrets,Уничтожено %num1%/%num2% турелей криптисов
 Destroyed %num1%/%num2% Malfunctioning Jade Mechs,Уничтожено %num1%/%num2% неисправных нефритовых мехов
-Destroyed %num1%/%num2% Portals of Jormag's Minions,Уничтожено %num1%/%num2% порталов прислужников Йормага
+Destroyed %num1%/%num2% Portals of Jormag's Minions,Уничтожено %num1%/%num2% порталов прислужников Jormag
 Destroyed %num1%/%num2% Propaganda Balloons,Уничтожено %num1%/%num2% пропагандистских шаров
 Destroyed %num1%/%num2% Propaganda Speakers,Уничтожено %num1%/%num2% пропагандистских громкоговорителей
 Destroyed %num1%/%num2% Pulsating Crystal Node[s] during the Shatterer Battle,Уничтожено %num1%/%num2% [пульсирующий кристаллический узел|пульсирующих кристаллических узла|пульсирующих кристаллических узлов] в битве с Крушителем
@@ -427,12 +427,12 @@ Dungeon Transportation,Переброска в подземелья
 Duration:,Длительность:
 "During Lunar New Year, Provides 25%% Magic Find",Во время Лунного Нового года даёт +25%% к поиску магии
 "During the ""Stop loyalists from stealing supplies"" event, prevent any supplies from being stolen by Eparch's loyalists.",В событии «Не дайте лоялистам украсть припасы» не позвольте лоялистам Эпарха украсть ни одного припаса.
-"During the Dragonstorm encounter, attack Jormag %num2% time[s] while they are exposed.","В столкновении «Драконья Буря» атакуйте Йормага %num2% [раз|раза|раз], пока он уязвлён."
-"During the Dragonstorm encounter, attack Primordus %num2% time[s] while he is exposed.","В столкновении «Драконья Буря» атакуйте Примордуса %num2% [раз|раза|раз], пока он уязвлён."
-"During the Dragonstorm encounter, dodge Primordus's Apocalypse Rain attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки Примордуса «Дождь апокалипсиса» %num2% [раз|раза|раз].
-"During the Dragonstorm encounter, dodge the Breath of Jormag attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки «Дыхание Йормага» %num2% [раз|раза|раз].
-"During the Dragonstorm encounter, prevent Jormag's champion from using his elite skill %num2% time[s].",В столкновении «Драконья Буря» не дайте чемпиону Йормага применить элитное умение %num2% [раз|раза|раз].
-"During the Dragonstorm encounter, prevent Primordus's champion from using his elite skill %num2% time[s].",В столкновении «Драконья Буря» не дайте чемпиону Примордуса применить элитное умение %num2% [раз|раза|раз].
+"During the Dragonstorm encounter, attack Jormag %num2% time[s] while they are exposed.","В столкновении «Драконья Буря» атакуйте Jormag %num2% [раз|раза|раз], пока он уязвлён."
+"During the Dragonstorm encounter, attack Primordus %num2% time[s] while he is exposed.","В столкновении «Драконья Буря» атакуйте Primordus %num2% [раз|раза|раз], пока он уязвлён."
+"During the Dragonstorm encounter, dodge Primordus's Apocalypse Rain attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки Primordus «Дождь апокалипсиса» %num2% [раз|раза|раз].
+"During the Dragonstorm encounter, dodge the Breath of Jormag attack %num2% time[s].",В столкновении «Драконья Буря» уклонитесь от атаки «Дыхание Jormag» %num2% [раз|раза|раз].
+"During the Dragonstorm encounter, prevent Jormag's champion from using his elite skill %num2% time[s].",В столкновении «Драконья Буря» не дайте чемпиону Jormag применить элитное умение %num2% [раз|раза|раз].
+"During the Dragonstorm encounter, prevent Primordus's champion from using his elite skill %num2% time[s].",В столкновении «Драконья Буря» не дайте чемпиону Primordus применить элитное умение %num2% [раз|раза|раз].
 Durmand Priory Explorer Bink,Исследователь Durmand Priory Бинк
 "Dust to dust, sand to sand.","Прах к праху, песок к песку."
 Dusty Otterly,Дасти Оттерли
@@ -471,7 +471,7 @@ Earned %num1%/%num2% Progress Points,Заработано %num1%/%num2% очко
 Earned %num1%/%num2% Proof[s] of Glory,Получено %num1%/%num2% [доказательство славы|доказательства славы|доказательств славы]
 Earned %num1%/100 Shadow Seals,Получено %num1%/100 теневых печатей
 Earned Bronze or Better on %num1%/5 Adventures,Бронза или лучше в %num1%/5 приключениях
-Earned Gold Participation in %num1%/%num2% Idol of Jormag Events,Золотое участие в %num1%/%num2% событиях «Идол Йормага»
+Earned Gold Participation in %num1%/%num2% Idol of Jormag Events,Золотое участие в %num1%/%num2% событиях «Идол Jormag»
 Earned Gold Participation in %num1%/%num2% Kodan Cairn Cleansing Events,Золотое участие в %num1%/%num2% событиях очищения коданских пирамид
 Earned Gold Participation in %num1%/%num2% Kodan Forestry Events,Золотое участие в %num1%/%num2% лесных событиях коданов
 Earned Gold Participation in %num1%/%num2% Kodan Ice Fishing Events,Золотое участие в %num1%/%num2% событиях подлёдной рыбалки коданов

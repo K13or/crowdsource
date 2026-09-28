@@ -4,8 +4,8 @@ Buuran,Buuran
 Buzzie,Buzzie
 Bwilula,Бвилула
 "By Ash, Blood, and Iron!","Пеплом, Кровью и Железом!"
-By Balthazar's hounds! How are you?,Клянусь псами Бальтазара! Как ты?
-"By Jormag's tooth, what a monstrosity! Good thing you came along, or we'd all be dead.","Зубом Йормага, вот же чудовище! Хорошо, что ты подоспел, иначе мы все были бы мертвы."
+By Balthazar's hounds! How are you?,Клянусь псами Balthazar! Как ты?
+"By Jormag's tooth, what a monstrosity! Good thing you came along, or we'd all be dead.","Зубом Jormag, вот же чудовище! Хорошо, что ты подоспел, иначе мы все были бы мертвы."
 "By Lyssa's mirrored mask, this place is grueling.","Зеркальной маской Лиссы, ну и изматывающее же тут место."
 "By Melandru's will, I will rend you from this world, charr!","Волей Меландру я вырву тебя из этого мира, чарр!"
 "By Melandru, we'll do this face-to-face!","Клянусь Меландру, мы решим это лицом к лицу!"
@@ -138,8 +138,8 @@ Camp Tier 1: Brandstorms near the Olmakhan camp have been successfully disrupted
 "Camp Tier 1: The Olmakhan have built a small camp. Local Brandstorms still surround them, limiting their effectiveness.","Лагерь, уровень 1: олмаханы разбили небольшой лагерь. Вокруг всё ещё бушуют местные Клеймёные бури, снижая их эффективность."
 Camp Tier 2: The Crystal Bloom has collected enough Eternal Embers to arm your allies. Camp upgrades are now underway.,"Лагерь, уровень 2: Crystal Bloom собрал достаточно Eternal Embers, чтобы вооружить ваших союзников. Улучшение лагеря началось."
 Camp Tier 2: The Crystal Bloom is building a stockpile of Eternal Embers to aid the assault on Kralkatorrik.,"Лагерь, уровень 2: Crystal Bloom копит запас Eternal Embers для штурма Кралькаторрика."
-Camp Tier 2: The Mist Wardens are building a stockpile of Melandru's Tears to aid the assault on Kralkatorrik.,"Лагерь, уровень 2: Mist Wardens копят запас Melandru's Tears для штурма Кралькаторрика."
-Camp Tier 2: The Olmakhan are building a stockpile of Soul Binders to aid in the assault on Kralkatorrik.,"Лагерь, уровень 2: олмаханы копят запас Душесвязующих для штурма Кралькаторрика."
+Camp Tier 2: The Mist Wardens are building a stockpile of Melandru's Tears to aid the assault on Kralkatorrik.,"Лагерь, уровень 2: Mist Wardens копят запас Melandru's Tears для штурма Kralkatorrik."
+Camp Tier 2: The Olmakhan are building a stockpile of Soul Binders to aid in the assault on Kralkatorrik.,"Лагерь, уровень 2: олмаханы копят запас Душесвязующих для штурма Kralkatorrik."
 Camp Tier 2: The Olmakhan have collected enough Soul Binders to arm your allies. Camp upgrades are now underway.,"Лагерь, уровень 2: олмаханы собрали достаточно Душесвязующих, чтобы вооружить ваших союзников. Улучшение лагеря началось."
 Camp Tier 3: Ley reflectors have been successfully tested and can now be used to disrupt the central Brandstorm. Camp upgrades are now underway.,"Лагерь, уровень 3: лей-отражатели успешно испытаны, и теперь их можно применить, чтобы разогнать центральную Клеймёную бурю. Улучшение лагеря началось."
 Camp Tier 3: New ley reflectors have been constructed but require testing before they can be used in the field.,"Лагерь, уровень 3: новые лей-отражатели построены, но перед применением в поле их нужно испытать."
@@ -147,9 +147,9 @@ Camp Tier 3: The Crystal Bloom has completed testing the Eternal Embers and dist
 Camp Tier 3: The Crystal Bloom has weaponized their Eternal Embers. Field testing is now required before they can be distributed.,"Лагерь, уровень 3: Crystal Bloom превратил Eternal Embers в оружие. Перед раздачей нужны полевые испытания."
 "Camp Tier 3: The Olmakhan have completed testing the Soul Binders, and distribution to allies can begin. Camp upgrades are now underway.","Лагерь, уровень 3: олмаханы завершили испытания Душесвязующих, можно начинать раздачу союзникам. Улучшение лагеря началось."
 Camp Tier 3: The Olmakhan have weaponized their Soul Binders. Field testing is now required before they can be distributed.,"Лагерь, уровень 3: олмаханы превратили Душесвязующие в оружие. Перед раздачей нужны полевые испытания."
-Camp Tier 4: The Crystal Bloom is prepared to attack Kralkatorrik. Your allies in the Underworld and Melandru's Lost Domain must reach tier 4 before the attack can begin.,"Лагерь, уровень 4: Crystal Bloom готов атаковать Кралькаторрика. Прежде чем начать атаку, ваши союзники в Подземном мире и Утраченных Владениях Меландру должны достичь 4-го уровня."
-Camp Tier 4: The Mist Wardens are prepared to attack Kralkatorrik. Your allies in the Burning Forest and the Underworld must reach tier 4 before the attack can begin.,"Лагерь, уровень 4: Mist Wardens готовы атаковать Кралькаторрика. Прежде чем начать атаку, ваши союзники в Burning Forest и Подземном мире должны достичь 4-го уровня."
-Camp Tier 4: The Olmakhan are prepared to attack Kralkatorrik. Your allies in the Burning Forest and Melandru's Lost Domain must reach tier 4 before the attack can begin.,"Лагерь, уровень 4: олмаханы готовы атаковать Кралькаторрика. Прежде чем начать атаку, ваши союзники в Burning Forest и Утраченных Владениях Меландру должны достичь 4-го уровня."
+Camp Tier 4: The Crystal Bloom is prepared to attack Kralkatorrik. Your allies in the Underworld and Melandru's Lost Domain must reach tier 4 before the attack can begin.,"Лагерь, уровень 4: Crystal Bloom готов атаковать Kralkatorrik. Прежде чем начать атаку, ваши союзники в Подземном мире и Утраченных Владениях Меландру должны достичь 4-го уровня."
+Camp Tier 4: The Mist Wardens are prepared to attack Kralkatorrik. Your allies in the Burning Forest and the Underworld must reach tier 4 before the attack can begin.,"Лагерь, уровень 4: Mist Wardens готовы атаковать Kralkatorrik. Прежде чем начать атаку, ваши союзники в Burning Forest и Подземном мире должны достичь 4-го уровня."
+Camp Tier 4: The Olmakhan are prepared to attack Kralkatorrik. Your allies in the Burning Forest and Melandru's Lost Domain must reach tier 4 before the attack can begin.,"Лагерь, уровень 4: олмаханы готовы атаковать Kralkatorrik. Прежде чем начать атаку, ваши союзники в Burning Forest и Утраченных Владениях Меландру должны достичь 4-го уровня."
 Camp overrun in: %str1%,Лагерь будет смят через: %str1%
 "Camp should be just up this way. Final push! Come on, everyone!","Лагерь должен быть прямо по этой дороге. Последний рывок! Давайте, все вперёд!"
 Camp upgrade time remaining: %str1%,До окончания улучшения лагеря: %str1%
@@ -355,7 +355,7 @@ Carrying a torch lit at the Trials of the Tengu. Extinguished when mounting.,"Н
 Carsonn,Карсонн
 Carved Spearhead,Резной наконечник копья
 Carved Wall,Резная стена
-"Carved into the shrine are the words: ""The battle maiden Jora slew her brother, Svanir, to save us from Jormag's corruption. Gaze upon her and know honor and sacrifice.""","На святилище высечены слова: «Дева битвы Йора убила своего брата Сванира, чтобы спасти нас от порчи Йормага. Взгляни на неё и познай честь и жертву»."
+"Carved into the shrine are the words: ""The battle maiden Jora slew her brother, Svanir, to save us from Jormag's corruption. Gaze upon her and know honor and sacrifice.""","На святилище высечены слова: «Дева битвы Йора убила своего брата Сванира, чтобы спасти нас от порчи Jormag. Взгляни на неё и познай честь и жертву»."
 Cascade Bridge has been destroyed!,Cascade Bridge разрушен!
 Cascades • AoEs • Leaps,Каскады • Урон по области • Прыжки
 Cascades • AoEs • Protected,Каскады • Урон по области • Защищён

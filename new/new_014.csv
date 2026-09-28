@@ -144,7 +144,7 @@ Gather information on the pending attack from the Flame Legion recruiter.,Соб
 Gather information on your father.,Соберите сведения о своём отце.
 Gather some wood from a nearby tree.,Соберите немного древесины с ближайшего дерева.
 Gather the necessary components to help your allies.,"Соберите необходимые компоненты, чтобы помочь союзникам."
-Gathered %num1%/%num2% Decorations for Aurene's Nest,Собрано %num1%/%num2% украшений для гнезда Аурены
+Gathered %num1%/%num2% Decorations for Aurene's Nest,Собрано %num1%/%num2% украшений для гнезда Aurene
 Gathered %num1%/%num2% Emotional Attunements While Fighting Karax or Eparch,Собрано %num1%/%num2% эмоциональных настроек в бою с Караксом или Эпархом
 Gathered %num1%/%num2% Eternal Ice Shard[s],Собрано %num1%/%num2% [осколок вечного льда|осколка вечного льда|осколков вечного льда]
 Gathered %num1%/%num2% Fire Orchids,Собрано %num1%/%num2% огненных орхидей
@@ -338,7 +338,7 @@ Grant boons to nearby allies when you enter Harbinger Shroud and when you use Da
 "Grant might and fury to nearby allies when you disable an enemy. <br><c=@reminder>Disables include stun, taunt, daze, knockback, pull, knockdown, sink, float, fear, and launch.</c>","Даёт мощь и ярость союзникам поблизости, когда вы выводите врага из строя. <br><c=@reminder>К выводу из строя относятся оглушение, провокация, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, страх и отбрасывание.</c>"
 Grant might to allies at target location.,Даёт мощь союзникам в целевой точке.
 Granted a Gift,Подарок вручён
-"Granted swiftness by Balthazar, god of war.","Быстрота дарована Бальтазаром, богом войны."
+"Granted swiftness by Balthazar, god of war.","Быстрота дарована Balthazar, богом войны."
 "Granted swiftness by Dwayna, goddess of life.","Быстрота дарована Двайной, богиней жизни."
 "Granted swiftness by Grenth, god of death.","Быстрота дарована Гренсом, богом смерти."
 "Granted swiftness by Kormir, goddess of truth.","Быстрота дарована Кормир, богиней истины."

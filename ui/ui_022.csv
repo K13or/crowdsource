@@ -9,11 +9,11 @@ english,translate
 <c=@task>This feature will unlock at level %num1%.</c>,<c=@task>Эта функция станет доступна на %num1% уровне.</c>
 <c=@warning>Available in:</c>,<c=@warning>Доступно в:</c>
 <c=@warning>Claiming %str1% will cause you to give up your claim on %str2%.</c>,"<c=@warning>Забрав %str1%, вы откажетесь от %str2%.</c>"
-<c=@warning>The invasion is not active in this overflow. Keep vigilant for Scarlet's next attack.</c>,<c=@warning>Вторжение не активно в этом переполнении. Будьте бдительны к следующей атаке Скарлет.</c>
+<c=@warning>The invasion is not active in this overflow. Keep vigilant for Scarlet's next attack.</c>,<c=@warning>Вторжение не активно в этом переполнении. Будьте бдительны к следующей атаке Scarlet.</c>
 "<c=flavor>""For the millionth time, there are no culinary applications for bloodstone dust. None.""<br>—Chef Robertus</c>","<c=flavor>«Миллион раз повторяю, у пыли кровавого камня нет никакого кулинарного применения. Никакого!»<br>—Шеф Робертус</c>"
 "<center>%str1%: ""And Braham's bow.""</center>",<center>%str1%: «И лук Брейхама».</center>
-<center>Aurene: But you must use it.</center>,<center>Аурене: Но ты должен использовать его.</center>
-<center>Aurene: No more questions. Go!</center>,<center>Аурене: Больше никаких вопросов. Иди!</center>
+<center>Aurene: But you must use it.</center>,<center>Aurene: Но ты должен использовать его.</center>
+<center>Aurene: No more questions. Go!</center>,<center>Aurene: Больше никаких вопросов. Иди!</center>
 <center>General Zantharon: Speak your last words.</center>,<center>General Zantharon: Скажи свои последние слова.</center>
 "<center>Rytlock: ""There's Ryland!""</center>",<center>Ритлок: «Там Райланд!»</center>
 <center>Soo-Won: Consider what I've said...</center>,"<center>Су-Вон: Подумай над тем, что я сказал...</center>"

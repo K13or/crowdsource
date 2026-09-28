@@ -16,7 +16,7 @@ You think you're clever.,"Ты думаешь, что ты умный."
 You think you're so tough.,"Да ты думаешь, что такой крутой."
 You traitors shall be crushed under heel!,"Вы, предатели, будете сокрушены!"
 You truly believe you've misplaced your phalanges?,"Ты правда считаешь, что потерял свои фаланги?"
-You trust the word of the deceiver Joko? Fools. Dead fools.,Вы верите словам лжеца Джоко? Глупцы. Мёртвые глупцы.
+You trust the word of the deceiver Joko? Fools. Dead fools.,Вы верите словам лжеца Joko? Глупцы. Мёртвые глупцы.
 "You two had concerns about things closer to home, didn't you?","У вас обоих были опасения по поводу более насущных проблем, не так ли?"
 You two! Those idiot grawl are congregating around some old statue in the woods.,"Эй, вы двое! Эти идиоты-граулы собрались вокруг какой-то старой статуи в лесу."
 You twos better— (hiccup),Вам обоим лучше... (икает)
@@ -50,7 +50,7 @@ You will not abandon me!,Ты меня не бросишь!
 You will not escape.,Тебе не уйти.
 You will not survive the next encounter.,Вы не переживёте следующую схватку.
 You will not!,Не посмеешь!
-"You will now earn progress toward completing a memory of Kralkatorrik when you complete events in the Crystal Desert region and Thunderhead Peaks, and when you defeat the Shatterer.","Теперь ты будешь получать прогресс в завершении воспоминания о Кралькаторрике, выполняя события в регионе Crystal Desert и Thunderhead Peaks, а также побеждая Разрушителя."
+"You will now earn progress toward completing a memory of Kralkatorrik when you complete events in the Crystal Desert region and Thunderhead Peaks, and when you defeat the Shatterer.","Теперь ты будешь получать прогресс в завершении воспоминания о Kralkatorrik, выполняя события в регионе Crystal Desert и Thunderhead Peaks, а также побеждая Разрушителя."
 You will regret coming here.,"Ты пожалеешь, что пришёл сюда."
 You will regret crossing me.,"Ты пожалеешь, что встал у меня на пути."
 You will regret speaking to the mistress that way.,Тебе не стоит так разговаривать с хозяйкой.
@@ -291,7 +291,7 @@ You've come far.,Вы прошли долгий путь.
 You've defeated the Mouth of Mordremoth!,Вы победили Уста Мордремота!
 You've demonstrated allegiance to your king by helping track these dogs. Solidify your loyalty—spearhead the assault.,"Вы доказали свою верность королю, помогая выслеживать этих псов. Укрепите свою преданность — возглавьте атаку."
 "You've don't a lot to help us, %str1%. Don't fear the destroyers now. We can stop them now.","Ты многое сделал, чтобы помочь нам, %str1%. Не бойся разрушителей. Теперь мы можем их остановить."
-"You've done a lot to help us defeat the minions of Zhaitan. Thank you for your help, and keep up the fight!","Вы очень помогли нам в борьбе с приспешниками Зайтана. Спасибо за вашу помощь, и продолжайте сражаться!"
+"You've done a lot to help us defeat the minions of Zhaitan. Thank you for your help, and keep up the fight!","Вы очень помогли нам в борьбе с приспешниками Zhaitan. Спасибо за вашу помощь, и продолжайте сражаться!"
 "You've done admirable work to crack the Bramble, friend. Now we just need to find a way do some tests of your herbicide.","Ты проделал замечательную работу по изучению колючего кустарника, друг. Теперь нам нужно найти способ провести испытания твоего гербицида."
 You've done good work getting this cooked meat to me. My tribe will not go hungry this day!,"Спасибо, что доставили мне это приготовленное мясо. Мой клан сегодня не останется голодным!"
 "You've done good work here today, Commander. Spared a species from the abyss. Though it's not as flashy as slaying an Elder Dragon or a god, this is still a substantial achievement.","Вы проделали хорошую работу сегодня, командующий. Спасли целый вид от гибели. Хотя это и не так эффектно, как убийство Старшего дракона или бога, это всё равно значительное достижение."
@@ -320,7 +320,7 @@ You've lost the quarry!,Вы потеряли цель!
 "You've lost, Quecuan. The village is destroyed. You need to get your people out.","Ты проиграл, Quechan. Деревня уничтожена. Тебе нужно увести своих людей."
 You've made a mistake coming here.,"Вы ошиблись, придя сюда."
 You've made a poor choice!,Ты сделал плохой выбор!
-"You've made it, Champion of Aurene. I'm grateful to have met you at last.","Ты это сделал, чемпион Аурене. Я рад, что наконец-то встретил тебя."
+"You've made it, Champion of Aurene. I'm grateful to have met you at last.","Ты это сделал, чемпион Aurene. Я рад, что наконец-то встретил тебя."
 You've made no observation to record in this star record.,В этом журнале наблюдений нет никаких записей.
 You've met my associate?,Вы уже встречали моего коллегу?
 You've mistaken me for someone else. Good day.,Вы ошиблись. Всего доброго.
@@ -371,8 +371,8 @@ Your adventurous streak is showing.,У вас явно проснулся дух
 "Your aid has raised morale, increasing your attributes!",Ваша помощь подняла боевой дух и увеличила ваши характеристики!
 Your allies are marshaling forces to assault the Awakened Inquest facility.,Ваши союзники собирают войска для штурма базы пробудившихся членов Inquest.
 Your allies are ready to push into the island and establish their camps.,Ваши союзники готовы войти на остров и обустроить там свои лагеря.
-Your allies are strong enough to take down the central Brandstorm surrounding Kralkatorrik.,"Ваши союзники достаточно сильны, чтобы уничтожить центральный Брансторм, окружающий Кралькаторрика."
-Your allies are trying to clear the central Brandstorm protecting Kralkatorrik.,"Ваши союзники пытаются уничтожить центральный Брансторм, защищающий Кралькаторрика."
+Your allies are strong enough to take down the central Brandstorm surrounding Kralkatorrik.,"Ваши союзники достаточно сильны, чтобы уничтожить центральный Брансторм, окружающий Kralkatorrik."
+Your allies are trying to clear the central Brandstorm protecting Kralkatorrik.,"Ваши союзники пытаются уничтожить центральный Брансторм, защищающий Kralkatorrik."
 Your angle of attack was all wrong.,Твоя тактика была совершенно неверной.
 "Your answers have been noted. ""Chaos"" module learned.","Ваши ответы учтены. Модуль «Хаос» изучен."
 "Your answers have been noted. ""Semihelpful lab technician"" module learned.",Ваши ответы учтены. Модуль «Полуполезный лаборант» активирован.
@@ -423,7 +423,7 @@ Your foolish conquest will end when your lives do!,Ваша глупая зав�
 Your friend doesn't seem real talkative.,"Похоже, твой друг не очень разговорчив."
 Your friend there doesn't seem to like visitors.,"Похоже, твой друг не очень-то рад гостям."
 Your gratitude is...touching.,Ваша благодарность... трогает.
-"Your heart is kind and your will is strong. So long as Zhaitan lives, the undead will continue to come. But I believe that with fighters like you, we can stem the tide.","У тебя доброе сердце и сильная воля. Пока Зайтан жив, нежить будет продолжать наступать. Но я верю, что с такими бойцами, как ты, мы сможем остановить эту волну."
+"Your heart is kind and your will is strong. So long as Zhaitan lives, the undead will continue to come. But I believe that with fighters like you, we can stem the tide.","У тебя доброе сердце и сильная воля. Пока Zhaitan жив, нежить будет продолжать наступать. Но я верю, что с такими бойцами, как ты, мы сможем остановить эту волну."
 "Your help is required, strange one.","Твоя помощь нужна, чужак."
 "Your idiocy is a pleasant surprise. True Kryptis, bring me their heads! Fingers. Ears. Tongues. Eyeballs.","Твоя глупость – это приятный сюрприз. Верный Криптис, принеси мне их головы! Пальцы. Уши. Языки. Глаза."
 "Your ignorance will get us killed, Tzark. The Ghost Eater represents a threat we've never seen before.","Твоё невежество погубит нас, Царк. Ghost Eater — угроза, с которой мы ещё не сталкивались."

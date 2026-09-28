@@ -246,7 +246,7 @@ This item only has value as part of a collection.","<c=@flavor>«Простак 
 —Brother Vince</c>","<c=@flavor>«Эти кружки делают на совесть. Они не разобьются о голову бандита и остановят кентаврскую стрелу, не пролив ни капли эля».
 —Брат Винс</c>"
 "<c=@flavor>""These still have a little residual arcane energy. We are going to need every little magical scrap and crumb to defeat Zhaitan.""
-—Scholar Blix</c>","<c=@flavor>«В них ещё осталась остаточная чародейская энергия. Нам понадобится каждый магический клочок и крошка, чтобы одолеть Зайтана».
+—Scholar Blix</c>","<c=@flavor>«В них ещё осталась остаточная чародейская энергия. Нам понадобится каждый магический клочок и крошка, чтобы одолеть Zhaitan».
 —Scholar Blix</c>"
 "<c=@flavor>""These summoning stones have led to great breakthroughs in some of my more boot-related research.""
 —Scholar Inka</c>","<c=@flavor>«Эти камни призыва привели к великим прорывам в кое-каких моих исследованиях, связанных с обувью».
@@ -375,7 +375,7 @@ This item only has value as part of a collection.","<c=@flavor>«Простак 
 —Guardian Infinite Mind</c>","<c=@flavor>«Это всего лишь инструмент большей машины».
 —Страж Бесконечный Разум</c>"
 "<c=@flavor>""This is it. Every step you take past here is straight into Zhaitan.""
-—Lightbringer Ives</c>","<c=@flavor>«Вот и всё. Каждый шаг отсюда — прямиком в Зайтана».
+—Lightbringer Ives</c>","<c=@flavor>«Вот и всё. Каждый шаг отсюда — прямиком в Zhaitan».
 —Светоносец Айвз</c>"
 "<c=@flavor>""This is mostly fireproof. Calculations indicate that you'll be fine if you aim the flamethrower away from you.""
 —Jezza</c>","<c=@flavor>«Это в основном огнеупорно. Расчёты показывают, что с тобой всё будет хорошо, если направлять огнемёт в сторону от себя».
@@ -833,7 +833,7 @@ This item only has value as part of a collection.","<c=@flavor>«Использ�
 — Priory Field Guide to Munitions</c>","<c=@flavor>«Обычно многословный в любых темах, Приорат становится краток, когда речь о правильном применении боеприпасов. Направь на врага. Отойди».
 —Priory Field Guide to Munitions</c>"
 "<c=@flavor>""While some may pray to Balthazar, this reminds me that a soldier's peace is inevitable.""
-—Sergeant Yarbrough</c>","<c=@flavor>«Пусть кто-то и молится Бальтазару, это напоминает мне, что покой солдата неизбежен».
+—Sergeant Yarbrough</c>","<c=@flavor>«Пусть кто-то и молится Balthazar, это напоминает мне, что покой солдата неизбежен».
 —Sergeant Yarbrough</c>"
 "<c=@flavor>""Who ever planned this operation should have read this first—who destroys a perfectly good gate?""
 —Agent Siobhan</c>","<c=@flavor>«Тому, кто спланировал эту операцию, стоило бы сперва это прочесть — кто вообще ломает исправные ворота?»
@@ -1057,7 +1057,7 @@ This item only has value as part of a collection.","<c=@flavor>«Да, да, э�
 —Warden Llew</c>","<c=@flavor>«Твоя сила и храбрость вдохновляют нас всех».
 —Страж Ллью</c>"
 "<c=@flavor>""Zhaitan may be big, but every little cut adds up.""
-—Warmaster Chan</c>","<c=@flavor>«Зайтан может быть велик, но каждый маленький порез складывается в итог».
+—Warmaster Chan</c>","<c=@flavor>«Zhaitan может быть велик, но каждый маленький порез складывается в итог».
 —Военачальник Чан</c>"
 <c=@flavor>A barrel of 100 bags of supplies from Scarlet's Alliance troops.<c>,<c=@flavor>Бочка со 100 мешками припасов от войск Scarlet's Alliance.<c>
 "<c=@flavor>A beautiful red flower, treated to last forever.</c>","<c=@flavor>Прекрасный красный цветок, обработанный так, чтобы сохраниться навечно.</c>"
@@ -1089,7 +1089,7 @@ This item only has value as part of a collection.","<c=@flavor>«Да, да, э�
 Found in Lion's Arch.","<c=@flavor>Запретный город. Запретная любовь.</c>
 Найдено в Lion's Arch."
 <c=@flavor>A fossilized piece of a gargoyle.</c>,<c=@flavor>Окаменелый обломок горгульи.</c>
-<c=@flavor>A fragment of Aurene's Brand set in a pendant.</c>,<c=@flavor>Осколок Клейма Аурены в подвеске.</c>
+<c=@flavor>A fragment of Aurene's Brand set in a pendant.</c>,<c=@flavor>Осколок Клейма Aurene в подвеске.</c>
 <c=@flavor>A full heart offers refuge.</c>,<c=@flavor>Полное сердце дарует приют.</c>
 <c=@flavor>A gift from a grateful tree.<c>,<c=@flavor>Дар от благодарного дерева.<c>
 <c=@flavor>A gift given in gratitude from the leaders of Tyria.</c>,"<c=@flavor>Дар, преподнесённый в благодарность вождями Тирии.</c>"
