@@ -191,7 +191,7 @@ For a short time after using this skill, you continue to drop additional bombs a
 "<c=@flavor>An attached note reads, ""Until the last enemy of Kryta falls
 Double-click to open.","<c=@flavor>Прилагаемая записка гласит: «Пока не падет последний враг Крайта
 Дважды щёлкните, чтобы открыть»."
-"<c=@flavor>Dieser Rücken-Gegenstand wird zur Herstellung legendärer ""Janthir Wilds""-Objekte gebraucht. Überreste können bei Händlern für Ansehen-Herzen an der Tiefland-Küste erworben werden.</c>","<c=@flavor>Этот предмет для спины необходим для создания легендарных предметов «Дикие земли Джанфира». Остатки можно приобрести у торговцев за сердца репутации на побережье Низменности.</c>"
+"<c=@flavor>Dieser Rücken-Gegenstand wird zur Herstellung legendärer ""Janthir Wilds""-Objekte gebraucht. Überreste können bei Händlern für Ansehen-Herzen an der Tiefland-Küste erworben werden.</c>",<c=@flavor>Этот предмет для спины необходим для создания легендарных предметов «Дикие земли Джанфира». Остатки можно приобрести у торговцев за сердца репутации на побережье Низменности.</c>
 ?Bum!,?Бездельничать!
 ?Croac!,?Кроак!
 ?Enciendela!,? Энсиендела!
@@ -228,7 +228,7 @@ This item only has value as part of a collection.","Потёртый сереб�
 Trade to alliance field quartermasters in Castora for a pair of Extremis Boots.","Иногда выпадает за головоломки-прыгалки в Starlit Weald.
 Обменяйте у полевых интендантов альянса в Касторе на сапоги «Экстремис»."
 "Acquired occasionally from jumping puzzles in Starlit Weald.,
-Trade to alliance field quartermasters in Castora for a pair of Extremis Boots.","Добывается иногда из прыжковых головоломок в Звёздной Роще.,
+Trade to alliance field quartermasters in Castora for a pair of Extremis Boots.","Добывается иногда из прыжковых головоломок в Starlit Weald.,
 Обменяйте у полевых интендантов союза в Касторе на пару сапог «Экстремис»"
 "Acquired occasionally from mystery mirrors in Starlit Weald.,
 Trade to alliance field quartermasters in Castora for an Extremis Mantle.","Изредка добывается из загадочных зеркал в Starlit Weald.,
