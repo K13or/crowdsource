@@ -56,10 +56,10 @@ Targets destroyed: %num1%/30,Уничтожено целей: %num1%/30
 Targets destroyed: %num1%/50,Уничтожено целей: %num1%/50
 Targets per Barrier,Целей за барьер
 Targets per Fireball,Целей за огненный шар
-Tariq Ayim,Tariq Ayim
-Tarir has been saved from Mordrem! The Exalted have revealed grand Exalted chests beneath the city.,Тарир спасён от Мордрем! Возвышенные открыли великие сундуки Возвышенных под городом.
-"Tarir perseveres, but for how long?","Тарир держится, но надолго ли?"
-Tarir's sanctum will be breached in: %str1%,Святилище Тарира будет взломано через: %str1%
+Tariq Ayim,Тарик Айим
+Tarir has been saved from Mordrem! The Exalted have revealed grand Exalted chests beneath the city.,Tarir спасён от Мордрем! Возвышенные открыли великие сундуки Возвышенных под городом.
+"Tarir perseveres, but for how long?","Tarir держится, но надолго ли?"
+Tarir's sanctum will be breached in: %str1%,Святилище Tarir будет взломано через: %str1%
 Tarir<br>The Forgotten City,Тарир<br>Забытый город
 Tark<br>Hall,Тарк<br>Зал
 Tarnish Dye[s],[Краска|Краски|Красок] «Тарниш»
@@ -85,8 +85,8 @@ Tarred Bandage,Просмолённый бинт
 Tarstar Chief,Вождь Тарстар
 Tarstar Copse,Роща Тарстар
 Task—failed.,Задача — провалена.
-Tassi needs a live Candy Corn Elemental. Look for one in Lion's Arch.,Тасси нужен живой элементаль конфетной кукурузы. Поищите его в Lion's Arch.
-Tassi needs you to meet her at the Nolani Academy ruins. She's discovered a mysterious and dangerous artifact.,Тасси просит вас встретиться с ней у руин Академии Нолани. Она обнаружила таинственный и опасный артефакт.
+Tassi needs a live Candy Corn Elemental. Look for one in Lion's Arch.,Tassi нужен живой элементаль конфетной кукурузы. Поищите его в Lion's Arch.
+Tassi needs you to meet her at the Nolani Academy ruins. She's discovered a mysterious and dangerous artifact.,Tassi просит вас встретиться с ней у руин Академии Нолани. Она обнаружила таинственный и опасный артефакт.
 Taste Ooze,Попробовать слизь
 Taste Test,Дегустация
 Taste[s] of Instant World Experience,[Вкус|Вкуса|Вкусов] мгновенного опыта WvW
@@ -203,7 +203,7 @@ Tattoo Traditional,Татуировка традиционная
 Tattoo Turquoise,Татуировка бирюзовая
 Tattoo White,Татуировка белая
 Tattoo Yellow,Татуировка жёлтая
-"Tatyanna isn't mad—we all heard it this time. It told us where to find the gate.    Perhaps it is the Unseen Ones that guide us, but we will venture inside tomorrow. We will complete Caudecus's mission and the world will see. They will all see.    *A dark-brown stain is splashed across the bottom of the page. The rest of the script is illegible.*","Татьянна не сошла с ума — на этот раз мы все это слышали. Оно сказало нам, где найти врата.    Возможно, это Незримые направляют нас, но завтра мы отправимся внутрь. Мы выполним миссию Кодекуса, и мир увидит. Они все увидят.    *Тёмно-коричневое пятно разлито по нижней части страницы. Остальной текст неразборчив.*"
+"Tatyanna isn't mad—we all heard it this time. It told us where to find the gate.    Perhaps it is the Unseen Ones that guide us, but we will venture inside tomorrow. We will complete Caudecus's mission and the world will see. They will all see.    *A dark-brown stain is splashed across the bottom of the page. The rest of the script is illegible.*","Татьянна не сошла с ума — на этот раз мы все это слышали. Оно сказало нам, где найти врата.    Возможно, это Незримые направляют нас, но завтра мы отправимся внутрь. Мы выполним миссию Caudecus, и мир увидит. Они все увидят.    *Тёмно-коричневое пятно разлито по нижней части страницы. Остальной текст неразборчив.*"
 Taunt 'n' Stomp,Насмешка и топот
 Taunts nearby enemies and damages them for 20%% of their health.,Насмехается над ближайшими врагами и наносит им урон в размере 20%% от их здоровья.
 Taupe Dye[s],[Краска|Краски|Красок] «Серо-коричневая»
@@ -213,7 +213,7 @@ Tavern Hidden Enhancement,Скрытое улучшение таверны
 Tavern Hidden Music,Скрытая музыка таверны
 Tavern Proprietor<br>• Tavern Upgrades,Владелец таверны<br>• Улучшения таверны
 Tawny<br>Ridge,Рыжий<br>хребет
-Tazula Mindclouder,Tazula Mindclouder
+Tazula Mindclouder,Тазула Мозгокрут
 Tea Set[s],Чайный набор[|а|ов]
 Tea Shade Dye[s],[Краска|Краски|Красок] «Чайный оттенок»
 Teach IG-6417 with a recording of you collecting fish for the Olmakhan.,"Обучите IG-6417 записью того, как вы собираете рыбу для олмаханов."
@@ -240,7 +240,7 @@ Teach me.,Научи меня.
 Teach the class at Vehtendi Academy in the Domain of Vabbi.,Проведите урок в Vehtendi Academy в Domain of Vabbi.
 Teach the freebooter recruiters a lesson—think I saw one right here...,"Проучите вербовщиков флибустьеров — кажется, я видел одного прямо здесь..."
 "Teach your skyscale how to shoot fireballs, utilize updrafts, and ride ley lines by progressing the <c=#E5C973>Flight Training</c> track.","Научите своего скайскейла стрелять огненными шарами, использовать восходящие потоки и летать по лей-линиям, проходя трек <c=#E5C973>Flight Training</c>."
-"Teacher,    I send good tidings from the Labyrinthine Cliffs. The weather is balmy with a light rain, but the other aspect masters and I are working to make certain there'll be nothing but clear skies ahead for our journey west. I hope repair efforts in Lion's Arch fare just as well; they've been through much. If only they knew there was greater cause to hope. Glint's legacy is with us, a shining beacon to herald a new age!    I know I'm getting ahead of myself, but it's hard not to be excited. I wish you well in your charitable efforts. Festivities in the bazaar are nearly ready for visitors. Here's to one last hurrah before we embark.    Alas and so we go,   Master of Lightning","Учитель,    Шлю добрые вести с Labyrinthine Cliffs. Погода тёплая, с лёгким дождём, но мы с другими мастерами аспектов трудимся над тем, чтобы впереди, на пути на запад, нас ждало только ясное небо. Надеюсь, восстановительные работы в Lion's Arch идут так же хорошо; город многое пережил. Если бы только они знали, что есть большая причина для надежды. Наследие Глинт с нами — сияющий маяк, возвещающий новую эру!    Знаю, что забегаю вперёд, но трудно не радоваться. Желаю удачи в твоих благотворительных начинаниях. Празднества на базаре почти готовы к приёму гостей. За последнее «ура» перед отплытием!    Увы — и вот мы в пути,   Мастер Молнии"
+"Teacher,    I send good tidings from the Labyrinthine Cliffs. The weather is balmy with a light rain, but the other aspect masters and I are working to make certain there'll be nothing but clear skies ahead for our journey west. I hope repair efforts in Lion's Arch fare just as well; they've been through much. If only they knew there was greater cause to hope. Glint's legacy is with us, a shining beacon to herald a new age!    I know I'm getting ahead of myself, but it's hard not to be excited. I wish you well in your charitable efforts. Festivities in the bazaar are nearly ready for visitors. Here's to one last hurrah before we embark.    Alas and so we go,   Master of Lightning","Учитель,    Шлю добрые вести с Labyrinthine Cliffs. Погода тёплая, с лёгким дождём, но мы с другими мастерами аспектов трудимся над тем, чтобы впереди, на пути на запад, нас ждало только ясное небо. Надеюсь, восстановительные работы в Lion's Arch идут так же хорошо; город многое пережил. Если бы только они знали, что есть большая причина для надежды. Наследие Glint с нами — сияющий маяк, возвещающий новую эру!    Знаю, что забегаю вперёд, но трудно не радоваться. Желаю удачи в твоих благотворительных начинаниях. Празднества на базаре почти готовы к приёму гостей. За последнее «ура» перед отплытием!    Увы — и вот мы в пути,   Мастер Молнии"
 Teal Bloom[s],[Бирюзовый цветок|Бирюзовых цветка|Бирюзовых цветков]
 Teal Dye[s],[Краска|Краски|Красок] «Бирюза»
 Teal Petal[s],[Бирюзовый лепесток|Бирюзовых лепестка|Бирюзовых лепестков]
@@ -298,8 +298,8 @@ Teeth of Jormag,Зубы Йормага
 Teeth of Mordremoth,Зубы Мордремота
 Teeth of Primordus,Зубы Примордуса
 Teeth Size,Размер зубов
-Tegwen and Carys have defended the town of Annwen for many years. Tegwen ventured off alone to retrieve an Orrian artifact that washed onto the beach—and did not return.,"Тегвен и Карис много лет защищали город Аннвен. Тегвен отправилась одна, чтобы забрать оррианский артефакт, выброшенный на берег, и не вернулась."
-"Tegwen is a warden at the seaside town of Annwen. During a storm, she saw an Orrian artifact wash up on the beach. Trahearne has asked me to check in on her and see what she's discovered.","Тегвен — стражница приморского города Аннвен. Во время бури она увидела, как на берег выбросило оррианский артефакт. Трахёрн попросил меня проведать её и узнать, что она обнаружила."
+Tegwen and Carys have defended the town of Annwen for many years. Tegwen ventured off alone to retrieve an Orrian artifact that washed onto the beach—and did not return.,"Tegwen и Карис много лет защищали город Аннвен. Tegwen отправилась одна, чтобы забрать оррианский артефакт, выброшенный на берег, и не вернулась."
+"Tegwen is a warden at the seaside town of Annwen. During a storm, she saw an Orrian artifact wash up on the beach. Trahearne has asked me to check in on her and see what she's discovered.","Тегвен — стражница приморского города Аннвен. Во время бури она увидела, как на берег выбросило оррианский артефакт. Trahearne попросил меня проведать её и узнать, что она обнаружила."
 Teku Nuhoch has reached max strength! Allied Nuhoch and battle beetles have joined the fight in the Nuhoch lane.,Teku Nuhoch достиг максимальной силы! Союзные нухочи и боевые жуки присоединились к битве на тропе нухочей.
 Teleport (Costs 1 Charge),Телепорт (стоит 1 заряд)
 Teleport along line of sight.,Телепорт по линии прямой видимости.
@@ -369,22 +369,22 @@ Tempest Weapons,Оружие «Буря»
 Tempest's Auric Sharpening Stone[s],[Аурический точильный камень|Аурических точильных камня|Аурических точильных камней] Бури
 Temple Captured,Храм захвачен
 Temple Gate[s],[Врата|Врат|Врат] храма
-Temple of Balthazar <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Balthazar statues in Orr are disabled.</c>,Храм Бальтазара <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Бальтазара в Орре отключены.</c>
-Temple of Balthazar <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Balthazar statues in Orr are active.,Храм Бальтазара <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Бальтазара в Орре активны.
-Temple of Dwayna <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Dwayna statues in Orr are disabled.</c>,Храм Двайны <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Двайны в Орре отключены.</c>
-Temple of Dwayna <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Dwayna statues in Orr are active.,Храм Двайны <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Двайны в Орре активны.
+Temple of Balthazar <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Balthazar statues in Orr are disabled.</c>,Храм Balthazar <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Balthazar в Орре отключены.</c>
+Temple of Balthazar <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Balthazar statues in Orr are active.,Храм Balthazar <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Balthazar в Орре активны.
+Temple of Dwayna <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Dwayna statues in Orr are disabled.</c>,Храм Dwayna <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Dwayna в Орре отключены.</c>
+Temple of Dwayna <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Dwayna statues in Orr are active.,Храм Dwayna <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Dwayna в Орре активны.
 Temple of Febe: Cerus,Храм Фебы: Церус
 Temple of Febe: Legendary Cerus,Храм Фебы: Легендарный Церус
-Temple of Grenth <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Grenth statues in Orr are disabled.</c>,Храм Грента <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Грента в Орре отключены.</c>
-Temple of Grenth <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Grenth statues in Orr are active.,Храм Грента <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Грента в Орре активны.
+Temple of Grenth <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Grenth statues in Orr are disabled.</c>,Храм Grenth <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Grenth в Орре отключены.</c>
+Temple of Grenth <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Grenth statues in Orr are active.,Храм Grenth <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Grenth в Орре активны.
 Temple of Lost Prayers Blue Team,Храм Утраченных Молитв: Синяя команда
 Temple of Lost Prayers Green Team,Храм Утраченных Молитв: Зелёная команда
 Temple of Lost Prayers Red Team,Храм Утраченных Молитв: Красная команда
 Temple of Lost Prayers White Team,Храм Утраченных Молитв: Белая команда
 Temple of Lyssa <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Lyssa statues in Orr are disabled.</c>,Храм Лиссы <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Лиссы в Орре отключены.</c>
 Temple of Lyssa <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Lyssa statues in Orr are active.,Храм Лиссы <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Лиссы в Орре активны.
-Temple of Melandru <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Melandru statues in Orr are disabled.</c>,Храм Меландру <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Меландру в Орре отключены.</c>
-Temple of Melandru <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Melandru statues in Orr are active.,Храм Меландру <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Меландру в Орре активны.
+Temple of Melandru <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• All Melandru statues in Orr are disabled.</c>,Храм Melandru <c=#a9a9a9>[lbracket]Не оспаривается[rbracket]</c><br>• Все статуи Melandru в Орре отключены.</c>
+Temple of Melandru <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• All Melandru statues in Orr are active.,Храм Melandru <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• Все статуи Melandru в Орре активны.
 Temple of the Silent Storm Paid Tournament Week!,Неделя платного турнира «Храм Безмолвной Бури»!
 Temple Worshipper,Прихожанин храма
 Temple's Guard,Страж Храма
@@ -419,7 +419,7 @@ Tend to the saurian egg gwyl ring.,Ухаживайте за кольцом яй
 Tend to the wildflower gwyl ring.,Ухаживайте за кольцом полевого цветка гвил.
 Tendril Bombardment,Бомбардировка усиками
 Tendril Lurk,Подкрадывание усиков
-Tendril Torchers,Tendril Torchers
+Tendril Torchers,Поджигатели усиков
 Tendril's Grasp,Хватка усика
 Tendril's Spear,Копьё усика
 Tenebrous Crystal[s],[Мрачный кристалл|Мрачного кристалла|Мрачных кристаллов]
@@ -448,11 +448,6 @@ Tequatl's Gloom,Мрак Текватля
 Teragriff Charge,Натиск терагрифа
 Teragriff Screech,Визг терагрифа
 Teragriff Slash,Удар терагрифа
-"Terksli will randomly select from all of the shiny foil candy wrappers collected from players over the event's two weeks.One wrapper will be selected for each item in Terksli's box, and that item will be mailed to the player who submitted the chosen wrapper.The chances of receiving an item will depend on the total number of shiny foil candy wrappers submitted.","Терксли случайным образом выберет из всех блестящих фантиков от конфет, собранных у игроков за две недели мероприятия.Для каждого предмета в коробке Терксли будет выбран один фантик, и этот предмет будет отправлен по почте игроку, приславшему выбранный фантик.Шанс получить предмет зависит от общего количества присланных блестящих фантиков."
-"Term of employment: 1837–presentCurrent title: Head of SecurityStatus: Full-timeNotes: Previously employed as a dockmaster in New Kaineng Harbor for twenty years. Loyalty to Xunlai Jade is unequaled among staff. Volunteered to head the Xunlai summer picnic committee. Must speak to him again about the fact that at work we are Captain and Executive, not ""Uncle Fa and Joon-ee.""","Период работы: 1837 — настоящее времяТекущая должность: начальник службы безопасностиСтатус: полная занятостьПримечания: прежде двадцать лет работал начальником дока в гавани New Kaineng. Преданность «Xunlai Jade» не имеет себе равных среди сотрудников. Вызвался возглавить комитет летнего пикника Сюньлай. Нужно снова поговорить с ним о том, что на работе мы Капитан и Директор, а не «дядя Фа и Джун-и»."
-"Term of employment: 1842–1845Former title: Executive AssistantStatus: Employment TerminatedNotes: Identified as a potential asset after her nearly successful infiltration of the Yong Reactor. Mai Trin is clearly not a local—I've learned bits and pieces of her background—but has been able to pass as one. (Xunlai Jade, as a whole, must strategically remain unaware to avoid culpability.) Has an uncanny ability to pick up new technology: seems to go from completely lost to understanding complex formulations after only a few minutes of reflective silence. Whatever her origins, she has proven surprisingly loyal, and her unique perspective has her on the fast track for leadership.1845 Update: Mai Trin's body was recovered this morning. As our investigation continues into the betrayal at the Yong Reactor, Legal is preparing multiple statements for when the full scope of her crimes goes public. In the end, I am responsible for trusting her. I am prepared to say so. (Personal Note: Who shot her? Is it possible she tried to stop the commander?)","Период работы: 1842–1845Прежняя должность: помощница руководителяСтатус: уволенаПримечания: отмечена как потенциальный актив после почти успешного проникновения на Yong Reactor. Mai Trin явно не местная — я узнал обрывки её прошлого, — но сумела сойти за свою. («Xunlai Jade» в целом должна стратегически оставаться в неведении, чтобы избежать ответственности.) Обладает поразительной способностью осваивать новые технологии: похоже, переходит от полного непонимания к владению сложными формулами после пары минут задумчивого молчания. Каковы бы ни были её корни, она оказалась на удивление преданной, и её уникальный взгляд вывел её на быстрый путь к руководству.Дополнение 1845: тело Mai Trin нашли сегодня утром. Пока продолжается расследование предательства на Yong Reactor, юридический отдел готовит несколько заявлений на случай, если полный размах её преступлений станет достоянием общественности. В конечном счёте это я ей доверял. Я готов это признать.(Личная заметка: кто в неё стрелял? Возможно, она пыталась остановить командира?)"
-"Term of employment: 1843–presentCurrent title: Associate EngineerStatus: Full-timeNotes: No formal education but extremely gifted. Designed their own jade prosthesis. Previous association with the ""Jade Brotherhood"" but denies any current association—gets angry enough at the mention of the Brotherhood that it seems sincere. Do not assign to projects with Mai Trin. Expressed desire to transition to project leader in MedTech department. Avoid topics ""cats"" and ""holodramas"" as Yao has difficulty not talking about those subjects once they have been brought up.","Период работы: 1843 — настоящее времяТекущая должность: младший инженерСтатус: полная занятостьПримечания: без формального образования, но чрезвычайно одарён. Спроектировал собственный нефритовый протез. Прежде был связан с «Jade Brotherhood», но отрицает любые текущие связи — при упоминании Братства злится настолько, что это похоже на правду. Не назначать на проекты с Mai Trin. Выразил желание перейти в руководители проектов в отделе «МедТех». Избегать тем «кошки» и «голодрамы»: Яо трудно остановиться, если их поднять."
-"Term of employment: 1845–presentCurrent title: Subject Matter ExpertStatus: ConsultantDeep knowledge of many subjects, including dragon magic, asuran golemancy, and cybernetics. Adept at pattern recognition and complex systems. Loves to speak and is not discouraged by even the most pointed silence, must be assertive in need for quiet to focus. Blueprints for the jade exoskeleton we designed together to aid her mobility have been sent to MedTech for redesign to fit the human form. Her improvements to the design resulted in a reduction in both the incidence and intensity of her physical symptoms across the board, often by a self-reported fifty percent or more.","Период работы: 1845 — настоящее времяТекущая должность: профильный экспертСтатус: консультантГлубокие знания по многим предметам, включая драконью магию, асурскую големантию и кибернетику. Сильна в распознавании закономерностей и сложных системах. Любит говорить, и её не смущает даже самое красноречивое молчание — о тишине для сосредоточения приходится просить настойчиво. Чертежи нефритового экзоскелета, который мы спроектировали вместе для её подвижности, отправлены в «МедТех» на переработку под человеческое тело. Её улучшения конструкции снизили и частоту, и силу её физических симптомов по всем показателям — по её собственным оценкам, часто наполовину и более."
 Term of Mastery,Срок усвоения
 Terminal Gloaming,Терминальный сумрак
 Termite Mound,Термитник

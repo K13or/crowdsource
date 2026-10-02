@@ -60,9 +60,9 @@ Hires service providers and guard patrols for the tower.,Нанимает пос
 His Greatest Hits,Его лучшие хиты
 "His voice whispers at the back of my mind, his soul as ripe as it was in ""life."" He tells me things. About the Mists, about the Underworld... Terrifying, dark things.","Его голос шепчет в глубине моего сознания, его душа так же зрела, как и при «жизни». Он рассказывает мне разное. О Туманах, о Подземном мире... Ужасающие, мрачные вещи."
 Hiss Emote now available!,Эмоция «Шипение» теперь доступна!
-Historian Garrod,Historian Garrod
-Historian Jasmine,Historian Jasmine
-Historian Jinell,Historian Jinell
+Historian Garrod,Историк Гаррод
+Historian Jasmine,Историк Жасмин
+Historian Jinell,Историк Джинелл
 Historic Plaque,Историческая табличка
 Historical Artifacts,Исторические артефакты
 Historical Record,Историческая запись
@@ -88,13 +88,13 @@ Hits per Second,Ударов в секунду
 "Hitzekern-Infusion[pl:""Infusionen""]",[Инфузия|Инфузии|Инфузий] жара
 Hive Rockets,Ракеты Улья
 Hiya!,Привет!
-"Hlif traveled to the Far Shiverpeaks to challenge Jormag. Near death, she took one last swing at her foe before falling unconscious. She awoke the next morning—her axe encased in an icy dragon's head.","Хлиф отправилась в Далёкие Ледяные Пики, чтобы бросить вызов Йормагу. На грани смерти она нанесла последний удар врагу, прежде чем потерять сознание. На следующее утро она очнулась — её топор был заключён в ледяную драконью голову."
+"Hlif traveled to the Far Shiverpeaks to challenge Jormag. Near death, she took one last swing at her foe before falling unconscious. She awoke the next morning—her axe encased in an icy dragon's head.","Хлиф отправилась в Далёкие Ледяные Пики, чтобы бросить вызов Jormag. На грани смерти она нанесла последний удар врагу, прежде чем потерять сознание. На следующее утро она очнулась — её топор был заключён в ледяную драконью голову."
 "Hmmm. Dredge and charr, working together. Charrdge? Dreharr? And just how do two xenophobic cultures align with each other?","Хмм. Дредж и чарр, работающие вместе. Чаррдж? Дрехарр? И как же две ксенофобные культуры могут сходиться друг с другом?"
 Hoard[s] of Inquest Research Supplies,[Запас|Запаса|Запасов] исследовательских припасов Inquest
 Hoatzin Rattlecrest,Гоацин Гремучийгребень
 Hoe Slash,Удар мотыгой
 Hoelbrak Asura Gate,Асурские врата Хоэлбрака
-"Hoelbrak has become the social center of the norn race. When the Elder Dragon Jormag drove norn ancestors out of the Far Shiverpeaks, the Spirits of the Wild—Bear, Raven, Wolf, and Snow Leopard—guided them to this area, and now great halls dedicated to those spirits dominate the settlement.","Хоэлбрек стал социальным центром норнов. Когда Старший дракон Йормаг вытеснил предков норнов из Дальних Остроконечников, Духи Дикой Природы — Медведь, Ворон, Волк и Snow Leopard — привели их в этот район, и теперь великие залы, посвящённые этим духам, господствуют в поселении."
+"Hoelbrak has become the social center of the norn race. When the Elder Dragon Jormag drove norn ancestors out of the Far Shiverpeaks, the Spirits of the Wild—Bear, Raven, Wolf, and Snow Leopard—guided them to this area, and now great halls dedicated to those spirits dominate the settlement.","Хоэлбрек стал социальным центром норнов. Когда Старший дракон Jormag вытеснил предков норнов из Дальних Остроконечников, Духи Дикой Природы — Медведь, Ворон, Волк и Snow Leopard — привели их в этот район, и теперь великие залы, посвящённые этим духам, господствуют в поселении."
 Hoelbrak: Bear Lodge,Хоэлбрек: Медвежий зал
 Hoelbrak: Biergarten,Хоэлбрек: Пивной сад
 Hoelbrak: Eastern Watchpost,Хоэлбрек: Восточный сторожевой пост
@@ -176,7 +176,6 @@ Hold to display enemy names in the world.,Удерживайте для отоб
 Hold to emit a stream of debilitating noise from the end of the gun.,Удерживайте для испускания потока ослабляющего шума из дула оружия.
 Hold to emit a stream of debilitating noise from the end of the gun. Watch out that it does not overheat!,"Удерживайте для испускания потока ослабляющего шума из дула оружия. Следите, чтобы оно не перегрелось!"
 "Hold to flip, must jump first.","Удерживайте для переворота, сначала нужно прыгнуть."
-Hold to hover using the turtle's jump jets.Applies burning to nearby enemies.,Удерживайте для зависания с помощью реактивных ускорителей черепахи. Наносит горение ближайшим врагам.
 Hold to increase hover height.,Удерживайте для увеличения высоты зависания.
 Hold to leap forward across great distances.,Удерживайте для прыжка вперёд на большие расстояния.
 Hold to lock your autotarget.,Удерживайте для фиксации автонаведения.
@@ -195,7 +194,6 @@ Hold to turn your character to the right.,"Удерживайте, чтобы д
 Hold your position!,Держите позицию!
 "Holding [lbracket]%str1%[rbracket] will activate the siege turtle's jump jets, consuming energy and causing it to lift into the air. The jump jets can be activated at any time.","Удерживание [lbracket]%str1%[rbracket] активирует прыжковые двигатели осадной черепахи, расходуя энергию и поднимая её в воздух. Прыжковые двигатели можно активировать в любое время."
 "Holding [lbracket]%str1%[rbracket] will cause the skimmer to rise higher off of the ground, but be careful: it consumes energy.","Удерживание [lbracket]%str1%[rbracket] заставит скиммер подняться выше над землёй, но будьте осторожны: это расходует энергию."
-"Holding down the security of the fractals best we can; ward is stretched thin. All of your aid, from the smallest task to the most severe, only helps us. Thank you for that.Once you banished the demon, my attention was drawn to a peculiar object on the ground. It doesn't look like any playing card I've ever seen, but I think you may find it interesting nonetheless.I will continue to keep R'tchikk safe from harm. Take care of yourself in return.","Мы держим оборону фракталов как можем; защита ослабла. Вся ваша помощь, от малейшего задания до самого серьёзного, помогает нам. Спасибо за это.Как только вы изгнали демона, моё внимание привлёк странный предмет на земле. Он не похож ни на одну игральную карту, которую я когда-либо видел, но, думаю, он может вас заинтересовать.Я продолжу оберегать Р'тчикка от опасности. Берегите себя."
 Holding: Fresh Eggs,Удерживание: Свежие яйца
 Holding: Raw Meat,Удерживание: Сырое мясо
 Holding: Ripe Fruit,Удерживание: Спелые фрукты

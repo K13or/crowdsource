@@ -11,8 +11,8 @@ Overrun,Захвачено
 Overtime,Сверхурочное время
 Overwrite,Перезаписать
 Owned,Есть
-Oxenblade,Oxenblade
-Oyster,Oyster
+Oxenblade,Оксенблейд
+Oyster,устрица
 Ozem,Озем
 P,P
 PISTOL_MASTERY,МАСТЕРСТВО_ПИСТОЛЕТА
@@ -24,28 +24,28 @@ PROFESSION_MECHANIC_OUTGOING_DAMAGE_PERCENT,ПРОФЕССИЯ_МЕХАНИК_И
 PROFESSION_MECHANIC_RECHARGE_PERCENT,ПРОФЕССИЯ_МЕХАНИК_ПЕРЕЗАРЯДКА_ПРОЦЕНТ
 Pacifism,Пацифизм
 Package,Посылка
-Pacu,Pacu
-Paddlefish,Paddlefish
-Paden,Paden
+Pacu,Паку
+Paddlefish,Веслонос
+Paden,Паден
 Page,Страница
 Pahan,Пахан
 Paint,Краска
 Pakistan,Пакистан
-Palawadan,Palawadan
+Palawadan,Палавадан
 Panama,Панама
 Panic,Паника
 Panorama,Панорама
 Pants,Штаны
 Paovi,Паови
-Papillon,Papillon
+Papillon,Папильон
 Parachute,Парашют
 Paraguay,Парагвай
 Parasite,Паразит
 Parnna,Парнна
-Parrotfish,Parrotfish
-Parsnip,Parsnip
+Parrotfish,Попугай-рыба
+Parsnip,Пастернак
 Partake,Принять участие
-Participate in 1 Player vs. Player Tournament Match,Participate in 1 Player vs. Player Tournament Match
+Participate in 1 Player vs. Player Tournament Match,Примите участие в 1 турнирном PvP-матче
 Participation,Участие
 Party,Группа
 Pass,Пропуск
@@ -55,19 +55,19 @@ Password,Пароль
 Passwords,Пароли
 Pat,Пэт
 Patience,Терпение
-Patta,Patta
+Patta,Патта
 Pattern,Узор
 Pauldrons,Наплечники
-Payara,Payara
+Payara,Пайара
 Pea,Горошек
 Peacock,Павлин
-Pear,Pear
-Pearl,Pearl
+Pear,Груша
+Pearl,Жемчуг
 Pebble,Галька
 Pecan,Пекан
 Pedestal,Пьедестал
 Peer,Коллега
-Peg Leg,Peg Leg
+Peg Leg,Деревянная Нога
 Pellrek,Pellrek
 Pending,Ожидание
 Pending...,Ожидание...
@@ -82,13 +82,13 @@ Personality,Личность
 Personnel,Персонал
 Peru,Перу
 Petrified,Окаменевший
-Petrifish,Petrifish
-Pets and Walls Make Stronger Kraals,Pets and Walls Make Stronger Kraals
-Pew,Pew
+Petrifish,Петрифис
+Pets and Walls Make Stronger Kraals,5. Питомцы и стены делают загоны крепче
+Pew,Скамья
 Pfahlwurzeln,Пфальвурцельн
 Phaedra,Федра
 Phantasmagoria,Фантасмагория
-Pharus,Pharus
+Pharus,Фарус
 Phasable,Фазируемый
 Phase,Фаза
 Philippines,Филиппины
@@ -100,11 +100,11 @@ Pick,Подобрать
 Pick-up,Подбор
 Pickax,Кирка
 Pickup,Подбор
-Pier,Pier
+Pier,Пирс
 Pierce,Пронзание
 Pig,Свинья
 Pillow,Подушка
-Pinenut,Pinenut
+Pinenut,Кедровый орешек
 Pinesoul,Сосновая душа
 Pinette,Пинетт
 Pinned,Пригвождён
@@ -112,20 +112,20 @@ Pipe,Труба
 Piranha,Пиранья
 Pirate Flag,Пиратский флаг
 Piraten-Tagebuch,Пиратский дневник
-Pistol,Pistol
+Pistol,Пистолет
 Pistols,Пистолеты
 Pitchfork,Вилы
 Pixti,Pixti
-Pixtor,Pixtor
+Pixtor,Пикстор
 Pl,Пл
 Place,Место
 Placement,Размещение
 Plaguewaters,Чумные воды
-Plank,Plank
+Plank,Доска
 Planner,Планировщик
 Plant,Посадить
 Plants,Растения
-Plasma,Plasma
+Plasma,Плазма
 Plaster,Пластырь
 Play,Играть
 Player,Игрок
@@ -143,27 +143,27 @@ Poisoner,Отравитель
 Poisons,Яды
 Poke,Тычок
 Poland,Польша
-Polearm,Polearm
+Polearm,Древковое оружие
 Polearms,Древковое оружие
 Polish,Польский
 Politics,Политика
-Polla,Polla
+Polla,Полла
 Pollen,Пыльца
-Pollock,Pollock
+Pollock,Полок
 Polluter,Загрязнитель
 Pollution,Загрязнение
 Polymorph,Превращение
-Pompano,Pompano
+Pompano,Помпано
 Ponder,Размышлять
 Poola,Пула
 Pooped,Обкакался
 Population,Население
 Porcelain,Фарфор
-Porgy,Porgy
+Porgy,Пороги
 Portal,Портал
 Portugal,Португалия
 Position,Позиция
-Post,Post
+Post,Пост
 Poster,Постер
 Postprocessing,Постобработка
 Potato,Картофель
@@ -174,8 +174,8 @@ Poultice,Припарка
 Power-Up,Усиление
 Practice,Практика
 Praise,Хвала
-Prazz,Prazz
-Preparation,Preparation
+Prazz,Празз
+Preparation,Подготовка
 Present,Подарок
 Presents,Подарки
 Presets,Пресеты
@@ -184,10 +184,10 @@ Prestige,Престиж
 Preview,Предпросмотр
 Previous,Предыдущий
 Priceless,Бесценно
-Prickleberry,Prickleberry
+Prickleberry,Колючая ягода
 Priestess,Жрица
 Primal,Первобытный
-Princess,Princess
+Princess,Принцесса
 Prismaticite,Призматицит
 Prison,Тюрьма
 Prisoner,Заключенный
@@ -204,9 +204,9 @@ Promotions,Повышения
 Prospectus,Проспект
 Protect,Защитить
 Protector,Защитник
-Prototype,Prototype
-Pufferfish,Pufferfish
-Pulleybow,Pulleybow
+Prototype,Прототип
+Pufferfish,Иглобрюх
+Pulleybow,Блочный лук
 Punch.,Удар.
 Punishment,Наказание
 Purity,Чистота
@@ -214,7 +214,7 @@ Purr,Мурр
 Push,Толчок
 Push back nearby foes with a staggering blow.,Оттолкнуть противников поблизости ошеломляющим ударом.
 Puzzle,Головоломка
-Puzzlemaster,Puzzlemaster
+Puzzlemaster,Мастер головоломок
 PvE,PvE
 PvP,PvP
 Pyromancer,Пиромант
@@ -228,18 +228,18 @@ Qty.,Кол-во
 Quad,Квад
 Quarriers,Каменоломщики
 Quarry,Карьер
-Queenfish,Queenfish
+Queenfish,Королевская рыба
 Queensdale Academy Outfit[s],[Костюм|Костюма|Костюмов] Академии Квинсдейла
-Quennida,Quennida
+Quennida,Квеннида
 Queue,Очередь
 Queued,В очереди
 Quicksand,Зыбучий песок
 Quiet,Тихий
-Quietus,Quietus
-Quip,Quip
+Quietus,Квиетус
+Quip,Шутка
 Quit,Выйти
 Quitter,Трус
-Quiver,Quiver
+Quiver,Колчан
 R,R
 RACIAL,РАСОВЫЙ
 REDACTED,ЗАРЕДАКТИРОВАНО
@@ -253,21 +253,21 @@ Race,Раса
 Racing,Гонки
 Radiance,Сияние
 Radiate,Излучать
-Rag,Rag
-Rage,Rage
+Rag,Тряпка
+Rage,Ярость
 Raid,Рейд
 Rake,Раздирать
 "Rake your dagger across your foe, leaving them bleeding.","Распорите врага кинжалом, заставив его истекать кровью."
 Rakhel,Ракель
 Rakkan,Раккан
-Ralena,Ralena
+Ralena,Ралена
 Ram,Таран
 Ramp,Пандус
 Rancher,Фермер
 Random,Случайно
 RangedAttackTest_DW,RangedAttackTest_DW
 Ranger,Рейнджер
-Rank,Rank
+Rank,Ранг
 Ranked,Рейтинговый
 Ranks,Ранги
 Rapids,Пороги
@@ -275,26 +275,26 @@ Rare,Редкое
 Raspberries,Малина
 Raspberry,Малина
 Rat,Крыса
-Rata Sum: Applied Development Lab (Home),Rata Sum: Applied Development Lab (Home)
+Rata Sum: Applied Development Lab (Home),Лаборатория прикладных разработок (дом)
 Rating,Рейтинг
 Rations,Пайки
 Rauha,Рауха
 Ravage,Опустошение
-Ravengift,Ravengift
-Razorstone,Razorstone
+Ravengift,Вороний Дар
+Razorstone,Острый камень
 Re,Re
 Reactivate,Реактивировать
 Reactor,Реактор
 Read,Прочитать
 Ready,Готов
-Reap-r-Tron,Reap-r-Tron
+Reap-r-Tron,Жнец-автомат
 Reason,Причина
 Rebel,Мятежник
-Rebirth,Rebirth
+Rebirth,Возрождение
 Rebuke,Упрек
 Recalibrate,Перекалибровка
 Recalibrating...,Перекалибровка...
-Receive a final boon from your ally in Eye of the North.,Receive a final boon from your ally in Eye of the North.
+Receive a final boon from your ally in Eye of the North.,Получите благословение от союзника в Оке Севера.
 Recenter,Центрировать
 Recette,Рецепт
 Recipe,Рецепт
@@ -314,14 +314,14 @@ Recipe[s]: Theodosus's Cleric Inscription,[Рецепт|Рецепта|Реце�
 Recipe[s]: Tropical Peppermint Cake,Рецепт[|а|ов]: тропические мятные пирожные
 Recipes,Рецепты
 Reclaim,Восстановить
-Reclamation,Reclamation
-Reconsideration,Reconsideration
-Record,Record
+Reclamation,Рекламация
+Reconsideration,Пересмотр
+Record,Запись
 Recording,Запись
 Recover,Восстановить
 Recoveries,Восстановления
 Recovery,Восстановление
-Redcap,Redcap
+Redcap,Красный Колпак
 Redirect,Перенаправить
 Redirector,Редиректор
 Reef Drake Broodmother Scale[s],[Чешуя|Чешуи|Чешуй] матриарха рифовых дрейков
@@ -341,7 +341,7 @@ Reinforce,Укрепить
 Reinforce-o-Matic,Усилитель-о-Матик
 Reinforced,Усиленный
 Reinforcements,Подкрепление
-Rekka,Rekka
+Rekka,Рекка
 Relaxed,Расслабленный
 Release,Выпустить
 Relics,Связано с Кессексскими холмами
@@ -352,7 +352,7 @@ Remember,Запомнить
 Reminder,Напоминание
 Remove,Убрать
 Rename,Переименовать
-Rend,Rend
+Rend,Разрыв
 Rent-a-Mount,Аренда ездового животного
 Repair,Починить
 Reply,Ответить
@@ -364,16 +364,16 @@ Representing,Представляет
 Reprogram,Перепрограммировать
 Request,Запрос
 Requested,Запрошено
-Requiem,Requiem
+Requiem,Реквием
 Requirements,Требования
 ResShrine,ResShrine
 Rescue,Спасение
-Research,Research
+Research,Исследования
 Researcher,Исследователь
 Reserve,Зарезервировать
 Reset,Сброс
 Resident,Житель
-Resonator,Resonator
+Resonator,Резонатор
 Resource,Ресурс
 ResourceNode,Узел ресурсов
 Resources,Ресурсы
@@ -387,11 +387,11 @@ Retaliation,Возмездие
 Retire,Уйти
 Retreat,Отступление
 Retrieve,Забрать
-Return to End of Dragons,Return to End of Dragons
-Return to Heart of Thorns,Return to Heart of Thorns
-Return to the Icebrood Saga,Return to the Icebrood Saga
+Return to End of Dragons,Возвращение к Краю Драконов
+Return to Heart of Thorns,Вернитесь в Сердце Терний
+Return to the Icebrood Saga,Возвращение к Саге о ледяном отродье
 Return.,Вернуть.
-Reunited,Reunited
+Reunited,Воссоединены
 Reveal,Раскрыть
 Reveler,Гуляка
 Revert,Отменить
@@ -400,32 +400,32 @@ Revives,Оживления
 Reward,Награда
 Rewards,Награды
 Rewind,Перемотка
-Rhongomyniad,Rhongomyniad
+Rhongomyniad,Ронгоминиад
 Riff,Рифф
-Rifle,Rifle
+Rifle,Винтовка
 Rifles,Винтовки
 Riftstalker,Охотник за Разломами
-Rikka,Rikka
+Rikka,Рикка
 Rikkiti,Риккити
 Rikkta,Риккта
-Rinceword,Rinceword
-Ring,Ring
+Rinceword,Ринсворд
+Ring,Кольцо
 Rings,Кольца
 Riverlet,Ручеёк
 Riverstone,Речной камень
-Rivetwall,Rivetwall
-Rock,Rock
+Rivetwall,Клепаная стена
+Rock,Камень
 Rockalanche,Камнепад
-Rockcrusher,Rockcrusher
-Rockfish,Rockfish
+Rockcrusher,Камнедробитель
+Rockfish,Скальная рыба
 Rockslide,Камнепад
-Rodgort,Rodgort
-Rohu,Rohu
+Rodgort,Родгорт
+Rohu,Роху
 Role-Playing,Ролевая игра
 Roll,Перекат
 Romance,Романтика
 Romania,Румыния
-Roosterfish,Roosterfish
+Roosterfish,Петушиная рыба
 Rope,Верёвка
 Rose,Роза
 Rosette,Розетка
@@ -434,22 +434,22 @@ Rotate,Повернуть
 Rotmouth,Гнилоуст
 Rounds,Раунды
 Rubble,Обломки
-Rug,Rug
-Ruinmaker,Ruinmaker
-Ruins,Ruins
+Rug,Коврик
+Ruinmaker,Разрушитель
+Ruins,Руины
 Rules,Правила
 Rumbles,Грохоты
 Rummage,Рыться
 Run,Бежать
-Runerod,Runerod
+Runerod,Рунод
 Runes,Руны
-Runestone,Runestone
+Runestone,Рунический камень
 Running,Бег
 Runzel-Auen,Runzel-Auen
 Rushed,Стремительный
 Russia,Россия
-Rusttooth,Rusttooth
-Rutabaga,Rutabaga
+Rusttooth,Ржавозуб
+Rutabaga,Брюква
 Rwanda,Руанда
 S,S
 S.C.I.E.N.C.E.,S.C.I.E.N.C.E.
@@ -461,39 +461,39 @@ SHORT-BOW_MASTERY,ВЛАДЕНИЕ_КОРОТКИМ-ЛУКОМ
 SPEARGUN_MASTERY,МАСТЕРСТВО_ГАРПУНА
 STAFF_MASTERY,ВЛАДЕНИЕ ПОСОХОМ
 SWORD_MASTERY,ВЛАДЕНИЕ МЕЧОМ
-Sabetha,Sabetha
-Sabir,Sabir
+Sabetha,Сабета
+Sabir,Сабир
 Sable,Сабль
 Sadizi,Садизи
 Saevus,Сэвус
 Saffron,Шафран
 Sai,Сай
-Sailfish,Sailfish
+Sailfish,Рыба-парусник
 Sailor,Моряк
-Salima,Salima
+Salima,Салима
 Saljax,Салджакс
 Saltpeter,Селитра
 Salutations,Приветствия
 Salute,Салют
 Salvage,Разобрать
 Salvaging,Разборка
-Salvation Through Heresy,Salvation Through Heresy
+Salvation Through Heresy,5. Спасение через ересь
 Sam,Сэм
-Samarog,Samarog
+Samarog,Самарог
 Sammeln,Собрать
 Sammlersruh,Покой собирателя
 Sanctify,Освящение
-Sanctum,Sanctum
+Sanctum,Святилище
 Sandblast,Песчаный взрыв
-Sandcastle,Sandcastle
+Sandcastle,Замок из песка
 Sandlewood,Сандаловое дерево
 Sandsnare,Песчаная ловушка
 Sandstone,Песчаник
 Sapling,Саженец
 Sardelac,Сарделак
-Sardinata,Sardinata
-Sardine,Sardine
-Sarraceniaceae,Sarraceniaceae
+Sardinata,Сардината
+Sardine,Сардина
+Sarraceniaceae,Саррацения
 Sat,Суббота
 Satlo,Сатло
 Saturday,Суббота

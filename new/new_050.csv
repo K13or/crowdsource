@@ -12,8 +12,8 @@ Delivering to Drop-Off Point 9,Доставка в точку сброса 9
 Delka,Делка
 Demmi Beetlestone: Did it work? Are we safe?,Demmi Beetlestone: Сработало? Мы в безопасности?
 Demmi Beetlestone: The Orrians have tunneled in through the walls!,Demmi Beetlestone: Оррианцы прорыли ходы сквозь стены!
-"Demmi cannot be blessed again until tomorrow—and we have no time to waste. You must get her safely out of the city, and to the Chantry of Secrets.","Демми нельзя благословить снова до завтра, а времени у нас нет. Ты должен вывести её из города целой и доставить в Часовню Тайн."
-"Demmi... Brave, clever girl. Couldn't let her stay...in a place like this. Where's Tybalt? He should be here.","Демми... Храбрая, смышлёная девочка. Нельзя было оставлять её... в таком месте. Где Тибальт? Он должен быть здесь."
+"Demmi cannot be blessed again until tomorrow—and we have no time to waste. You must get her safely out of the city, and to the Chantry of Secrets.","Demmi нельзя благословить снова до завтра, а времени у нас нет. Ты должен вывести её из города целой и доставить в Часовню Тайн."
+"Demmi... Brave, clever girl. Couldn't let her stay...in a place like this. Where's Tybalt? He should be here.","Демми... Храбрая, смышлёная девочка. Нельзя было оставлять её... в таком месте. Где Tybalt? Он должен быть здесь."
 Demolition Team,Подрывная бригада
 Demolitionist Tonn,Подрывник Тонн
 Demon's Maw is home to an encampment of ettins. A group of researchers bent on experimenting on the burly beasts have set up camp nearby. The researchers are ignorant to the danger ettins pose and will surely need your help.,"Demon's Maw — пристанище стоянки эттинов. Неподалёку разбила лагерь группа исследователей, вознамерившихся ставить опыты на этих дюжих тварях. Исследователи не понимают, чем опасны эттины, и им наверняка понадобится твоя помощь."
@@ -52,10 +52,10 @@ Deposit Sap,Внести сок
 Deposit Spare Parts,Внести запчасти
 Deposit all of the cursed treasure into the chest at the end of the tomb.,Сложите всё проклятое сокровище в сундук в конце гробницы.
 Deputy Brakk: There are too many! They've breached the wall! We're being ove—,Deputy Brakk: Их слишком много! Они пробили стену! Нас сейчас смет...
-Deputy Mira,Deputy Mira
+Deputy Mira,Заместитель Мира
 Deputy Mira: The fortress is under attack! Ready on the wall! Hostiles incoming!,Deputy Mira: Крепость атакуют! Все на стену! Враг на подходе!
 "Deputy Mira: We did it! It's sinking! A small victory. By the gods, there's so many of them...","Deputy Mira: Получилось! Оно тонет! Маленькая победа. Клянусь богами, их так много..."
-Deputy Urtt,Deputy Urtt
+Deputy Urtt,Заместитель Уртт
 Deranged Citizen,Помешавшийся горожанин
 Derangement,Помешательство
 Derby Coordinator,Распорядитель дерби
@@ -63,7 +63,7 @@ Derby Participant,Участник дерби
 Derby starts in: %str1%,Дерби начнётся через: %str1%
 Dervish • Channels Gods,Дервиш • Направляет богов
 Derya,Дерья
-Describe the seer spell runes you encountered to Isgarren to decipher their purpose.,"Опишите Исгаррену встреченные вами руны заклинаний провидцев, чтобы разгадать их назначение."
+Describe the seer spell runes you encountered to Isgarren to decipher their purpose.,"Опишите Isgarren встреченные вами руны заклинаний провидцев, чтобы разгадать их назначение."
 Deserter Sword,Меч дезертира
 Desist movement!,Прекратить движение!
 Desist—movement.,Прекратить—движение.
@@ -74,7 +74,7 @@ Despair before me!,Отчайтесь предо мной!
 Desperate Coalescence,Отчаянное слияние
 Desperate Refugee,Отчаявшийся беженец
 Destiny's Edge? Who are they?,Остриё Судьбы? Кто это такие?
-Destro,Destro
+Destro,Дестро
 Destroy Death-Branded Lieutenants.,Уничтожьте клеймённых смертью лейтенантов.
 Destroy Empowering Crystals and Death-Branded Lieutenants.,Уничтожьте наделяющие силой кристаллы и клеймённых смертью лейтенантов.
 Destroy North Ley Siphon,Уничтожьте северный лей-сифон
@@ -83,7 +83,7 @@ Destroy South Ley Siphon,Уничтожьте южный лей-сифон
 Destroy Xera's creation.,Уничтожьте творение Ксеры.
 Destroy banner,Уничтожить знамя
 Destroy centaur supplies while Zirra bombards Recovery Camp.,"Уничтожайте припасы кентавров, пока Зирра обстреливает Лагерь Восстановления."
-Destroy charr copters before they escape so Smodur can calibrate the guns.,"Уничтожьте вертолёты чарров, пока они не улетели, чтобы Смодур смог откалибровать орудия."
+Destroy charr copters before they escape so Smodur can calibrate the guns.,"Уничтожьте вертолёты чарров, пока они не улетели, чтобы Smodur смог откалибровать орудия."
 Destroy corrupted eggs and stop the spread of Risen drakes.,Уничтожьте осквернённые яйца и остановите расползание восставших дрейков.
 Destroy dredge vehicles and mortars to break the siege.,"Уничтожьте машины и мортиры дреджей, чтобы снять осаду."
 Destroy it anyway.,Всё равно уничтожить.
@@ -121,7 +121,7 @@ Destroy the hostile golems.,Уничтожьте враждебных голем
 Destroy the ley siphons to stop both dragons from absorbing magic.,"Уничтожьте лей-сифоны, чтобы оба дракона перестали поглощать магию."
 Destroy the malfunctioning golem.,Уничтожьте неисправного голема.
 Destroy the misplaced aquatic creature.,Уничтожьте попавшее не туда водное существо.
-Destroy the nightmare versions of Caithe's friends.,Уничтожьте кошмарные подобия друзей Кейт.
+Destroy the nightmare versions of Caithe's friends.,Уничтожьте кошмарные подобия друзей Caithe.
 Destroy the peace between charr and human!,Уничтожьте мир между чаррами и людьми!
 Destroy the power generator.,Уничтожьте генератор энергии.
 Destroy the prison cage.,Уничтожьте тюремную клетку.
@@ -183,7 +183,7 @@ Determined to Kill Glenna,Полон решимости убить Гленну
 Detha Tremblebones,Дета Дрожащие Кости
 Detha's health,Здоровье Деты
 Detha's plan: trap and kill the Ghost Eater.,План Деты: поймать в ловушку и убить Ghost Eater.
-Detonate Chaos,Detonate Chaos
+Detonate Chaos,Подорвать хаос
 Detonate Turret,Подорвать турель
 Detonate your mine.,Подорвите свою мину.
 Detonation Device,Подрывное устройство
@@ -193,7 +193,7 @@ Devastating Melee Attacks,Разрушительные атаки ближнег
 Devoted Spectator,Преданный зритель
 Devoted of Secrets,Преданный Тайн
 Devoted of the Deeps,Преданный Глубин
-Devotee of Owl,Devotee of Owl
+Devotee of Owl,Приверженец Совы
 Devoured,Пожран
 Devourer Egg Nest,Гнездо яиц пожирателя
 Devourer Outbreak In: %str1%,Нашествие пожирателей через: %str1%
@@ -201,7 +201,7 @@ Devourer Population: %num1%%%,Численность пожирателей: %nu
 Devourer Queen,Королева пожирателей
 Devourer Training Kit,Набор для дрессировки пожирателей
 Devourer respects your authority.,Пожиратель признаёт вашу власть.
-Devouring Void,Devouring Void
+Devouring Void,Всепожирающая Пустота
 Devours Light • Vulnerable to Divine Fire,Пожирает свет • Уязвим к божественному огню
 Dexicos escapes in: %str1%.,Дексикос сбежит через: %str1%.
 Dextral Malady,Правосторонний недуг
@@ -220,7 +220,7 @@ Did anyone else see that? A purple streak across the sky! Must've been a Brandst
 Did that hurt?,Больно было?
 Did the elders make a decision?,Старейшины приняли решение?
 "Did you finish those chores I gave you yet, soldier?","Ты уже закончил ту работу, что я тебе поручил, солдат?"
-Did you grow? You look like you grew. All that Jormag energy can't be good for you.,"Ты подрос? Выглядишь так, будто подрос. Вся эта энергия Йормага не может быть тебе на пользу."
+Did you grow? You look like you grew. All that Jormag energy can't be good for you.,"Ты подрос? Выглядишь так, будто подрос. Вся эта энергия Jormag не может быть тебе на пользу."
 Did you hear the Captain's order?,Ты слышал приказ капитана?
 Did you hear? Sales are up!,Слыхал? Продажи выросли!
 "Did you hear? Your guild was ranked as one of Lion's Arch's ""Top 100 Guilds to Watch""!","Слыхал? Твою гильдию включили в «Сотню гильдий Lion's Arch, за которыми стоит следить»!"

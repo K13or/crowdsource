@@ -198,7 +198,7 @@ Svanir Engineer,Инженер Сванира
 Svanir Hunters,Охотники Сванира
 Svanir Reinforcement,Подкрепление Сванира
 Svanir Tyrant,Тиран Сванира
-Svanir reinforcements arrive in: %str1%,Подкрепление Сванира прибудет через: %str1%
+Svanir reinforcements arrive in: %str1%,Подкрепление Svanir прибудет через: %str1%
 Svanir sounds familiar.,Сванир — знакомое имя.
 Swallow the light.,Поглотить свет.
 Swallow them whole!,Проглоти их целиком!
@@ -207,7 +207,7 @@ Swamp Gasses,Болотные газы
 Swashbuckler's Daring,Удаль сорвиголовы
 Sweeping Judgment,Размашистый приговор
 Sweet Dance,Сладкий танец
-"Sweet Joko, more wurm training? Maybe I'll teach it to play dead so we can skip class today.","О милостивый Джоко, снова тренировать червя? Может, научу его прикидываться мёртвым, и мы сегодня прогуляем занятие."
+"Sweet Joko, more wurm training? Maybe I'll teach it to play dead so we can skip class today.","О милостивый Joko, снова тренировать червя? Может, научу его прикидываться мёртвым, и мы сегодня прогуляем занятие."
 Sweets for the sweet tooth!,Сладости для сластён!
 Swift • Heals Allies,Стремительный • Исцеляет союзников
 Swift • Stealths • Damaging Area Attack,Стремительный • Уходит в невидимость • Урон по области
@@ -231,14 +231,14 @@ TEST:This should never ever be visible,TEST:Это никогда и ни при
 TIER 1: Stop the agitated invaders from entering the rift to draw out the cause.,"УРОВЕНЬ 1: не дайте встревоженным захватчикам войти в разлом, чтобы выманить причину."
 Taahir,Таахир
 Tact,Такт
-Tactician Saoul,Tactician Saoul
-Tactician Zander,Tactician Zander
-Tactician Zynka,Tactician Zynka
+Tactician Saoul,Тактик Саул
+Tactician Zander,Тактик Зандер
+Tactician Zynka,Тактик Зинка
 "Tag, you're it!","Салки, ты водишь!"
 Tag-Team Golemancer,Големансер-напарник
-Taimi did mention Gorrik. Seemed a little agitated... I'll talk to her.,Тайми и правда упоминала Горрика. Выглядела встревоженной... Я с ней поговорю.
-Taimi may find this interesting. I'll have to send her my reports.,Тайми это может показаться любопытным. Надо отправить ей мои отчёты.
-"Taimi's note says to press this button, then start talking.",В записке Тайми сказано нажать эту кнопку и начать говорить.
+Taimi did mention Gorrik. Seemed a little agitated... I'll talk to her.,Taimi и правда упоминала Горрика. Выглядела встревоженной... Я с ней поговорю.
+Taimi may find this interesting. I'll have to send her my reports.,Taimi это может показаться любопытным. Надо отправить ей мои отчёты.
+"Taimi's note says to press this button, then start talking.",В записке Taimi сказано нажать эту кнопку и начать говорить.
 "Take Bounty: Aszar, Swinging Pendulum","Взять награду: Асзар, Качающийся Маятник"
 Take Bounty: Awakened Abhorrence,Взять награду: Пробуждённое Мерзилище
 Take Bounty: Awakened Hoarder,Взять награду: Пробуждённый Скопидом
@@ -343,4 +343,4 @@ Target neutralized.,Цель нейтрализована.
 Target status reset to GRADUAL DECAY.,Состояние цели сброшено на ПОСТЕПЕННЫЙ РАСПАД.
 Targeting Control Module,Модуль управления наведением
 Targets hit by crystal breath will be transformed.,"Цели, задетые кристальным дыханием, будут преображены."
-"Tarir needs you. Your blade, your courage, and your resolve!","Тарир нуждается в тебе. В твоём клинке, твоей отваге и твоей решимости!"
+"Tarir needs you. Your blade, your courage, and your resolve!","Tarir нуждается в тебе. В твоём клинке, твоей отваге и твоей решимости!"

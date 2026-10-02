@@ -8,8 +8,8 @@ Rally the troops to fight back against Tyria's most devious villain in her plot 
 "Rally to me, Ascalonians!","Ко мне, аскалонцы!"
 Rally to the forge to regroup with your other allies.,"Соберитесь у кузницы, чтобы перегруппироваться с вашими другими союзниками."
 Rally Unlocked,Сбор разблокирован
-Rally with Frode and Major Emund at the forward bivouac to begin the offensive.,"Соберитесь с Фроде и Major Emund на передовом бивуаке, чтобы начать наступление."
-Rally with Frode to the north to investigate the area.,"Соберитесь с Фроде на севере, чтобы исследовать местность."
+Rally with Frode and Major Emund at the forward bivouac to begin the offensive.,"Соберитесь с Frode и Major Emund на передовом бивуаке, чтобы начать наступление."
+Rally with Frode to the north to investigate the area.,"Соберитесь с Frode на севере, чтобы исследовать местность."
 Rally with Major Emund to assault the loyalist stronghold.,Соберитесь с Major Emund для штурма оплота лоялистов.
 Rally your allies to engage in the fiercest battles in the area. The lasting safety of Tyria is in your hands.,"Соберите своих союзников, чтобы вступить в самые ожесточённые битвы в этом районе. Долгосрочная безопасность Тирии в ваших руках."
 Rally your allies to help stabilize the Mists!,"Соберите своих союзников, чтобы помочь стабилизировать Туман!"
@@ -55,7 +55,7 @@ Rampart Heavy Warboot Skin[s],"Рампарт, тяжёлые военные с�
 Rampart Heavy Warhelm Skin[s],"Рампарт, тяжёлый боевой шлем, внешний вид[|а|ов]"
 Rampart Heavy Warplate Skin[s],"Рампарт, тяжёлый доспех[|а|ов]"
 Rampart Turai Ossa[s],Турай Осс[а|ы|]
-"Ramses claims that the beacon near our camp is part of a sort of security system that was used at some point in the past, before Heitor arrived and completely barricaded access to the fortress. Apparently the Kryptis had little fear of attack, as I hear it is not a particularly powerful weapon and has remained unused for some time—ignored by Heitor, and possibly scorned by Ignaxious. I suppose when one is able to create seemingly impregnable magical barrier defenses on a grand scale, such defenses become obsolete.    —Researcher Selly","Рамзес утверждает, что маяк возле нашего лагеря является частью своего рода системы безопасности, которая использовалась в прошлом, до того как Хейтор прибыл и полностью забаррикадировал доступ к крепости. По-видимому, криптисы мало боялись нападения, так как, как я слышал, это не особенно мощное оружие и оставалось неиспользованным в течение некоторого времени — игнорируемое Хейтором и, возможно, презираемое Игнаксиусом. Полагаю, когда кто-то способен создавать, казалось бы, неприступные магические барьерные защиты в огромных масштабах, такие защиты становятся устаревшими.    —Исследователь Сэлли"
+"Ramses claims that the beacon near our camp is part of a sort of security system that was used at some point in the past, before Heitor arrived and completely barricaded access to the fortress. Apparently the Kryptis had little fear of attack, as I hear it is not a particularly powerful weapon and has remained unused for some time—ignored by Heitor, and possibly scorned by Ignaxious. I suppose when one is able to create seemingly impregnable magical barrier defenses on a grand scale, such defenses become obsolete.    —Researcher Selly","Ramses утверждает, что маяк возле нашего лагеря является частью своего рода системы безопасности, которая использовалась в прошлом, до того как Хейтор прибыл и полностью забаррикадировал доступ к крепости. По-видимому, криптисы мало боялись нападения, так как, как я слышал, это не особенно мощное оружие и оставалось неиспользованным в течение некоторого времени — игнорируемое Хейтором и, возможно, презираемое Игнаксиусом. Полагаю, когда кто-то способен создавать, казалось бы, неприступные магические барьерные защиты в огромных масштабах, такие защиты становятся устаревшими.    —Исследователь Сэлли"
 Ramshackle Turret,Ветхая турель
 Ramshorn Snail[s],[Улитка-барашек|Улитки-барашка|Улиток-барашков]
 Ramview Peak,Пик Рамвью
@@ -108,7 +108,7 @@ Ranger Pet Swap,Смена питомца рейнджера
 Ranger Trainer<br>• Buy Ranger Skill Guides,Тренер рейнджеров<br>• Купить руководства по навыкам рейнджера
 Ranger Trainer<br>• Teaches traits,Тренер рейнджеров<br>• Обучает чертам
 Ranger's Cache[s],[Тайник|Тайника|Тайников] рейнджера
-Rank %num1% : %str1%,Ранг %num1% : %str1%
+Rank %num1% : %str1%,Ранг %num1%: %str1%
 Rank 3 or higher required to use that command.,Для использования этой команды требуется ранг 3 или выше.
 Rank and Abilities,Ранг и способности
 Rank Points,Очки ранга
@@ -123,7 +123,7 @@ Ranked Players,Рейтинговые игроки
 Rankings for the Bronze league of the 2004 WvW Tournament.,Рейтинг бронзовой лиги турнира WvW 2004 года.
 Rankings for the Gold league of the 2004 WvW Tournament.,Рейтинг золотой лиги турнира WvW 2004 года.
 Rankings for the Silver league of the 2004 WvW Tournament.,Рейтинг серебряной лиги турнира WvW 2004 года.
-Ranoah Grindsteel,Ranoah Grindsteel
+Ranoah Grindsteel,Раноа Сталеточ
 Rapacious Strain,Прожорливый штамм
 Rapid Adiabatic Cooling,Быстрое адиабатическое охлаждение
 Rapid Attacks,Быстрые атаки
@@ -209,7 +209,6 @@ Rata Arcanum: Underneath a large firestone spire.,Rata Arcanum: Под боль�
 Rata Novus Fractal Research,Исследование фракталов Rata Novus
 Rata Novus Golem,Голем Rata Novus
 Rata Novus golems have joined the Rata Novus lane to help collect stray ley energy.,"Големы Rata Novus присоединились к линии Rata Novus, чтобы помочь собрать блуждающую энергию лей-линий."
-"Rata Novus has made substantial advancements since our last observation. There has been a significant leap forward in the mass automation of their society, and all but the most sophisticated work is now handled by golems. Additionally, they have not experienced a chak attack in decades, as their domestication and control of the creatures have been further cemented.Conclusion: The fractal has proven worthwhile already, and there are a number of new technologies they've developed that may be useful for our purposes. Our estimates indicate the city is likely to continue prospering and developing into the future. Recommend continuing the experiment indefinitely.","Rata Novus достигла значительного прогресса с момента нашего последнего наблюдения. Произошёл значительный скачок в массовой автоматизации их общества, и теперь всю работу, кроме самой сложной, выполняют големы. Кроме того, они не сталкивались с атаками чаков уже несколько десятилетий, так как их одомашнивание и контроль над этими существами ещё более укрепились. Вывод: Фрактал уже доказал свою полезность, и существует ряд новых технологий, которые они разработали и которые могут быть полезны для наших целей. Наши оценки показывают, что город, вероятно, будет процветать и развиваться в будущем. Рекомендуется продолжать эксперимент бессрочно."
 Rata Novus has reached max strength! Allied Rata Novus lasers have been unlocked in the Rata Novus lane.,Rata Novus достигла максимальной силы! Союзные лазеры Rata Novus разблокированы на линии Rata Novus.
 Rata Novus Provisioner Token Exchange,Обмен жетонов снабженца Rata Novus
 Rata Novus Studies 1,Исследования Rata Novus 1
@@ -280,13 +279,13 @@ Ravaging Soft Inscription[s],[Гравировка|Гравировки|Грав
 Ravaging Steel Imbued Inscription[s],[Гравировка|Гравировки|Гравировок] «Опустошение» из стали с пропиткой
 Ravaging Steel Plated Inscription[s],[Гравировка|Гравировки|Гравировок] «Опустошение» из плакированной стали
 Ravaging Wool Insignia[s],[Инсигния|Инсигнии|Инсигний] из шерсти ворона
-Raven Barrier Shrine,Raven Barrier Shrine
-Raven Blessing,Raven Blessing
+Raven Barrier Shrine,Святилище барьера Ворона
+Raven Blessing,Благословение Ворона
 Raven Captured,Ворон захвачен
 Raven Egg[s],[Яйцо|Яйца|Яиц] ворона
-Raven Eggs,Raven Eggs
+Raven Eggs,Яйца Ворона
 Raven eggs have been known to fall out of their nests around the Heart of the Raven in Wayfarer Foothills.,"Известно, что яйца ворона выпадают из гнезд в окрестностях Heart of the Raven в Wayfarer Foothills."
-Raven Form,Raven Form
+Raven Form,Форма ворона
 Raven Gloves Skin[s],[Облик|Облика|Обликов] перчаток ворона
 Raven Greaves now available!,Наголенники ворона теперь доступны!
 Raven Greaves Skin[s],[Облик|Облика|Обликов] наголенников ворона
@@ -296,23 +295,23 @@ Raven has ascended.,Ворон вознесся.
 Raven Helm skin is now available!,Облик шлема ворона теперь доступен!
 Raven Helm Skin[s],[Облик|Облика|Обликов] шлема ворона
 Raven Helm[s],[Шлем|Шлема|Шлемов] ворона
-Raven Leap,Raven Leap
+Raven Leap,Прыжок ворона
 Raven Leggings now available!,Поножи ворона теперь доступны!
 Raven Leggings Skin[s],[Облик|Облика|Обликов] поножей ворона
 Raven Mantle shoulder skin is now available!,Облик наплечников ворона теперь доступен!
 Raven Mantle Skin[s],[Облик|Облика|Обликов] мантии ворона
-Raven Nexus,Raven Nexus
-Raven Nook,Raven Nook
-Raven NOT IMPLEMENTED,Raven NOT IMPLEMENTED
-Raven Post,Raven Post
-Raven Sanctum Chamber Entrance,Raven Sanctum Chamber Entrance
-Raven Sanctum Waypoint,Raven Sanctum Waypoint
-Raven Spirit Idol,Raven Spirit Idol
+Raven Nexus,Нексус ворона
+Raven Nook,Уголок Ворона
+Raven NOT IMPLEMENTED,Ворон НЕ РЕАЛИЗОВАН
+Raven Post,Пост Ворона
+Raven Sanctum Chamber Entrance,Вход в Зал Святилища Ворона
+Raven Sanctum Waypoint,Путевая точка Святилища Ворона
+Raven Spirit Idol,Идол Духа Ворона
 Raven Spirit Shadow[s],[Тень|Тени|Теней] духа ворона
 Raven Statue[s],[Статуя|Статуи|Статуй] ворона
 Raven told me you'd be coming.,"Ворон сказал мне, что ты придёшь."
 Raven Totem[s],[Тотем|Тотема|Тотемов] ворона
-Raven Unarmed,Raven Unarmed
+Raven Unarmed,Ворон без оружия
 Raven Vest is now available!,Жилет Ворона теперь доступен!
 Raven Vest Skin[s],[Облик|Облика|Обликов] жилета ворона
 Raven's Cleverness,Хитрость Ворона
@@ -361,7 +360,7 @@ Rawhide Shoulders Skin[s],[Облик|Облика|Обликов] наплеч�
 Rawhide String[s],[Струна|Струны|Струн] из сыромятной кожи
 Rawhide Vest Skin[s],[Облик|Облика|Обликов] жилета из сыромятной кожи
 Ray[s] of Mana,[Луч|Луча|Лучей] маны
-Raze the area around you with Sohothin's fury.,Сожгите область вокруг себя яростью Сохотина.
+Raze the area around you with Sohothin's fury.,Сожгите область вокруг себя яростью Sohothin.
 Razor Claw,Коготь-бритва
 Razor Knuckles,Кастеты-бритвы
 Razor Shard (Level 68),Осколок бритвы (68 уровень)
@@ -381,7 +380,7 @@ Reaction Skills,Реактивные навыки
 Reactive Damage Mitigation • Weak against Minor Breakthrough,Реактивное смягчение урона • Слабость к незначительному прорыву
 Reactor: 2 Points,Реактор: 2 очка
 Reactor—initialization—program—override—overridden. Production—resumed.,Реактор—инициализация—программа—переопределение—переопределено. Производство—возобновлено.
-Read %num1%/16 Books and Scrolls in Kormir's Library,Прочитать %num1%/16 книг и свитков в библиотеке Кормир
+Read %num1%/16 Books and Scrolls in Kormir's Library,Прочитать %num1%/16 книг и свитков в библиотеке Kormir
 Read a bit of literature.,Почитать немного литературы.
 Read a children's book.,Прочитать детскую книгу.
 Read a letter.,Прочитать письмо.
@@ -391,7 +390,7 @@ Read about the quaggan love potion in the Durmand Priory.,Прочитать о 
 "Read about the ritual ""Exaltation of the Guardians.""",Прочитать о ритуале «Возвеличивание Стражей».
 "Read about the ritual ""Glorify the Golden Heart.""",Прочитать о ритуале «Прославление Золотого сердца».
 "Read about the ritual ""Walk the Land.""",Прочитать о ритуале «Walk the Land».
-Read an article about Joon.,Прочитать статью о Джун.
+Read an article about Joon.,Прочитать статью о Joon.
 Read Ardra's letter.,Прочитать письмо Ардры.
 Read %num2% field notes.,Прочитайте %num2% полевых заметок.
 Read Glenna's Letter: Travel to Mt. Balrior and Fight the Titans,Прочитать письмо Гленны: Отправиться на гору Балриор и сразиться с титанами
@@ -407,7 +406,7 @@ Read the book in the upper area of the Nexus of Moonlight.,Прочитать к
 Read the book on black powder found inside the Durmand Priory in Lornar's Pass.,"Прочитать книгу о чёрном порохе, найденную внутри Durmand Priory в Lornar's Pass."
 Read the journal and learn about the fallen Astral Ward members.,Прочитать дневник и узнать о павших членах Astral Ward.
 Read the letter from Chief Inspector Lutze.,Прочитать письмо от Chief Inspector Lutze.
-Read the letter from Zizel.,Прочитать письмо от Зизель.
+Read the letter from Zizel.,Прочитать письмо от Zizel.
 Read the memory left by the Kryptis.,"Прочитать воспоминание, оставленное Криптис."
 Read the note on the World 3 entrance door inside the Super Adventure Box.,Прочитайте записку на двери входа в Мир 3 внутри Super Adventure Box.
 Read the titan history books at Forager's Hunt.,Прочитайте книги по истории титанов в Forager's Hunt.
@@ -428,7 +427,7 @@ Ready to Train,Готов к обучению
 Ready your second weapon set by arming it in your Hero panel. Press <c=@Quest>[lbracket]~[rbracket]</c> to switch sets while not in combat.,"Экипируйте второй набор оружия в панели героя. Нажмите <c=@Quest>[lbracket]~[rbracket]</c>, чтобы переключать наборы вне боя."
 Real-time game observation disabled.,Наблюдение за игрой в реальном времени отключено.
 Real-time game observation enabled.,Наблюдение за игрой в реальном времени включено.
-Realm of Torment,Realm of Torment
+Realm of Torment,Царство Мучений
 Realm Portal Spike,Шип Врат Царства
 Realm Residue,Остаток Царства
 Reanna the Hunter,Реанна Охотница
@@ -450,7 +449,7 @@ Reattempting connection to the server (Code=%num1%).,Повторная попы
 Reaver Burst,Залп Жнеца
 Rebel against the ghastly prison.,Восстань против жуткой тюрьмы.
 Rebel against the harrowing prison.,Восстань против ужасающей тюрьмы.
-Rebel Isaak,Rebel Isaak
+Rebel Isaak,Мятежник Исаак
 Rebel Jacket is now available!,Rebel Jacket теперь доступна!
 Rebel Jacket Skin[s],[Облик|Облика|Обликов] куртки «Мятежник»
 Rebel Keyon,Мятежник Кейон
@@ -479,7 +478,7 @@ Receive 5 dyes of your choice.,Получите 5 красок на ваш вы�
 receive a commendation from my legion.,получить похвалу от моего легиона.
 Receive a random Black Lion Weapon skin of the weapon of your choice.,Получите случайный облик оружия Black Lion для выбранного вами оружия.
 Receive a random tradable Black Lion weapon skin item.,Получите случайный передаваемый предмет облика оружия Black Lion.
-Receive a treat from Priestess Karima outside of Amnoon in return for aiding the refugees at Marifa Camp.,Получите угощение от Priestess Karima за пределами Амнуна в награду за помощь беженцам в лагере Марифа.
+Receive a treat from Priestess Karima outside of Amnoon in return for aiding the refugees at Marifa Camp.,Получите угощение от Priestess Karima за пределами Amnoon в награду за помощь беженцам в лагере Марифа.
 Receive all of the following items:,Получите все следующие предметы:
 "Receive at least 5 research notes, most of the time.<c=#Flavor>For all the good deeds you do, why spend time standing around crafting when you can save the world?</c>","Получайте не менее 5 исследовательских записей, чаще всего.<c=#Flavor>За все ваши добрые дела, зачем тратить время на изготовление, если можно спасать мир?</c>"
 "Receive at least 5 research notes, most of the time.<c=#Flavor>Imagine making an item just to destroy it. Just give it to me!</c>","Получайте не менее 5 исследовательских записей, чаще всего.<c=#Flavor>Представьте, что вы создаете предмет только для того, чтобы уничтожить его. Просто отдайте его мне!</c>"

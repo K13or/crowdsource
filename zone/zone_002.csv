@@ -34,7 +34,7 @@ english,translate
 """Your"" grounds? You stole this land, scorned one. But do not worry—we will see you never leave it.","«Ваши» земли? Вы украли эту землю, отверженный. Но не волнуйтесь — мы позаботимся о том, чтобы вы её никогда не покинули."
 """Zhaitan's power will not fail me!""",«Сила Zhaitan не подведет меня!»
 """and dangerous enemies...""",и опасные враги...
-&#9834;music&#9834;,Музыка
+&#9834;music&#9834;,&#9834;музыка&#9834;
 "&mdash;F""","&mdash;Ф»"
 "&nbsp;Ah, Wayfinder! I... Uh, well, I don't have permission to perform unknown rituals. But I suspect this one could be of great use to us. You don't have to help me, but I wouldn't mind if you stuck around...","Ах, Путешественник! Я... Эм, ну, у меня нет разрешения проводить неизвестные ритуалы. Но я подозреваю, что этот может быть очень полезен для нас. Ты не обязан мне помогать, но я не против, если ты останешься поблизости..."
 ','
@@ -96,7 +96,7 @@ english,translate
 (Norn) I know many who'd howl at a chance to make their legend with this fight.,"(Норн) Я знаю многих, кто с радостью ухватился бы за шанс вписать свое имя в легенды в этой битве."
 (Norn) I look forward to the day.,(Норн) С нетерпением жду этого дня.
 "(Norn) In the past, we've been prey. It's time to become the hunters we are.","(Норн) В прошлом мы были добычей. Пора стать охотниками, которыми мы и являемся."
-(One of the following for both Dagda and Zojja):,(Один из следующих вариантов для Дагды и Зойи):
+(One of the following for both Dagda and Zojja):,(Один из следующих вариантов для Дагды и Zojja):
 (One of the following):,(Одно из следующего):
 "(Order of Whispers) Greetings, my large friend. We've come to speak with your chief about the large hordes of Branded creatures gathering nearby.","(Order of Whispers) Приветствую, мой крупный друг. Мы пришли поговорить с вашим вождем о больших ордах Branded существ, собирающихся неподалеку."
 "(Order of Whispers) Look at 'em, sticking by each other no matter what. I wish...I mean, my old warband...ah, never mind.","(Order of Whispers) Посмотрите на них, держатся друг за друга, что бы ни случилось. Жаль... то есть, мой старый отряд... а, неважно."
@@ -275,7 +275,7 @@ english,translate
 (growl) Cut me some slack. I'm still getting used to this new magic and...how to describe it.,(рычит) Дайте мне передышку. Я все ещё привыкаю к этой новой магии и... как бы это описать.
 (growl) Don't plan on Braham ever talking to us again if we take Jormag off the table.,"(рычит) Не надейся, что Braham когда-нибудь заговорит с нами снова, если мы уберем Jormag со стола."
 (growl) Engage me. Fight me.,Защитите mosshearts от Nightmare Court.
-(growl) Enough waiting! We don't need reinforcements. We can stop these Svanir assaults on our own.,(рычит) Хватит ждать! Нам не нужны подкрепления. Мы можем остановить эти атаки Сваниров сами.
+(growl) Enough waiting! We don't need reinforcements. We can stop these Svanir assaults on our own.,(рычит) Хватит ждать! Нам не нужны подкрепления. Мы можем остановить эти атаки Svanir сами.
 (growl) Fine. Just so long as I'm on record: this is a bad idea.,(рычит) Ладно. Просто чтобы вы знали: это плохая идея.
 (growl) Go! Go get more meat! I don't care how much it costs!,"(рычит) Иди! Иди принеси ещё мяса! Мне плевать, сколько это стоит!"
 (growl) Great.,(рычит) Отлично.
@@ -409,7 +409,7 @@ english,translate
 (laugh) She's soft-hearted that way. You guys have a safe trip. I'll stay here.,(смеется) Она такая сердобольная. Счастливого пути. Я останусь здесь.
 (laugh) Shut up!,(смеется) Заткнись!
 "(laugh) Thank you for that story, Tribune Brimstone.","(смеется) Спасибо за эту историю, трибун Brimstone."
-"(laugh) Thank you, Braham. For being my friend.","(смеётся) Спасибо тебе, Брейхам. За то, что ты мой друг."
+"(laugh) Thank you, Braham. For being my friend.","(смеётся) Спасибо тебе, Braham. За то, что ты мой друг."
 (laugh) That should teach Plynn a lesson.,(смеется) Это должно проучить Plynn.
 (laugh) That was the Crush cubs too?,(смеется) Это тоже были детеныши из Crush?
 (laugh) That's a loaded question. Let me tell you about my Tassi box. I bought it off a snotty little asura.,(смеется) С подвохом вопрос. Позволь мне рассказать тебе о моей коробке Tassi. Я купила её у одного наглого маленького асуры.

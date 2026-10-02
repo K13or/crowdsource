@@ -4,7 +4,7 @@ A very small siamoth. Or is it?,Совсем маленький сиамот. И
 "A voice echoes in your head, ""Hero of a new age, show me how much you've grown since you left your home!""","В твоей голове раздаётся эхо голоса: «Герой новой эпохи, покажи мне, как ты вырос с тех пор, как покинул дом!»"
 "A voice like wind through leaves speaks to you, ""You will not be allowed to harm this seed. Should you choose to stay, your strength will be tested.""","Голос, подобный ветру в листве, обращается к тебе: «Тебе не позволят навредить этому семени. Если решишь остаться, твою силу испытают»."
 "A voice whispers on the wind, daring you to test your mettle.","Голос шепчет на ветру, подначивая тебя испытать свою отвагу."
-"A voice whispers to you through the portal, ""Strength alone governs this world. Embrace Jormag, and you will gain power beyond belief.""",Сквозь портал тебе шепчет голос: «В этом мире правит одна лишь сила. Прими Йормага — и обретёшь могущество сверх всякой меры».
+"A voice whispers to you through the portal, ""Strength alone governs this world. Embrace Jormag, and you will gain power beyond belief.""",Сквозь портал тебе шепчет голос: «В этом мире правит одна лишь сила. Прими Jormag — и обретёшь могущество сверх всякой меры».
 "A voice, like gears grinding and electricity crackling, bellows a challenge.","Голос, похожий на скрежет шестерён и треск электричества, ревёт вызов."
 A waste...,Впустую...
 "A week has passed since the return of the Vanguard to Ascalon, and still the hero worship continues. Children run through the streets playing Ebon Vanguard and charr.","Прошла неделя с возвращения Авангарда в Аскалон, а поклонение героям всё не утихает. Дети бегают по улицам, играя в Чёрный Авангард и чарров."
@@ -38,7 +38,7 @@ Abby,Эбби
 Abducts Helpless Characters,Похищает беспомощных персонажей
 Aberrant Haunt,Логово аберрантов
 Aberrant Imp[s],[Бесёнок-аберрант|Бесёнка-аберранта|Бесят-аберрантов]
-Aberrant Skelk,Aberrant Skelk
+Aberrant Skelk,Скелк-аберрант
 Aberrant Warg,Варг-аберрант
 Abominable Whelp,Мерзкий щенок
 Abomination leaps forward and unleashes a massive two-handed blow.,Мерзость прыгает вперёд и обрушивает мощный удар двумя руками.
@@ -55,7 +55,7 @@ Absorbs Boons from Nearby Foes • Damages Nearby Facets on Death,Поглоща
 Absorbs projectiles,Поглощает снаряды
 Academic Records,Академические записи
 Academy Provisioner,Снабженец академии
-Acatl,Acatl
+Acatl,Акатль
 Acatl will escape in: %str1%,Акатль сбежит через: %str1%
 Accept the challenge.,Принять вызов.
 Accept this sacrifice.,Принять эту жертву.
@@ -261,7 +261,7 @@ Acidic Gas,Едкий газ
 Ack! Feathers everywhere!,Ай! Перья повсюду!
 Aclik'lik,Аклик’лик
 Acolyte Alex,Послушник Алекс
-Acolyte Margot,Acolyte Margot
+Acolyte Margot,Послушница Марго
 Acolyte Reinforcements,Подкрепление послушников
 Acolyte Rodi,Послушник Роди
 Acolyte of Balthazar Sanction,Санкция послушника Бальтазара
@@ -317,7 +317,7 @@ Address,Адрес
 Adds poison to some naga attacks.,Добавляет яд к некоторым атакам наг.
 Adelbern Unarmed,Адельберн без оружия
 "Adelbern smashed his ancient blade Magdaer, and cursed Ascalon.",Адельберн разбил свой древний клинок Магдаэр и проклял Аскалон.
-Adherent Avyn,Adherent Avyn
+Adherent Avyn,Приверженец Авин
 Adherent of Owl,Приверженец Совы
 Administrator Jadefinch,Администратор Нефритовый Зяблик
 Admiral Clarinda Demard has transformed you into a moa.,Адмирал Кларинда Демард превратила вас в моа.
@@ -347,8 +347,8 @@ Advisor Mussa,Советник Мусса
 Advisor Okk,Советник Окк
 Advisor Oztotl,Советник Ототль
 Advisor Yolac,Советник Йолак
-Advisor Zakk,Advisor Zakk
-Aeming,Aeming
+Advisor Zakk,Советник Закк
+Aeming,Эминг
 Aerial Defense,Воздушная оборона
 Aeronaut Swizzi,Аэронавт Свиззи
 Aeronotics Fan,Поклонник «Аэронотики»
@@ -356,7 +356,7 @@ Aeronotics Fan,Поклонник «Аэронотики»
 Aether Cannon,Эфирная пушка
 Aether Grid,Эфирная сетка
 Aether Mine Cart,Вагонетка с эфирной рудой
-Aetherblade Admiral,Aetherblade Admiral
+Aetherblade Admiral,Адмирал Эфирного Клинка
 Aetherblade Assault: Haiju Lagoon,Штурм Эфирного Клинка: Лагуна Хайдзю
 Aetherblade Assault: Haiju Plains,Штурм Эфирного Клинка: Равнины Хайдзю
 Aetherblade Assault: Shinota Shore,Штурм Эфирного Клинка: Берег Синота
@@ -384,9 +384,9 @@ Afraid,Напуган
 "After greatly reducing magnitude, I'm quite happy to report that the next round of subjects were transported into the sheet rock nearby!","Значительно снизив величину, я с большой радостью сообщаю, что следующую партию подопытных перенесло в соседний слоистый камень!"
 "After his father died, Bhuer successfully petitioned Smodur the Unflinching to erect a statue in honor of his father's noble sacrifice.",После смерти отца Буэр добился у Smodur the Unflinching разрешения воздвигнуть статую в честь благородной жертвы своего отца.
 "After that, we'll bring the fight to them.",А после этого мы дадим им бой на их же земле.
-"After the Pact defeated Zhaitan, they were celebrated as heroes. We nobles wanted to cheer on the troops, so Faren arranged for our airship to rendezvous with the fleet. It seemed like a good idea.","После того как Пакт одолел Зайтана, их чествовали как героев. Мы, знать, хотели поприветствовать войска, и Фарен устроил встречу нашего воздушного корабля с флотом. Тогда это казалось хорошей мыслью."
+"After the Pact defeated Zhaitan, they were celebrated as heroes. We nobles wanted to cheer on the troops, so Faren arranged for our airship to rendezvous with the fleet. It seemed like a good idea.","После того как Пакт одолел Zhaitan, их чествовали как героев. Мы, знать, хотели поприветствовать войска, и Фарен устроил встречу нашего воздушного корабля с флотом. Тогда это казалось хорошей мыслью."
 "After the Time of Great Trial, the kodan realized that we were also charged with teaching fire about creation.","После Времени Великого Испытания коданы поняли, что нам поручено ещё и учить огонь созиданию."
-"After the recent demon run-in, our efforts to curtail Cantha's energy crisis are...postponed. Me and my team of experts—",После недавней стычки с демонами наши усилия по преодолению энергетического кризиса Кантхи... отложены. Я и моя команда специалистов...
+"After the recent demon run-in, our efforts to curtail Cantha's energy crisis are...postponed. Me and my team of experts—",После недавней стычки с демонами наши усилия по преодолению энергетического кризиса Cantha... отложены. Я и моя команда специалистов...
 "After the start of each month, when arriving in a major city, members of the Eldvin Monastery Brew of the Month Club will receive a package with that month's brew.","После начала каждого месяца, прибыв в крупный город, участники «Клуба пива месяца» монастыря Элдвин получают посылку с напитком этого месяца."
 "After this is done, we should hold an omelette-eating contest.","Когда с этим будет покончено, надо будет устроить состязание по поеданию омлетов."
 "After this, I'm counting the Vigil as real soldiers.",После такого я считаю Дозор настоящими солдатами.

@@ -1,5 +1,5 @@
 english,translate
-Dive deep where Dwayna meets the waterway.,"Нырните глубоко там, где Двайна встречается с протокой."
+Dive deep where Dwayna meets the waterway.,"Нырните глубоко там, где Dwayna встречается с протокой."
 Dive forward to avoid attacks.,"Рывок вперёд, чтобы уйти от атак."
 Dive forward to close distance or evade attacks.,"Рывок вперёд, чтобы сократить дистанцию или уклониться от атак."
 Dive into the ground and move just under the surface.,Ныряет в землю и движется у самой поверхности.
@@ -39,7 +39,7 @@ Diviner's Armor Recipe Book[s],[Книга|Книги|Книг] рецептов
 Diviner's Ascended Armor Recipe Book[s],[Книга|Книги|Книг] рецептов вознесённой брони Прорицателя
 Diviner's Ascended Weapon Recipe Book[s],[Книга|Книги|Книг] рецептов вознесённого оружия Прорицателя
 Diviner's Equipment,Снаряжение Прорицателя
-Diviner's Gate,Diviner's Gate
+Diviner's Gate,Врата Прорицателя
 Diviner's Intricate Gossamer Insignia[s],[Витиеватая тонкотканая инсигния|Витиеватых тонкотканых инсигнии|Витиеватых тонкотканых инсигний] Прорицателя
 Diviner's Jewelry Recipe Book[s],[Книга|Книги|Книг] рецептов украшений Прорицателя
 Diviner's Orichalcum-Imbued Inscription[s],[Пропитанная орихалком гравировка|Пропитанных орихалком гравировки|Пропитанных орихалком гравировок] Прорицателя
@@ -125,7 +125,7 @@ Do Nothing,Ничего не делать
 Do Nothing Transformation Buff,Усиление превращения «Ничего не делать»
 Do things and stuff.,Делайте что-нибудь и всякое такое.
 Do very minor damage all around you to attract enemy attention.,"Наносит совсем небольшой урон вокруг вас, чтобы привлечь внимание врагов."
-Do what you can to reactivate Grenth's reliquary.,"Сделайте всё возможное, чтобы вновь запустить реликварий Гренса."
+Do what you can to reactivate Grenth's reliquary.,"Сделайте всё возможное, чтобы вновь запустить реликварий Grenth."
 Do You Believe?,Веришь ли ты?
 Do you have any food?,Есть ли у вас еда?
 Do you see a changing light pattern on your supported Alienware devices?,Видите ли вы меняющийся световой узор на поддерживаемых устройствах Alienware?
@@ -135,9 +135,9 @@ Do you want to unlock an additional bank tab for your account?,Открыть д
 Dock Captured,Док захвачен
 Dock Crane[s],[Портовый кран|Портовых крана|Портовых кранов]
 Dock Worker,Портовый рабочий
-Dockmaster Jonnick,Dockmaster Jonnick
+Dockmaster Jonnick,Начальник порта Джонник
 Docks Waypoint,Путевая точка «Доки»
-Doctor Bleent,Doctor Bleent
+Doctor Bleent,Доктор Блинт
 Doctor Elly Elected,Доктор Элли избрана
 Document Bin,Ящик для документов
 Document Exchange,Обмен документами
@@ -242,9 +242,9 @@ Dominator Warhorn Skin[s],Облик[|а|ов] боевого рога «Дом�
 Dominator Weapons,Оружие «Доминатор»
 Dominican Republic,Доминиканская Республика
 Dominion activity south of the river has ceased.,Активность Доминиона к югу от реки прекратилась.
-Dominion Bomber,Dominion Bomber
+Dominion Bomber,Бомбардировщик Доминиона
 Dominion Commendation[s],[Похвала|Похвалы|Похвал] Доминиона
-Dominion Counterattack Imminent,Dominion Counterattack Imminent
+Dominion Counterattack Imminent,Контратака Доминиона неизбежна
 Dominion counterattacks are imminent!,Контратаки Доминиона неизбежны!
 Dominion counterattacks have resumed at %str2%.,Контратаки Доминиона возобновились: %str2%.
 "Dominion Crafting Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] ремесленных припасов Доминиона
@@ -253,7 +253,7 @@ Dominion forces have begun shelling the region with artillery fire. All control 
 Dominion forces targeted United Legions bases and an attack is imminent. Fall back to Umbral Grotto before it's too late!,"Силы Доминиона взяли на прицел базы Объединённых легионов, атака неизбежна. Отходите к Umbral Grotto, пока не поздно!"
 Dominion Intel Document[s],[Разведдокумент|Разведдокумента|Разведдокументов] Доминиона
 "Dominion Material Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] материалов Доминиона
-Dominion Mine,Dominion Mine
+Dominion Mine,Мина Доминиона
 Dominion mortar brigade en route to your location!,Мортирная бригада Доминиона движется к вашему местоположению!
 Dominion mortar brigade has arrived. Maintain shield integrity!,Мортирная бригада Доминиона прибыла. Держите щит целым!
 Dominion mortar brigade has arrived. Shield is inactive!,Мортирная бригада Доминиона прибыла. Щит не работает!
@@ -265,7 +265,7 @@ Dominion Special Mission: Decimate Their Ranks,Особое задание До�
 Dominion Special Mission: Northern Supply Lines,Особое задание Доминиона: северные пути снабжения
 Dominion Special Mission: Raze Their Camps,Особое задание Доминиона: сжечь их лагеря
 "Dominion Spoils Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] добычи Доминиона
-Dominion Tribune,Dominion Tribune
+Dominion Tribune,Трибун Доминиона
 "Dominion Tribune Manica Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с наручами трибуна Доминиона
 "Dominion Trophy Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] трофеев Доминиона
 Dominion's Breach (Dominion),Прорыв Доминиона (Доминион)
@@ -294,13 +294,11 @@ Don't Rotate Compass,Не вращать компас
 Don't run ahead just yet! Please use <c=@Quest>[lbracket]S[rbracket]</c> to walk backwards.,"Пока не убегайте вперёд! Пожалуйста, нажмите <c=@Quest>[lbracket]S[rbracket]</c>, чтобы идти назад."
 Don't show again for this item.,Больше не показывать для этого предмета.
 Don't show this again %str1%.,Больше не показывать это %str1%.
-"Don't trust that Canthan lady. Not one bit.Mostly keeps to herself. When she's not talking with Ankka, she sticks close to camp or wanders off on her own. She watches us but doesn't have a whole lot to say.Tries to come across as friendly, but you get a little peek of that grimace from time to time. Don't like it. Called Faas ""repugnant"" when he stepped on her shoe.Spends a lot of time staring at that journal. Seems like she writes down every thought or song that pops into her head. Gonna see if I can swipe a few pages...get them to the boss.","Не доверяй этой кантанской даме. Ни капли.Держится в основном особняком. Когда не говорит с Анккой, то сидит у лагеря или уходит бродить одна. Наблюдает за нами, но говорит мало.Строит из себя приветливую, но время от времени проскальзывает гримаса. Не нравится мне это. Назвала Фааса «омерзительным», когда он наступил ей на туфлю.Подолгу пялится в тот дневник. Похоже, записывает всякую мысль или песенку, что придёт в голову. Попробую стянуть пару страниц... и передать боссу."
 Don't. Don't say her name!,Не надо. Не произноси её имя!
-"Don't.But if you absolutely must (for example, if Irio said you couldn't and laughed at you), a deep clay pot as long as your arm is recommended. Turn to page 6 for potting instructions.","Не надо.Но если совсем невтерпёж (например, Ирио сказал, что у тебя не выйдёт, и посмеялся), рекомендуется глубокий глиняный горшок длиной с твою руку. Указания по посадке — на странице 6."
 Donate Food,Пожертвовать еду
 Donated %num1%/%num2% Continue Coins,Пожертвовано %num1%/%num2% монет продолжения
 Donated %num1%/%num2% Lunar New Year Foods,Пожертвовано %num1%/%num2% блюд Лунного нового года
-Donated %num1%/%num2% Points Worth of Essences of Luck to Drooburt,Друбурту пожертвовано эссенций удачи на %num1%/%num2% очков
+Donated %num1%/%num2% Points Worth of Essences of Luck to Drooburt,Drooburt пожертвовано эссенций удачи на %num1%/%num2% очков
 Donated %num1%/%num2% Snowflakes,Пожертвовано %num1%/%num2% снежинок
 Donated %num1%/%num2% Wrapped Gifts,Пожертвовано %num1%/%num2% упакованных подарков
 Donated Food,Еда пожертвована
@@ -383,7 +381,7 @@ Double-click to choose an ascended armor piece with Vigilant stats.,"Дважд�
 Double-click to choose an ascended armor piece with Viper's stats.,"Дважды щёлкните, чтобы выбрать предмет вознесённой брони с характеристиками «Гадюка»."
 Double-click to choose an ascended armor piece with Wanderer's stats.,"Дважды щёлкните, чтобы выбрать предмет вознесённой брони с характеристиками «Странник»."
 Double-click to consume.,"Дважды щёлкните, чтобы употребить."
-"Double-click to convert to materials.<br><br><c=@flavor>""The sea bass, long ago pushed to the brink of extinction from overfishing, now only live on as servants of Zhaitan.""</c>","Дважды щёлкните, чтобы превратить в материалы.<br><br><c=@flavor>«Морской окунь, давным-давно доведённый до грани вымирания перевыловом, ныне живёт лишь как слуга Зайтана».</c>"
+"Double-click to convert to materials.<br><br><c=@flavor>""The sea bass, long ago pushed to the brink of extinction from overfishing, now only live on as servants of Zhaitan.""</c>","Дважды щёлкните, чтобы превратить в материалы.<br><br><c=@flavor>«Морской окунь, давным-давно доведённый до грани вымирания перевыловом, ныне живёт лишь как слуга Zhaitan».</c>"
 Double-click to create a beta character.,"Дважды щёлкните, чтобы создать бета-персонажа."
 Double-click to create a character.,"Дважды щёлкните, чтобы создать персонажа."
 "Double-click to enter the Mists Vault and choose from starter kits for four legendary weapons: Bolt, Quip, The Moot, or The Predator.","Дважды щёлкните, чтобы войти в Mists Vault и выбрать один из стартовых наборов для четырёх легендарных оружий: Bolt, Quip, The Moot или The Predator."
@@ -421,10 +419,10 @@ Double-click to gain a hero point.<br>This potent drink is only served at the La
 "Double-click to gain a skill point.<br>Creature Codex<br>The fevered scrawlings of a pure madman. Only the first couple pages contain anything cogent, or legible, about the Shadow Behemoth.<br><c=@flavor>""My n-nightmares will never end.""<br>—Crazy Ivan </c><br>Account Collectible","Дважды щёлкните, чтобы получить очко умения.<br>Бестиарий<br>Лихорадочные каракули истинного безумца. Лишь первая пара страниц содержит что-то связное — и читаемое — о Shadow Behemoth.<br><c=@flavor>«М-мои кошмары никогда не кончатся».<br>—Полоумный Иван </c><br>Коллекционный предмет учётной записи"
 "Double-click to gain a skill point.<br>Creature Codex<br>These field notes overflow with eloquent prose that manages to obscure the vileness of these disease-carrying beasts.<br><c=@flavor>>""Truly the noblest of swamp creatures""<br>—Priory Scholar Gleev</c><br>Account Collectible","Дважды щёлкните, чтобы получить очко умения.<br>Бестиарий<br>Эти полевые заметки полны витиеватой прозы, ухитряющейся скрыть мерзость этих разносящих заразу тварей.<br><c=@flavor>>«Воистину благороднейшие из болотных созданий»<br>—Priory Scholar Глив</c><br>Коллекционный предмет учётной записи"
 "Double-click to gain a skill point.<br>Creature Codex<br>These notes brim with information regarding the long-deplored, scarcely studied devourers, important predators in Tyria's rich ecosystem.<br><c=@flavor>""We believe the extra tail to be a recent adaptation, and feel we may one day find an elusive three-tailed species.""<br>—Devourer Preservation Society</c><br>Account Collectible","Дважды щёлкните, чтобы получить очко умения.<br>Бестиарий<br>Эти заметки полнятся сведениями о давно порицаемых и почти не изученных пожирателях — важных хищниках богатой экосистемы Тирии.<br><c=@flavor>«Мы полагаем, что лишний хвост — недавнее приспособление, и надеемся однажды найти неуловимый трёххвостый вид».<br>—Общество охраны пожирателей</c><br>Коллекционный предмет учётной записи"
-"Double-click to gain a skill point.<br>Creature Codex<br>This document describes the male norn clan known as the Sons Of Svanir, that worships the Ice Dragon.<br><c=@flavor>""We serve Jormag.""</c><br>Account Collectible","Дважды щёлкните, чтобы получить очко умения.<br>Бестиарий<br>Этот документ описывает мужской клан норнов, известный как Сыны Сванира, что поклоняется Ледяному Дракону.<br><c=@flavor>«Мы служим Йормагу».</c><br>Коллекционный предмет учётной записи"
+"Double-click to gain a skill point.<br>Creature Codex<br>This document describes the male norn clan known as the Sons Of Svanir, that worships the Ice Dragon.<br><c=@flavor>""We serve Jormag.""</c><br>Account Collectible","Дважды щёлкните, чтобы получить очко умения.<br>Бестиарий<br>Этот документ описывает мужской клан норнов, известный как Сыны Сванира, что поклоняется Ледяному Дракону.<br><c=@flavor>«Мы служим Jormag».</c><br>Коллекционный предмет учётной записи"
 Double-click to gain a skill point.<br>Creature Codex<br>This frigid book is given to scholars entering the Shiverpeaks to better prepare them for the dangers they face.<br><c=@flavor>Caution: Cold </c><br>Account Collectible,"Дважды щёлкните, чтобы получить очко умения.<br>Бестиарий<br>Эта студёная книга выдаётся учёным, отправляющимся в Дрожащие Пики, чтобы лучше подготовить их к грозящим опасностям.<br><c=@flavor>Осторожно: холодно </c><br>Коллекционный предмет учётной записи"
 "Double-click to gain a skill point.<br>Creature Codex<br>This song recounts one the greatest hunts of recent memory, for the great wurm Issormir.<br><c=@flavor>""That battle will be sung about for ages.""<br>—Eir</c><br>Account Collectible","Дважды щёлкните, чтобы получить очко умения.<br>Бестиарий<br>Эта песнь повествует об одной из величайших охот новейшего времени — на великого червя Иссормира.<br><c=@flavor>«Об этой битве будут петь века».<br>—Эйр</c><br>Коллекционный предмет учётной записи"
-"Double-click to gain a skill point.<br>Creature Codex<br>This tactical report describes the recent centaur assault on Shaemoor involving a giant earth elemental.<br><c=@flavor>""More than the lightning or the rocks, watch out for the flying cows.""<br>—Clerk Sanderson</c><br>Account Collectible","Дважды щёлкните, чтобы получить очко умения.<br>Бестиарий<br>Этот тактический отчёт описывает недавнее нападение кентавров на Шеймур с участием гигантского земляного элементаля.<br><c=@flavor>«Опаснее молний и камней — летающие коровы».<br>—Клерк Сандерсон</c><br>Коллекционный предмет учётной записи"
+"Double-click to gain a skill point.<br>Creature Codex<br>This tactical report describes the recent centaur assault on Shaemoor involving a giant earth elemental.<br><c=@flavor>""More than the lightning or the rocks, watch out for the flying cows.""<br>—Clerk Sanderson</c><br>Account Collectible","Дважды щёлкните, чтобы получить очко умения.<br>Бестиарий<br>Этот тактический отчёт описывает недавнее нападение кентавров на Shaemoor с участием гигантского земляного элементаля.<br><c=@flavor>«Опаснее молний и камней — летающие коровы».<br>—Клерк Сандерсон</c><br>Коллекционный предмет учётной записи"
 "Double-click to gain a skill point.<br>Creature Codex<br>This tattered book is filled with battle-won insight into commonly-used Krytan bandit tactics.<br><c=@flavor>""Always go after the one with the bomb first.""<br>—Major Winters</c><br>Account Collectible","Дважды щёлкните, чтобы получить очко умения.<br>Бестиарий<br>Эта потрёпанная книга полна добытых в бою наблюдений о ходовой тактике крайтанских разбойников.<br><c=@flavor>«Всегда первым бери того, у кого бомба».<br>—Майор Уинтерс</c><br>Коллекционный предмет учётной записи"
 Double-click to gain a skill point.<br>This book is filled with creature information.,"Дважды щёлкните, чтобы получить очко умения.<br>Эта книга полна сведений о существах."
 Double-click to gain a skill point.<br>This book is filled with information about Ogres.,"Дважды щёлкните, чтобы получить очко умения.<br>Эта книга полна сведений об ограх."

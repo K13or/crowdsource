@@ -245,7 +245,7 @@ english,translate
 -- SETTING FIELD TECH OWNER PERMISSIONS: <Character name>,-- УСТАНОВКА ПРАВ ДОСТУПА К ТЕХНИЧЕСКОМУ ОБОРУДОВАНИЮ: <Character name>
 -18,-18
 -27,-27
-"-Hiccup!- (Twice, while she and Marjory are trying to hide using invisibilty)","-Ик! - (Дважды, пока она и Марджори пытаются спрятаться, используя невидимость)."
+"-Hiccup!- (Twice, while she and Marjory are trying to hide using invisibilty)","-Ик! - (Дважды, пока она и Marjory пытаются спрятаться, используя невидимость)."
 . Pretty box. Can we open it?,. Красивая коробка. Можно открыть?
 ...,...
 "... And yet, they thrive with malice and a thousand lifetimes of pain.","И всё же они процветают, подпитываемые злобой и тысячами лет страданий."
@@ -281,7 +281,7 @@ english,translate
 "...It still isn't enough. I see our mistake now: we captured only one facet, but we need the whole spectrum.","...Этого все ещё недостаточно. Теперь я вижу нашу ошибку: мы захватили лишь одну грань, а нам нужен весь спектр."
 "...Just following orders? Contrition won't bring back the dead, Mai.","...Просто выполняла приказы? Раскаяние не вернет мёртвых, Mai."
 ...Just in case.,...На всякий случай.
-...Mad King Says!,...Mad King Says!
+...Mad King Says!,...Безумный король говорит!
 ...Master-at-Arms Neary!,...Мастер-оружейник Neary!
 ...Minister Li of the Ministry of Security has been arrested. Details are still emerging...,...Министр Li из Ministry of Security был арестован. Подробности все ещё выясняются...
 ...My guildmates.,...Мои согильдийцы.
@@ -295,7 +295,7 @@ english,translate
 ...Thank you.,...Спасибо.
 ...The Exalted...(static)...the gods...,...Возвышенные...(статично)...боги...
 ...Then we should expect the worst. At least one titan has returned to Tyria.,...Тогда нам следует ожидать худшего. По крайней мере один титан вернулся в Tyria.
-"...Though it is wounded, life remains, thank the Pale Tree. Caladbolg is dormant now, like a seed in the winter waiting the coming of spring.","...Хотя он и ранен, жизнь ещё теплится в нём, слава Древу Бледности. Каладболг теперь дремлет, словно семя зимой, ожидая прихода весны."
+"...Though it is wounded, life remains, thank the Pale Tree. Caladbolg is dormant now, like a seed in the winter waiting the coming of spring.","...Хотя он и ранен, жизнь ещё теплится в нём, слава Древу Бледности. Caladbolg теперь дремлет, словно семя зимой, ожидая прихода весны."
 ...Told you I could...,"...Говорил же, что смогу..."
 ...Unless the targeted entities...are...inanimate...,...если выбранные цели — неодушевлённые объекты...
 ...WHAT?,ЧТО?
@@ -384,16 +384,16 @@ english,translate
 /detonate Inquest Headquarters,/detonate Штаб-квартира Inquest
 /escape,/escape
 /exit,/exit
-/query custodial golem status,/query custodial golem status
-/query fire golem status,/query fire golem status
+/query custodial golem status,/запрос: статус голема-уборщика
+/query fire golem status,/запрос: статус огненного голема
 /return,/return
-/return to main menu,/return to main menu
+/return to main menu,/возврат в главное меню
 0,0
 07734,07734
 1,1
 1 gold,1 золото
 1 silver,1 серебряная монета
-"1 — In eldest Tyria, where ice covered the briny blue,","В древней Тирии, где ледяной покров окутывал солёные воды,"
+"1 — In eldest Tyria, where ice covered the briny blue,","1 — В древней Тирии, где ледяной покров окутывал солёные воды,"
 "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11...","1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11..."
 1. An ancient pool of magic trapped beneath the surface of the world? Like those believed to infuse the waters at Bergen with healing properties?,"1. Древний резервуар магии, запертый под поверхностью мира? Подобный тем, что, как полагают, наделяют воды в Bergen целебными свойствами?"
 10,10
@@ -412,7 +412,7 @@ english,translate
 13,13
 1300-1320 Master Exemplar Eive,1300-1320 Мастер-экземпляр Eive
 1320-,1320-
-161803,Вы получили x единиц опыта.
+161803,161803
 18,18
 2,2
 2 — And swam in the waters of a living pool.,2 — И плавал в водах живого источника.
@@ -424,7 +424,7 @@ english,translate
 27,27
 299792458,299792458
 3,3
-3 — Then quaggans learned to eat the fishes. Coo!,— А потом квагганы научились есть рыбу. Куу!
+3 — Then quaggans learned to eat the fishes. Coo!,3 — А потом квагганы научились есть рыбу. Куу!
 3-to-1? I could make a grip with those odds...,3 к 1? Я мог бы неплохо поднять на таких коэффициентах...
 "3. Ley lines? Could it be that they truly do exist? If so, this is where my life truly begins. Right here. Right now.","3. Лей-линии? Могут ли они существовать на самом деле? Если так, то именно здесь начинается моя настоящая жизнь. Прямо здесь. Прямо сейчас."
 3...2...1... Go! Get all the Canach coins you can! Gather enough and everyone gets a bonus prize!,"3...2...1... Погнали! Собери как можно больше монет Canach! Собери достаточно, и каждый получит бонусный приз!"
@@ -433,18 +433,18 @@ english,translate
 3269-f1-7841,3269-f1-7841
 3986,3986
 4,4
-"4 — One day, a day that no quaggan foreknew,","Однажды, в день, которого никто из квагганов не предвидел,"
+"4 — One day, a day that no quaggan foreknew,","4 — Однажды, в день, которого никто из квагганов не предвидел,"
 4.6692,4.  6692
 42,42
 43252003274489856000,43252003274489856000
 46,46
 5,5
-5 — The cold wind froze patches of the quaggan's skin. Boo!,Холодный ветер заморозил участки кожи кваггана. Буу!
+5 — The cold wind froze patches of the quaggan's skin. Boo!,5 — Холодный ветер заморозил участки кожи кваггана. Буу!
 50 silver,50 серебра
 "5000, we're counting on you. I want you to shatter the other golem into jagged metal confetti. To the arena!","5000, мы рассчитываем на тебя. Я хочу, чтобы ты превратил другого голема в рваное металлическое конфетти. На арену!"
 555-1384,555-1384
 6,6
-"6 — You may have heard of Khoofallaloo,","Возможно, вам уже известно о Хуфалалу."
+"6 — You may have heard of Khoofallaloo,","6 — Возможно, вам уже известно о Хуфалалу,"
 "68, 1387","68, 1387"
 7,7
 "74, 1723","74, 1723"
@@ -468,8 +468,8 @@ english,translate
 "<Character name> is fine. And thanks for everything, Rox. Good to see you again.","С <Character name> всё хорошо. И спасибо тебе за всё, Рокс. Рад снова тебя видеть."
 <Character name> laughs with <Character name>.,<Character name> смеётся вместе с <Character name>.
 <Character name>! Forgive me. That nasty business with Renvari seems so long ago. I'm grateful to see you again. I only wish it was under better circumstances.,"<Character name>! Простите меня. Эта неприятная история с Ренвари кажется такой давней. Я рад видеть вас снова. Жаль только, что это происходит не в лучших обстоятельствах."
-<Character name>! Get this: Tribune Brimstone is in there arguing with Tribune Desertgrave! What'd we do wrong now?,"<Character name>, послушай-ка: Трибун Жарокамень сейчас спорит с трибуном Десертгрейвом. Что мы опять натворили?"
-<Character name>! I'm so glad you're here. Tribune Desertgrave is up there having an argument with Tribune Brimstone. Are they mad at us? Did we do something wrong?,"Привет, <Character name>! Я так рад, что ты здесь. Трибун Десертгрейв там наверху спорит с трибуном Жарокамнем. Они злы на нас? Мы сделали что-то не так?"
+<Character name>! Get this: Tribune Brimstone is in there arguing with Tribune Desertgrave! What'd we do wrong now?,"<Character name>, послушай-ка: Трибун Brimstone сейчас спорит с трибуном Десертгрейвом. Что мы опять натворили?"
+<Character name>! I'm so glad you're here. Tribune Desertgrave is up there having an argument with Tribune Brimstone. Are they mad at us? Did we do something wrong?,"Привет, <Character name>! Я так рад, что ты здесь. Трибун Десертгрейв там наверху спорит с трибуном Brimstone. Они злы на нас? Мы сделали что-то не так?"
 "<Character name>! Perfect timing, just like at Dragon Bash. I couldn't have hidden us much longer. I was already drained from bringing down the tower veil. It was quite a powerful mesmer spell.","«<Character name>, отличный момент, как и на Dragon Bash. Я не смог бы долго нас прятать. У меня уже почти не осталось сил после того, как я разрушил защитный барьер вокруг башни. Это было довольно мощное заклинание месмера»."
 "<Character name>! Still upright and kicking, eh? Howl charged ahead, as usual. His impatience is gonna get him a knife in the back someday. Not my knife...probably. Unless someone steals my knife.","Эй, <Character name>, ты ещё на ногах и полон сил, да? Хаул как всегда рвётся вперёд. Его нетерпение однажды приведёт к тому, что в него воткнут нож. Но не мой... наверное. Если только кто-нибудь не украдёт мой нож."
 "<Character name>, I'm scared. The message has changed, and It wants you to read the next phrase. I can't make it out, you have to do it. Please. (The artifact shows a skritt with a message for you to say.)","<Character name>, я боюсь. Послание изменилось, и оно хочет, чтобы вы прочитали следующую фразу. Я не могу разобрать её, вам нужно сделать это за меня. Пожалуйста. (Артефакт показывает скритта с посланием для вас.)"

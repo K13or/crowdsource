@@ -93,7 +93,7 @@ Defeat the bandits.,Победите бандитов.
 Defeat the carnies.,Победите циркачей.
 Defeat the corrupted kodan.,Победите испорченного кодана.
 Defeat the corrupted krait head slaver.,Победите осквернённого надсмотрщика крайтов.
-Defeat the corrupted priest of Grenth.,Победите испорченного жреца Грента.
+Defeat the corrupted priest of Grenth.,Победите испорченного жреца Grenth.
 Defeat the creatues spawned by the object.,"Победи существ, порожденных этим объектом."
 Defeat the creatures created by the magical trap.,"Победи существ, созданных магической ловушкой."
 Defeat the destroyer crablings.,Победи destroyer crablings.
@@ -111,7 +111,7 @@ Defeat the frenzied creatures.,Победи обезумевших сущест�
 Defeat the giants and secure the docks.,Победите гигантов и обезопасьте доки.
 Defeat the gladiators.,Победите гладиаторов.
 Defeat the grawl shaman and his elementals.,Победи шамана грэулов и его элементалей.
-Defeat the greater earth elemental.,[Групповое событие] Победите великого элементаля земли.
+Defeat the greater earth elemental.,Победите великого элементаля земли.
 Defeat the greater fire elemental.,[Групповое событие] Победите великого элементаля огня.
 Defeat the green knight a second time.,Победи зелёного рыцаря во второй раз.
 Defeat the green knight.,Победи зелёного рыцаря.
@@ -128,7 +128,7 @@ Defeat the monsters.,Победи монстров.
 Defeat the mysterious strangers.,Одолейте таинственных незнакомцев.
 Defeat the nightmare hounds,Победи гончих Кошмара
 Defeat the other brawlers.,Победите остальных бойцов.
-Defeat the pirates and free Demmi.,Одолейте пиратов и освободите Демми.
+Defeat the pirates and free Demmi.,Одолейте пиратов и освободите Demmi.
 Defeat the pursuing bandits and escort the prisoners to safety.,Победите преследующих бандитов и сопроводите заключенных в безопасное место.
 Defeat the rampaging VAL-A golem.,Одолейте вышедшего из-под контроля голема ВАЛ-А.
 Defeat the rampaging VAL-A golems.,Победить буйствующих големов VAL-A.
@@ -164,11 +164,11 @@ Defend Gara.,Защитить Gara.
 Defend Gixx while he works on the containment device,"Защищайте Гикса, пока он работает над устройством сдерживания"
 Defend Jat from the wind riders.,7. Битва за форт Trinity.
 Defend Jat from the windriders.,Защищайте Джат от ветрокрылов.
-Defend Trahearne as he performs the ritual.,"Защищайте Траэрна, пока он проводит ритуал."
+Defend Trahearne as he performs the ritual.,"Защищайте Trahearne, пока он проводит ритуал."
 Defend Trahearne during the Ritual of Purification.,Защитите Trahearne во время Ritual of Purification.
-Defend Trahearne while he opens the gate.,"Защищайте Траэрна, пока он открывает врата."
+Defend Trahearne while he opens the gate.,"Защищайте Trahearne, пока он открывает врата."
 Defend Trahearne.,Защити Trahearne.
-Defend Zojja while she disables Kudu's machine.,"Защищайте Зойю, пока она отключает машину Куду."
+Defend Zojja while she disables Kudu's machine.,"Защищайте Zojja, пока она отключает машину Куду."
 Defend Zojja while she powers up the MEGA-LIT cannon.,"Защищай Zojja, пока она заряжает пушку MEGA-LIT."
 Defend Zott while he reconfigures the amplifier.,"Защищайте Zott, пока он перенастраивает усилитель."
 Defend against the Nightmare Court.,Обороняйтесь от Nightmare Court.
@@ -344,8 +344,8 @@ Drive the dredge from the bridge.,Выбей дреджей с моста.
 Duplicate the rite of Grenth.,Повторите обряд Grenth.
 "Durmand, our founder, said it best: ""Your power is equal to the sum of your knowledge.""","Дурманд, наш основатель, сказал лучше всех: «Твоя сила равна сумме твоих знаний»."
 "Dwayna, if you can hear me, please help our brave soldiers.","Dwayna, если ты слышишь меня, пожалуйста, помоги нашим храбрым солдатам."
-Dzhudin Stormbreak,Dzhudin Stormbreak
-"Each year, a Great Hunt is called in Hoelbrak. Only the best among us are invited to participate.",Каждый год в Хольбраке объявляется Великая охота. Только лучшие из нас приглашаются к участию.
+Dzhudin Stormbreak,Джудин Бурелом
+"Each year, a Great Hunt is called in Hoelbrak. Only the best among us are invited to participate.",Каждый год в Hoelbrak объявляется Великая охота. Только лучшие из нас приглашаются к участию.
 Eastern parapet,Восточный парапет
 "Easy there, %str1%...I was just blowing off steam. I'm sorry.","Полегче, %str1%... Я просто выпускал пар. Прошу прощения."
 Easy there. A good friend of mine said I should speak with you.,"Полегче. Один мой хороший друг сказал, что мне стоит поговорить с тобой."

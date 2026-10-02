@@ -191,7 +191,7 @@ For a short time after using this skill, you continue to drop additional bombs a
 "<c=@flavor>An attached note reads, ""Until the last enemy of Kryta falls
 Double-click to open.","<c=@flavor>Прилагаемая записка гласит: «Пока не падет последний враг Крайта
 Дважды щёлкните, чтобы открыть»."
-"<c=@flavor>Dieser Rücken-Gegenstand wird zur Herstellung legendärer ""Janthir Wilds""-Objekte gebraucht. Überreste können bei Händlern für Ansehen-Herzen an der Tiefland-Küste erworben werden.</c>","<c=@flavor>Этот предмет для спины необходим для создания легендарных предметов «Дикие земли Джанфира». Остатки можно приобрести у торговцев за сердца репутации на побережье Низменности.</c>"
+"<c=@flavor>Dieser Rücken-Gegenstand wird zur Herstellung legendärer ""Janthir Wilds""-Objekte gebraucht. Überreste können bei Händlern für Ansehen-Herzen an der Tiefland-Küste erworben werden.</c>",<c=@flavor>Этот предмет для спины необходим для создания легендарных предметов «Дикие земли Джанфира». Остатки можно приобрести у торговцев за сердца репутации на побережье Низменности.</c>
 ?Bum!,?Бездельничать!
 ?Croac!,?Кроак!
 ?Enciendela!,? Энсиендела!
@@ -228,7 +228,7 @@ This item only has value as part of a collection.","Потёртый сереб�
 Trade to alliance field quartermasters in Castora for a pair of Extremis Boots.","Иногда выпадает за головоломки-прыгалки в Starlit Weald.
 Обменяйте у полевых интендантов альянса в Касторе на сапоги «Экстремис»."
 "Acquired occasionally from jumping puzzles in Starlit Weald.,
-Trade to alliance field quartermasters in Castora for a pair of Extremis Boots.","Добывается иногда из прыжковых головоломок в Звёздной Роще.,
+Trade to alliance field quartermasters in Castora for a pair of Extremis Boots.","Добывается иногда из прыжковых головоломок в Starlit Weald.,
 Обменяйте у полевых интендантов союза в Касторе на пару сапог «Экстремис»"
 "Acquired occasionally from mystery mirrors in Starlit Weald.,
 Trade to alliance field quartermasters in Castora for an Extremis Mantle.","Изредка добывается из загадочных зеркал в Starlit Weald.,
@@ -252,7 +252,7 @@ Trade to alliance field quartermasters in Castora for an Extremis Coat.","Ино
 <c=@flavor>""Very much a classic bamboo rod, but with a splash of colorful red and green stripes!"" —Lin</c>","Активируйте это, чтобы открыть облик полосатой удочки.
 
 <c=@flavor>«Это классическая бамбуковая Fishing Rod, но с яркими красными и зелёными полосками!» — Лин</c>"
-Alden Wamser,Alden Wamser
+Alden Wamser,Олден Вамсер
 "An exceedingly rare item acquired by completing survey events in Mistburned Barrens and completing challenge mode bosses in Mount Balrior. 
 Double-click to select an account-bound bloodstone infusion.","Чрезвычайно редкий предмет, полученный за прохождение событий исследования в Туманных Выжженных Пустошах и прохождение боссов в режиме испытания на горе Балриор. 
 Дважды щёлкните, чтобы выбрать привязанную к учётной записи инфузию кровавого камня."
@@ -2204,7 +2204,7 @@ I'm just glad I can see the fractal of Kaineng right on the horizon. A reminder 
 Похоже, они не знают, какова была цель этого фрактала. Скорбящая Ожидание создала его, прежде чем сбежать из двора. Дагда не знает, хотя она была ученицей Скорбящей Ожидания.  
 
 Я просто рад, что вижу фрактал Кайнинга прямо на горизонте. Напоминание, что это не настоящее..."
-Mad Mardine,Mad Mardine
+Mad Mardine,Безумная Мардин
 "Madam Joon:
   
 Our independent investigation did not contradict the findings of the Ministry of Security. I must apologize again for my failure to detain the outsiders earlier—they were stronger than I anticipated.

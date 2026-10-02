@@ -243,7 +243,7 @@ english,translate
 "<c=@flavor>""This is a symbol of strength around here.""<br>—Rak Deathmane</c>",<c=@flavor>«Это символ силы в этих краях».<br>—Rak Deathmane</c>
 "<c=@flavor>""This is an Opticalium-approved energy-focusing device.""<br>—Opticalium Researcher Oisha</c>",<c=@flavor>«Это одобренное Оптикалием устройство фокусировки энергии».<br>—Исследователь оптикалия Ойша</c>
 "<c=@flavor>""This is but a tool of a greater machine.""<br>—Guardian Infinite Mind</c>",<c=@flavor>«Это всего лишь инструмент большей машины».<br>—Страж Бесконечный Разум</c>
-"<c=@flavor>""This is it. Every step you take past here is straight into Zhaitan.""<br>—Lightbringer Ives</c>",<c=@flavor>«Вот и всё. Каждый шаг отсюда — прямиком в Зайтана».<br>—Светоносец Айвз</c>
+"<c=@flavor>""This is it. Every step you take past here is straight into Zhaitan.""<br>—Lightbringer Ives</c>",<c=@flavor>«Вот и всё. Каждый шаг отсюда — прямиком в Zhaitan».<br>—Светоносец Айвз</c>
 "<c=@flavor>""This is my own special hook design that I carve out of dried driftwood.""<br>—Fisherman Will</c>","<c=@flavor>«Это мой собственный особый дизайн крюка, который я вырезаю из сухого плавника».<br>—Рыбак Уилл</c>"
 "<c=@flavor>""This is the prettiest one I have ever found.""<br>—Harvester Mavad</c>","<c=@flavor>«Это самое красивое, что я когда-либо находил».<br>—Собиратель Мавад</c>"
 "<c=@flavor>""This is the smallest trident I've ever seen.""<br>—Hua'racche</c>","<c=@flavor>«Это самый маленький трезубец, что я когда-либо видела».<br>—Хуарраче</c>"
@@ -256,7 +256,7 @@ english,translate
 "<c=@flavor>""This one looks as though it hasn't been hit with a pickax.""<br>—Lionguard Rhyn</c>","<c=@flavor>«Этот выглядит так, будто по нему не били киркой».<br>—Страж Льва Рин</c>"
 "<c=@flavor>""This one was successful—unlike the experiment of me coming out here..""<br>—Krewe Apprentice Blork</c>",<c=@flavor>«Этот был успешным — в отличие от эксперимента с моим прибытием сюда...»<br>—Krewe Apprentice Blork</c>
 "<c=@flavor>""This one's for my favorite experiment: Will it smash?""<br>—Brikk</c>",<c=@flavor>«Этот для моего любимого эксперимента: разобьётся ли он?»<br>—Брикк</c>
-"<c=@flavor>""This piece was anointed by Vollym himself. Wear it proudly!""<br>—Johan</c>",<c=@flavor>«Этот предмет освятил сам Воллим. Носи его с гордостью!»<br>—Йохан</c>
+"<c=@flavor>""This piece was anointed by Vollym himself. Wear it proudly!""<br>—Johan</c>",<c=@flavor>«Этот предмет освятил сам Vollym. Носи его с гордостью!»<br>—Йохан</c>
 "<c=@flavor>""This pin might be a little too tactical.""<br>—Tactician Lyan</c>",<c=@flavor>«Этот значок может быть чуточку слишком тактическим».<br>—Тактик Лайан</c>
 "<c=@flavor>""This rabbit died of natural causes!""<br>—Dena</c>",<c=@flavor>«Этот кролик умер естественной смертью!»<br>—Дена</c>
 "<c=@flavor>""This scepter is humming with energy!""<br>—Ahjj</c>",<c=@flavor>«Этот скипетр гудит от энергии!»<br>—Аджж</c>
@@ -272,7 +272,7 @@ english,translate
 "<c=@flavor>""This was taken from a large Jotun.""<br>—Neida</c>",<c=@flavor>«Это забрали у крупного ётуна».<br>—Нейда</c>
 "<c=@flavor>""This was taken from a large jotun.""<br>—Neida</c>",<c=@flavor>«Это забрали у крупного ётуна».<br>—Нейда</c>
 "<c=@flavor>""This way you don't have to touch...them.""<br>—Explorer Erikk</c>",<c=@flavor>«Так тебе не придётся прикасаться... к ним».<br>—Изыскатель Эрикк</c>
-"<c=@flavor>""This will come in handy once the Svanir threat increases.""<br>—Tactician Sebastian</c>","<c=@flavor>«Это пригодится, когда угроза со стороны Сванира усилится».<br>—Tactician Sebastian</c>"
+"<c=@flavor>""This will come in handy once the Svanir threat increases.""<br>—Tactician Sebastian</c>","<c=@flavor>«Это пригодится, когда угроза со стороны Svanir усилится».<br>—Tactician Sebastian</c>"
 "<c=@flavor>""Thorns can be as beautiful as they are painful.""<br>—Diantha</c>","<c=@flavor>«Шипы могут быть столь же прекрасны, сколь и болезненны».<br>—Диантха</c>"
 "<c=@flavor>""Those centaurs better not come near anyone wielding this bow.""<br>—Seraph</c>","<c=@flavor>«Этим кентаврам лучше не подходить к тому, у кого этот лук».<br>—Серафим</c>"
 "<c=@flavor>""Those dings and scratches just give the armor more character.""<br>—Bracctus</c>",<c=@flavor>«Эти вмятины и царапины просто придают броне характер».<br>—Брактус</c>
@@ -301,7 +301,7 @@ english,translate
 "<c=@flavor>""Very interesting that the imp's heart seems frozen but still works.""<br>—Suki</c>","<c=@flavor>«Очень интересно, что сердце има кажется замороженным, но всё ещё работает».<br>—Суки</c>"
 "<c=@flavor>""Very sturdy. I made it myself.""<br>—Leika</c>",<c=@flavor>«Очень прочное. Сделал сам».<br>—Лейка</c>
 "<c=@flavor>""Victory does not go to the loudest, but to the most effective.""<br>—Master of Whispers</c>","<c=@flavor>«Победа достаётся не самым громким, а самым эффективным».<br>—Мастер Шепчущих</c>"
-"<c=@flavor>""Vollym himself used to dual wield two of these at a time.""<br>—Johan</c>",<c=@flavor>«Сам Воллим когда-то сражался сразу двумя такими».<br>—Йохан</c>
+"<c=@flavor>""Vollym himself used to dual wield two of these at a time.""<br>—Johan</c>",<c=@flavor>«Сам Vollym когда-то сражался сразу двумя такими».<br>—Йохан</c>
 "<c=@flavor>""Walk a mile in these shoes.""<br>—Lionscout Tunnira</c>",<c=@flavor>«Пройди милю в этой обуви».<br>—Разведчица Львов Туннира</c>
 "<c=@flavor>""Walk softly and carry a sharp sword.""<br>—Bulsa</c>",<c=@flavor>«Ступай мягко и держи острый меч».<br>—Булса</c>
 "<c=@flavor>""Walk swift in the path of Snow Leopard.""<br>—Toka Axegrinder</c>",<c=@flavor>«Иди быстро по пути Снежного Барса».<br>—Тока Топорошлиф</c>
@@ -404,11 +404,11 @@ english,translate
 "<c=@flavor>""You'll like the extra padding around the ears when the cannons fire.""<br>—Legionnaire Bladechipper</c>","<c=@flavor>«Тебе понравится дополнительная набивка вокруг ушей, когда стреляют пушки».<br>—Легионер Осколок Клинка</c>"
 "<c=@flavor>""You're going to need one of these when fighting mighty foes like the jotun.""<br>—Neida</c>",<c=@flavor>«Тебе понадобится такое в бою с могучими врагами вроде ётунов».<br>—Нейда</c>
 "<c=@flavor>""You're one of us now. Just don't let it go to your head."" —Cap</c>",<c=@flavor>«Теперь ты один из нас. Только не дай этому вскружить тебе голову». —Кэп</c>
-"<c=@flavor>""You've got some bite after all—just not enough to best the best.""<br>—Vollym</c>","<c=@flavor>«В тебе всё же есть хватка — просто не настолько, чтобы одолеть лучших».<br>—Воллим</c>"
+"<c=@flavor>""You've got some bite after all—just not enough to best the best.""<br>—Vollym</c>","<c=@flavor>«В тебе всё же есть хватка — просто не настолько, чтобы одолеть лучших».<br>—Vollym</c>"
 "<c=@flavor>""Your lucky day! I usually keep things this shiny.""<br>—Mrr'kkant</c>",<c=@flavor>«Твой счастливый день! Обычно я держу вещи именно такими блестящими».<br>—Мрр'ккант</c>
 "<c=@flavor>""Your standard dagger. Why don't you let me sharpen that up for ya?""<br>—Waldo</c>",<c=@flavor>«Твой обычный кинжал. Почему бы не дать мне его для тебя наточить?»<br>—Уолдо</c>
 "<c=@flavor>""Your strength and bravery are inspirations to us all.""<br>—Warden Llew</c>",<c=@flavor>«Твоя сила и храбрость вдохновляют нас всех».<br>—Страж Ллью</c>
-"<c=@flavor>""Zhaitan may be big, but every little cut adds up.""<br>—Warmaster Chan</c>","<c=@flavor>«Зайтан может быть велик, но каждый маленький порез складывается в итог».<br>—Военачальник Чан</c>"
+"<c=@flavor>""Zhaitan may be big, but every little cut adds up.""<br>—Warmaster Chan</c>","<c=@flavor>«Zhaitan может быть велик, но каждый маленький порез складывается в итог».<br>—Военачальник Чан</c>"
 "<c=@flavor>After all the adventurers, I feel like this is my favorite place to visit. It is relaxing and cheery, even if it does have bandits, wolves, centaurs, and mean skritt.</c>","<c=@flavor>После всех приключений это, кажется, моё любимое место для посещения. Оно расслабляющее и радостное, даже если там водятся бандиты, волки, кентавры и злобные скритты.</c>"
 "<c=@flavor>Attire worn by Countess Anise, Master Exemplar of the Shining Blade.</c>","<c=@flavor>Наряд, который носит графиня Энис, Мастер-Образец Сияющего Клинка.</c>"
 "<c=@flavor>Created to honor Gwen Thackeray, commander of the Ebon Vanguard and founder of Ebonhawke.</c>","<c=@flavor>Создано в честь Гвен Такери, командующей Чёрным Авангардом и основательницы Эбонхока.</c>"
@@ -436,7 +436,7 @@ english,translate
 <c=@Flavor>The gem now gives off a fiery luminescence and fills your palm with warm light.</c>,<c=@Flavor>Самоцвет теперь испускает огненное свечение и наполняет твою ладонь тёплым светом.</c>
 <c=@Flavor>The inclusions in this gem look like swirling water.</c>,<c=@Flavor>Включения в этом самоцвете похожи на кружащуюся воду.</c>
 <c=@flavor>The Invasion of Orr was a sight to behold.</c>,"<c=@flavor>Вторжение в Орр было зрелищем, которое стоило увидеть.</c>"
-"<c=@flavor>The Krytans cannot catch a break. First the Tower of Nightmares, then Fort Salma, Lake Doric, and Garenhoff losing their tower. Guess you can't let the hard times get you down.</c>","<c=@flavor>Крайтанцам никак не везёт. Сначала Tower of Nightmares, потом Fort Salma, Lake Doric, а теперь Гаренхофф лишился своей башни. Видимо, тяжёлым временам просто нельзя позволить себя сломить.</c>"
+"<c=@flavor>The Krytans cannot catch a break. First the Tower of Nightmares, then Fort Salma, Lake Doric, and Garenhoff losing their tower. Guess you can't let the hard times get you down.</c>","<c=@flavor>Крайтанцам никак не везёт. Сначала Tower of Nightmares, потом Fort Salma, Lake Doric, а теперь Garenhoff лишился своей башни. Видимо, тяжёлым временам просто нельзя позволить себя сломить.</c>"
 "<c=@flavor>The only words visible are: ""Talk time dark snow.""<br>—Mensorr</c>",<c=@flavor>Единственные различимые слова: «Говорить время тёмный снег».<br>—Менсорр</c>
 "<c=@Flavor>The sapphire seems to change color as it moves, shifting through vivid earthy patterns. </c>","<c=@Flavor>Сапфир, кажется, меняет цвет при движении, переливаясь яркими землистыми узорами.</c>"
 "<c=@flavor>There were so many evacuees after the attack. It's hard to imagine losing your home. Thankfully, the Vigil offered a place of safety while we tried to help those still trapped.</c>","<c=@flavor>После нападения было столько эвакуированных. Трудно представить потерю дома. К счастью, Дозор предложил безопасное место, пока мы пытались помочь тем, кто ещё оставался в ловушке.</c>"

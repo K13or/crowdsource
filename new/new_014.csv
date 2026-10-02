@@ -10,7 +10,7 @@ Frightened Cow,Испуганная корова
 Frightened Rabbit,Испуганный кролик
 Frightener,Пугало
 Frightening Charge,Пугающий рывок
-Frode and Emund are planning the assault on Nyedra. Complete events to gather more intel.,"Фроде и Эмунд планируют штурм Ниедры. Завершайте события, чтобы собрать больше сведений."
+Frode and Emund are planning the assault on Nyedra. Complete events to gather more intel.,"Frode и Эмунд планируют штурм Ниедры. Завершайте события, чтобы собрать больше сведений."
 Frode's Journal Tracking,Отслеживание дневника Фроде
 Frog Juicer,Лягушкодав
 Frolicked in Phytotoxins before the Great Jungle Wurm Appeared,Резвился в фитотоксинах до появления большого джунглевого вурма
@@ -50,7 +50,7 @@ Fused Metal Scrap[s],Сплавленный металлолом
 "Gaah, it's overheating! Outta my way, outta my—oh, that's supposed to happen. That's right! (laugh)","Гаах, перегрев! С дороги, с доро... а, так и должно быть. Точно! (смех)"
 Gabby the Carny,Габби Балаганщица
 Gabrielle Smith,Габриэль Смит
-Gaerra Farshot,Gaerra Farshot
+Gaerra Farshot,Гаэрра Дальнострел
 Gaheron Baelfire empowers us all.,Гахерон Бейлфайр наделяет силой нас всех.
 Gain %num2% experience without dying or changing maps.,"Получите %num2% опыта, не погибнув и не сменив карту."
 Gain +2%% magic find. Stacks up to 25 times. Gain one stack when you kill an enemy while empowered by the essence that's its weakness. Essences are removed upon leaving the map.,"+2%% к поиску магии. Складывается до 25 раз. Стак даётся за убийство врага, пока вы усилены эссенцией, которая является его слабостью. При выходе с карты эссенции снимаются."
@@ -63,7 +63,7 @@ Gain 2%% increased incoming and outgoing attack damage. Stacks intensity.,+2%% �
 Gain 30%% duration reduction from conditions from Aberrant creatures. Gain the ability to use the Spirit Nova special action skill. Gain a 1.5-second skill cooldown reduction when picking up an essence.,"Длительность состояний от существ-аберрантов снижена на 30%%. Вы получаете возможность применять особое умение «Вспышка духа». При подборе эссенции перезарядка умений сокращается на 1,5 секунды."
 "Gain 5 agony resistance, 1%% outgoing damage, and 10 health per second.","+5 к сопротивлению агонии, +1%% к наносимому урону и +10 здоровья в секунду."
 "Gain 5%% additional magic find per stack. This effect persists even when changing locations on Castora, but it is removed when leaving Castora.","+5%% к поиску магии за стак. Эффект сохраняется при смене мест на Касторе, но снимается при уходе с Касторы."
-"Gain Cascading Corruption stacks when you consume Blight. When you reach the stack threshold, explode necrotic energy and increase your damage for a duration. <c=@reminder>Stacks can only be gained in combat and are lost upon leaving combat.</c>","Поглощая гниль, вы получаете стаки «Каскадной порчи». При достижении порога стаков высвобождается взрыв некротической энергии, а ваш урон на время повышается. <c=@reminder>Стаки набираются только в бою и теряются при выходе из боя.</c>"
+"Gain Cascading Corruption stacks when you consume Blight. When you reach the stack threshold, explode necrotic energy and increase your damage for a duration. <c=@reminder>Stacks can only be gained in combat and are lost upon leaving combat.</c>","Поглощая гниль, вы получаете стаки Cascading Corruption. При достижении порога стаков высвобождается взрыв некротической энергии, а ваш урон на время повышается. <c=@reminder>Стаки набираются только в бою и теряются при выходе из боя.</c>"
 Gain a 30%% duration reduction from conditions from enemies with the Essence of Valor. Gain the ability to use the Spirit Nova special action skill from veteran and champion enemies with the Essence of Valor at major health thresholds. Gain a 1.5-second skill cooldown reduction when picking up an essence.,"Длительность состояний от врагов с Эссенцией Доблести снижена на 30%%. Вы получаете возможность применять особое умение «Вспышка духа» от врагов-ветеранов и чемпионов с Эссенцией Доблести на ключевых порогах здоровья. При подборе эссенции перезарядка умений сокращается на 1,5 секунды."
 Gain a 33%% chance to steal life on critical hits to enemies with the Essence of Resilience. Gain the ability to use the Shattered Psyche special action skill from veteran and champion enemies with Essence of Resilience at major health thresholds. Gain a 1.5-second cooldown reduction when picking up an essence.,"33%% шанс похитить жизнь при критических ударах по врагам с Эссенцией Стойкости. Вы получаете возможность применять особое умение «Shattered Psyche» от врагов-ветеранов и чемпионов с Эссенцией Стойкости на ключевых порогах здоровья. При подборе эссенции перезарядка сокращается на 1,5 секунды."
 Gain a 40%% duration reduction from conditions and increased magic find from enemies with the Essence of Valor. Gain the ability to use the Spirit Nova special action skill from veteran and champion enemies with the Essence of Valor at major health thresholds. Gain a 1.5-second skill cooldown reduction when picking up an essence.,"Длительность состояний от врагов с Эссенцией Доблести снижена на 40%%, а поиск магии повышен. Вы получаете возможность применять особое умение «Вспышка духа» от врагов-ветеранов и чемпионов с Эссенцией Доблести на ключевых порогах здоровья. При подборе эссенции перезарядка умений сокращается на 1,5 секунды."
@@ -87,9 +87,9 @@ Gain increased magic find and a 20%% damage reduction from enemies with the Esse
 Gain increased strike and condition damage for each round of ammunition spent.,Ваши прямой урон и урон от состояний увеличиваются за каждый потраченный заряд умения с зарядами.
 "Gain knowledge of Elonian lore, igniting a fierce drive to purge corruption and manifesting your <c=@abilitytype>Virtues</c> as mystic tomes. Gain access to <c=@abilitytype>Mantras</c>.","Дарует знание элонских преданий, разжигая яростное стремление выжигать порчу и воплощая ваши <c=@abilitytype>Добродетели</c> в виде мистических томов. Открывает доступ к <c=@abilitytype>Мантрам</c>."
 Gain might and weaken targets when you poison them.,"Вы даруете себе мощь и вызываете у цели слабость, когда отравляете её."
-"Gain might, resistance, and Kalla's Fervor when you use a healing skill.","Даёт мощь, сопротивляемость и «Пыл Каллы» при использовании умения исцеления."
+"Gain might, resistance, and Kalla's Fervor when you use a healing skill.","Даёт мощь, сопротивляемость и Kalla's Fervor при использовании умения исцеления."
 "Gain precision. When you dodge roll, gain access to your stealth attack if your malice is above the threshold.","Даёт точность. При уклонении перекатом вы получаете доступ к атаке из невидимости, если ваша злоба выше порога."
-Gain regeneration and cleanse a condition when you grant yourself either swiftness or superspeed.,"Вам даруется регенерация и с вас снимается состояние, когда вы даруете себе Быстроту или сверхскорость."
+Gain regeneration and cleanse a condition when you grant yourself either swiftness or superspeed.,"Вам даруется регенерация и с вас снимается состояние, когда вы даруете себе быстроту или сверхскорость."
 Gain resistance when you attune to a single element.,Вам даруется сопротивляемость после настройки на единственную Стихию.
 Gain stealth when you barrel roll.,Даёт невидимость при бочке.
 "Gain stealth, lost by emerging to attack.","Даёт невидимость, которая теряется при выходе в атаку."
@@ -115,7 +115,7 @@ Gardener Keemi,Садовница Кими
 Gardener Rowan,Садовник Роуэн
 Gardener Yarrow,Садовник Ярроу
 Gardens,Сады
-Gareth,Gareth
+Gareth,Гарет
 Gargantula feeds in: %str1%,Гаргантула начнёт кормиться через: %str1%
 Gargoyle Statue,Статуя горгульи
 Garrison Gate,Ворота гарнизона
@@ -125,7 +125,7 @@ Gaseous Secretion,Газообразный секрет
 Gash your foe and make them bleed.,Рассеките врага и вызовите кровотечение.
 Gate Guards Defeated,Стражи врат побеждены
 Gate to the Mists Arena,Врата на Арену Туманов
-Gather %num2% emotional attunements while fighting Karax or Eparch in the Citadel of Zakiros.,Соберите %num2% эмоциональных настроек в бою с Караксом или Эпархом в Citadel of Zakiros.
+Gather %num2% emotional attunements while fighting Karax or Eparch in the Citadel of Zakiros.,Соберите %num2% эмоциональных настроек в бою с Караксом или Eparch в Citadel of Zakiros.
 Gather %num2% luxuries from renown merchants across the Elonian Desert.,Соберите %num2% предметов роскоши у почётных торговцев по всей Элонской пустыне.
 Gather %num2% unique emotional attunements at least once.,Соберите %num2% уникальных эмоциональных настроек хотя бы по разу.
 "Gather 100 crafting resources by mining, logging, fishing, or harvesting resource nodes.","Соберите 100 ремесленных ресурсов добычей руды, рубкой леса, рыбалкой или сбором с залежей."
@@ -144,8 +144,8 @@ Gather information on the pending attack from the Flame Legion recruiter.,Соб
 Gather information on your father.,Соберите сведения о своём отце.
 Gather some wood from a nearby tree.,Соберите немного древесины с ближайшего дерева.
 Gather the necessary components to help your allies.,"Соберите необходимые компоненты, чтобы помочь союзникам."
-Gathered %num1%/%num2% Decorations for Aurene's Nest,Собрано %num1%/%num2% украшений для гнезда Аурены
-Gathered %num1%/%num2% Emotional Attunements While Fighting Karax or Eparch,Собрано %num1%/%num2% эмоциональных настроек в бою с Караксом или Эпархом
+Gathered %num1%/%num2% Decorations for Aurene's Nest,Собрано %num1%/%num2% украшений для гнезда Aurene
+Gathered %num1%/%num2% Emotional Attunements While Fighting Karax or Eparch,Собрано %num1%/%num2% эмоциональных настроек в бою с Караксом или Eparch
 Gathered %num1%/%num2% Eternal Ice Shard[s],Собрано %num1%/%num2% [осколок вечного льда|осколка вечного льда|осколков вечного льда]
 Gathered %num1%/%num2% Fire Orchids,Собрано %num1%/%num2% огненных орхидей
 Gathered %num1%/%num2% Ingredients,Собрано %num1%/%num2% ингредиентов
@@ -173,8 +173,8 @@ Gave Isgarren the Remedy,Исгаррену передано снадобье
 Gave a Thank-You Gift to Har and Willow,Хару и Уиллоу вручён подарок в благодарность
 Gear Up with the Visions of Eternity Launch Supply Drop,Снарядитесь стартовым набором припасов Visions of Eternity
 Geit Sken,Гейт Скен
-General Mendoza,General Mendoza
-General Nephus,General Nephus
+General Mendoza,Генерал Мендоза
+General Nephus,Генерал Нефус
 Generates Might,Порождает мощь
 Generates Might  • Causes Confusion,Порождает мощь  • Вызывает замешательство
 Generator,Генератор
@@ -213,11 +213,11 @@ Getting cold?,Замерзаешь?
 Getting healthier.,Становится лучше.
 Getting healthy.,Иду на поправку.
 Ghost waves defeated,Волны призраков побеждены
-Ghostly Mage,Ghostly Mage
-Ghostly Pirate Gunner,Ghostly Pirate Gunner
+Ghostly Mage,Призрачный маг
+Ghostly Pirate Gunner,Призрачный пират-канонир
 Ghoul's Grasp,Хватка упыря
 Giant Bangle[s],Гигантский браслет[|а|ов]
-Giant Sand Wurm,Giant Sand Wurm
+Giant Sand Wurm,Гигантский песчаный вурм
 Giant talking spiders... I don't— Just...let's get this thing to the crystal.,Гигантские говорящие пауки... Я не... Просто... давай дотащим эту штуку до кристалла.
 Gideon Hastings,Гидеон Хастингс
 Gift Dolyak Tonic[s],Тоник[|а|ов] подарочного дольяка
@@ -240,7 +240,7 @@ Give up yet?,"Ну что, сдаёшься?"
 "Given to you by a lost wavehawk, this token demonstrates the attachment and emotional bond skimmers form.","Подарен вам заблудившимся волноястребом; этот знак говорит о привязанности и душевной связи, которую образуют скиммеры."
 Glacier CapturePoint Buff,Усиление точки захвата на леднике
 Glad I could help out!,"Рад, что смог помочь!"
-Glad Peitha found us when she did. You don't want to know the things we ate just to keep moving.,"Хорошо, что Пейта нашла нас именно тогда. Тебе лучше не знать, что мы ели, лишь бы идти дальше."
+Glad Peitha found us when she did. You don't want to know the things we ate just to keep moving.,"Хорошо, что Peitha нашла нас именно тогда. Тебе лучше не знать, что мы ели, лишь бы идти дальше."
 Glad to hear it. I apologize for my sharp tongue earlier. You've come at a bad time. We've been having troubles with the local centaur population.,Рад слышать. Прошу прощения за резкость. Ты пришёл в скверное время. У нас неприятности с местными кентаврами.
 Gladly!,С радостью!
 Glain,Глейн
@@ -248,7 +248,7 @@ Glamoured to appear as Ryland Steelcatcher.,"Личина, придающая о
 Glass—shatter!,Стекло — вдребезги!
 Glibb,Глибб
 Glide in territories that you own.,Планируйте на своих территориях.
-Glide through %num1%/%num2% arches below the waterfall on the eastern side of Tarir.,Пролетите через %num1%/%num2% арок под водопадом с восточной стороны Тарира.
+Glide through %num1%/%num2% arches below the waterfall on the eastern side of Tarir.,Пролетите через %num1%/%num2% арок под водопадом с восточной стороны Tarir.
 Glided Ley Lines in Dragon's Stand,Полёт по лей-линиям в Dragon's Stand
 Glided to Farthest Vantage Point in Dragon's Stand,Полёт до самой дальней обзорной точки в Dragon's Stand
 Glider's Ledge,Уступ планериста
@@ -259,7 +259,7 @@ Glory of Dragons Completed,«Слава драконов» завершено
 Glowing Purple Mask[s],Светящаяся фиолетовая маска
 Glubblug,Глубблаг
 Gluttony Empowerment,Усиление чревоугодием
-Glyph of Burgeoning,Glyph of Burgeoning
+Glyph of Burgeoning,Глиф Пробуждения
 Glyph[s] of Alchemy (Unused),Глиф[|а|ов] Алхимии (не используется)
 Glyph[s] of Bounty (Unused),Глиф[|а|ов] Щедрости (не используется)
 Glyph[s] of Flight (Unused),Глиф[|а|ов] Полёта (не используется)
@@ -277,7 +277,7 @@ Go to Fort Marriner outside Lion's Arch.,Отправляйтесь в Fort Marr
 Go! Go!,Вперёд! Вперёд!
 Go! Into the fray!,Вперёд! В бой!
 "Go, fodder, go!","Вперёд, пушечное мясо, вперёд!"
-Gol,Gol
+Gol,Гол
 Gol's Findings,Находки Гола
 Gold Doubloon[s],Золотой дублон[|а|ов]
 "Gold Llama Box[pl:""Boxes""]",Золотая коробка с ламой
@@ -303,9 +303,9 @@ Good... Good!,Хорошо... Хорошо!
 Goop Pile,Куча слизи
 Goopy...Stuff?,Липкая... субстанция?
 "Gorr is a famous asura inventor. His recent treatises on the nature of magic were so ground-breaking that Arcane Council threatened his life to keep him from publishing them. The Order of Whispers helped Gorr escape their clutches, and now hides him from the Council's watchful eye.","Горр — знаменитый изобретатель-асура. Его недавние трактаты о природе магии были столь новаторскими, что Arcane Council угрожал его жизни, лишь бы он их не издал. Order of Whispers помог Горру вырваться из их лап и теперь укрывает его от бдительного ока Совета."
-"Gorrik thinks Petey could make a good mount, if grown to an appropriate size. He gave me a list of all the materials that a beetle would need to grow big. I'll find them.","Горрик считает, что из Пити выйдёт хорошее средство передвижения, если вырастить его до нужного размера. Он дал мне список всех материалов, нужных жуку для роста. Я их найду."
-Gorrik will send you a letter when he has new information for you.,"Горрик пришлёт вам письмо, когда у него появятся новые сведения."
-Gort,Gort
+"Gorrik thinks Petey could make a good mount, if grown to an appropriate size. He gave me a list of all the materials that a beetle would need to grow big. I'll find them.","Gorrik считает, что из Пити выйдёт хорошее средство передвижения, если вырастить его до нужного размера. Он дал мне список всех материалов, нужных жуку для роста. Я их найду."
+Gorrik will send you a letter when he has new information for you.,"Gorrik пришлёт вам письмо, когда у него появятся новые сведения."
+Gort,Горт
 Gort's Treasure,Сокровище Горта
 Gossiping Freebooter,Болтливый пират
 Got Beamed by Nourys,Попал под луч Нуриса
@@ -318,7 +318,7 @@ Got Silver in the Ash Training Course,Серебро на тренировочн
 Got Swallowed by a Leviathan in Janthir Syntri,Проглочен левиафаном в Janthir Syntri
 Got Tigg's Racing Moas to Safety,Гоночные моа Тигга выведены в безопасное место
 Got a little outta hand. Sorry.,Немного вышло из-под контроля. Прости.
-"Got enough rations and supplies to stay alive, but not nearly enough to make a meaningful pursuit against Eparch.","Пайков и припасов хватает, чтобы выжить, но и близко не хватит для серьёзного преследования Эпарха."
+"Got enough rations and supplies to stay alive, but not nearly enough to make a meaningful pursuit against Eparch.","Пайков и припасов хватает, чтобы выжить, но и близко не хватит для серьёзного преследования Eparch."
 Got it. I'll get you some eggs.,Понял. Принесу тебе яиц.
 Got the Branded Devourer Tied Down within 2:00,Клеймёный пожиратель связан за 2:00
 Got to Titan's Throat by Scaling the Searing Ascent,"До Глотки Титана добрались, взобравшись по Опаляющему Подъёму"
@@ -338,12 +338,12 @@ Grant boons to nearby allies when you enter Harbinger Shroud and when you use Da
 "Grant might and fury to nearby allies when you disable an enemy. <br><c=@reminder>Disables include stun, taunt, daze, knockback, pull, knockdown, sink, float, fear, and launch.</c>","Даёт мощь и ярость союзникам поблизости, когда вы выводите врага из строя. <br><c=@reminder>К выводу из строя относятся оглушение, провокация, ошеломление, отталкивание, притягивание, нокдаун, погружение, всплытие, страх и отбрасывание.</c>"
 Grant might to allies at target location.,Даёт мощь союзникам в целевой точке.
 Granted a Gift,Подарок вручён
-"Granted swiftness by Balthazar, god of war.","Быстрота дарована Бальтазаром, богом войны."
+"Granted swiftness by Balthazar, god of war.","Быстрота дарована Balthazar, богом войны."
 "Granted swiftness by Dwayna, goddess of life.","Быстрота дарована Двайной, богиней жизни."
 "Granted swiftness by Grenth, god of death.","Быстрота дарована Гренсом, богом смерти."
-"Granted swiftness by Kormir, goddess of truth.","Быстрота дарована Кормир, богиней истины."
+"Granted swiftness by Kormir, goddess of truth.","Быстрота дарована Kormir, богиней истины."
 "Granted swiftness by Lyssa, goddess of illusion.","Быстрота дарована Лиссой, богиней иллюзий."
-"Granted swiftness by Melandru, goddess of nature.","Быстрота дарована Меландру, богиней природы."
+"Granted swiftness by Melandru, goddess of nature.","Быстрота дарована Melandru, богиней природы."
 Granting quickness to an ally also grants Ashes of the Just.,"Даруя союзнику проворство, вы также даёте «Прах праведных»."
 Grants 15 agony resistance.,Даёт 15 сопротивления агонии.
 Grants Boons to Allies,Даёт благодати союзникам
@@ -369,7 +369,7 @@ Grawl Cave Painting,Наскальная роспись граулов
 Grawl Focus,Фокус граулов
 Grawl Hunter,Граул-охотник
 Grawl Ice God,Ледяной бог граулов
-Grawl Shamans,Grawl Shamans
+Grawl Shamans,Шаманы граулов
 Grawl Stoneworker,Граул-камнетёс
 Grawl Thief,Граул-вор
 Grawl win.,Граул побеждать.
@@ -394,7 +394,7 @@ Green sludge slops over the edge of this jug. Its potent aroma fills your nostri
 "Greetings, traveler.","Приветствую, странник."
 Greetings. Do—you—require—provisions—to—enhance—your—probability—of—survival?,Приветствую. Требуются—ли—вам—припасы—для—повышения—вероятности—выживания?
 Grenth's Touch,Прикосновение Гренса
-"Grenth, I call upon your power!","Гренс, я взываю к твоей силе!"
+"Grenth, I call upon your power!","Grenth, я взываю к твоей силе!"
 Grief becomes you.,Скорбь тебе к лицу.
 Griffon hatchlings are extremely energetic and precocious.<br>Combine 1 Blue and 2 Green Mini Griffon Hatchlings with 8 Unidentifed Dyes in the Mystic Forge to create a Mini Black Griffon Hatchling.,"Птенцы грифонов крайне энергичны и развиты не по годам.<br>Соедините 1 синего и 2 зелёных мини-птенцов грифона с 8 неопознанными красками в Mystic Forge, чтобы создать Mini Black Griffon Hatchling."
 Griffon hatchlings are extremely energetic and precocious.<br>Combine 1 Red and 2 Blue Mini Griffon Hatchlings with 4 Unidentifed Dyes in the Mystic Forge to create a Mini Yellow Griffon Hatchling.<br>Combine 1 Blue and 2 Red Mini Griffon Hatchlings with 4 Unidentifed Dyes in the Mystic Forge to create a Mini Green Griffon Hatchling.,"Птенцы грифонов крайне энергичны и развиты не по годам.<br>Соедините 1 красного и 2 синих мини-птенцов грифона с 4 неопознанными красками в Mystic Forge, чтобы создать Mini Yellow Griffon Hatchling.<br>Соедините 1 синего и 2 красных мини-птенцов грифона с 4 неопознанными красками в Mystic Forge, чтобы создать Mini Green Griffon Hatchling."
@@ -419,13 +419,13 @@ Growing Anxiety,Растущая тревога
 Grown Skyscale,Выращенный скайскейл
 Grub Farmer,Разводчик личинок
 Grub Hunter,Охотник на личинок
-Gruff Rousepain,Gruff Rousepain
+Gruff Rousepain,Графф Будибольщик
 Guard Killer I: 4%% more damage to guards,Guard Killer I: +4%% урона по стражам
 Guard Killer II: 8%% (total) more damage to guards,Guard Killer II: +8%% урона по стражам (суммарно)
 Guard Killer III: 12%% (total) more damage to guards,Guard Killer III: +12%% урона по стражам (суммарно)
 Guard Killer IV: 16%% (total) more damage to guards. All Guard Killer bonuses apply to lords and supervisors.,Guard Killer IV: +16%% урона по стражам (суммарно). Все бонусы «Убийцы стражей» действуют на лордов и надзирателей.
 "Guard Killer V: 20%% (total) more damage to guards. Gain endurance after killing a guard, lord, or supervisor.","Guard Killer V: +20%% урона по стражам (суммарно). После убийства стража, лорда или надзирателя вы получаете выносливость."
-Guard Slollilopup,Guard Slollilopup
+Guard Slollilopup,Страж Слоллилопуп
 Guardian Allise,Страж Аллиса
 Guardian Klave,Страж Клав
 Guardian Trent,Страж Трент
@@ -433,21 +433,21 @@ Guardians summoned,Стражи призваны
 Guess I was having a little too much fun there.,"Похоже, я там слегка увлёкся весельем."
 Guessed the Right Chest,Угадан верный сундук
 Guided Aetheric Energy %str1%/%str2% Times,Эфирная энергия направлена %str1%/%str2% раз
-Guild Experience Bonus,Guild Experience Bonus
-Guild Gold Banner Boost,Guild Gold Banner Boost
-Guild Objective Aura I,Guild Objective Aura I
-Guild Objective Aura II,Guild Objective Aura II
-Guild Objective Aura III,Guild Objective Aura III
-Guild Objective Aura IV,Guild Objective Aura IV
-Guild Objective Aura V,Guild Objective Aura V
-Guild Objective Aura VI,Guild Objective Aura VI
-Guild Objective Aura VII,Guild Objective Aura VII
-Guild Objective Aura VIII,Guild Objective Aura VIII
-Guild Quartermaster,Guild Quartermaster
+Guild Experience Bonus,Гильдейский бонус к опыту
+Guild Gold Banner Boost,Гильдейское усиление золотого знамени
+Guild Objective Aura I,Аура гильдейской цели I
+Guild Objective Aura II,Аура гильдейской цели II
+Guild Objective Aura III,Аура гильдейской цели III
+Guild Objective Aura IV,Аура гильдейской цели IV
+Guild Objective Aura V,Аура гильдейской цели V
+Guild Objective Aura VI,Аура гильдейской цели VI
+Guild Objective Aura VII,Аура гильдейской цели VII
+Guild Objective Aura VIII,Аура гильдейской цели VIII
+Guild Quartermaster,Гильдейский интендант
 Guild's the only family I've ever known. That's thanks to you. I owe you.,"Гильдия — единственная семья, что я знал. И это благодаря тебе. Я твой должник."
 Guildrider Warclaw Skin[s],Облик[|а|ов] боевого когтя «Гильдейский всадник»
 Gunnald,Гуннальд
-Gurges Burnpaw,Gurges Burnpaw
+Gurges Burnpaw,Гургес Жжёная Лапа
 Gusting Flurry,Порывистый вихрь
 Gwyldell[s],Гвилделл[|а|ов]
 Gyala Hatchery,Инкубатор Гьяла
@@ -462,7 +462,7 @@ Ha! You can't catch me!,Ха! Тебе меня не поймать!
 Ha-ha! Take that!,Ха-ха! Получай!
 Habel Icebreaker,Хабель Ледокол
 Hacked Inquest Command Consoles without Making a Mistake,Командные консоли Inquest взломаны без единой ошибки
-Had %num1%/%num2% Optional Conversations with Ramses and Galrath,Проведено %num1%/%num2% необязательных бесед с Рамсесом и Галратом
+Had %num1%/%num2% Optional Conversations with Ramses and Galrath,Проведено %num1%/%num2% необязательных бесед с Ramses и Галратом
 Hah! Extra damage.,Ха! Дополнительный урон.
 "Hail, citizen.","Приветствую, гражданин."
 "Hail, stranger.","Приветствую, незнакомец."
@@ -475,10 +475,10 @@ Hale. Vital. Recovery!,Крепость. Живучесть. Восстанов�
 "Half-Eaten Mass[pl:""Masses""]",Недоеденная масса
 Hall of Chains Achievement,Достижение «Зал Цепей»
 Hallowed Home,Освящённый дом
-Halloween Events Completed,Halloween Events Completed
+Halloween Events Completed,События Хеллоуина завершены
 Halt! You cannot survive the dredge rebellion inside these tunnels. Stay out!,Стой! В этих тоннелях тебе не пережить восстание дреджей. Не суйся!
 Halted Archon Iberu's Drain Ability,Способность истощения архонта Иберу остановлена
-Hamm,Hamm
+Hamm,Хамм
 Hammer Avoided,Молот избегнут
 Hammerer,Молотобоец
 Handler Kadin,Погонщик Кадин
@@ -495,7 +495,7 @@ Harathi Lieutenants,Лейтенанты Харати
 Harathi Siege Engine,Осадное орудие Харати
 Harathi Slaver,Работорговец Харати
 Harathi Trampler,Топтун Харати
-Harathi Warleader,Harathi Warleader
+Harathi Warleader,Военачальник Харати
 Harathi Weapon Rack,Стойка для оружия Харати
 Harathi Worker,Работник Харати
 Harathi catapults%str1%,Катапульты Харати%str1%

@@ -98,7 +98,7 @@ This item only has value as part of a collection.","<c=@flavor>«Видел, к�
 "<c=@flavor>""Helps your aim.""
 —Ichtaca</c>","<c=@flavor>«Помогает с прицеливанием».
 —Ичтака</c>"
-"<c=@flavor>""Here at last, dearheart. Are you prepared to join me?"" - Grand Duchess Faolain</c>","<c=@flavor>«Наконец-то ты здесь, зазноба. Готова ли ты пойти со мной?» - Великая герцогиня Фаолейн</c>"
+"<c=@flavor>""Here at last, dearheart. Are you prepared to join me?"" - Grand Duchess Faolain</c>","<c=@flavor>«Наконец-то ты здесь, зазноба. Готова ли ты пойти со мной?» - Великая герцогиня Faolain</c>"
 "<c=@flavor>""Here is some extra Stuff""</c>",<c=@flavor>«Вот тебе ещё немного Всякого»</c>
 "<c=@flavor>""Heroes are made from ordinary people put in extraordinary circumstances.""</c>","<c=@flavor>«Герои получаются из обычных людей, попавших в необычные обстоятельства».</c>"
 "<c=@flavor>""High velocity, long range torment coming up.""</c>",<c=@flavor>«Сейчас будет высокоскоростная дальнобойная боль».</c>
@@ -163,7 +163,7 @@ This item only has value as part of a collection.","<c=@flavor>«Купила э
 —Whispers Creator Pixtor</c>","<c=@flavor>«Я не жду, что ты вникнешь в детали, — лишь в высочайший гений этих замыслов».
 —Создатель Шепчущих Пикстор</c>"
 "<c=@flavor>""I don't know if it changes anything, but I put a little prayer of Dwayna on the side.""
-—Jinell</c>","<c=@flavor>«Не знаю, меняет ли это что-то, но я добавила сбоку небольшую молитву Двайне».
+—Jinell</c>","<c=@flavor>«Не знаю, меняет ли это что-то, но я добавила сбоку небольшую молитву Dwayna».
 —Джинелл</c>"
 "<c=@flavor>""I don't know if lighting your hand on fire counts as a torch, King Thorn."" —Some dead peasant who was WRONG.</c>","<c=@flavor>«Не знаю, считается ли подожжённая рука за факел, король Торн». —Некий мёртвый крестьянин, который ОШИБАЛСЯ.</c>"
 "<c=@flavor>""I don't know much about the Inquest or technology, but you don't need to know anything to make a difference.""
@@ -235,7 +235,7 @@ This item only has value as part of a collection.","<c=@flavor>«Купила э
 —Waldo</c>","<c=@flavor>«У меня свой особый рецепт — эти горят чуть жарче обычного. Береги брови».
 —Уолдо</c>"
 "<c=@flavor>""I have one thing to say to Zhaitan. Boom.""
-—Warmaster Chan</c>","<c=@flavor>«Мне есть что сказать Зайтану. Бабах».
+—Warmaster Chan</c>","<c=@flavor>«Мне есть что сказать Zhaitan. Бабах».
 —Военачальник Чан</c>"
 "<c=@flavor>""I have yet to see a spell backfire from this particular model.""
 —Mei Shadowwalker</c>","<c=@flavor>«Ещё не видела, чтобы заклинание дало осечку у этой модели».
@@ -292,7 +292,7 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 "<c=@flavor>""I will bear your pain.""
 —Caithe</c>","<c=@flavor>«Я разделю твою боль».
 —Каите</c>"
-"<c=@flavor>""I wish I could have helped out more. Look, I made this with some stuff Braham looted up there!"" —Taimi</c>","<c=@flavor>«Жаль, что я не смогла помочь больше. Смотри, я сделала это из всякого, что Брейхам там натаскал!» —Тайми</c>"
+"<c=@flavor>""I wish I could have helped out more. Look, I made this with some stuff Braham looted up there!"" —Taimi</c>","<c=@flavor>«Жаль, что я не смогла помочь больше. Смотри, я сделала это из всякого, что Braham там натаскал!» —Taimi</c>"
 "<c=@flavor>""I wonder what the jotun used these for...""
 —Albin Chronicler</c>","<c=@flavor>«Интересно, для чего ётуны это использовали...»
 —Летописец Альбин</c>"
@@ -387,7 +387,7 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 —Explorer Brokkar</c>","<c=@flavor>«Если тебя ударили, естественная реакция — ударить в ответ. Сильнее».
 —Изыскатель Броккар</c>"
 "<c=@flavor>""If your skale is giving you trouble, throw a spell or two their way.""</c>","<c=@flavor>«Если скейлы доставляют тебе хлопоты, брось в них заклинание-другое».</c>"
-"<c=@flavor>""Illusions are like that—if you question everything, you can't escape. But we made it out."" —Kasmeer</c>","<c=@flavor>«С иллюзиями всегда так: если сомневаешься во всём, тебе не выбраться. Но мы всё-таки выбрались». —Касмир</c>"
+"<c=@flavor>""Illusions are like that—if you question everything, you can't escape. But we made it out."" —Kasmeer</c>","<c=@flavor>«С иллюзиями всегда так: если сомневаешься во всём, тебе не выбраться. Но мы всё-таки выбрались». —Kasmeer</c>"
 "<c=@flavor>""Impressive.""
 —Solita Miststalker</c>","<c=@flavor>«Впечатляюще».
 —Солита Туманоискательница</c>"
@@ -462,7 +462,7 @@ This item only has value as part of a collection.","<c=@flavor>«Я знаю а�
 "<c=@flavor>""It's great to be on the giving side of this weapon. I would not suggest being on the receiving side of it, however.""
 —Johan</c>","<c=@flavor>«Здорово быть на дающей стороне этого оружия. А вот на принимающей стороне оказаться не советую».
 —Йохан</c>"
-"<c=@flavor>""It's hard to forget that horrible place. But it's destroyed now—down to the roots."" —Kasmeer</c>",<c=@flavor>«Трудно забыть то ужасное место. Но теперь оно уничтожено — до самых корней». —Касмир</c>
+"<c=@flavor>""It's hard to forget that horrible place. But it's destroyed now—down to the roots."" —Kasmeer</c>",<c=@flavor>«Трудно забыть то ужасное место. Но теперь оно уничтожено — до самых корней». —Kasmeer</c>
 "<c=@flavor>""It's important to have the right shoes for the job.""
 —Vasher Shadowsinner</c>","<c=@flavor>«Важно иметь подходящую обувь для дела».
 —Вашер Тенепевец</c>"
@@ -499,7 +499,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Krew Leader Pachoo</c>","<c=@flavor>«Довольно блестящее, не правда ли?»
 —Глава команды Пачу</c>"
 "<c=@flavor>""It's the height of Beetletun style! Well, it was last year, anyway.""
-—Paden</c>","<c=@flavor>«Это вершина стиля Битлтауна! Ну, по крайней мере, была в прошлом году».
+—Paden</c>","<c=@flavor>«Это вершина стиля Beetletun! Ну, по крайней мере, была в прошлом году».
 —Пейден</c>"
 "<c=@flavor>""It's the helm of the upper arm.""
 —Zalvax Brokenclaw</c>","<c=@flavor>«Это шлем для верхней части руки».
@@ -709,7 +709,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Magister Roslin</c>"
 "<c=@flavor>""Never leave a wrong to ripen into evil or sorrow.""</c>
 —Tenets of Ventari","<c=@flavor>«Не давай несправедливости вызреть во зло или скорбь».</c>
-—Заповеди Вентари"
+—Заповеди Ventari"
 "<c=@flavor>""Never leave home without a good axe.""
 —Shengra</c>","<c=@flavor>«Никогда не выходи из дома без хорошего топора».
 —Шенгра</c>"
@@ -722,7 +722,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 "<c=@flavor>""No place like home.""
 —Kastaz</c>","<c=@flavor>«Нет места лучше дома».
 —Кастаз</c>"
-"<c=@flavor>""None in the fahrar would have stopped Ryland except Cinder. We almost buried a primus instead of retiring one.""</c>","<c=@flavor>«Никто в фахраре не остановил бы Райленда, кроме Синдер. Мы едва не похоронили примуса вместо того, чтобы проводить его на покой».</c>"
+"<c=@flavor>""None in the fahrar would have stopped Ryland except Cinder. We almost buried a primus instead of retiring one.""</c>","<c=@flavor>«Никто в фахраре не остановил бы Ryland, кроме Синдер. Мы едва не похоронили примуса вместо того, чтобы проводить его на покой».</c>"
 "<c=@flavor>""Normally only krewe members get to see these, but seeing how you helped generate the more interesting data points you can have them.""
 —Krewe Leader Seesa</c>","<c=@flavor>«Обычно их видят только члены крю, но раз уж ты помог собрать более интересные данные — забирай».
 —Глава крю Сиса</c>"
@@ -860,7 +860,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 —Waldo</c>","<c=@flavor>«Здесь нельзя довольствоваться ширпотребом. У этих — мои особые маленькие доработки».
 —Уолдо</c>"
 "<c=@flavor>""Patent #19283719T pending approval by Arcane Council.""</c>",<c=@flavor>«Патент №19283719T ожидает одобрения Arcane Council».</c>
-"<c=@flavor>""Patrol investigating the aftermath found the cub hidden near corpses of her presumed parents. Brought her to Grothmar. Added her to the fahrar.""</c>","<c=@flavor>«Патруль, осматривавший место побоища, нашёл детёныша, спрятанного возле тел предполагаемых родителей. Доставили её в Гротмар. Определили в фахрар».</c>"
+"<c=@flavor>""Patrol investigating the aftermath found the cub hidden near corpses of her presumed parents. Brought her to Grothmar. Added her to the fahrar.""</c>","<c=@flavor>«Патруль, осматривавший место побоища, нашёл детёныша, спрятанного возле тел предполагаемых родителей. Доставили её в Grothmar. Определили в фахрар».</c>"
 "<c=@flavor>""People should take shoulder protection more seriously. One arrow volley will change your opinion on a good pair of pauldrons.""
 —Tripp</c>","<c=@flavor>«К защите плеч стоит относиться серьёзнее. Один залп стрел изменит твоё мнение о хорошей паре наплечников».
 —Трипп</c>"
@@ -979,7 +979,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 "<c=@flavor>""Reminds me of days gone by.""
 —Diantha</c>","<c=@flavor>«Напоминает мне о минувших днях».
 —Диантха</c>"
-"<c=@flavor>""Ryland said no solo scouting, so I went with Vishen to check out the nearby caves. Good thing I was there—that troll was pretty big.""</c>","<c=@flavor>«Райленд запретил ходить в разведку в одиночку, так что я пошёл с Вишен осмотреть ближние пещеры. Хорошо, что я был рядом — тот тролль был немаленький».</c>"
+"<c=@flavor>""Ryland said no solo scouting, so I went with Vishen to check out the nearby caves. Good thing I was there—that troll was pretty big.""</c>","<c=@flavor>«Ryland запретил ходить в разведку в одиночку, так что я пошёл с Вишен осмотреть ближние пещеры. Хорошо, что я был рядом — тот тролль был немаленький».</c>"
 "<c=@flavor>""Scholar told me all about matrixes and arcane stuffs. I couldn't listen because of how shiny this shiny is.""
 —Sik'klak</c>","<c=@flavor>«Учёный рассказывал мне всё про матрицы и всякую чародейщину. Я не слушал — уж больно эта блестяшка блестящая».
 —Сик’клак</c>"
@@ -1036,7 +1036,7 @@ This item only has value as part of a collection.","<c=@flavor>«Это не в�
 "<c=@flavor>""Simple and effective.""
 —Warden Brulians</c>","<c=@flavor>«Просто и эффективно».
 —Страж Брулианс</c>"
-"<c=@flavor>""Since Ryland had to face down Branded without his pauldrons, I've acquired a portable anvil so we never have that problem again.""</c>","<c=@flavor>«Раз уж Райленду пришлось выйти против клеймёных без наплечников, я раздобыл переносную наковальню, чтобы такого больше не повторилось».</c>"
+"<c=@flavor>""Since Ryland had to face down Branded without his pauldrons, I've acquired a portable anvil so we never have that problem again.""</c>","<c=@flavor>«Раз уж Ryland пришлось выйти против клеймёных без наплечников, я раздобыл переносную наковальню, чтобы такого больше не повторилось».</c>"
 "<c=@flavor>""Skale number 354. Do not remove on penalty of death.""</c>",<c=@flavor>«Скейл номер 354. Не снимать под страхом смерти».</c>
 "<c=@flavor>""Skale seem to respond oddly when you mess with their fins.""</c>","<c=@flavor>«Скейлы, похоже, странно реагируют, когда трогаешь их плавники».</c>"
 "<c=@flavor>""Skale sure don't like getting zapped with magic.""</c>","<c=@flavor>«Скейлам определённо не нравится, когда их бьёт магией».</c>"
@@ -1257,7 +1257,7 @@ This item only has value as part of a collection.","<c=@flavor>«Иногда д
 "<c=@flavor>""The barnacles actually help deflect incoming attacks.""
 —Aerixx</c>","<c=@flavor>«Ракушки на самом деле помогают отражать входящие атаки».
 —Аэрикс</c>"
-"<c=@flavor>""The Barradin family crest is old but still strong and proud. You can still hear his roar echoing in the crypt.""</c>","<c=@flavor>«Герб семьи Баррадин стар, но всё ещё крепок и горд. В склепе до сих пор слышно эхо его рыка».</c>"
+"<c=@flavor>""The Barradin family crest is old but still strong and proud. You can still hear his roar echoing in the crypt.""</c>","<c=@flavor>«Герб семьи Barradin стар, но всё ещё крепок и горд. В склепе до сих пор слышно эхо его рыка».</c>"
 "<c=@flavor>""The best tribe scouts use this to watch for the undead. Be warned, when the shore looks empty, they rise out of the water."" -Potatlan</c>","<c=@flavor>«Лучшие разведчики племени высматривают с этим нежить. Но берегись: когда берег кажется пустым, они поднимаются из воды». -Потатлан</c>"
 "<c=@flavor>""The big nasty ones sometimes take a little more force to bring in.""
 —Fisherman Will</c>","<c=@flavor>«Больших и злых иногда нужно затаскивать с чуть большим усилием».

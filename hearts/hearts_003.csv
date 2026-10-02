@@ -32,7 +32,7 @@ Koda Blesses You.,Koda благословляет вас.
 —Sun Warming"
 Koolooku Thanks You,Куулуку благодарит вас
 Kormir Knows of Your Kindness,Кормир знает о вашей доброте
-Krait Anger Rising,Krait Anger Rising
+Krait Anger Rising,Гнев krait растет
 Krewe Field Update: Skritt research progressing. Widd and Genna excited and busy. Work done by %str1% producing practical applications.,"Полевой отчёт группы: исследования скриттов продвигаются. Widd и Genna взволнованы и заняты. Работа, проделанная %str1%, находит практическое применение."
 Krug want ryTe thanx-,Krug хочет сКаЗаТь спс-
 Kudos,Похвала
@@ -85,7 +85,7 @@ May the Sun Shine on You,Пусть солнце светит вам
 "May the missing ""teachings of"" or similar Kormir show you her truth, %str1%. Her humble servants could not have helped as many in as little time without you.","Пусть недостающие «учения» или подобные им откровения Kormir покажут вам её истину, %str1%. Её смиренные слуги не смогли бы помочь стольким людям за столь короткое время без вас."
 "May the missing \\\\\\\\\\\\\\teachings of\\\\\\\\\\\\\\\\\\\\\\\\\\\\ or similar Kormir show you her truth, %str1%. Her humble servants could not have helped as many in as little time without you.\\\\\\\\\\\\\\","Пусть утерянные \\\\\\\учения\\\\\\\\\\\\\\ или подобные Кормиры покажут вам её истину, %str1%. Её скромные слуги не смогли бы помочь стольким за столь короткое время без вас.\\\\\\\"
 "Mend injured miners, collapse skritt holes, and stop skritt thieves.","Лечите раненых шахтеров, обрушивайте норы скриттов и останавливайте воров-скриттов."
-"Mend the refugee's injuries in the prescribed order, wipe Zaishen graffiti off temple walls, and cheer up disheartened refugees.","Лечите ранения беженцев в предписанном порядке, стирайте граффити Зайшена со стен храма и поднимайте дух унывающих беженцев."
+"Mend the refugee's injuries in the prescribed order, wipe Zaishen graffiti off temple walls, and cheer up disheartened refugees.","Лечите ранения беженцев в предписанном порядке, стирайте граффити Zaishen со стен храма и поднимайте дух унывающих беженцев."
 Mission Succeeded,Миссия выполнена
 Mokooki is grateful.,Mokooki благодарен.
 Moles and Machines,Кроты и машины
@@ -146,7 +146,7 @@ Nice Work,Отличная работа
 "Nice work in there, Commander.","Отличная работа, Коммандир."
 Night Terrors,Ночные кошмары
 Nightguard Beach helped.,Пляж Nightguard спасен.
-Nightmare Court Update,Nightmare Court Update
+Nightmare Court Update,Новости Кошмарного двора
 Nightmare Court disrupted.,Nightmare Court сорван.
 "No news on determination of cause or cure for mysterious afflictions. Suspect new form of corruption. If possible, avoid Grand Barrier Island.",Нет новостей об определении причины или лекарства от таинственных недугов. Подозреваю новую форму осквернения. По возможности избегайте острова Grand Barrier.
 Nobody runs off with my equipment. You train in the ring or not at all.,"Никто не сбежит с моим снаряжением. Либо тренируешься на арене, либо никак."
@@ -264,10 +264,10 @@ Quaggans like you!,Квагганы любят вас!
 Quarryside Mine is in Your Debt,"Я не мастер говорить «спасибо», так что не ждите этого от меня. Однако вы отлично помогли шахте. Технически это означает, что я у вас в долгу.Не зазнавайтесь, но вы хорошо поработали."
 "Queen Jennah was wise to anticipate that Ebonhawke would need assistance during this transitional period in our relationship with the charr. But I doubt even the queen could have guessed that this kind of aide would come from someone like you. Someone who, without living here, recognized what harm could come with neglecting such delicate social issues. I believe strongly that good works should be rewarded, and so I hope you accept this small compensation on behalf of the Fallen Angels.","Queen Jennah была мудра, предвидя, что Ebonhawke понадобится помощь в этот переходный период наших отношений с charr. Но сомневаюсь, что даже королева могла предположить, что такая помощь придёт от кого-то вроде вас. От того, кто, не живя здесь, осознал, какой вред может принести пренебрежение столь деликатными социальными вопросами. Я твердо верю, что добрые дела должны быть вознаграждены, поэтому надеюсь, что вы примете эту небольшую компенсацию от имени Fallen Angels."
 Raid the territory controlled by the Sons of Svanir and destroy all signs of Jormag's corruption.,"Рейд на территорию, контролируемую Sons of Svanir, и уничтожьте все признаки порчи Йормага."
-"Rally the Pact soldiers, corsairs, and Zephyrites.","Rally the Pact soldiers, corsairs, and Zephyrites."
+"Rally the Pact soldiers, corsairs, and Zephyrites.","Соберите солдат Пакта, корсаров и Зефиритов."
 Ranch's Never Looked Better,Ранчо стало выглядеть лучше
 Rancher Tolona thanks you.,Фермер Tolona благодарит вас.
-Raven Sees All,Raven Sees All
+Raven Sees All,Ворон видит всё
 Raven has see you tending to his flock. He is pleased and impressed with your faith! Come back any time so that I may grant you the fruits of Raven's blessing.,"Ворон видел, как вы заботились о его стае. Он доволен и впечатлён вашей верой! Возвращайтесь в любое время, чтобы я мог даровать вам плоды благословения Ворона."
 "Reactivate cameras, destroy steam corpses, and gather steam parts for study.","Реактивируйте камеры, уничтожайте паровые трупы и собирайте паровые детали для изучения."
 Ready your forces for the assault on Kralkatorrik.,Подготовьте свои силы к штурму Kralkatorrik.
@@ -380,7 +380,7 @@ Shoon is grateful,Shoon благодарен
 "Shoot supplies to your allies with corsair cannons, stop plague scarab outbreaks, take out Awakened forces and siege weapons, and retrieve bottled messages.","Забрасывайте припасы союзникам из пушек corsair, останавливайте вспышки чумных скарабеев, уничтожайте силы Awakened и осадные орудия, а также забирайте сообщения в бутылках."
 Show these whelps how it's done. Pick up a shield and get in there.,"Покажи этим щенкам, как это делается. Возьми щит и вперёд."
 Skimmer Ranch Helped,Skimmer Ranch помогло
-Skritt Send Sparkly Loves,Skritt Send Sparkly Loves
+Skritt Send Sparkly Loves,Скритты посылают блестящую любовь
 "Skritt thank u -
 U made a gurd matey, matey. U help skrit whu cant swim in hot . U help skrit wh b lazy, u help skritt whu get atakd bi grien fiir thigs. Mayb sumday u teach skrit how to writ betr. 
 
@@ -529,7 +529,7 @@ Thanks From the Seraph,Благодарность от Серафимов
 
 —Gorrik","Спасибо, что взяли на себя эти незначительные, но крайне отвлекающие задачи. Наконец-то я могу сосредоточиться на нашем плане атаки.
 
-—Горрик"
+—Gorrik"
 Thanks for helping all of us homesteaders out. Folks can't stop talking about what a big difference you made around the lodge. Come back and visit us anytime!,"Спасибо, что помогли всем нам, поселенцам. Люди не перестают говорить о том, как сильно вы помогли нам в лагере. Возвращайтесь и навещайте нас в любое время!"
 "Thanks for helping us push back the krait. Our new alchemy skills will be a huge difference maker. Keep an eye out for those sneaky krait. They're not completely beaten, and I would hate to see you disemboweled by them.","Спасибо, что помогли нам оттеснить крайтов. Наши новые навыки алхимии станут огромным подспорьем. Следите за этими хитрыми крайтами. Они ещё не окончательно побеждены, и я бы не хотел, чтобы они вас выпотрошили."
 Thanks for killing harpies and smashing harpy eggs! Also for getting grub eggs!,Спасибо за убийство гарпий и разбивание яиц гарпий! А также за сбор яиц личинок!

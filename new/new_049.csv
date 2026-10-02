@@ -19,9 +19,9 @@ Darkrime skelk slain: %num1%,Убито скелков Тёмного Инея: 
 Darkwing defenders,Защитники Тёмного Крыла
 Darthula,Дартула
 Dash at the speed of a shooting star to your target location. Source: prison waters,Рванитесь со скоростью падающей звезды к целевой точке. Источник: тюремные воды
-Dash forward with Sohothin to deal damage to enemies. Reduces cooldown on Flame Spit and Cataclysm.,"Рванитесь вперёд с Сохотином, нанося урон врагам. Сокращает перезарядку «Огненного плевка» и «Катаклизма»."
+Dash forward with Sohothin to deal damage to enemies. Reduces cooldown on Flame Spit and Cataclysm.,"Рванитесь вперёд с Sohothin, нанося урон врагам. Сокращает перезарядку «Огненного плевка» и «Катаклизма»."
 Data Crystal Pickup,Подбор кристалла данных
-Data Dog,Data Dog
+Data Dog,Пёс данных
 Data Log Printout,Распечатка журнала данных
 Data Recorder,Регистратор данных
 Data—indicates—these—are—most—nutritious—when—deep-fried.,Данные—показывают—что—они—наиболее—питательны—в—обжаренном—виде.
@@ -55,7 +55,7 @@ Dead and rotting!,Мёртв и гниёт!
 Dead meat.,Мертвечина.
 Dead so soon?,Так скоро мёртв?
 Dead things are everywhere!,Мертвечина повсюду!
-Deadeye Della,Deadeye Della
+Deadeye Della,Снайпер Делла
 Deadeye Priestess,Жрица-снайпер
 Deadeye support incoming.,Поддержка снайпера на подходе.
 Deadhouse Guard,Страж Мертвецкой
@@ -85,7 +85,7 @@ Death stalks your nightmares.,Смерть крадётся в твоих кош
 Death to the Midnight King!,Смерть Полуночному Королю!
 Death-Branded,Клеймённый смертью
 Death-Branded Centaur,Клеймённый смертью кентавр
-Death-Branded Deputy Qais,Death-Branded Deputy Qais
+Death-Branded Deputy Qais,Клеймённый смертью заместитель Кайс
 Death-Branded Devourer,Клеймённый смертью пожиратель
 Death-Branded Lieutenant,Клеймённый смертью лейтенант
 Death-Branded Test Subject,Клеймённый смертью подопытный
@@ -98,7 +98,7 @@ Debug,Отладка
 Decaying Stump,Гниющий пень
 Deceased Diners,Почившие едоки
 Decide who to assist.,"Решите, кому помочь."
-Decima revives Greer in: %str1%,Децима воскресит Грира через: %str1%
+Decima revives Greer in: %str1%,Decima воскресит Greer через: %str1%
 Decimus the Historian,Децим Историк
 Decipher Text,Расшифровать текст
 Deckhand Begbie,Матрос Бегби
@@ -108,7 +108,7 @@ Decommissioned Shield Golem,Списанный голем-щитоносец
 Decorative Armor,Декоративная броня
 Deep Hazard,Глубинная опасность
 Deep Sea Scorpion,Глубоководный скорпион
-Deep Song,Deep Song
+Deep Song,Глубинная песнь
 Deep Wound,Глубокая рана
 "Deep in freebooter territory, you can see how these rough-and-tumble crews carved a less-than-honest living out of the rock of Twisting Hollows.","В самой глубине владений вольных пиратов видно, как эти лихие ватаги вырубали своё не слишком честное житьё прямо в скале Twisting Hollows."
 "Deep in the dark belly of the cave, close to the heart of the planet, a primal force surges through the water. Its presence calls to those who desire power and strength.","В тёмном чреве пещеры, у самого сердца планеты, сквозь воду пробивается первозданная сила. Её присутствие манит тех, кто жаждет мощи и силы."
@@ -135,12 +135,12 @@ Defeat High Priestess Amala.,Победите верховную жрицу Ам
 Defeat Horrik.,Победите Хоррика.
 Defeat Jessica and Jimmy Hammerhart before they overclock the machine.,"Победите Джессику и Jimmy Hammerhart, прежде чем они разгонят машину."
 Defeat Jilai the Radiant.,Победите Джилай Лучезарную.
-"Defeat Joko's forces throughout Istan, and intercept corpse caravans to aid the Sunspear uprising.","Побеждайте силы Джоко по всему Истану и перехватывайте караваны с трупами, чтобы помочь восстанию Солнечных Копий."
+"Defeat Joko's forces throughout Istan, and intercept corpse caravans to aid the Sunspear uprising.","Побеждайте силы Joko по всему Истану и перехватывайте караваны с трупами, чтобы помочь восстанию Солнечных Копий."
 Defeat Jubua the Wildfire.,Победите Джубуа Дикий Огонь.
 Defeat Kasha Blackblood.,Победите Кашу Чёрную Кровь.
 Defeat Kellach.,Победите Келлаха.
 Defeat King Adelbern.,Победите King Adelbern.
-Defeat Korag's followers to draw him out.,"Победите последователей Корага, чтобы выманить его."
+Defeat Korag's followers to draw him out.,"Победите последователей Korag, чтобы выманить его."
 Defeat Kudu,Победите Куду
 Defeat Lieutenant Kholer.,Победите лейтенанта Колера.
 Defeat Mai Trin.,Победите Mai Trin.
@@ -202,7 +202,7 @@ Defeat the Risen attackers and protect the quaggan guards.,Победите на
 Defeat the Risen spider ambush.,Отбейте засаду восставших пауков.
 Defeat the Sentry Golem,Победите голема-часового
 Defeat the Speaker Poachers,Победите браконьеров Глашатаев
-Defeat the Svanir shamans spreading the dragon's corruption.,"Победите шаманов Сванира, распространяющих порчу дракона."
+Defeat the Svanir shamans spreading the dragon's corruption.,"Победите шаманов Svanir, распространяющих порчу дракона."
 Defeat the Tentacles of Nourys,Победите щупальца Нуриса
 Defeat the Voice of the Fallen and Claw of the Fallen,Победите Голос Павших и Коготь Павших
 Defeat the amber head of the great jungle wurm.,Победите янтарную голову большого джунглевого вурма.
@@ -241,7 +241,7 @@ Defeat the krait guards.,Победите стражей крайтов.
 Defeat the legendary bounty.,Победите легендарную цель награды.
 Defeat the monstrous tar elemental.,Победите чудовищного смоляного элементаля.
 Defeat the murellow matriarch.,Победите матриарха мурелло.
-Defeat the mustering Mordrem before the attack on Tarir begins.,"Победите собирающихся мордремов, пока не начался штурм Тарира."
+Defeat the mustering Mordrem before the attack on Tarir begins.,"Победите собирающихся мордремов, пока не начался штурм Tarir."
 Defeat the mysterious asura's agent.,Победите агента загадочного асура.
 Defeat the mysterious asura's creations.,Победите творения загадочного асура.
 Defeat the oni.,Победите демонов-они.
@@ -330,7 +330,7 @@ Defensive—protocols—suspended.,Оборонительные—протоко
 Defiance Dummy,Манекен стойкости
 Defiance Trainer Cascading Sands,Тренажёр стойкости «Осыпающиеся пески»
 Defiance Training Golem,Голем для тренировки стойкости
-Defiance Training Mech,Defiance Training Mech
+Defiance Training Mech,Мех для тренировки стойкости
 Defiant Mote,Частица стойкости
 Deflecting Whirlwind,Отражающий вихрь
 Defy our master at your own peril!,Перечь нашему повелителю на свой страх и риск!
@@ -344,7 +344,7 @@ Deiugoo,Дейугу
 Dekkti?,Деккти?
 Delayed Daze,Отложенное ошеломление
 Deldrimor Guard,Страж Делдримора
-"Delfa studied reports from Sentinel Perch and noticed something unique. While destroyers usually swarm in all directions, Kralkatorrik's minions migrate southward along the Dragonbrand.","Дельфа изучила донесения с Насеста Часового и заметила кое-что необычное. Обычно разрушители расползаются во все стороны, а прислужники Кралькаторрика движутся на юг вдоль Драконьего Клейма."
+"Delfa studied reports from Sentinel Perch and noticed something unique. While destroyers usually swarm in all directions, Kralkatorrik's minions migrate southward along the Dragonbrand.","Дельфа изучила донесения с Насеста Часового и заметила кое-что необычное. Обычно разрушители расползаются во все стороны, а прислужники Kralkatorrik движутся на юг вдоль Драконьего Клейма."
 Delicate Ash,Тонкий пепел
 Delicious darlings...,Вкусные милашки...
 Delicious!,Восхитительно!

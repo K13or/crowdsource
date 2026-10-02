@@ -9,12 +9,12 @@ Double-click to open.","Содержит осколки обсидиана.
 Дважды щёлкните, чтобы открыть."
 "Contains one of 25 random colors handpicked by Taimi. Includes the possibility of six exclusive electro colors created by Taimi.
 
-<c=#FFC957>All dyes have an equal chance to drop.</c>","Содержит один из 25 случайных цветов, отобранных Тайми. Включает возможность получения шести эксклюзивных электрических цветов, созданных Тайми.
+<c=#FFC957>All dyes have an equal chance to drop.</c>","Содержит один из 25 случайных цветов, отобранных Taimi. Включает возможность получения шести эксклюзивных электрических цветов, созданных Taimi.
 
 <c=#FFC957>У всех красок равные шансы выпадения.</c>"
 "Contains one of 25 random colors reminiscent of the good dragon, Glint. Includes the possibility of six exclusive winter colors created in honor of her struggle against Kralkatorrik.
 
-<c=#FFC957>All dyes have an equal chance to drop.</c>","Содержит один из 25 случайных цветов, напоминающих о добром драконе Глинт. Включает возможность получения шести эксклюзивных зимних цветов, созданных в честь её борьбы с Кралькаторриком.
+<c=#FFC957>All dyes have an equal chance to drop.</c>","Содержит один из 25 случайных цветов, напоминающих о добром драконе Глинт. Включает возможность получения шести эксклюзивных зимних цветов, созданных в честь её борьбы с Kralkatorrik.
 
 <c=#FFC957>У всех красок равные шансы выпадения.</c>"
 "Contains one random armor dye from a pool of 25 colors that includes 10 exclusive colors.
@@ -31,7 +31,6 @@ Dyes can be unlocked for unlimited uses to color armor on all characters.
 Краски можно разблокировать для неограниченного использования, чтобы красить броню на всех персонажах.
 
 <c=#FFC957>У всех красок равные шансы выпадения.</c>"
-Contains one random armor dye from a pool of 25 colors that includes six exclusive colors.Dyes can be unlocked for unlimited use to color armor on all characters. Dye bottles can also be recycled in the Mystic Forge.<c=#FFC957>All dyes have equal chances to drop.</c>,"Содержит одну случайную краску для брони из набора из 25 цветов, включающего шесть эксклюзивных. Краски можно разблокировать для неограниченного использования, чтобы красить броню на всех персонажах. Флаконы с краской также можно переработать в Mystic Forge.<c=#FFC957>У всех красок равные шансы выпадения.</c>"
 "Contains one random exclusive, rare, and uncommon dye selected from among the seven Elder Dragon-themed dye kits.
 
 <c=#FFC957>All dyes have an equal chance to drop.</c>","Содержит одну случайную эксклюзивную, редкую и необычную краску, выбранную из семи наборов красок Старших драконов.
@@ -52,7 +51,7 @@ Contains Pieces of Rare Unidentified Gear and a chest from which to pick your ch
 
 <c=@flavor>Did Zojja ever get her tea?</c>","Содержит части редкого неопознанного снаряжения и сундук, из которого можно выбрать предметы.
 
-<c=@flavor>Зойя вообще получила свой чай?</c>"
+<c=@flavor>Zojja вообще получила свой чай?</c>"
 "Contains Pieces of Rare Unidentified Gear and a chest from which to pick your choice of items.
 
 <c=@flavor>For those confused about Mosaic Wrath, try helping out Vanak at the Bastion of Strength.</c>","Содержит части редкого неопознанного снаряжения и сундук, из которого можно выбрать предметы.
@@ -207,7 +206,7 @@ Contains the Essence of Villains and recipes for first-tier The Chosen.,Соде
 Contains the recipe and ingredients to craft hylek maintenance oil.,Содержит рецепт и ингредиенты для создания масла для ухода хайликов.
 Contains the recipe and ingredients to craft krait tuning crystals.,Содержит рецепт и ингредиенты для создания настроечных кристаллов крайтов.
 Contains the recipe and ingredients to craft ogre sharpening stones.,Содержит рецепт и ингредиенты для создания точильных камней огров.
-Contains the Southsun Kasmeer and Southsun Faren minis.,Содержит миниатюры Касмир из Южного Солнца и Фарена из Южного Солнца.
+Contains the Southsun Kasmeer and Southsun Faren minis.,Содержит миниатюры Kasmeer из Южного Солнца и Фарена из Южного Солнца.
 "Contains the Southsun Mask, Island Shoulders, Shark's Tooth Axe, Shark's Tooth Sword Consortium Clipper Focus, and the Tiki Totem Shield skins.","Содержит облики: Southsun Mask, Островные наплечники, Топор из акульего зуба, Меч из акульего зуба, Фокус клипера Консорциума и Щит тотема тики."
 "Contains the Sun Catcher, Wind Catcher, and Lightning Catcher backpack skins.","Содержит облики рюкзаков: Sun Catcher, Wind Catcher и Lightning Catcher."
 Contains third-tier crafting materials. Double-click to open.,"Содержит материалы для крафта третьего уровня. Дважды щёлкните, чтобы открыть."
@@ -328,8 +327,8 @@ Reap-r-Tron Permanent Harvesting Tool","Содержит:
 • Мини-жуткий спрингер
 • Мини-жуткий шакал
 • Мини-жуткий грифон"
-Continue Coin,Continue Coin
-Contract of Patronage,Contract of Patronage
+Continue Coin,Монета продолжения
+Contract of Patronage,Контракт покровительства
 "Contrary to certain folklore, springer kits are not hatched from eggs.
 Combine 1 Black, 1 Green, and 1 Brown Springer Kit with 12 Unidentified Dyes in the Mystic Forge to create a Cyan Springer Kit.","Вопреки некоторым поверьям, детёныши спрингера не вылупляются из яиц.
 Соедините 1 чёрного, 1 зелёного и 1 коричневого детёныша спрингера с 12 неопознанными красками в Mystic Forge, чтобы создать голубого детёныша спрингера."
@@ -356,219 +355,219 @@ Combine 3 Brown Springer Kits with 2 Unidentified Dyes in the Mystic Forge to cr
 "Contrary to certain folklore, springer kits are not hatched from eggs.
 Combine a 1 White and 2 Pink Springer Kits with 20 Unidentified Dyes in the Mystic Forge to create a Primal Springer Kit.","Вопреки некоторым поверьям, детёныши спрингера не вылупляются из яиц.
 Соедините 1 белого и 2 розовых детёнышей спрингера с 20 неопознанными красками в Mystic Forge, чтобы создать первобытного детёныша спрингера."
-Conundrum of Maut,Conundrum of Maut
-Convergence Challenge Mode: Bronze,Convergence Challenge Mode: Bronze
-Convergence Challenge Mode: Gold,Convergence Challenge Mode: Gold
-Convergence Challenge Mode: Silver,Convergence Challenge Mode: Silver
-Convergence Extraction,Convergence Extraction
-Convergence: Hero's Choice Chest,Convergence: Hero's Choice Chest
-Convergence: Mount Balrior Commander's Choice Chest,Convergence: Mount Balrior Commander's Choice Chest
-Convergence: Outer Nayos: Commander's Choice Chest,Convergence: Outer Nayos: Commander's Choice Chest
+Conundrum of Maut,Загадка Маута
+Convergence Challenge Mode: Bronze,Схождение: Режим испытания: Бронза
+Convergence Challenge Mode: Gold,Схождение: Режим испытания: Золото
+Convergence Challenge Mode: Silver,Схождение: Режим испытания: Серебро
+Convergence Extraction,Извлечение Схождения
+Convergence: Hero's Choice Chest,Схождение: Сундук выбора героя
+Convergence: Mount Balrior Commander's Choice Chest,Схождение: Сундук выбора командира горы Балриор
+Convergence: Outer Nayos: Commander's Choice Chest,Схождение: Внешний Найос: Сундук выбора командира
 Convert conditions into boons on nearby allies after using an elite skill.,Преобразует состояния в благословения у ближайших союзников после использования элитного умения.
 Converted from 25 unidentified dyes from Fidget in Arborstone.,Преобразовано из 25 неопознанных красок у Фиджета в Арборстоуне.
 "Converts 10,000 influence to 50 favor.",Преобразует 10 000 влияния в 50 благосклонности.
 "Converts 100,000 influence to 10 favor.",Преобразует 100 000 влияния в 10 благосклонности.
-Convict's Ring,Convict's Ring
-Cook Rehman's Famous Raptor Treat,Cook Rehman's Famous Raptor Treat
-Cook's Boots,Cook's Boots
-Cook's Coat,Cook's Coat
-Cook's Gloves,Cook's Gloves
-Cook's Hat,Cook's Hat
-Cook's Leggings,Cook's Leggings
-Cooked Crawdad,Cooked Crawdad
-Cooked Fish Steak,Cooked Fish Steak
-Cooking Spoon,Cooking Spoon
+Convict's Ring,Кольцо каторжника
+Cook Rehman's Famous Raptor Treat,Знаменитое угощение для рапторов повара Рехмана
+Cook's Boots,Сапоги повара
+Cook's Coat,Куртка повара
+Cook's Gloves,Перчатки повара
+Cook's Hat,Шляпа повара
+Cook's Leggings,Поножи повара
+Cooked Crawdad,Варёный рак
+Cooked Fish Steak,Приготовленный рыбный стейк
+Cooking Spoon,Кулинарная ложка
 Cooks in Saidra's Haven may be able to cook this seafood properly. This may also be used to heal soldiers around Lakeside Bazaar. A fisherman in New Loamhurst can use this to help resupply the village.,"Повара в Saidra's Haven, возможно, смогут правильно приготовить эти морепродукты. Это также можно использовать для лечения солдат у Озёрного базара. Рыбак в New Loamhurst может использовать это, чтобы помочь пополнить запасы деревни."
 Cooks in Saidra's Haven may be able to prepare this crawdad properly. This may be also used to heal soldiers around Lakeside Bazaar.,"Повара в Saidra's Haven, возможно, смогут правильно приготовить этого рака. Его также можно использовать для лечения солдат у Озёрного базара."
-Cool Stone,Cool Stone
-Copper Band,Copper Band
-Copper Chain,Copper Chain
-Copper Cowbell,Copper Cowbell
-Copper Doubloon,Copper Doubloon
-Copper Dye,Copper Dye
-Copper Filigree,Copper Filigree
-Copper Free Tournament Reward Chest,Copper Free Tournament Reward Chest
-Copper Guild Challenger Reward,Copper Guild Challenger Reward
-Copper Harvesting Sickle,Copper Harvesting Sickle
-Copper Hook,Copper Hook
-Copper Ingot,Copper Ingot
-Copper Logging Axe,Copper Logging Axe
-Copper Mace,Copper Mace
-Copper Mining Pick,Copper Mining Pick
-Copper Nib,Copper Nib
-Copper Ore,Copper Ore
-Copper Penny Dye,Copper Penny Dye
-Copper Pot Dye,Copper Pot Dye
-Copper Reinforcing Plate,Copper Reinforcing Plate
-Copper Setting,Copper Setting
-Copper Tournament Reward Chest,Copper Tournament Reward Chest
-Copper-Fed Salvage-o-Matic,Copper-Fed Salvage-o-Matic
-Coral Choker,Coral Choker
-Coral Chunk,Coral Chunk
-Coral Dye,Coral Dye
-Coral Loop,Coral Loop
-Coral Mithril Amulet,Coral Mithril Amulet
-Coral Mithril Earring,Coral Mithril Earring
-Coral Mithril Ring,Coral Mithril Ring
-Coral Orb,Coral Orb
-Coral Orichalcum Amulet,Coral Orichalcum Amulet
-Coral Orichalcum Earring,Coral Orichalcum Earring
-Coral Orichalcum Ring,Coral Orichalcum Ring
-Coral Pendant,Coral Pendant
-Coral Platinum Amulet,Coral Platinum Amulet
-Coral Platinum Earring,Coral Platinum Earring
-Coral Platinum Ring,Coral Platinum Ring
-Coral Tentacle,Coral Tentacle
-Coralheart Pillar,Coralheart Pillar
-Coralheart Stake,Coralheart Stake
-Cord of Stolen Wood,Cord of Stolen Wood
-Cord of Tamarisk,Cord of Tamarisk
-Core Ice Dye,Core Ice Dye
-Core of Flame,Core of Flame
-Core Relic Chest,Core Relic Chest
-Coriander Seed,Coriander Seed
-Coriander Seed Pouch,Coriander Seed Pouch
-Cornsilk Dye,Cornsilk Dye
-Corpse Flower,Corpse Flower
-Corroding Abyss,Corroding Abyss
-Corrosive Bond,Corrosive Bond
-Corrosive Paste,Corrosive Paste
-Corrosive Touch,Corrosive Touch
-Corrupted Core,Corrupted Core
-Corrupted Eagle Shrine Token,Corrupted Eagle Shrine Token
-Corrupted Facet Elegy Mosaic,Corrupted Facet Elegy Mosaic
-Corrupted Fragment,Corrupted Fragment
-Corrupted Griffon Talon,Corrupted Griffon Talon
-Corrupted Hero Axe,Corrupted Hero Axe
-Corrupted Hero Dagger,Corrupted Hero Dagger
-Corrupted Hero Focus,Corrupted Hero Focus
-Corrupted Hero Greatsword,Corrupted Hero Greatsword
-Corrupted Hero Hammer,Corrupted Hero Hammer
-Corrupted Hero Longbow,Corrupted Hero Longbow
-Corrupted Hero Mace,Corrupted Hero Mace
-Corrupted Hero Pistol,Corrupted Hero Pistol
-Corrupted Hero Rifle,Corrupted Hero Rifle
-Corrupted Hero Scepter,Corrupted Hero Scepter
-Corrupted Hero Shield,Corrupted Hero Shield
-Corrupted Hero Short Bow,Corrupted Hero Short Bow
-Corrupted Hero Spear,Corrupted Hero Spear
-Corrupted Hero Staff,Corrupted Hero Staff
-Corrupted Hero Sword,Corrupted Hero Sword
-Corrupted Hero Torch,Corrupted Hero Torch
-Corrupted Hero Warhorn,Corrupted Hero Warhorn
-Corrupted Hero Weapon Locker,Corrupted Hero Weapon Locker
-Corrupted Ice Shard,Corrupted Ice Shard
-Corrupted Intel Document,Corrupted Intel Document
-Corrupted Jar,Corrupted Jar
-Corrupted Light,Corrupted Light
-Corrupted Lodestone,Corrupted Lodestone
-Corrupted Mirror,Corrupted Mirror
-Corrupted Ox Shrine Token,Corrupted Ox Shrine Token
-Corrupted Sliver,Corrupted Sliver
-Corrupted Wolfmaster Whistle,Corrupted Wolfmaster Whistle
-Corrupted Wolverine Shrine Token,Corrupted Wolverine Shrine Token
-Corsair Boot Box,Corsair Boot Box
-Corsair Jerkin Box,Corsair Jerkin Box
-Corsair Leggings,Corsair Leggings
-Corsair Maintenance Oil,Corsair Maintenance Oil
-Corsair Sailcloth,Corsair Sailcloth
-Corsair Sharpening Stone,Corsair Sharpening Stone
-Corsair Supplies,Corsair Supplies
-Corsair Tuning Crystal,Corsair Tuning Crystal
-Corsair Turban Box,Corsair Turban Box
-Corsair's Ring,Corsair's Ring
-Corsair's Ring (Infused),Corsair's Ring (Infused)
-Cosmetics Palette,Cosmetics Palette
-Cosmic Harvesting Tool,Cosmic Harvesting Tool
-Cosmic Logging Tool,Cosmic Logging Tool
-Cosmic Mechanism,Cosmic Mechanism
-Cosmic Mining Tool,Cosmic Mining Tool
-Cosmic Power,Cosmic Power
-Costume Contest Invitation,Costume Contest Invitation
-Costumed Mini 3-Pack,Costumed Mini 3-Pack
-"Cothol, Fieldburner of Severance","Cothol, Fieldburner of Severance"
-Cotton Candy Dye,Cotton Candy Dye
-Cotton Coat Lining,Cotton Coat Lining
-Cotton Coat Panel,Cotton Coat Panel
-Cotton Epaulet Padding,Cotton Epaulet Padding
-Cotton Epaulet Panel,Cotton Epaulet Panel
-Cotton Gloves Padding,Cotton Gloves Padding
-Cotton Gloves Panel,Cotton Gloves Panel
-Cotton Helm Padding,Cotton Helm Padding
-Cotton Helm Strap,Cotton Helm Strap
-Cotton Pants Lining,Cotton Pants Lining
-Cotton Pants Panel,Cotton Pants Panel
-Cotton Patch,Cotton Patch
-Cotton Scrap,Cotton Scrap
-Cotton Shoe Sole,Cotton Shoe Sole
-Cotton Shoe Upper,Cotton Shoe Upper
+Cool Stone,Холодный камень
+Copper Band,Медное кольцо
+Copper Chain,Медная цепь
+Copper Cowbell,Медный коровий колокольчик
+Copper Doubloon,Медный дублон
+Copper Dye,Краска «Медь»
+Copper Filigree,Медная филигрань
+Copper Free Tournament Reward Chest,Медный сундук награды свободного турнира
+Copper Guild Challenger Reward,Медная награда претендента гильдии
+Copper Harvesting Sickle,Медный серп
+Copper Hook,Медный крюк
+Copper Ingot,Медный слиток
+Copper Logging Axe,Медный топор лесоруба
+Copper Mace,Медная булава
+Copper Mining Pick,Медная кирка
+Copper Nib,Медное перо
+Copper Ore,Медная руда
+Copper Penny Dye,Краска «Медный пенни»
+Copper Pot Dye,Краска «Медный горшок»
+Copper Reinforcing Plate,Медная укрепляющая пластина
+Copper Setting,Медная оправа
+Copper Tournament Reward Chest,Медный сундук награды турнира
+Copper-Fed Salvage-o-Matic,Медный автоматический утилизатор
+Coral Choker,Коралловое колье
+Coral Chunk,Кусок коралла
+Coral Dye,Краска «Коралл»
+Coral Loop,Коралловая петля
+Coral Mithril Amulet,Коралловый мифриловый амулет
+Coral Mithril Earring,Коралловая мифриловая серьга
+Coral Mithril Ring,Коралловое мифриловое кольцо
+Coral Orb,Коралловая сфера
+Coral Orichalcum Amulet,Коралловый орихалковый амулет
+Coral Orichalcum Earring,Коралловая орихалковая серьга
+Coral Orichalcum Ring,Коралловое орихалковое кольцо
+Coral Pendant,Коралловый кулон
+Coral Platinum Amulet,Коралловый платиновый амулет
+Coral Platinum Earring,Коралловая платиновая серьга
+Coral Platinum Ring,Коралловое платиновое кольцо
+Coral Tentacle,Коралловое щупальце
+Coralheart Pillar,Коралловый столп
+Coralheart Stake,Коралловый кол
+Cord of Stolen Wood,Вязанка краденой древесины
+Cord of Tamarisk,Вязанка тамариска
+Core Ice Dye,Краска «Ледяное ядро»
+Core of Flame,Ядро пламени
+Core Relic Chest,Сундук базовой реликвии
+Coriander Seed,Семя кориандра
+Coriander Seed Pouch,Мешочек семян кориандра
+Cornsilk Dye,Краска «Кукурузный шёлк»
+Corpse Flower,Трупный цветок
+Corroding Abyss,Разъедающая бездна
+Corrosive Bond,Коррозионная связь
+Corrosive Paste,Едкая паста
+Corrosive Touch,Коррозийное прикосновение
+Corrupted Core,Осквернённое ядро
+Corrupted Eagle Shrine Token,Жетон осквернённого святилища орла
+Corrupted Facet Elegy Mosaic,Мозаика элегии «Осквернённая грань»
+Corrupted Fragment,Осквернённый фрагмент
+Corrupted Griffon Talon,Осквернённый коготь грифона
+Corrupted Hero Axe,Осквернённый геройский топор
+Corrupted Hero Dagger,Осквернённый геройский кинжал
+Corrupted Hero Focus,Осквернённый геройский фокус
+Corrupted Hero Greatsword,Осквернённый геройский двуручный меч
+Corrupted Hero Hammer,Осквернённый геройский молот
+Corrupted Hero Longbow,Осквернённый геройский длинный лук
+Corrupted Hero Mace,Осквернённая геройская булава
+Corrupted Hero Pistol,Осквернённый геройский пистолет
+Corrupted Hero Rifle,Осквернённая геройская винтовка
+Corrupted Hero Scepter,Осквернённый геройский скипетр
+Corrupted Hero Shield,Осквернённый геройский щит
+Corrupted Hero Short Bow,Осквернённый геройский короткий лук
+Corrupted Hero Spear,Осквернённое геройское копьё
+Corrupted Hero Staff,Осквернённый геройский посох
+Corrupted Hero Sword,Осквернённый геройский меч
+Corrupted Hero Torch,Осквернённый геройский факел
+Corrupted Hero Warhorn,Осквернённый геройский боевой рог
+Corrupted Hero Weapon Locker,Шкафчик с осквернённым геройским оружием
+Corrupted Ice Shard,Осквернённый ледяной осколок
+Corrupted Intel Document,Повреждённый документ разведки
+Corrupted Jar,Осквернённая банка
+Corrupted Light,Осквернённый свет
+Corrupted Lodestone,Осквернённый магнетит
+Corrupted Mirror,Осквернённое зеркало
+Corrupted Ox Shrine Token,Жетон осквернённого святилища быка
+Corrupted Sliver,Осквернённый осколок
+Corrupted Wolfmaster Whistle,Осквернённый свисток вожака волков
+Corrupted Wolverine Shrine Token,Жетон осквернённого святилища росомахи
+Corsair Boot Box,Коробка с корсарскими сапогами
+Corsair Jerkin Box,Коробка с корсарским колетом
+Corsair Leggings,Корсарские поножи
+Corsair Maintenance Oil,Корсарское масло для ухода
+Corsair Sailcloth,Корсарская парусина
+Corsair Sharpening Stone,Корсарский точильный камень
+Corsair Supplies,Корсарские припасы
+Corsair Tuning Crystal,Корсарский настроечный кристалл
+Corsair Turban Box,Коробка с корсарским тюрбаном
+Corsair's Ring,Кольцо корсара
+Corsair's Ring (Infused),Кольцо корсара (насыщенное)
+Cosmetics Palette,Палитра косметики
+Cosmic Harvesting Tool,Космический инструмент сбора
+Cosmic Logging Tool,Космический инструмент рубки
+Cosmic Mechanism,Космический механизм
+Cosmic Mining Tool,Космический инструмент добычи
+Cosmic Power,Космическая сила
+Costume Contest Invitation,Приглашение на конкурс костюмов
+Costumed Mini 3-Pack,Набор из 3 миниатюр в костюмах
+"Cothol, Fieldburner of Severance","Котол, Сжигатель полей Разлуки"
+Cotton Candy Dye,Краска «Сахарная вата»
+Cotton Coat Lining,Хлопковая подкладка куртки
+Cotton Coat Panel,Хлопковая панель куртки
+Cotton Epaulet Padding,Хлопковая набивка эполет
+Cotton Epaulet Panel,Хлопковая панель эполет
+Cotton Gloves Padding,Хлопковая набивка перчаток
+Cotton Gloves Panel,Хлопковая панель перчаток
+Cotton Helm Padding,Хлопковая набивка шлема
+Cotton Helm Strap,Хлопковый ремешок шлема
+Cotton Pants Lining,Хлопковая подкладка штанов
+Cotton Pants Panel,Хлопковая панель штанов
+Cotton Patch,Хлопковая заплатка
+Cotton Scrap,Хлопковый лоскут
+Cotton Shoe Sole,Хлопковая подошва обуви
+Cotton Shoe Upper,Хлопковый верх обуви
 Could be stolen Black Lion goods. But maybe not...,"Возможно, это украденные товары Black Lion. Но, может быть, и нет..."
-Council Guard Breastplate,Council Guard Breastplate
-Council Guard Gauntlets,Council Guard Gauntlets
-Council Guard Greaves,Council Guard Greaves
-Council Guard Helm,Council Guard Helm
-Council Guard Legguards,Council Guard Legguards
-Council Guard Pauldrons,Council Guard Pauldrons
-Council Ministry Circlet,Council Ministry Circlet
-Council Ministry Gloves,Council Ministry Gloves
-Council Ministry Hose,Council Ministry Hose
-Council Ministry Mantle,Council Ministry Mantle
-Council Ministry Shoes,Council Ministry Shoes
-Council Ministry Vestments,Council Ministry Vestments
-Council Watch Boots,Council Watch Boots
-Council Watch Chestguard,Council Watch Chestguard
-Council Watch Faceguard,Council Watch Faceguard
-Council Watch Gloves,Council Watch Gloves
-Council Watch Leggings,Council Watch Leggings
-Council Watch Shoulderguards,Council Watch Shoulderguards
-Counterfeit Queen's Gauntlet Entrance Ticket,Counterfeit Queen's Gauntlet Entrance Ticket
-Counterweighting Mechanism,Counterweighting Mechanism
-Countess's Testimony,Countess's Testimony
-Country Blue Dye,Country Blue Dye
-Country Boots,Country Boots
-Country Coat,Country Coat
-Country Gloves,Country Gloves
-Country Lace Clothing Outfit,Country Lace Clothing Outfit
-Country Lace Gathered Shirt,Country Lace Gathered Shirt
-Country Mantle,Country Mantle
-Country Mask,Country Mask
-Country Pants,Country Pants
-Country Teal Dye,Country Teal Dye
-Courage in the Face of Death,Courage in the Face of Death
-Courage in the Face of Lost Will,Courage in the Face of Lost Will
-Courage in the Face of Oblivion,Courage in the Face of Oblivion
-Courage in the Face of One's Self,Courage in the Face of One's Self
-Courage in the Face of Shattered Faith,Courage in the Face of Shattered Faith
-Courtier's Testimony,Courtier's Testimony
-Courtly Weapon Chest,Courtly Weapon Chest
-Covert Charr Backpack Cover,Covert Charr Backpack Cover
-Covert Charr Backpack Set,Covert Charr Backpack Set
-Covington's Sea Song,Covington's Sea Song
-Cow Bell,Cow Bell
-Cow Pie,Cow Pie
-Cow Treat,Cow Treat
-Cowrie League Caravan's Scales,Cowrie League Caravan's Scales
-Cowrie League Cloth Crate,Cowrie League Cloth Crate
-Cowrie League Leather Crate,Cowrie League Leather Crate
-Cowrie League Metal Crate,Cowrie League Metal Crate
-Cowrie League Trophy Crate,Cowrie League Trophy Crate
-Cowrie League Wood Crate,Cowrie League Wood Crate
-Crab Bedazzler,Crab Bedazzler
-Crab Cake,Crab Cake
-Crab Food,Crab Food
-Crab Legs,Crab Legs
-Crack o' Red Dawn,Crack o' Red Dawn
-"Cracked ""Bash the Dragon"" Holo-Recording","Cracked ""Bash the Dragon"" Holo-Recording"
-Cracked Choir Bell,Cracked Choir Bell
-Cracked Club,Cracked Club
-Cracked Fang Necklace,Cracked Fang Necklace
-Cracked Fractal Encryption,Cracked Fractal Encryption
-Cracked Golem Eye,Cracked Golem Eye
-Cracked Harpoon,Cracked Harpoon
-Cracked Longbow,Cracked Longbow
-Cracked Vabbian Griffon Egg,Cracked Vabbian Griffon Egg
-Crackling Lodestone,Crackling Lodestone
-Craft a level 1-5 food item.,Craft a level 1-5 food item.
+Council Guard Breastplate,Нагрудник стражи Совета
+Council Guard Gauntlets,Латные перчатки стражи Совета
+Council Guard Greaves,Наголенники стражи Совета
+Council Guard Helm,Шлем стражи Совета
+Council Guard Legguards,Набедренники стражи Совета
+Council Guard Pauldrons,Наплечники стражи Совета
+Council Ministry Circlet,Венец министерства Совета
+Council Ministry Gloves,Перчатки министерства Совета
+Council Ministry Hose,Чулки министерства Совета
+Council Ministry Mantle,Накидка министерства Совета
+Council Ministry Shoes,Туфли министерства Совета
+Council Ministry Vestments,Одеяния министерства Совета
+Council Watch Boots,Сапоги дозора Совета
+Council Watch Chestguard,Нагрудник дозора Совета
+Council Watch Faceguard,Личина дозора Совета
+Council Watch Gloves,Перчатки дозора Совета
+Council Watch Leggings,Поножи дозора Совета
+Council Watch Shoulderguards,Наплечники дозора Совета
+Counterfeit Queen's Gauntlet Entrance Ticket,Поддельный входной билет на Рыцарский турнир королевы
+Counterweighting Mechanism,Механизм противовеса
+Countess's Testimony,Свидетельство графини
+Country Blue Dye,Краска «Деревенская синева»
+Country Boots,Деревенские сапоги
+Country Coat,Деревенская куртка
+Country Gloves,Деревенские перчатки
+Country Lace Clothing Outfit,Наряд «Деревенское кружево»
+Country Lace Gathered Shirt,Присборенная рубашка «Деревенское кружево»
+Country Mantle,Деревенская накидка
+Country Mask,Деревенская маска
+Country Pants,Деревенские штаны
+Country Teal Dye,Краска «Деревенская бирюза»
+Courage in the Face of Death,Мужество перед лицом смерти
+Courage in the Face of Lost Will,Мужество перед лицом утраченной воли
+Courage in the Face of Oblivion,Мужество перед лицом забвения
+Courage in the Face of One's Self,Мужество перед лицом самого себя
+Courage in the Face of Shattered Faith,Мужество перед лицом разрушенной веры
+Courtier's Testimony,Свидетельство придворного
+Courtly Weapon Chest,Придворный сундук с оружием
+Covert Charr Backpack Cover,Чехол рюкзака «Скрытный чарр»
+Covert Charr Backpack Set,Набор рюкзака «Скрытный чарр»
+Covington's Sea Song,Морская песнь Ковингтона
+Cow Bell,Коровий колокольчик
+Cow Pie,Коровий пирог
+Cow Treat,Угощение для коровы
+Cowrie League Caravan's Scales,Весы каравана Лиги каури
+Cowrie League Cloth Crate,Тканевый ящик Лиги каури
+Cowrie League Leather Crate,Кожаный ящик Лиги каури
+Cowrie League Metal Crate,Металлический ящик Лиги каури
+Cowrie League Trophy Crate,Трофейный ящик Лиги каури
+Cowrie League Wood Crate,Деревянный ящик Лиги каури
+Crab Bedazzler,Краб-ослепитель
+Crab Cake,Крабовый пирог
+Crab Food,Корм для крабов
+Crab Legs,Крабовые ножки
+Crack o' Red Dawn,Проблеск алой зари
+"Cracked ""Bash the Dragon"" Holo-Recording",Треснувшая голозапись «Ударь дракона»
+Cracked Choir Bell,Треснувший хоровой колокольчик
+Cracked Club,Треснутая дубинка
+Cracked Fang Necklace,Ожерелье из треснутого клыка
+Cracked Fractal Encryption,Треснувшее фрактальное шифрование
+Cracked Golem Eye,Треснувший глаз голема
+Cracked Harpoon,Треснутый гарпун
+Cracked Longbow,Треснутый длинный лук
+Cracked Vabbian Griffon Egg,Треснутое яйцо ваббианского грифона
+Crackling Lodestone,Трескучий магнетит
+Craft a level 1-5 food item.,Создать предмет еды 1–5 уровня.
 "Craft six Astral or Stellar weapons.
 <c=@Reminder>Scholar Yasna seeks knowledge and mastery.</c>","Создайте шесть единиц астрального или звёздного оружия.
 <c=@Reminder>Учёная Ясна ищет знания и мастерство.</c>"
@@ -586,18 +585,18 @@ Crafted from resonating fragments by scribes.,Создано из резонир
 Crafted from resonating slivers by scribes.,Создано из резонирующих осколков писцами.
 Crafted from shimmering or tenebrous shards. Used to craft guild armor.,Создано из мерцающих или теневых осколков. Используется для создания гильдейской брони.
 Crafted from wood pulp and cloth. Used to make scrolls and books.,Создано из древесной массы и ткани. Используется для создания свитков и книг.
-Crafter's Backpack Frame,Crafter's Backpack Frame
-Crafter's Supply Bag,Crafter's Supply Bag
-Crafting Booster,Crafting Booster
-Crafting Material Coffer,Crafting Material Coffer
-Crate of Alliance Supplies,Crate of Alliance Supplies
-Crate of Commendations,Crate of Commendations
-Crate of Monastery Goods,Crate of Monastery Goods
-Crate of the First Spear,Crate of the First Spear
-Crate of Training Supplies,Crate of Training Supplies
-Cream Dye,Cream Dye
-Cream Shade Dye,Cream Shade Dye
-Creamsicle Dye,Creamsicle Dye
+Crafter's Backpack Frame,Рама рюкзака ремесленника
+Crafter's Supply Bag,Сумка ремесленника
+Crafting Booster,Усилитель ремесла
+Crafting Material Coffer,Сундук с материалами для крафта
+Crate of Alliance Supplies,Ящик союзных припасов
+Crate of Commendations,Ящик похвальных грамот
+Crate of Monastery Goods,Ящик монастырских товаров
+Crate of the First Spear,Ящик Первого Копья
+Crate of Training Supplies,Ящик с учебными принадлежностями
+Cream Dye,Краска «Крем»
+Cream Shade Dye,Краска «Сливочный оттенок»
+Creamsicle Dye,Краска «Сливочное эскимо»
 Create a Death Nova at a foe's location upon their defeat that inflicts poison and bleeding.,"Создаёт Нову смерти на месте гибели врага, накладывающую отравление и кровотечение."
 Create a Death Nova at a foe's location upon their defeat that inflicts poison and bleeding. <c=@reminder>(Cooldown: 10 Seconds)</c>,"Создаёт Нову смерти на месте гибели врага, накладывающую отравление и кровотечение. <c=@reminder>(Перезарядка: 10 секунд)</c>"
 Create a laser disk after you use an elite skill.,Создаёт лазерный диск после использования элитного умения.
@@ -693,53 +692,53 @@ Creates a motivation that allows tracking tier 2 rifts and draws more essence on
 Creates a motivation that allows tracking tier 3 rifts and draws more essence on their closure.,"Создаёт мотивацию, позволяющую отслеживать разломы 3-го уровня и извлекать больше эссенции при их закрытии."
 Creates a motivation that draws more essence from tier 1 rifts on their closure.,"Создаёт мотивацию, извлекающую больше эссенции из разломов 1-го уровня при их закрытии."
 "Creates a spirit banner that grants +10%% karma gains, +10%% magic find, and +10%% gold from kills to any ally that touches it for 30 minutes.","Создаёт знамя духа, которое даёт +10%% к получению кармы, +10%% к поиску магии и +10%% золота за убийства любому союзнику, коснувшемуся его, на 30 минут."
-Creeping Stone Fungus,Creeping Stone Fungus
-Creepy Jack-o'-Lantern,Creepy Jack-o'-Lantern
-Creepy Mini 3-Pack,Creepy Mini 3-Pack
-Crescent Canoe Skiff Skin,Crescent Canoe Skiff Skin
-Crescent Moon Scepter Skin,Crescent Moon Scepter Skin
-Crescent Steel,Crescent Steel
-Crest of Nageling,Crest of Nageling
-Crest of the Assassin,Crest of the Assassin
-Crest of the Magi,Crest of the Magi
-Crest of the Rabid,Crest of the Rabid
-Crest of the Shaman,Crest of the Shaman
-Crest of the Soldier,Crest of the Soldier
-Crested Dragon Siege Turtle Skin,Crested Dragon Siege Turtle Skin
-Crimson Agony Lens (Left),Crimson Agony Lens (Left)
-Crimson Agony Lens (Right),Crimson Agony Lens (Right)
-Crimson Assassin Axe Skin,Crimson Assassin Axe Skin
-Crimson Assassin Backpack Cover,Crimson Assassin Backpack Cover
-Crimson Assassin Dagger Skin,Crimson Assassin Dagger Skin
-Crimson Assassin Focus Skin,Crimson Assassin Focus Skin
-Crimson Assassin Greatsword Skin,Crimson Assassin Greatsword Skin
-Crimson Assassin Hammer Skin,Crimson Assassin Hammer Skin
-Crimson Assassin Longbow Skin,Crimson Assassin Longbow Skin
-Crimson Assassin Mace Skin,Crimson Assassin Mace Skin
-Crimson Assassin Pistol Skin,Crimson Assassin Pistol Skin
-Crimson Assassin Rifle Skin,Crimson Assassin Rifle Skin
-Crimson Assassin Scepter Skin,Crimson Assassin Scepter Skin
-Crimson Assassin Shield Skin,Crimson Assassin Shield Skin
-Crimson Assassin Short Bow Skin,Crimson Assassin Short Bow Skin
-Crimson Assassin Staff Skin,Crimson Assassin Staff Skin
-Crimson Assassin Sword Skin,Crimson Assassin Sword Skin
-Crimson Assassin Token,Crimson Assassin Token
-Crimson Assassin Torch Skin,Crimson Assassin Torch Skin
-Crimson Assassin Warhorn Skin,Crimson Assassin Warhorn Skin
-Crimson Condensed Ley-Line Essence,Crimson Condensed Ley-Line Essence
-Crimson Lion Axe Skin,Crimson Lion Axe Skin
-Crimson Lion Dagger Skin,Crimson Lion Dagger Skin
-Crimson Lion Dye,Crimson Lion Dye
-Crimson Lion Dye Kit,Crimson Lion Dye Kit
-Crimson Lion Focus Skin,Crimson Lion Focus Skin
-Crimson Lion Greatsword Skin,Crimson Lion Greatsword Skin
-Crimson Lion Hammer Skin,Crimson Lion Hammer Skin
-Crimson Lion Longbow Skin,Crimson Lion Longbow Skin
-Crimson Lion Mace Skin,Crimson Lion Mace Skin
-Crimson Lion Pistol Skin,Crimson Lion Pistol Skin
-Crimson Lion Rifle Skin,Crimson Lion Rifle Skin
-Crimson Lion Scepter Skin,Crimson Lion Scepter Skin
-Crimson Lion Shield Skin,Crimson Lion Shield Skin
-Crimson Lion Short Bow Skin,Crimson Lion Short Bow Skin
-Crimson Lion Staff Skin,Crimson Lion Staff Skin
-Crimson Lion Sword Skin,Crimson Lion Sword Skin
+Creeping Stone Fungus,Ползучий каменный гриб
+Creepy Jack-o'-Lantern,Жуткий светильник-тыква
+Creepy Mini 3-Pack,Жуткий набор из 3 миниатюр
+Crescent Canoe Skiff Skin,Облик скифа «Каноэ-полумесяц»
+Crescent Moon Scepter Skin,Облик скипетра «Полумесяц»
+Crescent Steel,Стальной полумесяц
+Crest of Nageling,Гребень Нагелинга
+Crest of the Assassin,Гребень убийцы
+Crest of the Magi,Гребень магов
+Crest of the Rabid,Гребень бешеного
+Crest of the Shaman,Гребень шамана
+Crest of the Soldier,Гребень солдата
+Crested Dragon Siege Turtle Skin,Облик осадной черепахи «Гребенчатый дракон»
+Crimson Agony Lens (Left),Алый окуляр агонии (левый)
+Crimson Agony Lens (Right),Алый окуляр агонии (правый)
+Crimson Assassin Axe Skin,Облик топора «Алый убийца»
+Crimson Assassin Backpack Cover,Чехол рюкзака «Алый убийца»
+Crimson Assassin Dagger Skin,Облик кинжала «Алый убийца»
+Crimson Assassin Focus Skin,Облик фокуса «Алый убийца»
+Crimson Assassin Greatsword Skin,Облик двуручного меча «Алый убийца»
+Crimson Assassin Hammer Skin,Облик молота «Алый убийца»
+Crimson Assassin Longbow Skin,Облик длинного лука «Алый убийца»
+Crimson Assassin Mace Skin,Облик булавы «Алый убийца»
+Crimson Assassin Pistol Skin,Облик пистолета «Алый убийца»
+Crimson Assassin Rifle Skin,Облик винтовки «Алый убийца»
+Crimson Assassin Scepter Skin,Облик скипетра «Алый убийца»
+Crimson Assassin Shield Skin,Облик щита «Алый убийца»
+Crimson Assassin Short Bow Skin,Облик короткого лука «Алый убийца»
+Crimson Assassin Staff Skin,Облик посоха «Алый убийца»
+Crimson Assassin Sword Skin,Облик меча «Алый убийца»
+Crimson Assassin Token,Алая метка убийцы
+Crimson Assassin Torch Skin,Облик факела «Алый убийца»
+Crimson Assassin Warhorn Skin,Облик боевого рога «Алый убийца»
+Crimson Condensed Ley-Line Essence,Алая сгущённая эссенция лей-линии
+Crimson Lion Axe Skin,Облик топора «Алый лев»
+Crimson Lion Dagger Skin,Облик кинжала «Алый лев»
+Crimson Lion Dye,Краска «Алый лев»
+Crimson Lion Dye Kit,Набор красок «Алый лев»
+Crimson Lion Focus Skin,Облик фокуса «Алый лев»
+Crimson Lion Greatsword Skin,Облик двуручного меча «Алый лев»
+Crimson Lion Hammer Skin,Облик молота «Алый лев»
+Crimson Lion Longbow Skin,Облик длинного лука «Алый лев»
+Crimson Lion Mace Skin,Облик булавы «Алый лев»
+Crimson Lion Pistol Skin,Облик пистолета «Алый лев»
+Crimson Lion Rifle Skin,Облик винтовки «Алый лев»
+Crimson Lion Scepter Skin,Облик скипетра «Алый лев»
+Crimson Lion Shield Skin,Облик щита «Алый лев»
+Crimson Lion Short Bow Skin,Облик короткого лука «Алый лев»
+Crimson Lion Staff Skin,Облик посоха «Алый лев»
+Crimson Lion Sword Skin,Облик меча «Алый лев»

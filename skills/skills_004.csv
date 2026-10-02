@@ -3,13 +3,13 @@ Bleed multiple foes in a line with a piercing shot.,"Вызвать кровот
 Bleed your foe with a shot to the vitals.,"Вызвать у противника кровотечение, выстрелив в жизненно важные органы."
 Bleed your foe with sharp stone.,Вызвать кровотечение у противника острым осколком камня.
 Bleed yourself. Immobilize your foe and remove their boons. Gain life force for each boon removed.,Вызвать у себя кровотечение. Обездвижить противника и снять с него дары. Получить жизненную силу за каждый снятый дар.
-Bleeding,Bleeding
-Bleeding Bite,Bleeding Bite
-Bleeding Edge,Bleeding Edge
-Blessing of Dwayna,Blessing of Dwayna
-Blessing of Kormir,Blessing of Kormir
-Blessing of Lyssa,Blessing of Lyssa
-Blight,Blight
+Bleeding,Кровотечение
+Bleeding Bite,Кровоточащий укус
+Bleeding Edge,Острое лезвие
+Blessing of Dwayna,Благословение Двайны
+Blessing of Kormir,Благословение Кормир
+Blessing of Lyssa,Благословение Лиссы
+Blight,Скверна
 Blind Radius,Радиус ослепления
 Blind all nearby foes.,Ослепить всех противников поблизости.
 Blind and confuse nearby foes while you gain chaos aura. <c=@reminder>Chaos aura grants you a random boon and inflicts your foe with a random condition whenever you are struck.</c>,"Ослепляет и сбивает с толку ближайших врагов, пока вы получаете ауру хаоса. <c=@reminder>Аура хаоса дарует случайное благословение и накладывает случайное состояние при получении урона.</c>"
@@ -17,22 +17,22 @@ Blind foes near your target with a dark cloud.,Ослепить противни
 Blind nearby foes.,Ослепляет ближайших врагов.
 Blind your foe with superheated water.,Ослепить противника перегретой водой.
 Blind your foes with a flash of light. Vulnerable foes are also weakened.,"Ослепить противников вспышкой света. Кроме того, противники с уязвимостью будут ослаблены."
-Blinded,Blinded
+Blinded,Ослепление
 "Blinded by rage, Samarog pins and repeatedly damages a target until the target dies or Samarog is prevented from continuing.","Ослепленный яростью, Samarog пригвождает и неоднократно наносит урон цели, пока та не умрет или пока Samarog не будет остановлен."
-Blinding Flash,Blinding Flash
-Blinding Powder,Blinding Powder
-Blinding Radiance,Blinding Radiance
-Blinding Retreat,Blinding Retreat
-Blinding Roar,Blinding Roar
-Blinding Slash,Blinding Slash
-Blinding Tide,Blinding Tide
-Blinding Tuft,Blinding Tuft
+Blinding Flash,Ослепляющая вспышка
+Blinding Powder,Ослепляющий порошок
+Blinding Radiance,Ослепляющее сияние
+Blinding Retreat,Ослепляющее отступление
+Blinding Roar,Ослепляющий рык
+Blinding Slash,Ослепляющий удар
+Blinding Tide,Ослепляющий прилив
+Blinding Tuft,Ослепляющий пучок
 "Blinds and burns all players, damaging allies around them.","Ослепляет и сжигает всех игроков, нанося урон союзникам вокруг них."
 Blinds and knocks foes back.,Ослепляет и отбрасывает врагов.
-Blink,Blink
-Blitz Mines,Blitz Mines
-Blizzard,Blizzard
-Blob of Blight,Blob of Blight
+Blink,Скачок
+Blitz Mines,Мины-блиц
+Blizzard,Метель
+Blob of Blight,Сгусток мора
 Block Duration,Длительность блока
 Block an attack and retaliate,Блокируйте атаку и нанесите ответный удар
 Block attacks while healing.,"Блокировать атаки, пока вы исцеляетесь."
@@ -43,7 +43,7 @@ Block attacks. Gain protection when the last stack is removed.,"Блокируй
 Block attacks. Grants aegis to nearby allies on activation.,Блокируйте атаки. Даёт эгиду ближайшим союзникам при активации.
 "Block incoming attacks for a prolonged duration, and ready a counterattack that deals increased damage based on the attacks blocked.","Блокируйте входящие атаки в течение длительного времени и подготовьте контратаку, которая наносит повышенный урон в зависимости от заблокированных атак."
 Block incoming attacks.,Блокируйте входящие атаки.
-"Block incoming attacks. If an attack is blocked, Counterattack Kick can be used.","Блокируйте входящие атаки. Если атака заблокирована, можно использовать Контрудар ногой."
+"Block incoming attacks. If an attack is blocked, Counterattack Kick can be used.","Блокируйте входящие атаки. Если атака заблокирована, можно использовать Counterattack Kick."
 Block ranged attacks while casting magical projectiles.,"Блокировать дистанционные атаки, сотворяя при этом магические снаряды."
 Block the next attack and cause bleeding to foes around you. Gain Tectonic Shift if you successfully block an attack.,Блокировать следующую атаку и вызвать кровотечение у противников вокруг вас. Получить Tectonic Shift при успешном блоке.
 Block the next attack. Riposte and bleed your foe if you block a melee attack. Gain adrenaline if you are not attacked.,"Блокировать следующую атаку. Сделать ответный выпад и вызвать кровотечение, если вы блокировали рукопашную атаку. Получить адреналин, если вы не были атакованы."
@@ -56,45 +56,45 @@ Blocking Duration,Длительность блока
 Blocks Missiles,Блокирует снаряды
 Blocks attacks from the front.,Блокирует атаки спереди.
 Blocks attacks. Explodes after blocking three attacks.,Блокирует атаки. Взрывается после блокирования трех атак.
-Blood Charge,Blood Charge
-Blood Curse,Blood Curse
-Blood Frenzy,Blood Frenzy
-Blood Is Power,Blood Is Power
-Blood Reckoning,Blood Reckoning
-Blood Shards,Blood Shards
-Bloodbane Path,Bloodbane Path
-Bloodstone Paradox,Bloodstone Paradox
-Bloodstone Saturation,Bloodstone Saturation
-Bloodthirsty Charge,Bloodthirsty Charge
-Bloody Bludgeon,Bloody Bludgeon
-Bloody Feed,Bloody Feed
-Bloody Leap,Bloody Leap
-Bloody Slice,Bloody Slice
-Bloody Spin,Bloody Spin
-Blossoming Aura,Blossoming Aura
+Blood Charge,Кровавый заряд
+Blood Curse,Кровавое проклятие
+Blood Frenzy,Кровавое неистовство
+Blood Is Power,Кровь — это сила
+Blood Reckoning,Кровавая расплата
+Blood Shards,Кровавые осколки
+Bloodbane Path,Путь Кровавой погибели
+Bloodstone Paradox,Парадокс Кровавого камня
+Bloodstone Saturation,Насыщение Кровавым камнем
+Bloodthirsty Charge,Кровожадный рывок
+Bloody Bludgeon,Кровавое оглушение
+Bloody Feed,Кровавое питание
+Bloody Leap,Кровавый прыжок
+Bloody Slice,Кровавый разрез
+Bloody Spin,Кровавое вращение
+Blossoming Aura,Цветущая аура
 Blowout Radius,Радиус выброса
-Blowtorch,Blowtorch
-Bludgeon,Bludgeon
-Blunderblast,Blunderblast
-Blunderbuss,Blunderbuss
-Blur,Blur
-Blurred Frenzy,Blurred Frenzy
-Bluster,Bluster
-Body Slam,Body Slam
-Body of Flame,Body of Flame
-Boil,Boil
+Blowtorch,Паяльная лампа
+Bludgeon,Оглушение
+Blunderblast,Громобой
+Blunderbuss,Мушкетон
+Blur,Размытие
+Blurred Frenzy,Размытое неистовство
+Bluster,Шквал
+Body Slam,Удар телом
+Body of Flame,Тело пламени
+Boil,Кипение
 Boil the water around your foe.,Вскипятить воду вокруг противника.
-Boiling Aether,Boiling Aether
-Bola Shot,Bola Shot
-Bolt Break,Bolt Break
-Bolt of Wrath,Bolt of Wrath
-Bomb Drop,Bomb Drop
-Bomb Kit,Bomb Kit
-Bombardment,Bombardment
+Boiling Aether,Кипящий эфир
+Bola Shot,Выстрел бола
+Bolt Break,Разрыв молнии
+Bolt of Wrath,Стрела гнева
+Bomb Drop,Сброс бомбы
+Bomb Kit,Набор бомб
+Bombardment,Бомбардировка
 Bombards random allies with boulders that can be blocked by pillars. Boulders will damage the pillars.,"Бомбардирует случайных союзников валунами, которые можно заблокировать колоннами. Валуны повреждают колонны."
-Bombards random foes with boulders that can be blocked by pillars. Boulders will damage the pillars and down players with Radiant Blindness and bleeding.,"Бомбардирует случайных врагов валунами, которые можно заблокировать колоннами. Валуны повреждают колонны и сбивают игроков с ног Лучезарной слепотой и кровотечением."
+Bombards random foes with boulders that can be blocked by pillars. Boulders will damage the pillars and down players with Radiant Blindness and bleeding.,"Бомбардирует случайных врагов валунами, которые можно заблокировать колоннами. Валуны повреждают колонны и сбивают игроков с ног Radiant Blindness и кровотечением."
 Bombards random foes with boulders that can be blocked by pillars. The boulders damage pillars.,"Бомбардирует случайных врагов валунами, которые можно заблокировать колоннами. Валуны повреждают колонны."
-Bombshell,Bombshell
+Bombshell,Бомба
 Bonus Adrenaline,Бонус адреналина
 Bonus Adrenaline on Hit,Бонус адреналина при попадании
 Bonus Boons Removed,Бонусные благословения сняты
@@ -103,108 +103,108 @@ Bonus Defiance Break,Бонусный пробой стойкости
 Bonus Defiance Damage,Бонус к урону по шкале стойкости
 Bonus Impact per Stack of Water Arrow,Бонусный удар за стак Водяной стрелы
 Bonus Initiative Gain,Бонус к получению инициативы
-Bonus Inspiration,Bonus Inspiration
+Bonus Inspiration,Бонусное вдохновение
 Bonus Lifesteal vs. Vulnerable,Бонусное похищение здоровья у уязвимых целей
 Bonus damage per vulnerability stack,Бонусный урон за стак уязвимости
-Booby Trap,Booby Trap
-Booming Command,Booming Command
+Booby Trap,Ловушка
+Booming Command,Громогласный приказ
 Boon Application Interval,Интервал наложения благословений
-Boon Crusher,Boon Crusher
+Boon Crusher,Крушитель благословений
 Boon Gain Interval,Интервал получения благословений
 Boon Increase per Target Struck,Увеличение благословений за пораженную цель
 Boon Interval,Интервал благословений
 Boon Radius,Радиус благословений
 Boon duration and outgoing healing to other allies is increased.,Длительность благословений и исходящее исцеление другим союзникам увеличены.
-Boon of Flame,Boon of Flame
+Boon of Flame,Благословение пламени
 Boons Converted,Благословения обращены
 Boons Converted to Conditions,Благословения преобразованы в состояния
 Boons Removed,Благословения сняты
 Boons Stolen,Благословения украдены
 Boons per Pulse,Благословений за импульс
-Bop,Bop
-Botch,Botch
-Boulder Barrage,Boulder Barrage
-Boulder Blast,Boulder Blast
+Bop,Удар
+Botch,Промах
+Boulder Barrage,Заградительный огонь валунов
+Boulder Blast,Взрыв валуна
 Bounce Range,Дальность отскока
 "Bounce an orb of energy between foes and allies. The first hit applies torment, while subsequent hits to enemies apply confusion. Allies that the orb bounces to gain fury and might.","Рикошетит сферой энергии между врагами и союзниками. Первое попадание накладывает боль, последующие попадания по врагам накладывают замешательство. Союзники, которых задевает сфера, получают ярость и мощь."
 "Bounce your axe between multiple foes, gaining might for each enemy struck.","Рикошетит топором между несколькими врагами, давая мощь за каждого пораженного противника."
-Bound,Bound
-Bouquet Toss,Bouquet Toss
-Bow of Truth,Bow of Truth
-Bowler Marble,Bowler Marble
-Box of Nails,Box of Nails
+Bound,Связанный
+Bouquet Toss,Бросок букета
+Bow of Truth,Лук истины
+Bowler Marble,Мраморный шар
+Box of Nails,Коробка с гвоздями
 Box of Nails Duration,Длительность коробки с гвоздями
-Box of Piranhas,Box of Piranhas
-Branch Leap,Branch Leap
-Brand Gust,Brand Gust
-Brand Squall,Brand Squall
-Branded Breath,Branded Breath
-Branded Crystals,Branded Crystals
-Branded Vortex,Branded Vortex
-Brandstone Impact,Brandstone Impact
-Brandstone Slash,Brandstone Slash
-Brandstorm Lightning,Brandstorm Lightning
-Brash Slash,Brash Slash
-Breaching Strike,Breaching Strike
+Box of Piranhas,Коробка с пираньями
+Branch Leap,Прыжок с ветки
+Brand Gust,Порыв клейма
+Brand Squall,Шквал клейма
+Branded Breath,Дыхание клейма
+Branded Crystals,Кристаллы клейма
+Branded Vortex,Вихрь клейма
+Brandstone Impact,Удар камнем клейма
+Brandstone Slash,Рассечение камнем клейма
+Brandstorm Lightning,Молния шторма клейма
+Brash Slash,Дерзкий удар
+Breaching Strike,Пробивающий удар
 Break Barrier,Разрушение барьера
-Break Enchantments,Break Enchantments
-Break Stance,Break Stance
+Break Enchantments,Разрушение чар
+Break Stance,Разрыв стойки
 Break Stun Recharge Increase,Увеличение перезарядки при снятии оглушения
 "Break out of stun, damaging and weakening enemies close to you. Gain boons if this skill strikes at least one enemy. Remove additional energy if this skill was used to break a stun.","Снимите оглушение, нанося урон и ослабляя врагов рядом с вами. Получите благословения, если этот навык поразит хотя бы одного врага. Удалите дополнительную энергию, если этот навык был использован для снятия оглушения."
 "Break stuns and dash toward your target, damaging and burning enemies around you when you reach your destination. You evade attacks as long as you are still traveling.","Снимите оглушение и совершите рывок к цели, нанося урон и накладывая горение на врагов вокруг себя по прибытии. Вы уклоняетесь от атак, пока продолжаете движение."
-Break stuns on yourself and grant stability to nearby allies.,Снять с себя оглушение и даровать Устойчивость союзникам поблизости.
+Break stuns on yourself and grant stability to nearby allies.,Снять с себя оглушение и даровать устойчивость союзникам поблизости.
 Break your attempt to attune to the element.,Прервите попытку настройки на стихию.
-Breaking Wave,Breaking Wave
-Breakrazor's Bastion,Breakrazor's Bastion
+Breaking Wave,Разрушительная волна
+Breakrazor's Bastion,Бастион Разруби-Клинка
 Breaks Enemy Targeting,Разрыв вражеского захвата цели
 Breaks Stun,Снятие оглушения
-Breath of Corruption,Breath of Corruption
-Breath of Death,Breath of Death
-Bright Slash,Bright Slash
-Bright Slash—Storm,Bright Slash—Storm
-Brilliance,Brilliance
-Brilliant Slam,Brilliant Slam
-Broadside,Broadside
-Brush Fur the Wrong Way,Brush Fur the Wrong Way
-Brutal Aim,Brutal Aim
-Brutal Aura,Brutal Aura
-Brutal Blade,Brutal Blade
-Brutal Charge,Brutal Charge
-Brutal Mauling,Brutal Mauling
-Brutal Shot,Brutal Shot
-Brutal Strike,Brutal Strike
-Brutal Swipe,Brutal Swipe
-Brutalize,Brutalize
-Buccaneer's Boot,Buccaneer's Boot
-Buff Passive Oakheart,Buff Passive Oakheart
+Breath of Corruption,Дыхание порчи
+Breath of Death,Дыхание смерти
+Bright Slash,Яркий удар
+Bright Slash—Storm,Яркий удар — Шторм
+Brilliance,Сияние
+Brilliant Slam,Блестящий удар
+Broadside,Залп
+Brush Fur the Wrong Way,Гладить против шерсти
+Brutal Aim,Жестокий прицел
+Brutal Aura,Жестокая аура
+Brutal Blade,Жестокий клинок
+Brutal Charge,Жестокий рывок
+Brutal Mauling,Жестокое увечье
+Brutal Shot,Жестокий выстрел
+Brutal Strike,Жестокий удар
+Brutal Swipe,Жестокий взмах
+Brutalize,Жестокость
+Buccaneer's Boot,Сапог пирата
+Buff Passive Oakheart,Пассивное усиление Дубосерда
 Build elemental flames into your sword and strike your enemies.,Оплести меч языками пламени и ударить противников.
-Bull's Charge,Bull's Charge
-Bullet Storm,Bullet Storm
-Bumble,Bumble
-Bunker Down,Bunker Down
-Buoyancy,Buoyancy
-Buoyant Deluge,Buoyant Deluge
-Burgeon,Burgeon
+Bull's Charge,Атака быка
+Bullet Storm,Шторм пуль
+Bumble,Шмель
+Bunker Down,Укрепление
+Buoyancy,Плавучесть
+Buoyant Deluge,Плавучий потоп
+Burgeon,Расцвет
 Burn enemies.,Наложите горение на врагов.
 Burn nearby foes.,Поджигает ближайших врагов.
 Burn your foe with a blazing bullet.,Поджечь противника пылающей пулей.
-Burning,Burning
-Burning Crucible,Burning Crucible
+Burning,Горение
+Burning Crucible,Пылающий тигель
 Burning Increase per Might,Увеличение горения за каждый заряд Мощи
-Burning Retreat,Burning Retreat
-Burning Shackles,Burning Shackles
-Burning Speed,Burning Speed
+Burning Retreat,Пылающее отступление
+Burning Shackles,Пылающие оковы
+Burning Speed,Пылающая скорость
 Burns and damages foes.,Обжигает и наносит урон врагам.
 "Burrow into the ground, then erupt with earth-shattering force.","Зарывается в землю, а затем вырывается наружу с сокрушительной силой."
-"Burst a bottle of Elixir H, granting protection, regeneration, and swiftness to allies.","Разбейте бутылку Эликсира H, даруя союзникам протекцию, регенерацию и быстроту."
-Burst of Shadows,Burst of Shadows
-Burst of Strength,Burst of Strength
+"Burst a bottle of Elixir H, granting protection, regeneration, and swiftness to allies.","Разбейте бутылку Elixir H, даруя союзникам протекцию, регенерацию и быстроту."
+Burst of Shadows,Всплеск теней
+Burst of Strength,Всплеск силы
 "Burst the bottle to grant stability and one of the following boons to allies: fury, might, resolution, or swiftness.","Разбейте бутылку, чтобы даровать союзникам устойчивость и один из следующих эффектов: ярость, мощь, решимость или быстроту."
-Burster Explosion,Burster Explosion
-Bypass Coating,Bypass Coating
-Cadaver's Confetti,Cadaver's Confetti
+Burster Explosion,Взрыв Берстера
+Bypass Coating,Обход покрытия
+Cadaver's Confetti,Конфетти трупа
 Cage Radius,Радиус клетки
-Cage of Decay,Cage of Decay
+Cage of Decay,Клетка распада
 Cairn causes agony so intense that it spreads to the target's nearby allies.,"Cairn вызывает агонию настолько сильную, что она распространяется на ближайших союзников цели."
 "Cairn follows up its right-hand swing with a left, dealing damage in an arc.","Cairn продолжает взмах правой рукой взмахом левой, нанося урон по дуге."
 "Cairn opens a rift into the skin of Tyria, displacing targets a fixed distance away.","Cairn открывает разлом в коже Tyria, перемещая цели на фиксированное расстояние."
@@ -212,12 +212,12 @@ Cairn pulses with malevolent cosmic energy.,Cairn пульсирует злоб�
 "Cairn swings its left hand back, creating an expanding fan of projectiles that drag targets back.","Cairn отводит левую руку назад, создавая расширяющийся веер снарядов, которые притягивают цели обратно."
 "Cairn swings with its right hand, dealing damage in a two-part arc.","Cairn наносит удар правой рукой, нанося урон по двухчастной дуге."
 "Cairn the Indomitable surges forward, dealing damage and knocking back all targets in its path.","Cairn the Indomitable устремляется вперёд, нанося урон и отбрасывая все цели на своем пути."
-Calcify,Calcify
-Call Assassins,Call Assassins
-Call Lightning,Call Lightning
-Call Meteor,Call Meteor
-Call Owl,Call Owl
-Call Wurm,Call Wurm
+Calcify,Окаменение
+Call Assassins,Призыв ассасинов
+Call Lightning,Призыв молнии
+Call Meteor,Призыв метеора
+Call Owl,Призыв совы
+Call Wurm,Призыв червя
 Call down a firestorm on the target area.,Обрушить огненный шторм на выбранную область.
 Call down a growing column of shadows that damages and applies conditions to foes every pulse. The initial strike blinds foes and converts their boons into conditions. Gain life force while inside the area.,"Обрушить вниз разрастающийся столб теней, который периодически наносит урон противникам и накладывает на них состояния. Начальный удар ослепляет противников и превращает лежащие на них дары в состояния. Получать жизненную силу, пока вы находитесь в этой области."
 "Call down a healing rain on the target area, granting regeneration to allies and curing conditions once every three seconds. Allies are healed for each condition removed.","Обрушьте целительный дождь на целевую область, даруя союзникам регенерацию и снимая состояния раз в три секунды. Союзники исцеляются за каждое снятое состояние."
@@ -231,36 +231,36 @@ Call down energy from the sky to blast an area.,Вызвать удар заря
 Call down lightning on a disabled foe.,Призовите молнию на оглушенного врага.
 Call hawks to swarm your foe.,"Призвать ястребов, которые набрасываются на вашего противника."
 Call in members of your warband to assist you.,Призовите членов вашего отряда на помощь.
-Call of Storms,Call of Storms
-Call of Valor,Call of Valor
-Call of the Alliance,Call of the Alliance
-Call of the Assassin,Call of the Assassin
-Call of the Centaur,Call of the Centaur
-Call of the Demon,Call of the Demon
-Call of the Dragon,Call of the Dragon
-Call of the Dwarf,Call of the Dwarf
-Call of the Renegade,Call of the Renegade
-Call to Anguish,Call to Anguish
+Call of Storms,Зов штормов
+Call of Valor,Зов доблести
+Call of the Alliance,Зов Альянса
+Call of the Assassin,Зов Ассасина
+Call of the Centaur,Зов Кентавра
+Call of the Demon,Зов Демона
+Call of the Dragon,Зов Дракона
+Call of the Dwarf,Зов Дварфа
+Call of the Renegade,Зов Ренегата
+Call to Anguish,Зов мучений
 Call upon an owl to attack and bleed your foe.,"Призовите сову, чтобы она атаковала и вызвала кровотечение у вашего врага."
 Call upon the fury of Balthazar to annihilate foes.,"Призовите ярость Balthazar, чтобы уничтожить врагов."
 Call upon the power of Dwayna to smite foes.,"Призовите силу Dwayna, чтобы поразить врагов."
 Call your allies for help. Restores health while you channel it.,"Позвать на помощь своих союзников. Восстанавливает здоровье, пока вы используете это умение."
 Calls lightning to a small area.,Призвать молнию в небольшую область.
-Caltrops,Caltrops
+Caltrops,Шипы
 Caltrops Duration,Длительность шипов
-Canach-Coin Toss,Canach-Coin Toss
+Canach-Coin Toss,Подбрасывание монеты Канаха
 Cancel Photon Forge and begin cooling after a delay. Cooling effectiveness increases over time.,Отмените Photon Forge и начните охлаждение с задержкой. Эффективность охлаждения увеличивается со временем.
-Candy Burst,Candy Burst
-Cannon Barrage,Cannon Barrage
+Candy Burst,Конфетный взрыв
+Cannon Barrage,Пушечный залп
 Cannot Critical Hit,Не может нанести критический удар
 "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.","Невозможно сбить с ног, оттолкнуть, притянуть, подбросить, оглушить, ошеломить, погрузить, запугать или спровоцировать."
-Capture Line,Capture Line
+Capture Line,Линия захвата
 "Cardinal Sabir channels electricity into his hands, launching chain lightning at his foes.","Cardinal Sabir направляет электричество в руки, выпуская цепную молнию по врагам."
 "Cardinal Sabir follows up his right-hand swing with a left swing, dealing damage in an arc.","Cardinal Sabir продолжает взмах правой рукой взмахом левой, нанося урон по дуге."
 "Cardinal Sabir swings his right-hand sword, sending out electrical projectiles in an arc.","Cardinal Sabir взмахивает мечом в правой руке, выпуская электрические снаряды по дуге."
-Carnivore,Carnivore
-Cascading Corruption,Cascading Corruption
-Cascading Earth,Cascading Earth
+Carnivore,Плотоядный
+Cascading Corruption,Каскадная порча
+Cascading Earth,Каскадная земля
 Cast a shatterstone that will explode at the target area.,"Создать обледеневший камень, который взорвется в выбранной области."
 Cast a vapor blade that inflicts vulnerability and returns to you.,"Создать лезвие из пара, которое накладывает уязвимость и возвращается к вам."
 Cast a water trident that damages foes. Deal more damage to chilled foes and heal for each target struck. <c=@reminder>Heal for a lesser amount for each target struck beyond the first.</c>,"Призовите водный трезубец, наносящий урон врагам. Наносит больше урона охлаждённым врагам и лечит за каждую поражённую цель. <c=@reminder>Лечит в меньшей степени за каждую следующую цель после первой.</c>"
@@ -271,25 +271,25 @@ Cast fire spells.,Применяет заклинания огня.
 Cast out a towline and drag your foe toward you.,Выпустить буксирный канат и притянуть к себе противника.
 Cast water spells.,Применяет заклинания воды.
 Casts,Заклинания
-Cataclysmic Cycle,Cataclysmic Cycle
+Cataclysmic Cycle,Катаклизмический цикл
 Cause the surrounding magnetic aura to violently explode.,Заставить окружающую магнитную ауру бурно взорваться.
 "Cause your frost aura to violently explode, healing allies and damaging foes.","Вызывает мощный взрыв вашей ледяной ауры, исцеляя союзников и нанося урон врагам."
 "Cause your shocking aura to violently explode, stunning enemies who are struck by it.","Вызывает мощный взрыв вашей шокирующей ауры, оглушая пораженных врагов."
-Causes Abyssal Raze to have increased effect for each stack. Unleashes an Abyssal Raze when swapping weapons at maximum stacks.,Увеличивает эффект Бездонного Разрушения за каждый стак. Высвобождает Бездонное Разрушение при смене оружия на максимальных стаках.
+Causes Abyssal Raze to have increased effect for each stack. Unleashes an Abyssal Raze when swapping weapons at maximum stacks.,Увеличивает эффект Abyssal Raze за каждый стак. Высвобождает Abyssal Raze при смене оружия на максимальных стаках.
 Causes an eruption that imprisons the target and nearby enemies.,"Вызывает извержение, которое заключает в тюрьму цель и ближайших врагов."
 Causes an eruption that imprisons the target and nearby enemies. Can be dispelled using a bloodstone shard.,"Вызывает извержение, которое заключает в тюрьму цель и ближайших врагов. Может быть развеяно с помощью осколка кровавого камня."
 Causes heavy damage and applies conditions.,Наносит тяжёлый урон и накладывает состояния.
 Causes instant death.,Вызывает мгновенную смерть.
 Causes instant death. Negated by having a champion blessed with Exile's Embrace.,"Вызывает мгновенную смерть. Нейтрализуется наличием чемпиона, благословленного Exile's Embrace."
-Caustic Chaos,Caustic Chaos
+Caustic Chaos,Едкий хаос
 "Caustic projectiles erupt from Vialgos, covering the ground and forming a pool of rot. Pools of rot will cause stacking damage over time.","Едкие снаряды извергаются из Vialgos, покрывая землю и образуя лужу гнили. Лужи гнили наносят суммирующийся урон с течением времени."
-Cauterize,Cauterize
-Cauterizing Strike,Cauterizing Strike
-Celestial Avatar,Celestial Avatar
+Cauterize,Прижигание
+Cauterizing Strike,Прижигающий удар
+Celestial Avatar,Небесный аватар
 Center Daze,Центральное ошеломление
 Center Radius,Радиус центра
-Cerebral Slash,Cerebral Slash
-Chain Lightning,Chain Lightning
+Cerebral Slash,Мозговой разрез
+Chain Lightning,Цепная молния
 Chain Reaction Availability Window,Окно доступности Цепной реакции
 Chain Reaction Conditions Removed,Условия Цепной реакции сняты
 Chain Reaction Daze,Ошеломление от Цепной реакции
@@ -309,40 +309,40 @@ Chain. Stab your foe.,Цепь. Уколите врага.
 Chain. Strike your foe.,Цепь. Нанесите врагу удар.
 Chaining Damage,Цепной урон
 Chaining Distance,Дистанция цепи
-Chains of Frost,Chains of Frost
-Chains of Light,Chains of Light
-Chak Shield,Chak Shield
+Chains of Frost,Цепи Мороза
+Chains of Light,Цепи Света
+Chak Shield,Щит Чаков
 Chance on Hit,Шанс при попадании
 Channel Duration,Длительность канала
 Channel a beam of energy that damages and confuses your foe.,"Выпустить луч энергии, который наносит урон противнику и приводит его в замешательство."
 Channel a great storm from Dwayna to turn foes to dust.,"Направляйте великий шторм Dwayna, чтобы превратить врагов в пыль."
 "Channel a shield from the Mists to protect you, blocking attacks and regenerating the health of nearby allies.","Создайте щит из Туманного Предела, чтобы защитить себя, блокируя атаки и восстанавливая здоровье ближайших союзников."
 Channel healing and might to nearby allies. Completing this channel grants more health to your allies.,Направляйте исцеление и мощь на ближайших союзников. Завершение этого канала даёт больше здоровья вашим союзникам.
-"Channel power to your Spirit of Anguish, damaging nearby enemies and granting might to nearby allies.","Направьте силу своему Духу Страдания, нанося урон ближайшим врагам и даруя мощь ближайшим союзникам."
-"Channel power to your Spirit of Preservation, granting defensive boons to nearby allies.","Направьте силу своему Духу Сохранения, даруя защитные благословения ближайшим союзникам."
+"Channel power to your Spirit of Anguish, damaging nearby enemies and granting might to nearby allies.","Направьте силу своему Spirit of Anguish, нанося урон ближайшим врагам и даруя мощь ближайшим союзникам."
+"Channel power to your Spirit of Preservation, granting defensive boons to nearby allies.","Направьте силу своему Spirit of Preservation, даруя защитные благословения ближайшим союзникам."
 "Channel power to your Spirit of Wanderlust, inflicting fear on nearby enemies.","Направьте силу своему Spirit of Wanderlust, вселяя страх в ближайших врагов."
 "Channel revitalizing energy that heals you with every pulse. While channeling, you take reduced strike and condition damage.","Направляйте оживляющую энергию, которая исцеляет вас с каждым импульсом. Во время направления вы получаете сниженный урон от ударов и состояний."
 "Channel twisted energy to launch yourself at your foe, damaging nearby enemies on impact.","Направляйте искаженную энергию, чтобы броситься на врага, нанося урон ближайшим противникам при ударе."
-Channeled Agony,Channeled Agony
-Channeled Vigor,Channeled Vigor
+Channeled Agony,Направленная Агония
+Channeled Vigor,Направленная Бодрость
 "Channels pure hatred into its target, damaging and immobilizing them.","Направляет чистую ненависть в цель, нанося урон и обездвиживая её."
 Channels the power of Dwayna into a lightning bolt that dazes foes.,"Направляет силу Dwayna в молнию, которая ошеломляет врагов."
-Chant of Action,Chant of Action
-Chant of Freedom,Chant of Freedom
-Chant of Recuperation,Chant of Recuperation
-Chaos Armor,Chaos Armor
-Chaos Aura,Chaos Aura
-Chaos Called,Chaos Called
-Chaos Corrosion,Chaos Corrosion
-Chaos Storm,Chaos Storm
-Chaos Vortex,Chaos Vortex
-Chaos and Destruction,Chaos and Destruction
-Chaotic Haze,Chaotic Haze
-Chaotic Overflow,Chaotic Overflow
-Chaotic Release,Chaotic Release
-Chaotic Surcharge,Chaotic Surcharge
+Chant of Action,Песнь Действия
+Chant of Freedom,Песнь Свободы
+Chant of Recuperation,Песнь Восстановления
+Chaos Armor,Броня Хаоса
+Chaos Aura,Аура Хаоса
+Chaos Called,Зов Хаоса
+Chaos Corrosion,Коррозия Хаоса
+Chaos Storm,Шторм Хаоса
+Chaos Vortex,Вихрь Хаоса
+Chaos and Destruction,Хаос и Разрушение
+Chaotic Haze,Дымка Хаоса
+Chaotic Overflow,Переполнение Хаоса
+Chaotic Release,Высвобождение Хаоса
+Chaotic Surcharge,Перегрузка Хаоса
 "Chaotic magic warps your mind, dealing 4,000 flat damage.","Магия Хаоса искажает ваш разум, нанося 4000 чистого урона."
-Charge,Charge
+Charge,Рывок
 Charge Recovery,Восстановление рывка
 Charge Time,Время зарядки
 Charge a lightning surge that damages and blinds foes near your target when it discharges.,"Создать атмосферное перенапряжение, которое наносит урон и ослепляет противников поблизости от вашей цели после разряда."
@@ -363,97 +363,97 @@ Charge up and release a burst of torment energy on nearby foes.,Зарядите
 "Charge up energy, creating a powerful attack that pierces through enemies.","Зарядите энергию, создавая мощную атаку, которая пронзает врагов."
 "Charge your foe, striking multiple times and inflicting bleeding.","Бросайтесь на врага, нанося несколько ударов и вызывая кровотечение."
 Charge your foes and knock them down.,Напасть на противника и сбить его с ног.
-Charged Ground,Charged Ground
-Charged Shot,Charged Shot
-Charged Strike,Charged Strike
+Charged Ground,Заряженная земля
+Charged Shot,Заряженный выстрел
+Charged Strike,Заряженный удар
 Charged conduits emit a dangerous aura of Arcane Flux that damages nearby enemies. The aura increases in size as the conduit gains more Charge.,"Заряженные проводники излучают опасную ауру Тайного Потока, которая наносит урон ближайшим врагам. Аура увеличивается в размерах по мере того, как проводник накапливает больше Заряда."
 "Charges the target location, damaging enemies along the path.","Бросается к целевой области, нанося урон врагам вдоль пути."
-Charging Bite,Charging Bite
-Charging Constellation,Charging Constellation
-Charr Volley,Charr Volley
-Cheap Shot,Cheap Shot
-Cheetah's Strike,Cheetah's Strike
-Chemical Field,Chemical Field
+Charging Bite,Заряжающий укус
+Charging Constellation,Заряжающее созвездие
+Charr Volley,Чаррский залп
+Cheap Shot,Дешевый трюк
+Cheetah's Strike,Удар гепарда
+Chemical Field,Химическое поле
 Chill enemies with a beam of ice.,Заморозить врагов ледяным лучом.
 Chill foes that strike you (only once per second for each attacker); incoming damage is reduced by 10%%.,"Замораживайте врагов, которые наносят вам удар (не чаще одного раза в секунду для каждого атакующего); входящий урон снижается на 10%%."
 Chill your foe for a brief time.,Заморозить вашего противника на некоторое время.
 "Chill your target and remove up to three boons, dealing extra damage based on the number of boons removed.","Охладите цель и снимите до трех эффектов поддержки, нанося дополнительный урон в зависимости от количества снятых эффектов."
-Chillblains,Chillblains
-Chilled,Chilled
-Chilling Aura,Chilling Aura
-Chilling Crack,Chilling Crack
-Chilling Howl,Chilling Howl
-Chilling Isolation,Chilling Isolation
-Chilling Nova,Chilling Nova
-Chilling Scythe,Chilling Scythe
-Chilling Slash,Chilling Slash
-Chilling Whirl,Chilling Whirl
+Chillblains,Обморожение
+Chilled,Заморозка
+Chilling Aura,Охлаждающая аура
+Chilling Crack,Ледяная трещина
+Chilling Howl,Леденящий вой
+Chilling Isolation,Леденящая изоляция
+Chilling Nova,Леденящая новая
+Chilling Scythe,Леденящая коса
+Chilling Slash,Леденящий удар
+Chilling Whirl,Леденящий вихрь
 Chills foes.,Охлаждает врагов.
-Choking Gas,Choking Gas
-Chomp,Chomp
+Choking Gas,Удушающий газ
+Chomp,Чавканье
 Chomp your foe to deal damage and heal yourself.,"Погрызть вашего противника, чтобы нанести ему урон и исцелиться."
 Chomp your foe.,Чавкайте врага.
-Chop,Chop
-Chorus of Thunder,Chorus of Thunder
-Cinder Cyclone,Cinder Cyclone
-Citadel Bombardment,Citadel Bombardment
-Clapotis,Clapotis
-Clarified Conclusion,Clarified Conclusion
-Claw Slam,Claw Slam
-Claw Smash,Claw Smash
+Chop,Рубящий удар
+Chorus of Thunder,Хор грома
+Cinder Cyclone,Пепельный циклон
+Citadel Bombardment,Цитадельная бомбардировка
+Clapotis,Всплеск
+Clarified Conclusion,Уточненный вывод
+Claw Slam,Удар когтями
+Claw Smash,Разгром когтями
 Claw attacks that poison the target.,"Атаки когтями, отравляющие цель."
-Claws of Ice,Claws of Ice
+Claws of Ice,Ледяные когти
 Cleanse a condition from nearby allies.,Снимите состояние с ближайших союзников.
 "Cleanse conditions and become a mobile fire field that burns nearby foes. When the field expires, it explodes, damaging foes and burning them again.","Снимите состояния и станьте подвижным огненным полем, которое поджигает ближайших врагов. Когда действие поля заканчивается, оно взрывается, нанося урон врагам и снова поджигая их."
 "Cleanse conditions and evade while preparing a strong attack. If you successfully evade, heal yourself. Healing is improved if you have Clarity.","Снимите состояния и уклонитесь, подготавливая мощную атаку. Если вы успешно уклонились, исцелите себя. Исцеление усиливается, если у вас есть «Ясность»."
 "Cleanse conditions from yourself, then strike nearby foes. Cleanse an additional condition for each target struck.","Снимите состояния с себя, затем поразите ближайших врагов. Снимайте дополнительное состояние за каждую пораженную цель."
-Cleansed Conductor,Cleansed Conductor
-Cleansing Burst,Cleansing Burst
-Cleansing Field,Cleansing Field
-Cleansing Fire,Cleansing Fire
-Cleansing Flame,Cleansing Flame
-Cleansing Leaves,Cleansing Leaves
-Cleansing Pulse,Cleansing Pulse
-Cleansing Typhoon,Cleansing Typhoon
-Cleansing Wave,Cleansing Wave
-Cleave,Cleave
+Cleansed Conductor,Очищенный проводник
+Cleansing Burst,Очищающий взрыв
+Cleansing Field,Очищающее поле
+Cleansing Fire,Очищающий огонь
+Cleansing Flame,Очищающее пламя
+Cleansing Leaves,Очищающие листья
+Cleansing Pulse,Очищающий импульс
+Cleansing Typhoon,Очищающий тайфун
+Cleansing Wave,Очищающая волна
+Cleave,Рассечение
 Cleave at your enemy with a physical and a magical axe.,Рассеките противника реальным и волшебным топором.
 "Cleave foes around you with your staff, healing nearby allies.","Рассекайте врагов вокруг себя посохом, исцеляя ближайших союзников."
 Cleave through all foes in front of you twice.,Дважды рубануть по всем противникам перед вами.
 "Cleave your foes, inflicting vulnerability and chilling them.","Рассекайте врагов, накладывая уязвимость и охлаждая их."
-Clinging Shadows,Clinging Shadows
-Cloak and Dagger,Cloak and Dagger
+Clinging Shadows,Цепкие тени
+Cloak and Dagger,Плащ и кинжал
 Clones Created,Созданные клоны
 Close-Range Radius,Радиус ближнего боя
 Close-Range Stun,Оглушение в ближнем бою
 Cloud the water to blind your target and nearby foes.,"Замутить воду, чтобы ослепить вашу цель и противников поблизости."
-Cluster Bomb,Cluster Bomb
-Coalescence of Ruin,Coalescence of Ruin
+Cluster Bomb,Кассетная бомба
+Coalescence of Ruin,Слияние руин
 "Coat the target area in ice, chilling foes that enter it. Grant frost aura to allies in the area.","Покройте область льдом, охлаждая врагов, которые в неё входят. Даруйте морозную ауру союзникам в области."
 "Coat the target area with a glue puddle that immobilizes foes on impact, then cripples foes that remain within.","Покройте область клейкой лужей, которая обездвиживает врагов при попадании, а затем калечит тех, кто остается внутри."
-Cold Front,Cold Front
-Cold Snap,Cold Snap
-Cold-Hearted Aura,Cold-Hearted Aura
+Cold Front,Холодный фронт
+Cold Snap,Ледяной удар
+Cold-Hearted Aura,Аура хладнокровия
 Collapse a ring of holograms to pull foes into a single point. The ring explodes when it fully collapses. Radius and pull distance increased while above the heat threshold.,"Сжать кольцо из голограмм, чтобы стянуть противников в одну точку. Кольцо взрывается при полном сжатии. Радиус и дистанция притягивания будут увеличены, если уровень вашего нагрева был выше порога."
 Collapse the protective barrier that formed around the tablet.,"Свернуть защитный барьер, созданный вокруг скрижали."
-"Collapse your singularity, creating a single-use portal that will teleport the user to your current location. Increase the cooldown of Singularity Shot.","Схлопните свою сингулярность, создав одноразовый портал, который телепортирует пользователя в ваше текущее местоположение. Увеличивает время перезарядки Выстрела сингулярности."
+"Collapse your singularity, creating a single-use portal that will teleport the user to your current location. Increase the cooldown of Singularity Shot.","Схлопните свою сингулярность, создав одноразовый портал, который телепортирует пользователя в ваше текущее местоположение. Увеличивает время перезарядки Singularity Shot."
 Combat Only,Только в бою
-Combat Stimulant,Combat Stimulant
+Combat Stimulant,Боевой стимулятор
 "Combined with the Lava Elemental, the Pyre Guardian unleashes a burst of fiery energy.","В сочетании с Элементалем лавы, Страж огня высвобождает всплеск огненной энергии."
 Combo Field,Комбо-поле
 Combo Field Duration,Длительность комбо-поля
-Combo Field: Dark,Combo Field: Dark
-Combo Field: Ethereal,Combo Field: Ethereal
-Combo Field: Fire,Combo Field: Fire
-Combo Field: Light,Combo Field: Light
-Combo Field: Lightning,Combo Field: Lightning
-Combo Field: Water,Combo Field: Water
+Combo Field: Dark,Комбо-поле: Тьма
+Combo Field: Ethereal,Комбо-поле: Эфир
+Combo Field: Fire,Комбо-поле: Огонь
+Combo Field: Light,Комбо-поле: Свет
+Combo Field: Lightning,Комбо-поле: Молния
+Combo Field: Water,Комбо-поле: Вода
 Combo Finisher,Комбо-финишер
 Combo Healing,Комбо-исцеление
 Combo Interval,Интервал комбо
-Combustion Rush,Combustion Rush
-Combustive Shot,Combustive Shot
-Comet,Comet
+Combustion Rush,Огненный рывок
+Combustive Shot,Огненный выстрел
+Comet,Комета
 Command your air elemental to fire a stunning bolt at its target.,Прикажите своему элементалю воздуха выпустить оглушающий снаряд в цель.
 "Command your earth elemental to stomp the ground, granting protection to allies and crippling foes.","Прикажите своему элементалю земли топнуть по земле, даруя протекцию союзникам и накладывая увечье на врагов."
 Command your fire elemental to bombard its target and surrounding foes with burning bolts and then release a burst of fire around itself.,"Прикажите своему элементалю огня обстрелять цель и окружающих врагов горящими снарядами, а затем высвободить всплеск огня вокруг себя."
@@ -463,8 +463,8 @@ Command your jade bot to revive you.,Прикажите своему нефри�
 "Command your shadow fiend to teleport to a foe and attack all nearby foes, inflicting conditions.","Прикажите своему теневому демону телепортироваться к врагу и атаковать всех ближайших противников, накладывая состояния."
 Command.Your pet teleports a downed ally within range of you and begins reviving them. Grant regeneration to nearby allies.,Команда. Ваш питомец телепортирует павшего союзника в радиус действия и начинает его воскрешать. Дарует регенерацию ближайшим союзникам.
 Conceal yourself and lash out at nearby foes. Gain might each time you damage a foe.,Замаскироваться и внезапно наброситься на противников поблизости. При каждом нанесении урона противнику вам даруется мощь.
-"Conceal yourself in the brush, gaining stealth. Gain Hunter's Prowess, allowing you to use a <c=@abilitytype>Stealth Attack</c> even if revealed.","Спрячьтесь в кустах, получив невидимость. Получите Охотничью доблесть, позволяющую использовать <c=@abilitytype>Скрытую атаку</c> даже если вы раскрыты."
-Concussion Shot,Concussion Shot
+"Conceal yourself in the brush, gaining stealth. Gain Hunter's Prowess, allowing you to use a <c=@abilitytype>Stealth Attack</c> even if revealed.","Спрячьтесь в кустах, получив невидимость. Получите Hunter's Prowess, позволяющую использовать <c=@abilitytype>Скрытую атаку</c> даже если вы раскрыты."
+Concussion Shot,Оглушающий выстрел
 Condense Mists energy into a solid form to strike enemies in front of you.,"Собрать энергию Туманов в твёрдую форму, чтобы нанести удар противникам перед вами."
 Condition Damage Reduced,Урон от состояний снижен
 Condition Duration Reduction,Снижение длительности состояний
@@ -487,17 +487,17 @@ Conditions Transferred,Переданные состояния
 Conditions are consumed for healing every second.,Состояния поглощаются для лечения каждую секунду.
 Conditions per Pulse,Состояния за импульс
 Conditions removed on hit.,Состояния снимаются при ударе.
-Conduit Surge,Conduit Surge
+Conduit Surge,Волна проводника
 "Conduits that already have 3 charges when hit by fluxlance or thunder attack damage all enemies in the encounter, apply exposed, and grant Decima 5 stacks of Peal of Harmony and Peal of Discord.","Проводники, у которых уже есть 3 заряда, при попадании под удар флюкс-копья или громовой атаки наносят урон всем врагам в бою, накладывают эффект «Уязвимость» (Exposed) и дают Decima 5 стаков «Перезвона гармонии» (Peal of Harmony) и «Перезвона раздора» (Peal of Discord)."
 Conduits with 1 or 2 charges damage all enemies.,Проводники с 1 или 2 зарядами наносят урон всем врагам.
 "Conduits with 3 charges damage all enemies, apply exposed, and grant Decima 5 stacks of Peal of Harmony and Peal of Discord.","Проводники с 3 зарядами наносят урон всем врагам, накладывают эффект exposed и дают Decima 5 стаков Peal of Harmony и Peal of Discord."
 "Conduits with charge periodically release dancing sparks that move toward Decima. Sparks lose some health and stop moving temporarily when enough players are standing in their aura. If a dancing spark reaches Decima, it is absorbed and grants her some charge.","Заряженные проводники периодически выпускают танцующие искры, которые движутся к Decima. Искры теряют часть здоровья и временно останавливаются, если в их ауре стоит достаточно игроков. Если танцующая искра достигает Decima, она поглощается и даёт ей заряд."
 "Conduits with charge periodically release dancing sparks that move toward Decima. Sparks lose some health and stop moving temporarily when enough players are standing in their aura. If the dancing spark reaches Decima, it is absorbed and grants her some charge.","Заряженные проводники периодически выпускают танцующие искры, которые движутся к Decima. Искры теряют часть здоровья и временно останавливаются, если в их ауре стоит достаточно игроков. Если танцующая искра достигает Decima, она поглощается и даёт ей заряд."
 Cone Distance,Дистанция конуса
-Cone of Cold,Cone of Cold
-Conflagration,Conflagration
-Confounding Flurry,Confounding Flurry
-Confounding Frenzy,Confounding Frenzy
+Cone of Cold,Конус холода
+Conflagration,Пожарище
+Confounding Flurry,Сбивающий с толку шквал
+Confounding Frenzy,Сбивающее с толку неистовство
 Confuse nearby foes with complex calculations.,Сбивайте с толку ближайших врагов сложными вычислениями.
 Confuse your foe by smacking them with a pry bar.,"Вызвать у противника замешательство, огрев его монтировкой."
 Confuses and teleports an enemy into the air.,Сбивает с толку и подбрасывает врага в воздух.

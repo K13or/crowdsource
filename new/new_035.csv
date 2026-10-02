@@ -20,7 +20,7 @@ english,translate
 (growl) This place stinks.,(рычит) Ну и вонь тут.
 (growl) You're undoing all of my hard work!,(рычит) Ты губишь всю мою тяжкую работу!
 (growls),(рычит)
-(growls) Grenth! Make them suffer!,(рычит) Грент! Пусть они страдают!
+(growls) Grenth! Make them suffer!,(рычит) Grenth! Пусть они страдают!
 (grumble) (growl),(ворчание) (рычание)
 (grumble) One more obstruction to push through.,"(ворчит) Ещё одно препятствие, которое надо проломить."
 (grumbles intensely),(яростно ворчит)
@@ -191,7 +191,7 @@ english,translate
 +5%% Karma,+5%% к карме
 +5-35 Power,+5–35 к силе
 +50 Maximum Health <c=#A9A9A9>(Daytime)</c>,+50 к максимальному здоровью <c=#A9A9A9>(днём)</c>
-"...And Taimi said a little meditation and personal reflection would be ""healthy.""","...А Тайми говорила, что немного медитации и размышлений о себе будут «полезны»."
+"...And Taimi said a little meditation and personal reflection would be ""healthy.""","...А Taimi говорила, что немного медитации и размышлений о себе будут «полезны»."
 "...From safely back behind the lines, of course. Heh. Of course.","...Из безопасного тыла, разумеется. Хех. Разумеется."
 "...Urban planning. As a best practice, of course. Land-leasing is our domain.","...Градостроительство. В качестве передового опыта, разумеется. Аренда земли — наша вотчина."
 ...and the norn says to the charr...,...и тут норн говорит чарру...
@@ -252,7 +252,7 @@ english,translate
 <c=@abilitytype>Costume Brawl.</c> Summon a madly obedient Candy Corn Servant.,<c=@abilitytype>Потасовка ряженых.</c> Призовите безумно послушного Candy Corn Servant.
 <c=@abilitytype>Costume Brawl.</c> Throw a madly flaming pumpkin head.,<c=@abilitytype>Потасовка ряженых.</c> Швырните безумно пылающую тыквенную голову.
 "<c=@abilitytype>Deception.</c> Draw in shards of crystal sand at target location, which confuse foes they pass through. The shards form a mirage mirror when they reach their destination.","<c=@abilitytype>Обман.</c> Стягивает в целевую область осколки хрустального песка, вызывающие замешательство у врагов, сквозь которых проходят. Достигнув цели, осколки образуют зеркало миража."
-"<c=@abilitytype>Glyphs</c> heal nearby allies. While in celestial avatar form, grant protection instead.",<c=@abilitytype>Глифы</c> исцеляют союзников поблизости. В форме небесного аватара вместо этого дают Протекцию.
+"<c=@abilitytype>Glyphs</c> heal nearby allies. While in celestial avatar form, grant protection instead.",<c=@abilitytype>Глифы</c> исцеляют союзников поблизости. В форме небесного аватара вместо этого дают протекцию.
 "<c=@abilitytype>Meditation.</c> Strike foes around you, and remove their boons. Deal more damage to foes that lose a boon.","<c=@abilitytype>Медитация.</c> Поражает врагов вокруг вас и снимает с них боны. Наносит больше урона врагам, потерявшим бон."
 "<c=@abilitytype>Tome.</c> Manifest the shimmering purity of the desert sun, reflecting enemy missiles.","<c=@abilitytype>Том.</c> Являет мерцающую чистоту пустынного солнца, отражая вражеские снаряды."
 "<c=@abilitytype>Tome.</c> Recall the memory of fallen heroes, granting allies the searing blades of justice.","<c=@abilitytype>Том.</c> Воскрешает память о павших героях, даруя союзникам жгучие клинки правосудия."
@@ -292,7 +292,7 @@ A bustling market is a thing of beauty.,Оживлённый рынок — эт
 A challenge well met.,Вызов принят достойно.
 A challenger has entered the ring. You may assist them if you wish. Failure to work together may be dangerous.,На арену вышел претендент. При желании можете ему помочь. Неумение действовать сообща может выйти боком.
 A chance is all I need.,Мне нужен всего один шанс.
-"A chance to escape...yes! Riannoc, I want to live. I have to get out of here. I don't want to die!","Шанс сбежать... да! Рианнок, я хочу жить. Мне надо выбраться отсюда. Я не хочу умирать!"
+"A chance to escape...yes! Riannoc, I want to live. I have to get out of here. I don't want to die!","Шанс сбежать... да! Riannoc, я хочу жить. Мне надо выбраться отсюда. Я не хочу умирать!"
 "A charr! It's building some nefarious device—surely the vanguard of an invasion. Brothers and sisters, to arms! For Ascalon!","Чарр! Он собирает какое-то зловещее устройство — наверняка это авангард вторжения. Братья и сёстры, к оружию! За Аскалон!"
 A cheater.,Жулик.
 A clever combination!,Ловкое сочетание!
@@ -310,7 +310,7 @@ A day of camp work is more exhausting than a day of fighting.,"День рабо
 A defensive perimeter has been established. The Ordnance Corps plans to retake the airship crash site.,Оборонительный периметр установлен. Артиллерийский корпус планирует отбить место крушения воздушного корабля.
 "A delight, you are. I will direct your mind toward the interruption.",Какая прелесть. Я направлю твой разум к помехе.
 A destroyer champion has erupted from the ground.,Из-под земли вырвался чемпион-разрушитель.
-"A dirt-covered dog tag lies before you with what looks like a dried bloodstain. You can make out the name ""Arina.""",Перед вами лежит покрытый грязью солдатский жетон с чем-то похожим на засохшее пятно крови. Можно разобрать имя «Арина».
+"A dirt-covered dog tag lies before you with what looks like a dried bloodstain. You can make out the name ""Arina.""",Перед вами лежит покрытый грязью солдатский жетон с чем-то похожим на засохшее пятно крови. Можно разобрать имя «Arina».
 "A disturbance, just out of sight. If you could investigate it before returning to camp...?","Что-то неладно, совсем рядом, но не на виду. Может, посмотришь, в чём дело, прежде чем вернёшься в лагерь?"
 "A drastically abnormal shedding or molting cycle. Now, I know what you're thinking—how do we know what's abnormal in a species that's never existed before?","Совершенно ненормальный цикл линьки. Знаю, о чём вы подумали: откуда нам знать, что нормально для вида, которого прежде не существовало?"
 A faint but palpable energy emanates from these tenebrous catacombs. The silent inhabitants of the stone sarcophagi seem unwilling to succumb to the fact of their demise.,"От этих сумрачных катакомб исходит слабая, но ощутимая энергия. Молчаливые обитатели каменных саркофагов, похоже, не желают мириться с тем, что их время вышло."
@@ -333,7 +333,7 @@ A fragile but powerful veil of invisibility.,"Хрупкая, но мощная 
 A friend is bringing some help from the outside.,Друг ведёт подмогу извне.
 A genius is a dangerous thing!,Гений — вещь опасная!
 A glorious combination of skill.,Великолепное сочетание умений.
-"A glorious day, my friend! The Pact has driven the Flame Legion back to the gates of the Citadel of Flame. Logan and Rytlock have both gone ahead.","Славный день, друг мой! Пакт отбросил Flame Legion к самым вратам Citadel of Flame. Логан и Ритлок оба ушли вперёд."
+"A glorious day, my friend! The Pact has driven the Flame Legion back to the gates of the Citadel of Flame. Logan and Rytlock have both gone ahead.","Славный день, друг мой! Пакт отбросил Flame Legion к самым вратам Citadel of Flame. Logan и Rytlock оба ушли вперёд."
 "A glowing gem sits on top of a jet black rock. Leaning close, you hear what sounds like the outside world.","На угольно-чёрном камне лежит светящийся самоцвет. Наклонившись ближе, вы слышите нечто похожее на звуки внешнего мира."
 "A good messenger would never allow a peek at an document in their possession. All you need to know is, it bears Queen Jennah's seal, and it is vital to the treaty. So, are you going to help me?","Хороший гонец ни за что не позволит заглянуть в доверенный ему документ. Тебе достаточно знать, что на нём печать Queen Jennah и что он крайне важен для договора. Так что, поможешь мне?"
 A good scratch behind the ears goes a long way. Just saying...,Хорошо почесать за ушами — уже полдела. Просто к слову...
@@ -386,7 +386,7 @@ A natural barrier.,Естественная преграда.
 A necrotic field is shielding the Awakened Inquest facility.,Некротическое поле прикрывает объект Inquest Пробуждённых.
 "A new Overlord was resently selected. First and foremost, he has to die. Beyond that, we need the inflict as much damage as we can on the Harathi. Deplete their numbers, and destroy what you can.","Недавно избрали нового Владыку. Прежде всего, он должен умереть. Кроме того, нам нужно нанести Харати как можно больший урон. Проредить их ряды и разрушить всё, что сможете."
 A new entryway?,Новый вход?
-A new era for Kryta begins with the return of Lazarus. Prepare yourselves for his awakening.,Новая эпоха для Крайты начинается с возвращением Лазаря. Готовьтесь к его пробуждению.
+A new era for Kryta begins with the return of Lazarus. Prepare yourselves for his awakening.,Новая эпоха для Крайты начинается с возвращением Lazarus. Готовьтесь к его пробуждению.
 A new experience?,Новый опыт?
 "A new generation will light the way for travelers, then.","Значит, путь странникам будет освещать новое поколение."
 A new pattern revealed!,Открыт новый узор!
@@ -402,7 +402,7 @@ A pile of loose stone and pebbles.,Груда камней и гальки.
 A pleasure to see you.,Рад тебя видеть.
 "A pleasure, neighbor.","Моё почтение, сосед."
 A powerful Sons of Svanir shaman has been spotted in the Maw.,В Пасти замечен могущественный шаман Sons of Svanir.
-A powerful Svanir shaman is menacing the Maw.,Могущественный шаман Сванира угрожает Пасти.
+A powerful Svanir shaman is menacing the Maw.,Могущественный шаман Svanir угрожает Пасти.
 A powerful and foreboding presence is trapped within this crystal.,В этом кристалле заключено могучее и зловещее присутствие.
 A powerful combination!,Мощное сочетание!
 A powerful darkness surrounds this area.,Эту местность окружает могучая тьма.
@@ -412,11 +412,11 @@ A quick burst of boiling lava that knocks back players.,"Короткий выб
 "A rabbit, then. Certainly.","Значит, кролик. Разумеется."
 A red player has marked you for their team and will now track you. Stealthing for long durations will cause you to be revealed.,Красный игрок пометил вас для своей команды и теперь будет отслеживать. Долгое пребывание в невидимости выдаст вас.
 A rejuvenating mist periodically heals you.,Оживляющий туман периодически исцеляет вас.
-A rememberance of the swiftness of the norn in their flight from Jormag.,Напоминание о быстроте норнов при их бегстве от Йормага.
+A rememberance of the swiftness of the norn in their flight from Jormag.,Напоминание о быстроте норнов при их бегстве от Jormag.
 A ripple in the earth.,Рябь по земле.
 A rusted old lock holds the gate closed. Someone wants to make sure the moas aren't running loose.,"Ворота заперты на старый ржавый замок. Кто-то хочет быть уверен, что моа не разбегутся."
 A saddle would be incredibly simple for me to build. Just bring me all the parts.,Седло мне сделать проще простого. Просто принеси все части.
-"A sea-worn sculpture of the war god Balthazar remains valiant and tall atop the spoiled terrain. Like embers refusing to die, a fiery energy churns within the statue, unspent and unchanged by time.","Изъеденная морем скульптура бога войны Бальтазара всё так же доблестно возвышается над испорченной землёй. Словно угли, что отказываются гаснуть, внутри статуи бурлит огненная энергия — нерастраченная и неизменённая временем."
+"A sea-worn sculpture of the war god Balthazar remains valiant and tall atop the spoiled terrain. Like embers refusing to die, a fiery energy churns within the statue, unspent and unchanged by time.","Изъеденная морем скульптура бога войны Balthazar всё так же доблестно возвышается над испорченной землёй. Словно угли, что отказываются гаснуть, внутри статуи бурлит огненная энергия — нерастраченная и неизменённая временем."
 A sentry has marked you. Blue team is tracking your movement. Stealthing for long durations will cause you to be revealed.,Часовой пометил вас. Синяя команда отслеживает ваши перемещения. Долгое пребывание в невидимости выдаст вас.
 A sentry has marked you. Green team is tracking your movement. Stealthing for long durations will cause you to be revealed.,Часовой пометил вас. Зелёная команда отслеживает ваши перемещения. Долгое пребывание в невидимости выдаст вас.
 A sentry has marked you. Red team is tracking your movement. Stealthing for long durations will cause you to be revealed.,Часовой пометил вас. Красная команда отслеживает ваши перемещения. Долгое пребывание в невидимости выдаст вас.
@@ -437,13 +437,13 @@ A small victory for the Priory.,Небольшая победа Приората
 "A soldier is only as good as her training. Our frontline troops need to be the best, so we've set up a fighting pit to test our soldiers against the beasts of the region. Do what you can to help train them.","Солдат хорош настолько, насколько хороша его выучка. Наши передовые бойцы должны быть лучшими, поэтому мы устроили боевую яму, чтобы испытывать солдат против местного зверья. Помоги им подготовиться чем сможешь."
 "A solid point, and one I admire. We're lucky to have your courage among us.","Веский довод, и он мне по душе. Нам повезло, что среди нас есть твоя отвага."
 A soothing mist.,Умиротворяющий туман.
-A souvenir from Maguuma's depths.,Сувенир из глубин Магуумы.
+A souvenir from Maguuma's depths.,Сувенир из глубин Maguuma.
 A sparring match is currently taking place in the arena.,На арене сейчас идёт учебный поединок.
 A spirit summoned by a member of the Speakers has temporarily shorted out your flashlight.,"Дух, призванный кем-то из Спикеров, временно вывел из строя ваш фонарь."
 A splendid combination!,Великолепное сочетание!
 A stalactite bombed from the ceiling that causes impact damage and stuns.,"Сталактит, сброшенный с потолка: наносит урон от удара и оглушает."
 "A statue of a Forgotten sits within the crystal. Once a source of great power, the statue now sits drained.","Внутри кристалла заключена статуя Забытого. Некогда источник великой силы, теперь статуя иссякла."
-"A statue of an older asura looking mischievous, kind, and careworn. The area for inscription is conspicuously blank. Above the space is simply ""Snaff,"" nothing more.","Статуя пожилого асура — с виду озорного, доброго и потрёпанного заботами. Место для надписи демонстративно пусто. Над ним лишь одно слово: «Снафф», и больше ничего."
+"A statue of an older asura looking mischievous, kind, and careworn. The area for inscription is conspicuously blank. Above the space is simply ""Snaff,"" nothing more.","Статуя пожилого асура — с виду озорного, доброго и потрёпанного заботами. Место для надписи демонстративно пусто. Над ним лишь одно слово: «Snaff», и больше ничего."
 A stealth spell that doesn't get removed when you attack.,"Заклинание невидимости, которое не спадает при атаке."
 A storm has gathered across the island.,Над островом собралась буря.
 A strange creature has been spotted in the ice chamber.,В ледяном зале замечено странное существо.
@@ -459,7 +459,7 @@ A sylvari? Oh dear. I'm going to chop you to bits and use you as kindling.,Си�
 "A task so large will require more than a nudge, I fear.","Боюсь, для такой большой задачи одного толчка будет мало."
 A temporary inconvenience. I still have claws.,Временное неудобство. У меня всё ещё есть когти.
 A termite begins to crawl beneath your skin...,Термит начинает вползать вам под кожу...
-A terrorling's parasite cannot cross the wall of Zakiros without being obliterated.,"Паразит ужасика не может пересечь стену Закироса, не будучи уничтоженным."
+A terrorling's parasite cannot cross the wall of Zakiros without being obliterated.,"Паразит ужасика не может пересечь стену Zakiros, не будучи уничтоженным."
 A thief out of luck...,Незадачливый вор...
 A thin but sturdy piece of wood needed to make an arrow shaft can be gathered from saplings in the forest.,"Тонкую, но прочную деревяшку для древка стрелы можно добыть из лесных саженцев."
 A thousand times my axe has fallen! A thousand deer lay slain!,Тысячу раз опускался мой топор! Тысяча оленей полегла!

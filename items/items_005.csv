@@ -12,7 +12,7 @@ Can be upgraded in the Mystic Forge.","<c=@flavor>У карка загадочн
 "<c=@flavor>The legendary beauty who captured the heart of Prince Rurik, only to perish in the Searing of Ascalon.</c>","<c=@flavor>Легендарная красавица, покорившая сердце принца Рурика и погибшая в Опалении Аскалона.</c>"
 <c=@flavor>The legendary chef gave these to his finest students.</c>,<c=@flavor>Легендарный повар вручал их лучшим своим ученикам.</c>
 <c=@flavor>The Lionguard approve of your efforts in battle.</c>,<c=@flavor>Львиная стража одобряет твои ратные труды.</c>
-"<c=@flavor>The locket contains a picture of Kolijn Johansson, Trade Administrator of Hoelbrak.</c>","<c=@flavor>В медальоне портрет Колейн Йоханссон, торгового управляющего Хоэльбрака.</c>"
+"<c=@flavor>The locket contains a picture of Kolijn Johansson, Trade Administrator of Hoelbrak.</c>","<c=@flavor>В медальоне портрет Колейн Йоханссон, торгового управляющего Hoelbrak.</c>"
 <c=@flavor>The mark of the White Mantle is still visible on the badge's dented face.</c>,<c=@flavor>На помятой поверхности значка всё ещё различим знак White Mantle.</c>
 <c=@flavor>The Morgatl hylek harvest these glands to coat their darts in its poison.<c>,"<c=@flavor>Хилеки Моргатл собирают эти железы, чтобы смазывать их ядом свои дротики.<c>"
 "<c=@flavor>The next generation of cultivated seed produced by your own hand. To cultivate this new specimen to be even better than the last, plant it in a Mists Infused Clay Pot to germinate.</c>","<c=@flavor>Следующее поколение выращенного тобой семени. Чтобы этот новый образец вышёл ещё лучше прежнего, посадите его в глиняный горшок, напитанный Туманами.</c>"
@@ -59,7 +59,7 @@ Consuming this item leaves a shiny foil candy wrapper, which is highly prized by
 <c=@Flavor>These gleaming metal scales earned their nickname because they are flexible but remain true and whole under great strain.</c>,"<c=@Flavor>Эти блестящие металлические чешуйки заслужили своё прозвище тем, что гибки, но под большой нагрузкой остаются целыми и верными форме.</c>"
 <c=@flavor>These gloves were made for stealth.</c>,<c=@flavor>Эти перчатки сделаны для скрытности.</c>
 <c=@flavor>These tags are issued to every canine service member.</c>,<c=@flavor>Такие жетоны выдают каждому служебному псу.</c>
-"<c=@flavor>These undeveloped eggs were supposedly found in the lair of Glint, the dragon oracle.</c>","<c=@flavor>Эти неразвившиеся яйца, по преданию, нашли в логове Глинт, драконьей прорицательницы.</c>"
+"<c=@flavor>These undeveloped eggs were supposedly found in the lair of Glint, the dragon oracle.</c>","<c=@flavor>Эти неразвившиеся яйца, по преданию, нашли в логове Glint, драконьей прорицательницы.</c>"
 <c=@flavor>They burn with the fire of a forgotten god.</c>,<c=@flavor>Они горят огнём забытого бога.</c>
 "<c=@flavor>This accessory is used to craft the legendary accessory Stella Radians.
 
@@ -94,7 +94,7 @@ Combine this item in the Mystic Forge with:
 <c=@flavor>This device might help gain access to some secret place.</c>,<c=@flavor>Это устройство может помочь попасть в некое тайное место.</c>
 "<c=@flavor>This document details a standing, but not permanent, end to charr hostilities against the humans.</c>","<c=@flavor>В этом документе изложено длительное, но не окончательное прекращение враждебных действий чарров против людей.</c>"
 <c=@flavor>This ensemble is only missing a parrot.</c>,<c=@flavor>Этому наряду не хватает только попугая.</c>
-<c=@flavor>This feather is said to have fallen from the spirit of Owl before being destroyed by Jormag.</c>,"<c=@flavor>Говорят, это перо выпало у духа Совы прежде, чем её уничтожил Йормаг.</c>"
+<c=@flavor>This feather is said to have fallen from the spirit of Owl before being destroyed by Jormag.</c>,"<c=@flavor>Говорят, это перо выпало у духа Совы прежде, чем её уничтожил Jormag.</c>"
 <c=@flavor>This hand-carved figurine bears a crude resemblance to a norn.</c>,<c=@flavor>Эта фигурка ручной резьбы грубо напоминает норна.</c>
 <c=@flavor>This helmet is used for crafting Janthir Wilds legendary items. Additional copies can be purchased in the near future.</c>,<c=@flavor>Этот шлем используется при создании легендарных предметов «Диких земель Джантира». Дополнительные экземпляры можно будет купить в ближайшем будущем.</c>
 "<c=@flavor>This is a copy of the declaration of cease-fire between humans and charr, putting a pause on a war that has lasted for generations.</c>","<c=@flavor>Это копия декларации о прекращении огня между людьми и чаррами, приостановившей войну, что длилась поколениями.</c>"
@@ -113,7 +113,7 @@ Combine this item in the Mystic Forge with:
 <c=@flavor>This pile of mangled trash looks rather conspicuous.</c>,<c=@flavor>Эта груда искорёженного хлама выглядит довольно приметно.</c>
 <c=@flavor>This rare flower grows in the deep jungle.</c>,<c=@flavor>Этот редкий цветок растёт в глубине джунглей.</c>
 <c=@flavor>This recording shows skritt engaging in some questionable behavior.</c>,<c=@flavor>На этой записи скритты заняты чем-то весьма сомнительным.</c>
-<c=@flavor>This relic of long-forgotten Cantha contains air captured from the Jade Winds.</c>,"<c=@flavor>В этой реликвии давно забытой Канты заключён воздух, пойманный Jade Winds.</c>"
+<c=@flavor>This relic of long-forgotten Cantha contains air captured from the Jade Winds.</c>,"<c=@flavor>В этой реликвии давно забытой Cantha заключён воздух, пойманный Jade Winds.</c>"
 <c=@flavor>This ring is claimed to have once belonged to the Ossa family.</c>,"<c=@flavor>Утверждают, что это кольцо некогда принадлежало семье Осса.</c>"
 <c=@flavor>This ring vibrates with the power of the Vale Guardian.</c>,<c=@flavor>Это кольцо дрожит от силы Vale Guardian.</c>
 <c=@flavor>This scroll describes some practices of the ancient druids.</c>,<c=@flavor>В этом свитке описаны некоторые обряды древних друидов.</c>
@@ -129,7 +129,7 @@ Combine this item in the Mystic Forge with:
 <c=@flavor>This unlabeled bottle has a disturbingly murky and thick liquid in it.</c>,<c=@flavor>В этой бутылке без ярлыка плещется тревожно мутная и густая жидкость.</c>
 "<c=@flavor>This used to be a pet for a skritt. A lonely, lonely skritt.</c>","<c=@flavor>Когда-то это было питомцем скритта. Очень, очень одинокого скритта.</c>"
 "<c=@flavor>This vine that you cultivated from seed, seems to almost like you. Is it possible that it is loyal to you as a child is to a parent?</c>","<c=@flavor>Похоже, эта лоза, выращенная тобой из семени, тебя даже любит. Возможно ли, что она предана тебе, как дитя родителю?</c>"
-"<c=@flavor>This vine, while appearing to be touched by Mordremoth, has been grown from seed under the good influence of a hero of Tyria.<c>","<c=@flavor>Эта лоза, хоть и кажется тронутой Мордремотом, выращена из семени под добрым влиянием героя Тирии.<c>"
+"<c=@flavor>This vine, while appearing to be touched by Mordremoth, has been grown from seed under the good influence of a hero of Tyria.<c>","<c=@flavor>Эта лоза, хоть и кажется тронутой Mordremoth, выращена из семени под добрым влиянием героя Тирии.<c>"
 "<c=@flavor>This weapon is deactivated, but still possesses an explosive core. Do not drop.</c>","<c=@flavor>Это оружие отключено, но взрывное ядро в нём осталось. Не ронять.</c>"
 <c=@flavor>This weapon is used to craft the legendary axe Astralaria.</c>,<c=@flavor>Это оружие используется для создания легендарного топора «Astralaria».</c>
 "<c=@flavor>This weapon is used to craft the legendary axe Frostfang.
@@ -432,10 +432,10 @@ Combine this weapon in the Mystic Forge with:
 <c=@flavor>Warning: small parts. Not for children. Double-click to open.</c>,"<c=@flavor>Внимание: мелкие детали. Не для детей. Дважды щёлкните, чтобы открыть.</c>"
 "<c=@flavor>Washed ashore by countless waves, the castle endures.</c>","<c=@flavor>Омытый бесчисленными волнами, замок стоит.</c>"
 <c=@flavor>Waves of darkness emanate from this twisted ring.</c>,<c=@flavor>От этого искривлённого кольца исходят волны тьмы.</c>
-"<c=@flavor>We faced Scarlet at our door, and that day we brought the fight to her.<c>","<c=@flavor>Скарлет стояла у нашего порога, и в тот день мы сами перешли в наступление.<c>"
+"<c=@flavor>We faced Scarlet at our door, and that day we brought the fight to her.<c>","<c=@flavor>Scarlet стояла у нашего порога, и в тот день мы сами перешли в наступление.<c>"
 "<c=@flavor>We faced Scarlet at our door, and that day we brought the fight to her.<c>
 
-Cannot be used in the Mystic Forge if transmuted.","<c=@flavor>Скарлет стояла у нашего порога, и в тот день мы сами перешли в наступление.<c>
+Cannot be used in the Mystic Forge if transmuted.","<c=@flavor>Scarlet стояла у нашего порога, и в тот день мы сами перешли в наступление.<c>
 
 Нельзя использовать в Mystic Forge, если предмет трансмутирован."
 <c=@flavor>We're close to fully cracking the code behind the seers' shadowstone and their magic. Prototypes like this will be a footnote in history as we regain our technological dominance.</c>,"<c=@flavor>Мы близки к тому, чтобы полностью разгадать теневой камень провидцев и их магию. Прототипы вроде этого станут сноской в истории, когда мы вернём себе технологическое господство.</c>"
@@ -444,7 +444,7 @@ Cannot be used in the Mystic Forge if transmuted.","<c=@flavor>Скарлет с
 <c=@Flavor>What illuminates may also blind.</c>,"<c=@Flavor>То, что освещает, может и ослепить.</c>"
 <c=@Flavor>What kind of creature has feathers this big? Perhaps the beastmaster at the Menagerie knows more. Double-click to view location.</c>,"<c=@Flavor>У какого существа бывают такие огромные перья? Возможно, зверолов из Зверинца знает больше. Дважды щёлкните, чтобы увидеть место.</c>"
 <c=@Flavor>What's so large that it could swallow the bones in this regurgitated mass? Perhaps the beastmaster at the Menagerie knows more. Double-click to view location.</c>,"<c=@Flavor>Что же настолько велико, чтобы проглотить кости из этой отрыгнутой массы? Возможно, зверолов из Зверинца знает больше. Дважды щёлкните, чтобы увидеть место.</c>"
-"<c=@Flavor>Whether you deal in salt, gold, or mithril, the Cowrie League's scales are trusted throughout Elona.</c>","<c=@Flavor>Торгуешь ли ты солью, золотом или мифрилом — весам Лиги Каури доверяют по всей Элоне.</c>"
+"<c=@Flavor>Whether you deal in salt, gold, or mithril, the Cowrie League's scales are trusted throughout Elona.</c>","<c=@Flavor>Торгуешь ли ты солью, золотом или мифрилом — весам Лиги Каури доверяют по всей Elona.</c>"
 "<c=@flavor>While acting as a standard flux purifying the metal, it also suffuses it and protects it from softening due to constant heat exposure.</c>","<c=@flavor>Работая как обычный флюс, очищающий металл, он вдобавок пропитывает его и защищает от размягчения при постоянном нагреве.</c>"
 "<c=@flavor>While it is shiny, it being a necklace is tenuous at best.</c>","<c=@flavor>Блестеть-то оно блестит, а вот ожерелье из него так себе.</c>"
 <c=@flavor>Wield the cutting edge of interactive simulation.</c>,<c=@flavor>Владей передним краем интерактивной симуляции.</c>
@@ -458,7 +458,7 @@ Cannot be used in the Mystic Forge if transmuted.","<c=@flavor>Скарлет с
 "<c=@flavor>Within its core, the unabating heat of the stars lingers.</c>
 <c=@abilitytype>Vault Category: Locally Threatening</c>","<c=@flavor>В его сердцевине таится неугасающий жар звёзд.</c>
 <c=@abilitytype>Категория хранилища: угроза местного масштаба</c>"
-"<c=@flavor>Worn by Confessor Beetlestone himself, this mask emits massive amounts of raw bloodstone energy, channeled through Caudecus's signature beard.</c>","<c=@flavor>Эту маску носил сам исповедник Битлстоун; она источает огромное количество сырой энергии кровавика, направляемой через фирменную бороду Кодекуса.</c>"
+"<c=@flavor>Worn by Confessor Beetlestone himself, this mask emits massive amounts of raw bloodstone energy, channeled through Caudecus's signature beard.</c>","<c=@flavor>Эту маску носил сам исповедник Битлстоун; она источает огромное количество сырой энергии кровавика, направляемой через фирменную бороду Caudecus.</c>"
 <c=@flavor>You can just tell this is the best one. Double-click to choose a reward.</c>,"<c=@flavor>Сразу видно, что этот — лучший. Дважды щёлкните, чтобы выбрать награду.</c>"
 "<c=@flavor>You see, any of the four elements can be made into a torch!</c>","<c=@flavor>Видишь ли, факел можно сделать из любой из четырёх стихий!</c>"
 "<c=@flavor>You should be careful about carrying this around with you.</c>
@@ -524,17 +524,17 @@ Use this bond to hunt Knife Tail Gang members. While bonded, any kill worth XP h
 "<c=flavor>""For the millionth time, there are no culinary applications for bloodstone dust. None.""
 —Chef Robertus</c>","<c=flavor>«В миллионный раз: у пыли кровавика нет никаких кулинарных применений. Никаких».
 —Повар Робертус</c>"
-[FTT] Deployment Kit,[FTT] Deployment Kit
+[FTT] Deployment Kit,Комплект развёртывания [FTT]
 A 20 slot bag for beginning characters.,Сумка на 20 ячеек для начинающих персонажей.
 A baby skyscale would enjoy this.,Детёнышу скайскейла это понравится.
 A bag of shinies bandits stole from Ket'abatchk.,"Мешок блестяшек, которые бандиты украли у Кет'абатчка."
 A bag of shinies that bandits stole from Ket'abatchk.,"Мешок блестяшек, которые бандиты украли у Кет'абатчка."
-A Balanced View,A Balanced View
+A Balanced View,Взвешенный взгляд
 A beaded Hylek Necklace,Бисерное ожерелье хилеков
 A beautiful bell with a glorious sound. This item will bind to your account.,Прекрасный колокол с изумительным звоном. Этот предмет привяжется к вашей учётной записи.
 A beautiful tribute for Eir.,Прекрасная дань памяти Эйр.
 A beautifully crafted lantern.,Прекрасной работы фонарь.
-A Benevolent Mission,A Benevolent Mission
+A Benevolent Mission,Благое поручение
 A bit of collateral damage from Kookoochoo.,Немного сопутствующего ущерба от Кукучу.
 "A black, brimstone-scented stone. Scholar Inka is using these for her experiments.",Чёрный камень с запахом серы. Scholar Inka использует такие для своих опытов.
 A bladder filled with fish oil. This would make excellent fertilizer.,"Пузырь, наполненный рыбьим жиром. Из него выйдёт отличное удобрение."
@@ -625,17 +625,17 @@ A book of recipes needed to craft True Sight shoulders.,"Книга рецепт
 This item has no use outside of a collection.","Коробка, снятый у Эфирных Клинков, с разными предметами из монастыря Shing Jea. Наверняка его ищет кто-то из здешних монахов.
 
 Вне коллекции этот предмет бесполезен."
-A Breath of Life,A Breath of Life
-A Brief History of Cantha,A Brief History of Cantha
+A Breath of Life,Дыхание жизни
+A Brief History of Cantha,Краткая история Канты
 A broken piece of a dwarven axe.,Обломок дворфского топора.
 A broken piece of a dwarven dagger.,Обломок дворфского кинжала.
 A broken piece of a dwarven shield.,Обломок дворфского щита.
 A broken piece of a dwarven staff.,Обломок дворфского посоха.
 A broken piece of a dwarven war hammer.,Обломок дворфского боевого молота.
 A bubble of compressed baubles from Super Adventure Box. Trade these with Super Adventure Festival merchants.,Пузырь со сжатыми блёстками из Super Adventure Box. Обменивайте их у торговцев Super Adventure Festival.
-A Burden,A Burden
-A Call to Action,A Call to Action
-A Capable Skyscale,A Capable Skyscale
+A Burden,Бремя
+A Call to Action,Призыв к действию
+A Capable Skyscale,Умелый скайскейл
 A ceremonial trinket representing your mastery of bladesworn abilities.,"Церемониальная безделушка, знаменующая ваше мастерское владение умениями клинковеда."
 A ceremonial trinket representing your mastery of catalyst abilities.,"Церемониальная безделушка, знаменующая ваше мастерское владение умениями катализатора."
 A ceremonial trinket representing your mastery of harbinger abilities.,"Церемониальная безделушка, знаменующая ваше мастерское владение умениями предвестника."
@@ -648,7 +648,7 @@ A ceremonial trinket representing your mastery of willbender abilities.,"Цер�
 "A Charr favorite snack!
 Purchased with Fractal Relics from BUY-4373 in Mistlock Observatory.","Любимое лакомство чарров!
 Покупается за фрактальные реликвии у BUY-4373 в Обсерватории Туманного Замка."
-A Choya's Friends,A Choya's Friends
+A Choya's Friends,Друзья чойи
 A claw from a large griffon. This will make a worthy trophy.,Коготь крупного грифона. Из него выйдёт достойный трофей.
 A coin spent at your homestead café. Use this to purchase café upgrades or employee items.,"Монета, потраченная в кафе твоей усадьбы. Используй её для покупки улучшений кафе или предметов для работников."
 A collection of dry roots that could be tied around something.,"Связка сухих кореньев, которой можно что-нибудь обвязать."
@@ -662,18 +662,18 @@ A Collection of Parables of the Gods,Собрание притч о богах
 Contains 5 Mocha of the Mists Coffee Pitchers and 1 Metabolic Primer.","Набор припасов для всякого страстного любителя кофе!
 Содержит 5 кофейников «Мокко Туманов» и 1 обменник метаболизма."
 A collection of well-worn Luxon tools used for saddle construction prior to unification.,"Набор изрядно потёртых луксонских инструментов, которыми делали сёдла до объединения."
-A Collective History Vol. 1,A Collective History Vol. 1
-A Collective History Vol. 2,A Collective History Vol. 2
-A Collective History Vol. 3,A Collective History Vol. 3
-A Collective History Vol. 4,A Collective History Vol. 4
-A Collective History Vol. 5,A Collective History Vol. 5
+A Collective History Vol. 1,"Общая история, том 1"
+A Collective History Vol. 2,"Общая история, том 2"
+A Collective History Vol. 3,"Общая история, том 3"
+A Collective History Vol. 4,"Общая история, том 4"
+A Collective History Vol. 5,"Общая история, том 5"
 A compendium of knowledge of our lessers.,"Свод знаний о тех, кто ниже нас."
 "A complete, first edition copy of ""The Shining Blade Manual,"" written by Master Exemplar Bartholos in 1089 A.E","Полный экземпляр первого издания «Наставления Сияющего Клинка», написанного мастером-образцом Бартолосом в 1089 ПИ"
-"A completed memory of the Elder Dragon of Crystal and Fury, Kralkatorrik.","Завершённое воспоминание о Старшем драконе Кристалла и Ярости, Кралькаторрика."
-"A completed memory of the Elder Dragon of Fire and Destruction, Primordus.","Завершённое воспоминание о Старшем драконе Огня и Разрушения, Примордуса."
-"A completed memory of the Elder Dragon of Ice and Persuasion, Jormag.","Завершённое воспоминание о Старшем драконе Льда и Убеждения, Йормага."
-"A completed memory of the Elder Dragon of Plant and Mind, Mordremoth.","Завершённое воспоминание о Старшем драконе Растений и Разума, Мордремота."
-"A completed memory of the Elder Dragon of Shadow and Death, Zhaitan.","Завершённое воспоминание о Старшем драконе Тени и Смерти, Зайтана."
+"A completed memory of the Elder Dragon of Crystal and Fury, Kralkatorrik.","Завершённое воспоминание о Старшем драконе Кристалла и Ярости, Kralkatorrik."
+"A completed memory of the Elder Dragon of Fire and Destruction, Primordus.","Завершённое воспоминание о Старшем драконе Огня и Разрушения, Primordus."
+"A completed memory of the Elder Dragon of Ice and Persuasion, Jormag.","Завершённое воспоминание о Старшем драконе Льда и Убеждения, Jormag."
+"A completed memory of the Elder Dragon of Plant and Mind, Mordremoth.","Завершённое воспоминание о Старшем драконе Растений и Разума, Mordremoth."
+"A completed memory of the Elder Dragon of Shadow and Death, Zhaitan.","Завершённое воспоминание о Старшем драконе Тени и Смерти, Zhaitan."
 "A completed memory of the Elder Dragon of Water and Life, Soo-Won.","Завершённое воспоминание о Старшем драконе Воды и Жизни, Су-Вон."
 A component for skyscale medicine.,Компонент для лекарства скайскейлам.
 A component used to create a Spirit Quest Tonic.,Компонент для создания тоника духовного поиска.
@@ -687,20 +687,20 @@ A crate of supplies that should be taken to Ouna in Diviner's Reach.,"Ящик �
 This item only has value as part of a collection.","Кристалл клеймёного существа из Джахай.
 
 Вне коллекции этот предмет бесполезен."
-A crystalline sliver that Vlast lost during combat. Follower Adisa is collecting them in the Ustulate Barrens in the Elon Riverlands.,"Кристаллический осколок, потерянный Властом в бою. Последователь Адиса собирает их в Обугленных пустошах в Elon Riverlands."
+A crystalline sliver that Vlast lost during combat. Follower Adisa is collecting them in the Ustulate Barrens in the Elon Riverlands.,"Кристаллический осколок, потерянный Vlast в бою. Последователь Адиса собирает их в Обугленных пустошах в Elon Riverlands."
 A dagger roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,"Кинжал, грубо выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
 A dagger skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,"Кинжал, искусно выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
 A data crystal that belongs to the Inquest. A Senior Researcher at the Old Golem Foundry might be interested in this.,"Кристалл данных, принадлежащий Inquest. Старший исследователь на Старой големной литейной может им заинтересоваться."
-A Day in Kryta,A Day in Kryta
+A Day in Kryta,День в Крайте
 A decoration schematic that is processed by the guild's assembly device to make the decoration.,"Схема украшения, которую гильдейское сборочное устройство перерабатывает в само украшение."
 "A deeply corrupted censer, locked away behind a large door in a cave not far from the path to Orr.","Глубоко растлённое кадило, запертое за большой дверью в пещере неподалёку от дороги в Орр."
-A Desperate Need,A Desperate Need
+A Desperate Need,Отчаянная нужда
 "A device for stabilizing unstable magic rifts.
 
 Double-click to equip.","Устройство для стабилизации нестабильных магических разломов.
 
 Дважды щёлкните, чтобы экипировать."
-A Dire Issue,A Dire Issue
+A Dire Issue,Тяжкое дело
 A discarded tail feather from an owl griffon.,Оброненное рулевое перо совиного грифона.
 A discount voucher earned by aiding Ivy's Circus Spectacular.,"Купон на скидку, полученный за помощь «Цирковому представлению Айви»."
 A faint avian scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,"От бутылки исходит слабый птичий запах. Используйте её самопополняющееся содержимое, чтобы превратиться... во что-нибудь."
@@ -711,7 +711,7 @@ A faint prickly scent emanates from the bottle. Use its self-replenishing conten
 A faint ursine scent emanates from the bottle. Use its self-replenishing contents to transform into...something.,"От бутылки исходит слабый медвежий запах. Используйте её самопополняющееся содержимое, чтобы превратиться... во что-нибудь."
 "A faint, feline scent emanates from the bottle. Use its self-replenishing contents to transform into...something.","От бутылки исходит слабый кошачий запах. Используйте её самопополняющееся содержимое, чтобы превратиться... во что-нибудь."
 "A favorite treat of Astral Ward skyscales. Get enough and it should hide the taste of any medicine, no matter how awful.","Любимое лакомство скайскейлов Astral Ward. Если набрать побольше, оно перебьёт вкус любого лекарства, каким бы мерзким оно ни было."
-A Fearful Message,A Fearful Message
+A Fearful Message,Пугающее послание
 A feather plucked from a harpy. Wode might find these useful.,"Перо, выдернутое у гарпии. Воуду они могут пригодиться."
 A feline familiar frequently found following the footpaths of fallen foes.,"Кошачий питомец, что часто ходит по тропам павших врагов."
 "A fine egg specimen that Ploint is interested in.
@@ -762,7 +762,7 @@ A fragment of Aurene attuned to shadow and death. Can be traded to Leivas in Sei
 "A fragment of Aurene attuned to water and life. Can be traded to Leivas in Seitung Province or, upon unlocking certain masteries, Arborstone.","Осколок Аурены, настроенный на воду и жизнь. Можно обменять у Лейваса в Seitung Province или, если открыты определённые мастерства, в Арборстоуне."
 A fragment of earth used to unlock the Sylvan Chest.,"Осколок земли, которым открывают Сильванский сундук."
 A fragment of water used to unlock the Sylvan Chest.,"Осколок воды, которым открывают Сильванский сундук."
-A Fungus Among Us: Bronze,A Fungus Among Us: Bronze
+A Fungus Among Us: Bronze,Гриб среди нас: бронза
 A ghostly captain commands a phantom army to trample your opponents with this finishing move in PvP and WvW.,"Призрачный капитан ведёт фантомное войско, чтобы растоптать ваших противников — добивающий приём в PvP и WvW."
 "A gift bag!
 <c=@flavor>""Care is taken with every toy. A small gift given will bring great joy.""</c>","Подарочный мешок!
@@ -1192,13 +1192,13 @@ Made by combining these items in the Mystic Forge:
 • 100 Icy Runestones
 • 1 Superior Sigil of Accuracy"
 A glass mug made by jewelers from lumps of glass.,"Стеклянная кружка, изготовленная ювелирами из кусков стекла."
-A Golden Wish,A Golden Wish
+A Golden Wish,Золотое желание
 A great predator does not let themselves become the prey.,Великий хищник не позволяет себе стать добычей.
 A greatsword roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,"Двуручный меч, грубо выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
 A greatsword skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,"Двуручный меч, искусно выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
-A Growing Child,A Growing Child
+A Growing Child,Растущее дитя
 A guard at Steampipe Steading filed a report on an odd flash of light across the canyon.,Стражник в Паровом Подворье подал рапорт о странной вспышке света на той стороне каньона.
 A hammer roughly forged from Brand crystal using techniques learned from Forge Master Hilina.,"Молот, грубо выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
 A hammer skillfully forged from Brand crystal using techniques learned from Forge Master Hilina.,"Молот, искусно выкованный из кристалла Клейма по приёмам, перенятым у мастера горна Хилины."
-A handcrafted ship within a surprisingly spotless bottle. Etched into the boat's side is a tribute to the Spirits of the Wild. A refugee in Hoelbrak might want this back.,"Корабль ручной работы в на удивление чистой бутылке. Сбоку на лодке выгравирована дань Духам Дикой природы. Один беженец в Хоэльбраке, возможно, хочет получить его обратно."
+A handcrafted ship within a surprisingly spotless bottle. Etched into the boat's side is a tribute to the Spirits of the Wild. A refugee in Hoelbrak might want this back.,"Корабль ручной работы в на удивление чистой бутылке. Сбоку на лодке выгравирована дань Духам Дикой природы. Один беженец в Hoelbrak, возможно, хочет получить его обратно."
 A hat to celebrate this new day in Tyria.,Шляпа в честь этого нового дня в Тирии.

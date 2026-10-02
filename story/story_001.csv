@@ -1,5 +1,5 @@
 english,translate
-"""The Blight"" is going down. Let's mop up the stragglers.","«The Blight» идет ко дну. Давайте добьем отставших."
+"""The Blight"" is going down. Let's mop up the stragglers.",«The Blight» идет ко дну. Давайте добьем отставших.
 """The Mouth of Shaemoor?"" But seriously, my sincere thanks for all of your help.","«Болтун из Shaemoor»? Но если серьёзно, прими мою искреннюю благодарность за всю твою помощь."
 """To bleed out, freeze to death, or be eaten by a wild predator. Charming.","«Истечь кровью, замерзнуть насмерть или быть съеденным диким зверем. Прелестно."
 """Yes"", ""surprised"", and ""laugh"". Could there be a motion sensor on the gate?","«Yes», «surprised» и «laugh». Может, на воротах есть датчик движения?"
@@ -35,11 +35,11 @@ english,translate
 1. Deeply Tangled Roots,1. Глубоко переплетённые корни
 1. Defending Shaemoor,1. Защита Shaemoor
 1. Defusing the Problem,1. Разрешение проблемы
-1. Desperate Medicine,1. Desperate Medicine
+1. Desperate Medicine,1. Отчаянная медицина
 1. Disciples of the Dragon,1. Ученики Дракона
 1. Discovering Darkness,1. Обнаружение тьмы
 1. Echoes of Ages Past,1. Эхо минувших эпох
-1. Explosive Intellect,1. Explosive Intellect
+1. Explosive Intellect,1. Взрывной интеллект
 1. Fighting the Nightmare,1. Борьба с Кошмаром
 1. Fury of the Dead,1. Ярость мёртвых
 1. Gadd's Last Gizmo,1. Последняя штуковина Gadd
@@ -67,7 +67,7 @@ english,translate
 1. Operation: Bulwark,1. Операция: Оплот
 1. Out of the Skies,1. С небес
 1. Piece Negotiations,1. Переговоры о частях
-1. Political Homicide,1. Political Homicide
+1. Political Homicide,1. Политическое убийство
 1. Quick and Quiet,1. Быстро и тихо
 1. Rage Suppression,1. Подавление ярости
 1. Rage of the Minotaurs,1. Ярость минотавров
@@ -82,7 +82,7 @@ english,translate
 1. Stand By Your Krewe,1. Оставайся со своей командой
 1. Taking Credit Back,1. Возврат долгов
 1. Test Your Metal,1. Испытай свою сталь
-1. The Apothecary,1. The Apothecary
+1. The Apothecary,1. Аптека
 1. The Commander,1. Коммандир
 1. The End of the Line,1. Конец пути
 1. The Flame Advances,1. Наступление Пламени
@@ -90,7 +90,7 @@ english,translate
 1. The Greater Good,1. Общее благо
 1. The Heart of Nightmare,1. Сердце Кошмара
 1. The Hospital in Jeopardy,1. Больница в опасности
-1. The Informant,1. The Informant
+1. The Informant,1. Информатор
 1. The Knight's Duel,1. Дуэль рыцаря
 1. The Rescue,1. Спасение
 1. The Snaff Prize,1. Приз Snaff
@@ -121,7 +121,7 @@ english,translate
 2. Bad Business,2. Плохие дела
 2. Bad Forecast,2. Плохой прогноз
 2. Beneath the Waves,2. Под волнами
-2. Beta Test,2. Beta Test
+2. Beta Test,2. Бета-тест
 2. Carry a Big Stick,2. Носи с собой дубину побольше
 2. Clown College,2. Колледж клоунов
 2. Darkness at Drakentelt,2. Тьма в Drakentelt
@@ -129,13 +129,13 @@ english,translate
 2. Don't Leave Your Toys Out,2. Не оставляй свои игрушки без присмотра
 2. Drawing Out the Cult,2. Выманивание культа
 2. Eye of the Sun,2. Око Солнца
-2. First Attack,2. First Attack
+2. First Attack,2. Первая атака
 2. Flash Flood,2. Внезапный паводок
 2. Follow the Trail,2. Иди по следу
 2. Free Rein,2. Полная свобода
 2. I Smell a Rat,2. Я чую крысу
 2. In the Ruins,2. В руинах
-2. Industrial Espionage,2. Industrial Espionage
+2. Industrial Espionage,2. Промышленный шпионаж
 2. Into the Woods,2. В лесу
 2. Liberation,2. Освобождение
 2. Magnum Opus,2. Великое творение
@@ -160,7 +160,7 @@ english,translate
 2. Sins of the Father,2. Грехи отца
 2. Snuffing Out Embers,2. Подавление углей
 2. Source of the Issue,2. Источник проблемы
-2. Split Second,2. Split Second
+2. Split Second,2. Доля секунды
 2. Stoking the Flame,2. Раздувая пламя
 2. The Artist's Workshop,2. Мастерская художника
 2. The Championship Fight,2. Чемпионский бой
@@ -168,7 +168,7 @@ english,translate
 2. The Finishing Blow,2. Добивающий удар
 2. The Floating Grizwhirl,2. Плавающий Grizwhirl
 2. The Machine in Action,2. Машина в действии
-2. The Ringmaster,2. The Ringmaster
+2. The Ringmaster,2. Мастер арены
 2. The Semifinals,2. Полуфинал
 2. The Sting,2. Жало
 2. Thicker Than Water,2. Кровь гуще воды
@@ -202,7 +202,7 @@ english,translate
 3. Hazardous Environment,3. Опасная среда
 3. Kellach's Attack,3. Атака Kellach
 3. Lines of Communication,3. Каналы связи
-3. Mortus Virge,3. Mortus Virge
+3. Mortus Virge,3. Мортус Вирдж
 3. Protest Too Much,3. Протестуй громче
 3. Pry the Eye Open,3. Вскрыть Око
 3. Rakt and Ruin,3. Rakt и Ruin
@@ -221,7 +221,7 @@ english,translate
 3. The Queen's Justice,3. Правосудие Королевы
 3. The Trap,3. Ловушка
 3. Track the Seraph,3. Выследить Seraph
-3. Triskell Quay,3. Triskell Quay
+3. Triskell Quay,3. Причал Трискелл
 3. Triskell Quay (story),3. Triskell Quay (сюжет)
 3. Trouble at the Roots,3. Проблемы у корней
 3. Undead Detection,3. Обнаружение нежити
@@ -236,12 +236,12 @@ english,translate
 4. Don't Shoot the Messenger,4. Не стреляй в гонца
 4. Down the Hatch,4. Вниз по глотке
 4. Dredging up the Past,4. Раскапывая прошлое
-4. Killer Instinct,4. Killer Instinct
+4. Killer Instinct,4. Инстинкт убийцы
 4. Mightier than the Sword,4. Сильнее меча
-4. Minister's Defense,4. Minister's Defense
+4. Minister's Defense,4. Защита министра
 4. Quaestor's Siege,4. Осада квестора
 4. Setting the Stage,4. Подготовка сцены
-4. Stealing Secrets,4. Stealing Secrets
+4. Stealing Secrets,4. Кража секретов
 4. The Stone Sheath,4. Каменные ножны
 4. They Went Thataway,4. Они пошли туда
 4. Thrown Off Guard,4. Застигнутый врасплох
@@ -252,11 +252,11 @@ english,translate
 5. Convincing the Faithful,5. Убеждение верующих
 5. Doubt,5. Сомнение
 5. Enraged and Unashamed,5. Разъярённый и бесстыдный
-5. Evacuation,5. Evacuation
+5. Evacuation,5. Эвакуация
 5. Pastkeeper,5. Хранитель прошлого
 5. Pastkeeper (story),5. Хранитель прошлого (сюжет)
 5. Pets and Walls Make Stronger Kraals,5. Питомцы и стены делают загоны крепче
-5. Rat-Tastrophe,5. Rat-Tastrophe
+5. Rat-Tastrophe,5. Крысиная катастрофа
 5. Salvation Through Heresy,5. Спасение через ересь
 5. Set to Blow,5. Подготовка к взрыву
 5. The False God's Lair,5. Логово ложного бога
@@ -267,11 +267,11 @@ english,translate
 5. Untamed Wilds,5. Неукротимые дикие земли
 6. A Light in the Darkness,6. Свет во тьме
 6. Critical Blowback,6. Критический откат
-6. Defense Contract,6. Defense Contract
+6. Defense Contract,6. Оборонный контракт
 6. Early Parole,6. Досрочное освобождение
 6. Forearmed Is Forewarned (Personal Story),6. Предупреждён — значит вооружён (Личная история)
 6. Killing Fields,6. Поля смерти
-6. Magic Sucks,6. Magic Sucks
+6. Magic Sucks,6. Магия — отстой
 6. On Red Alert,6. В состоянии повышенной готовности
 6. Reconnaissance,6. Разведка
 6. Retribution,6. Возмездие

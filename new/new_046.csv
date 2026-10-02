@@ -38,13 +38,13 @@ Chew on this!,Погрызи-ка вот это!
 Chicken Cage,Куриная клетка
 Chicken Weapon,Куриное оружие
 Chicken! (bok bok bok),Курица! (ко-ко-ко)
-Chief Hazim,Chief Hazim
-Chief Officer Shashoo,Chief Officer Shashoo
+Chief Hazim,Вождь Хазим
+Chief Officer Shashoo,Старший офицер Шашу
 Chief Officer Shashoo (6),Старший офицер Шашу (6)
 Chief Timblin can fix anything. Those cannons will fire if called upon.,"Начальник Тимблин может починить что угодно. Эти пушки выстрелят, если понадобится."
 "Chief Timblin! By the Spirits, you are a sight for weary eyes!","Начальник Тимблин! Клянусь Духами, как же приятно тебя видеть!"
 "Chief Timblin, I'm interested in your Mordrem detectors.","Начальник Тимблин, меня интересуют твои детекторы мордремов."
-Chief Xoctic,Chief Xoctic
+Chief Xoctic,Вождь Ксоктик
 Chief needs more of those toxin globs or blobs or whatever they are. You get them from the oozes.,"Вождю нужно ещё этих сгустков или комков токсина, или как их там. Их берут со слизней."
 "Chief takes counsel from certain skritt. Talk to Brewmaster Chug'iggik, Roc'loaka the Tinkerer, and Admiral Lokn'loada—they will convince chief that Packet is good thing.","Вождь слушает совета от некоторых скриттов. Поговори с Мастером-пивоваром Чуг’иггиком, Рок’лоакой Мастеровым и адмиралом Локн’лоада — они убедят вождя, что Пакет — хорошая вещь."
 Chief's Brood,Выводок вождя
@@ -72,7 +72,7 @@ Chills • Removes Conditions • Knocks Down,Заморозка • Снима�
 Chills • Removes Conditions • Pulls Foes,Заморозка • Снимает состояния • Притягивает врагов
 Chilly Tarn,Студёное озерцо
 Chin up!,Выше нос!
-Chin-Hwa,Chin-Hwa
+Chin-Hwa,Чин-Хва
 Chittukk,Читтукк
 Chloe Milse,Хлоя Милсе
 Choke on this!,Подавись этим!
@@ -121,8 +121,8 @@ Circuit,Цепь
 Cirl Stormglade,Кирл Штормовая Поляна
 Cirrus,Циррус
 Cistern,Цистерна
-Citizens in Echovald and the Jade Sea are reporting various disturbances following the incident at the Yong Reactor.,Жители Эховальда и Нефритового моря сообщают о разных возмущениях после происшествия на Yong Reactor.
-Ciucoatl,Ciucoatl
+Citizens in Echovald and the Jade Sea are reporting various disturbances following the incident at the Yong Reactor.,Жители Echovald и Нефритового моря сообщают о разных возмущениях после происшествия на Yong Reactor.
+Ciucoatl,Циукоатль
 Civilian Outreach Specialist,Специалист по работе с населением
 "Civilians are told only that traveling in a new land can be dangerous, and they must be prepared for anything. They've been ordered to stay close to the caravan and not wander off by themselves.","Мирным жителям говорят лишь, что путь по новой земле может быть опасен и что надо быть готовыми ко всему. Им велено держаться поближе к каравану и не отходить в одиночку."
 Claim what is yours.,"Возьми то, что принадлежит тебе."
@@ -179,7 +179,7 @@ Clear!,Чисто!
 Cleared for approach.,Разрешено на подход.
 Clears Conditions from Allies,Снимает состояния с союзников
 Cleaves • Teleports,Рассекает • Телепортируется
-Clement Forktail,Clement Forktail
+Clement Forktail,Клемент Вилохвост
 Cleric,Клирик
 Cliff Face,Отвесная скала
 Cliffside Memorial Bell,Поминальный колокол на утёсе
@@ -193,7 +193,7 @@ Clinn Toliver,Клинн Толивер
 Clio's Journal,Дневник Клио
 Cloak of Cuteness,Плащ Милоты
 Cloaking Tech: Active,Маскировочная техника: включена
-Clock Tower,Clock Tower
+Clock Tower,Часовая башня
 Clock Tower captured!,Clock Tower захвачена!
 Close all emergency force fields. Defense prog...zzzzzt...rupted. Subject escape will...zzzzzt...not be tolerated. Commencing destruction of remaining research.,Закрыть все аварийные силовые поля. Программа обо...з-з-з-зт...рвана. Побег объекта...з-з-з-зт...недопустим. Начинаю уничтожение оставшихся исследований.
 Close call.,Едва пронесло.
@@ -230,7 +230,7 @@ Coconut Crate,Ящик кокосов
 Coda,Кода
 Cody,Коди
 Cogl,Когл
-Cohen,Cohen
+Cohen,Коэн
 Cold Echo,Холодное эхо
 Cold Hum,Холодный гул
 Cold bites to the bones!,Холод пробирает до костей!
@@ -253,7 +253,7 @@ Collect Vial of Water,Набрать флакон воды
 Collect Vine,Собрать лозу
 Collect and consume %num2% powerful items from salvaging ascended gear.,"Соберите и поглотите %num2% мощных предметов, полученных при разборе вознесённого снаряжения."
 Collect berries,Собрать ягоды
-Collect chak mucus for Gorrik.,Соберите слизь чаков для Горрика.
+Collect chak mucus for Gorrik.,Соберите слизь чаков для Gorrik.
 Collect dolyak meat for Gareth.,Соберите мясо дольяка для Гарета.
 Collect extra mushrooms for: %str1%,Соберите ещё грибов за: %str1%
 Collect golem parts for Larra.,Соберите детали големов для Ларры.
@@ -326,17 +326,17 @@ Come to fight?,Пришёл драться?
 Come to me. Let me show you the way.,Иди ко мне. Дай указать тебе путь.
 "Come to test your gut in a game of Belcher's Bluff? <c=@warning>Remember, food and rejuvenation booster buffs will be removed when the game begins.</c>",Пришёл испытать своё нутро в игре «Belcher's Bluff»? <c=@warning>Помни: с началом игры бонусы от еды и восстанавливающих усилителей будут сняты.</c>
 Come to the fore<br>O sons of Ascalon<br>We fight once more<br>the battle lines are drawn,Выходите вперёд<br>О сыны Аскалона<br>Мы снова бьёмся<br>боевые порядки построены
-Come to your senses. Help us stop the slaughter. Help us stop Joko.,Опомнись. Помоги нам остановить бойню. Помоги нам остановить Джоко.
+Come to your senses. Help us stop the slaughter. Help us stop Joko.,Опомнись. Помоги нам остановить бойню. Помоги нам остановить Joko.
 Come! Wipe them out!,Вперёд! Сотрите их в порошок!
 "Come, let me make you some tea. You'll feel better.","Идём, я заварю тебе чаю. Станет легче."
 "Come, we should leave. Ultimately, this mission was a failure.","Идём, нам пора уходить. В конечном счёте это задание провалено."
 "Come, ye fools!","Идите сюда, глупцы!"
 Comfortable Spot,Уютное местечко
 "Comforting, isn't it.","Утешительно, не правда ли."
-"Coming from Isgarren, that sounds like enthusiastic approval.",От Исгаррена это звучит как восторженное одобрение.
+"Coming from Isgarren, that sounds like enthusiastic approval.",От Isgarren это звучит как восторженное одобрение.
 Command Protocol,Командный протокол
 "Command your chaos aura to expand and explode, granting yourself boons as you inflict conditions on enemies.","Прикажите своей ауре хаоса расшириться и взорваться, давая вам боны и накладывая состояния на врагов."
 Command your turtle to fire a long-range mortar shot that removes shields from void creatures and Jade Brotherhood mechs.,"Прикажите своей черепахе дать дальний мортирный залп, снимающий щиты с существ Пустоты и мехов Jade Brotherhood."
-Commander Fionia,Commander Fionia
+Commander Fionia,Командир Фиония
 Commander Ian Shaw<br><br>A braver soldier was never known<br>Such an accepting heart will never be seen again,Командир Иэн Шоу<br><br>Более храброго солдата свет не видывал<br>Такого всё принимающего сердца больше не встретить
-Commander Lakkun,Commander Lakkun
+Commander Lakkun,Командир Лаккун

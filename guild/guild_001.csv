@@ -1,9 +1,9 @@
 english,translate
-A magnificent depiction of the Spirit of Raven.,A magnificent depiction of the Spirit of Raven.
-A simple commemoration of a momentous event.,A simple commemoration of a momentous event.
-A simple remembrance of a fallen comrade.,A simple remembrance of a fallen comrade.
-A simple sign for directing passersby.,A simple sign for directing passersby.
-Access the Guild Initiative's central office in Lion's Arch.,Access the Guild Initiative's central office in Lion's Arch.
+A magnificent depiction of the Spirit of Raven.,Великолепное изображение Духа Ворона.
+A simple commemoration of a momentous event.,Простое напоминание о знаменательном событии.
+A simple remembrance of a fallen comrade.,Простое воспоминание о павшем товарище.
+A simple sign for directing passersby.,Простой знак для направления прохожих.
+Access the Guild Initiative's central office in Lion's Arch.,Получите доступ к центральному офису Гильдии в Lion's Arch.
 Add a cloth node to the workshop that randomly generates either jute or wool scraps when harvested.,"Добавить узел ткани в мастерскую, случайным образом генерирующий лоскуты джута или шерсти при сборе."
 "Add a free-for-all coordinator to the arena, allowing for teamless brawling.","Добавить координатора «все против всех» на арену, позволяющего бескомандные потасовки."
 "Add a green team coordinator to the arena, allowing for three-way team brawling.","Добавить координатора зелёной команды на арену, позволяющего трёхсторонние командные бои."
@@ -59,13 +59,13 @@ Adds a 20%% magic-find bonus to the boons applies by the guild's aura around cla
 Adds a 25%% movement speed bonus to the boons applied by the guild's aura around claimed objectives.,"Добавляет бонус к скорости передвижения в размере 25%% к благословениям, накладываемым аурой гильдии вокруг захваченных целей."
 Adds a merchant with harvesting and salvage tools to the guild's private locations.,Добавляет торговца с инструментами для сбора и разбора в частные локации гильдии.
 "Adds a repair anvil to the Guild Initiative Headquarters and the guild's hall, if they have one.","Добавляет наковальню для ремонта в штаб Гильдии и зал гильдии, если он есть."
-Aetherium Capacity 1,Aetherium Capacity 1
-Aetherium Capacity 2,Aetherium Capacity 2
-Aetherium Capacity 3,Aetherium Capacity 3
-Aetherium Capacity 4,Aetherium Capacity 4
-Aetherium Capacity 5,Aetherium Capacity 5
-Aetherium Capacity 6,Aetherium Capacity 6
-Airship Defense,Airship Defense
+Aetherium Capacity 1,Вместимость эфирия 1
+Aetherium Capacity 2,Вместимость эфирия 2
+Aetherium Capacity 3,Вместимость эфирия 3
+Aetherium Capacity 4,Вместимость эфирия 4
+Aetherium Capacity 5,Вместимость эфирия 5
+Aetherium Capacity 6,Вместимость эфирия 6
+Airship Defense,Оборона дирижабля
 Allow access to this proprietor's upgrades and set up a temporary structure in the guild hall while work begins on restoring your full tavern.,"Разрешить доступ к улучшениям этого владельца и установить временное сооружение в гильд-холле, пока не начнутся работы по восстановлению полной таверны."
 Allow decorators in the arena to place fans that cyclically activate and push combatants back with strong gusts of wind.,"Разрешить декораторам на арене размещать вентиляторы, которые циклически активируются и отбрасывают бойцов сильными порывами ветра."
 Allow decorators in the arena to place floor tiles that will kill players on contact.,"Разрешить декораторам на арене размещать напольные плиты, которые убивают игроков при контакте."
@@ -88,59 +88,59 @@ Allow decorators in the arena to place turrets that weaken nearby combatants.,"�
 "Allow guild members with the proper permissions to claim Stonemist Castle for the guild, allowing it to gain access to upgrades over time.","Разрешить членам гильдии с соответствующими разрешениями заявлять права на Замок Камнемрака для гильдии, позволяя ему получать доступ к улучшениям со временем."
 Allows guild members to create a permanent guild emblem design at the Guild Registrar for use on banners and other displays.,Позволяет членам гильдии создать постоянный дизайн инсигнии гильдии у Регистратора гильдии для использования на знамёнах и других дисплеях.
 Allows your guild to build consumables that can be used to activate various world events.,Позволяет гильдии создавать расходные материалы для активации различных мировых событий.
-Arena Brawling: Free-for-All Fighters,Arena Brawling: Free-for-All Fighters
-Arena Brawling: Green Team,Arena Brawling: Green Team
-Arena Brawling: Invulnerable Fighters,Arena Brawling: Invulnerable Fighters
-Arena Restoration 1,Arena Restoration 1
-Arena Restoration 2,Arena Restoration 2
-Arena Ring-Out Barrier,Arena Ring-Out Barrier
-Armored Dolyaks,Armored Dolyaks
-Arrow Cart Siege,Arrow Cart Siege
-Auto Turrets,Auto Turrets
-Ballista Siege,Ballista Siege
-Begin restoring your war room.,Begin restoring your war room.
-Begin restoring your workshop.,Begin restoring your workshop.
-Branded Devourer Monument,Branded Devourer Monument
-Brawling Obstacle: Chill Turrets,Brawling Obstacle: Chill Turrets
-Brawling Obstacle: Cripple Turrets,Brawling Obstacle: Cripple Turrets
-Brawling Obstacle: Fan Traps,Brawling Obstacle: Fan Traps
-Brawling Obstacle: Fear Turrets,Brawling Obstacle: Fear Turrets
-Brawling Obstacle: Flame Turrets,Brawling Obstacle: Flame Turrets
-Brawling Obstacle: Heal Turrets,Brawling Obstacle: Heal Turrets
-Brawling Obstacle: Knockback Turrets,Brawling Obstacle: Knockback Turrets
-Brawling Obstacle: Lava Floors,Brawling Obstacle: Lava Floors
-Brawling Obstacle: Poison Turrets,Brawling Obstacle: Poison Turrets
-Brawling Obstacle: Purple Torches,Brawling Obstacle: Purple Torches
-Brawling Obstacle: Strike Turrets,Brawling Obstacle: Strike Turrets
-Brawling Obstacle: Team-Color Torches,Brawling Obstacle: Team-Color Torches
-Brawling Obstacle: Vortex Traps,Brawling Obstacle: Vortex Traps
-Brawling Obstacle: Walls,Brawling Obstacle: Walls
-Brawling Obstacle: Weakness Turrets,Brawling Obstacle: Weakness Turrets
-Brawling Obstacle: White Torches,Brawling Obstacle: White Torches
-Cairn the Indomitable Shard,Cairn the Indomitable Shard
-Cannon Siege,Cannon Siege
-Canthan Garden Wall,Canthan Garden Wall
-Catapult Siege,Catapult Siege
-Centaur Banner,Centaur Banner
-Charr Heliplatform,Charr Heliplatform
-Charr Scrap Cannon,Charr Scrap Cannon
+Arena Brawling: Free-for-All Fighters,Арена: Бойцы «каждый сам за себя»
+Arena Brawling: Green Team,Арена: Зелёная команда
+Arena Brawling: Invulnerable Fighters,Арена: Неуязвимые бойцы
+Arena Restoration 1,Восстановление арены 1
+Arena Restoration 2,Восстановление арены 2
+Arena Ring-Out Barrier,Барьер вылета с арены
+Armored Dolyaks,Бронированные дольяки
+Arrow Cart Siege,Осадный стреломет
+Auto Turrets,Автотурели
+Ballista Siege,Осадная баллиста
+Begin restoring your war room.,Начать восстановление военной комнаты.
+Begin restoring your workshop.,Начать восстановление мастерской.
+Branded Devourer Monument,Монумент клеймёного пожирателя
+Brawling Obstacle: Chill Turrets,Препятствие для драки: турели холода
+Brawling Obstacle: Cripple Turrets,Препятствие для драки: турели калечения
+Brawling Obstacle: Fan Traps,Препятствие для драки: веерные ловушки
+Brawling Obstacle: Fear Turrets,Препятствие для драки: Турели страха
+Brawling Obstacle: Flame Turrets,Препятствие для драки: Огненные турели
+Brawling Obstacle: Heal Turrets,Препятствие для драки: Лечащие турели
+Brawling Obstacle: Knockback Turrets,Препятствие для драки: Турели отталкивания
+Brawling Obstacle: Lava Floors,Препятствие для драки: Лавовые полы
+Brawling Obstacle: Poison Turrets,Препятствие для драки: Ядовитые турели
+Brawling Obstacle: Purple Torches,Препятствие для драки: Фиолетовые факелы
+Brawling Obstacle: Strike Turrets,Препятствие для драки: Атакующие турели
+Brawling Obstacle: Team-Color Torches,Препятствие для драки: Факелы цвета команды
+Brawling Obstacle: Vortex Traps,Препятствие для драки: Ловушки-воронки
+Brawling Obstacle: Walls,Препятствие для драки: Стены
+Brawling Obstacle: Weakness Turrets,Препятствие для драки: Турели слабости
+Brawling Obstacle: White Torches,Препятствие для драки: Белые факелы
+Cairn the Indomitable Shard,Осколок Неукротимого Кайрна
+Cannon Siege,Осадная пушка
+Canthan Garden Wall,Кантанская садовая стена
+Catapult Siege,Осадная катапульта
+Centaur Banner,Знамя кентавра
+Charr Heliplatform,Вертолетная площадка чарров
+Charr Scrap Cannon,Пушка для лома чаров
 Charr Tank,Танк чарров
-Cloaking Waters,Cloaking Waters
-Cloth Synthesizer 1,Cloth Synthesizer 1
-Cloth Synthesizer 2,Cloth Synthesizer 2
-Cloth Synthesizer 3,Cloth Synthesizer 3
-Cloth Synthesizer 4,Cloth Synthesizer 4
-Cloth Synthesizer 5,Cloth Synthesizer 5
+Cloaking Waters,Маскирующие воды
+Cloth Synthesizer 1,Тканевый синтезатор 1
+Cloth Synthesizer 2,Тканевый синтезатор 2
+Cloth Synthesizer 3,Тканевый синтезатор 3
+Cloth Synthesizer 4,Синтезатор ткани 4
+Cloth Synthesizer 5,Синтезатор ткани 5
 Complete the restoration of your arena and enable battling between red and blue team fighters.,Завершите восстановление вашей арены и включите сражения между бойцами красной и синей команд.
-Complete the restoration of your market.,Complete the restoration of your market.
-Complete the restoration of your tavern.,Complete the restoration of your tavern.
-Complete the restoration of your war room.,Complete the restoration of your war room.
-Complete the restoration of your workshop.,Complete the restoration of your workshop.
-Comprehensive Disciplines Research Commemorative Statue,Comprehensive Disciplines Research Commemorative Statue
-Conjured Amalgamate's Token,Conjured Amalgamate's Token
-Corrupted Eagle Shrine,Corrupted Eagle Shrine
-Corrupted Ox Shrine,Corrupted Ox Shrine
-Corrupted Wolverine Shrine,Corrupted Wolverine Shrine
+Complete the restoration of your market.,Завершите восстановление вашего рынка.
+Complete the restoration of your tavern.,Завершите восстановление вашей таверны.
+Complete the restoration of your war room.,Завершите восстановление вашей военной комнаты.
+Complete the restoration of your workshop.,Завершите восстановление вашей мастерской.
+Comprehensive Disciplines Research Commemorative Statue,Памятная статуя исследования всесторонних дисциплин
+Conjured Amalgamate's Token,Жетон призванного амальгамата
+Corrupted Eagle Shrine,Осквернённое святилище орла
+Corrupted Ox Shrine,Осквернённое святилище быка
+Corrupted Wolverine Shrine,Осквернённое святилище росомахи
 Craft schematics for manufacturing a remote access to the guild vault.,Создать чертежи для изготовления удалённого доступа к гильдейскому хранилищу.
 Craft schematics to manufacture a tier 1 improvement that increases the defenses of existing siege installations at your guild's claimed objective.,"Создайте чертежи для производства улучшения 1-го уровня, повышающего защиту существующих осадных установок на захваченной цели вашей гильдии."
 "Craft schematics to manufacture a tier 1 improvement that rigs the supply depot at your guild's claimed objective to explode if your objective is captured by enemies, destroying all of the supply there.","Создайте чертежи для производства улучшения 1-го уровня, которое минирует склад ресурсов на захваченной цели вашей гильдии, чтобы он взорвался при захвате цели врагами, уничтожая все ресурсы там."
@@ -174,31 +174,31 @@ Craft schematics to manufacture banners that offer allies a 5%% boost to gold ga
 Craft schematics to manufacture banners that offer allies swiftness for 20 seconds.,"Создайте схемы для изготовления знамён, дающих союзникам скорость на 20 секунд."
 Craft schematics to manufacture celebratory banquets that players can eat and drink from.,"Создайте схемы для изготовления праздничных банкетов, которыми игроки могут есть и пить."
 Craft schematics to manufacture guild banners that offer allies a 5%% boost to karma gain for 30 minutes.,"Создайте схемы для изготовления гильдейских знамён, дающих союзникам 5%% к получению кармы на 30 минут."
-Craft schematics to manufacture WvW arrowcarts.,Craft schematics to manufacture WvW arrowcarts.
-Craft schematics to manufacture WvW ballistae.,Craft schematics to manufacture WvW ballistae.
-Craft schematics to manufacture WvW catapults.,Craft schematics to manufacture WvW catapults.
-Craft schematics to manufacture WvW flame rams.,Craft schematics to manufacture WvW flame rams.
+Craft schematics to manufacture WvW arrowcarts.,Создать чертежи для изготовления стреломётов для WvW.
+Craft schematics to manufacture WvW ballistae.,Создайте чертежи для производства баллист в WvW.
+Craft schematics to manufacture WvW catapults.,Создайте чертежи для производства катапульт в WvW.
+Craft schematics to manufacture WvW flame rams.,Создайте чертежи для производства огненных таранов в WvW.
 Craft schematics to manufacture WvW shield generators that cost less supply to place.,"Создайте чертежи для производства генераторов щитов в WvW, которые требуют меньше ресурсов для установки."
-Craft schematics to manufacture WvW siege golems.,Craft schematics to manufacture WvW siege golems.
+Craft schematics to manufacture WvW siege golems.,Создайте чертежи для производства осадных големов в WvW.
 Craft schematics to manufacture WvW trebuchets that cost less supply to place.,"Создайте чертежи для производства требушетов в WvW, которые требуют меньше ресурсов для установки."
-Crafted by scribes.,Crafted by scribes.
-Crystal Prism,Crystal Prism
-Decima Shard,Decima Shard
-Decima's Token (Guild Decoration),Decima's Token (Guild Decoration)
-Deep Cave,Deep Cave
-Dhuum's Torch,Dhuum's Torch
-Dragon Banner,Dragon Banner
-Dune Roller,Dune Roller
+Crafted by scribes.,Создаётся писцами.
+Crystal Prism,Кристальная призма
+Decima Shard,Осколок Децимы
+Decima's Token (Guild Decoration),Жетон Децимы (гильдейское украшение)
+Deep Cave,Глубокая пещера
+Dhuum's Torch,Факел Дуума
+Dragon Banner,Знамя дракона
+Dune Roller,Дюнный каток
 Earned by completing the Eldvin Monastery Brew of the Month Club achievement.,Зарабатывается за завершение достижения «Eldvin Monastery Brew of the Month Club Эльдвин».
-Earned by completing the Spiritual Renewal achievement.,Earned by completing the Spiritual Renewal achievement.
-Earned by participating in skirmishes.,Earned by participating in skirmishes.
-"Earned through the episode ""Bound by Blood.""","Earned through the episode ""Bound by Blood."""
-"Earned through the episode ""No Quarter.""","Earned through the episode ""No Quarter."""
-"Earned through the episode ""Shadow in the Ice.""","Earned through the episode ""Shadow in the Ice."""
+Earned by completing the Spiritual Renewal achievement.,Зарабатывается за завершение достижения «Spiritual Renewal».
+Earned by participating in skirmishes.,Зарабатывается за участие в стычках.
+"Earned through the episode ""Bound by Blood.""",Заработано через эпизод «Связанные кровью».
+"Earned through the episode ""No Quarter.""",Заработано через эпизод «Никакой пощады».
+"Earned through the episode ""Shadow in the Ice.""",Заработано через эпизод «Shadow in the Ice».
 "Earned through the Living World Icebrood Saga episode ""Champions.""",Заработано через эпизод «Чемпионы» Icebrood Saga Living World.
 "Earned through the Living World Icebrood Saga episode ""Jormag Rising.""",Заработано через эпизод «Jormag Rising» Icebrood Saga Living World.
 "Earned through the Living World: Icebrood Saga episode ""Champions.""",Заработано через эпизод «Чемпионы» Icebrood Saga: Living World.
-Earned through the Old Lion's Court raid encounter.,Earned through the Old Lion's Court raid encounter.
+Earned through the Old Lion's Court raid encounter.,Заработано через рейдовую встречу «Старый львиный двор».
 Earned when the PvP season ends and your guild team's placement is 1st on the Guild Challenger League leaderboard.,"Зарабатывается, когда сезон PvP заканчивается и позиция вашей гильдейской команды — 1-е место в таблице лиги гильдейских претендентов."
 Earned when the PvP season ends and your guild team's placement is between 101st and 250th on the Guild Challenger League leaderboard.,"Зарабатывается, когда сезон PvP заканчивается и позиция вашей гильдейской команды — от 101-го до 250-го места в таблице лиги гильдейских претендентов."
 Earned when the PvP season ends and your guild team's placement is between 26th and 100th on the Guild Challenger League leaderboard.,"Зарабатывается, когда сезон PvP заканчивается и позиция вашей гильдейской команды — от 26-го до 100-го места в таблице лиги гильдейских претендентов."
@@ -206,293 +206,293 @@ Earned when the PvP season ends and your guild team's placement is between 2nd a
 Emergency Waypoint,Аварийная путевая точка
 Establish a temporary marketplace in your guild hall while construction begins on the foundation of the full plaza.,"Создать временный рынок в зале гильдии, пока идёт строительство фундамента полной площади."
 Excavate the beginnings of a mine for your guild hall and begin mining aetherium out of the stone.,Начните раскопки шахты для вашего гильдейского зала и добудьте астериум из камня.
-Exchanged for a Mordremoth's Bane Guild Decoration token.,Exchanged for a Mordremoth's Bane Guild Decoration token.
-Expand the inventory of the guild miniature merchant.,Expand the inventory of the guild miniature merchant.
+Exchanged for a Mordremoth's Bane Guild Decoration token.,Обменяно на жетон украшения гильдии «Погибель Мордремота».
+Expand the inventory of the guild miniature merchant.,Расширьте ассортимент торговца миниатюрами гильдии.
 Expand the inventory of the guild trader to include guild hall decorations and related items.,"Расширьте ассортимент торговца гильдии, включив в него украшения зала гильдии и связанные предметы."
 Expand the trader's inventory to include random crafting-related items.,"Расширьте ассортимент торговца, включив в него случайные предметы, связанные с ремеслом."
-Expand your guild's mine.,Expand your guild's mine.
-Expedition to the Gilded Hollow,Expedition to the Gilded Hollow
-Expedition to the Isle of Reflection,Expedition to the Isle of Reflection
-Expedition to the Lost Precipice,Expedition to the Lost Precipice
-Expedition to Windswept Haven,Expedition to Windswept Haven
-Fancy Desert Sofa,Fancy Desert Sofa
-Flame Ram Siege,Flame Ram Siege
-Frost Legion Machine,Frost Legion Machine
-Further Exploration,Further Exploration
+Expand your guild's mine.,Расширьте шахту вашей гильдии.
+Expedition to the Gilded Hollow,Экспедиция в Позолоченную Лощину
+Expedition to the Isle of Reflection,Экспедиция на Остров Размышлений
+Expedition to the Lost Precipice,Экспедиция на Потерянный Утёс
+Expedition to Windswept Haven,Экспедиция в Убежище Ветров
+Fancy Desert Sofa,Шикарный пустынный диван
+Flame Ram Siege,Осада пламенного тарана
+Frost Legion Machine,Машина Ледяного Легиона
+Further Exploration,Дальнейшее исследование
 Gain access to a 100-slot guild vault.,Получите доступ к гильдейскому хранилищу на 100 слотов.
-General Merchant,General Merchant
-Gift Levitator,Gift Levitator
-Gilded Banner,Gilded Banner
-Golem Siege,Golem Siege
+General Merchant,Торговец
+Gift Levitator,Левитатор подарков
+Gilded Banner,Позолоченное знамя
+Golem Siege,Осадный голем
 Gourmet Feast: Double-click to serve Mint-Pear Cured Meat Flatbreads to anyone nearby. Feast stays active for 5 minutes.,"Гурманский пир: Дважды щёлкните, чтобы подать лепёшки с мятно-грушевой вяленой мясной начинкой всем рядом. Пир активен в течение 5 минут."
-Grants access to a 50-slot guild vault and gold storage.,Grants access to a 50-slot guild vault and gold storage.
-Greer's Token (Guild Decoration),Greer's Token (Guild Decoration)
-Guild Anthems,Guild Anthems
-Guild Armorer 1,Guild Armorer 1
-Guild Armorer 2,Guild Armorer 2
-Guild Arrow Cart Siege,Guild Arrow Cart Siege
-Guild Ballista Siege,Guild Ballista Siege
-Guild Catapult Siege,Guild Catapult Siege
-Guild Emblem Template,Guild Emblem Template
-Guild Enhancement: Critical Crafting,Guild Enhancement: Critical Crafting
-Guild Enhancement: Critical Harvesting,Guild Enhancement: Critical Harvesting
-Guild Enhancement: Experience,Guild Enhancement: Experience
-Guild Enhancement: Karma,Guild Enhancement: Karma
-Guild Enhancement: Magic Find,Guild Enhancement: Magic Find
-Guild Enhancement: Map Bonus,Guild Enhancement: Map Bonus
-Guild Enhancement: PvP Reward Boost,Guild Enhancement: PvP Reward Boost
-Guild Enhancement: World Experience,Guild Enhancement: World Experience
-Guild Enhancement: World Reward Tracks,Guild Enhancement: World Reward Tracks
-Guild Hall Decorations Merchant 1,Guild Hall Decorations Merchant 1
-Guild Hall Decorations Merchant 2,Guild Hall Decorations Merchant 2
-Guild Hall Decorations Merchant 3,Guild Hall Decorations Merchant 3
-Guild Hall Monument Decorations,Guild Hall Monument Decorations
-Guild Hall Music: City Themes,Guild Hall Music: City Themes
+Grants access to a 50-slot guild vault and gold storage.,Даёт доступ к гильдейскому хранилищу на 50 ячеек и хранилищу золота.
+Greer's Token (Guild Decoration),Жетон Грира (украшение гильдии)
+Guild Anthems,Гимны гильдии
+Guild Armorer 1,Бронник гильдии 1
+Guild Armorer 2,Бронник гильдии 2
+Guild Arrow Cart Siege,Осадная стреломётная телега гильдии
+Guild Ballista Siege,Осадный баллиста гильдии
+Guild Catapult Siege,Гильдейская катапульта
+Guild Emblem Template,Шаблон инсигнии гильдии
+Guild Enhancement: Critical Crafting,Гильдейское улучшение: Критическое ремесло
+Guild Enhancement: Critical Harvesting,Гильдейское улучшение: Критический сбор
+Guild Enhancement: Experience,Гильдейское улучшение: Опыт
+Guild Enhancement: Karma,Гильдейское улучшение: Карма
+Guild Enhancement: Magic Find,Гильдейское улучшение: Поиск магии
+Guild Enhancement: Map Bonus,Улучшение гильдии: Бонус на карте
+Guild Enhancement: PvP Reward Boost,Улучшение гильдии: Усиление наград PvP
+Guild Enhancement: World Experience,Улучшение гильдии: Опыт в мире
+Guild Enhancement: World Reward Tracks,Улучшение гильдии: Мировые треки наград
+Guild Hall Decorations Merchant 1,Торговец украшениями зала гильдии 1
+Guild Hall Decorations Merchant 2,Торговец украшениями зала гильдии 2
+Guild Hall Decorations Merchant 3,Торговец украшениями зала гильдии 3
+Guild Hall Monument Decorations,Украшения монумента зала гильдии
+Guild Hall Music: City Themes,Музыка зала гильдии: Городские темы
 Guild Hall Music: Super Adventure Box,Музыка для гильдейского зала: Super Adventure Box
-Guild Hall Obtained,Guild Hall Obtained
+Guild Hall Obtained,Получено залом гильдии
 Guild Hall Swiftness +11%,Скорость в гильдейском зале +11%
 Guild Hall Swiftness +22%,Ускорение в зале гильдии +22%
 Guild Hall Swiftness +33%,Скорость гильдейского зала +33%
-Guild Initiative Registration,Guild Initiative Registration
+Guild Initiative Registration,Регистрация инициативы гильдии
 Guild members may now purchase 2 items from the guild trader per day.,Члены гильдии теперь могут покупать 2 предмета у торговца гильдии в день.
 Guild members may now purchase 3 items from the guild trader per day.,Члены гильдии теперь могут покупать 3 предмета у торговца гильдии в день.
-Guild Miniature Merchant 1,Guild Miniature Merchant 1
-Guild Miniature Merchant 2,Guild Miniature Merchant 2
-Guild Miniature Merchant 3,Guild Miniature Merchant 3
-Guild Portal,Guild Portal
-Guild Shield Generator Siege,Guild Shield Generator Siege
-Guild Trader 1,Guild Trader 1
-Guild Trader 2,Guild Trader 2
-Guild Trader 3,Guild Trader 3
-Guild Trader 4,Guild Trader 4
-Guild Trader 5,Guild Trader 5
-Guild Treasure Trove,Guild Treasure Trove
-Guild Trebuchet Siege,Guild Trebuchet Siege
-Guild Vault: Stash,Guild Vault: Stash
+Guild Miniature Merchant 1,Гильдейский торговец миниатюрами 1
+Guild Miniature Merchant 2,Гильдейский торговец миниатюрами 2
+Guild Miniature Merchant 3,Гильдейский торговец миниатюрами 3
+Guild Portal,Гильдейский портал
+Guild Shield Generator Siege,Гильдейский осадный генератор щита
+Guild Trader 1,Торговец гильдии 1
+Guild Trader 2,Торговец гильдии 2
+Guild Trader 3,Торговец гильдии 3
+Guild Trader 4,Торговец гильдии 4
+Guild Trader 5,Торговец гильдии 5
+Guild Treasure Trove,Сокровищница гильдии
+Guild Trebuchet Siege,Требушет гильдии
+Guild Vault: Stash,Сейф гильдии: Тайник
 Guild Waypoint 10% Discount,Гильдейский маяк: скидка 10%
 Guild Waypoint 15% Discount,Скидка 15% на путевую точку гильдии
 Guild Waypoint 5% Discount,Скидка 5% на путевую точку гильдии
-Guild Weaponsmith 1,Guild Weaponsmith 1
-Guild Weaponsmith 2,Guild Weaponsmith 2
-Hardened Gates,Hardened Gates
-Hardened Siege,Hardened Siege
-Holographic Track Large Curved Ramp,Holographic Track Large Curved Ramp
-Horse Statue,Horse Statue
-Ice Sheet,Ice Sheet
-Increase storage capacity for aetherium.,Increase storage capacity for aetherium.
+Guild Weaponsmith 1,Оружейник гильдии 1
+Guild Weaponsmith 2,Оружейник гильдии 2
+Hardened Gates,Закалённые врата
+Hardened Siege,Закалённая осада
+Holographic Track Large Curved Ramp,Большая изогнутая голографическая трасса
+Horse Statue,Статуя Лошади
+Ice Sheet,Ледяной покров
+Increase storage capacity for aetherium.,Увеличивает вместимость хранилища эфирия.
 "Increase the efficiency of the guild's ore and lumber synthesizers, increasing daily harvesting opportunities to 4 each.","Повышает эффективность синтезаторов руды и древесины гильдии, увеличивая ежедневные возможности сбора до 4 каждого."
 "Increase the efficiency of the guild's synthesizers, increasing daily ore and lumber harvests to 10 each and plant, leather, and cloth harvests to 3 each.","Повышает эффективность синтезаторов гильдии, увеличивая ежедневный сбор руды и древесины до 10 каждого, а растений, кожи и ткани — до 3 каждого."
 "Increase the efficiency of the guild's synthesizers, increasing daily ore and lumber harvests to 6 each and plant, leather, and cloth harvests to 2 each.","Повышает эффективность синтезаторов гильдии, увеличивая ежедневный сбор руды и древесины до 6 каждого, а растений, кожи и ткани — до 2 каждого."
 "Increase the efficiency of the guild's synthesizers, increasing daily ore and lumber harvests to 8 each.","Повышает эффективность синтезаторов гильдии, увеличивая ежедневный сбор руды и древесины до 8 каждого."
 Increase the inventory of your guild hall decorations merchant.,Увеличивает ассортимент торговца украшениями в зале гильдии.
-Invulnerable Dolyaks,Invulnerable Dolyaks
-Iron Column 16 x 240 x 16,Iron Column 16 x 240 x 16
-Iron Column 30 x 240 x 30,Iron Column 30 x 240 x 30
-Iron Guards,Iron Guards
-Jackal Rental Post,Jackal Rental Post
-Leaping Lion Statue,Leaping Lion Statue
-Leather Synthesizer 1,Leather Synthesizer 1
-Leather Synthesizer 2,Leather Synthesizer 2
-Leather Synthesizer 3,Leather Synthesizer 3
-Leather Synthesizer 4,Leather Synthesizer 4
-Leather Synthesizer 5,Leather Synthesizer 5
-Lumber Synthesizer 1,Lumber Synthesizer 1
-Lumber Synthesizer 2,Lumber Synthesizer 2
-Lumber Synthesizer 3,Lumber Synthesizer 3
-Lumber Synthesizer 4,Lumber Synthesizer 4
-Lumber Synthesizer 5,Lumber Synthesizer 5
-Maddening Tower,Maddening Tower
-Majority Disciplines Research Commemorative Statue,Majority Disciplines Research Commemorative Statue
-Market Restoration 1,Market Restoration 1
-Market Restoration 2,Market Restoration 2
-Mine Excavation 1,Mine Excavation 1
-Mine Excavation 2,Mine Excavation 2
-Mine Excavation 3,Mine Excavation 3
-Mining Rate 1,Mining Rate 1
-Mining Rate 2,Mining Rate 2
-Mining Rate 3,Mining Rate 3
-Mining Rate 4,Mining Rate 4
-Mining Rate 5,Mining Rate 5
-Mining Rate 6,Mining Rate 6
-Minor Supply Drop,Minor Supply Drop
+Invulnerable Dolyaks,Неуязвимые дольяки
+Iron Column 16 x 240 x 16,Железная колонна 16 x 240 x 16
+Iron Column 30 x 240 x 30,Железная колонна 30 x 240 x 30
+Iron Guards,Железные стражи
+Jackal Rental Post,Стойка аренды шакалов
+Leaping Lion Statue,Статуя прыгающего льва
+Leather Synthesizer 1,Кожаный синтезатор 1
+Leather Synthesizer 2,Кожаный синтезатор 2
+Leather Synthesizer 3,Кожаный синтезатор 3
+Leather Synthesizer 4,Кожаный синтезатор 4
+Leather Synthesizer 5,Кожаный синтезатор 5
+Lumber Synthesizer 1,Синтезатор древесины 1
+Lumber Synthesizer 2,Синтезатор древесины 2
+Lumber Synthesizer 3,Синтезатор древесины 3
+Lumber Synthesizer 4,Синтезатор древесины 4
+Lumber Synthesizer 5,Синтезатор древесины 5
+Maddening Tower,Безумная башня
+Majority Disciplines Research Commemorative Statue,Памятная статуя исследований большинства дисциплин
+Market Restoration 1,Восстановление рынка 1
+Market Restoration 2,Восстановление рынка 2
+Mine Excavation 1,Раскопки шахты 1
+Mine Excavation 2,Раскопки шахты 2
+Mine Excavation 3,Раскопки шахты 3
+Mining Rate 1,Скорость добычи 1
+Mining Rate 2,Скорость добычи 2
+Mining Rate 3,Скорость добычи 3
+Mining Rate 4,Скорость добычи 4
+Mining Rate 5,Скорость добычи 5
+Mining Rate 6,Скорость добычи 6
+Minor Supply Drop,Малый сброс припасов
 Mission Slot: PvE,Слот задания: PvE
-Mission Slot: PvP,Mission Slot: PvP
-Mission Slot: WvW,Mission Slot: WvW
-Objective Aura 1: Supply Capacity,Objective Aura 1: Supply Capacity
-Objective Aura 2: WvW Experience,Objective Aura 2: WvW Experience
-Objective Aura 3: Movement Speed,Objective Aura 3: Movement Speed
-Objective Aura 4: Power,Objective Aura 4: Power
-Objective Aura 5: Precision,Objective Aura 5: Precision
-Objective Aura 6: Toughness,Objective Aura 6: Toughness
-Objective Aura 7: Vitality,Objective Aura 7: Vitality
-Objective Aura 8: Magic Find,Objective Aura 8: Magic Find
-Obstacle: Blue Torch,Obstacle: Blue Torch
-Obstacle: Chill Turret,Obstacle: Chill Turret
-Obstacle: Cripple Turret,Obstacle: Cripple Turret
-Obstacle: Fan Trap,Obstacle: Fan Trap
-Obstacle: Fear Turret,Obstacle: Fear Turret
-Obstacle: Flame Turret,Obstacle: Flame Turret
-Obstacle: Green Torch,Obstacle: Green Torch
-Obstacle: Heal Turret,Obstacle: Heal Turret
-Obstacle: Knockback Turret,Obstacle: Knockback Turret
-Obstacle: Lava Floor,Obstacle: Lava Floor
-Obstacle: Poison Turret,Obstacle: Poison Turret
-Obstacle: Purple Torch,Obstacle: Purple Torch
-Obstacle: Red Torch,Obstacle: Red Torch
-Obstacle: Strike Turret,Obstacle: Strike Turret
-Obstacle: Vortex Trap,Obstacle: Vortex Trap
-Obstacle: Wall,Obstacle: Wall
-Obstacle: Weakness Turret,Obstacle: Weakness Turret
-Obstacle: White Torch,Obstacle: White Torch
-Obstacle: Wide Lava Floor,Obstacle: Wide Lava Floor
-Obstacle: Wide Wall,Obstacle: Wide Wall
-Ominous Fortress Buttress,Ominous Fortress Buttress
-Ominous Fortress Ruins—Right,Ominous Fortress Ruins—Right
-Open paths to the unexplored reaches of your guild hall.,Open paths to the unexplored reaches of your guild hall.
-Ore Synthesizer 1,Ore Synthesizer 1
-Ore Synthesizer 2,Ore Synthesizer 2
-Ore Synthesizer 3,Ore Synthesizer 3
-Ore Synthesizer 4,Ore Synthesizer 4
-Ore Synthesizer 5,Ore Synthesizer 5
-Ore Synthesizer 6,Ore Synthesizer 6
-Owl Spirit Statue,Owl Spirit Statue
-Packed Dolyaks,Packed Dolyaks
-Partial Disciplines Research Commemorative Statue,Partial Disciplines Research Commemorative Statue
+Mission Slot: PvP,Слот миссии: PvP
+Mission Slot: WvW,Слот миссии: WvW
+Objective Aura 1: Supply Capacity,Аура цели 1: Вместимость припасов
+Objective Aura 2: WvW Experience,Аура цели 2: Опыт в WvW
+Objective Aura 3: Movement Speed,Аура цели 3: Скорость передвижения
+Objective Aura 4: Power,Аура цели 4: Сила
+Objective Aura 5: Precision,Аура цели 5: Точность
+Objective Aura 6: Toughness,Аура цели 6: Стойкость
+Objective Aura 7: Vitality,Аура цели 7: Живучесть
+Objective Aura 8: Magic Find,Аура цели 8: Поиск магии
+Obstacle: Blue Torch,Препятствие: Синий факел
+Obstacle: Chill Turret,Препятствие: Турель холода
+Obstacle: Cripple Turret,Препятствие: Турель калечения
+Obstacle: Fan Trap,Препятствие: Вентиляторная ловушка
+Obstacle: Fear Turret,Препятствие: Турель страха
+Obstacle: Flame Turret,Препятствие: Огненная турель
+Obstacle: Green Torch,Препятствие: Зелёный факел
+Obstacle: Heal Turret,Препятствие: Лечащая турель
+Obstacle: Knockback Turret,Препятствие: Отталкивающая турель
+Obstacle: Lava Floor,Препятствие: Лавовый пол
+Obstacle: Poison Turret,Препятствие: Ядовитая турель
+Obstacle: Purple Torch,Препятствие: Фиолетовый факел
+Obstacle: Red Torch,Препятствие: Красный факел
+Obstacle: Strike Turret,Препятствие: Атакующая турель
+Obstacle: Vortex Trap,Препятствие: Ловушка-воронка
+Obstacle: Wall,Препятствие: Стена
+Obstacle: Weakness Turret,Препятствие: Ослабляющая турель
+Obstacle: White Torch,Препятствие: Белый факел
+Obstacle: Wide Lava Floor,Препятствие: Широкий лавовый пол
+Obstacle: Wide Wall,Препятствие: Широкая стена
+Ominous Fortress Buttress,Контрфорс зловещей крепости
+Ominous Fortress Ruins—Right,Зловещие руины крепости — правая часть
+Open paths to the unexplored reaches of your guild hall.,Открыть пути к неизведанным уголкам вашего зала гильдии.
+Ore Synthesizer 1,Синтезатор руды 1
+Ore Synthesizer 2,Синтезатор руды 2
+Ore Synthesizer 3,Синтезатор руды 3
+Ore Synthesizer 4,Синтезатор руды 4
+Ore Synthesizer 5,Синтезатор руды 5
+Ore Synthesizer 6,Синтезатор руды 6
+Owl Spirit Statue,Статуя духа совы
+Packed Dolyaks,Нагруженные дольяки
+Partial Disciplines Research Commemorative Statue,Памятная статуя исследования частичных дисциплин
 Permanently increase the run speed of guild members while in this guild hall by 11%%.,Навсегда увеличивает скорость бега членов гильдии в этом зале гильдии на 11%%.
 Permanently increase the run speed of guild members while in this guild hall by 22%%.,Навсегда увеличивает скорость бега членов гильдии в этом зале гильдии на 22%%.
 Permanently increase the run speed of guild members while in this guild hall by 33%%.,Навсегда увеличивает скорость бега членов гильдии в этом зале гильдии на 33%%.
-Plain Red Lantern,Plain Red Lantern
-Plain White Lantern,Plain White Lantern
-Plant Synthesizers 1,Plant Synthesizers 1
-Plant Synthesizers 2,Plant Synthesizers 2
-Plant Synthesizers 3,Plant Synthesizers 3
-Presence of the Keep,Presence of the Keep
-Produce aetherium at a faster rate.,Produce aetherium at a faster rate.
-Purchased from the basic decoration vendor.,Purchased from the basic decoration vendor.
-Purchased from the commendation vendor.,Purchased from the commendation vendor.
+Plain Red Lantern,Простой красный фонарь
+Plain White Lantern,Простой белый фонарь
+Plant Synthesizers 1,Посадка синтезаторов 1
+Plant Synthesizers 2,Посадка синтезаторов 2
+Plant Synthesizers 3,Посадка синтезаторов 3
+Presence of the Keep,Присутствие крепости
+Produce aetherium at a faster rate.,Увеличить скорость производства эфириума.
+Purchased from the basic decoration vendor.,Куплено у торговца базовыми украшениями.
+Purchased from the commendation vendor.,Куплено у торговца за награды.
 Purchased from the crafting research vendor at New Kaineng City.,Куплено у торговца исследованиями ремесел в Новом Каиненге.
-Qadim Pylon,Qadim Pylon
-Raven Spirit Statue,Raven Spirit Statue
-Reaching Twisted Tree,Reaching Twisted Tree
-Rec Room Floor Tile,Rec Room Floor Tile
+Qadim Pylon,Пилон Кадима
+Raven Spirit Statue,Статуя духа ворона
+Reaching Twisted Tree,Изогнутое скрученное дерево
+Rec Room Floor Tile,Плитка пола комнаты отдыха
 Reduce the cost of using waypoints by 10%% for all guild members.,Снижает стоимость использования путевых точек на 10%% для всех членов гильдии.
 Reduce the cost of using waypoints by 15%% for all guild members.,Снижает стоимость использования путевых точек на 15%% для всех членов гильдии.
 Reduce the cost of using waypoints by 5%% for all guild members.,Снижает стоимость использования путевых точек на 5%% для всех членов гильдии.
-Repair Anvil,Repair Anvil
-Roller Beetle Rental Post,Roller Beetle Rental Post
-Sabotage Depot,Sabotage Depot
-Samarog's Door,Samarog's Door
-Scarred Ice Monolith,Scarred Ice Monolith
-Scarred Ice Sheet,Scarred Ice Sheet
-Schematic: Vault Transport,Schematic: Vault Transport
-Scribing: Airship Defense,Scribing: Airship Defense
-Scribing: Armored Dolyaks,Scribing: Armored Dolyaks
-Scribing: Arrow Cart,Scribing: Arrow Cart
-Scribing: Assault Roller,Scribing: Assault Roller
-Scribing: Ballista,Scribing: Ballista
-Scribing: Catapult,Scribing: Catapult
-Scribing: Centaur Banner,Scribing: Centaur Banner
-Scribing: Cloaking Waters,Scribing: Cloaking Waters
-Scribing: Dragon Banner,Scribing: Dragon Banner
-Scribing: Emergency Waypoint,Scribing: Emergency Waypoint
-Scribing: Flame Ram,Scribing: Flame Ram
-Scribing: Guild Banquet,Scribing: Guild Banquet
-Scribing: Guild Experience Banner,Scribing: Guild Experience Banner
-Scribing: Guild Gathering and Swiftness Banner,Scribing: Guild Gathering and Swiftness Banner
-Scribing: Guild Gathering Bonus Banner,Scribing: Guild Gathering Bonus Banner
+Repair Anvil,Наковальня для ремонта
+Roller Beetle Rental Post,Аренда жука-катуна
+Sabotage Depot,Склад саботажа
+Samarog's Door,Дверь Самарога
+Scarred Ice Monolith,Испещрённый шрамами ледяной монолит
+Scarred Ice Sheet,Изуродованный ледяной щит
+Schematic: Vault Transport,Схема: Транспорт хранилища
+Scribing: Airship Defense,Письмоводство: Оборона дирижабля
+Scribing: Armored Dolyaks,Письмоводство: Бронированные дольяки
+Scribing: Arrow Cart,Письмоводство: Стреломёт
+Scribing: Assault Roller,Письмоводство: Штурмовой каток
+Scribing: Ballista,Письмоводство: Баллиста
+Scribing: Catapult,Письмоводство: Катапульта
+Scribing: Centaur Banner,Письмоводство: Знамя кентавра
+Scribing: Cloaking Waters,Письмоводство: Маскирующие воды
+Scribing: Dragon Banner,Письмоводство: Знамя дракона
+Scribing: Emergency Waypoint,Письмоводство: Аварийный путь
+Scribing: Flame Ram,Письмоводство: Огненный таран
+Scribing: Guild Banquet,Письмоводство: Гильдейский банкет
+Scribing: Guild Experience Banner,Письмоводство: Знамя опыта гильдии
+Scribing: Guild Gathering and Swiftness Banner,Письмоводство: Знамя сбора и скорости гильдии
+Scribing: Guild Gathering Bonus Banner,Письмоводство: Знамя бонуса сбора гильдии
 Scribing: Guild Gold and Magic Find Banner,Создание: Золото гильдии и знамя поиска магии
 Scribing: Guild Gold from Kills Banner,Письменность: Гильдийское золото за убийства (баннер)
-Scribing: Guild Heroes Banner,Scribing: Guild Heroes Banner
+Scribing: Guild Heroes Banner,Письмоводство: Знамя гильдии «Герои»
 Scribing: Guild Karma and Experience Banner,Создание: Баннер Гильдейской кармы и опыта.
-Scribing: Guild Karma Banner,Scribing: Guild Karma Banner
-Scribing: Guild Magic Find Banner,Scribing: Guild Magic Find Banner
-Scribing: Guild Road Marker,Scribing: Guild Road Marker
-Scribing: Guild Shield Generator,Scribing: Guild Shield Generator
-Scribing: Guild Trebuchet,Scribing: Guild Trebuchet
-Scribing: Guild World Events,Scribing: Guild World Events
-Scribing: Hardened Gates,Scribing: Hardened Gates
-Scribing: Hardened Siege,Scribing: Hardened Siege
-Scribing: Healing Mist,Scribing: Healing Mist
-Scribing: Invincible Dolyak,Scribing: Invincible Dolyak
-Scribing: Invulnerable Fortifications,Scribing: Invulnerable Fortifications
-Scribing: Iron Guards,Scribing: Iron Guards
-Scribing: Minor Supply Drop,Scribing: Minor Supply Drop
-Scribing: Packed Dolyaks,Scribing: Packed Dolyaks
-Scribing: Presence of the Keep,Scribing: Presence of the Keep
-Scribing: Sabotage Depot,Scribing: Sabotage Depot
-Scribing: Siege Golem,Scribing: Siege Golem
-Scribing: Speedy Dolyaks,Scribing: Speedy Dolyaks
-Scribing: Turret Gates,Scribing: Turret Gates
-Scribing: Turtle Banner,Scribing: Turtle Banner
-Scribing: Watchtower,Scribing: Watchtower
-Season 1: Bronze Guild Challenger Trophy,Season 1: Bronze Guild Challenger Trophy
-Season 1: Gold Guild Challenger Trophy,Season 1: Gold Guild Challenger Trophy
-Season 1: Platinum Guild Challenger Trophy,Season 1: Platinum Guild Challenger Trophy
-Season 1: Silver Guild Challenger Trophy,Season 1: Silver Guild Challenger Trophy
-Season 2: Bronze Guild Challenger Trophy,Season 2: Bronze Guild Challenger Trophy
-Season 2: Gold Guild Challenger Trophy,Season 2: Gold Guild Challenger Trophy
-Season 2: Platinum Guild Challenger Trophy,Season 2: Platinum Guild Challenger Trophy
-Season 2: Silver Guild Challenger Trophy,Season 2: Silver Guild Challenger Trophy
-Season 3: Bronze Guild Challenger Trophy,Season 3: Bronze Guild Challenger Trophy
-Season 3: Gold Guild Challenger Trophy,Season 3: Gold Guild Challenger Trophy
-Season 3: Platinum Guild Challenger Trophy,Season 3: Platinum Guild Challenger Trophy
-Season 3: Silver Guild Challenger Trophy,Season 3: Silver Guild Challenger Trophy
-Season 4: Bronze Guild Challenger Trophy,Season 4: Bronze Guild Challenger Trophy
-Season 4: Gold Guild Challenger Trophy,Season 4: Gold Guild Challenger Trophy
-Season 4: Platinum Guild Challenger Trophy,Season 4: Platinum Guild Challenger Trophy
-Season 4: Silver Guild Challenger Trophy,Season 4: Silver Guild Challenger Trophy
-Season 5: Bronze Guild Challenger Trophy,Season 5: Bronze Guild Challenger Trophy
-Season 5: Gold Guild Challenger Trophy,Season 5: Gold Guild Challenger Trophy
-Season 5: Platinum Guild Challenger Trophy,Season 5: Platinum Guild Challenger Trophy
-Season 5: Silver Guild Challenger Trophy,Season 5: Silver Guild Challenger Trophy
-Season 6: Bronze Guild Challenger Trophy,Season 6: Bronze Guild Challenger Trophy
-Season 6: Gold Guild Challenger Trophy,Season 6: Gold Guild Challenger Trophy
-Season 6: Platinum Guild Challenger Trophy,Season 6: Platinum Guild Challenger Trophy
-Season 6: Silver Guild Challenger Trophy,Season 6: Silver Guild Challenger Trophy
+Scribing: Guild Karma Banner,Письмоводство: Знамя гильдии «Карма»
+Scribing: Guild Magic Find Banner,Письмоводство: Знамя гильдии «Поиск магии»
+Scribing: Guild Road Marker,Письмоводство: Дорожный маркер гильдии
+Scribing: Guild Shield Generator,Письмоводство: Генератор щита гильдии
+Scribing: Guild Trebuchet,Письмоводство: Требушет гильдии
+Scribing: Guild World Events,Письмоводство: Мировые события гильдии
+Scribing: Hardened Gates,Письмоводство: Укреплённые ворота
+Scribing: Hardened Siege,Письмоводство: Укреплённая осадная техника
+Scribing: Healing Mist,Письмоводство: Целительный туман
+Scribing: Invincible Dolyak,Письмоводство: Неуязвимый дольяк
+Scribing: Invulnerable Fortifications,Письмоводство: Неуязвимые укрепления
+Scribing: Iron Guards,Письмоводство: Железные стражи
+Scribing: Minor Supply Drop,Письмоводство: Малый припасы
+Scribing: Packed Dolyaks,Письмоводство: Упакованные дольяки
+Scribing: Presence of the Keep,Письмоводство: Присутствие крепости
+Scribing: Sabotage Depot,Письмоводство: Склад саботажа
+Scribing: Siege Golem,Письмоводство: Осадный голем
+Scribing: Speedy Dolyaks,Письмоводство: Быстрые дольяки
+Scribing: Turret Gates,Письмоводство: Ворота-турели
+Scribing: Turtle Banner,Письмоводство: Знамя черепахи
+Scribing: Watchtower,Письмоводство: Сторожевая башня
+Season 1: Bronze Guild Challenger Trophy,Сезон 1: Бронзовый трофей претендента гильдии
+Season 1: Gold Guild Challenger Trophy,Сезон 1: Золотой трофей претендента гильдии
+Season 1: Platinum Guild Challenger Trophy,Сезон 1: Платиновый трофей претендента гильдии
+Season 1: Silver Guild Challenger Trophy,Сезон 1: Серебряный трофей претендента гильдии
+Season 2: Bronze Guild Challenger Trophy,Сезон 2: Бронзовый трофей претендента гильдии
+Season 2: Gold Guild Challenger Trophy,Сезон 2: Золотой трофей претендента гильдии
+Season 2: Platinum Guild Challenger Trophy,Сезон 2: Платиновый трофей претендента гильдии
+Season 2: Silver Guild Challenger Trophy,Сезон 2: Серебряный трофей претендента гильдии
+Season 3: Bronze Guild Challenger Trophy,Сезон 3: Бронзовый трофей претендента гильдии
+Season 3: Gold Guild Challenger Trophy,Сезон 3: Золотой трофей претендента гильдии
+Season 3: Platinum Guild Challenger Trophy,Сезон 3: Платиновый трофей претендента гильдии
+Season 3: Silver Guild Challenger Trophy,Сезон 3: Серебряный трофей претендента гильдии
+Season 4: Bronze Guild Challenger Trophy,Сезон 4: Бронзовый трофей претендента гильдии
+Season 4: Gold Guild Challenger Trophy,Сезон 4: Золотой трофей претендента гильдии
+Season 4: Platinum Guild Challenger Trophy,Сезон 4: Платиновый трофей претендента гильдии
+Season 4: Silver Guild Challenger Trophy,Сезон 4: Серебряный трофей претендента гильдии
+Season 5: Bronze Guild Challenger Trophy,Сезон 5: Бронзовый трофей претендента гильдии
+Season 5: Gold Guild Challenger Trophy,Сезон 5: Золотой трофей претендента гильдии
+Season 5: Platinum Guild Challenger Trophy,Сезон 5: Трофей претендента гильдии «Платина»
+Season 5: Silver Guild Challenger Trophy,Сезон 5: Трофей претендента гильдии «Серебро»
+Season 6: Bronze Guild Challenger Trophy,Сезон 6: Трофей претендента гильдии «Бронза»
+Season 6: Gold Guild Challenger Trophy,Сезон 6: Трофей претендента гильдии «Золото»
+Season 6: Platinum Guild Challenger Trophy,Сезон 6: Трофей претендента гильдии «Платина»
+Season 6: Silver Guild Challenger Trophy,Сезон 6: Трофей претендента гильдии «Серебро»
 Set up a temporary structure in your guild hall while construction begins on your guild hall's arena.,"Установите временное сооружение в зале гильдии, пока начинается строительство арены зала гильдии."
-Shield Generator Siege,Shield Generator Siege
-Siege Dampener,Siege Dampener
-Significant Disciplines Research Commemorative Statue,Significant Disciplines Research Commemorative Statue
-Sparse Drizzlewood Coast Tree,Sparse Drizzlewood Coast Tree
-Speedy Dolyaks,Speedy Dolyaks
-Stable Fence,Stable Fence
-Star Light String,Star Light String
-Statue of Grenth Token,Statue of Grenth Token
-Stylized Stone Dragon Head,Stylized Stone Dragon Head
+Shield Generator Siege,Осадный генератор щита
+Siege Dampener,Осадный глушитель
+Significant Disciplines Research Commemorative Statue,Памятная статуя исследования значимых дисциплин
+Sparse Drizzlewood Coast Tree,Редкое дерево побережья Мороси
+Speedy Dolyaks,Быстрые дольяки
+Stable Fence,Крепкий забор
+Star Light String,Гирлянда из звёзд
+Statue of Grenth Token,Жетон статуи Грента
+Stylized Stone Dragon Head,Стилизованная каменная голова дракона
 "Summons a guild banner that will give +15%% karma, +15%% magic find, +15%% experience from kills, +15%% gold from kills, +15%% increased movement speed, and +15%% gathering chance to any ally that touches it for 30 minutes. Does not stack with other banner enhancements.","Призывает гильдейское знамя, дающее +15%% к карме, +15%% к поиску магии, +15%% к опыту за убийства, +15%% к золоту за убийства, +15%% к скорости передвижения и +15%% к шансу сбора любому союзнику, коснувшемуся его, на 30 минут. Не суммируется с другими усилениями знамён."
-Super Bridge Plank,Super Bridge Plank
-Super Guild Anthem,Super Guild Anthem
-Super Pagoda Arch,Super Pagoda Arch
-Super Pagoda Roof,Super Pagoda Roof
-Super Pagoda Wall,Super Pagoda Wall
-Super Rapids Flowing Water,Super Rapids Flowing Water
-Super Rapids Pillar,Super Rapids Pillar
-Super Rapids Plateau,Super Rapids Plateau
-Superior Arrow Cart Siege,Superior Arrow Cart Siege
-Superior Ballista Siege,Superior Ballista Siege
-Superior Catapult Siege,Superior Catapult Siege
-Superior Flame Ram Siege,Superior Flame Ram Siege
-Superior Golem Siege,Superior Golem Siege
-Superior Shield Generator Siege,Superior Shield Generator Siege
-Superior Trebuchet Siege,Superior Trebuchet Siege
-Synthesis Output 1,Synthesis Output 1
-Synthesis Output 2,Synthesis Output 2
-Synthesis Output 3,Synthesis Output 3
-Synthesis Output 4,Synthesis Output 4
-Tavern Restoration 1,Tavern Restoration 1
-Tavern Restoration 2,Tavern Restoration 2
-Teleporter Entrance,Teleporter Entrance
-Teleporter Exit,Teleporter Exit
+Super Bridge Plank,Супер-доска для моста
+Super Guild Anthem,Супер-гимн гильдии
+Super Pagoda Arch,Арка супер-пагоды
+Super Pagoda Roof,Супер-крыша пагоды
+Super Pagoda Wall,Стена супер-пагоды
+Super Rapids Flowing Water,Бурлящая вода супер-реки
+Super Rapids Pillar,Столп Супер-Стремнины
+Super Rapids Plateau,Плато супер-быстрин
+Superior Arrow Cart Siege,Улучшенная осадная стреломётная пушка
+Superior Ballista Siege,Улучшенная осадная баллиста
+Superior Catapult Siege,Улучшенная осадная катапульта
+Superior Flame Ram Siege,Высшая осадная огненная таран
+Superior Golem Siege,Высший осадный голем
+Superior Shield Generator Siege,Высшее осадное устройство для генератора щита
+Superior Trebuchet Siege,Осадная требушет превосходного качества
+Synthesis Output 1,Результат синтеза 1
+Synthesis Output 2,Результат синтеза 2
+Synthesis Output 3,Результат синтеза 3
+Synthesis Output 4,Результат синтеза 4
+Tavern Restoration 1,Восстановление таверны 1
+Tavern Restoration 2,Восстановление таверны 2
+Teleporter Entrance,Вход телепорта
+Teleporter Exit,Выход телепорта
 The Deep Cave will expand your treasure trove by another 100 slots.,Deep Cave расширит вашу сокровищницу ещё на 100 ячеек.
 "The guild's claimed objectives now always emanate an aura that applies boons to allies in the vicinity while the guild holds the objective. Initially, the aura applies a +5 supply capacity.","Захваченные цели гильдии теперь всегда излучают ауру, которая накладывает благословения на союзников поблизости, пока гильдия удерживает цель. Изначально аура даёт +5 к запасу припасов."
 "The workshop's plant synthesizers will now output even more possible vegetables, fruits, and herbs.","Растительные синтезаторы мастерской теперь будут выдавать ещё больше возможных овощей, фруктов и трав."
 "The workshop's plant synthesizers will now output more possible vegetables, fruits, and herbs.","Растительные синтезаторы мастерской теперь будут выдавать больше возможных овощей, фруктов и трав."
-Thick Drizzlewood Coast Tree,Thick Drizzlewood Coast Tree
+Thick Drizzlewood Coast Tree,Толстое дерево Побережья Мороси
 "Travel to the Gilded Hollow entrance tunnel, located beneath the golden city at the center of the Auric Basin. Meet Kogga inside the hollow and clear the Mordrem infestation there to claim this guild hall.","Отправляйтесь к входному туннелю Gilded Hollow, расположенному под золотым городом в центре Ауриковой котловины. Встретьтесь с Коггой внутри пещеры и очистите её от заражения Мордрем, чтобы заявить права на этот гильдейский зал."
-"Travel to the Isle of Reflection entrance, located on the southern coast of Shing Jea Island in Cantha. Meet Minister Nguyen's representative on the island and drive any squatters out to claim this guild hall.","Отправляйтесь ко входу на Остров Размышлений, расположенному на южном побережье Shing Jea Island в Канте. Встретьтесь с представителем министра Нгуена на острове и выгоните всех самозванцев, чтобы заявить права на этот гильдейский зал."
+"Travel to the Isle of Reflection entrance, located on the southern coast of Shing Jea Island in Cantha. Meet Minister Nguyen's representative on the island and drive any squatters out to claim this guild hall.","Отправляйтесь ко входу на Остров Размышлений, расположенному на южном побережье Shing Jea Island в Cantha. Встретьтесь с представителем министра Нгуена на острове и выгоните всех самозванцев, чтобы заявить права на этот гильдейский зал."
 "Travel to the sunken shrine that marks the hidden entrance to the Lost Precipice, in the northwest part of the Verdant Brink. Meet Sarah McKenzy inside the precipice, and clear the Mordrem infestation there to claim this guild hall.","Отправляйтесь к затопленному святилищу, которое отмечает скрытый вход в Lost Precipice, в северо-западной части Зелёного уступа. Встретьтесь с Сарой Маккензи внутри пропасти и очистите её от заражения Мордрем, чтобы заявить права на этот гильдейский зал."
-"Travel to the Windswept Haven entrance tunnel, located northwest of Garden of Seborhin in Vabbi. Meet Hashim and drive the Mordant Crescent out to claim this guild hall.","Отправляйтесь к входному туннелю Ветреного убежища, расположенному к северо-западу от Garden of Seborhin в Вабби. Встретьтесь с Хашимом и выгоните Mordant Crescent, чтобы заявить права на этот гильдейский зал."
-Trebuchet Siege,Trebuchet Siege
-Turtle Banner,Turtle Banner
-Twin Largos' Token,Twin Largos' Token
-Typical Drizzlewood Coast Tree,Typical Drizzlewood Coast Tree
+"Travel to the Windswept Haven entrance tunnel, located northwest of Garden of Seborhin in Vabbi. Meet Hashim and drive the Mordant Crescent out to claim this guild hall.","Отправляйтесь к входному туннелю Ветреного убежища, расположенному к северо-западу от Garden of Seborhin в Vabbi. Встретьтесь с Хашимом и выгоните Mordant Crescent, чтобы заявить права на этот гильдейский зал."
+Trebuchet Siege,Осада требушета
+Turtle Banner,Знамя черепахи
+Twin Largos' Token,Жетон близнецов-ларгосов
+Typical Drizzlewood Coast Tree,Типичное дерево побережья Мороси

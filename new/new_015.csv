@@ -49,7 +49,7 @@ Harvested Plants %num1%/%num2% Times in the Domain of Kourna,Растения с
 Harvested Plants %num1%/%num2% Times in the Sandswept Isles,Растения собраны %num1%/%num2% раз на Sandswept Islesх
 Harvested Plants %num1%/%num2% Times in the Silverwastes,Растения собраны %num1%/%num2% раз в Серебряных Пустошах
 Has Mortar Rounds,Есть мортирные снаряды
-Has a 10%% chance to grant Maguuma Guardian on hit. <c=@reminder>(Cooldown: 15 Seconds) Will not affect transformed players.</c>,10%% шанс дать «Стража Магуумы» при попадании. <c=@reminder>(Перезарядка: 15 секунд.) Не действует на превращённых игроков.</c>
+Has a 10%% chance to grant Maguuma Guardian on hit. <c=@reminder>(Cooldown: 15 Seconds) Will not affect transformed players.</c>,10%% шанс дать «Стража Maguuma» при попадании. <c=@reminder>(Перезарядка: 15 секунд.) Не действует на превращённых игроков.</c>
 Hasrah,Хасра
 "Hatched with care.<br>Combine 1 Silver and Gold, 1 Red and White, and 1 Black and Green Cuckoo Hatchling with 20 Unidentified Dyes in the Mystic Forge to create a Blazing Cuckoo Hatchling.","Выведены с заботой.<br>Соедините 1 серебристо-золотого, 1 красно-белого и 1 чёрно-зелёного птенца кукушки с 20 неопознанными красками в Mystic Forge, чтобы создать пылающего птенца кукушки."
 "Hatched with care.<br>Combine 1 Yellow, 1 Blue, and 1 Light Blue and Purple Cuckoo Hatchling with 8 Unidentified Dyes in the Mystic Forge to create a Red and White Cuckoo Hatchling. Combine 1 Brown and 2 Yellow Cuckoo Hatchlings with 12 Unidentified Dyes in the Mystic Forge to create a Silver and Gold Cuckoo Hatchling.","Выведены с заботой.<br>Соедините 1 жёлтого, 1 синего и 1 голубо-фиолетового птенца кукушки с 8 неопознанными красками в Mystic Forge, чтобы создать красно-белого птенца кукушки. Соедините 1 коричневого и 2 жёлтых птенцов кукушки с 12 неопознанными красками в Mystic Forge, чтобы создать серебристо-золотого птенца кукушки."
@@ -84,7 +84,7 @@ Have you seen my dog?,Ты не видел мою собаку?
 "Have you tried the beer we brew at the monastery? It's the best stuff you will ever taste. If you get some time, head in and buy some.","Ты пробовал пиво, что мы варим в монастыре? Ничего вкуснее ты не пил. Будет время — загляни и купи."
 Haven Dweller,Обитатель убежища
 Haven't been here yet.,Здесь я ещё не был.
-"Having received no support from Rytlock or Eir, Braham enlists your help to retake his village from the Molten Alliance. [lbracket]This mission is now playable in Living World Season 1: Episode 1[rbracket]","Не получив поддержки ни от Райтлока, ни от Эйр, Брейхам просит вашей помощи, чтобы отбить свою деревню у Molten Alliance. [lbracket]Это задание теперь доступно в «Living World», сезон 1: эпизод 1[rbracket]"
+"Having received no support from Rytlock or Eir, Braham enlists your help to retake his village from the Molten Alliance. [lbracket]This mission is now playable in Living World Season 1: Episode 1[rbracket]","Не получив поддержки ни от Rytlock, ни от Эйр, Braham просит вашей помощи, чтобы отбить свою деревню у Molten Alliance. [lbracket]Это задание теперь доступно в «Living World», сезон 1: эпизод 1[rbracket]"
 Hawkeye Perch,Насест Соколиного Глаза
 Hay bale[s],Тюк[|а|ов] сена
 Haywire,Разлад
@@ -102,7 +102,7 @@ Head to Divinity's Reach to respond to Queen Jennah's summons.,Отправля�
 Head to Heitor's Gate: %str1%,Отправляйтесь к Heitor's Gate: %str1%
 Head to Port!,К левому борту!
 Head to Starboard!,К правому борту!
-Head to the Black Citadel to meet with Crecia.,Отправляйтесь в Black Citadel на встречу с Кресией.
+Head to the Black Citadel to meet with Crecia.,Отправляйтесь в Black Citadel на встречу с Crecia.
 "Heading north, Bastion of Balance has a little secret grotto that I know we've been able to keep out of Kryptis hands. Should be a safe and fun spot to fish.","Если пойти на север, в Bastion of Balance есть укромный грот, который, насколько я знаю, нам удалось уберечь от криптисов. Безопасное и приятное местечко для рыбалки."
 Headstone,Надгробие
 Headwind,Встречный ветер
@@ -173,7 +173,7 @@ Heavy Treat Bag[s],Тяжёлый [мешок|мешка|мешков] лако�
 Heidi's Showpiece,Витринный экспонат Хайди
 Helatia,Хелатия
 Held Off the White Mantle Assault for 5 Minutes,Натиск White Mantle сдержан в течение 5 минут
-Helena,Helena
+Helena,Хелена
 Hello and welcome to the Grand Sahil Casino. Care to try a round of sandstorm?,Здравствуйте и добро пожаловать в Большое казино Сахиль. Не желаете партию в песчаную бурю?
 "Hello there. I'm glad to see adventurers this far into Lychcroft Mere. We've been having some troubles, and it's nice to know help is nearby.","Здравствуй. Рад видеть искателей приключений так глубоко в Lychcroft Mere. У нас тут неприятности, и приятно знать, что помощь рядом."
 Hello! Are you willing to lend a hand to get these upgraded gates up and running?,Привет! Не подсобишь запустить эти улучшенные врата?
@@ -189,7 +189,7 @@ Hellooo.,Э-эй.
 "Helloooo, alibi.","Здра-авствуй, алиби."
 Help %num2% new players defeat Adina for the first time.,Помогите %num2% новым игрокам впервые победить Адину.
 Help %num2% new players defeat Cairn for the first time.,Помогите %num2% новым игрокам впервые победить Кайрна.
-Help %num2% new players defeat Deimos for the first time.,Помогите %num2% новым игрокам впервые победить Деймоса.
+Help %num2% new players defeat Deimos for the first time.,Помогите %num2% новым игрокам впервые победить Deimos.
 Help %num2% new players defeat Dhuum for the first time.,Помогите %num2% новым игрокам впервые победить Дуума.
 Help %num2% new players defeat Gorseval for the first time.,Помогите %num2% новым игрокам впервые победить Горсеваля.
 Help %num2% new players defeat Matthias for the first time.,Помогите %num2% новым игрокам впервые победить Маттиаса.
@@ -206,20 +206,20 @@ Help %num2% new players defeat the Mursaat Overseer for the first time.,Помо
 Help %num2% new players defeat the Soulless Horror for the first time.,Помогите %num2% новым игрокам впервые победить Soulless Horror.
 Help %num2% new players defeat the Vale Guardian for the first time.,Помогите %num2% новым игрокам впервые победить Vale Guardian.
 Help %num2% new players defeat the twin largos for the first time.,Помогите %num2% новым игрокам впервые победить парных ларгосов.
-Help %num2% players defeat Decima for the first time.,Помогите %num2% игрокам впервые победить Дециму.
-Help %num2% players defeat Greer for the first time.,Помогите %num2% игрокам впервые победить Грира.
+Help %num2% players defeat Decima for the first time.,Помогите %num2% игрокам впервые победить Decima.
+Help %num2% players defeat Greer for the first time.,Помогите %num2% игрокам впервые победить Greer.
 Help %num2% players defeat Ura for the first time.,Помогите %num2% игрокам впервые победить Уру.
 Help Arlon search the Dengatl grounds.,Помогите Арлону обыскать угодья Денгатль.
 Help Benn Tenstrikes break out of prison.,Помогите Benn Tenstrikes сбежать из тюрьмы.
 Help Corporal Vikar before they retreat: %str1%,Помогите Corporal Vikar до их отступления: %str1%
 Help Gara convince the other shamans their god is false.,"Помогите Гаре убедить прочих шаманов, что их бог ложен."
-Help Larra rescue Tegwen from the cursed Orrian mirror.,Помогите Ларре вызволить Тегвен из проклятого оррианского зеркала.
-Help Logan update the Falcon Company records.,Помогите Логану обновить записи Falcon Company.
+Help Larra rescue Tegwen from the cursed Orrian mirror.,Помогите Ларре вызволить Tegwen из проклятого оррианского зеркала.
+Help Logan update the Falcon Company records.,Помогите Logan обновить записи Falcon Company.
 Help Me!,Помогите!
 Help Pact Demolitionist Tonn complete his mission.,Помогите подрывнику Пакта Тонну выполнить задание.
 Help Quinn survive the apothecary job.,Помогите Куинну выжить на деле у аптекаря.
 Help Tholaun rescue Miss Mipp.,Помогите Толауну спасти мисс Мипп.
-Help Trahearne rescue Tegwen from the cursed Orrian mirror.,Помогите Трихерну вызволить Тегвен из проклятого оррианского зеркала.
+Help Trahearne rescue Tegwen from the cursed Orrian mirror.,Помогите Trahearne вызволить Тегвен из проклятого оррианского зеркала.
 Help escort the weapons shipment to Nebo Terrace.,Помогите сопроводить партию оружия в Nebo Terrace.
 Help her!,Помогите ей!
 Help how?,Помочь чем?
@@ -233,7 +233,7 @@ Help me.,Помогите мне.
 Help me. I'm hurt.,Помоги мне. Я ранен.
 Help the Deldrimor defend Droknar's Light.,Помогите Дельдримору защитить Droknar's Light.
 Help the Durmand Priory conduct experiments on the amulet.,Помогите Durmand Priory провести опыты с амулетом.
-Help the Durmand Priory stage a conference to spread Gorr's theory.,"Помогите Durmand Priory устроить собрание, чтобы распространить теорию Горра."
+Help the Durmand Priory stage a conference to spread Gorr's theory.,"Помогите Durmand Priory устроить собрание, чтобы распространить теорию Gorr."
 Help the Order of Whispers recover another of the necromancer's amulets.,Помогите Order of Whispers добыть ещё один амулет некроманта.
 Help the Vigil investigate the undead raids on Snowdrift Haven.,Помогите Дозору расследовать набеги нежити на Сноудрифт-Хейвен.
 Help the kodan destroy the horn.,Помогите коданам уничтожить рог.
@@ -314,7 +314,7 @@ Hemma,Хемма
 Herder Tarrik,Пастух Таррик
 Here I come!,Иду!
 "Here come the flames, brother!","Вот и пламя, брат!"
-"Here is my question. <br>Of these names, who was not one of the heroes who helped prevent Nightfall, and the fallen god Abaddon's rise: Melonni, Kossan, Tahlkora, or Dunkoro?","Вот мой вопрос. <br>Кто из названных не был среди героев, помешавших Ночному Падению и возвышению падшего бога Абаддона: Мелонни, Коссан, Талькора или Дункоро?"
+"Here is my question. <br>Of these names, who was not one of the heroes who helped prevent Nightfall, and the fallen god Abaddon's rise: Melonni, Kossan, Tahlkora, or Dunkoro?","Вот мой вопрос. <br>Кто из названных не был среди героев, помешавших Ночному Падению и возвышению падшего бога Abaddon: Мелонни, Коссан, Талькора или Дункоро?"
 Here lies the great grawl totem of Waswornbyanorn. May its ancient and mystical powers grant the grawl great strength forever.,Здесь покоится великий тотем граулов Носилсянорном. Да дарует его древняя мистическая сила граулам великую мощь навеки.
 Here! Over here!,Сюда! Сюда!
 "Here, take all my apples.","Вот, забирай все мои яблоки."
@@ -355,13 +355,13 @@ Hidden Room Found,Найдена скрытая комната
 Hidden in the shadows. The next attack is a powerful critical hit.,Скрыт в тенях. Следующая атака — мощный критический удар.
 "High above the ruins, you can see the valley and waterfall stretched out below you, inviting you to dive off and glide over it.","Высоко над руинами перед вами раскинулись долина и водопад, так и зовущие прыгнуть вниз и пролететь над ними."
 Highest Hit Count: %num1%/%num2%,Наибольшая серия попаданий: %num1%/%num2%
-Hildr Trollbane,Hildr Trollbane
+Hildr Trollbane,Хильдр Троллебой
 Hippalinda,Хиппалинда
 Hire Caravan Guard,Нанять охрану каравана
-Hiroki,Hiroki
-Historian Angelina,Historian Angelina
-Historian Avaellon,Historian Avaellon
-Historian Goshkia,Historian Goshkia
+Hiroki,Хироки
+Historian Angelina,Историк Анджелина
+Historian Avaellon,Историк Авеллон
+Historian Goshkia,Историк Гошкия
 History is mine!,История принадлежит мне!
 Hit 10 targets without missing a shot.,"Поразите 10 целей, не промахнувшись ни разу."
 Hit a Static Storm from a Long Distance,Статическая буря поражена с большого расстояния
@@ -445,7 +445,7 @@ How you did come to set up shop here?,Как ты здесь обосновал�
 How'd that feel? Excruciating?,Ну как ощущения? Мучительно?
 How're things going?,Как дела?
 How's the workshop coming along?,Как продвигается мастерская?
-Howl the Brazen,Howl the Brazen
+Howl the Brazen,Хоул Наглый
 Hrolf,Хрольф
 Hrugar,Хругар
 "Huff, huff, huff. Okay, quaggan's rage is done. Mellaggan's mercy, that was unpleasant. Now you and quaggan both know what it's like.","Пых, пых, пых. Ладно, ярость кваггана прошла. Милостью Меллаггана, это было неприятно. Теперь и ты, и квагган знаете, каково это."
@@ -453,7 +453,7 @@ Hugh Hillman,Хью Хиллман
 Hugh's House,Дом Хью
 "Huh, so this is what you meant by ""getting along.""","Ага, вот что ты имел в виду под «ладить»."
 "Huh, the Jade Sea. Don't recognize the exact location; go look around.","Хм, Нефритовое море. Точное место не узнаю — иди осмотрись."
-Hullgardener Styrmir,Hullgardener Styrmir
+Hullgardener Styrmir,Трюмный садовник Стирмир
 Humans aren't the only people harassed by the centaurs. There's a friendly ettin tribe lead by Krug to the south. They would be powerful allies if we could get them to work together.,"Кентавры донимают не только людей. К югу есть дружелюбное племя эттинов под началом Круга. Они стали бы могучими союзниками, если бы удалось их сплотить."
 Humble Nollarr and take his helm.,Смирите Ноллара и заберите его шлем.
 Humiliated?,Унижен?
@@ -464,7 +464,7 @@ Hungry Flame Legion Swordmaster,Голодный мастер меча Леги�
 Hungry Kryptis Delegate,Голодный посланник криптисов
 Hungry Soldier,Голодный солдат
 Hunt down game animals and collect trophies.,Выслеживайте дичь и собирайте трофеи.
-Hunter Hauk,Hunter Hauk
+Hunter Hauk,Охотник Хаук
 Hunter of Mystic Threats,Охотник на мистические угрозы
 Hunter's Target,Цель охотника
 Hunter's Trap,Ловушка охотника
@@ -481,7 +481,7 @@ Hurry up with the coconuts—I need that milk!,Живее с кокосами �
 Hurry with those iboga petals! Their spicy kick is worth the nausea.,Живее с лепестками ибоги! Их острая нотка стоит тошноты.
 "Hurtles toward the target, poisoning foes.","Устремляется к цели, отравляя врагов."
 "Hurts, doesn't it?","Больно, правда?"
-Hushblade,Hushblade
+Hushblade,Тихоклинок
 Hyasinth,Хиасинт
 Hydrone Fan,Гидронный вентилятор
 Hyena Ally,Союзная гиена

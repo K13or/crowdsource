@@ -20,42 +20,42 @@ Inquest Mark II Warhorn Skin[s],облик[|а|ов] боевого рога М�
 "Inquest Mark II Weapon Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с оружием «Inquest Mark II»
 Inquest Mark II Weapons,Оружие Inquest Mark II
 "Inquest Medium Armor Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с бронёй Inquest (средняя)
-Inquest Mine,Inquest Mine
-Inquest Miner,Inquest Miner
+Inquest Mine,Шахта Inquest
+Inquest Miner,Шахтёр Inquest
 Inquest motion controls enabled.,Датчики движения Inquest активированы.
-Inquest Note,Inquest Note
-Inquest Overseer Chair Glider Combo,Inquest Overseer Chair Glider Combo
+Inquest Note,Записка Inquest
+Inquest Overseer Chair Glider Combo,Комбинация кресла-глайдера надзирателя Inquest
 Inquest Overseer Glider[s],глайдер[|а|ов] надзирателя Inquest
 Inquest Passcode[s],пароль[|я|ей] Inquest
-Inquest Pilot,Inquest Pilot
+Inquest Pilot,Пилот Inquest
 "Inquest Pilot Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей пилота Inquest
-Inquest Portal,Inquest Portal
+Inquest Portal,Портал Inquest
 Inquest power cells are used for portable energy. There are likely some lying around with other supplies at the Arcanological Survey Station.,"Элементы питания Inquest используются для портативной энергии. Вероятно, некоторые из них валяются среди прочих припасов на Станции арканологических изысканий."
 Inquest Power Core[s],[силовое ядро|силовых ядра|силовых ядер] Inquest
-Inquest Power Generator,Inquest Power Generator
-Inquest Power Suit,Inquest Power Suit
-Inquest Power Suit Mark III,Inquest Power Suit Mark III
+Inquest Power Generator,Генератор энергии Inquest
+Inquest Power Suit,Силовой костюм Inquest
+Inquest Power Suit Mark III,"Силовой костюм Inquest, модель III"
 Inquest reinforcements have arrived.,Подкрепление Inquest прибыло.
-Inquest Researcher,Inquest Researcher
-Inquest Resources,Inquest Resources
-Inquest Rifle Turret,Inquest Rifle Turret
-Inquest Rubbish Pile,Inquest Rubbish Pile
-Inquest Senior Engineer,Inquest Senior Engineer
+Inquest Researcher,Исследователь Inquest
+Inquest Resources,Ресурсы Inquest
+Inquest Rifle Turret,Винтовочная турель Inquest
+Inquest Rubbish Pile,Куча мусора Inquest
+Inquest Senior Engineer,Старший инженер Inquest
 Inquest Skimmer Skin[s],облик[|а|ов] скакуна Inquest
-Inquest Slayer,Inquest Slayer
-Inquest Spanner,Inquest Spanner
-Inquest Spy Equipment,Inquest Spy Equipment
-Inquest Stash,Inquest Stash
-Inquest Supply Crate,Inquest Supply Crate
-Inquest Technician,Inquest Technician
+Inquest Slayer,Убийца Inquest
+Inquest Spanner,Гаечный ключ Inquest
+Inquest Spy Equipment,Шпионское оборудование Inquest
+Inquest Stash,Тайник Inquest
+Inquest Supply Crate,Ящик припасов Inquest
+Inquest Technician,Техник Inquest
 "Inquest Technician Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей техника Inquest
-Inquest Technological Frequency,Inquest Technological Frequency
-Inquest Terminal,Inquest Terminal
-Inquest Thumper Turret,Inquest Thumper Turret
-Inquest Turret,Inquest Turret
-Inquest Virtual Reality Goggles,Inquest Virtual Reality Goggles
-Inquest Wavehawk Trap,Inquest Wavehawk Trap
-Inquest Weather Guns,Inquest Weather Guns
+Inquest Technological Frequency,Технологическая частота Inquest
+Inquest Terminal,Терминал Inquest
+Inquest Thumper Turret,Турель-глушитель Inquest
+Inquest Turret,Турель Inquest
+Inquest Virtual Reality Goggles,Очки виртуальной реальности Inquest
+Inquest Wavehawk Trap,Ловушка на волноястребов Inquest
+Inquest Weather Guns,Погодные пушки Inquest
 Inquisitor Machalina's Journal,Дневник инквизитора Махалины
 Inquisitor's Record,Запись инквизитора
 Inscribe a mark that chills foes when triggered and chains to nearby foes.,"Нанести руну, которая замедляет врагов при срабатывании и цепляется за ближайших врагов."
@@ -185,7 +185,7 @@ Intimidate to Increase Ferocity,Запугивание для увеличени
 Intimidate Widowmaker thugs.,Запугайте головорезов-Оборотней.
 Intimidate your foes with a new look!,Устрашайте врагов новым обликом!
 Intimidator[s],[Устрашитель|Устрашителя|Устрашителей]
-"Into the dark echoes of Cantha's past,","В тёмные отголоски прошлого Кантхи,"
+"Into the dark echoes of Cantha's past,","В тёмные отголоски прошлого Cantha,"
 Into the Fray,В гущу боя
 Into the Volcano,В жерло вулкана
 Intoxicated Ooze,Опьяневшая слизь
@@ -290,7 +290,6 @@ Investigate the ruined site.,Исследуйте разрушенное мес�
 Investigate the Skritt Shiny in the Titanpaw.,Исследуйте блестяшку скриттов в Титанолапе.
 Investigate the strange creatures in the forest.,Исследуйте странных существ в лесу.
 Investigate Wall Panel,Исследовать стенную панель
-"Investigation of foreign pirate activity has thus far encompassed Shing Jea Island. We're unable to ascertain the location of their hideout, but concerned citizens have reported sightings of suspicious markings. The common description seems to be a cog or skull with a sword in the foreground.This may be some form of communication for the criminals of this organization; sketches of these markings have been sent to the Ministry of Intelligence for analysis.","Расследование деятельности иностранных пиратов до сих пор охватывало остров Shing Jea. Мы не можем установить местонахождение их убежища, но обеспокоенные граждане сообщали о наблюдении подозрительных знаков. Общее описание, похоже, представляет собой шестерню или череп с мечом на переднем плане. Это может быть формой связи для преступников этой организации; наброски этих знаков были отправлены в Министерство разведки для анализа."
 Invis Hero Lord Room,Комната невидимого героя-лорда
 Invisible Berserker's Mushroom Spore[s],Невидимая спор[а|ы|] гриба берсерка
 Invisible Blade,Невидимый клинок
@@ -308,7 +307,7 @@ Invisible Tempest's Mushroom Spore[s],Невидимая спор[а|ы|] гри
 Invisible to foes.,Невидима для врагов.
 Invitation to a Great House,Приглашение в Великий Дом
 Invitation to the Feast of Battle's Eve,Приглашение на Пир Кануна битвы
-Invitation to the Molten Furnace mission from Almorra.,Приглашение на миссию «Molten Furnace» от Альморры.
+Invitation to the Molten Furnace mission from Almorra.,Приглашение на миссию «Molten Furnace» от Almorra.
 Invitation to the Tyrian Alliance,Приглашение в Tyrian Alliance
 Invitation[s],приглашени[е|я|й]
 Invite Only,Только по приглашению
@@ -336,7 +335,7 @@ Invulnerable: Unleashes True Sight When Stunned,Неуязвим: Высвобо
 Invulnerable; increased movement speed.,Неуязвимость; увеличена скорость передвижения.
 Ion Cannon,Ионная пушка
 Ionic Supercharge,Ионная перезарядка
-"Iowerth of the Durmand Priory claims to know a ritual that will let you see the last moments of a person's life. It is dangerous, but the risk is worth it if you can discover more about Riannoc's death.","Иоверт из Дурмандского Приората утверждает, что знает ритуал, который позволит вам увидеть последние мгновения жизни человека. Это опасно, но риск оправдан, если вы сможете узнать больше о смерти Рианнока."
+"Iowerth of the Durmand Priory claims to know a ritual that will let you see the last moments of a person's life. It is dangerous, but the risk is worth it if you can discover more about Riannoc's death.","Иоверт из Дурмандского Приората утверждает, что знает ритуал, который позволит вам увидеть последние мгновения жизни человека. Это опасно, но риск оправдан, если вы сможете узнать больше о смерти Riannoc."
 Irascible Noble Skyscale,Вспыльчивый знатный скайскейль
 Irate Bull[s],[Разъярённый бык|Разъярённого быка|Разъярённых быков]
 Irin Watts,Ирин Уоттс
@@ -498,4 +497,4 @@ Is it true?,Это правда?
 Is That Bloodstone or Stoneblood?,Это кровавый камень или каменная кровь?
 Is that Lieutenant Myros the Spiteful?,Это лейтенант Мирос Злобный?
 Is there anything you can tell me about the life-fire I'm carrying?,"Можете ли вы рассказать мне что-нибудь о жизненном огне, который я несу?"
-Isgarren can only protect you from the agony if you stay close.,"Исгаррен может защитить тебя от агонии, только если ты будешь рядом."
+Isgarren can only protect you from the agony if you stay close.,"Isgarren может защитить тебя от агонии, только если ты будешь рядом."

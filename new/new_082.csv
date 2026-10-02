@@ -29,8 +29,8 @@ Orders for me? Anyone?,"Есть здесь кто-нибудь, кому нуж
 Ordinary Bush,Обычный куст
 Ordnance Corps rally points controlled: %num1%,Контролируемые точки сбора Ордена артиллеристов: %num1%
 Ordnance Forge,Оружейная кузница
-Ori,Ori
-Oriel,Oriel
+Ori,Ори
+Oriel,Ориэль
 "Original site of Lion's Arch Keep. Here in 1079 AE, the White Mantle was defeated by Queen Salma of Kryta and her Shining Blade, at the Battle of Lion's Arch.",Здесь находился первоначальный форт Lion's Arch. В 1079 г. до Эры Единства королева Салма из Крайты и её отряд «Сияющее Лезвие» одержали победу над Белым Плащом в битве при Lion's Arch.
 "Original site of the Lion's Court statue and fountain, destroyed by the forces of Scarlet Briar in 1327 AE.","Первоначальное место установки статуи и фонтана Львиного суда, разрушенное войсками Алой Ветви в 1327 г. до Н.Э."
 Orlun,Орлун
@@ -39,31 +39,31 @@ Ornate Hourglass,Искусно украшенные песочные часы
 "Ornate Watchwork Box[pl:""Boxes""]",Искусный часовой [коробка|коробки|коробок]
 Orr is a scary place. Scary! But I've got many things. Shiny things. Things that can help you. Interested?,"Орр – жуткое место. Очень жуткое! Но у меня есть много всяких полезных вещей. Блестящих вещиц. Вещей, которые могут тебе помочь. Интересно?"
 Orr-Kampf,Орр-кампф
-Orrian Archer,Orrian Archer
-Orrian Captain,Orrian Captain
-Orrian Catapult,Orrian Catapult
-Orrian Coffin,Orrian Coffin
-Orrian Corpse,Orrian Corpse
-Orrian Corruptions,Orrian Corruptions
-Orrian Crab,Orrian Crab
-Orrian Finger,Orrian Finger
-Orrian Fish,Orrian Fish
-Orrian Gate,Orrian Gate
-Orrian Obelisk,Orrian Obelisk
-Orrian Priest,Orrian Priest
-Orrian Ruins,Orrian Ruins
-Orrian Runestone,Orrian Runestone
-Orrian Sea Turtle,Orrian Sea Turtle
-Orrian Shambler,Orrian Shambler
-Orrian Siege Weapon,Orrian Siege Weapon
-Orrian Soldier,Orrian Soldier
-Orrian Spectral Archer,Orrian Spectral Archer
-Orrian Spectral Flamecaster,Orrian Spectral Flamecaster
-Orrian Spectral Skirmisher,Orrian Spectral Skirmisher
-Orrian Tomb,Orrian Tomb
-Orrian Tower,Orrian Tower
-Orrian Treasure Chest,Orrian Treasure Chest
-Orsippus Champion Squilp,Orsippus Champion Squilp
+Orrian Archer,Оррианский лучник
+Orrian Captain,Капитан Орриана
+Orrian Catapult,Оррианская катапульта
+Orrian Coffin,Оррианский саркофаг
+Orrian Corpse,Оррианский труп
+Orrian Corruptions,Осквернения Орриана
+Orrian Crab,Оррианский краб
+Orrian Finger,Оррианский палец
+Orrian Fish,Оррская рыба
+Orrian Gate,Орианские врата
+Orrian Obelisk,Облиск Орриана
+Orrian Priest,Оррианский жрец
+Orrian Ruins,Руины Орриана
+Orrian Runestone,Рунный камень Орриана
+Orrian Sea Turtle,Оррианская морская черепаха
+Orrian Shambler,Оррианский шамблер
+Orrian Siege Weapon,Осадная машина оррианцев
+Orrian Soldier,Солдат Орриана
+Orrian Spectral Archer,Оррианский призрачный лучник
+Orrian Spectral Flamecaster,Оррианский призрачный огнемётчик
+Orrian Spectral Skirmisher,Оррианский призрачный застрельщик
+Orrian Tomb,Оррианская гробница
+Orrian Tower,Оррианская башня
+Orrian Treasure Chest,Сундук с сокровищами Орриана
+Orsippus Champion Squilp,Чемпион Орсиппус Сквилп
 Orsippus Games Veteran,Ветеран игр Орсиппус
 Orsippus Guard,Страж Орсиппа
 Orsippus Guard Nooloo,Стражник Орсиппус Нулу
@@ -85,7 +85,7 @@ Otras cien vidas,Ещё сто жизней.
 Otters Schotter,Выдра Шоттер
 Otyugh's Stalker,Преследователь Отиуха
 Our Awakened never made that mistake.,Наши пробуждённые никогда не совершали такой ошибки.
-"Our Voice is optimistic that we will have an opportunity to find new allies against Jormag. I am less certain, but the Voice has never steered us wrong.","Я надеюсь, что у нас будет возможность найти новых союзников против Йормаг. Я менее уверен в этом, но Голос ещё ни разу не подводил нас."
+"Our Voice is optimistic that we will have an opportunity to find new allies against Jormag. I am less certain, but the Voice has never steered us wrong.","Я надеюсь, что у нас будет возможность найти новых союзников против Jormag. Я менее уверен в этом, но Голос ещё ни разу не подводил нас."
 Our allies are assaulting the Aetherblade hideout.,Наши союзники атакуют убежище Эфирных клинков.
 Our allies are preparing to assault the Aetherblade hideout.,Наши союзники готовятся к штурму убежища Эфирных Клинков.
 Our allies have taken Foulbear Kraal.,Наши союзники захватили Краал-Фулбеар.
@@ -114,7 +114,7 @@ Our job is to find her and extract her. Stay close. We're going deep into smokel
 "Our krewe inside the Anthill needs assistance educating skritt about the dangers of Thaumanova's chaotic material. Then there's the Luminates pest problem—insects, Inquest, and elementals. Squash a few of those, and you'll increase our productivity by as much as thirty-five percent.","Нашей команде в Муравейнике нужна помощь в обучении скриттов опасностям хаотичной материи Таумановы. Кроме того, у нас проблема с вредителями из «Луминатов» — насекомыми, членами Inquest и элементалями. Если вы уничтожите часть из них, это увеличит нашу производительность на целых тридцать пять процентов."
 Our land! Stay out.,Это наша земля! Убирайтесь!
 "Our logical probability of success is improving, %str1%. Step by step, we're achieving victory—but you must be sure we do not fall short when the end is near.","Вероятность нашего успеха растет, %str1%. Шаг за шагом мы приближаемся к победе, но ты должен быть уверен, что мы не оступимся, когда конец будет близок."
-Our lord Balthazar's champion has come!,Прибыл чемпион нашего господина Бальтазара!
+Our lord Balthazar's champion has come!,Прибыл чемпион нашего господина Balthazar!
 "Our losses have been great, but now, we've all been forged in the crucible of battle. We are united under a singular purpose.","Мы понесли большие потери, но теперь все мы прошли через горнило битвы. Мы едины общей целью."
 "Our main focus is preparing our golem, the RCK-7550, for the golem battle at Battleground Plaza. We've developed a process to siphon energy from the earth and use it to augment our golem. It produces great results.","Наша первоочередная задача — подготовить нашего голема, модель RCK-7550, к битве големов на Площади сражений. Мы разработали процесс перекачки энергии из недр земли и использования её для усиления нашего голема. Результаты впечатляют."
 Our mission is simple. We are here to defend those threatened by the dragons.,"Наша миссия проста. Мы здесь, чтобы защищать тех, кому угрожают драконы."
@@ -148,9 +148,9 @@ Outlander! See you've got yourself some wings fit for soaring. How about putting
 "Outlander, the village needs new livestock. Help me wrangle these marmoxes!","Житель чужих земель, деревне нужен новый скот. Помоги мне поймать этих мармоксов!"
 Outpost,Аванпост
 Outpost Leader Ladislaw,Комендант Ладислав
-Outposts have been established around Kralkatorrik. Now your allies must expand their influence over each region.,Вокруг Кралькаторрика были созданы аванпосты. Теперь вашим союзникам предстоит расширить свое влияние в каждом регионе.
+Outposts have been established around Kralkatorrik. Now your allies must expand their influence over each region.,Вокруг Kralkatorrik были созданы аванпосты. Теперь вашим союзникам предстоит расширить свое влияние в каждом регионе.
 Outposts overrun: %str1%,Аванпост захвачен: %str1%
-Outrunner Jankott'cha,Outrunner Jankott'cha
+Outrunner Jankott'cha,Бегун Джанккот’ча
 Outskirts of Beetletun,Окраины Бителтуна
 Outta steam...,Выдохся...
 Over here! Fresh meat!,Сюда! Свежее мясо!
@@ -164,7 +164,7 @@ Over here! Please. I need help!,"Здесь! Пожалуйста, помоги�
 Overcharge in: %str1%,Перегрузка в: %str1%
 Overcharged Jade Power,Перегруженная нефритовая сила
 Overflow!,Переполнение!
-Overgrown Husk,Overgrown Husk
+Overgrown Husk,Поросшая оболочка
 Overgrown Husk Unarmed,Заросшая оболочка (без оружия)
 Overgrown Thorn Wolf Unarmed Weapon,Необработанный колючий волк (безоружный)
 Overgrown Wolf,Заросший волк
@@ -192,7 +192,7 @@ Overwhelm the enemy!,Сокруши врага!
 Overwhelmed! Need reinforcements!,Нас слишком много! Нужны подкрепления!
 Ow! And Waine is down for good! Looks like the victor's claiming his opponent's sword as spoils of battle. Let's have a cheer for our new champion!,"Ой! И Waine повержен окончательно! Похоже, победитель забирает меч противника в качестве трофея. Давайте поприветствуем нашего нового чемпиона!"
 Ow! That's it. I'm killing you double for this!,"Ай! Всё, за это я тебя дважды убью!"
-Owain,Owain
+Owain,Оуэйн
 Owen,Оуэн
 Owena,Оуэна
 Owl Shaman's Protection,Защита шамана-сова
@@ -213,37 +213,37 @@ Package[s] of Elementally Charged Plant Food,Пакет[|ы|а] элемента
 Package[s] of Old Equipment,Пакет[|ы|а] старого снаряжения
 Packing eggs in: %str1%,Упаковка яиц в: %str1%
 Packing supplies in: %str1%,Упаковываем припасы в: %str1%
-Pact Alive,Pact Alive
-Pact Amphibious Cannon,Pact Amphibious Cannon
-Pact Arcanist,Pact Arcanist
+Pact Alive,Живой пакт
+Pact Amphibious Cannon,Пактовая амфибийная пушка
+Pact Arcanist,Пакт-арканист
 Pact Armor Component,Компонент пакта брони
-Pact Barricade,Pact Barricade
-Pact Beacon,Pact Beacon
-Pact Builder,Pact Builder
-Pact Corpse,Pact Corpse
-Pact Crash Site,Pact Crash Site
-Pact Crusader Neil,Pact Crusader Neil
-Pact Defender Undead,Pact Defender Undead
-Pact Defenders,Pact Defenders
-Pact Demolitionist Strixel,Pact Demolitionist Strixel
-Pact Donations Agent Ira,Pact Donations Agent Ira
-Pact Explorer,Pact Explorer
+Pact Barricade,Защитный барьер
+Pact Beacon,Маяк Пакта
+Pact Builder,Создатель пактов
+Pact Corpse,Труп Пакт
+Pact Crash Site,Место крушения пакта
+Pact Crusader Neil,Пакт-крусадер Нил
+Pact Defender Undead,"Защитник Пакта, нежить"
+Pact Defenders,Защитники Пакта
+Pact Demolitionist Strixel,Пактный демиолиционист Стрикс
+Pact Donations Agent Ira,"Агент Ира, принимающая пожертвования для Пакта"
+Pact Explorer,Исследователь Пакт
 Pact First-Aid Supplies,Аптечка Пакт
-Pact Gate Squad,Pact Gate Squad
-Pact Golem,Pact Golem
-Pact Lightbringer,Pact Lightbringer
-Pact Memorial,Pact Memorial
-Pact Ordinance Expert,Pact Ordinance Expert
-Pact Ordnance,Pact Ordnance
-Pact Power Inverter,Pact Power Inverter
-Pact Researcher Maeva,Pact Researcher Maeva
-Pact Scout Berdrow,Pact Scout Berdrow
-Pact Scout Hywel,Pact Scout Hywel
+Pact Gate Squad,Отряд Пакт-Врат
+Pact Golem,Пакт-голем
+Pact Lightbringer,Светоносец Пакт
+Pact Memorial,Мемориал Заключённого пакта
+Pact Ordinance Expert,Эксперт по пактным постановлениям
+Pact Ordnance,Пакет вооружения
+Pact Power Inverter,Инвертор силы пакта
+Pact Researcher Maeva,Исследовательница Пакт Маэва
+Pact Scout Berdrow,Разведчик из Пакт Бердроу
+Pact Scout Hywel,Разведчик-пакт Хьюэл
 Pact Soldiers Rescued,Солдаты Пакт спасены.
 Pact Submarines Remaining,Осталось подводных лодок пакта.
-Pact Supply Caravan,Pact Supply Caravan
-Pact Tactician,Pact Tactician
-Pact Vigilante,Pact Vigilante
+Pact Supply Caravan,Караван снабжения Пакт
+Pact Tactician,Тактик Пакт
+Pact Vigilante,Страж Завета
 Pact Warmaster Shadowstriker is leading the northern invasion of Orr. He aims to assault Brassclaw Landing with submarines and golem-launching cannons and establish a beachhead on Orr's coast. A strong base there will guarantee our soldiers continued access to the dragon's territory.,"Военачальник Пакт, Шэдоустрайкер, возглавляет северное вторжение в Орр. Он планирует атаковать бухту Брасскло с помощью подводных лодок и пушек, запускающих големов, чтобы создать плацдарм на побережье Орра. Прочная база там обеспечит нашим солдатам постоянный доступ к территории дракона."
 Pact alive,Пактивен.
 Pact assault begins in: %str1%,Начало штурма: %str1%
@@ -255,8 +255,8 @@ Pact forces are fortifying their position in Gallant's Folly and rallying teams 
 Pact forces are fortifying their position in Gallant's Folly.,Силы пакта укрепляют свои позиции в Галлантс-Фолли.
 "Pact forces are gathering to the northeast at Oxbow Isle in preparation for battle with the Inquest and their infernal machinations. However, the krait and the minions of Zhaitan have been disrupting the supply routes. They must be dealt with before any assault can take place.  If you are willing to help, seek out Magister Kimberly on the isle.","Силы Пакта собираются к северо-востоку, на острове Оксбоу, готовясь к битве с Inquest и их адскими механизмами. Однако крайты и приспешники Зайтана рвут пути снабжения. С ними нужно разобраться, прежде чем начинать штурм.  Если вы готовы помочь, найдите на острове магистра Кимберли."
 Pact forces failed to destroy the Claw of Jormag. Corruption continues to spread through the area.,Силам Пакта не удалось уничтожить Claw of Jormag. Разложение продолжает распространяться по территории.
-Pact forces have begun preparing for the assault on the Temple of Balthazar.,Силы Пакта начали подготовку к штурму Храма Бальтазара.
-Pact forces have begun their assault on the Temple of Balthazar. They march toward the Altar of Betrayal.,Войска Пакта начали штурм Храма Бальтазара. Они движутся к Altar of Betrayal.
+Pact forces have begun preparing for the assault on the Temple of Balthazar.,Силы Пакта начали подготовку к штурму Храма Balthazar.
+Pact forces have begun their assault on the Temple of Balthazar. They march toward the Altar of Betrayal.,Войска Пакта начали штурм Храма Balthazar. Они движутся к Altar of Betrayal.
 Pact forces have breached the walls of Infinity Coil and are assaulting the facility's reactors.,Войска Пакта прорвали стены Бесконечной Спирали и атакуют реакторы комплекса.
 Pact members alive: %num1%/7,"Членов пакта, находящихся в живых: %num1%/7"
 Pact morale: %num1%%%,Боевой дух Пакта: %num1%%%
@@ -295,7 +295,7 @@ Pappupew,Паппупев
 Paracaidista,Парашютист
 Parallele Analyse,Параллельный анализ
 Paranormal Activity,Паранормальная активность
-Parasail Glider,Parasail Glider
+Parasail Glider,Парашютный дельтаплан
 Parasail Glider[s],[Глайдер|Глайдера|Глайдеров] «Парашют»
 Parasites,Паразиты
 Parrot[s],попугай[|и|и]
@@ -322,7 +322,7 @@ Passed-Out Skritt,Обессилевший скритт
 Passing Twilight,Проходящий Сумрак
 Passionate writing covers much of this journal from edge to edge.,Страстные записи занимают почти все страницы этого дневника.
 Passt perfekt,Идеально подходит.
-Pastkeeper Oldoo,Pastkeeper Oldoo
+Pastkeeper Oldoo,Хранитель прошлого Олду
 Path of Steel,Путь стали
 Pathetic wretch!,Жалкое ничтожество!
 Pathetic.,Жалкий.
@@ -334,7 +334,7 @@ Patrol Leader James,Командир патруля Джеймс
 Patrol retreats in: %str1%,Патруль отступает через: %str1%
 Paula,Паула
 Pauldrons of the Eternal Lieutenant,Наплечники вечного лейтенанта
-Pava,Pava
+Pava,Пава
 Pavilion Disciple,Ученик Павильона
 Pavilion Waypoint,Перекрёсток «Павильон»
 Paxx' Lieblingsgast,Любимый гость Пакса
@@ -346,8 +346,8 @@ Peace is an imperative.,Мир необходим.
 Peace preserved.,Мир восстановлен.
 Peacekeeper Strike,Удар миротворца
 Peacemaker 34-XS,Миротворец 34-XS
-Peacemaker Gammek,Peacemaker Gammek
-Peacemaker Skrimm,Peacemaker Skrimm
+Peacemaker Gammek,Миротворец Гаммек
+Peacemaker Skrimm,Миротворец Скримм
 Peacemaker in trouble.,Миротворец в беде.
 Peasant,Крестьянин
 Peat Gatherer,Собиратель торфа
@@ -356,13 +356,13 @@ Peated Whiskey Keg,Бочка копчёного виски
 Peche,Пеш
 Peculiar Orb,Странный шар
 "Pega, Who Fattens the Vulture","Пега, кто откармливает стервятника?"
-Peitha's troops are overrun and must retreat!,Войска Пейты окружены и вынуждены отступить!
+Peitha's troops are overrun and must retreat!,Войска Peitha окружены и вынуждены отступить!
 Peitha...,Пейта...
 Peitha?,Пейта?
 Pelixx,Пеликкс
 Pelkk,Пельк
 Pellam: Thorns! It's a trap!,Пеллам: Шипы! Это ловушка!
-Penelope,Penelope
+Penelope,Пенелопа
 Penitent Path is overrun with Risen.,Путь покаяния кишит восставшими.
 Penny Crabapple,Пенни Крэбэппл
 Peon Gniff,Пеон Гнифф

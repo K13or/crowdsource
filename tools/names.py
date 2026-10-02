@@ -35,6 +35,8 @@ STRIP_PL = re.compile(r"\[(?:s|pl:\"[^\"]*\")\]")
 
 # Категории bin, где ВСЯ строка — название вещи, а не фраза. Список закрытый:
 # «похоже на название» ловит хвосты флейвора, поэтому класс берём от источника.
+# `wizardsvault` здесь больше нет (2026-09-28): там задания Хранилища
+# («Defeat 25 Enemies», «Log In»), а не названия — см. NAMEMAP.md.
 NAME_CATS = {
     "item_names": "items", "skins": "skins", "minis": "minis",
     "achievement_names": "achievements", "achievement_categories": "achievements",
@@ -46,7 +48,7 @@ NAME_CATS = {
     "guild_upgrades": "guild", "specializations": "skills", "professions": "skills",
     "skill_names": "skills", "traits": "skills", "wvw_objectives": "wvw",
     "wvw_abilities": "wvw", "wvw_ranks": "wvw", "pvp_ranks": "pvp",
-    "pvp_heroes": "pvp", "wizardsvault": "wizardsvault", "itemstats": "itemstats",
+    "pvp_heroes": "pvp", "itemstats": "itemstats",
     "materials": "items",
 }
 # Категории второстепенного контента: имена оттуда — это NPC и монстры квестов.

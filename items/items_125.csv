@@ -1,5 +1,5 @@
 english,translate
-"""/BloodstoneBoogie"" Emote Tome","""/BloodstoneBoogie"" Emote Tome"
+"""/BloodstoneBoogie"" Emote Tome",Книга эмоций «/BloodstoneBoogie»
 """After your riveting success today,' you deserve applause. Don''t let Teyo''s deeds sully what you''ve accomplished.""'
 Double-click to gain 50 luck.","""После вашего захватывающего успеха сегодня,' вы заслуживаете аплодисментов. Не позволяйте делам Тейо очернить то, что вы совершили.""'
 Дважды щёлкните, чтобы получить 50 единиц удачи."
@@ -208,7 +208,7 @@ Double-click to gain 50 luck.","С уходом Корага его оставш
 "'""Obtain Rabsovich''s Locker Key from his remains in the Underground Facility fractal. Find his locker inside the Dociu Excavation in Dredgehaunt Cliffs and take his lost treasure.'",«Получите ключ от шкафчика Рабсовича из его останков в подземном фрактале. Найдите его шкафчик в раскопках Доциу в Dredgehaunt Cliffs и заберите его потерянное сокровище».
 "'""Obtain a jungle wurm egg by defeating the Greater Nightmare Vine in Twilight Arbor. Bring it to the Mossman''s hut in the Swampland fractal.'","«Добудьте яйцо лианового червя, одолев Великий ночной кошмар в Twilight Arbor. Принесите его в хижину Моссмена в Болотном фрактале.»"
 "'""Occasionally acquired by earning a silver medal or better in Eternity''s Garden adventures.'","'""Иногда можно получить, заняв серебряную медаль или выше в приключениях Сада Вечности.'"
-"'""Occasionally acquired from completing events in Eternity''s Garden.'","«Иногда можно получить за выполнение событий в Саду Вечности.»"
+"'""Occasionally acquired from completing events in Eternity''s Garden.'",«Иногда можно получить за выполнение событий в Саду Вечности.»
 "'""Occasionally acquired from completing jumping puzzles in Eternity''s Garden.'","«""Иногда можно получить за прохождение прыжковых головоломок в Саду Вечности.""»"
 "'""Occasionally acquired from obscured chests and magic mirrors in Eternity''s Garden.'",«Иногда добывается из скрытых сундуков и магических зеркал в Саду Вечности».
 "'""Redeem at a Shadows handler after successful field order deliveries or for renown with Keeper Pamir at Torment''s Watch in the Desolation.'",«Обменяйте у агента Теней после успешных доставок полевых приказов или за известность у Keeper Pamir в Дозоре Мучений в Пустоши».
@@ -262,8 +262,8 @@ Double-click to gain 50 luck.","С уходом Корага его оставш
 '• 1 Gift of Kamohoali''i Kotaki','• 1 Дар Камохоали'и Котаки'
 "'• Philosopher''s Stones or Mystic Crystals""'",«• Философские камни или мистические кристаллы»
 (This bundle is only usable in The Gang War of Echovald events.),(Этот свёрток можно использовать только в событиях «Бандитская война Эховальда».)
-"-Legionnaire Kress Rustmaw</c>""","-Легионер Kress Rustmaw</c>»"
-032 Dusk XIIV,032 Dusk XIIV
+"-Legionnaire Kress Rustmaw</c>""",-Легионер Kress Rustmaw</c>»
+032 Dusk XIIV,032 Сумрак XIIV
 "20 Slots,
 '<c=@flavor>""A crime scene is only fresh once—you''d best have all of your gear on you when you arrive."" —Marjory</c>'","20 слотов,
 '<c=@flavor>«Место преступления свежо лишь однажды — лучше иметь всё снаряжение при себе, когда вы туда прибываете.» —Марджори</c>'"
@@ -283,8 +283,8 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 слота. Оружие и броня будут помещаться в эту коробку раньше других пустых слотов. Содержимое этой коробки не будет перемещаться при сортировке инвентаря. Предметы из этой коробки никогда не появятся в списке на продажу торговцу.,
 Можно обменять на не связанную с душой версию у торговцев в Амнуне."
 "33%% chance to complete gathering instantly.""","33%% шанс мгновенно завершить сбор."""""
-403 Frost 0IIX,403 Frost 0IIX
-543 Bloom X011,543 Bloom X011
+403 Frost 0IIX,403 Мороз 0IIX
+543 Bloom X011,543 Цветение X011
 <c=#A594F7>Legendary Conqueror of Ura</c>,<c=#A594F7>Легендарный покоритель Уры</c>
 <c=#F8C56E>All unobtained skins have an equal chance of dropping.</c>,<c=#F8C56E>Все неполученные облики имеют равный шанс выпадения.</c>
 <c=#FFC957>All common dyes have an equal chance to drop.,<c=#FFC957>У всех распространённых красок одинаковый шанс выпадения.
@@ -294,7 +294,7 @@ Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 сло
 <c=@Flavor>A completely clean crystal capable of holding vast amounts of energy.</c>,"<c=@Flavor>Абсолютно чистый кристалл, способный вмещать огромные объёмы энергии.</c>"
 <c=@Flavor>A gemstone of incredible clarity and unique color.</c>,<c=@Flavor>Драгоценный камень невероятной чистоты и уникального цвета.</c>
 "<c=@Flavor>A mere handful of this effervescent glitter weighs immensely in your hand. </c>""",<c=@Flavor>Даже горстка этих искристых блёсток весит в руке неимоверно много. </c>«
-"<c=@Flavor>Crafted by Lucius Anvilblade. Honed Slivers by Adisa. Vengeance by Vlast.</c>""","<c=@Flavor>Создано Люциусом Наковальней. Заточенные осколки — Адисой. Месть — Властом.</c>»"
+"<c=@Flavor>Crafted by Lucius Anvilblade. Honed Slivers by Adisa. Vengeance by Vlast.</c>""",<c=@Flavor>Создано Люциусом Наковальней. Заточенные осколки — Адисой. Месть — Властом.</c>»
 "<c=@Flavor>Elonians have made great advances by repurposing older magics.</c>""","<c=@Flavor>Элонианцы добились больших успехов, перепрофилируя старую магию.</c>»"
 "<c=@Flavor>Evidence that you bore witness to the discovery of Mystic Forge secrets.</c>""","<c=@Flavor>Свидетельство того, что вы были свидетелем открытия секретов Mystic Forge.</c>»"
 "<c=@Flavor>For something so necessary,' it''s frightening to realize just how fragile they are.</c>'","<c=@Flavor>Для чего-то столь необходимого пугает осознание того, насколько они хрупки.</c>'"

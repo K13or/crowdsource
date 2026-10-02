@@ -18,7 +18,6 @@ Launch a rock at your foe.,Запустить камень во врага.
 Launch a rocket that pulls nearby enemies to the impact point.,"Запустить ракету, которая притягивает ближайших врагов к точке попадания."
 Launch a salvo of explosive rockets.,Запустить залп взрывных ракет.
 "Launch a short-range flare, disorienting toys and destroying trees and buildings in the blast.","Запустить сигнальную ракету ближнего радиуса, дезориентирующую игрушки и уничтожающую деревья и здания при взрыве."
-"Launch a siege attack that explodes on impact, damaging and burning foes.Turtle movement accelerates siege ammo acquisition.","Запустить осадную атаку, которая взрывается при ударе, нанося урон и поджигая врагов. Движение черепахи ускоряет получение осадных боеприпасов."
 Launch a vine at your target to pull them to your location.,"Запустить лиану в цель, чтобы притянуть её к вашему местоположению."
 Launch a volley of spines that inflict vulnerability.,"Выпустите залп шипов, наносящих уязвимость."
 Launch an orb of darkness at your target.,Запустите сферу тьмы в вашу цель.
@@ -27,7 +26,6 @@ Launch Concussion Barrage,Запустить контузионный залп
 Launch Elixir,Запустить эликсир
 Launch Emotions,Запустить эмоции
 Launch Fist,Запустить кулак
-"Launch gathered energy that explodes on impact, damaging and burning foes.Turtle movement replenishes energy. Sprint and Slide generate bonus energy.","Запустите накопленную энергию, которая взрывается при ударе, нанося урон и поджигая врагов. Перемещение черепахи восполняет энергию. Спринт и скольжение генерируют бонусную энергию."
 Launch Golem Pod,Запустить капсулу голема
 Launch Ice Mortar,Запустить ледяной миномёт
 Launch Mine,Запустить мину
@@ -95,20 +93,20 @@ Lay Down,Лечь
 "Lay down a smoke screen behind you, blocking enemy projectiles.","Установите дымовую завесу позади себя, блокирующую вражеские снаряды."
 Lay Eggs,Отложить яйца
 Lay Mine,Установить мину
-Lay the phantom residue to rest at the foot of the Statue of Grenth in Lornar's Pass.,Упокойте фантомный остаток у подножия статуи Грента в Lornar's Pass.
+Lay the phantom residue to rest at the foot of the Statue of Grenth in Lornar's Pass.,Упокойте фантомный остаток у подножия статуи Grenth в Lornar's Pass.
 Layers of Rot,Слои гнили
 Laying the Star to Rest,Упокоение звезды
 Layout could not be loaded because it contains invalid decorations.,"Макет не удалось загрузить, так как он содержит недопустимые украшения."
 Layout saved at %str1%.,Макет сохранен в %str1%.
 Lays Eggs • Pulls,Откладывает яйца • Тянет
-Lazarus cannot be harmed while his aspects exist.,"Лазаруса нельзя ранить, пока существуют его аспекты."
-Lazarus the Dire,Lazarus the Dire
-"Lazarus was rumored to be the last living mursaat. Unchanged and as calamitous as he was during the Age of Beasts, Lazarus finally met his end in 1330 AE.","Ходили слухи, что Лазарус был последним живым мурсаатом. Неизменный и столь же катастрофичный, как во времена Эпохи Зверей, Лазарус наконец встретил свой конец в 1330 ПИ."
+Lazarus cannot be harmed while his aspects exist.,"Lazarus нельзя ранить, пока существуют его аспекты."
+Lazarus the Dire,Лазарус Грозный
+"Lazarus was rumored to be the last living mursaat. Unchanged and as calamitous as he was during the Age of Beasts, Lazarus finally met his end in 1330 AE.","Ходили слухи, что Lazarus был последним живым мурсаатом. Неизменный и столь же катастрофичный, как во времена Эпохи Зверей, Lazarus наконец встретил свой конец в 1330 ПИ."
 Lazy Skritt,Ленивый скритт
 Lead Dye[s],[Краска|Краски|Красок] «Свинец»
-Lead Explorer Baligh,Lead Explorer Baligh
-Lead Explorer Ife,Lead Explorer Ife
-Lead Testers,Lead Testers
+Lead Explorer Baligh,Главный исследователь Балиг
+Lead Explorer Ife,Ведущий исследователь Ифе
+Lead Testers,Ведущие тестировщики
 Lead the way. I'll protect you.,Веди. Я защищу тебя.
 Lead your guild into battle with this banner!,Ведите свою гильдию в бой с этим знаменем!
 Leader (Bonus Event),Лидер (Бонусное событие)
@@ -132,7 +130,7 @@ League Vendor,Торговец Лиги
 Leaking Bloodstone Vein,Протекающая жила кровавого камня
 Leaking Magic,Утекающая магия
 Leaking Magic Pipe,Утекающая магическая труба
-"Leap a great distance toward your foe, and ravage them with Sohothin's power. Reduces cooldown on Flame Spit and Cataclysm.",Совершите прыжок на большое расстояние к врагу и опустошите его силой Сохотина. Сокращает время восстановления Огненного плевка и Катаклизма.
+"Leap a great distance toward your foe, and ravage them with Sohothin's power. Reduces cooldown on Flame Spit and Cataclysm.",Совершите прыжок на большое расстояние к врагу и опустошите его силой Sohothin. Сокращает время восстановления Огненного плевка и Катаклизма.
 "Leap and strike your foe, then evade backward.","Прыгните и нанесите удар врагу, затем уклонитесь назад."
 "Leap at a competitor, causing knockdown on impact. Breaks plank.","Прыгните на соперника, вызывая нокдаун при ударе. Ломает доску."
 Leap at a target,Прыжок к цели
@@ -156,7 +154,7 @@ Leap forward and gain regeneration.,"Прыжок вперёд, дающий р�
 Leap from your hiding place.,Прыжок из укрытия.
 Leap high into the air.,Прыжок высоко в воздух.
 "Leap into the air, then summon and mount your skyscale.","Прыжок в воздух, затем призыв и оседлание скайскейла."
-Leap to Lazarus and end this Krytan nightmare once and for all.,Прыжок к Лазарю и окончание этого крайтанского кошмара раз и навсегда.
+Leap to Lazarus and end this Krytan nightmare once and for all.,Прыжок к Lazarus и окончание этого крайтанского кошмара раз и навсегда.
 "Leap to your destination, evading through the air. Daze enemies near your impact point.<br><br>If you are at or above the Blight threshold when you activate this skill, consume that amount of Blight to double the damage and torment struck foes.","Прыжок к цели, уклонение в воздухе. Оглушение врагов рядом с точкой приземления.<br><br>Если при активации навыка вы находитесь на пороге Чумы или выше, поглотите это количество Чумы, чтобы удвоить урон и наложить мучение на пораженных врагов."
 Leap toward your foes with a powerful swipe.,Прыжок к врагам с мощным взмахом.
 "Leap toward your target and crash into the ground, unleashing fiery projectiles in every direction. After traveling a fixed distance, the projectiles will boomerang back to you.","Прыжок к цели и падение на землю, выпускающее огненные снаряды во всех направлениях. После пролета фиксированного расстояния снаряды вернутся к вам бумерангом."
@@ -175,7 +173,7 @@ Leaping Stab,Прыжок-колющий удар
 "Learn a new skill that sinks enemies swimming close to your skiff.<br><br>Increases your skiff's hit points by 2,500.","Изучите новое умение, которое топит врагов, плавающих рядом с вашим скифом.<br><br>Увеличивает запас прочности вашего скифа на 2500 ед."
 Learn a powerful maneuver that does massive damage to the defiance bar of impenetrable enemies.,"Изучите мощный приём, наносящий огромный урон шкале сопротивления непробиваемых врагов."
 Learn about Guilds,Узнать о гильдиях
-Learn about lifting the curse from Isgarren.,Узнайте о снятии проклятия с Исгаррена.
+Learn about lifting the curse from Isgarren.,Узнайте о снятии проклятия с Isgarren.
 Learn about the fractured ruins of Devastated Garenhoff.,Узнайте о разрушенных руинах опустошённого Гаренхоффа.
 Learn about the historical monument of Droknar's Light.,Узнайте об историческом памятнике «Droknar's Light».
 Learn about the history of the Kryptis from Agathine at the Old Settlement.,Узнайте историю криптисов от Агатины в Старом поселении.
@@ -214,10 +212,8 @@ Learn The Minstrel's Song from Maklain the Minstrel in Cursed Shore.,Выучи�
 Learn to automatically pick up loot from fallen foes.,Научитесь автоматически подбирать добычу с поверженных врагов.
 Learn to craft and decorate your homestead.,Научитесь создавать и украшать свой дом.
 Learn to Dance<br>Like the Pros!,Научитесь танцевать<br>как профессионалы!
-"Learn to dive underwater with the skimmer.If you also have the Skimming the Depths Skimmer Mount Mastery trained, this also increases the base ground speed of the skimmer and grants 3 seconds of stealth when entering or exiting water. (30s cooldown)","Научитесь нырять под воду на скиммере.Если вы также изучили мастерство верховой езды на скиммере «Skimming the Depths», это также увеличивает базовую наземную скорость скиммера и даёт 3 секунды невидимости при входе или выходе из воды. (перезарядка 30 сек.)"
 Learn to fight with a spear on land and survive in Janthir as the lowland kodan do.,"Научитесь сражаться копьём на суше и выживать в Джантире, как это делают низменные коданы."
 Learn to glide with such efficiency that you no longer use endurance except when leaning forward.,"Научитесь планировать так эффективно, что вы больше не будете тратить выносливость, кроме как при наклоне вперёд."
-"Learn to mount the skyscale in midair to save yourself while falling.If you also have the Air Rescue Skyscale Mount Mastery trained, your skyscale may gain the Bond of Vigor effect shortly after mounting in midair.<br><br>Unlock the A New Friend achievement.","Научитесь садиться на скайскейл в воздухе, чтобы спастись при падении.Если вы также изучили мастерство верховой езды на скайскейле «Air Rescue», ваш скайскейл может получить эффект «Узы рвения» вскоре после посадки в воздухе.<br><br>Откройте достижение «A New Friend»."
 Learn varietal-seed harvesting from Mender Earie in the Grove.,Научитесь сбору сортовых семян у целительницы Эри в Роще.
 Learn!,Изучить!
 Learned of Asaliea the Channeler.,Узнал об Асалие Каналере.
@@ -242,7 +238,7 @@ Learning About WvW,Изучение WvW
 Leash to Spawn,Привязь к спавну
 Leather Shipment[s],Парти[я|и|й] кожи
 Leather Shoulderpads,Кожаные наплечники
-Leather Straps,Leather Straps
+Leather Straps,Кожаные ремни
 Leather Straps Chestpiece and Cingulum Package now available!,Набор «Leather Straps: нагрудник и цингулум» уже доступен!
 Leather Straps Chestpiece Skin[s],[Облик|Облика|Обликов] нагрудника «Кожаные ремни»
 Leather Straps Cingulum Skin[s],[Облик|Облика|Обликов] пояса «Кожаные ремни»
@@ -343,9 +339,9 @@ Legendary Assassin Stance: This skill deals increased damage. Apply additional c
 Legendary Assassin Training,Обучение легендарного убийцы
 Legendary Assisted Crafting<br>• Refine Gifts at an Upcharge,Легендарное вспомогательное крафтинг<br>• Перерабатывайте дары с наценкой
 "Legendary Belongings[pl:""Belongings""] of the Great Zehtuka",Легендарные вещи [Вещь|Вещи|Вещей] Великой Зехтуки
-Legendary Blade,Legendary Blade
-Legendary Branded Hydra,Legendary Branded Hydra
-Legendary Branded Riftstalker Matriarch,Legendary Branded Riftstalker Matriarch
+Legendary Blade,Легендарный клинок
+Legendary Branded Hydra,Легендарная Клеймёная Гидра
+Legendary Branded Riftstalker Matriarch,Легендарная Клеймёная Матриарх Разломохода
 "Legendary Cache[pl:""Caches""]",Легендарный тайник[|а|ов]
 "Legendary Captain DeLana Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей легендарной капитана ДеЛаны
 Legendary Centaur Stance: Apply boons to allies around you if an enemy is struck.,"Легендарная стойка кентавра: накладывает благословения на союзников вокруг вас, если враг поражён."
@@ -354,15 +350,15 @@ Legendary Centaur Stance: Heal and remove conditions from allies in range of you
 Legendary Centaur Training,Легендарная тренировка кентавра
 Legendary Cheese[s],Легендарный сыр[|а|ов]
 "Legendary Coffer[pl:""Coffers""]",Легендарный Лар[ец|ца|цов]
-Legendary Collection 1,Legendary Collection 1
-Legendary Collection 2,Legendary Collection 2
-Legendary Collection 3,Legendary Collection 3
-Legendary Collection 4,Legendary Collection 4
+Legendary Collection 1,Легендарная коллекция 1
+Legendary Collection 2,Легендарная коллекция 2
+Legendary Collection 3,Легендарная коллекция 3
+Legendary Collection 4,Легендарная коллекция 4
 Legendary Component,Легендарный компонент
 Legendary Components,Легендарные компоненты
 Legendary Components<br>• Buy Collection Unlocks<br>• Buy Collection Items,Легендарные компоненты<br>• Купить открытия коллекции<br>• Купить предметы коллекции
 Legendary Crafting<br>• Buy Collection Unlocks<br>• Buy Collection Items<br>• Buy Recipes,Легендарное крафтинг<br>• Купить открытия коллекции<br>• Купить предметы коллекции<br>• Купить рецепты
-Legendary Death-Branded Wrathbringer,Legendary Death-Branded Wrathbringer
+Legendary Death-Branded Wrathbringer,Легендарный Вестник Гнева Смертной Метки
 "Legendary Demigod[f:""Demigoddess""]",Легендарный Полубог[|иня]
 Legendary Demon Stance: Apply conditions to enemies struck.,Легендарная стойка демона: Применение состояний к поражённым врагам.
 "Legendary Demon Stance: You and the fragment shatter after the initial attack, dealing additional damage and confusion to enemies.","Легендарная стойка демона: Вы и осколок разрушаетесь после начальной атаки, нанося дополнительный урон и замешательство врагам."
@@ -378,15 +374,15 @@ Legendary Dwarf Training,Легендарное обучение дварфа
 "Legendary Gaheron Baelfire Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей легендарного Гахерона Бэйлфайра
 Legendary Gift Starter Kit[s],Легендарный стартовый [набор|набора|наборов] подарка
 Legendary Gifts,Легендарные дары
-Legendary Glove Crafting,Legendary Glove Crafting
+Legendary Glove Crafting,Легендарное создание перчаток
 "Legendary Huntsman Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей Охотника Легенды
 Legendary Inscription[s],[Легендарная гравировка|Легендарные гравировки|Легендарных гравировок]
 Legendary Insight[s],Легендарный [прозрение|прозрения|прозрений]
 "Legendary Iron Forgeman Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей легендарного Железного кузнеца
-Legendary Journey Unlocks,Legendary Journey Unlocks
+Legendary Journey Unlocks,Легендарные открытия путешествия
 "Legendary Kudu's Monster Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей легендарного монстра Куду
 Legendary Leaderboard,Легендарная таблица лидеров
-Legendary Materials,Legendary Materials
+Legendary Materials,Легендарные материалы
 "Legendary Mistforged Trunk[pl:""Trunks""]",Легендарный Кованый сундук
 Legendary Mode Available,Легендарный режим доступен
 Legendary Precursor Weapons,Легендарное оружие-предшественник
@@ -438,28 +434,28 @@ Legion Warseat[s],[Боевое кресло|Боевых кресла|Боев�
 Legion Warthrone[s],[Боевой трон|Боевых трона|Боевых тронов] Легиона
 Legion's Light (Level 26),Свет Легиона (Ур. 26)
 Legion's Light (Level 51),Свет Легиона (Ур. 51)
-Legionnaire Aemilia Brightsword,Legionnaire Aemilia Brightsword
+Legionnaire Aemilia Brightsword,Легионер Эмилия Брайтсворд
 Legionnaire Axe Skin[s],[Облик|Облика|Обликов] топора легионера
 Legionnaire Bayonet Skin[s],[Облик|Облика|Обликов] штыка Легионера
-Legionnaire Bladechipper,Legionnaire Bladechipper
-Legionnaire Crunchbone,Legionnaire Crunchbone
+Legionnaire Bladechipper,Легионерский Дробитель Лезвий
+Legionnaire Crunchbone,Легионерский Хрусткая Кость
 Legionnaire Dagger Skin[s],[Облик|Облика|Обликов] кинжала Легионера
 Legionnaire Dye[s],[Краска|Краски|Красок] «Легионер»
 Legionnaire Firebrand Skin[s],[Облик|Облика|Обликов] «Пылающий» Легионера
 Legionnaire Greatsword Skin[s],[Облик|Облика|Обликов] двуручного меча Легионера
 Legionnaire Harpoon Skin[s],[Облик|Облика|Обликов] гарпуна Легионера
 Legionnaire Horn Skin[s],[Облик|Облика|Обликов] рога Легионера
-Legionnaire Kelith Boneflayer,Legionnaire Kelith Boneflayer
-Legionnaire Kress Rustmaw,Legionnaire Kress Rustmaw
+Legionnaire Kelith Boneflayer,Легионер Келит Костедроб
+Legionnaire Kress Rustmaw,Легионер Кресс Ржапаст
 Legionnaire Longbow Skin[s],[Облик|Облика|Обликов] длинного лука Легионера
-Legionnaire Lutha Oreseeker,Legionnaire Lutha Oreseeker
+Legionnaire Lutha Oreseeker,Легионер Лута Искательница Руды
 Legionnaire Mace Skin[s],[Облик|Облика|Обликов] булавы Легионера
 Legionnaire Maul Skin[s],[Облик|Облика|Обликов] кувалды Легионера
 Legionnaire Neverburn thanks you for your assistance.,Legionnaire Neverburn благодарит вас за помощь.
 Legionnaire Shield Skin[s],[Облик|Облика|Обликов] щита Легионера
 Legionnaire Short Bow Skin[s],[Облик|Облика|Обликов] короткого лука Легионера
 Legionnaire Sidearm Skin[s],[Облик|Облика|Обликов] пистолета Легионера
-Legionnaire Sleekfur,Legionnaire Sleekfur
+Legionnaire Sleekfur,Легионер Гладкошёрст
 Legionnaire Speargun Skin[s],[Облик|Облика|Обликов] гарпунного ружья Легионера
 Legionnaire Staff Skin[s],[Облик|Облика|Обликов] посоха Легионера
 "Legionnaire Steelbane was furious after Smokestead, and he's decided that you're his scapegoat. He's already ordered you beaten and given you demeaning cub duty. If you can't prove your worth, you may never get back on his good side.","Легионер Сталебой был в ярости после Дымного Подворья и решил сделать вас козлом отпущения. Он уже приказал избить вас и назначил унизительную работу с детёнышами. Если вы не докажете свою ценность, вам, возможно, никогда не вернуть его расположение."
@@ -467,7 +463,7 @@ Legionnaire Sword Skin[s],[Облик|Облика|Обликов] меча ле
 Legionnaire Symbol Skin[s],[Облик|Облика|Обликов] символа легионера
 Legionnaire Trident Skin[s],[Облик|Облика|Обликов] трезубца легионера
 Legionnaire Virge Skin[s],[Облик|Облика|Обликов] жезла легионера
-Legionnaire Zagan Bendsteel,Legionnaire Zagan Bendsteel
+Legionnaire Zagan Bendsteel,Легионер Заган Гнисталь
 Legionnaire's Chair[s],[Стул|Стула|Стульев] легионера
 Legionnaire's Potion[s],[Зелье|Зелья|Зелий] легионера
 Lemon Bar[s],[Лимонный батончик|Лимонного батончика|Лимонных батончиков]

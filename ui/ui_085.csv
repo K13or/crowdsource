@@ -10,7 +10,6 @@ John C's Happy Fun Land,Весёлая страна Джона Си
 Join %str1%,Присоединиться к %str1%
 Join %str1%'s story: %str2%.,Присоединиться к истории %str1%: %str2%.
 Join a public mission to be grouped with others. Suitable for 1 to 5 players.,"Присоединиться к публичной миссии, чтобы объединиться с другими. Подходит для 1–5 игроков."
-Join a public version of Convergences in Mount Balrior with your party and other players.NOTE: This content contains spoilers for Guild Wars 2: Janthir Wilds Chapter 13: Balrior Peak,Присоединяйтесь к другим игрокам и своей группе в публичной версии «Схождения» на горе Бальриор. ВНИМАНИЕ: этот контент содержит спойлеры к главе 13 игры Guild Wars 2: Janthir Wilds — «Вершина Бальриора».
 Join a public version of Convergences with your party and other players.,Присоединиться к публичной версии Схождений со своей группой и другими игроками.
 Join a public version of Dragonstorm with your party and other players.,Присоединиться к публичной версии Драконьего Шторма со своей группой и другими игроками.
 Join a public version of Forging Steel. Player limit: 10.,Присоединиться к публичной версии Forging Steel. Лимит игроков: 10.
@@ -21,10 +20,10 @@ Join a public version of Wild Titan with your party and other players.,Прис�
 "Join a PvP game by talking to the PvP Browser NPC, or join tournaments through the Tournament Master.","Присоединитесь к PvP-игре, поговорив с NPC «PvP Browser», или участвуйте в турнирах через Master турниров."
 Join a PvP game.,Присоединиться к PvP-игре.
 Join Beta,Присоединиться к бета-тесту
-Join Braham and repel the Molten Alliance threat at Cragstead.,Присоединиться к Браму и отразить угрозу Альянса Расплава в Крэгстеде.
-Join Captain Kiel in greeting the Master of Peace.,"Присоединиться к капитану Киль, чтобы поприветствовать Master of Peace."
+Join Braham and repel the Molten Alliance threat at Cragstead.,Присоединиться к Браму и отразить угрозу Альянса Расплава в Cragstead.
+Join Captain Kiel in greeting the Master of Peace.,"Присоединиться к капитану Kiel, чтобы поприветствовать Master of Peace."
 Join Conjured Doorway Party,Присоединиться к вечеринке у Призванного портала
-Join forces with Marjory and Kasmeer to infiltrate the Nightmare Tower and defeat the Toxic Alliance at Kessex Hills.,"Объедините усилия с Марджори и Касмиром, чтобы проникнуть в Башню Кошмаров и победить Токсический Альянс в Kessex Hills."
+Join forces with Marjory and Kasmeer to infiltrate the Nightmare Tower and defeat the Toxic Alliance at Kessex Hills.,"Объедините усилия с Marjory и Касмиром, чтобы проникнуть в Башню Кошмаров и победить Токсический Альянс в Kessex Hills."
 Join Friend in PvP,Присоединиться к другу в PvP
 Join Game,Присоединиться к игре
 Join in %str1%,Присоединиться к %str1%
@@ -68,8 +67,8 @@ Joining the Cause,Присоединение к делу
 Jointe automatiquement,Присоединен автоматически
 Joko Awakens the fallen.,Джоко пробуждает павших.
 Joko feasts.,Джоко пирует.
-Joko will not tolerate failure! Awakened forces press their attack.,Джоко не потерпит неудач! Пробуждённые силы усиливают атаку.
-Joko's ambush has prevailed.,Засада Джоко увенчалась успехом.
+Joko will not tolerate failure! Awakened forces press their attack.,Joko не потерпит неудач! Пробуждённые силы усиливают атаку.
+Joko's ambush has prevailed.,Засада Joko увенчалась успехом.
 Joko's minions killed,Приспешники Джоко убиты
 Joko's Throne at the Bone Palace sits empty of late. Palawa Joko hasn't been seen in quite a while.,Трон Джоко в Костяном дворце в последнее время пустует. Palawa Joko давно не видели.
 "Jokopu[pl:""Jokopu""]",Йокопу
@@ -88,9 +87,9 @@ Jordi Laysmith,Джорди Лейсмит
 Jormag Attunement,Привязка к Жормугу
 Jormag Dye Kit[s],[Набор|Набора|Наборов] красок Йормага
 Jormag Energy,Энергия Йормага
-Jormag has summoned a blizzard to extinguish Koda's Flame. Keep the braziers lit.,"Йормаг призвал метель, чтобы погасить Koda's Flame. Поддерживайте огонь в жаровнях."
+Jormag has summoned a blizzard to extinguish Koda's Flame. Keep the braziers lit.,"Jormag призвал метель, чтобы погасить Koda's Flame. Поддерживайте огонь в жаровнях."
 Jormag Hologram Generator[s],[Генератор|Генератора|Генераторов] голограммы Йормага
-Jormag is drawing magic from ley lines!,Йормаг вытягивает магию из лей-линий!
+Jormag is drawing magic from ley lines!,Jormag вытягивает магию из лей-линий!
 Jormag Left Eye Infusion[s],[Инфузия|Инфузии|Инфузий] левого глаза Йормага
 Jormag Legendary Weapon Skins,Облики легендарного оружия Йормага
 "Jormag Minion Loot Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] с добычей от прислужника Йормаг
@@ -99,14 +98,14 @@ Jormag Right Eye Infusion[s],[Инфузия|Инфузии|Инфузий] пр
 Jormag's Argument Skin[s],[Облик|Облика|Обликов] «Довод Йормага»
 Jormag's Bite Skin[s],[Облик|Облика|Обликов] «Укус Йормага»
 Jormag's Breath Skin[s],[Облик|Облика|Обликов] «Дыхание Йормага»
-Jormag's champions defeated: %num1%/%num2%,Побеждено чемпионов Йормага: %num1%/%num2%
+Jormag's champions defeated: %num1%/%num2%,Побеждено чемпионов Jormag: %num1%/%num2%
 Jormag's Claw Fragment[s],[Фрагмент|Фрагмента|Фрагментов] когтя Йормага
 Jormag's Claw Skin[s],[Облик|Облика|Обликов] «Коготь Йормага»
 Jormag's enemy.,Враг Йормага.
 Jormag's Fang Skin[s],[Облик|Облика|Обликов] «Клык Йормага»
 Jormag's Flight Skin[s],Облик[|а|ов] «Полёт Йормага»
 Jormag's Fury,Ярость Йормага
-Jormag's fury brings forth champions. They must be eliminated!,Ярость Йормага порождает чемпионов. Их необходимо устранить!
+Jormag's fury brings forth champions. They must be eliminated!,Ярость Jormag порождает чемпионов. Их необходимо устранить!
 Jormag's Gaze Skin[s],Облик[|а|ов] «Взгляд Йормага»
 Jormag's Insight Skin[s],Облик[|а|ов] «Проницательность Йормага»
 Jormag's Persuasion Skin[s],Облик[|а|ов] «Убеждение Йормага»
@@ -119,7 +118,7 @@ Jormag's Weight Skin[s],Облик[|а|ов] «Вес Йормага»
 Jormag's Wing Skin[s],Облик[|а|ов] «Крыло Йормага»
 Jormag's Wisdom Skin[s],Облик[|а|ов] «Мудрость Йормага»
 "Jorms Plush[pl:""Plushes""]",Джурмский плюш[и|ши|ев]
-Josso Essher,Josso Essher
+Josso Essher,Джоссо Эшшер
 Jot Something Down,Записать что-нибудь
 Jotun Flurry,Шквал Йотуна
 Jotun has been killed.,Йотун убит.
@@ -142,7 +141,7 @@ Journal Fragment,Фрагмент дневника
 Journal of a lost tengu.,Дневник потерявшегося тенгу.
 Journal of Forgemender Arngirn,Дневник кузнеца-заклинателя Арнгерна
 Journal of Kaze Hawkstrider,Дневник Кейза Ястребиного Шага
-Journal of Kormir: Found in the hidden room.,Дневник Кормир: найден в скрытой комнате.
+Journal of Kormir: Found in the hidden room.,Дневник Kormir: найден в скрытой комнате.
 Journal of Overseer Atticus,Дневник надзирателя Аттика
 "Journal of P.J. Frenlin, Explorer","Дневник П. Дж. Френлина, исследователя"
 Journal Page,Страница дневника
@@ -152,7 +151,7 @@ Journey deeper and visit heartofthorns.guildwars2.com to learn more.,"Отпра
 Journey forth?,Отправиться в путь?
 Journey north into the rugged wilderness of Janthir to befriend its denizens and fortify against the impending threats they face.<br><c=@reminder>(Requires the Janthir Wilds expansion.)</c>,"Отправляйтесь на север, в суровую дикую местность Джантир, чтобы подружиться с её обитателями и укрепить оборону против надвигающихся угроз.<br><c=@reminder>(Требуется дополнение «Janthir Wilds».)</c>"
 "Journey to Cantha and complete the story step ""Old Friends"" to unlock Mastery tracks.","Отправляйтесь в Кантху и завершите шаг истории «Old Friends», чтобы открыть треки мастерства."
-Journey to Cantha and obtain a Mastery point from End of Dragons achievements to unlock these Mastery tracks.,"Отправляйтесь в Канту и получите очко мастерства за достижения «End of Dragons», чтобы открыть эти ветки мастерства."
+Journey to Cantha and obtain a Mastery point from End of Dragons achievements to unlock these Mastery tracks.,"Отправляйтесь в Cantha и получите очко мастерства за достижения «End of Dragons», чтобы открыть эти ветки мастерства."
 Journey to Castora and obtain a Mastery point from Visions of Eternity achievements to unlock these Mastery tracks.,"Отправляйтесь в Кастору и получите очко мастерства за достижения «Visions of Eternity», чтобы открыть эти ветки мастерства."
 Journey to Janthir Wilds and obtain a Mastery point from Janthir Wilds achievements to unlock these Mastery tracks.,"Отправляйтесь в Janthir Wilds и получите очко мастерства за выполнение достижений Диких земель Джантира, чтобы открыть эти ветки мастерства."
 "Journey to the Crystal Desert and complete the story step ""Sparking the Flame"" to unlock Mastery tracks.","Отправляйтесь в Crystal Desert и завершите шаг истории «Зажигая пламя», чтобы открыть треки мастерства."
@@ -261,7 +260,7 @@ Jungle Magics: Torch Edition,"Джунглевая магия: Факел, из�
 Jungle Magics: Trident Edition,"Джунглевая магия: Трезубец, издание"
 Jungle Magics: Warhorn Edition,Джунглевая магия: издание «Боевой рог»
 Jungle Material Donations,Пожертвования материалов джунглей
-"Jungle Phoenix Finisher Box[pl:""Boxes""]","Коробка с обликом «Джунглевый феникс»[|и|я]"
+"Jungle Phoenix Finisher Box[pl:""Boxes""]",Коробка с обликом «Джунглевый феникс»[|и|я]
 Jungle Phoenix Rank Reward Track,Трек наград ранга Джунглевый Феникс
 Jungle Plant[s],[Растение|Растения|Растений] джунглей
 Jungle Plants,Джунглевые растения
@@ -308,9 +307,9 @@ Just Take It...,Просто возьми...
 Just when you thought it was over!,"А вы думали, всё кончено!"
 Justice is served.,Правосудие свершилось.
 Justice traits are recharging.,Черты правосудия перезаряжаются.
-Justiciar Araya,Justiciar Araya
-"Justiciar Caudecus,I share your concern with Confessor Esthel's newfound piousness. The White Mantle are meant for greater things than playing servant to some has-been god.","Юстициарий Кодек, я разделяю вашу обеспокоенность по поводу новой набожности Исповедницы Эстель. Белый Плащ предназначен для более великих дел, чем прислуживание какому-то забытому богу."
-"Justiciar Caudecus,The Unseen Ones smile upon us. After years of searching, High Inquisitor Xera has found a lead on the refuge of our injured god, Lazarus.","Юстициарий Кодека, Невидимые улыбаются нам. После долгих поисков Верховный инквизитор Ксера нашла зацепку к убежищу нашего раненого бога, Лазаря."
+Justiciar Araya,Юстициарий Арая
+"Justiciar Caudecus,I share your concern with Confessor Esthel's newfound piousness. The White Mantle are meant for greater things than playing servant to some has-been god.","Юстициарий Caudecus, я разделяю вашу обеспокоенность по поводу новой набожности Исповедницы Эстель. Белый Плащ предназначен для более великих дел, чем прислуживание какому-то забытому богу."
+"Justiciar Caudecus,The Unseen Ones smile upon us. After years of searching, High Inquisitor Xera has found a lead on the refuge of our injured god, Lazarus.","Юстициарий Caudecus, Невидимые улыбаются нам. После долгих поисков Верховный инквизитор Ксера нашла зацепку к убежищу нашего раненого бога, Лазаря."
 Justiciar's Flame,Пламя юстициара
 Justiciar's Will,Воля юстициара
 "Justiciar,The offering you've made of those responsible for the cowardly attack on our settlement has prompted me to reconsider your proposal.","Юстициарий, принесённая вами жертва тех, кто ответственен за трусливую атаку на наше поселение, побудила меня пересмотреть ваше предложение."
@@ -382,10 +381,9 @@ Juvenile Wolf[s],Молодой волк[|а|ов]
 KABOOM!,БА-БАХ!
 "Kahawai[pl:""Kahawais""]",Кахавай[а|и|ев]
 Kahloipoi Friendship Bracelet[s],Браслет дружбы Кахойпои[|а|ов]
-Kai Clashscorn,Kai Clashscorn
+Kai Clashscorn,Кай Клашскорн
 Kaidenna and a small band of Followers of Ascension seek a Forgotten teleporter to access Augury Rock.Augury Rock is closed.,"Кайденна и небольшой отряд Followers of Ascension ищут забытый телепорт, чтобы попасть к Камню Предзнаменований. Камень Предзнаменований закрыт."
 Kaidenna's wyld hunt is to uncover the secrets of Ascension. She can be located either by the contract board or by heading to Augury Rock.,"Дикая охота Кайденны заключается в раскрытии секретов Вознесения. Её можно найти либо у доски объявлений, либо направившись к Augury Rock."
-"Kaijun knelt before the bodies. The ritual was complete; everyone that had once done her harm met a potent, venomous death. She placed the knife on the ground and closed her eyes. For the first time since the incident so many years ago, she smiled. She smiled for the life she'd once lived, the souls she once aided. But that woman was gone, snuffed out by years of torture and cruelty.When she arose from the floor, she was swallowed by the stars. She took her place in the land of the Celestials quickly. Silently.","Кайджун встала на колени перед телами. Ритуал был завершён; все, кто когда-либо причинил ей вред, встретили мощную, ядовитую смерть. Она положила нож на землю и закрыла глаза. Впервые с того происшествия много лет назад она улыбнулась. Она улыбнулась жизни, которой когда-то жила, душам, которым когда-то помогала. Но та женщина исчезла, погашенная годами пыток и жестокости. Когда она поднялась с пола, её поглотили звёзды. Она быстро заняла своё место в земле Небожителей. Молчаливо."
 Kaineng [lbracket]D[rbracket],Кайнинг [lbracket]D[rbracket]
 Kaineng City Fishing License[s],Лиценз[ия|ии|ий] на рыбалку в городе Каинег
 Kaineng City Fractal Research,Исследование фракталов Каиненга
@@ -418,7 +416,7 @@ Kalla's Fervor per Hit,Kalla's Fervor за удар
 "Kaluga[pl:""Kaluga""]",[Калуга|Калуги|Калуг]
 "Kameela, Black Lion Trader","Камила, торговец Чёрного Льва"
 Kamehameha 2,Камехамеха 2
-Kami Crimsonwing,Kami Crimsonwing
+Kami Crimsonwing,Ками Багрянокрылая
 Kanaxai is consuming his Aspects for a massive attack!,Канаксай поглощает свои Аспекты для мощной атаки!
 Kandien's Thoughts,Мысли Кандиена
 Karas the Undying's Soul Energy,Энергия души Караса Бессмертного
@@ -459,7 +457,7 @@ Kasmeer's Regal Outfit[s],Костюм Касмир[|а|ов]
 Kasmeer's Regalia Cape[s],[Плащ|Плаща|Плащей] регалий Касмир
 Kasmeer's Staff Skin[s],[Облик|Облика|Обликов] посоха Касмир
 Kastaz Roasted Poultry[s],Кастаз [жареная птица|жареной птицы|жареных птиц]
-Kastaz Strongpaw,Kastaz Strongpaw
+Kastaz Strongpaw,Кастаз Сильная Лапа
 Kastaz Strongpaw appreciates your help.,Kastaz Strongpaw ценит вашу помощь.
 Kay'li Academy Emergency Waypoint,Аварийная путевая точка Академии И'лан
 Keen Edge,Острый клинок

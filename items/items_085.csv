@@ -25,7 +25,7 @@ Recipe Unlock: Double-click to unlock the huntsman recipe for Maintenance Oil St
 Recipe Unlock: Double-click to unlock the recipe for a Demon-Slaying Station.,"Открытие рецепта: дважды щёлкните, чтобы открыть рецепт: станции уничтожения демонов."
 Recipe Unlock: Double-click to unlock the recipe for a Karka Toughness Station.,"Открытие рецепта: дважды щёлкните, чтобы открыть рецепт: станции прочности карки."
 Recipe Unlock: Double-click to unlock the weaponsmith recipe for Sharpening Stone Station.,"Открытие рецепта: дважды щёлкните, чтобы открыть оружейный рецепт: станции точильного камня."
-Recipe: 10 Slot Ogre Bag,Recipe: 10 Slot Ogre Bag
+Recipe: 10 Slot Ogre Bag,Рецепт: сумка огров на 10 ячеек
 Recipe: 20-Slot Equipment Pact Box,Рецепт: 20-Slot Equipment Pact Box
 Recipe: Aetherblade Hideout Banner,Рецепт: Aetherblade Hideout Banner
 Recipe: Ahamid's Breastplate,Рецепт: Ahamid's Breastplate
@@ -52,8 +52,8 @@ Recipe: Ahamid's Warfists,Рецепт: Ahamid's Warfists
 Recipe: Ahamid's Wristguards,Рецепт: Ahamid's Wristguards
 Recipe: Alkaline Solution,Рецепт: Alkaline Solution
 Recipe: Alpha Conduit,Рецепт: Alpha Conduit
-Recipe: Aluminum,Recipe: Aluminum
-Recipe: Aluminum Bronze,Recipe: Aluminum Bronze
+Recipe: Aluminum,Рецепт: алюминий
+Recipe: Aluminum Bronze,Рецепт: алюминиевая бронза
 Recipe: Amalgamated Draconic Lodestone,Рецепт: Amalgamated Draconic Lodestone
 Recipe: Amalgamated Rift Essence,Рецепт: Amalgamated Rift Essence
 Recipe: Ambrite Orichalcum Amulet,Рецепт: Ambrite Orichalcum Amulet
@@ -123,53 +123,53 @@ Recipe: Anima,Рецепт: Anima
 Recipe: Anthology of Villains,Рецепт: Anthology of Villains
 Recipe: Antique Bell,Рецепт: Antique Bell
 Recipe: Apidae,Рецепт: Apidae
-Recipe: Arctodus Amulet,Recipe: Arctodus Amulet
+Recipe: Arctodus Amulet,Рецепт: амулет арктодуса
 Recipe: Ars Goetia,Рецепт: Ars Goetia
-Recipe: Ascalon Ghost Potion,Recipe: Ascalon Ghost Potion
-Recipe: Ascalonian Herbs,Recipe: Ascalonian Herbs
-Recipe: Ascended Axe,Recipe: Ascended Axe
-Recipe: Ascended Dagger,Recipe: Ascended Dagger
-Recipe: Ascended Focus,Recipe: Ascended Focus
-Recipe: Ascended Greatsword,Recipe: Ascended Greatsword
-Recipe: Ascended Hammer,Recipe: Ascended Hammer
-Recipe: Ascended Harpoon Gun,Recipe: Ascended Harpoon Gun
-Recipe: Ascended Heavy Boots,Recipe: Ascended Heavy Boots
-Recipe: Ascended Heavy Coat,Recipe: Ascended Heavy Coat
-Recipe: Ascended Heavy Gloves,Recipe: Ascended Heavy Gloves
-Recipe: Ascended Heavy Helm,Recipe: Ascended Heavy Helm
-Recipe: Ascended Heavy Leggings,Recipe: Ascended Heavy Leggings
-Recipe: Ascended Heavy Shoulders,Recipe: Ascended Heavy Shoulders
-Recipe: Ascended Inscription,Recipe: Ascended Inscription
-Recipe: Ascended Insignia,Recipe: Ascended Insignia
-Recipe: Ascended Light Boots,Recipe: Ascended Light Boots
-Recipe: Ascended Light Coat,Recipe: Ascended Light Coat
-Recipe: Ascended Light Gloves,Recipe: Ascended Light Gloves
-Recipe: Ascended Light Helm,Recipe: Ascended Light Helm
-Recipe: Ascended Light Leggings,Recipe: Ascended Light Leggings
-Recipe: Ascended Light Shoulders,Recipe: Ascended Light Shoulders
-Recipe: Ascended Longbow,Recipe: Ascended Longbow
-Recipe: Ascended Mace,Recipe: Ascended Mace
-Recipe: Ascended Medium Boots,Recipe: Ascended Medium Boots
-Recipe: Ascended Medium Coat,Recipe: Ascended Medium Coat
-Recipe: Ascended Medium Gloves,Recipe: Ascended Medium Gloves
-Recipe: Ascended Medium Helm,Recipe: Ascended Medium Helm
-Recipe: Ascended Medium Leggings,Recipe: Ascended Medium Leggings
-Recipe: Ascended Medium Shoulders,Recipe: Ascended Medium Shoulders
-Recipe: Ascended Pistol,Recipe: Ascended Pistol
-Recipe: Ascended Rifle,Recipe: Ascended Rifle
-Recipe: Ascended Scepter,Recipe: Ascended Scepter
-Recipe: Ascended Shield,Recipe: Ascended Shield
-Recipe: Ascended Short Bow,Recipe: Ascended Short Bow
-Recipe: Ascended Spear,Recipe: Ascended Spear
-Recipe: Ascended Staff,Recipe: Ascended Staff
-Recipe: Ascended Sword,Recipe: Ascended Sword
-Recipe: Ascended Torch,Recipe: Ascended Torch
-Recipe: Ascended Trident,Recipe: Ascended Trident
-Recipe: Ascended Warhorn,Recipe: Ascended Warhorn
-Recipe: Ash Legion's Boot,Recipe: Ash Legion's Boot
-Recipe: Ash Legion's Coat,Recipe: Ash Legion's Coat
-Recipe: Ash Legion's Gloves,Recipe: Ash Legion's Gloves
-Recipe: Ash Legion's Leggings,Recipe: Ash Legion's Leggings
+Recipe: Ascalon Ghost Potion,Рецепт: зелье «Призрак Аскалона»
+Recipe: Ascalonian Herbs,Рецепт: аскалонские травы
+Recipe: Ascended Axe,Рецепт: рецепт: Вознесённый топор
+Recipe: Ascended Dagger,Рецепт: вознесённый кинжал
+Recipe: Ascended Focus,Рецепт: вознесённый фокус
+Recipe: Ascended Greatsword,Рецепт: вознесённый двуручный меч
+Recipe: Ascended Hammer,Рецепт: вознесённый молот
+Recipe: Ascended Harpoon Gun,Рецепт: вознесённый гарпунный пистолет
+Recipe: Ascended Heavy Boots,Рецепт: вознесённые тяжёлые сапоги
+Recipe: Ascended Heavy Coat,Рецепт: вознесённая тяжёлая куртка
+Recipe: Ascended Heavy Gloves,Рецепт: вознесённые тяжёлые перчатки
+Recipe: Ascended Heavy Helm,Рецепт: вознесённый тяжёлый шлем
+Recipe: Ascended Heavy Leggings,Рецепт: рецепт «Вознесенные тяжёлые поножи»
+Recipe: Ascended Heavy Shoulders,Рецепт: вознесённые тяжёлые наплечники
+Recipe: Ascended Inscription,Рецепт: вознесённая гравировка
+Recipe: Ascended Insignia,Рецепт: рецепт «Вознесённая инсигния»
+Recipe: Ascended Light Boots,Рецепт: вознесённые лёгкие ботинки
+Recipe: Ascended Light Coat,Рецепт: вознесённая лёгкая куртка
+Recipe: Ascended Light Gloves,Рецепт: вознесённые лёгкие перчатки
+Recipe: Ascended Light Helm,Рецепт: вознесённый лёгкий шлем
+Recipe: Ascended Light Leggings,Рецепт: вознесённые светлые поножи
+Recipe: Ascended Light Shoulders,Рецепт: вознесённые лёгкие наплечники
+Recipe: Ascended Longbow,Рецепт: вознесённый длинный лук
+Recipe: Ascended Mace,Рецепт: вознесённая булава
+Recipe: Ascended Medium Boots,Рецепт: вознесённые средние сапоги
+Recipe: Ascended Medium Coat,Рецепт: вознесённая средняя куртка
+Recipe: Ascended Medium Gloves,Рецепт: вознесённые средние перчатки
+Recipe: Ascended Medium Helm,Рецепт: вознесённый средний шлем
+Recipe: Ascended Medium Leggings,Рецепт: вознесённые средние поножи
+Recipe: Ascended Medium Shoulders,Рецепт: вознесённые средние наплечники
+Recipe: Ascended Pistol,Рецепт: вознесённый пистолет
+Recipe: Ascended Rifle,Рецепт: вознесённая винтовка
+Recipe: Ascended Scepter,Рецепт: вознесённый скипетр
+Recipe: Ascended Shield,Рецепт: щит вознесения
+Recipe: Ascended Short Bow,Рецепт: вознесённый короткий лук
+Recipe: Ascended Spear,Рецепт: вознесённое копьё
+Recipe: Ascended Staff,Рецепт: вознесённый посох
+Recipe: Ascended Sword,Рецепт: вознесённый меч
+Recipe: Ascended Torch,Рецепт: вознесённый факел
+Recipe: Ascended Trident,Рецепт: вознесённый трезубец
+Recipe: Ascended Warhorn,Рецепт: вознесённый боевой рог
+Recipe: Ash Legion's Boot,Рецепт: сапог «Легиона Теней»
+Recipe: Ash Legion's Coat,Рецепт: куртка Ash Legion
+Recipe: Ash Legion's Gloves,Рецепт: клеймо Ash Legion
+Recipe: Ash Legion's Leggings,Рецепт: поножи Ash Legion
 Recipe: Ashes of the Effigy,Рецепт: Ashes of the Effigy
 Recipe: Assassin's Darksteel Imbued Inscription,Рецепт: Assassin's Darksteel Imbued Inscription
 Recipe: Assassin's Intricate Gossamer Insignia,Рецепт: Assassin's Intricate Gossamer Insignia
@@ -196,7 +196,7 @@ Recipe: Astral Spire,Рецепт: Astral Spire
 Recipe: Asuran Harpoon,Рецепт: Asuran Harpoon
 Recipe: Asuran Speargun,Рецепт: Asuran Speargun
 Recipe: Asuran Trident,Рецепт: Asuran Trident
-Recipe: Atzintli's Spear,Recipe: Atzintli's Spear
+Recipe: Atzintli's Spear,Рецепт: копьё Атцинтли
 Recipe: Avocado Smoothie,Рецепт: Avocado Smoothie
 Recipe: Azure Dragon Slayer Axe,Рецепт: Azure Dragon Slayer Axe
 Recipe: Azure Dragon Slayer Dagger,Рецепт: Azure Dragon Slayer Dagger
@@ -220,7 +220,7 @@ Recipe: Banner of the Commander,Рецепт: Banner of the Commander
 Recipe: Banner of the Dauntless Commander,Рецепт: Banner of the Dauntless Commander
 Recipe: Banner Pennon,Рецепт: Banner Pennon
 Recipe: Basic Pedestal,Рецепт: Basic Pedestal
-Recipe: Batwing Brew,Recipe: Batwing Brew
+Recipe: Batwing Brew,Рецепт: напиток из летучих мышей
 Recipe: Bear Totem,Рецепт: Bear Totem
 Recipe: Beigarth's Artifact,Рецепт: Beigarth's Artifact
 Recipe: Beigarth's Bastion,Рецепт: Beigarth's Bastion
@@ -270,21 +270,21 @@ Recipe: Berserker's Intricate Linen Insignia,Рецепт: Berserker's Intricate
 Recipe: Berserker's Intricate Silk Insignia,Рецепт: Berserker's Intricate Silk Insignia
 Recipe: Berserker's Mithril Imbued Inscription,Рецепт: Berserker's Mithril Imbued Inscription
 Recipe: Berserker's Orichalcum Imbued Inscription,Рецепт: Berserker's Orichalcum Imbued Inscription
-Recipe: Beryllium Copper,Recipe: Beryllium Copper
-Recipe: Birdhouse,Recipe: Birdhouse
-Recipe: Bjarni's Celery Snack,Recipe: Bjarni's Celery Snack
+Recipe: Beryllium Copper,Рецепт: бериллиевая медь
+Recipe: Birdhouse,Рецепт: скворечник
+Recipe: Bjarni's Celery Snack,Рецепт: закуска из сельдерея Бьярни
 Recipe: Black Diamond Orichalcum Amulet,Рецепт: Black Diamond Orichalcum Amulet
 Recipe: Black Diamond Orichalcum Earring,Рецепт: Black Diamond Orichalcum Earring
 Recipe: Black Diamond Orichalcum Ring,Рецепт: Black Diamond Orichalcum Ring
-Recipe: Black Pepper Cactus Salad,Recipe: Black Pepper Cactus Salad
+Recipe: Black Pepper Cactus Salad,Рецепт: салат из кактуса с чёрным перцем
 Recipe: Blattellidae,Рецепт: Blattellidae
 Recipe: Blattodea,Рецепт: Blattodea
-Recipe: Bloodsaw work Boots,Recipe: Bloodsaw work Boots
-Recipe: Bloodsaw work Coat,Recipe: Bloodsaw work Coat
-Recipe: Bloodsaw work gloves,Recipe: Bloodsaw work gloves
-Recipe: Bloodsaw work helm,Recipe: Bloodsaw work helm
-Recipe: Bloodsaw work pants,Recipe: Bloodsaw work pants
-Recipe: Bloodsaw work shoulders,Recipe: Bloodsaw work shoulders
+Recipe: Bloodsaw work Boots,Рецепт: рабочие сапоги «Кровопил»
+Recipe: Bloodsaw work Coat,Рецепт: рабочая куртка Кровавой пилы
+Recipe: Bloodsaw work gloves,Рецепт: рабочие перчатки кровавой пилы
+Recipe: Bloodsaw work helm,Рецепт: рабочий шлем Кровавой пилы
+Recipe: Bloodsaw work pants,Рецепт: рабочие штаны Кровавого пила
+Recipe: Bloodsaw work shoulders,Рецепт: наплечники «Кровавая пила»
 Recipe: Bloodstone Fragment,Рецепт: Bloodstone Fragment
 Recipe: Bloodstone Turret Fragment,Рецепт: Bloodstone Turret Fragment
 Recipe: Bough of Melandru,Рецепт: Bough of Melandru
@@ -318,7 +318,7 @@ Recipe: Bowl of Fish Stew,Рецепт: Bowl of Fish Stew
 Recipe: Bowl of Garlic Kale Sautee,Рецепт: Bowl of Garlic Kale Sautee
 Recipe: Bowl of Jade Sea Bounty,Рецепт: Bowl of Jade Sea Bounty
 Recipe: Bowl of Lemongrass Mussel Pasta,Рецепт: Bowl of Lemongrass Mussel Pasta
-Recipe: Bowl of Lentil Soup,Recipe: Bowl of Lentil Soup
+Recipe: Bowl of Lentil Soup,Рецепт: тарелка чечевичного супа
 Recipe: Bowl of Mussel Soup,Рецепт: Bowl of Mussel Soup
 Recipe: Bowl of Passion Fruit Tapioca Pudding,Рецепт: Bowl of Passion Fruit Tapioca Pudding
 Recipe: Bowl of Poultry Satay,Рецепт: Bowl of Poultry Satay
@@ -333,100 +333,100 @@ Recipe: Box of Apothecary's Barbaric Armor,Рецепт: Box of Apothecary's Bar
 Recipe: Box of Apothecary's Draconic Armor,Рецепт: Box of Apothecary's Draconic Armor
 Recipe: Box of Apothecary's Gladiator Armor,Рецепт: Box of Apothecary's Gladiator Armor
 Recipe: Box of Assassin's Barbaric Armor,Рецепт: Box of Assassin's Barbaric Armor
-Recipe: Box of Assassin's Barbaric Armor (Master),Recipe: Box of Assassin's Barbaric Armor (Master)
-Recipe: Box of Assassin's Draconic Armor (Exotic),Recipe: Box of Assassin's Draconic Armor (Exotic)
-Recipe: Box of Assassin's Gladiator Armor (Rare),Recipe: Box of Assassin's Gladiator Armor (Rare)
+Recipe: Box of Assassin's Barbaric Armor (Master),Рецепт: коробка убийственной варварской брони (Мастер)
+Recipe: Box of Assassin's Draconic Armor (Exotic),Рецепт: комплект брони из драконьей стали (Экзотический)
+Recipe: Box of Assassin's Gladiator Armor (Rare),Рецепт: коробка с доспехами гладиатора убийцы (Редкий)
 Recipe: Box of Assassin's Reinforced Scale Armor,Рецепт: Box of Assassin's Reinforced Scale Armor
-Recipe: Box of Assassin's Reinforced Scale Armor (Master),Recipe: Box of Assassin's Reinforced Scale Armor (Master)
+Recipe: Box of Assassin's Reinforced Scale Armor (Master),Рецепт: коробка усиленной чешуйчатой брони убийцы (Мастер)
 Recipe: Box of Berserker's Barbaric Armor,Рецепт: Box of Berserker's Barbaric Armor
-Recipe: Box of Berserker's Barbaric Armor (Master),Recipe: Box of Berserker's Barbaric Armor (Master)
-Recipe: Box of Berserker's Barbaric Armor (Rare),Recipe: Box of Berserker's Barbaric Armor (Rare)
-Recipe: Box of Berserker's Draconic Armor (Exotic),Recipe: Box of Berserker's Draconic Armor (Exotic)
-Recipe: Box of Berserker's Gladiator Armor (Rare),Recipe: Box of Berserker's Gladiator Armor (Rare)
+Recipe: Box of Berserker's Barbaric Armor (Master),Рецепт: коробка варварской брони берсерка (Мастер)
+Recipe: Box of Berserker's Barbaric Armor (Rare),Рецепт: коробка берсеркской варварской брони (редкая)
+Recipe: Box of Berserker's Draconic Armor (Exotic),Рецепт: короб брони берсерка из драконьей стали (экзотика)
+Recipe: Box of Berserker's Gladiator Armor (Rare),Рецепт: короб брони гладиатора берсерка (редкий)
 Recipe: Box of Berserker's Reinforced Scale Armor,Рецепт: Box of Berserker's Reinforced Scale Armor
-Recipe: Box of Berserker's Reinforced Scale Armor (Master),Recipe: Box of Berserker's Reinforced Scale Armor (Master)
+Recipe: Box of Berserker's Reinforced Scale Armor (Master),Рецепт: коробка усиленной чешуйчатой брони берсерка (Мастер)
 Recipe: Box of Carrion Barbaric Armor,Рецепт: Box of Carrion Barbaric Armor
-Recipe: Box of Carrion Barbaric Armor (Master),Recipe: Box of Carrion Barbaric Armor (Master)
-Recipe: Box of Carrion Barbaric Armor (Rare),Recipe: Box of Carrion Barbaric Armor (Rare)
-Recipe: Box of Carrion Draconic Armor (Exotic),Recipe: Box of Carrion Draconic Armor (Exotic)
-Recipe: Box of Carrion Gladiator Armor (Rare),Recipe: Box of Carrion Gladiator Armor (Rare)
+Recipe: Box of Carrion Barbaric Armor (Master),Рецепт: короб варварской брони из падали (Мастер)
+Recipe: Box of Carrion Barbaric Armor (Rare),Рецепт: коробка падальщичьих варварских доспехов (Редкое)
+Recipe: Box of Carrion Draconic Armor (Exotic),Рецепт: коробка с драконьей бронёй падали (Экзотический)
+Recipe: Box of Carrion Gladiator Armor (Rare),Рецепт: коробка доспехов гладиатора из падали (Редкое)
 Recipe: Box of Carrion Reinforced Scale Armor,Рецепт: Box of Carrion Reinforced Scale Armor
-Recipe: Box of Carrion Reinforced Scale Armor (Master),Recipe: Box of Carrion Reinforced Scale Armor (Master)
+Recipe: Box of Carrion Reinforced Scale Armor (Master),Рецепт: коробка усиленной чешуйчатой брони из падали (Мастер)
 Recipe: Box of Celestial Draconic Armor,Рецепт: Box of Celestial Draconic Armor
 Recipe: Box of Cleric's Barbaric Armor,Рецепт: Box of Cleric's Barbaric Armor
-Recipe: Box of Cleric's Barbaric Armor (Master),Recipe: Box of Cleric's Barbaric Armor (Master)
-Recipe: Box of Cleric's Barbaric Armor (Rare),Recipe: Box of Cleric's Barbaric Armor (Rare)
-Recipe: Box of Cleric's Draconic Armor (Exotic),Recipe: Box of Cleric's Draconic Armor (Exotic)
-Recipe: Box of Cleric's Gladiator Armor (Rare),Recipe: Box of Cleric's Gladiator Armor (Rare)
+Recipe: Box of Cleric's Barbaric Armor (Master),Рецепт: коробка варварской брони клирика (мастер)
+Recipe: Box of Cleric's Barbaric Armor (Rare),Рецепт: коробка брони варвара клирика (редкое)
+Recipe: Box of Cleric's Draconic Armor (Exotic),Рецепт: коробка драконьей брони жреца (экзотический)
+Recipe: Box of Cleric's Gladiator Armor (Rare),Рецепт: коробка доспехов гладиатора клирика (редкое)
 Recipe: Box of Cleric's Reinforced Scale Armor,Рецепт: Box of Cleric's Reinforced Scale Armor
-Recipe: Box of Cleric's Reinforced Scale Armor (Master),Recipe: Box of Cleric's Reinforced Scale Armor (Master)
+Recipe: Box of Cleric's Reinforced Scale Armor (Master),Рецепт: короб укреплённой чешуйчатой брони Клирика (Мастер)
 Recipe: Box of Giver's Draconic Armor,Рецепт: Box of Giver's Draconic Armor
 Recipe: Box of Giver's Gladiator Armor,Рецепт: Box of Giver's Gladiator Armor
 Recipe: Box of Giver's Scale Armor,Рецепт: Box of Giver's Scale Armor
 Recipe: Box of Giver's Splint Armor,Рецепт: Box of Giver's Splint Armor
 Recipe: Box of Healing Chain Armor,Рецепт: Box of Healing Chain Armor
-Recipe: Box of Healing Chain Armor (Master),Recipe: Box of Healing Chain Armor (Master)
-Recipe: Box of Hearty Gladiator Armor (Rare),Recipe: Box of Hearty Gladiator Armor (Rare)
+Recipe: Box of Healing Chain Armor (Master),Рецепт: коробка лечебной кольчуги (мастер)
+Recipe: Box of Hearty Gladiator Armor (Rare),Рецепт: коробка сытной брони гладиатора (редкая)
 Recipe: Box of Hearty Scale Armor,Рецепт: Box of Hearty Scale Armor
-Recipe: Box of Hearty Scale Armor (Master),Recipe: Box of Hearty Scale Armor (Master)
+Recipe: Box of Hearty Scale Armor (Master),Рецепт: коробка сытной чешуйчатой брони (Мастер)
 Recipe: Box of Hearty Splint Armor,Рецепт: Box of Hearty Splint Armor
-Recipe: Box of Honed Gladiator Armor (Rare),Recipe: Box of Honed Gladiator Armor (Rare)
+Recipe: Box of Honed Gladiator Armor (Rare),Рецепт: коробка заточенной брони гладиатора (редкое)
 Recipe: Box of Honed Scale Armor,Рецепт: Box of Honed Scale Armor
-Recipe: Box of Honed Scale Armor (Master),Recipe: Box of Honed Scale Armor (Master)
+Recipe: Box of Honed Scale Armor (Master),Рецепт: коробка заточенной чешуйчатой брони (Мастер)
 Recipe: Box of Honed Splint Armor,Рецепт: Box of Honed Splint Armor
-Recipe: Box of Hunter's Gladiator Armor (Rare),Recipe: Box of Hunter's Gladiator Armor (Rare)
+Recipe: Box of Hunter's Gladiator Armor (Rare),Рецепт: коробка доспехов гладиатора охотника (редкое)
 Recipe: Box of Hunter's Scale Armor,Рецепт: Box of Hunter's Scale Armor
-Recipe: Box of Hunter's Scale Armor (Master),Recipe: Box of Hunter's Scale Armor (Master)
+Recipe: Box of Hunter's Scale Armor (Master),Рецепт: коробка чешуйчатой брони охотника (Мастер)
 Recipe: Box of Hunter's Splint Armor,Рецепт: Box of Hunter's Splint Armor
 Recipe: Box of Knight's Barbaric Armor,Рецепт: Box of Knight's Barbaric Armor
-Recipe: Box of Knight's Barbaric Armor (Master),Recipe: Box of Knight's Barbaric Armor (Master)
-Recipe: Box of Knight's Barbaric Armor (Rare),Recipe: Box of Knight's Barbaric Armor (Rare)
-Recipe: Box of Knight's Draconic Armor (Exotic),Recipe: Box of Knight's Draconic Armor (Exotic)
-Recipe: Box of Knight's Gladiator Armor (Rare),Recipe: Box of Knight's Gladiator Armor (Rare)
+Recipe: Box of Knight's Barbaric Armor (Master),Рецепт: коробка рыцарской варварской брони (Мастер)
+Recipe: Box of Knight's Barbaric Armor (Rare),Рецепт: коробка рыцарской варварской брони (редкой)
+Recipe: Box of Knight's Draconic Armor (Exotic),Рецепт: коробка драконьей брони рыцаря (Экзотика)
+Recipe: Box of Knight's Gladiator Armor (Rare),Рецепт: коробка с бронёй гладиатора рыцаря (редкая)
 Recipe: Box of Knight's Reinforced Scale Armor,Рецепт: Box of Knight's Reinforced Scale Armor
-Recipe: Box of Knight's Reinforced Scale Armor (Master),Recipe: Box of Knight's Reinforced Scale Armor (Master)
+Recipe: Box of Knight's Reinforced Scale Armor (Master),Рецепт: коробка усиленной чешуйчатой брони рыцаря (Мастер)
 Recipe: Box of Malign Chain Armor,Рецепт: Box of Malign Chain Armor
-Recipe: Box of Malign Chain Armor (Master),Recipe: Box of Malign Chain Armor (Master)
+Recipe: Box of Malign Chain Armor (Master),Рецепт: коробка пагубней кольчужной брони (Мастер)
 Recipe: Box of Mighty Chain Armor,Рецепт: Box of Mighty Chain Armor
-Recipe: Box of Mighty Chain Armor (Master),Recipe: Box of Mighty Chain Armor (Master)
+Recipe: Box of Mighty Chain Armor (Master),Рецепт: коробка с могучей кольчужной бронёй (мастер)
 Recipe: Box of Nomad's Draconic Armor,Рецепт: Box of Nomad's Draconic Armor
 Recipe: Box of Precise Chain Armor,Рецепт: Box of Precise Chain Armor
-Recipe: Box of Precise Chain Armor (Master),Recipe: Box of Precise Chain Armor (Master)
+Recipe: Box of Precise Chain Armor (Master),Рецепт: коробка точной кольчужной брони (мастер)
 Recipe: Box of Rampager's Barbaric Armor,Рецепт: Box of Rampager's Barbaric Armor
-Recipe: Box of Rampager's Barbaric Armor (Master),Recipe: Box of Rampager's Barbaric Armor (Master)
-Recipe: Box of Rampager's Barbaric Armor (Rare),Recipe: Box of Rampager's Barbaric Armor (Rare)
-Recipe: Box of Rampager's Draconic Armor (Exotic),Recipe: Box of Rampager's Draconic Armor (Exotic)
-Recipe: Box of Rampager's Gladiator Armor (Rare),Recipe: Box of Rampager's Gladiator Armor (Rare)
+Recipe: Box of Rampager's Barbaric Armor (Master),Рецепт: коробка брони варвара бесчинства (Мастер)
+Recipe: Box of Rampager's Barbaric Armor (Rare),Рецепт: коробка с варварской бронёй головореза (редкая)
+Recipe: Box of Rampager's Draconic Armor (Exotic),Рецепт: коробка с драконьей бронёй разбойника (экзотика)
+Recipe: Box of Rampager's Gladiator Armor (Rare),Рецепт: коробка с доспехами гладиатора-грабителя (редкое)
 Recipe: Box of Rampager's Reinforced Scale Armor,Рецепт: Box of Rampager's Reinforced Scale Armor
-Recipe: Box of Rampager's Reinforced Scale Armor (Master),Recipe: Box of Rampager's Reinforced Scale Armor (Master)
-Recipe: Box of Ravaging Gladiator Armor (Rare),Recipe: Box of Ravaging Gladiator Armor (Rare)
+Recipe: Box of Rampager's Reinforced Scale Armor (Master),Рецепт: коробка усиленной чешуйчатой брони разбойника (Мастер)
+Recipe: Box of Ravaging Gladiator Armor (Rare),Рецепт: коробка опустошающей гладиаторской брони (редкое)
 Recipe: Box of Ravaging Scale Armor,Рецепт: Box of Ravaging Scale Armor
-Recipe: Box of Ravaging Scale Armor (Master),Recipe: Box of Ravaging Scale Armor (Master)
+Recipe: Box of Ravaging Scale Armor (Master),Рецепт: коробка чешуйчатого доспеха жнеца (Мастер)
 Recipe: Box of Ravaging Splint Armor,Рецепт: Box of Ravaging Splint Armor
-Recipe: Box of Rejuvenating Gladiator Armor (Rare),Recipe: Box of Rejuvenating Gladiator Armor (Rare)
+Recipe: Box of Rejuvenating Gladiator Armor (Rare),Рецепт: коробка восстанавливающей гладиаторской брони (редкое)
 Recipe: Box of Rejuvenating Scale Armor,Рецепт: Box of Rejuvenating Scale Armor
-Recipe: Box of Rejuvenating Scale Armor (Master),Recipe: Box of Rejuvenating Scale Armor (Master)
+Recipe: Box of Rejuvenating Scale Armor (Master),Рецепт: коробка с омолаживающей чешуйчатой бронёй (Мастер)
 Recipe: Box of Rejuvenating Splint Armor,Рецепт: Box of Rejuvenating Splint Armor
 Recipe: Box of Resilient Chain Armor,Рецепт: Box of Resilient Chain Armor
-Recipe: Box of Resilient Chain Armor (Master),Recipe: Box of Resilient Chain Armor (Master)
+Recipe: Box of Resilient Chain Armor (Master),Рецепт: коробка прочной кольчужной брони (мастер)
 Recipe: Box of Simple Mighty Chain Armor,Рецепт: Box of Simple Mighty Chain Armor
-Recipe: Box of Strong Gladiator Armor (Rare),Recipe: Box of Strong Gladiator Armor (Rare)
+Recipe: Box of Strong Gladiator Armor (Rare),Рецепт: коробка прочных доспехов гладиатора (Редкое)
 Recipe: Box of Strong Scale Armor,Рецепт: Box of Strong Scale Armor
-Recipe: Box of Strong Scale Armor (Master),Recipe: Box of Strong Scale Armor (Master)
+Recipe: Box of Strong Scale Armor (Master),Рецепт: короб крепкой чешуйчатой брони (Мастер)
 Recipe: Box of Strong Splint Armor,Рецепт: Box of Strong Splint Armor
 Recipe: Box of Valkyrie Barbaric Armor,Рецепт: Box of Valkyrie Barbaric Armor
-Recipe: Box of Valkyrie Barbaric Armor (Master),Recipe: Box of Valkyrie Barbaric Armor (Master)
-Recipe: Box of Valkyrie Barbaric Armor (Rare),Recipe: Box of Valkyrie Barbaric Armor (Rare)
-Recipe: Box of Valkyrie Draconic Armor (Exotic),Recipe: Box of Valkyrie Draconic Armor (Exotic)
-Recipe: Box of Valkyrie Gladiator Armor (Rare),Recipe: Box of Valkyrie Gladiator Armor (Rare)
+Recipe: Box of Valkyrie Barbaric Armor (Master),Рецепт: коробка варварской брони Валькирии (Мастер)
+Recipe: Box of Valkyrie Barbaric Armor (Rare),Рецепт: коробка валькирийской варварской брони (редкая)
+Recipe: Box of Valkyrie Draconic Armor (Exotic),Рецепт: коробка валькирийской драконьей брони (Экзотика)
+Recipe: Box of Valkyrie Gladiator Armor (Rare),Рецепт: коробка редкой брони гладиатора-валькирии
 Recipe: Box of Valkyrie Reinforced Scale Armor,Рецепт: Box of Valkyrie Reinforced Scale Armor
-Recipe: Box of Valkyrie Reinforced Scale Armor (Master),Recipe: Box of Valkyrie Reinforced Scale Armor (Master)
-Recipe: Box of Vigorous Gladiator Armor (Rare),Recipe: Box of Vigorous Gladiator Armor (Rare)
+Recipe: Box of Valkyrie Reinforced Scale Armor (Master),Рецепт: короб брони из усиленной чешуи Валькирии (Мастер)
+Recipe: Box of Vigorous Gladiator Armor (Rare),Рецепт: коробка доспехов гладиатора (редкая)
 Recipe: Box of Vigorous Scale Armor,Рецепт: Box of Vigorous Scale Armor
-Recipe: Box of Vigorous Scale Armor (Master),Recipe: Box of Vigorous Scale Armor (Master)
+Recipe: Box of Vigorous Scale Armor (Master),Рецепт: коробка бодрящей чешуйчатой брони (Мастер)
 Recipe: Box of Vigorous Splint Armor,Рецепт: Box of Vigorous Splint Armor
 Recipe: Box of Vital Chain Armor,Рецепт: Box of Vital Chain Armor
-Recipe: Box of Vital Chain Armor (Master),Recipe: Box of Vital Chain Armor (Master)
+Recipe: Box of Vital Chain Armor (Master),Рецепт: коробка с цепной бронёй доблести (Мастер)
 Recipe: Box of Zealot's Draconic Armor,Рецепт: Box of Zealot's Draconic Armor
 Recipe: Brandspark Amulet,Рецепт: Brandspark Amulet
 Recipe: Brandspark Earring,Рецепт: Brandspark Earring
@@ -467,21 +467,21 @@ Recipe: Bronze Xera Trophy,Рецепт: Bronze Xera Trophy
 Recipe: Burl Orichalcum Amulet,Рецепт: Burl Orichalcum Amulet
 Recipe: Burl Orichalcum Earring,Рецепт: Burl Orichalcum Earring
 Recipe: Burl Orichalcum Ring,Рецепт: Burl Orichalcum Ring
-Recipe: Cactus Fruit Salad,Recipe: Cactus Fruit Salad
-Recipe: Cactus Soup,Recipe: Cactus Soup
+Recipe: Cactus Fruit Salad,Рецепт: салат из кактусовых фруктов
+Recipe: Cactus Soup,Рецепт: кактусовый суп
 Recipe: Caer Pauldrons,Рецепт: Caer Pauldrons
 Recipe: Cairn the Indomitable Shard,Рецепт: Cairn the Indomitable Shard
 Recipe: Call of the Void,Рецепт: Call of the Void
-Recipe: Candy Cactus Cornbread,Recipe: Candy Cactus Cornbread
-Recipe: Candy Corn Almond Brittle,Recipe: Candy Corn Almond Brittle
-Recipe: Candy Corn Custard,Recipe: Candy Corn Custard
+Recipe: Candy Cactus Cornbread,Рецепт: конфетно-кактусовый кукурузный хлеб
+Recipe: Candy Corn Almond Brittle,Рецепт: карамельная кукурузная халва
+Recipe: Candy Corn Custard,Рецепт: заварной крем из леденцовой кукурузы
 Recipe: Candy Corn Tonic,Рецепт: Candy Corn Tonic
 Recipe: Canvas,Рецепт: Canvas
 Recipe: Capacitive Bottle,Рецепт: Capacitive Bottle
 Recipe: Cardinal Adina's Token,Рецепт: Cardinal Adina's Token
 Recipe: Cardinal Sabir's Token,Рецепт: Cardinal Sabir's Token
-Recipe: Carne Khan Chili,Recipe: Carne Khan Chili
-Recipe: Carne Khan Chili Feast,Recipe: Carne Khan Chili Feast
+Recipe: Carne Khan Chili,Рецепт: чили Карне Хан
+Recipe: Carne Khan Chili Feast,Рецепт: пиршество чили Карне Кана
 Recipe: Carrion Darksteel Imbued Inscription,Рецепт: Carrion Darksteel Imbued Inscription
 Recipe: Carrion Intricate Gossamer Insignia,Рецепт: Carrion Intricate Gossamer Insignia
 Recipe: Carrion Intricate Linen Insignia,Рецепт: Carrion Intricate Linen Insignia
@@ -489,7 +489,7 @@ Recipe: Carrion Intricate Silk Insignia,Рецепт: Carrion Intricate Silk Ins
 Recipe: Carrion Mithril Imbued Inscription,Рецепт: Carrion Mithril Imbued Inscription
 Recipe: Carrion Orichalcum Imbued Inscription,Рецепт: Carrion Orichalcum Imbued Inscription
 Recipe: Carrot Soufflé,Рецепт: Carrot Soufflé
-Recipe: Celebratory Meat,Recipe: Celebratory Meat
+Recipe: Celebratory Meat,Рецепт: праздничное мясо
 Recipe: Celestial Draconic Boots,Рецепт: Celestial Draconic Boots
 Recipe: Celestial Draconic Coat,Рецепт: Celestial Draconic Coat
 Recipe: Celestial Draconic Gauntlets,Рецепт: Celestial Draconic Gauntlets

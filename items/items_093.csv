@@ -14,7 +14,7 @@ Recipe: Wanderer's Pearl Speargun,Рецепт: Wanderer's Pearl Speargun
 Recipe: Wanderer's Pearl Stinger,Рецепт: Wanderer's Pearl Stinger
 Recipe: Wanderer's Pearl Trident,Рецепт: Wanderer's Pearl Trident
 Recipe: Warclaw Rental Post,Рецепт: Warclaw Rental Post
-Recipe: Warden Rations,Recipe: Warden Rations
+Recipe: Warden Rations,Рецепт: рацион стража
 Recipe: Warhorn,Рецепт: Warhorn
 Recipe: Warming Stone,Рецепт: Warming Stone
 Recipe: Watchwork Mechanism,Рецепт: Watchwork Mechanism
@@ -47,7 +47,7 @@ Recipe: White Mantle Statue,Рецепт: White Mantle Statue
 Recipe: White Mantle Turret,Рецепт: White Mantle Turret
 Recipe: Wind Aspect Crystal,Рецепт: Wind Aspect Crystal
 Recipe: Winterberry Pie,Рецепт: Winterberry Pie
-Recipe: Winterberry Seaweed Salad,Recipe: Winterberry Seaweed Salad
+Recipe: Winterberry Seaweed Salad,Рецепт: салат из морских водорослей с зимней ягодой
 Recipe: Winterberry Sorbet,Рецепт: Winterberry Sorbet
 Recipe: Wolf Statue,Рецепт: Wolf Statue
 Recipe: Wolf Totem,Рецепт: Wolf Totem
@@ -194,8 +194,8 @@ Recipe: Zehtuka's Greaves,Рецепт: Zehtuka's Greaves
 Recipe: Zehtuka's Grips,Рецепт: Zehtuka's Grips
 Recipe: Zehtuka's Guise,Рецепт: Zehtuka's Guise
 Recipe: Zehtuka's Harpoon Gun,Рецепт: Zehtuka's Harpoon Gun
-Recipe: Zehtuka's Harrier's Inscription,Recipe: Zehtuka's Harrier's Inscription
-Recipe: Zehtuka's Harrier's Insignia,Recipe: Zehtuka's Harrier's Insignia
+Recipe: Zehtuka's Harrier's Inscription,Рецепт: гравировка Цехтуки «Гарпия»
+Recipe: Zehtuka's Harrier's Insignia,Рецепт: инсигния Вестника Зехтуки
 Recipe: Zehtuka's Herald,Рецепт: Zehtuka's Herald
 Recipe: Zehtuka's Impaler,Рецепт: Zehtuka's Impaler
 Recipe: Zehtuka's Leggings,Рецепт: Zehtuka's Leggings
@@ -303,131 +303,131 @@ Recipe: Zojja's Wand,Рецепт: Zojja's Wand
 Recipe: Zojja's Warfists,Рецепт: Zojja's Warfists
 Recipe: Zojja's Warhammer,Рецепт: Zojja's Warhammer
 Recipe: Zojja's Wristguards,Рецепт: Zojja's Wristguards
-Recipes of the Dwarven Armor Trader,Recipes of the Dwarven Armor Trader
-Recipes of the Dwarven Cloth Trader,Recipes of the Dwarven Cloth Trader
-Recipes of the Dwarven Leather Trader,Recipes of the Dwarven Leather Trader
-Reclaimed Axe,Reclaimed Axe
-Reclaimed Bonds Mount Adoption License,Reclaimed Bonds Mount Adoption License
-Reclaimed Bonds Mount Select License,Reclaimed Bonds Mount Select License
-Reclaimed Dagger,Reclaimed Dagger
-Reclaimed Focus,Reclaimed Focus
-Reclaimed Greatsword,Reclaimed Greatsword
-Reclaimed Hammer,Reclaimed Hammer
-Reclaimed Longbow,Reclaimed Longbow
-Reclaimed Mace,Reclaimed Mace
-Reclaimed Metal Plate,Reclaimed Metal Plate
-Reclaimed Pistol,Reclaimed Pistol
-Reclaimed Rifle,Reclaimed Rifle
-Reclaimed Scepter,Reclaimed Scepter
-Reclaimed Shield,Reclaimed Shield
-Reclaimed Short Bow,Reclaimed Short Bow
-Reclaimed Staff,Reclaimed Staff
-Reclaimed Sword,Reclaimed Sword
-Reclaimed Torch,Reclaimed Torch
-Reclaimed Warhorn,Reclaimed Warhorn
-Reclaimed Wood Chunk,Reclaimed Wood Chunk
-Recollection of the Bearkin's Adversaries,Recollection of the Bearkin's Adversaries
-Recollection of the Bearkin's Hunts,Recollection of the Bearkin's Hunts
-Recollection of the Bearkin's Victories,Recollection of the Bearkin's Victories
-Reconfigurable Construct Greatsword Skin,Reconfigurable Construct Greatsword Skin
-Reconfigure Multitool,Reconfigure Multitool
-Record of League Participation,Record of League Participation
-Record of League Victories,Record of League Victories
-Recording Device,Recording Device
-Recovered Black Lion Goods,Recovered Black Lion Goods
-Recovered Cloth Leggings,Recovered Cloth Leggings
-Recovered Heavy Leggings,Recovered Heavy Leggings
-Recovered Hover Engine,Recovered Hover Engine
-Recovered Inquest Note,Recovered Inquest Note
-Recovered Item,Recovered Item
-Recovered Leather Leggings,Recovered Leather Leggings
-Recovered Order of Whispers Seal,Recovered Order of Whispers Seal
-Recovered Pact Supplies,Recovered Pact Supplies
-Recovered Pale Reaver Chest,Recovered Pale Reaver Chest
-Recovered Priory Expedition Chest,Recovered Priory Expedition Chest
-Recovered Priory Seal,Recovered Priory Seal
-Recovered Recipe: Mistpiercer,Recovered Recipe: Mistpiercer
-Recovered SCAR Chest,Recovered SCAR Chest
+Recipes of the Dwarven Armor Trader,Рецепты торговца дварфийской бронёй
+Recipes of the Dwarven Cloth Trader,Рецепты дварфийского торговца тканями
+Recipes of the Dwarven Leather Trader,Рецепты дворфского кожевенного торговца
+Reclaimed Axe,Восстановленный топор
+Reclaimed Bonds Mount Adoption License,Лицензия на приобретение скакуна «Восстановленные узы»
+Reclaimed Bonds Mount Select License,Лицензия на выбор скакуна «Восстановленные узы»
+Reclaimed Dagger,Кинжал отвоёванный
+Reclaimed Focus,Восстановленный фокус
+Reclaimed Greatsword,Возвращённый двуручный меч
+Reclaimed Hammer,Молот из отходов
+Reclaimed Longbow,Возвращённый длинный лук
+Reclaimed Mace,Возвращённая булава
+Reclaimed Metal Plate,Восстановленная металлическая пластина
+Reclaimed Pistol,Восстановленный пистолет
+Reclaimed Rifle,Восстановленная винтовка
+Reclaimed Scepter,Восстановленный скипетр
+Reclaimed Shield,Восстановленный щит
+Reclaimed Short Bow,Восстановленный короткий лук
+Reclaimed Staff,Посох из отходов
+Reclaimed Sword,Восстановленный меч
+Reclaimed Torch,Факел из утиля
+Reclaimed Warhorn,Возвращённый боевой рог
+Reclaimed Wood Chunk,Кусок восстановленной древесины
+Recollection of the Bearkin's Adversaries,Воспоминание о врагах Медвекина
+Recollection of the Bearkin's Hunts,«Воспоминание об охотах медведеподобных»
+Recollection of the Bearkin's Victories,«Воспоминание о победах Медвежьего народа»
+Reconfigurable Construct Greatsword Skin,Облик двуручного меча реконфигурируемого конструкта
+Reconfigure Multitool,Перенастроить мультиинструмент
+Record of League Participation,Запись об участии в лиге
+Record of League Victories,Запись побед в лиге
+Recording Device,Записывающее устройство
+Recovered Black Lion Goods,Восстановленные товары «Black Lion»
+Recovered Cloth Leggings,Восстановленные тканевые поножи
+Recovered Heavy Leggings,Восстановленные тяжёлые поножи
+Recovered Hover Engine,Восстановленный парящий двигатель
+Recovered Inquest Note,Восстановленная записка Inquest
+Recovered Item,Восстановленный предмет
+Recovered Leather Leggings,Восстановленные кожаные поножи
+Recovered Order of Whispers Seal,Восстановленная печать Order of Whispers
+Recovered Pact Supplies,Найденные припасы Пакта
+Recovered Pale Reaver Chest,Восстановленный доспех Бледного Жнеца
+Recovered Priory Expedition Chest,Найденный сундук экспедиции Приората
+Recovered Priory Seal,Восстановленная печать Приората
+Recovered Recipe: Mistpiercer,Найденный рецепт: Пронзающий туман
+Recovered SCAR Chest,Добыт сундук SCAR.
 Recovered supplies from Blue Ice Shining. Return these to Guard Splintering Serenity.,Восстановленные припасы из Синего Льда Сияния. Верните их стражнику Расколотому Спокойствию.
-Recovered Tool Box,Recovered Tool Box
-Recovered Vigil Seal,Recovered Vigil Seal
-Recovery Package,Recovery Package
-Recreation Room Floor Fragment,Recreation Room Floor Fragment
-Recruit's Pack,Recruit's Pack
-Recruit's Wings of Glory,Recruit's Wings of Glory
-Recruit's Wings of War,Recruit's Wings of War
-Recruitment Notes: Vishen Steelshot,Recruitment Notes: Vishen Steelshot
-Rectangular Planter,Rectangular Planter
-Recycler: Bloodstone Dust,Recycler: Bloodstone Dust
-Recycler: Dragonite,Recycler: Dragonite
-Recycler: Empyreal Fragments,Recycler: Empyreal Fragments
-Recycler: Jade Slivers,Recycler: Jade Slivers
-Recycler: Karma,Recycler: Karma
-Red Balloon,Red Balloon
-Red Bean Cake,Red Bean Cake
-Red Cape Piece,Red Cape Piece
-Red Color Study,Red Color Study
-Red Commander's Compendium,Red Commander's Compendium
-Red Crane Axe Skin,Red Crane Axe Skin
-Red Crane Dagger Skin,Red Crane Dagger Skin
-Red Crane Fishing Rod Skin,Red Crane Fishing Rod Skin
-Red Crane Focus Skin,Red Crane Focus Skin
-Red Crane Greatsword Skin,Red Crane Greatsword Skin
-Red Crane Hammer Skin,Red Crane Hammer Skin
-Red Crane Longbow Skin,Red Crane Longbow Skin
-Red Crane Mace Skin,Red Crane Mace Skin
-Red Crane Pistol Skin,Red Crane Pistol Skin
-Red Crane Rifle Skin,Red Crane Rifle Skin
-Red Crane Scepter Skin,Red Crane Scepter Skin
-Red Crane Shield Skin,Red Crane Shield Skin
-Red Crane Short Bow Skin,Red Crane Short Bow Skin
-Red Crane Staff Skin,Red Crane Staff Skin
-Red Crane Sword Skin,Red Crane Sword Skin
-Red Crane Torch Skin,Red Crane Torch Skin
-Red Crane Warhorn Skin,Red Crane Warhorn Skin
-Red Crane Weapon Choice,Red Crane Weapon Choice
-Red Cushion,Red Cushion
-Red Dragon Target,Red Dragon Target
-Red Dye,Red Dye
-Red Festival Lantern,Red Festival Lantern
-Red Festival Tent,Red Festival Tent
-Red Festival Umbrella,Red Festival Umbrella
-Red Flag,Red Flag
-Red Gurnard,Red Gurnard
-Red Herring,Red Herring
-Red Iris Flower,Red Iris Flower
-Red Knot,Red Knot
-Red Leather Bag,Red Leather Bag
-Red Lentil and Flatbread Feast,Red Lentil and Flatbread Feast
-Red Lion Dye,Red Lion Dye
-Red Lucky Rabbit's Foot,Red Lucky Rabbit's Foot
-Red Pirate Flag,Red Pirate Flag
-Red Rock,Red Rock
-Red Summoning Stone,Red Summoning Stone
-Red Throw Pillow,Red Throw Pillow
-Red-Capped Gauntlets,Red-Capped Gauntlets
-Red-Eyed Piranha,Red-Eyed Piranha
-Red-Lentil Saobosa,Red-Lentil Saobosa
+Recovered Tool Box,Восстановленная коробка с инструментами
+Recovered Vigil Seal,Восстановленная печать Дозора
+Recovery Package,Восстановительный пакет
+Recreation Room Floor Fragment,Фрагмент пола комнаты отдыха
+Recruit's Pack,Набор рекрута
+Recruit's Wings of Glory,Крылья славы новобранца
+Recruit's Wings of War,Крылья войны новобранца
+Recruitment Notes: Vishen Steelshot,Заметки о вербовке: Вишен Стальной Выстрел
+Rectangular Planter,Прямоугольный кашпо
+Recycler: Bloodstone Dust,Переработчик: Пыль кровавого камня
+Recycler: Dragonite,Переработчик: Драконит
+Recycler: Empyreal Fragments,Переработчик: Небесные осколки
+Recycler: Jade Slivers,Переработчик: Осколки нефрита
+Recycler: Karma,Переработчик: Карма
+Red Balloon,Красный воздушный шар
+Red Bean Cake,Пирожное с красной фасолью
+Red Cape Piece,Красный фрагмент плаща
+Red Color Study,Изучение красного цвета
+Red Commander's Compendium,Сборник красного командира
+Red Crane Axe Skin,Облик топора «Красный журавль»
+Red Crane Dagger Skin,Облик кинжала «Красный журавль»
+Red Crane Fishing Rod Skin,Облик удочки Красный журавль
+Red Crane Focus Skin,Облик фокуса «Красный журавль»
+Red Crane Greatsword Skin,Облик двуручного меча «Красный журавль»
+Red Crane Hammer Skin,Облик молота «Красный журавль»
+Red Crane Longbow Skin,Облик длинного лука «Красный журавль»
+Red Crane Mace Skin,Облик булавы «Красный журавль»
+Red Crane Pistol Skin,Облик пистолета «Красный журавль»
+Red Crane Rifle Skin,Облик винтовки «Красный журавль»
+Red Crane Scepter Skin,Облик скипетра «Красный журавль»
+Red Crane Shield Skin,Облик щита «Красный журавль»
+Red Crane Short Bow Skin,Облик короткого лука «Красный журавль»
+Red Crane Staff Skin,Облик посоха «Красный журавль»
+Red Crane Sword Skin,Облик меча «Красный журавль»
+Red Crane Torch Skin,Облик факела «Красный журавль»
+Red Crane Warhorn Skin,Облик боевого рога «Красный журавль»
+Red Crane Weapon Choice,Выбор оружия Красного Журавля
+Red Cushion,Красная подушка
+Red Dragon Target,Красная драконья мишень
+Red Dye,Краска «Красный»
+Red Festival Lantern,Красный праздничный фонарь
+Red Festival Tent,Красный фестивальный шатёр
+Red Festival Umbrella,Красный фестивальный зонт
+Red Flag,Красный флаг
+Red Gurnard,Красная тригла
+Red Herring,Красная сельдь
+Red Iris Flower,Красный ирис
+Red Knot,Красный узел
+Red Leather Bag,Красная кожаная сумка
+Red Lentil and Flatbread Feast,Пир с красной чечевицей и лепёшками
+Red Lion Dye,Краска «Красный лев»
+Red Lucky Rabbit's Foot,Красная лапка удачливого кролика
+Red Pirate Flag,Красный пиратский флаг
+Red Rock,Красный камень
+Red Summoning Stone,Красный камень призыва
+Red Throw Pillow,Красная декоративная подушка
+Red-Capped Gauntlets,Рукавицы с Красным Навершием
+Red-Eyed Piranha,Красноглазая пиранья
+Red-Lentil Saobosa,Саобоса с красной чечевицей
 "Redeem at a Shadows handler after successful field order deliveries or for renown with Keeper Pamir at Torment's Watch in the Desolation.
 <c=@Flavor>Proof of service to the Order of Shadows.</c>","Обменяйте у агента Теней после успешной доставки полевых приказов или за известность у Keeper Pamir в Torment's Watch в Пустоши.
 <c=@Flavor>Доказательство службы Order of Shadows.</c>"
 Redeem this for your winnings by talking to Tigg.,"Обменяйте это на свой выигрыш, поговорив с Тиггом."
 Redeemable in the Labyrinthine Cliffs for a fabulous festival reward or in the Crown Pavilion for a Sovereign Weapon Skin. This item can be created by combining a Favor of the Bazaar and a Favor of the Pavilion.,"Можно обменять в Лабиринтовых Утёсах на потрясающую фестивальную награду или в Королевском павильоне на облик оружия властелина. Этот предмет можно создать, объединив Favor of the Bazaar и Favor of the Pavilion."
-Redemption Dye,Redemption Dye
-Redeployment Order,Redeployment Order
-Redeye Maul,Redeye Maul
-Redfin Barb,Redfin Barb
-Redfish Sushi,Redfish Sushi
-Redreave Cloth Helm,Redreave Cloth Helm
-Redreave Heavy Helm,Redreave Heavy Helm
-Redreave Leather Mask,Redreave Leather Mask
-Redtail Catfish,Redtail Catfish
+Redemption Dye,Краска «Искупление»
+Redeployment Order,Приказ о передислокации
+Redeye Maul,Красноглазый молот
+Redfin Barb,Красноперый барбус
+Redfish Sushi,Суши из красной рыбы
+Redreave Cloth Helm,Тканевый шлем Редрива
+Redreave Heavy Helm,Тяжёлый шлем Редрива
+Redreave Leather Mask,Кожаная маска Редрива
+Redtail Catfish,Красный сом
 "Reduces siege turtle hover energy consumption by 10%%, and the Slam Mastery now generates 30%% of an artillery shot per enemy struck.","Уменьшает потребление энергии парения осадной черепахи на 10%%, а мастерство «Удар» теперь генерирует 30%% артиллерийского выстрела за каждого пораженного врага."
 "Reduces siege turtle hover energy consumption by 20%%, and the upgraded Slam Mastery now generates 35%% of an artillery shot per enemy struck.","Уменьшает потребление энергии парения осадной черепахи на 20%%, а улучшенное мастерство «Удар» теперь генерирует 35%% артиллерийского выстрела за каждого пораженного врага."
 "Reduces siege turtle hover energy consumption by 30%%, and the upgraded Slam Mastery now generates 40%% of an artillery shot per enemy struck.","Уменьшает потребление энергии парения осадной черепахи на 30%%, а улучшенное мастерство «Удар» теперь генерирует 40%% артиллерийского выстрела за каждого пораженного врага."
-Reed Pipe,Reed Pipe
-Reef Drake Broodmother Scale,Reef Drake Broodmother Scale
-Reef Rider Tentacle,Reef Rider Tentacle
+Reed Pipe,Тростниковая дудка
+Reef Drake Broodmother Scale,Чешуя матриарха рифовых дрейков
+Reef Rider Tentacle,Щупальце рифового всадника
 Refine into bloodstone bricks.,Переработать в кровавые кирпичи.
 Refine into Bolts.,Переработать в мотки.
 Refine into Copper Ingots or use Tin to refine into Bronze Ingots.,Переработать в медные слитки или использовать олово для переработки в бронзовые слитки.
@@ -440,26 +440,26 @@ Refine into Planks.,Переработать в доски.
 Refine into Platinum Ingots or use Primordium to refine into Darksteel Ingots.,Переработать в платиновые слитки или использовать первородную руду для переработки в слитки тёмной стали.
 Refine into Sheets of Ambrite.,Переработать в листы амбрита.
 Refine into Squares.,Переработать в квадраты.
-Refined Alchemical Precipitate,Refined Alchemical Precipitate
+Refined Alchemical Precipitate,Очищенный алхимический осадок
 "Refined by combining copper ore, iron ore, lumps of coal, and thermocatalytic reagents.","Очищается путём соединения медной и железной руды, кусков угля и термокаталитических реагентов."
-Refined Envoy Boots,Refined Envoy Boots
-Refined Envoy Breastplate,Refined Envoy Breastplate
-Refined Envoy Cowl,Refined Envoy Cowl
-Refined Envoy Gauntlets,Refined Envoy Gauntlets
-Refined Envoy Gloves,Refined Envoy Gloves
-Refined Envoy Greaves,Refined Envoy Greaves
-Refined Envoy Helmet,Refined Envoy Helmet
-Refined Envoy Jerkin,Refined Envoy Jerkin
-Refined Envoy Leggings,Refined Envoy Leggings
-Refined Envoy Mantle,Refined Envoy Mantle
-Refined Envoy Mask,Refined Envoy Mask
-Refined Envoy Pants,Refined Envoy Pants
-Refined Envoy Pauldrons,Refined Envoy Pauldrons
-Refined Envoy Shoes,Refined Envoy Shoes
-Refined Envoy Shoulderpads,Refined Envoy Shoulderpads
-Refined Envoy Tassets,Refined Envoy Tassets
-Refined Envoy Vambraces,Refined Envoy Vambraces
-Refined Envoy Vestments,Refined Envoy Vestments
+Refined Envoy Boots,Улучшенные сапоги посланника
+Refined Envoy Breastplate,Утончённый нагрудник посланника
+Refined Envoy Cowl,Улучшенный капюшон посланника
+Refined Envoy Gauntlets,Улучшенные перчатки посланника
+Refined Envoy Gloves,Улучшенные Перчатки Посланника
+Refined Envoy Greaves,Утончённые наголенники посланника
+Refined Envoy Helmet,Усовершенствованный шлем посланника
+Refined Envoy Jerkin,Усовершенствованный жилет посланника
+Refined Envoy Leggings,Уточнённые поножи посланника
+Refined Envoy Mantle,Оправа утончённого посланника
+Refined Envoy Mask,Улучшенная маска посланника
+Refined Envoy Pants,Изысканные штаны посланника
+Refined Envoy Pauldrons,Утончённые наплечники посланника
+Refined Envoy Shoes,Утончённые башмаки посланника
+Refined Envoy Shoulderpads,Усовершенствованные наплечники посланника
+Refined Envoy Tassets,Улучшенные набедренники посланника
+Refined Envoy Vambraces,Усовершенствованные наручи эмиссара
+Refined Envoy Vestments,Улучшенное одеяние посланника
 Refined from ambrite and charged quartz.,Очищается из амбрита и заряженного кварца.
 Refined from Ambrite.,Очищается из амбрита.
 Refined from Copper Ore and Tin.,Очищается из медной руды и олова.
@@ -484,20 +484,20 @@ Refined from Sections.,Очищается из секций.
 "Refined from thin leather, coarse leather, rugged leather, and thick elonian cord.","Переработано из тонкой кожи, грубой кожи, жёсткой кожи и толстого элонского шнура."
 Refined from Watchwork Sprockets.,Очищается из часовых шестерёнок.
 "Refined from wool, cotton, linen, and silk weaving thread.","Переработано из шерсти, хлопка, льна и шёлковой пряжи."
-Refined Homestead Fiber,Refined Homestead Fiber
-Refined Homestead Metal,Refined Homestead Metal
-Refined Homestead Wood,Refined Homestead Wood
-Refined Resonance,Refined Resonance
-Refined Streetlamp,Refined Streetlamp
-Refined Tempering Oil,Refined Tempering Oil
-Reflective Koi Axe Skin,Reflective Koi Axe Skin
-Reflective Koi Dagger Skin,Reflective Koi Dagger Skin
-Reflective Koi Focus Skin,Reflective Koi Focus Skin
-Reflective Koi Greatsword Skin,Reflective Koi Greatsword Skin
-Reflective Koi Hammer Skin,Reflective Koi Hammer Skin
-Reflective Koi Longbow Skin,Reflective Koi Longbow Skin
-Reflective Koi Mace Skin,Reflective Koi Mace Skin
-Reflective Koi Pistol Skin,Reflective Koi Pistol Skin
-Reflective Koi Rifle Skin,Reflective Koi Rifle Skin
-Reflective Koi Scepter Skin,Reflective Koi Scepter Skin
-Reflective Koi Shield Skin,Reflective Koi Shield Skin
+Refined Homestead Fiber,Очищенное волокно для усадьбы
+Refined Homestead Metal,Очищенный металл для усадьбы
+Refined Homestead Wood,Очищенная древесина усадьбы
+Refined Resonance,Очищенный резонанс
+Refined Streetlamp,Утончённый уличный фонарь
+Refined Tempering Oil,Очищенное закалочное масло
+Reflective Koi Axe Skin,Облик топора «Отражающий карп»
+Reflective Koi Dagger Skin,Облик кинжала «Зеркальный карп»
+Reflective Koi Focus Skin,Облик фокуса «Отражение кои»
+Reflective Koi Greatsword Skin,Облик двуручного меча «Карп-отражатель»
+Reflective Koi Hammer Skin,Облик молота «Отражающий кои»
+Reflective Koi Longbow Skin,Облик отражающего длинного лука Кои
+Reflective Koi Mace Skin,Облик булавы «Сверкающий карп»
+Reflective Koi Pistol Skin,Облик отражающего пистолета «Кои»
+Reflective Koi Rifle Skin,Облик «Отражение» (винтовка кои)
+Reflective Koi Scepter Skin,Облик скипетра «Отражающий кои»
+Reflective Koi Shield Skin,Облик щита «Отражающий кои»

@@ -55,23 +55,23 @@ Recipe: Charged Stormcaller Torch,Рецепт: Charged Stormcaller Torch
 Recipe: Charged Stormcaller Warhorn,Рецепт: Charged Stormcaller Warhorn
 Recipe: Charr Tank,Рецепт: Charr Tank
 Recipe: Cheesy Cassava Roll,Рецепт: Cheesy Cassava Roll
-Recipe: Chiaroscuro Axes,Recipe: Chiaroscuro Axes
-Recipe: Chiaroscuro Daggers,Recipe: Chiaroscuro Daggers
-Recipe: Chiaroscuro Foci,Recipe: Chiaroscuro Foci
-Recipe: Chiaroscuro Greatswords,Recipe: Chiaroscuro Greatswords
-Recipe: Chiaroscuro Hammers,Recipe: Chiaroscuro Hammers
-Recipe: Chiaroscuro Longbows,Recipe: Chiaroscuro Longbows
-Recipe: Chiaroscuro Maces,Recipe: Chiaroscuro Maces
-Recipe: Chiaroscuro Pistols,Recipe: Chiaroscuro Pistols
-Recipe: Chiaroscuro Rifles,Recipe: Chiaroscuro Rifles
-Recipe: Chiaroscuro Scepters,Recipe: Chiaroscuro Scepters
-Recipe: Chiaroscuro Shields,Recipe: Chiaroscuro Shields
-Recipe: Chiaroscuro Short Bows,Recipe: Chiaroscuro Short Bows
-Recipe: Chiaroscuro Staffs,Recipe: Chiaroscuro Staffs
-Recipe: Chiaroscuro Swords,Recipe: Chiaroscuro Swords
-Recipe: Chiaroscuro Torches,Recipe: Chiaroscuro Torches
-Recipe: Chiaroscuro Warhorns,Recipe: Chiaroscuro Warhorns
-Recipe: Chieftan's Mace,Recipe: Chieftan's Mace
+Recipe: Chiaroscuro Axes,Рецепт: топоры «Кьяроскуро»
+Recipe: Chiaroscuro Daggers,Рецепт: кинжалы «Кьяроскуро»
+Recipe: Chiaroscuro Foci,Рецепт: фокусы «Кьяроскуро»
+Recipe: Chiaroscuro Greatswords,Рецепт: двуручные мечи «Кьяроскуро»
+Recipe: Chiaroscuro Hammers,Рецепт: молоты «Кьяроскуро»
+Recipe: Chiaroscuro Longbows,Рецепт: длинные луки «Кьяроскуро»
+Recipe: Chiaroscuro Maces,Рецепт: булавы «Кьяроскуро»
+Recipe: Chiaroscuro Pistols,Рецепт: пистолеты «Кьяроскуро»
+Recipe: Chiaroscuro Rifles,Рецепт: винтовки «Кьяроскуро»
+Recipe: Chiaroscuro Scepters,Рецепт: скипетры «Кьяроскуро»
+Recipe: Chiaroscuro Shields,Рецепт: щиты «Кьяроскуро»
+Recipe: Chiaroscuro Short Bows,Рецепт: короткие луки «Кьяроскуро»
+Recipe: Chiaroscuro Staffs,Рецепт: посохи светотени
+Recipe: Chiaroscuro Swords,Рецепт: мечи «Кьяроскуро»
+Recipe: Chiaroscuro Torches,Рецепт: факелы «Кьяроскуро»
+Recipe: Chiaroscuro Warhorns,Рецепт: боевые рога «Кьяроскуро»
+Recipe: Chieftan's Mace,Рецепт: булава вождя
 Recipe: Chorben's Artifact,Рецепт: Chorben's Artifact
 Recipe: Chorben's Bastion,Рецепт: Chorben's Bastion
 Recipe: Chorben's Blade,Рецепт: Chorben's Blade
@@ -165,7 +165,7 @@ Recipe: Commander's Pearl Siren,Рецепт: Commander's Pearl Siren
 Recipe: Commander's Pearl Speargun,Рецепт: Commander's Pearl Speargun
 Recipe: Commander's Pearl Stinger,Рецепт: Commander's Pearl Stinger
 Recipe: Commander's Pearl Trident,Рецепт: Commander's Pearl Trident
-Recipe: Concentrated Halloween Tonic,Recipe: Concentrated Halloween Tonic
+Recipe: Concentrated Halloween Tonic,Рецепт: концентрированный тоник Хэллоуина
 Recipe: Confetti Pouch,Рецепт: Confetti Pouch
 Recipe: Conjured Amalgamate's Token,Рецепт: Conjured Amalgamate's Token
 Recipe: Consecrated Saryx Axe,Рецепт: Consecrated Saryx Axe
@@ -185,7 +185,7 @@ Recipe: Consecrated Saryx Sword,Рецепт: Consecrated Saryx Sword
 Recipe: Consecrated Saryx Torch,Рецепт: Consecrated Saryx Torch
 Recipe: Consecrated Saryx Warhorn,Рецепт: Consecrated Saryx Warhorn
 Recipe: Copper Mace,Рецепт: Copper Mace
-Recipe: Copper Sword,Recipe: Copper Sword
+Recipe: Copper Sword,Рецепт: медный меч
 Recipe: Corrupted Artifact,Рецепт: Corrupted Artifact
 Recipe: Corrupted Avenger,Рецепт: Corrupted Avenger
 Recipe: Corrupted Blade,Рецепт: Corrupted Blade
@@ -233,8 +233,8 @@ Recipe: Crusader's Shield,Рецепт: Crusader's Shield
 Recipe: Cryptopidae,Рецепт: Cryptopidae
 Recipe: Crystal Jar,Рецепт: Crystal Jar
 Recipe: Crystal Prism,Рецепт: Crystal Prism
-Recipe: Crystal Scroll,Recipe: Crystal Scroll
-Recipe: Crystallized Nougat,Recipe: Crystallized Nougat
+Recipe: Crystal Scroll,Рецепт: хрустальный свиток
+Recipe: Crystallized Nougat,Рецепт: кристаллизованная нуга
 Recipe: Culicidae,Рецепт: Culicidae
 Recipe: Cup of Light-Roasted Coffee,Рецепт: Cup of Light-Roasted Coffee
 Recipe: Darkvine Cloth Gloves,Рецепт: Darkvine Cloth Gloves
@@ -242,7 +242,7 @@ Recipe: Darkvine Gauntlets,Рецепт: Darkvine Gauntlets
 Recipe: Darkvine Leather Gloves,Рецепт: Darkvine Leather Gloves
 Recipe: Decima Shard,Рецепт: Decima Shard
 Recipe: Decima's Token,Рецепт: Decima's Token
-Recipe: Degun Stew,Recipe: Degun Stew
+Recipe: Degun Stew,Рецепт: рагу дегуна
 Recipe: Deimos Statue,Рецепт: Deimos Statue
 Recipe: Deldrimor Ring Replica,Рецепт: Deldrimor Ring Replica
 Recipe: Demon-Slaying Station,Рецепт: Demon-Slaying Station
@@ -252,50 +252,50 @@ Recipe: Destroyer Jar,Рецепт: Destroyer Jar
 Recipe: Dhuum's Token,Рецепт: Dhuum's Token
 Recipe: Dhuum's Torch,Рецепт: Dhuum's Torch
 Recipe: Diptera,Рецепт: Diptera
-Recipe: Diviner's Artifact,Recipe: Diviner's Artifact
-Recipe: Diviner's Bastion,Recipe: Diviner's Bastion
-Recipe: Diviner's Blade,Recipe: Diviner's Blade
-Recipe: Diviner's Brazier,Recipe: Diviner's Brazier
-Recipe: Diviner's Breastplate,Recipe: Diviner's Breastplate
-Recipe: Diviner's Breeches,Recipe: Diviner's Breeches
-Recipe: Diviner's Claymore,Recipe: Diviner's Claymore
-Recipe: Diviner's Doublet,Recipe: Diviner's Doublet
-Recipe: Diviner's Epaulets,Recipe: Diviner's Epaulets
-Recipe: Diviner's Flanged Mace,Recipe: Diviner's Flanged Mace
-Recipe: Diviner's Footwear,Recipe: Diviner's Footwear
-Recipe: Diviner's Greatbow,Recipe: Diviner's Greatbow
-Recipe: Diviner's Greaves,Recipe: Diviner's Greaves
-Recipe: Diviner's Grips,Recipe: Diviner's Grips
-Recipe: Diviner's Guise,Recipe: Diviner's Guise
-Recipe: Diviner's Harpoon Gun,Recipe: Diviner's Harpoon Gun
-Recipe: Diviner's Herald,Recipe: Diviner's Herald
-Recipe: Diviner's Impaler,Recipe: Diviner's Impaler
+Recipe: Diviner's Artifact,Рецепт: артефакт прорицателя
+Recipe: Diviner's Bastion,Рецепт: бастион прорицателя
+Recipe: Diviner's Blade,Рецепт: клинок прорицателя
+Recipe: Diviner's Brazier,Рецепт: жаровня прорицателя
+Recipe: Diviner's Breastplate,Рецепт: нагрудник прорицателя
+Recipe: Diviner's Breeches,Рецепт: штаны прорицателя
+Recipe: Diviner's Claymore,Рецепт: клеймор прорицателя
+Recipe: Diviner's Doublet,Рецепт: дублет прорицателя
+Recipe: Diviner's Epaulets,Рецепт: эполеты прорицателя
+Recipe: Diviner's Flanged Mace,Рецепт: фланцевая булава прорицателя
+Recipe: Diviner's Footwear,Рецепт: обувь прорицателя
+Recipe: Diviner's Greatbow,Рецепт: большой лук прорицателя
+Recipe: Diviner's Greaves,Рецепт: наголенники прорицателя
+Recipe: Diviner's Grips,Рецепт: хваты прорицателя
+Recipe: Diviner's Guise,Рецепт: личина прорицателя
+Recipe: Diviner's Harpoon Gun,Рецепт: гарпунное ружьё прорицателя
+Recipe: Diviner's Herald,Рецепт: глашатай прорицателя
+Recipe: Diviner's Impaler,Рецепт: пронзатель прорицателя
 Recipe: Diviner's Intricate Gossamer Insignia,Рецепт: Diviner's Intricate Gossamer Insignia
-Recipe: Diviner's Leggings,Recipe: Diviner's Leggings
-Recipe: Diviner's Masque,Recipe: Diviner's Masque
-Recipe: Diviner's Musket,Recipe: Diviner's Musket
+Recipe: Diviner's Leggings,Рецепт: поножи прорицателя
+Recipe: Diviner's Masque,Рецепт: маска прорицателя
+Recipe: Diviner's Musket,Рецепт: мушкет прорицателя
 Recipe: Diviner's Orichalcum-Imbued Inscription,Рецепт: Diviner's Orichalcum-Imbued Inscription
-Recipe: Diviner's Pauldrons,Recipe: Diviner's Pauldrons
-Recipe: Diviner's Razor,Recipe: Diviner's Razor
-Recipe: Diviner's Reaver,Recipe: Diviner's Reaver
-Recipe: Diviner's Revolver,Recipe: Diviner's Revolver
-Recipe: Diviner's Short Bow,Recipe: Diviner's Short Bow
-Recipe: Diviner's Shoulderguard,Recipe: Diviner's Shoulderguard
-Recipe: Diviner's Spire,Recipe: Diviner's Spire
-Recipe: Diviner's Striders,Recipe: Diviner's Striders
-Recipe: Diviner's Tassets,Recipe: Diviner's Tassets
-Recipe: Diviner's Trident,Recipe: Diviner's Trident
-Recipe: Diviner's Visage,Recipe: Diviner's Visage
-Recipe: Diviner's Visor,Recipe: Diviner's Visor
-Recipe: Diviner's Wand,Recipe: Diviner's Wand
-Recipe: Diviner's Warfists,Recipe: Diviner's Warfists
-Recipe: Diviner's Warhammer,Recipe: Diviner's Warhammer
-Recipe: Diviner's Wristguards,Recipe: Diviner's Wristguards
+Recipe: Diviner's Pauldrons,Рецепт: наплечники прорицателя
+Recipe: Diviner's Razor,Рецепт: бритва прорицателя
+Recipe: Diviner's Reaver,Рецепт: жнец прорицателя
+Recipe: Diviner's Revolver,Рецепт: револьвер прорицателя
+Recipe: Diviner's Short Bow,Рецепт: короткий лук прорицателя
+Recipe: Diviner's Shoulderguard,Рецепт: наплечный доспех прорицателя
+Recipe: Diviner's Spire,Рецепт: шпиль прорицателя
+Recipe: Diviner's Striders,Рецепт: походные сапоги прорицателя
+Recipe: Diviner's Tassets,Рецепт: набедренники прорицателя
+Recipe: Diviner's Trident,Рецепт: трезубец прорицателя
+Recipe: Diviner's Visage,Рецепт: лик прорицателя
+Recipe: Diviner's Visor,Рецепт: забрало прорицателя
+Recipe: Diviner's Wand,Рецепт: жезл прорицателя
+Recipe: Diviner's Warfists,Рецепт: боевые рукавицы прорицателя
+Recipe: Diviner's Warhammer,Рецепт: боевой молот прорицателя
+Recipe: Diviner's Wristguards,Рецепт: наручи прорицателя
 Recipe: Doctrina,Рецепт: Doctrina
 Recipe: Dollop of Choya Harissa,Рецепт: Dollop of Choya Harissa
-Recipe: Dolyak Stew,Recipe: Dolyak Stew
+Recipe: Dolyak Stew,Рецепт: похлёбка из долихака
 Recipe: Dragon Hatchling Doll Adornments,Рецепт: Dragon Hatchling Doll Adornments
-Recipe: Dragon Hatchling Doll Eyes,Recipe: Dragon Hatchling Doll Eyes
+Recipe: Dragon Hatchling Doll Eyes,Рецепт: глаза куклы-дракончика
 Recipe: Dragon Hatchling Doll Frame,Рецепт: Dragon Hatchling Doll Frame
 Recipe: Dragon Hatchling Doll Hide,Рецепт: Dragon Hatchling Doll Hide
 Recipe: Dragon Slayer Axe,Рецепт: Dragon Slayer Axe
@@ -333,7 +333,7 @@ Recipe: Dragonsblood Staff,Рецепт: Dragonsblood Staff
 Recipe: Dragonsblood Sword,Рецепт: Dragonsblood Sword
 Recipe: Dragonsblood Torch,Рецепт: Dragonsblood Torch
 Recipe: Dragonsblood Warhorn,Рецепт: Dragonsblood Warhorn
-Recipe: Drottot's Poached Eggs,Recipe: Drottot's Poached Eggs
+Recipe: Drottot's Poached Eggs,Рецепт: яйца пашот Дроттота
 Recipe: Earth Elemental Left Hand,Рецепт: Earth Elemental Left Hand
 Recipe: Earth Elemental Right Hand,Рецепт: Earth Elemental Right Hand
 Recipe: Ebonmane's Apothecary Inscription,Рецепт: Ebonmane's Apothecary Inscription
@@ -398,10 +398,10 @@ Recipe: Endless Toy Golem Tonic,Рецепт: Endless Toy Golem Tonic
 Recipe: Endless Toy Soldier Tonic,Рецепт: Endless Toy Soldier Tonic
 Recipe: Endless Toy Ventari Tonic,Рецепт: Endless Toy Ventari Tonic
 Recipe: Enhanced Lucent Oil,Рецепт: Enhanced Lucent Oil
-Recipe: Enriched Compost,Recipe: Enriched Compost
+Recipe: Enriched Compost,Рецепт: обогащенный компост
 Recipe: Eternal Flame,Рецепт: Eternal Flame
 Recipe: Ether Djinn's Token,Рецепт: Ether Djinn's Token
-Recipe: Ettin Stew,Recipe: Ettin Stew
+Recipe: Ettin Stew,Рецепт: похлёбка из эттина
 Recipe: Evergreen Jar,Рецепт: Evergreen Jar
 Recipe: Exalted Axe Core,Рецепт: Exalted Axe Core
 Recipe: Exalted Dagger Core,Рецепт: Exalted Dagger Core
@@ -414,7 +414,7 @@ Recipe: Exalted Pistol Core,Рецепт: Exalted Pistol Core
 Recipe: Exalted Rifle Core,Рецепт: Exalted Rifle Core
 Recipe: Exalted Scepter Core,Рецепт: Exalted Scepter Core
 Recipe: Exalted Shield Core,Рецепт: Exalted Shield Core
-Recipe: Exalted Short-Bow Core,Recipe: Exalted Short-Bow Core
+Recipe: Exalted Short-Bow Core,Рецепт: возвышенное ядро короткого лука
 Recipe: Exalted Staff Core,Рецепт: Exalted Staff Core
 Recipe: Exalted Sword Core,Рецепт: Exalted Sword Core
 Recipe: Exalted Torch Core,Рецепт: Exalted Torch Core
@@ -424,7 +424,7 @@ Recipe: Exemplar's Edge,Рецепт: Exemplar's Edge
 Recipe: Exitare,Рецепт: Exitare
 Recipe: Exitus,Рецепт: Exitus
 Recipe: Experimental Skritt Musket,Рецепт: Experimental Skritt Musket
-Recipe: Experimenter's Collection Staff,Recipe: Experimenter's Collection Staff
+Recipe: Experimenter's Collection Staff,Рецепт: посох коллекционера-экспериментатора
 Recipe: Exquisite Agate Jewel,Рецепт: Exquisite Agate Jewel
 Recipe: Exquisite Ambrite Jewel,Рецепт: Exquisite Ambrite Jewel
 Recipe: Exquisite Beryl Jewel,Рецепт: Exquisite Beryl Jewel
@@ -437,14 +437,14 @@ Recipe: Exquisite Ebony Jewel,Рецепт: Exquisite Ebony Jewel
 Recipe: Exquisite Emerald Jewel,Рецепт: Exquisite Emerald Jewel
 Recipe: Exquisite Extract of Nourishment,Рецепт: Exquisite Extract of Nourishment
 Recipe: Exquisite Flax Blossom,Рецепт: Exquisite Flax Blossom
-Recipe: Exquisite Freshwater Pearl Jewel,Recipe: Exquisite Freshwater Pearl Jewel
+Recipe: Exquisite Freshwater Pearl Jewel,Рецепт: изысканный пресноводный жемчужный самоцвет
 Recipe: Exquisite Jade Jewel,Рецепт: Exquisite Jade Jewel
-Recipe: Exquisite Lily Jewel,Recipe: Exquisite Lily Jewel
+Recipe: Exquisite Lily Jewel,Рецепт: изысканный лилейный самоцвет
 Recipe: Exquisite Moonstone Jewel,Рецепт: Exquisite Moonstone Jewel
 Recipe: Exquisite Opal Jewel,Рецепт: Exquisite Opal Jewel
 Recipe: Exquisite Polished-Resin Jewel,Рецепт: Exquisite Polished-Resin Jewel
-Recipe: Exquisite Quartz Jewel,Recipe: Exquisite Quartz Jewel
-Recipe: Exquisite Rare Sprocket Jewel,Recipe: Exquisite Rare Sprocket Jewel
+Recipe: Exquisite Quartz Jewel,Рецепт: изысканный кварцевый самоцвет
+Recipe: Exquisite Rare Sprocket Jewel,Рецепт: изысканный редкий самоцвет-шестерня
 Recipe: Exquisite Ruby Jewel,Рецепт: Exquisite Ruby Jewel
 Recipe: Exquisite Sapphire Jewel,Рецепт: Exquisite Sapphire Jewel
 Recipe: Extended Potion of Dredge Slaying,Рецепт: Extended Potion of Dredge Slaying

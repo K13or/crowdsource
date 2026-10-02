@@ -74,7 +74,7 @@ Unlocks a short time after completing the Troublesome Skyscales collection.,От
 Unlocks after participating in the Battle for the Jade Sea meta-event.,Открывается после участия в мета-событии «Битва за Нефритовое море».
 "Unlocks Heart of Thorns recipes, sigils, and runes for the Heroics Notary vendor.","Открывает рецепты, сигилы и руны Heart of Thorns у торговца-нотариуса геройских деяний."
 Unlocks the ability to use the warclaw in WvW and the Warclaw Companion achievement.,Открывает возможность использовать варклоу в WvW и достижение «Спутник-варклоу».
-"Unlocks the Mech Command skill Barrier Burst. While in combat, your mech will automatically grant a small barrier each interval to nearby allies.<br><br><c=@reminder>The mech does not count against the target count for this trait.</c>",Открывает умение управления мехом «Всплеск барьера». В бою ваш мех через каждый интервал будет автоматически давать небольшой барьер ближайшим союзникам.<br><br><c=@reminder>Мех не учитывается в счётчике целей этого таланта.</c>
+"Unlocks the Mech Command skill Barrier Burst. While in combat, your mech will automatically grant a small barrier each interval to nearby allies.<br><br><c=@reminder>The mech does not count against the target count for this trait.</c>",Открывает умение управления мехом Barrier Burst. В бою ваш мех через каждый интервал будет автоматически давать небольшой барьер ближайшим союзникам.<br><br><c=@reminder>Мех не учитывается в счётчике целей этого таланта.</c>
 Unlocks the Mech Command skill Explosive Knuckle. Your mech's attacks now generate might for allies within a radius. This effect may only occur once per interval.<br><br><c=@reminder>The mech does not count against the target count for this trait.</c>,Открывает умение управления мехом «Explosive Knuckle». Атаки вашего меха теперь дают мощь союзникам в радиусе. Этот эффект может срабатывать лишь раз за интервал.<br><br><c=@reminder>Мех не учитывается в счётчике целей этого таланта.</c>
 Unlocks the raptor mount for expansion-upgraded accounts (if you don't already have it). Starts the Raptor Mount Trial for Play for Free accounts.,Открывает раптора для учётных записей с дополнением (если его у вас ещё нет). Для бесплатных учётных записей запускает пробное испытание раптора.
 Unmask the Purist sympathizers in the monastery.,Разоблачите сочувствующих Пуристам в монастыре.
@@ -115,7 +115,7 @@ Unspent Shell,Неизрасходованный панцирь
 Unspent Trait Points,Нерастраченные очки талантов
 Unspespecting Foe,Ничего не подозревающий враг
 Unstable %str1%,Нестабильн%str1%
-Unstable Abomination,Unstable Abomination
+Unstable Abomination,Нестабильная мерзость
 Unstable Artifact,Нестабильный артефакт
 Unstable Attunement,Нестабильная настройка
 Unstable Bauble Refraction: Blue,Нестабильное преломление безделушки: синее
@@ -158,7 +158,6 @@ Unstable Spark,Нестабильная искра
 "Unstable Strongbox[pl:""Strongboxes""]",Нестабильн[ый сейф|ых сейфа|ых сейфов]
 Unstable Traversal,Нестабильный переход
 Unstable Walls,Нестабильные стены
-"Unstable walls are immune to all damage except warclaw chain pulls.Attach a chain to the wall, then move backwards to tug at the wall and deal damage.","Нестабильные стены невосприимчивы ко всякому урону, кроме цепных рывков варклоу.Прицепите цепь к стене, затем двигайтесь назад, чтобы дёрнуть стену и нанести урон."
 Untamed's Cache[s],Тайник[|а|ов] Неукротимого
 "Until now, you've been sleeping. Dreaming. Seeing the wonder of the world, but only at a distance. Now, something has roused you within your Dream. A voice calls to you, a voice both familiar and yet unknown.","До сих пор ты спал. Видел сны. Видел чудеса мира, но лишь издалека. Теперь же нечто пробудило тебя внутри твоего Сна. Тебя зовёт голос — знакомый и вместе с тем неведомый."
 "Until recently, the Fields of Ruin were the scene of the ongoing struggle between humans and charr, centering on the siege of the human city of Ebonhawke. Now a fragile truce exists between the two races, while radical elements on both sides seek to shatter that peace.","До недавних пор Fields of Ruin были ареной непрестанной борьбы людей и чарров, сосредоточенной вокруг осады людского города Эбонхоук. Теперь между двумя народами существует хрупкое перемирие, а радикалы с обеих сторон стремятся этот мир разрушить."
@@ -279,7 +278,7 @@ Ura's Token[s] (Homestead),Жетон[|а|ов] Уры (усадьба)
 "Ura, the Steamshrieker: (groans)","Ура, Паровопищущая: (стонет)"
 "Ura, the Steamshrieker: (snarls)","Ура, Паровопищущая: (рычит)"
 "Ura, the Steamshrieker: You killed the godspawn?","Ура, Паровопищущая: Ты убил богорождённого?"
-Urban Battleground,Urban Battleground
+Urban Battleground,Городское поле боя
 Urban Battlegrounds Field Researcher,Полевой исследователь Городского поля боя
 Urban Threat Response Training[s],Обучени[е|я|й] реагированию на городские угрозы
 URGENT - Click to Open!,"СРОЧНО — щёлкните, чтобы открыть!"
@@ -287,7 +286,7 @@ Urgent Lionguard Operation,Срочная операция Львиной стр
 Urgent Request,Срочный запрос
 Urgent: Do Not Read Out Loud,Срочно: не читать вслух
 Urgent: Problem With Your Golem Design,Срочно: неполадка в конструкции вашего голема
-URGENT: Requesting ground support in northern Maguuma. Platoon suffered heavy casualties. All available personnel should report to the Pact representative at the designated location north of Batrach Falls for briefing.,СРОЧНО: требуется наземная поддержка в северной Магууме. Взвод понёс тяжёлые потери. Всему свободному личному составу явиться к представителю Пакта в указанном месте к северу от Водопадов Батрах для инструктажа.
+URGENT: Requesting ground support in northern Maguuma. Platoon suffered heavy casualties. All available personnel should report to the Pact representative at the designated location north of Batrach Falls for briefing.,СРОЧНО: требуется наземная поддержка в северной Maguuma. Взвод понёс тяжёлые потери. Всему свободному личному составу явиться к представителю Пакта в указанном месте к северу от Водопадов Батрах для инструктажа.
 Urgoz the Terrible,Ургоз Ужасный
 Urgoz's Warren [lbracket]FR[rbracket],Нора Ургоза [lbracket]FR[rbracket]
 Urgulp Friendship Bracelet[s],Браслет[|а|ов] дружбы Ургульпа
@@ -296,25 +295,7 @@ Ursan Blessing,Медвежье благословение
 Ursan Tonic[s],Медвежь[и тоник|их тоника|их тоников]
 Ursan Weapon Chest[s],Сундук[|а|ов] с медвежьим оружием
 Ursus Oblige[s],Медвежь[я услуга|и услуги|их услуг]
-"Usable by any character, these items will help you blend in with the White Mantle. This pack is valued at 2675 gems.Appearance skins override the look of your equipment and have no stats of their own.","Эти предметы, доступные любому персонажу, помогут вам сойти за своего среди White Mantle. Набор оценивается в 2675 самоцветов.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, these items will help you blend in with the White Mantle. This package is valued at 7594 gems.Appearance skins override the look of your equipment and have no stats of their own.","Эти предметы, доступные любому персонажу, помогут вам сойти за своего среди White Mantle. Набор оценивается в 7594 самоцвета.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, this pack combines several popular upgrades for the aspiring craftsman.Valued at 2,650 gems.","Доступный любому персонажу, этот набор объединяет несколько популярных улучшений для начинающего ремесленника.Оценивается в 2650 самоцветов."
-"Usable by any character, this pack combines several popular upgrades for the aspiring craftsman.Valued at 5,140 gems.","Доступный любому персонажу, этот набор объединяет несколько популярных улучшений для начинающего ремесленника.Оценивается в 5140 самоцветов."
-"Usable by any character, this pack comes with everything you need to assault the jungle in style.Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор содержит всё нужное, чтобы штурмовать джунгли со вкусом.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, this pack comes with everything you need to assume the terrifying form of the ancient Mursaat.Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор содержит всё нужное, чтобы принять устрашающий облик древних Мурсаат.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, this pack comes with everything you need to assume the terrifying form of the ancient mursaat.Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор содержит всё нужное, чтобы принять устрашающий облик древних мурсаат.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, this pack comes with everything you need to celebrate winter in style.Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор содержит всё нужное, чтобы встретить зиму со вкусом.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, this pack comes with everything you need to maintain a covert profile. Valued at 2975 gems.Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор содержит всё нужное, чтобы оставаться незаметным. Оценивается в 2975 самоцветов.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, this pack comes with everything you need to sail the seas in style.Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор содержит всё нужное, чтобы бороздить моря со вкусом.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, this pack comes with everything you need to take the wild frontier by storm.Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор содержит всё нужное, чтобы покорить дикий фронтир.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
 "Usable by any character, this pack contains maximum value delivered in an ironclad shell. This package is valued at 7594 gems. Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор даёт наивысшую ценность в бронированной оболочке. Набор оценивается в 7594 самоцвета. Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, this pack has a 2,650 gem value.Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор оценивается в 2650 самоцветов.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, this pack has a value of 2,525 gems.Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор оценивается в 2525 самоцветов.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, this pack is valued at 1,850 gems.Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор оценивается в 1850 самоцветов.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, this pack is valued at 2675 gems.Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор оценивается в 2675 самоцветов.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, this pack is valued at 4,000 gems.Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор оценивается в 4000 самоцветов.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, this pack is valued at 5,604 gems.Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор оценивается в 5604 самоцвета.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
-"Usable by any character, this pack is valued at 8,468 gems.Appearance skins override the look of your equipment and have no stats of their own.","Доступный любому персонажу, этот набор оценивается в 8468 самоцветов.Облики внешности перекрывают вид вашего снаряжения и не имеют собственных характеристик."
 Usable in Midair,Можно применять в воздухе
 Usable only in raids or fractals.,Можно применять только в рейдах или фракталах.
 Usable only in raids.,Можно применять только в рейдах.
@@ -336,7 +317,7 @@ Use a Capacitive Bottle to capture energy from a lightning strike at Goemm's Lab
 Use a Capacitive Bottle to capture energy from a lightning turret in the Thaumanova Reactor Fractal.,Соберите Capacitive Bottle энергию молниевой турели во фрактале «Thaumanova Reactor».
 Use a Capacitive Bottle to capture energy from a rotating wall while fighting Frizz in the Aetherblade Fractal.,Соберите Capacitive Bottle энергию вращающейся стены во время боя с Фриззом во фрактале «Эфирные клинки».
 Use a Capacitive Bottle to capture energy from a spark at Opticalium's lab in Metrica Province.,Соберите Capacitive Bottle энергию искры в лаборатории Оптикалиума в Metrica Province.
-Use a Capacitive Bottle to capture energy from a turret inside Oola's lab after it closes.,Соберите Capacitive Bottle энергию турели в лаборатории Оолы после её закрытия.
+Use a Capacitive Bottle to capture energy from a turret inside Oola's lab after it closes.,Соберите Capacitive Bottle энергию турели в лаборатории Oola после её закрытия.
 Use a Capacitive Bottle to capture energy from a Veteran Air Elemental by killing it within melee range.,"Соберите Capacitive Bottle энергию ветерана-воздушного элементаля, убив его в ближнем бою."
 Use a Capacitive Bottle to capture energy from an Aetherblade Striker's channeled lightning attack.,Соберите Capacitive Bottle энергию направленной молниевой атаки бойца Эфирных клинков.
 Use a Capacitive Bottle to capture energy from an aspect lightning crystal in Dry Top.,Соберите Capacitive Bottle энергию молниевого кристалла аспекта на Dry Top.
@@ -398,7 +379,7 @@ Use All,Использовать всё
 Use All Canceled,Использование всего отменено
 "Use an Energy Crystal from the Vale Guardian in Spirit Vale to capture Auric energy from the Inner Chamber of Tarir, the Forgotten City.","Возьмите Energy Crystal Долинного Стража в Spirit Vale, чтобы собрать оровальную энергию во Внутреннем Чертоге Тарира, Забытого Города."
 Use an Inquest vacuum to siphon this magic.,Откачайте эту магию вакуумом Inquest.
-Use Aurene's blessing to launch clear of danger and gain height to glide to nearby platforms!,"Благословением Аурены взлетите прочь от опасности и наберите высоту, чтобы спланировать на ближайшие платформы!"
+Use Aurene's blessing to launch clear of danger and gain height to glide to nearby platforms!,"Благословением Aurene взлетите прочь от опасности и наберите высоту, чтобы спланировать на ближайшие платформы!"
 Use Burrow to bypass this gate. Find a magic mushroom to acquire the skill!,"Обойдите эти врата с помощью «Норы». Найдите волшебный гриб, чтобы получить это умение!"
 Use casino coins to purchase goods from the casino blitz cashier.,Покупайте товары у кассира казино-блица за казиношные монеты.
 Use caustic grenades to weaken extractors. (Event 1 of 2),Ослабляйте экстракторы едкими гранатами. (Событие 1 из 2)
@@ -411,7 +392,7 @@ Use default texture filtering settings chosen for particular textures. Uses a mi
 "Use dwarven magic to envelop yourself in a stone, gaining invulnerability.","Дворфийской магией окутайте себя камнем, обретая неуязвимость."
 Use dynamic shadows for nearby objects and enable shadows for spotlights.,Использовать динамические тени для ближних объектов и включить тени от прожекторов.
 Use either mouse button to change direction,Меняйте направление любой кнопкой мыши
-Use enchanted armors to combat Mordremoth's champions.,Сражайтесь с чемпионами Мордремота в зачарованных доспехах.
+Use enchanted armors to combat Mordremoth's champions.,Сражайтесь с чемпионами Mordremoth в зачарованных доспехах.
 Use explosive ordnance to destroy the colossal vine.,Уничтожьте исполинскую лозу взрывчатыми боеприпасами.
 Use explosives to blow up the blighting tree.,Взорвите гнилостное древо взрывчаткой.
 Use fast approximate antialiasing. Smooths edges of objects at a slight cost in performance.,Использовать быстрое приближённое сглаживание. Сглаживает края объектов при небольшой потере производительности.

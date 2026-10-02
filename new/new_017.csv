@@ -7,7 +7,7 @@ Iida,Иида
 Illa,Илла
 Illuminate!,Озарение!
 Illusory,Иллюзорный
-Imbued Shaman,Imbued Shaman
+Imbued Shaman,Напитанный шаман
 Imbued the runestone of suffusion.,Рунный камень пропитки напитан.
 "Imbues your attacks with blue toxin, enabling damage against enemies weak to it.","Напитывает ваши атаки синим токсином, позволяя наносить урон уязвимым к нему врагам."
 "Imbues your attacks with green toxin, enabling damage against enemies weak to it.","Напитывает ваши атаки зелёным токсином, позволяя наносить урон уязвимым к нему врагам."
@@ -106,7 +106,7 @@ Increased vitality and toughness.,Повышенные живучесть и с�
 "Increases Power, Toughness, and Vitality.","Повышает силу, стойкость и живучесть."
 Increases all stats by a small amount.,Немного повышает все характеристики.
 "Increases condition damage, precision, and toughness.","Повышает урон от состояний, точность и стойкость."
-Increases critical-hit chance,Increases critical-hit chance
+Increases critical-hit chance,Повышает шанс критического удара
 Increases damage dealt by 100%%.,Увеличивает наносимый урон на 100%%.
 Increases damage dealt by 25%%.,Увеличивает наносимый урон на 25%%.
 Increases damage delivered.,Увеличивает наносимый урон.
@@ -135,8 +135,8 @@ Infiltrate the bandit hideout to keep Quinn out of jail.,"Проникните �
 Infiltrate the krait tower and steal the orb.,Проникните в башню крайтов и похитьте сферу.
 Infiltrate the prison.,Проникните в тюрьму.
 Infiltrator Seric,Лазутчик Серик
-Infinite Glacial Gathering Tools,Infinite Glacial Gathering Tools
-Infinite Strong Swing,Infinite Strong Swing
+Infinite Glacial Gathering Tools,Бесконечные ледниковые инструменты сбора
+Infinite Strong Swing,Бесконечный сильный замах
 Inflict a random condition on your foe.,Накладывает на противника случайное состояние.
 Inflict bleeding on enemies you immobilize or disable.,"Вы вызываете кровотечение у противников, которых обездвижили или вывели из строя."
 Inflicting a condition on a foe grants <c=@abilitytype>carapace</c>. Gain incoming damage reduction while at or above the <c=@abilitytype>carapace</c> threshold.,"Наложение состояния на врага даёт <c=@abilitytype>панцирь</c>. Пока количество <c=@abilitytype>панциря</c> не ниже порогового, входящий урон снижается."
@@ -157,7 +157,7 @@ Inform Tonn's widow that he was killed in action.,"Сообщите вдове �
 Inform Trahearne about the Searing Cauldron.,Сообщите Трихерну о Searing Cauldron.
 Infuriating!,Как же бесит!
 Infused Stone,Напитанный камень
-"Infused with the power of Grenth, chilling and poisoning nearby foes.","Напитан силой Гренса, замораживает и отравляет ближайших врагов."
+"Infused with the power of Grenth, chilling and poisoning nearby foes.","Напитан силой Grenth, замораживает и отравляет ближайших врагов."
 Infusing terror gives stability while reducing incoming damage.,Напитывание ужасом даёт устойчивость и снижает входящий урон.
 Ingene always turns its failures into successes.,Инджин всегда обращает свои неудачи в успехи.
 "Ingene can't execute their complex plans, and Rolic can only plan parties.","Инджин не может воплотить свои сложные планы, а Ролик умеет планировать только вечеринки."
@@ -173,38 +173,38 @@ Input received. WARNING! Data does not match sample set. Shutting down analysis.
 Inputting value. Modulation array online. Crystal tuning efficiency improved!,Ввод значения. Модуляционная матрица активна. Эффективность настройки кристаллов повышена!
 Inputting value. Ratios correct. Distributing crystals to network.,Ввод значения. Соотношения верны. Кристаллы распределяются по сети.
 Input—denied. Unscheduled—requests—will—slow—decryption. Redirect—inquires—to—future—Ascension—hero—Xunn. End—of—feed.,Ввод—отклонён. Внеплановые—запросы—замедлят—дешифровку. Перенаправьте—обращения—к—будущему—герою—Вознесения—Ксунну. Конец—передачи.
-Inquest Agent Coll,Inquest Agent Coll
-Inquest Agent Dinn,Inquest Agent Dinn
-Inquest Amalgam Assassin,Inquest Amalgam Assassin
-Inquest Amalgam Engineer,Inquest Amalgam Engineer
-Inquest Audio Log Box,Inquest Audio Log Box
-Inquest Barrier,Inquest Barrier
-Inquest Canister,Inquest Canister
-Inquest Containment Cell,Inquest Containment Cell
-Inquest Corpses,Inquest Corpses
-Inquest Danger Sign,Inquest Danger Sign
-Inquest Data Console,Inquest Data Console
-Inquest Dig Site,Inquest Dig Site
-Inquest Galvanic Technician,Inquest Galvanic Technician
-Inquest Grunt,Inquest Grunt
-Inquest Hunter,Inquest Hunter
-Inquest Intern,Inquest Intern
-Inquest Machinist,Inquest Machinist
-Inquest Magimeter,Inquest Magimeter
-Inquest Medic,Inquest Medic
-Inquest Mount Package,Inquest Mount Package
+Inquest Agent Coll,Агент Inquest Колл
+Inquest Agent Dinn,Агент Inquest Динн
+Inquest Amalgam Assassin,Амальгам-убийца Inquest
+Inquest Amalgam Engineer,Амальгам-инженер Inquest
+Inquest Audio Log Box,Коробка с аудиозаписями Inquest
+Inquest Barrier,Барьер Inquest
+Inquest Canister,Канистра Inquest
+Inquest Containment Cell,Камера содержания Inquest
+Inquest Corpses,Трупы Inquest
+Inquest Danger Sign,Знак опасности Inquest
+Inquest Data Console,Консоль данных Inquest
+Inquest Dig Site,Раскопки Inquest
+Inquest Galvanic Technician,Гальванический техник Inquest
+Inquest Grunt,Рядовой Inquest
+Inquest Hunter,Охотник Inquest
+Inquest Intern,Стажёр Inquest
+Inquest Machinist,Механик Inquest
+Inquest Magimeter,Магиметр Inquest
+Inquest Medic,Медик Inquest
+Inquest Mount Package,Набор скакунов Inquest
 Inquest Mount Package now available!,Набор скакунов Inquest уже доступен!
-Inquest Operative,Inquest Operative
-Inquest Pilferer,Inquest Pilferer
-Inquest Poison Ampoule,Inquest Poison Ampoule
-Inquest Prisoner,Inquest Prisoner
+Inquest Operative,Оперативник Inquest
+Inquest Pilferer,Воришка Inquest
+Inquest Poison Ampoule,Ампула с ядом Inquest
+Inquest Prisoner,Пленник Inquest
 Inquest Raptor Skin[s],Облик[|а|ов] раптора Inquest
 Inquest Remaining,Осталось бойцов Inquest
-Inquest Sharpshooter,Inquest Sharpshooter
+Inquest Sharpshooter,Меткий стрелок Inquest
 Inquest Squads Defeated,Отряды Inquest побеждены
-Inquest Technician Greeza,Inquest Technician Greeza
-Inquest Technician Krim,Inquest Technician Krim
-Inquest Void-Emulation Specialist,Inquest Void-Emulation Specialist
+Inquest Technician Greeza,Техник Inquest Гриза
+Inquest Technician Krim,Техник Inquest Крим
+Inquest Void-Emulation Specialist,Специалист Inquest по эмуляции Пустоты
 Inquest Weapons Stash,Тайник с оружием Inquest
 Inquest-Controlled Stewards,Управляемые Inquest стюарды
 Inquest-Enhanced Saurian,Улучшенный Inquest завр
@@ -223,7 +223,7 @@ Instrument,Инструмент
 Intel Gathered,Сведения собраны
 Intel Officer Hellena,Офицер разведки Хеллена
 Intentionally Sorted a Text into the Wrong Category,Текст намеренно отнесён не к той категории
-Interact with the casket near the Statue of Grenth in the Temple of Grenth in the Cursed Shore.,Взаимодействуйте с гробом у статуи Гренса в храме Гренса на Cursed Shore.
+Interact with the casket near the Statue of Grenth in the Temple of Grenth in the Cursed Shore.,Взаимодействуйте с гробом у статуи Grenth в храме Grenth на Cursed Shore.
 Intercept %num2% passes in keg brawl.,Перехватите %num2% передач в бочковой потасовке.
 Intercept the Inquest squad in the area.,Перехватите отряд Inquest в этой местности.
 Intercept the Knight of Embers.,Перехватите Рыцаря Углей.
@@ -243,7 +243,7 @@ Interrupted the Whisper of Jormag's Frigid Vortex 5 Times in One Encounter,Frigi
 Interrupting a foe recharges pistol skills.<br><c=@reminder>This trait can only reduce recharge on enemies with defiance bars once per interval.</c>,Прерывание врага перезаряжает умения пистолета.<br><c=@reminder>Этот талант может сокращать перезарядку от врагов со шкалой стойкости лишь раз за интервал.</c>
 Interrupts • Confuses • Blocks,Прерывает • Вызывает замешательство • Блокирует
 "Interviewed %num1%/%num2% Invasion Witness[pl:""Witnesses""]",Опрошено %num1%/%num2% [свидетеля вторжения|свидетеля вторжения|свидетелей вторжения]
-Into Tyria! You have your orders—see to it that Eparch's plans are followed. Show them the price of their defiance.,"В Тирию! Приказы вы получили — проследите, чтобы планы Эпарха были исполнены. Покажите им цену неповиновения."
+Into Tyria! You have your orders—see to it that Eparch's plans are followed. Show them the price of their defiance.,"В Тирию! Приказы вы получили — проследите, чтобы планы Eparch были исполнены. Покажите им цену неповиновения."
 Intriguing Object,Занятный предмет
 Intrinsic Field,Внутреннее поле
 Introduce Malyck to Caithe and Trahearne.,Познакомьте Малика с Кейт и Трихерном.
@@ -257,7 +257,7 @@ Inventor,Изобретатель
 Inventory report. What's missing?,Отчёт по запасам. Чего не хватает?
 Inverted Blade Wings Glider[s],Планёр[|а|ов] «Перевёрнутые клинковые крылья»
 Investigate Falooaloo Village's missing quaggans.,Разберитесь с пропажей квагганов из деревни Фалуалу.
-Investigate Gorr's lab for clues about his death.,Обыщите лабораторию Горра в поисках улик о его гибели.
+Investigate Gorr's lab for clues about his death.,Обыщите лабораторию Gorr в поисках улик о его гибели.
 Investigate Tactician Syska's background.,Разузнайте о прошлом тактика Сиски.
 Investigate the Abandoned Caverns with Forktail.,Исследуйте Заброшенные пещеры вместе с Форктейлом.
 Investigate the Inquest dig sites.,Осмотрите раскопки Inquest.
@@ -285,7 +285,7 @@ Iron Legion Sentinel,Часовой Iron Legion
 Iron Legion Warrior,Воин Iron Legion
 Iron Pledge,Железная клятва
 "Iron Stairs[pl:""Stairs""] (120 x 120)",[Железная лестница|Железные лестницы|Железных лестниц] (120 x 120)
-Irvine,Irvine
+Irvine,Ирвин
 Is a bit of treasure worth your life?,Стоит ли горстка сокровищ твоей жизни?
 Is it fun to be a Ministry guard?,Весело быть стражником Министерства?
 "Is it just me, or am I amazing?","Мне кажется, или я великолепен?"
@@ -298,8 +298,8 @@ Is this what you're looking for?,"Это то, что ты ищешь?"
 Isara Duran,Исара Дуран
 Isenfell Wash,Промоина Изенфелл
 Isgarren Viewpoint,Обзорная точка Исгаррена
-"Isgarren may be Isgarren, but I doubt his wards are completely impenetrable...","Исгаррен, конечно, Исгаррен, но я сомневаюсь, что его обереги совсем непроницаемы..."
-Isgarren's wards are interfering with all teleportation skills in his maze.,Обереги Исгаррена мешают всем умениям телепортации в его лабиринте.
+"Isgarren may be Isgarren, but I doubt his wards are completely impenetrable...","Isgarren, конечно, Isgarren, но я сомневаюсь, что его обереги совсем непроницаемы..."
+Isgarren's wards are interfering with all teleportation skills in his maze.,Обереги Isgarren мешают всем умениям телепортации в его лабиринте.
 "Isgarren, I'm so—","Исгаррен, мне так—"
 "Issa and Lyss, the two who are one... (humming)","Исса и Лисс, двое, что суть одно... (напевает)"
 Issormir's Body,Тело Иссормира
@@ -353,7 +353,7 @@ It's not showing off if you earned it.,"Это не хвастовство, ес
 It's not time for eternal sleep. Get up.,Не время для вечного сна. Вставай.
 It's our lucky day!,Сегодня наш счастливый день!
 "It's possible to survive for weeks without food, but no one lasts long around here without a water supply.","Без еды можно протянуть недели, но без запаса воды здесь никто долго не живёт."
-It's said they gained a new kind of magic bestowed by Glint's holy remains.,"Говорят, они обрели новый вид магии, дарованный священными останками Глинт."
+It's said they gained a new kind of magic bestowed by Glint's holy remains.,"Говорят, они обрели новый вид магии, дарованный священными останками Glint."
 "It's so large, isn't it?","Оно такое огромное, правда?"
 It's so spicy! Take a swig and recover 45%% health.,Как остро! Сделайте глоток и восстановите 45%% здоровья.
 "It's the centaurs, always trying to attack our town. If you'll excuse me, I must get back to work while there's a moment's peace.","Это всё кентавры, вечно норовят напасть на наш городок. Прошу прощения, мне надо вернуться к работе, пока есть минутка покоя."
@@ -363,7 +363,7 @@ It's too dangerous out there.,Там слишком опасно.
 It's your own fault.,Сам виноват.
 Itheann,Итеанн
 I—will—notify—the—next—of—kin.,Я—уведомлю—ближайших—родственников.
-"Jabari was my Sunspear mentor. We escaped Elona together, but he was killed and Awakened to keep the exiled of the Gladefields in line. Warden Jabari is a cruel mockery of a fallen hero and friend.","Джабари был моим наставником из Солнечных Копий. Мы вместе бежали из Элоны, но его убили и пробудили, чтобы держать в узде изгнанников Полей. Смотритель Джабари — жестокая насмешка над павшим героем и другом."
+"Jabari was my Sunspear mentor. We escaped Elona together, but he was killed and Awakened to keep the exiled of the Gladefields in line. Warden Jabari is a cruel mockery of a fallen hero and friend.","Джабари был моим наставником из Солнечных Копий. Мы вместе бежали из Elona, но его убили и пробудили, чтобы держать в узде изгнанников Полей. Смотритель Джабари — жестокая насмешка над павшим героем и другом."
 Jacaranda Combat Readiness,Боевая готовность жакаранды
 Jack-O'-Lantern,Светильник Джека
 Jackdaw Cannoneer,Канонир «Галки»
@@ -376,10 +376,10 @@ Jade Tech Console,Консоль Jade Tech
 Jade Tech Gate,Врата Jade Tech
 Jade Wasp Bot,Нефритовый бот-оса
 Jade guard blaster attacks will track targets.,Атаки бластеров нефритовой стражи будут следовать за целями.
-Jafri,Jafri
+Jafri,Джафри
 Jagged Metal Scrap[s],Зазубренный обрезок[|а|ов] металла
 Jail Door,Дверь тюрьмы
-Jalis,Jalis
+Jalis,Джалис
 Jamie,Джейми
 Jaycee McKellar,Джейси Маккеллар
 Jealous Swipe,Ревнивый удар
@@ -389,7 +389,7 @@ Jeppa's Campsite,Стоянка Джеппы
 Jerafim,Джерафим
 Jeremi the Carny,Джереми Балаганщик
 Jeska,Джеска
-Jess,Jess
+Jess,Джесс
 Jimmy Hammerhart might have a book about this...,"Может, у Джимми Молотосерда есть книга об этом..."
 Job well done,Отличная работа
 Join Selected Team,Присоединиться к выбранной команде
@@ -402,14 +402,14 @@ Join the Vigil's effort to destroy the dragon crystal.,Присоедините�
 Join the expedition to Orr's Royal Tombs.,Присоединитесь к экспедиции в Королевские гробницы Орра.
 Join up with the Gear Warband as they move north.,Присоединитесь к отряду Гир в походе на север.
 Join with the Vigil and defend Lion's Arch.,Присоединитесь к Дозору и защитите Lion's Arch.
-Join your krewe to compete for the Snaff Prize.,"Присоединитесь к своему крю, чтобы побороться за Приз Снаффа."
-Join your krewe to compete in the Snaff Prize competition.,Присоединитесь к своему крю для участия в состязании за Приз Снаффа.
+Join your krewe to compete for the Snaff Prize.,"Присоединитесь к своему крю, чтобы побороться за Приз Snaff."
+Join your krewe to compete in the Snaff Prize competition.,Присоединитесь к своему крю для участия в состязании за Приз Snaff.
 Jonathan McKellar,Джонатан Маккеллар
 Jorg Tomefeaster,Йорг Книгоед
-"Jormag's influence extends far beyond his actual reach. To the west, the Sons of Svanir grow ever more dangerous and violent. To the east, the weak-minded grawl worship the great beast in the sky. We must stem the tide, or this land will be lost.","Влияние Йормага простирается далеко за пределы его досягаемости. На западе Sons of Svanir становятся всё опаснее и злее. На востоке слабоумные граулы поклоняются великому зверю в небе. Мы должны остановить эту волну, иначе эта земля будет потеряна."
+"Jormag's influence extends far beyond his actual reach. To the west, the Sons of Svanir grow ever more dangerous and violent. To the east, the weak-minded grawl worship the great beast in the sky. We must stem the tide, or this land will be lost.","Влияние Jormag простирается далеко за пределы его досягаемости. На западе Sons of Svanir становятся всё опаснее и злее. На востоке слабоумные граулы поклоняются великому зверю в небе. Мы должны остановить эту волну, иначе эта земля будет потеряна."
 Jortun the Cunning,Йортун Хитрый
-Jorund,Jorund
-Jorund Soderhem,Jorund Soderhem
+Jorund,Йорунд
+Jorund Soderhem,Йорунд Сёдерхем
 Jotun Runestone[s],Рунный [камень|камня|камней] йотунов
 Journal Scroll,Свиток дневника
 Journal of Kormir,Дневник Кормир
@@ -432,7 +432,7 @@ Jumped into the Water near the Fortress of the Founding,Прыжок в воду
 Jumped into the Water near the Northern Beacon,Прыжок в воду у Северного маяка совершён
 Jumped off the Waterfall into the Chak Hive,Прыжок с водопада в улей чаков совершён
 Jumped over Drakkar's Shock Wave Attack %num1%/%num2% Times,Shock Wave Драккара перепрыгнута %num1%/%num2% раз
-Junior Archivist's Aide Conri,Junior Archivist's Aide Conri
+Junior Archivist's Aide Conri,Помощник младшего архивариуса Конри
 Just a bit of your soul—you won't miss it.,Всего кусочек твоей души — ты и не заметишь.
 Just another dead cow.,Просто ещё одна дохлая корова.
 Just hope our equipment isn't all jammed with sand when we need it.,"Остаётся надеяться, что наше снаряжение не забьётся песком, когда понадобится."
@@ -449,8 +449,8 @@ Juvenile Elonian raptors rely more on cuteness than leaping ability.<br>Combine 
 "Juvenile Elonian raptors rely more on cuteness than leaping ability.<br>Combine a Red, Blue, and Yellow Raptor with 8 Unidentified Dyes in the Mystic Forge to create a Black Raptor.<br>Combine a Red, Yellow, and Black Raptor with 12 Unidentified Dyes in the Mystic Forge to create a Gold Raptor.","Молодые элонские рапторы полагаются больше на милоту, чем на прыгучесть.<br>Соедините красного, синего и жёлтого рапторов с 8 неопознанными красками в Mystic Forge, чтобы получить чёрного раптора.<br>Соедините красного, жёлтого и чёрного рапторов с 12 неопознанными красками в Mystic Forge, чтобы получить золотого раптора."
 "Juvenile Elonian raptors rely more on cuteness than leaping ability.<br>Combine a Silver, Gold, and White Raptor with 20 Unidentified Dyes in the Mystic Forge to create an Ice Raptor.","Молодые элонские рапторы полагаются больше на милоту, чем на прыгучесть.<br>Соедините серебряного, золотого и белого рапторов с 20 неопознанными красками в Mystic Forge, чтобы получить ледяного раптора."
 "Juvenile Elonian raptors rely more on cuteness than on leaping ability.<br>Combine a Gold, Silver, and Black Raptor with 20 Unidentified Dyes in the Mystic Forge to create a Fire Raptor.","Молодые элонские рапторы полагаются больше на милоту, чем на прыгучесть.<br>Соедините золотого, серебряного и чёрного рапторов с 20 неопознанными красками в Mystic Forge, чтобы получить огненного раптора."
-Juvenile Frog,Juvenile Frog
-Juvenile Mordrem Vile Thrasher,Juvenile Mordrem Vile Thrasher
+Juvenile Frog,Молодая лягушка
+Juvenile Mordrem Vile Thrasher,Молодой мордремский мерзостный молотильщик
 KZ-529,КЗ-529
 Ka-ching!,Дзынь-дзынь!
 Kabam!,Ба-бах!
@@ -460,8 +460,8 @@ Kaineng Lights Mount Select License[s],Лицензи[я|и|й] на выбор 
 Kalak,Калак
 Kaldar's Hot Seat,Горячее место Калдара
 Kalf,Кальф
-Kalla's Fervor causes you to heal for a percentage of your outgoing damage. Citadel Bombardment dazes enemies the first time that it strikes them.,"Страсть Каллы исцеляет вас пропорционально урону, который вы наносите. Обстрел из Цитадели при первом попадании по противникам ошеломляет их."
-"Kalla's Fervor increases your healing to other allies. Orders from Above lasts longer, heals allies, and affects a larger area.","«Пыл Каллы» увеличивает ваше исцеление других союзников. «Orders from Above» длятся дольше, исцеляют союзников и действуют на большей площади."
+Kalla's Fervor causes you to heal for a percentage of your outgoing damage. Citadel Bombardment dazes enemies the first time that it strikes them.,"Kalla's Fervor исцеляет вас пропорционально урону, который вы наносите. Citadel Bombardment при первом попадании по противникам ошеломляет их."
+"Kalla's Fervor increases your healing to other allies. Orders from Above lasts longer, heals allies, and affects a larger area.","Kalla's Fervor увеличивает ваше исцеление других союзников. «Orders from Above» длятся дольше, исцеляют союзников и действуют на большей площади."
 Kanata Redwing,Каната Красное Крыло
 Kappa Mudstomper,Каппа Грязетоп
 Karijn Elsdottyr,Карийн Эльсдоттир
@@ -476,7 +476,7 @@ Kaven Sharpeye,Кавен Зоркий Глаз
 Keee!,Ки-и-и-и!
 Keep Kash and their crew alive during the entire siege on the freebooters.,Не дайте Кэшу и его команде погибнуть за всю осаду вольных пиратов.
 Keep Waypoint,Путевая точка крепости
-Keep an eye to your back; loyalists everywhere. And they're eager to cut down Astral Ward and followers of Peitha alike.,"Береги спину: лоялисты повсюду. И они с одинаковой охотой рубят и Astral Ward, и последователей Пейты."
+Keep an eye to your back; loyalists everywhere. And they're eager to cut down Astral Ward and followers of Peitha alike.,"Береги спину: лоялисты повсюду. И они с одинаковой охотой рубят и Astral Ward, и последователей Peitha."
 Keep going!,Не останавливайся!
 Keep going! We can talk about the grotesque consequences of nigh-lethal radiation later.,Не останавливайся! О жутких последствиях почти смертельной радиации поговорим позже.
 Keep it up,Так держать
@@ -484,14 +484,14 @@ Keep it up! Don't let it get a bead on you!,Так держать! Не дай �
 Keep running!,Беги дальше!
 Keep running! He's getting closer!,Беги! Он всё ближе!
 Keep them all. I don't need them.,Оставь всё себе. Мне это не нужно.
-Keep these vermin away from Zojja!,Не подпускайте эту нечисть к Зойе!
+Keep these vermin away from Zojja!,Не подпускайте эту нечисть к Zojja!
 Keep your distance.,Держи дистанцию.
 Keep your ears perked. I'm sure something exciting will happen.,"Держи ушки на макушке. Уверен, случится что-нибудь интересное."
 Keeper Olda,Хранительница Олда
 Keeps the target from being turned into a moa.,Не даёт превратить цель в моа.
 Keg Brawl Skills Mastered: %num1%,Освоено умений бочковой потасовки: %num1%
 Keii,Кеии
-Kellach was heading to Black Haven.,Келлах направлялся в Black Haven.
+Kellach was heading to Black Haven.,Kellach направлялся в Black Haven.
 Kema has transformed you into a jellyfish to battle Michin. Leaving the arena will strip your transformation.,"Кема превратила вас в медузу для боя с Мичином. Если покинуть арену, превращение спадёт."
 Kennelmaster Tarin,Псарь Тарин
 Kept All 3 Sleds from Being Contaminated,Все 3 саней спасены от заражения

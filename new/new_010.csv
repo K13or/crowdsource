@@ -21,7 +21,7 @@ Defeat 1 Legendary-rank enemy.,Победите 1 врага легендарн�
 Defeat 10 champion-rank enemies.,Победите 10 врагов ранга чемпиона.
 Defeat 25 enemy guards in World vs. World.,Победите 25 вражеских стражей в «World vs. World».
 Defeat 3 Enemy Invaders in World vs. World,Победите 3 вражеских захватчиков в «World vs. World»
-Defeat 3 enemy players in a structured PvP match.,Defeat 3 enemy players in a structured PvP match.
+Defeat 3 enemy players in a structured PvP match.,Победите 3 вражеских игроков в структурированном матче PvP.
 Defeat 4 world bosses.,Победите 4 мировых боссов.
 Defeat 50 veteran-rank enemies.,Победите 50 врагов ранга ветерана.
 Defeat Apprentice Scyllan.,Победите ученика Скиллана.
@@ -44,7 +44,7 @@ Defeat Mazdak the Accursed and his undead army.,Победите Mazdak the Accu
 Defeat Mikkel Toivosson.,Победите Миккеля Тойвоссона.
 Defeat Mordremoth!,Победите Мордремота!
 "Defeat Murakai, Doomlore's Bane without stepping into any of her wells.","Победите Murakai, Doomlore's Bane, не ступая ни в один из её колодцев."
-Defeat Primordus and Jormag %num2% time[s] in the Dragonstorm encounter.,Победите Примордуса и Йормага %num2% раз[|а|] в столкновении «Драконий шторм».
+Defeat Primordus and Jormag %num2% time[s] in the Dragonstorm encounter.,Победите Primordus и Jormag %num2% раз[|а|] в столкновении «Драконий шторм».
 Defeat Rakt at the Arcane Eye's headquarters.,Победите Ракта в штаб-квартире Arcane Eye.
 Defeat Razorwing and her brood.,Победите Бритвокрыл и её выводок.
 Defeat Scarlet's Twisted Marionette,Победите Twisted Marionette Скарлет
@@ -55,7 +55,7 @@ Defeat Trybulus's troops.,Победите войска Трибулуса.
 Defeat Vialgos without being hit by vomit too many times or leaving the platform.,"Победите Виалгоса, не получив слишком много попаданий рвотой и не покидая платформу."
 Defeat Warmaster Lebofski.,Победите военачальника Лебофски.
 Defeat Witzel,Победите Витцеля
-"Defeat Zhaitan's forces, and retake Claw Island.",Победите силы Зайтана и отвоюйте Claw Island.
+"Defeat Zhaitan's forces, and retake Claw Island.",Победите силы Zhaitan и отвоюйте Claw Island.
 Defeat a keep lord at all %num2% bases in the Drizzlewood Coast.,Победите лорда крепости на всех %num2% базах Drizzlewood Coast.
 Defeat a raid boss. (Only available to owners of Guild Wars 2: Heart of Thorns.),Победите рейдового босса. (Доступно только владельцам Guild Wars 2: Heart of Thorns.)
 Defeat a raid boss. (Only available to owners of Path of Fire.),Победите рейдового босса. (Доступно только владельцам Path of Fire.)
@@ -106,7 +106,7 @@ Defeat the marsh drake broodmother Professor Hamm had claimed to have tamed.,"П
 Defeat the nightmare hounds.,Победите кошмарных гончих.
 Defeat the prison guards.,Победите тюремных стражников.
 Defeat the ravenous wanderer %num2% times in the final battle of Gyala Delve.,Победите ненасытного странника %num2% раз в финальной битве Gyala Delve.
-Defeat the tarnished warrior below Tarir.,Победите потускневшего воина под Тариром.
+Defeat the tarnished warrior below Tarir.,Победите потускневшего воина под Tarir.
 Defeat the troll chieftain.,Победите вождя троллей.
 Defeate %num2% Dominion charr in Fort Defiance in the Drizzlewood Coast.,Победите %num2% чарров Доминиона в форте Непокорности на Drizzlewood Coast.
 Defeated %num1% Krait,Побеждено %num1% крайтов
@@ -176,7 +176,7 @@ Defeated %num1%/%num2% Legendary Creatures in Dragonfall,Побеждено %num
 Defeated %num1%/%num2% Lieutenants,Побеждено %num1%/%num2% лейтенантов
 Defeated %num1%/%num2% Manifestations without Being Downed,"Побеждено %num1%/%num2% проявлений, ни разу не будучи поверженным"
 Defeated %num1%/%num2% Mechs,Побеждено %num1%/%num2% мехов
-Defeated %num1%/%num2% Minions of Jormag,Побеждено %num1%/%num2% прислужников Йормага
+Defeated %num1%/%num2% Minions of Jormag,Побеждено %num1%/%num2% прислужников Jormag
 Defeated %num1%/%num2% Mursaat Ghosts,Побеждено %num1%/%num2% призраков мурсаат
 Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Forty,Побеждено %num1%/%num2% [игрока|игрока|игроков] в рейтинговых матчах в сороковом сезоне режима «Захват»
 Defeated %num1%/%num2% Player[s] in Ranked Matches during Conquest Season Forty-One,Побеждено %num1%/%num2% [игрока|игрока|игроков] в рейтинговых матчах в сорок первом сезоне режима «Захват»
@@ -216,14 +216,14 @@ Defeated All Bosses without Losing Any Party Members,Все боссы побе�
 Defeated All Dominion Forces on the Beach,Все силы Доминиона на пляже побеждены
 Defeated All Inquest Enemies,Все враги Inquest побеждены
 Defeated All Inquest in Lab Sigma-05,Весь Inquest в лаборатории Сигма-05 побеждён
-Defeated Ankka while She Had 6 or More Stacks of Power of the Void,Анкка побеждена при 6 и более стаках Силы Пустоты
+Defeated Ankka while She Had 6 or More Stacks of Power of the Void,Ankka побеждена при 6 и более стаках Силы Пустоты
 Defeated Ankka without Falling in Battle,Анкка побеждена без падений в бою
 Defeated Archon Iberu,Архонт Иберу побеждён
 Defeated Asthenes without Being Downed,"Астенес побеждён, ни разу не будучи поверженным"
 Defeated Blighted Diarmid,Поражённый порчей Диармид побеждён
 Defeated Both Dragon Champions,Оба чемпиона драконов побеждены
 "Defeated Captain Fa while Under the Influence of the ""Special"" Dish",Captain Fa побеждён под действием «особого» блюда
-Defeated Cerus and Deimos within 5 Seconds of Each Other,Керус и Деймос побеждены с разницей менее 5 секунд
+Defeated Cerus and Deimos within 5 Seconds of Each Other,Керус и Deimos побеждены с разницей менее 5 секунд
 Defeated Decima,Децима побеждена
 Defeated Decima While the Challenge Mote Was Active,Децима побеждена при активном знаке испытания
 Defeated Decima while Fulfilling Challenge Criteria,Децима побеждена с соблюдением условий испытания
@@ -231,7 +231,7 @@ Defeated Dhuum %num1%/%num2% Times,Дуум побеждён %num1%/%num2% ра�
 Defeated Drakkar %num1%/%num2% Times,Драккар побеждён %num1%/%num2% раз
 Defeated Drakkar without Being Hit More Than 20 Times by Its Abilities,"Драккар побеждён, получив не более 20 попаданий его способностями"
 Defeated Ensolyss within the Time Limit,Энсолисс побеждён в отведённое время
-Defeated Eparch during the Into the Spider's Lair Meta-Event,Эпарх побеждён во время мета-события «В паучье логово»
+Defeated Eparch during the Into the Spider's Lair Meta-Event,Eparch побеждён во время мета-события «В паучье логово»
 Defeated Eparch within the Time Limit,Эпарх побеждён в отведённое время
 Defeated Eparch without Reaching 20 Stacks of Emotional Attunement,"Эпарх побеждён, не достигнув 20 стаков Эмоциональной настройки"
 Defeated Eparch without Taking Damage from Rage Fissures,Эпарх побеждён без урона от Трещин ярости
@@ -273,7 +273,7 @@ Defeated Nourys and Collected %num1%/%num2% Skins,"Нурис побеждён, 
 Defeated Palawadan's Gate Guardians without Either Awakening the Other,"Стражи врат Палавадана побеждены так, что ни один не разбудил другого"
 Defeated Pherus and Collected %num1%/%num2% Skins,"Ферус побеждён, собрано %num1%/%num2% обликов"
 Defeated Potoni the Massive,Потони Громадный побеждён
-Defeated Primordus and Jormag %num1%/%num2% Time[s],Примордус и Йормаг побеждены %num1%/%num2% [раз|раза|раз]
+Defeated Primordus and Jormag %num1%/%num2% Time[s],Primordus и Jormag побеждены %num1%/%num2% [раз|раза|раз]
 Defeated Queen Labris Without Getting Hit by Unquenchable Rage,Queen Labris побеждена без попаданий Неутолимой яростью
 Defeated Rift Hunt Targets in %num1%/%num2% Maps,Цели охоты на разломы побеждены на %num1%/%num2% картах
 Defeated Scarlet on the Breachmaker,Скарлет побеждена на Проломщике
@@ -394,7 +394,7 @@ Defend Agrak Kraal from Uldek's Branded horde.,Защитите Agrak Kraal от
 Defend Altar Brook Crossing.,Защитите Переправу Алтарного Ручья.
 Defend Astorea from the Nightmare Court's assault.,Защитите Асторею от натиска Nightmare Court.
 Defend Blue Ice Station from the dredge.,Защитите станцию Blue Ice от дреджей.
-Defend Demmi from Commander Landon and the Ministry Guards that are pursuing her.,Защитите Демми от командира Лэндона и преследующей её Министерской стражи.
+Defend Demmi from Commander Landon and the Ministry Guards that are pursuing her.,Защитите Demmi от командира Лэндона и преследующей её Министерской стражи.
 Defend Durmand Priory from Zhaitan's army.,Защитите Durmand Priory от армии Зайтана.
 Defend Falias Thorp against the Nightmare Court.,Защитите Falias Thorp от Nightmare Court.
 Defend Fort Trinity.,Защитите Fort Trinity.
@@ -404,7 +404,7 @@ Defend Scholar's Cleft from the dredge attack.,Защитите Расщелин
 Defend Smokestead from ghosts.,Защитите Смоукстед от призраков.
 Defend Stonemist Castle %num2% times.,Защитите Замок Каменной Дымки %num2% раз.
 Defend Vigil Keep from Zhaitan's army.,Защитите Vigil Keep от армии Зайтана.
-Defend the Chantry from Zhaitan's army.,Защитите Часовню от армии Зайтана.
+Defend the Chantry from Zhaitan's army.,Защитите Часовню от армии Zhaitan.
 Defend the Free City of Amnoon against the Branded invasion.,Защитите вольный город Амнун от вторжения клеймёных.
 Defend the Keep.,Защитите крепость.
 Defend the Skritt Territory,Защитите территорию скриттов
@@ -442,9 +442,9 @@ Deft Paw,Ловкая Лапа
 Defuse %num2% Dominion mines in the Northern Drizzlewood Coast.,Обезвредьте %num2% мин Доминиона на севере Drizzlewood Coast.
 Defused %num1%/%num2% Dominion Mines,Обезврежено %num1%/%num2% мин Доминиона
 Defused %num1%/%num2% Minefields,Обезврежено %num1%/%num2% минных полей
-Delilah,Delilah
+Delilah,Делайла
 Deliver %num1%/%num2% unit[s] of ley-line energy while piloting a siege turtle.,"Доставьте %num1%/%num2% [единицу|единицы|единиц] энергии лей-линий, управляя осадной черепахой."
-Deliver %num2% Kryptis essences to Zojja.,Доставьте %num2% эссенций криптисов Зойе.
+Deliver %num2% Kryptis essences to Zojja.,Доставьте %num2% эссенций криптисов Zojja.
 Deliver %num2% calibrated essence in Mount Balrior Convergences.,Доставьте %num2% калиброванной эссенции в Схождениях на Mount Balrior.
 Deliver %num2% damage in a single blow.,Нанесите %num2% урона одним ударом.
 Deliver %num2% killing blows with a axe.,Нанесите %num2% смертельных ударов топором.
@@ -496,6 +496,6 @@ Deployed repair golems are attempting to repair the Brand Stomper.,Развёр�
 Deploying projectiles!,Выпускаю снаряды!
 Deposited %num1%/%num2% Item[s],Сдано %num1%/%num2% [предмет|предмета|предметов]
 Deposited Materials %num1%/%num2% Time[s],Материалы сданы %num1%/%num2% [раз|раза|раз]
-Deputy Crackshot,Deputy Crackshot
-Deputy Glaegi,Deputy Glaegi
-Deputy Stroffnir,Deputy Stroffnir
+Deputy Crackshot,Помощник шерифа Меткач
+Deputy Glaegi,Помощник шерифа Глейги
+Deputy Stroffnir,Помощник шерифа Строффнир

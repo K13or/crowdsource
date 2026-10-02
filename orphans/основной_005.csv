@@ -1,5 +1,5 @@
 english,translate
-"%str1%%str2%Leichte ""Wahrer Blick""-Handschuhe%str3%%str4%","%str1%%str2%Лёгкие перчатки «Истинного взгляда»%str3%%str4%"
+"%str1%%str2%Leichte ""Wahrer Blick""-Handschuhe%str3%%str4%",%str1%%str2%Лёгкие перчатки «Истинного взгляда»%str3%%str4%
 "%str1%%str2%Schwere ""Wahrer Blick""-Maske%str3%%str4%","%str1%%str2%Schwere ""Wahrer Blick""-Maske%str3%%str4%"
 "%str1%%str2%Schweres ""Wahrer Blick""-Wams%str3%%str4%","%str1%%str2%Schweres ""Wahrer Blick""-Wams%str3%%str4%"
 "(Festival) Schließt den Erfolg ""Bündel-Plünderer (jährlich)"" ab",(Фестиваль) Завершите достижение «Связка-грабитель (ежегодно)»
@@ -456,7 +456,7 @@ Thanks to you for helping my brothers and sisters. Your efforts will allow our v
 <c=@reminder>World bosses are challenging events that appear at specific times of day across Tyria. Defeat them to receive chests containing rare equipment and crafting materials. </c>","Победите %num2% мировых боссов в Квинсдейле, Уайфарер-Футхиллз, Метрической провинции или Caledon Forest.
 
 <c=@reminder>Мировые боссы — это сложные события, которые происходят в определенное время суток по всей Тирии. Победите их, чтобы получить сундуки с редким снаряжением и материалами для крафта. </c>"
-Deliah,Deliah
+Deliah,Делия
 "Deliver to the Castaway Vice Chief.,
 Task Item","Доставить вице-главарю изгоев.,
 Предмет задания"
@@ -3520,7 +3520,7 @@ Rewards Volatile Magic on each swing in addition to mining results.","Испол
 "Using this will unlock all weight classes of this skin.
 An upgraded version of this can be crafted using recipes purchased throughout the Crystal Desert.","Использование откроет все классы веса этого облика.
 Улучшенную версию можно создать с помощью рецептов, купленных в Crystal Desert."
-Valharantha,Valharantha
+Valharantha,Валаранта
 Verborgenes Sacrarium,Verborgenes Sacrarium
 Verdades desveladas,Раскрытые истины
 Verirrte Himmelsschuppe,Заблудшая небесная чешуйка

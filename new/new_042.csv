@@ -26,11 +26,11 @@ Betts Torpe<br>1052-1130 AE<br>Beloved wife and mother<br>She brought joy to so 
 "Between you and me, it's a mess out here. Our own Centurion Truthbringer is stuck in the canyons, trying and failing to root out the Flame Legion in there. Those smokelickers are making fools of us at every turn. Lately, they've been breaking our containment perimeters and sneaking into the ruins of Old Piken Square. Rumor has it those fools think they can summon ghosts and use them to flank our northern defenses. As I said, it's a mess.","Между нами, тут полный бардак. Наш собственный Centurion Truthbringer застрял в каньонах, безуспешно пытаясь выкурить оттуда Flame Legion. Эти дымолизы на каждом шагу выставляют нас дураками. В последнее время они пробивают наши заградительные рубежи и пробираются в руины Старой Площади Пайкен. Ходит слух, будто эти глупцы думают, что смогут призвать призраков и обойти ими нашу северную оборону. Как я и сказал — бардак."
 Bewilderflower,Цветок-смутитель
 "Beyond that, looks like they've a camp farther north. Didn't get too close—big tower up there, kind of an eyesore.","Кроме того, похоже, у них есть лагерь севернее. Близко не подходил — там большая башня, довольно уродливая."
-Bezix the Brainstormer,Bezix the Brainstormer
-Bhia,Bhia
+Bezix the Brainstormer,Безикс Мозгоштурмовик
+Bhia,Бхиа
 Bidding begins in %str1%,Торги начнутся через %str1%
 Bidding restarts in %str1%,Торги возобновятся через %str1%
-Big Nose Ted,Big Nose Ted
+Big Nose Ted,Тед Большой Нос
 Big Ole Bomb,Большущая бомба
 Big Rock,Большой камень
 Big Stack of Crates,Большая груда ящиков
@@ -83,14 +83,14 @@ Black Moa[s],[Чёрный моа|Чёрных моа|Чёрных моа]
 Black Summoning Stone[s],[Чёрный камень призыва|Чёрных камня призыва|Чёрных камней призыва]
 Black Widow,Чёрная вдова
 Blacksmith Sleekblade,Кузнец Гладкий Клинок
-Blacksmith Vanhe,Blacksmith Vanhe
+Blacksmith Vanhe,Кузнец Ванхе
 Blackvein Poison,Яд Чёрной Жилы
 Blaclan Firetooth,Блаклан Огнезуб
 Blade Throw,Бросок клинка
 Blade of the earth!,Клинок земли!
-Blademaster Diarmid,Blademaster Diarmid
-Blaize,Blaize
-Blanche,Blanche
+Blademaster Diarmid,Мастер клинка Диармид
+Blaize,Блейз
+Blanche,Бланш
 Blast Detonation,Детонация взрыва
 Blast Punch,Взрывной удар
 Blast Wall Rune,Руна взрывной стены
@@ -128,7 +128,7 @@ Bleeds • Shields,Кровотечение • Щиты
 Blend In,Слиться с толпой
 "Bless you, merchant. You are truly doing the gods' work.","Благослови тебя, торговец. Ты и правда вершишь дело богов."
 Blessed Mother!,Пресвятая Матерь!
-"Blessed by the almighty Joko, you leap higher, take reduced fall damage, move quicker, break stuns, and evade attacks.","Благословлённый всемогущим Джоко, вы прыгаете выше, получаете меньше урона от падения, движетесь быстрее, снимаете Оглушение и уклоняетесь от атак."
+"Blessed by the almighty Joko, you leap higher, take reduced fall damage, move quicker, break stuns, and evade attacks.","Благословлённый всемогущим Joko, вы прыгаете выше, получаете меньше урона от падения, движетесь быстрее, снимаете Оглушение и уклоняетесь от атак."
 Blessed silence.,Благословенная тишина.
 Blessed silence....,Благословенная тишина...
 Blessings of Jormag,Благословения Йормага
@@ -138,17 +138,17 @@ Blight Mender Troll,Тролль — целитель порчи
 Blight Resistant,Устойчив к порче
 Blight tender will recover in: %str1%,Смотритель порчи восстановится через: %str1%
 Blight the World,Погубить мир
-Blighted Beast,Blighted Beast
-Blighted Grub,Blighted Grub
+Blighted Beast,Порченый зверь
+Blighted Grub,Порченая личинка
 Blighted Heart of Wychmire,Порченое сердце Ведьмовской Топи
-Blighted Husk,Blighted Husk
-Blighted Maguuma Spring,Blighted Maguuma Spring
-Blighted Sapling,Blighted Sapling
-Blighted Sapling Feeder,Blighted Sapling Feeder
-Blighted Strike,Blighted Strike
+Blighted Husk,Порченая оболочка
+Blighted Maguuma Spring,Порченый источник Магуумы
+Blighted Sapling,Порченый саженец
+Blighted Sapling Feeder,Кормилец порченых саженцев
+Blighted Strike,Порченый удар
 Blighted saplings tended: %str1%,Порченых саженцев обихожено: %str1%
 Blightghast,Гнилодых
-Blightghast the Plaguebringer,Blightghast the Plaguebringer
+Blightghast the Plaguebringer,Гнилодых Чумоносец
 Blighting Pod,Порождающий стручок
 Blighting Stab,Порочащий укол
 Blimey.,Ух ты ж.
@@ -177,21 +177,21 @@ Blocks • Immobilizes,Блокирует • Накладывает Непод�
 Blocks • Pulls,Блокирует • Притягивает
 Blocks • Reflects Projectiles • Lava Font,Блокирует • Отражает снаряды • Лавовый источник
 Blocks • Reflects Projectiles • Lava Font • Fire Trail,Блокирует • Отражает снаряды • Лавовый источник • Огненный след
-Blood Fueled,Blood Fueled
-Blood Legion Brawler,Blood Legion Brawler
-Blood Legion Centurion,Blood Legion Centurion
-Blood Legion Door,Blood Legion Door
-Blood Legion Imperator,Blood Legion Imperator
-Blood Legion Impostor,Blood Legion Impostor
-Blood Legion Marksman,Blood Legion Marksman
-Blood Legion Prototype Cannon,Blood Legion Prototype Cannon
-Blood Legion Warrior,Blood Legion Warrior
-Blood Ooze,Blood Ooze
-Blood Shield,Blood Shield
+Blood Fueled,Подпитан кровью
+Blood Legion Brawler,Драчун Кровавого легиона
+Blood Legion Centurion,Центурион Кровавого легиона
+Blood Legion Door,Дверь Кровавого легиона
+Blood Legion Imperator,Император Кровавого легиона
+Blood Legion Impostor,Самозванец Кровавого легиона
+Blood Legion Marksman,Стрелок Кровавого легиона
+Blood Legion Prototype Cannon,Опытная пушка Кровавого легиона
+Blood Legion Warrior,Воин Кровавого легиона
+Blood Ooze,Кровавая слизь
+Blood Shield,Кровавый щит
 Blood of Jormag Reclamation Pump,Насос сбора Крови Йормага
 Blood of the earth!,Кровь земли!
 Blood-Soaked,Залитый кровью
-Bloodstone Bisque,Bloodstone Bisque
+Bloodstone Bisque,Биск из кровавого камня
 Bloodstone Blessed,Благословлён кровавым камнем
 Bloodstone Elementals,Элементали кровавого камня
 Bloodstone Fragments,Осколки кровавого камня
@@ -201,7 +201,7 @@ Bloodstone Protection,Защита кровавого камня
 Bloodstone energy drained in: %str1%,Энергия кровавого камня иссякнет через: %str1%
 Bloodthirsty Pirate Captain,Кровожадный капитан пиратов
 Bloodtide Coast Dragon Response Mission.,Миссия отклика драконов: Bloodtide Coast.
-Bloody Buccaneer,Bloody Buccaneer
+Bloody Buccaneer,Кровавый флибустьер
 Bloody Buccaneer Cannoneer,Канонир Кровавых флибустьеров
 Bloody Buccaneer Captain,Капитан Кровавых флибустьеров
 Bloody Buccaneer First Mate,Старпом Кровавых флибустьеров
@@ -214,7 +214,7 @@ Bloody thorns!,Кровавые шипы!
 Bloomhunger,Цветоглод
 "Blooms the spiderwort, tempting ire...","Расцветает паучник, разжигая гнев..."
 Bloopdep,Блупдеп
-Blossoming Spring,Blossoming Spring
+Blossoming Spring,Цветущая весна
 Blow 'em down!,Валите их!
 Blow them to pieces!,Разнесите их в клочья!
 Blubla,Блубла
@@ -291,7 +291,7 @@ Bonus Reward!,Бонусная награда!
 Bonus favor if defeated within first five minutes.,"Дополнительная милость, если победить за первые пять минут."
 Bonus favor if five or more players /point at the dust mite twister. %num1%/5,"Дополнительная милость, если пять или более игроков используют /point на пылевом смерче. %num1%/5"
 Bonus favor if the Inquest fail to collect any crystal shards.,"Дополнительная милость, если Inquest не соберёт ни одного осколка кристалла."
-Bonus progress if Svanir champion is slain:,"Дополнительный прогресс, если сражён чемпион Сванира:"
+Bonus progress if Svanir champion is slain:,"Дополнительный прогресс, если сражён чемпион Svanir:"
 Bonus: Defeat the three heads of the great jungle wurm.,Бонус: победите три головы большого джунглевого вурма.
 Bonus: Fast Completion,Бонус: быстрое прохождение
 Bonus: Ley-Infused Bosses: %num1%,"Бонус: боссы, напитанные лей-энергией: %num1%"

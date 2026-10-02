@@ -6,13 +6,13 @@ Searing Effigy's Health,Здоровье пылающего идола
 Searing Pyre,Испепеляющий костёр
 Searing heat and fumes rise up from below.,Обжигающий жар и едкий дым поднимаются снизу.
 Seasoning meat in: %str1%,Маринуем мясо в: %str1%
-Sebb's forces control the courtyard.,Войска Себба контролируют внутренний двор.
+Sebb's forces control the courtyard.,Войска Sebb контролируют внутренний двор.
 Second Floor Cleared,Второй этаж пройден.
-Second Impact,Second Impact
-Second Pressure Plate,Second Pressure Plate
-Second Spear Binah,Second Spear Binah
-Second Spear Koja,Second Spear Koja
-Second Spear Nimani,Second Spear Nimani
+Second Impact,Второе столкновение
+Second Pressure Plate,Вторая плита-нажимка
+Second Spear Binah,Второе копьё Бина
+Second Spear Koja,Второе копьё Коджа
+Second Spear Nimani,Второе копьё Нимани
 Second Spears Nimani and Koja are finishing collecting bait to attract the Branded Hydra.,"Вторая группа, Нимани и Коджа, заканчивают собирать приманку для привлечения Бренного Гидры."
 Second Spears Nimani and Koja are finishing with collecting supplies before setting a trap for the Branded Hydra.,"Второй отряд копейщиков Нимани и Коджа заканчивает собирать припасы, прежде чем установить ловушку для Бренного Гидры."
 Second Spears Nimani and Koja are meeting near the Branded cavern.,Второе копьё: Нимани и Коджа встречаются недалеко от пещеры Брендедов.
@@ -86,7 +86,7 @@ Seeking Boulder,Ищу булыжник.
 Seeking death?,Ищете смерти?
 Seeking wisdom? Seek no further.,Ищете мудрость? Дальше не ищите.
 Seelenlos,Бесчувственный
-Seems like Isgarren was pretty single-minded.,"Похоже, Исгаррен был довольно целеустремлённым человеком."
+Seems like Isgarren was pretty single-minded.,"Похоже, Isgarren был довольно целеустремлённым человеком."
 "Seems like that would be unnecessary, given the Pact presence around here.","Похоже, это излишне, учитывая присутствие здесь сил Пакт."
 Seems reasonable—I'll submit my bid now.,Звучит разумно — я сейчас отправлю свою заявку.
 Seen any skritt?,Видел каких-нибудь скритт?
@@ -127,7 +127,7 @@ Self-diagnostic.,Самодиагностика.
 Sella,Селла
 Selling anything?,Продаёте что-нибудь?
 Sells blueprints,Продаёт чертежи
-Selsda Bearfriend,Selsda Bearfriend
+Selsda Bearfriend,Сельсда Медвежий Друг
 Selsda has gone to hunt minotaurs to feed us. You should lend a hand if you can.,"Сельсда отправилась охотиться на минотавров, чтобы прокормить нас. Если сможешь, помоги ей."
 Seltene Ornate,Редкий орнамент
 Semi-Sturdy Supply Crate,Полупрочный ящик с припасами
@@ -153,30 +153,30 @@ Sensor Tracking,Отслеживание сенсоров
 Sensory Pulse,Сенсорный импульс
 Sentencia firme,Окончательный приговор.
 Sentient Seed[s],Разумное семя
-Sentinel Boldswing,Sentinel Boldswing
+Sentinel Boldswing,Смелый Страж
 Sentinel Cannon[s],стражевая пушк[а|и|и]
-Sentinel Cheatfate,Sentinel Cheatfate
-Sentinel Cruelheart,Sentinel Cruelheart
-Sentinel Crueltongue,Sentinel Crueltongue
-Sentinel Darktongue,Sentinel Darktongue
+Sentinel Cheatfate,Сентинел Читфейт
+Sentinel Cruelheart,Сентинел Крюэлхарт
+Sentinel Crueltongue,Страж Крутоязык
+Sentinel Darktongue,Страж Дарктонг
 Sentinel Darktongue Departs in: %str1%,Сентенел Дарктангуэ покинет локацию через: %str1%
-Sentinel Doomsheath,Sentinel Doomsheath
-Sentinel Engineer,Sentinel Engineer
-Sentinel Faithcrusher,Sentinel Faithcrusher
-Sentinel Faithshredder,Sentinel Faithshredder
-Sentinel Freebuilder,Sentinel Freebuilder
-Sentinel Grindgear,Sentinel Grindgear
-Sentinel Jaede Faithstriker,Sentinel Jaede Faithstriker
-Sentinel Lasthope,Sentinel Lasthope
-Sentinel Legionnaire Armorstrike,Sentinel Legionnaire Armorstrike
-Sentinel Machinist Darkmuzzle,Sentinel Machinist Darkmuzzle
-Sentinel Miner,Sentinel Miner
-Sentinel Miners,Sentinel Miners
-Sentinel Retribution,Sentinel Retribution
-Sentinel Scout,Sentinel Scout
-Sentinel Speargun,Sentinel Speargun
-Sentinel Tremorfist,Sentinel Tremorfist
-Sentinel Verbane,Sentinel Verbane
+Sentinel Doomsheath,Страж-доспех
+Sentinel Engineer,Инженер-страж
+Sentinel Faithcrusher,Страж Фейткрашер
+Sentinel Faithshredder,Сентинел Фейтшреддер
+Sentinel Freebuilder,Свободный строитель-страж
+Sentinel Grindgear,Страж-шлифовик
+Sentinel Jaede Faithstriker,Страж Жаед Фейтстрайкер
+Sentinel Lasthope,Страж Ластхоуп
+Sentinel Legionnaire Armorstrike,Броня «Удар легиона стражей»
+Sentinel Machinist Darkmuzzle,Страж-механик Даркмазл
+Sentinel Miner,Страж-шахтёр
+Sentinel Miners,Стражи-шахтёры
+Sentinel Retribution,Возмездие Стража
+Sentinel Scout,Разведчик-страж
+Sentinel Speargun,Копьё-гарпун Стража
+Sentinel Tremorfist,Сентинел Треморфист
+Sentinel Verbane,Страж Вербан
 Sentinel Weapons,Оружие стража
 Sentinel Whiptail is searching for a powerful ally in Lamprey Grottoes.,Сентинент-хлыстохвост ищет могущественного союзника в Гротах Лампрей.
 Sentinel reporting.,Страж докладывает.
@@ -190,52 +190,52 @@ Sentry Never-Blinking Eyes,Страж с неусыпным взглядом
 Sentry-skritt Arkatopf,Страж-скритт Аркатопф
 Sentry-skritt Laktanek,Страж-скритт Лактанек
 Seogjin,Сокджин
-Separatist Axe,Separatist Axe
-Separatist Enforcer,Separatist Enforcer
-Separatist Jailer,Separatist Jailer
-Separatist Jailers,Separatist Jailers
-Separatist Plans,Separatist Plans
-Separatist Raid Lieutenant,Separatist Raid Lieutenant
-Separatist Sergeant,Separatist Sergeant
-Separatist Spike Trap,Separatist Spike Trap
-Separatist Spy,Separatist Spy
-Separatist Stalkers,Separatist Stalkers
+Separatist Axe,Сепаратистский топор
+Separatist Enforcer,Сепаратистский надзиратель
+Separatist Jailer,Сепаратистский надзиратель
+Separatist Jailers,Сепаратистские надзиратели
+Separatist Plans,Планы сепаратистов
+Separatist Raid Lieutenant,Лейтенант сепаратистского отряда
+Separatist Sergeant,Сепаратистский Сержант
+Separatist Spike Trap,Сепаратистский Шипованный Капкан
+Separatist Spy,Сепаратистский шпион
+Separatist Stalkers,Засадники сепаратистов
 Separatist Supplies,Припасы сепаратистов
-Separatist Supply Cache,Separatist Supply Cache
+Separatist Supply Cache,Спрятанный тайник сепаратистов
 Separatist Training Dummy,Учебная мишень сепаратистов
-Separatist Trident,Separatist Trident
-Separatist Warhorn,Separatist Warhorn
-Separatist Weapon Cache,Separatist Weapon Cache
-Separatist Weapon Rack,Separatist Weapon Rack
+Separatist Trident,Сепаратистский трезубец
+Separatist Warhorn,Сепаратистский боевой рог
+Separatist Weapon Cache,Спрятанный арсенал сепаратистов
+Separatist Weapon Rack,Оружейная сепаратистов
 Separatist attacker,Нападающий сепаратист
 Separatist morale: %num1%%%,Боевой дух сепаратистов: %num1%%%
 Separatist scum trying to sabotage the charr-human treaty. Uzolan must be working with them.,"Сепаратистская сволочь пытается сорвать мирный договор между чаррами и людьми. Узолан, должно быть, с ними сговорился."
 Seperatist Ambushers,Засадники сепаратистов
 Sera Singeaxe,Сера Сингеакс
 Serai,Серай
-Seraph Archer Pepper,Seraph Archer Pepper
-Seraph Barricade,Seraph Barricade
-Seraph Belinda Delaqua,Seraph Belinda Delaqua
-Seraph Captain Renata,Seraph Captain Renata
-Seraph Commander Joy,Seraph Commander Joy
-Seraph Honor Guard,Seraph Honor Guard
+Seraph Archer Pepper,Лучник Серафимов Пеппер
+Seraph Barricade,Серафимская баррикада
+Seraph Belinda Delaqua,Серафим Белинда Делаква
+Seraph Captain Renata,Капитан Серафимов Рената
+Seraph Commander Joy,Командир Серафимов Джой
+Seraph Honor Guard,Серафимский почётный караул
 Seraph LWS3E4 Bow,Лук Серафима LWS3E4
 Seraph LWS3E4 Shield,Щит Серафима
 Seraph LWS3E4 Warhorn,Серафимский боевой рог
-Seraph Outpost,Seraph Outpost
-Seraph Repair Worker,Seraph Repair Worker
-Seraph Sentry,Seraph Sentry
-Seraph Soldier Harke,Seraph Soldier Harke
-Seraph Soldier Lowen,Seraph Soldier Lowen
-Seraph Soldier Maddeson,Seraph Soldier Maddeson
-Seraph Soldier Michella,Seraph Soldier Michella
-Seraph Soldier Reina,Seraph Soldier Reina
-Seraph Soldier Traitor,Seraph Soldier Traitor
+Seraph Outpost,Аванпост Серафимов
+Seraph Repair Worker,Рабочий по ремонту механизмов Серафим
+Seraph Sentry,Страж Серафим
+Seraph Soldier Harke,Солдат-серафим Харке
+Seraph Soldier Lowen,Серафимский солдат Лоуэн
+Seraph Soldier Maddeson,Серафимский солдат Мэддисон
+Seraph Soldier Michella,Серафимский солдат Мишель
+Seraph Soldier Reina,Солдат-серафим Рейна
+Seraph Soldier Traitor,Предатель из рядов солдат Серафимов
 Seraph Soldier: The centaurs have erected catapults. Secure the gates!,Seraph Soldier гвардии: Кентавры установили катапульты. Укрепите ворота!
-Seraph Supply Pile,Seraph Supply Pile
-Seraph Trebuchet,Seraph Trebuchet
-Seraph Watchman Glovill,Seraph Watchman Glovill
-Seraph Watchman McKinney,Seraph Watchman McKinney
+Seraph Supply Pile,Запас серафимов
+Seraph Trebuchet,Серафимская требушет
+Seraph Watchman Glovill,Страж Серафимов Гловилл
+Seraph Watchman McKinney,Страж Серафимов Мак-Кинни
 Seraph catapults%str1%,Серафимские катапульты%str1%
 Seraph squads remaining: %num1%,Осталось отрядов Серафимов: %num1%
 Seraphen-Soldatin,Серафенский солдат
@@ -245,16 +245,16 @@ Serene Mote,Безмятежный мотив
 Serene must be revived in: %str1%,Серену нужно воскресить в: %str1%
 Serenity Temple,Храм Безмятежности
 Seres queridos perdidos,Дорогие ушедшие
-Sergeant Atirrah,Sergeant Atirrah
-Sergeant Balarr,Sergeant Balarr
-Sergeant Bigsby,Sergeant Bigsby
-Sergeant Eilye Jeyne,Sergeant Eilye Jeyne
-Sergeant Garlog,Sergeant Garlog
-Sergeant Kopp,Sergeant Kopp
-Sergeant Meppsi,Sergeant Meppsi
-Sergeant Minak,Sergeant Minak
-Sergeant Silver,Sergeant Silver
-Sergeant Talbert,Sergeant Talbert
+Sergeant Atirrah,Сержант Атиррах
+Sergeant Balarr,Сержант Баларр
+Sergeant Bigsby,Сержант Бигсби
+Sergeant Eilye Jeyne,Сержант Эйли Джейн
+Sergeant Garlog,Сержант Гарлог
+Sergeant Kopp,Сержант Копп
+Sergeant Meppsi,Сержант Меппси
+Sergeant Minak,Сержант Минак
+Sergeant Silver,Сержант Сильвер
+Sergeant Talbert,Сержант Талберт
 Seric retreats in: %str1%,Серик отступает в: %str1%
 "Seriously, guys. We can still work this out.","Ребята, давайте серьёзно. Мы ещё можем все уладить."
 Seriously? You chose me to tap?,"Серьёзно? Ты решил, что я подходящий кандидат?"
@@ -313,15 +313,15 @@ Shaashagugg,Шаашагугг
 Shackled,Окованный
 Shackled Prisoner,Окованный пленник
 Shackles of the All Seer,Оковы Всевидящего
-Shade Clashseeker,Shade Clashseeker
+Shade Clashseeker,Искатель теней
 Shades Remaining,Оставшиеся тени
 Shadi's Shopping List[s],Список покупок Шади
 Shadi's gloves,Перчатки Шади
 Shadi's helm,Шлем Шади
 Shadi's sword,Меч Шади
-Shadow Beast,Shadow Beast
+Shadow Beast,Теневой зверь
 Shadow Cannon,Теневая пушка
-Shadow Elemental,Shadow Elemental
+Shadow Elemental,Элементаль тени
 Shadow Form,Теневая форма
 Shadow Skelk,Теневой Скелк
 Shadow Steps • Applies Torment,Теневой шаг • Накладывает мучение.
@@ -356,13 +356,13 @@ Shaley,Шейли
 Shall we nudge them back onto the path?,"Может, вернём их на правильный путь?"
 Shalla Raveneye,Шалла Вороний Глаз
 Shalo,Шало
-Shaman Acopa,Shaman Acopa
-Shaman Culi,Shaman Culi
-Shaman Kroot,Shaman Kroot
-Shaman Lorna,Shaman Lorna
-Shaman Lornarr Dragonseeker,Shaman Lornarr Dragonseeker
-Shaman Okamuk,Shaman Okamuk
-Shaman Palak,Shaman Palak
+Shaman Acopa,Шаман Акопа
+Shaman Culi,Шаман Кули
+Shaman Kroot,Шаман Круутов
+Shaman Lorna,Шаман Лорна
+Shaman Lornarr Dragonseeker,"Шаман Лорнарр, Искатель Драконов"
+Shaman Okamuk,Шаман Окамук
+Shaman Palak,Шаман Палак
 Shambling Rampage,Неудержимая ярость
 Shambling Slam,Сокрушающий удар
 Shanas Ehrgeiz,Шана и её амбиции
@@ -371,7 +371,7 @@ Shar,Осколки
 Shard,Осколок
 Shard Explosion,Взрыв осколков
 Shard Slam,Удар осколками
-Shard Storm,Shard Storm
+Shard Storm,Шторм Осколков
 Shared-Damage Attack,Атака с распределением урона
 Shark Bait,Приманка для акул
 Sharky,Шарки
@@ -393,6 +393,6 @@ Shatterer Vulnerability,Уязвимость к Разрушителю
 Shattering Roar,Сокрушающий Рёв
 Shatters Crystals,Осколки кристаллов
 Shaula,Шаула
-Shayd Dusknight,Shayd Dusknight
+Shayd Dusknight,Шейд Даскнайт
 She can rest now. Her trials on this world are over.,Теперь она может отдохнуть. Её испытания в этом мире окончены.
 She could be in trouble. We need to find her!,У неё могут быть проблемы. Нам нужно её найти!

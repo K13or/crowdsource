@@ -23,7 +23,7 @@ Consumed after gathering. Applies +100%% chance of extra gathering strikes when 
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>""Djinn, like most subasuran species, crudely approximate feelings like our own. Use this.""</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>«Джинны, как и большинство субасурских видов, грубо подражают чувствам вроде наших. Используй это».</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>""My darling Nakis, my tender Nakis, my clever Nakis...you're right. Let's go. We'll flee tomorrow.""</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>«Мой милый Накис, мой нежный Накис, мой умный Накис... ты прав. Идём. Завтра мы сбежим».</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>A massive karka shell, and an impressive trophy. Tastes great with butter.</c>",Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Огромный панцирь карка и внушительный трофей. Отлично идёт со сливочным маслом.</c>
-"Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>A small vase, reminiscent of work from Vabbi.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Небольшая ваза, напоминающая работы из Вабби.</c>"
+"Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>A small vase, reminiscent of work from Vabbi.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Небольшая ваза, напоминающая работы из Vabbi.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>Nakis's simple prayer beads, stolen from him by the Inquest.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Простые молитвенные чётки Накиса, украденные у него Inquest.</c>"
 Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>Probably best handled from long distance and behind aegis.</c>,"Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>С этим, пожалуй, лучше управляться с большого расстояния и из-за эгиды.</c>"
 "Consumed automatically when acquired. Grants a small amount of volatile magic.<br><c=@flavor>Small rocks, blasted by magical fire and force. Probably worthless.</c>","Расходуется автоматически при получении. Даёт небольшое количество летучей магии.<br><c=@flavor>Мелкие камни, опалённые магическим огнём и силой. Вероятно, ничего не стоят.</c>"
@@ -91,14 +91,14 @@ Coral Orrian Scepter,Коралловый оррианский скипетр
 Coral Orrian Staff,Коралловый оррианский посох
 Coral Orrian Warhorn,Коралловый оррианский боевой рог
 "Cordyceps[pl:""Cordyceps""]",Кордицепс
-Corentin,Corentin
-Corporal Balkin,Corporal Balkin
-Corporal Davis,Corporal Davis
-Corporal Halli,Corporal Halli
-Corporal Jenson,Corporal Jenson
-Corporal Lebeau,Corporal Lebeau
-Corporal Sable,Corporal Sable
-Corporal Shiko,Corporal Shiko
+Corentin,Корентин
+Corporal Balkin,Капрал Балкин
+Corporal Davis,Капрал Дэвис
+Corporal Halli,Капрал Халли
+Corporal Jenson,Капрал Дженсон
+Corporal Lebeau,Капрал Лебо
+Corporal Sable,Капрал Сейбл
+Corporal Shiko,Капрал Шико
 Corpse Caller,Призыватель трупов
 Correct Song,Верная песня
 Correct quantity. Crystal tuning completed.,Верное количество. Настройка кристалла завершена.
@@ -126,7 +126,7 @@ Corrupts Boons • Resolute,Оскверняет благодати • Непр
 Corsair Raider,Корсар-налётчик
 Corsair Sharpshooter,Корсар-стрелок
 Corsair Swashbuckler,Корсар-головорез
-Corva,Corva
+Corva,Корва
 Corwin Sweeny,Корвин Суини
 Cosmic Instability,Космическая нестабильность
 "Cothol, Fieldburner",Котол Полежог
@@ -155,7 +155,7 @@ Crab Battle Form,Боевая форма краба
 Crab Damage Tracker,Счётчик урона краба
 Crab Guide,Проводник крабов
 Crab Hole,Крабья нора
-Crabb,Crabb
+Crabb,Крабб
 Craft %num2% masterwork item[s].,Изготовьте %num2% предмет[|а|ов] мастерского качества.
 Craft 3 Masterwork Items,Изготовьте 3 предмета мастерского качества
 Craft an astral weapon.,Изготовьте астральное оружие.
@@ -174,7 +174,7 @@ Crazed,Обезумевший
 Crazed Hylek,Обезумевший хилек
 Crazy Inquest Researcher,Безумный исследователь Inquest
 Create a containment vessel.,Создайте сосуд для сдерживания.
-"Create a distraction at the Nightmare Court camp, so Caithe can sneak out with the white stag.","Отвлеките внимание в лагере Nightmare Court, чтобы Кейт смогла ускользнуть с белым оленем."
+"Create a distraction at the Nightmare Court camp, so Caithe can sneak out with the white stag.","Отвлеките внимание в лагере Nightmare Court, чтобы Caithe смогла ускользнуть с белым оленем."
 "Create a healing orb near your target. When an ally touches the orb, nearby allies are healed.","Создаёт исцеляющую сферу возле цели. Когда союзник касается сферы, союзники поблизости исцеляются."
 "Create a holographic launch pad and leap to your foe. The pad remains behind for a short duration, granting increased movement speed to allies that touch it.","Создаёт голографическую стартовую площадку и совершает прыжок к врагу. Площадка ненадолго остаётся на месте, давая повышенную скорость передвижения союзникам, которые её касаются."
 Create a jade tech waypoint on your current map.<br><br>This skill cannot be used in instances.,Создаёт нефритовую путевую точку на текущей карте.<br><br>Это умение нельзя использовать в инстансах.
@@ -213,14 +213,14 @@ Crippling Volley,Залп хромоты
 Critical Chance increased by 20%%; stacks duration.,Шанс критического удара повышен на 20%%; складывается по длительности.
 Crocodilian Razortooth,Крокодилий острозуб
 Crowd Approval,Одобрение толпы
-Crusader Ian,Crusader Ian
-Crusader Ivan,Crusader Ivan
-Crusader Metalhorn,Crusader Metalhorn
-Crusader Powerdrive,Crusader Powerdrive
-Crusader Reagan,Crusader Reagan
-Crusader Scepter,Crusader Scepter
-Crusader Siella,Crusader Siella
-Crusader Vilborg,Crusader Vilborg
+Crusader Ian,Крестоносец Иан
+Crusader Ivan,Крестоносец Иван
+Crusader Metalhorn,Крестоносец Металлорог
+Crusader Powerdrive,Крестоносец Мощнопривод
+Crusader Reagan,Крестоносец Рейган
+Crusader Scepter,Скипетр крестоносца
+Crusader Siella,Крестоносец Сиелла
+Crusader Vilborg,Крестоносец Вильборг
 Crush the rebels! Let none survive!,Раздавите мятежников! Никого не оставлять в живых!
 Crush your foe with a crippling blow.,"Сокрушает врага ударом, накладывающим хромоту."
 Crushed to a Paste by Ensolyss,Раздавлен в лепёшку Энсолиссом
@@ -228,9 +228,9 @@ Crushing Horror,Сокрушительный ужас
 Crushing Regret,Сокрушительное сожаление
 Crushing light!,Сокрушительный свет!
 Crystal 1 weight: 7.2 units. Crystal 2 weight: 6.7 units. Estimated weight of merged crystal: ERROR. User input required.,"Вес кристалла 1: 7,2 ед. Вес кристалла 2: 6,7 ед. Расчётный вес объединённого кристалла: ОШИБКА. Требуется ввод пользователя."
-Crystal Bolt,Crystal Bolt
-Crystal Formation,Crystal Formation
-Crystal Shards,Crystal Shards
+Crystal Bolt,Кристаллический заряд
+Crystal Formation,Кристаллическое образование
+Crystal Shards,Кристаллические осколки
 "Crystal depository capacity: 4,250 units. Average crystal size: 170 units. Identify maximum quantity of crystals that will fit depository.","Вместимость кристаллохранилища: 4250 ед. Средний размер кристалла: 170 ед. Определите наибольшее количество кристаллов, помещающихся в хранилище."
 "Crystal inventory: 29 blue crystals, 12 green crystals. Confirm ratio of blue crystals to green crystals.","Опись кристаллов: 29 синих, 12 зелёных. Подтвердите соотношение синих кристаллов к зелёным."
 Crystal lattice density increased by 125 units. Original density: 818 units. Confirm density increase.,Плотность кристаллической решётки повышена на 125 ед. Исходная плотность: 818 ед. Подтвердите прирост плотности.
@@ -328,16 +328,16 @@ Cut Down,Срублен
 Cutthroat Pirates,Пираты-головорезы
 Cybele,Кибела
 Cynara,Кинара
-Cynnda,Cynnda
+Cynnda,Кинда
 DANGER,ОПАСНОСТЬ
 DDR—mainframe—compromised. Diverting—power—to—phasic—transitional—platforms. Metatarsal—positioning—vital!,DDR—мейнфрейм—скомпрометирован. Перенаправляю—питание—на—фазовые—переходные—платформы. Расположение—плюсны—критически—важно!
 DEL-X99,DEL-X99
 Daaaaad! Do you see where I left my pants?,"Па-а-а-ап! Ты не видел, где я оставил штаны?"
 Daaaaad! He won't let me pour honey in his hair!,Па-а-а-ап! Он не даёт мне вылить мёд ему на голову!
-Dack Farsight,Dack Farsight
-"Dagda becomes vulnerable and loses control of Planet Crash, causing a lesser effect.","Дагда становится уязвимой и теряет контроль над Падением планеты, отчего эффект слабеет."
+Dack Farsight,Дак Дальнозор
+"Dagda becomes vulnerable and loses control of Planet Crash, causing a lesser effect.","Dagda становится уязвимой и теряет контроль над Падением планеты, отчего эффект слабеет."
 Dagda's Diary,Дневник Дагды
-"Dagda, listen to me!","Дагда, послушай меня!"
+"Dagda, listen to me!","Dagda, послушай меня!"
 Dahvida the Blue,Давида Синяя
 Dalal,Далал
 Dalles,Даллес
@@ -373,7 +373,7 @@ Danced with a Choya by the Fire,Танцевал с чойей у костра
 Dangerous Insect Swarms,Опасные рои насекомых
 Dante Kovac's Inferno,Инферно Данте Ковача
 Dare I trap every device in this vault with a poisoning spell upon touch? If. I. Must.,Осмелюсь ли я снабдить каждое устройство в этом хранилище отравляющим заклятием при касании? Если. Придётся.
-Dark Defense,Dark Defense
+Dark Defense,Тёмная защита
 Dark energy that can be released to disrupt and damage crystalline life-forms.,"Тёмная энергия, которую можно высвободить, чтобы нарушить работу кристаллических форм жизни и повредить их."
 "Dark magic permeates the area; it reaches through your body and wraps itself around a part of your spirit. As it grows stronger, it will be more difficult to resist.","Тёмная магия пронизывает область; она проникает сквозь ваше тело и обвивает часть вашего духа. Чем сильнее она становится, тем труднее ей противиться."
 Darkening Heart,Темнеющее сердце
@@ -430,7 +430,7 @@ Deepwood Waypoint,Путевая точка «Дремучий Лес»
 Defated Decima without Being Downed,"Децима побеждена, ни разу не будучи поверженным"
 Defeat %num1% krait.,Победите %num1% крайтов.
 Defeat %num1%/%num2% Tarnished Traitor[s],Побеждено %num1%/%num2% [потускневшего предателя|потускневших предателя|потускневших предателей]
-Defeat %num1%/%num2% legendary creatures during the final assault against Kralkatorrik in Dragonfall.,Победите %num1%/%num2% легендарных существ во время последнего штурма против Кралькаторрика в Драконьем Падении.
+Defeat %num1%/%num2% legendary creatures during the final assault against Kralkatorrik in Dragonfall.,Победите %num1%/%num2% легендарных существ во время последнего штурма против Kralkatorrik в Драконьем Падении.
 "Defeat %num2% Abberant, Fallen, Sons of Svanir, or Frost Legion.","Победите %num2% аберрантов, падших, Sons of Svanir или бойцов Frost Legion."
 Defeat %num2% Aberrant in Northern Drizzlewood Coast.,Победите %num2% аберрантов на севере Drizzlewood Coast.
 Defeat %num2% Avatars of Spite.,Победите %num2% воплощений Злобы.
@@ -449,7 +449,7 @@ Defeat %num2% Fallen in Northern Drizzlewood Coast.,Победите %num2% па
 "Defeat %num2% Icebrood enemy[pl:""enemies""] in Frostgorge Sound.",Победите %num2% [ледяное отродье|ледяных отродья|ледяных отродий] в Frostgorge Sound.
 "Defeat %num2% Inquest enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% [врага|врага|врагов] из Inquest на Mount Maelstrom и в Sparkfly Fen.
 Defeat %num2% Karka in Southsun Cove.,Победите %num2% карка в Southsun Cove.
-Defeat %num2% Kryptis attacking through rifts while fighting Charybda or Eparch.,"Победите %num2% криптисов, атакующих через разломы, во время боя с Харибдой или Эпархом."
+Defeat %num2% Kryptis attacking through rifts while fighting Charybda or Eparch.,"Победите %num2% криптисов, атакующих через разломы, во время боя с Харибдой или Eparch."
 "Defeat %num2% Risen enemy[pl:""enemies""] in Mount Maelstrom and Sparkfly Fen.",Победите %num2% [восставшего врага|восставших врага|восставших врагов] на Mount Maelstrom и в Sparkfly Fen.
 "Defeat %num2% Risen enemy[pl:""enemies""] in the Straits of Devastation, Malchor's Leap, or Cursed Shore.","Победите %num2% [восставшего врага|восставших врага|восставших врагов] в Проливах Опустошения, на Malchor's Leap или Cursed Shore."
 Defeat %num2% Sons of Svanir in Northern Drizzlewood Coast.,Победите %num2% Sons of Svanir на севере Drizzlewood Coast.

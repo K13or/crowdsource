@@ -1,11 +1,11 @@
 english,translate
-Fiery Frost,Fiery Frost
-Fiery Impact,Fiery Impact
-Fiery Meteor,Fiery Meteor
-Fiery Rush,Fiery Rush
-Fiery Spit,Fiery Spit
-Fiery Vortex,Fiery Vortex
-Fiery Whirl,Fiery Whirl
+Fiery Frost,Огненный мороз
+Fiery Impact,Огненный удар
+Fiery Meteor,Огненный метеор
+Fiery Rush,Огненный натиск
+Fiery Spit,Огненный плевок
+Fiery Vortex,Огненный вихрь
+Fiery Whirl,Огненный водоворот
 Final Attack,Финальная атака
 Final Damage,Финальный урон
 Final Heal,Финальное исцеление
@@ -18,29 +18,29 @@ Final Smash,Финальный удар
 Final Strike,Финальный выпад
 Final Strike Damage,Урон финального удара
 Final Strike Maximum Targets,Максимум целей финального выпада
-Final Thrust,Final Thrust
+Final Thrust,Финальный пронзающий удар
 Final chop damage.,Урон финального рубящего удара.
-Fingers of the Dead,Fingers of the Dead
+Fingers of the Dead,Пальцы мертвеца
 Finisher Radius,Радиус добивания
-Finishing Blow,Finishing Blow
-Fire Attunement,Fire Attunement
-Fire Aura,Fire Aura
-Fire Blast,Fire Blast
-Fire Bolt,Fire Bolt
-Fire Breath,Fire Breath
-Fire Dance,Fire Dance
-Fire Grab,Fire Grab
-Fire Rocket,Fire Rocket
-Fire Rocket Barrage,Fire Rocket Barrage
-Fire Shield,Fire Shield
-Fire Sphere,Fire Sphere
-Fire Streak,Fire Streak
-Fire Strike,Fire Strike
-Fire Swipe,Fire Swipe
-Fire Trail,Fire Trail
+Finishing Blow,Добивающий удар
+Fire Attunement,Настройка огня
+Fire Aura,Огненная аура
+Fire Blast,Огненный взрыв
+Fire Bolt,Огненный снаряд
+Fire Breath,Огненное дыхание
+Fire Dance,Огненный танец
+Fire Grab,Огненный захват
+Fire Rocket,Огненная ракета
+Fire Rocket Barrage,Заградительный огонь
+Fire Shield,Огненный щит
+Fire Sphere,Огненная сфера
+Fire Streak,Огненная полоса
+Fire Strike,Огненный удар
+Fire Swipe,Огненный взмах
+Fire Trail,Огненный след
 Fire Wall Damage,Урон огненной стены
 Fire Wall Duration,Длительность огненной стены
-Fire Wave,Fire Wave
+Fire Wave,Огненная волна
 Fire a ball of light that detonates on impact to heal allies and damage foes.,"Выстрелить световым шаром, который взрывается при попадании, наносит урон противникам и исцеляет союзников."
 Fire a barrage of bouncing light missiles that damage enemies and heal allies.,"Выстрелить залпом рикошетящих снарядов света, которые наносят урон врагам и исцеляют союзников."
 Fire a barrage of rockets at the target location.,Выпустите серию ракет по выбранной области.
@@ -49,7 +49,7 @@ Fire a beam of searing light that damages and burns all enemies in its path.,"В
 "Fire a blast of lightning that explodes when it reaches its destination, stunning nearby foes.","Выпустите разряд молнии, который взрывается при достижении цели, оглушая ближайших врагов."
 Fire a blast so strong that it launches your foe as the recoil frees you from any movement-impairing conditions.,"Выстрелить столь мощным зарядом, что он отбросит противника назад, а отдача снимет с вас все состояния, ограничивающие передвижение."
 Fire a bolt that damages foes.,"Выпустить стрелу, наносящую урон противникам."
-Fire a bouncing glob that cripples foes and grants swiftness to you and your allies. The first enemy struck is immobilized.,"Выпустите рикошетирующий сгусток, который калечит врагов и даёт стремительность вам и вашим союзникам. Первый пораженный враг обездвиживается."
+Fire a bouncing glob that cripples foes and grants swiftness to you and your allies. The first enemy struck is immobilized.,"Выпустите рикошетирующий сгусток, который калечит врагов и даёт быстроту вам и вашим союзникам. Первый пораженный враг обездвиживается."
 Fire a bullet out of your belt.,Выстрелить пулей из вашего Пояса.
 Fire a bullet that inflicts conditions on your target and grants you a boon.,"Выстрелите пулей, которая накладывает состояния на цель и даёт вам благословение."
 Fire a cluster bomb at the target area. Detonate in midair for multiple explosions.,"Выстрелить кассетной бомбой по выбранной области. Подорвать бомбу над землей, чтобы произвести несколько взрывов."
@@ -100,7 +100,7 @@ Fire an arrow that bleeds and immobilizes your target.,"Выстрелить с�
 Fire an arrow that bounces between nearby foes and inflicts bleeding when striking poisoned enemies.,"Выстрелить стрелой, которая рикошетит между противниками поблизости и вызывает кровотечение у отравленных врагов."
 "Fire an arrow that cripples your target. If you are flanking or behind your target or your target is defiant, immobilize them. Your pet's next three attacks inflict bleeding.","Выстрелите стрелой, которая калечит цель. Если вы атакуете с фланга или с тыла, либо если цель обладает эффектом «Непокорность», обездвижьте её. Следующие три атаки вашего питомца накладывают кровотечение."
 Fire an arrow that dazes enemies on impact and poisons the target area.,"Выстрелить стрелой, которая ошеломляет противников при попадании и отравляет область вокруг себя."
-Fire an arrow that grants you stealth when it hits an enemy. Your pet gains swiftness.,"Выстрелить стрелой, которая делает вас невидимым, если попадает в противника. Вашему питомцу будет дарована Быстрота."
+Fire an arrow that grants you stealth when it hits an enemy. Your pet gains swiftness.,"Выстрелить стрелой, которая делает вас невидимым, если попадает в противника. Вашему питомцу будет дарована быстрота."
 Fire an arrow that inflicts bleeding on your target. Attacks are stronger from behind or from the side or against defiant foes.,"Выстрелить стрелой, вызывающей у цели кровотечение. Атаки усиливаются при нападении сзади или сбоку, или если у противника есть полоса сопротивления."
 "Fire an arrow that pierces enemies. If the arrow hits a second target, all enemies struck are crippled.","Выстрелите стрелой, которая пронзает врагов. Если стрела попадает во вторую цель, все пораженные враги получают эффект «Хромота»."
 Fire an explosive grenade from your rifle.,Выстрелить из винтовки разрывной гранатой.
@@ -123,13 +123,13 @@ Fire two bullets that grant might if they hit your target.,"Выстрелить
 Fire two light blades in quick succession.,Выпустить два световых клинка в быстрой последовательности.
 Fire two projectiles that hinder foes and help allies.,"Выстрелить двумя снарядами, которые вредят противникам и помогают союзникам. Вражеская цель: Причинить противникам боль. Союзная цель: Снаряды находят союзников и дают им барьер. Эффективность снижена для союзников, не являющихся основной целью."
 Fire two shots from your tail that bleed your enemy.,"Сделать два выстрела из хвоста, которые вызывают у противника кровотечение."
-Fired Up!,Fired Up!
+Fired Up!,В огне!
 "Fires a projectile of corrupted life energy at Greer. If it hits Greer, it grants him 2 empowered stacks. If it hits a player, it will knock them back and continue on. If it is blocked by a player, the projectile is destroyed.","Выпускает снаряд из оскверненной жизненной энергии в Greer. Если он попадает в Greer, это даёт ему 2 стака усиления. Если он попадает в игрока, то отбрасывает его и летит дальше. Если снаряд блокируется игроком, он уничтожается."
 "Fires a targeted missile that explodes on impact, creating a persistent field of damaging jade energy.","Выпускает самонаводящуюся ракету, которая взрывается при попадании, создавая стойкое поле разрушительной нефритовой энергии."
 Fires a volley of ice at the target.,Выпускает залп льда в цель.
 "Fires a wave of diffractive energy, damaging foes in its path.","Выпускает волну дифракционной энергии, нанося урон врагам на своем пути."
 Fires projectiles that bounce back to the source.,"Выпускает снаряды, которые отскакивают обратно к источнику."
-Firestorm,Firestorm
+Firestorm,Огненный шторм
 First Chop Damage,Урон от первого удара
 First Heal,Первое исцеление
 First Heal Radius,Радиус первого исцеления
@@ -143,95 +143,95 @@ First-Hit Life Siphon Healing,Исцеление от вытягивания ж�
 First-Hit Recharge Reduction,Сокращение перезарядки при первом попадании
 First-Hit Siphon Healing,Исцеление от вытягивания жизни при первом ударе
 First-Strike Radius,Радиус первого удара
-Fissure,Fissure
-Fissure of Torment,Fissure of Torment
-Fist,Fist
-Fist Flurry,Fist Flurry
-Flak Shot,Flak Shot
-Flame Barrage,Flame Barrage
-Flame Blast,Flame Blast
-Flame Burst,Flame Burst
-Flame Expulsion,Flame Expulsion
-Flame Jet,Flame Jet
-Flame Leap,Flame Leap
-Flame Rush,Flame Rush
-Flame Seeker,Flame Seeker
-Flame Shot,Flame Shot
-Flame Slash,Flame Slash
-Flame Spear,Flame Spear
-Flame Spray,Flame Spray
-Flame Surge,Flame Surge
-Flame Trap,Flame Trap
-Flame Turret,Flame Turret
-Flame Uprising,Flame Uprising
-Flame Wall,Flame Wall
-Flame Wave,Flame Wave
-Flame Wheel,Flame Wheel
-Flamestrike,Flamestrike
-Flamethrower,Flamethrower
-Flamewall,Flamewall
-Flaming Cascade,Flaming Cascade
-Flaming Flurry,Flaming Flurry
-Flanking Dive,Flanking Dive
-Flanking Shot,Flanking Shot
-Flanking Strike,Flanking Strike
-Flash Combo,Flash Combo
-Flash Cutter,Flash Cutter
-Flash Cutter—Storm,Flash Cutter—Storm
-Flash Grenade,Flash Grenade
-Flash Shell,Flash Shell
-Flash Spark,Flash Spark
-Flashbang,Flashbang
-Flee,Flee
+Fissure,Раскол
+Fissure of Torment,Раскол мучений
+Fist,Кулак
+Fist Flurry,Шквал ударов
+Flak Shot,Зенитный выстрел
+Flame Barrage,Огненный залп
+Flame Blast,Огненный взрыв
+Flame Burst,Вспышка пламени
+Flame Expulsion,Выброс пламени
+Flame Jet,Струя пламени
+Flame Leap,Огненный прыжок
+Flame Rush,Огненный рывок
+Flame Seeker,Искатель пламени
+Flame Shot,Огненный выстрел
+Flame Slash,Огненный удар
+Flame Spear,Огненное копьё
+Flame Spray,Огненный спрей
+Flame Surge,Огненный поток
+Flame Trap,Огненная ловушка
+Flame Turret,Огненная турель
+Flame Uprising,Восстание пламени
+Flame Wall,Огненная стена
+Flame Wave,Огненная волна
+Flame Wheel,Огненное колесо
+Flamestrike,Огненный удар
+Flamethrower,Огнемёт
+Flamewall,Стена пламени
+Flaming Cascade,Огненный каскад
+Flaming Flurry,Огненный шквал
+Flanking Dive,Фланговое пикирование
+Flanking Shot,Фланговый выстрел
+Flanking Strike,Фланговый удар
+Flash Combo,Вспышка-комбо
+Flash Cutter,Вспышка-резак
+Flash Cutter—Storm,Вспышка-резак — Шторм
+Flash Grenade,Светошумовая граната
+Flash Shell,Световой снаряд
+Flash Spark,Вспышка искр
+Flashbang,Светошумовая
+Flee,Бегство
 Flee from your enemies.,Бегите от своих врагов.
-Fleeting Stability,Fleeting Stability
-Fleeting Zephyr,Fleeting Zephyr
+Fleeting Stability,Минутная стабильность
+Fleeting Zephyr,Минутный зефир
 Fling fire in a claw-shaped spread at your foe.,Швырнуть язык огня в форме когтя в вашего противника.
 Fling stone daggers at your foe to bleed them.,"Швырнуть каменные кинжалы в вашего противника, вызывая у него кровотечение."
 "Fling your spear at your enemy, dealing heavy damage. Damage is increased against immobilized, disabled, or defiant foes.","Метните копьё во врага, нанося большой урон. Урон увеличивается по обездвиженным, оглушенным или непокорным врагам."
 Float,Всплытие
 "Float to the surface on a burst of steam, blinding and burning foes.","Всплывите на поверхность на струе пара, ослепляя и поджигая врагов."
-Floating Mine,Floating Mine
-Flourish,Flourish
-Flow,Flow
+Floating Mine,Плавающая мина
+Flourish,Процветание
+Flow,Поток
 Flow Cost,Стоимость потока
 Flow Drain per Interval,Расход потока за интервал
 Flow Interval,Интервал потока
-Flow Stabilizer,Flow Stabilizer
+Flow Stabilizer,Стабилизатор потока
 "Flow is gained at a constant rate while in combat and decays quickly when combat ends. Attacking will not generate flow, and flow cannot be used for core warrior burst skills. Skills and traits that generate adrenaline will have their adrenaline gain converted to flow.","Поток накапливается с постоянной скоростью во время боя и быстро убывает после его окончания. Атаки не генерируют поток, и поток нельзя использовать для основных навыков взрыва воина. Навыки и черты, генерирующие адреналин, будут преобразовывать его в поток."
-Flowing Finesse,Flowing Finesse
-Flowing Resolve,Flowing Resolve
-Flurry,Flurry
+Flowing Finesse,Плавное изящество
+Flowing Resolve,Плавная решимость
+Flurry,Шквал
 Flurry Count Tracking Duration,Длительность отслеживания количества шквалов
 Flurry Damage,Урон шквала
-Flurry of Ice,Flurry of Ice
-Flustering Flute,Flustering Flute
-Flute Playing,Flute Playing
-Flux Nova,Flux Nova
-Flux State,Flux State
-Fluxlance,Fluxlance
-Fluxlance Fusillade,Fluxlance Fusillade
-Fluxlance Salvo,Fluxlance Salvo
-Flying Cutter,Flying Cutter
-Flying Knee,Flying Knee
-Flying Slam,Flying Slam
+Flurry of Ice,Ледяной шквал
+Flustering Flute,Смущающая флейта
+Flute Playing,Игра на флейте
+Flux Nova,Новая волна
+Flux State,Состояние потока
+Fluxlance,Потоковое копьё
+Fluxlance Fusillade,Залп потокового копья
+Fluxlance Salvo,Очередь потокового копья
+Flying Cutter,Летящий резак
+Flying Knee,Удар коленом в прыжке
+Flying Slam,Удар в прыжке
 Focus a wrathful light ray on your foe.,Сфокусировать луч гневного света на вашем противнике.
 Focus on a single enemy and fire the force of the stars at them. Damage is distributed among all targets struck by this attack.,"Сфокусируйтесь на одной цели и выстрелите в неё силой звёзд. Урон распределяется между всеми целями, пораженными этой атакой."
 Focus on a target for increased damage.,Сосредоточьтесь на цели для увеличения урона.
-Focused Anger,Focused Anger
-Focused Destruction,Focused Destruction
-Focused Devastation,Focused Devastation
-Focused Fluxlance,Focused Fluxlance
-Focused Rage,Focused Rage
-Focused Slash,Focused Slash
+Focused Anger,Сфокусированный гнев
+Focused Destruction,Сфокусированное разрушение
+Focused Devastation,Сфокусированное опустошение
+Focused Fluxlance,Сфокусированное потоковое копьё
+Focused Rage,Сфокусированная ярость
+Focused Slash,Сфокусированный разрез
 Focused Target Damage,Урон по фокус-цели
-Focused Wrath,Focused Wrath
-Focusing,Focusing
+Focused Wrath,Фокусированный гнев
+Focusing,Фокусировка
 Foe Launch Distance,Дистанция отбрасывания врага
 Follow-Up Boons Removed,Снятые добиванием благословения
 Follow-Up Damage,Урон добивания
 Follow-Up Daze,Ошеломление от добивания
-Foostivoo Flail,Foostivoo Flail
+Foostivoo Flail,Цеп Foostivoo
 Foostivoo is aimlessly flailing in its excitement.,Foostivoo беспорядочно размахивает цепом от возбуждения.
 Foostivoo is excited to demonstrate how he can make his breath freeze.,"Foostivoo с радостью демонстрирует, как он может замораживать дыхание."
 Foostivoo is just trying to spread some cheer! Watch out for the presents!,Foostivoo просто пытается поднять всем настроение! Берегитесь подарков!
@@ -244,101 +244,101 @@ Foostivoo is just trying to spread some cheer! Watch out for the presents!,Foost
 "For a short time after using this skill, your first weapon skill is replaced with your stealth attack, even when not stealthed.","В течение короткого времени после использования этого навыка ваш первый навык оружия заменяется на скрытую атаку, даже если вы не находитесь в режиме невидимости."
 "For a short time after using this skill, your strikes additionally inflict burning on enemies.",В течение короткого времени после использования этого навыка ваши удары дополнительно накладывают горение на врагов.
 "For a short time after using this skill, your weapon skills that cost initiative refund initiative.","В течение короткого времени после использования этого навыка ваши оружейные навыки, требующие инициативы, возвращают её часть."
-Forage Feathers,Forage Feathers
-Forage Rock,Forage Rock
-Forage Scale,Forage Scale
-Forage Sword,Forage Sword
-Force Signet,Force Signet
-Force of Havoc,Force of Havoc
-Force of Nature,Force of Nature
-Force of Retaliation,Force of Retaliation
-Force of the Nightmare,Force of the Nightmare
-Forced Engagement,Forced Engagement
-Forceful Bash,Forceful Bash
-Forceful Displacement,Forceful Displacement
-Forceful Shot,Forceful Shot
-Forerunner of Death,Forerunner of Death
-Foreshock,Foreshock
-Forest's Fortification,Forest's Fortification
-Forged Surfer Dash,Forged Surfer Dash
-Forked Lightning,Forked Lightning
+Forage Feathers,Сбор перьев
+Forage Rock,Сбор камней
+Forage Scale,Сбор чешуи
+Forage Sword,Сбор мечей
+Force Signet,Печать силы
+Force of Havoc,Сила хаоса
+Force of Nature,Сила природы
+Force of Retaliation,Сила возмездия
+Force of the Nightmare,Сила кошмара
+Forced Engagement,Принудительное вовлечение
+Forceful Bash,Силовой удар
+Forceful Displacement,Силовое смещение
+Forceful Shot,Силовой выстрел
+Forerunner of Death,Предвестник смерти
+Foreshock,Предвестник удара
+Forest's Fortification,Укрепление леса
+Forged Surfer Dash,Рывок кованого серфера
+Forked Lightning,Разветвленная молния
 "Form a tether through the Mists to a target ally or enemy. The strength of the tether increases over time. You can only be tethered to one target at a time, and the link is severed if you are too far away from your target or when you swap weapons.","Создайте связь через Туманы с выбранным союзником или врагом. Сила связи со временем возрастает. Вы можете быть связаны только с одной целью за раз, и связь разрывается, если вы находитесь слишком далеко от цели или при смене оружия."
-Form of the Assassin,Form of the Assassin
-Form of the Dervish,Form of the Dervish
-Form of the Mesmer,Form of the Mesmer
-Form of the Monk,Form of the Monk
-Form of the Warrior,Form of the Warrior
+Form of the Assassin,Облик ассасина
+Form of the Dervish,Облик дервиша
+Form of the Mesmer,Облик месмера
+Form of the Monk,Облик монаха
+Form of the Warrior,Облик воина
 "Form your arrows into a barrier, and deal damage at the location.",Сформируйте из своих стрел барьер и нанесите урон в указанной области.
-Fortified Earth,Fortified Earth
-Fortify,Fortify
+Fortified Earth,Укрепленная земля
+Fortify,Укрепление
 Forward sweep-attack; damages foes on impact.,Размашистая атака вперёд; наносит урон врагам при попадании.
-Foul Current,Foul Current
-Fox's Fury,Fox's Fury
-Fracture Armor,Fracture Armor
-Fractured,Fractured
-Fractured Brand,Fractured Brand
-Fractured Glass,Fractured Glass
-Fractured Land,Fractured Land
-Fracturing Strike,Fracturing Strike
+Foul Current,Гнилое течение
+Fox's Fury,Ярость лисы
+Fracture Armor,Разлом брони
+Fractured,Разлом
+Fractured Brand,Разлом клейма
+Fractured Glass,Разбитое стекло
+Fractured Land,Разлом земли
+Fracturing Strike,Разламывающий удар
 Fragment Duration,Длительность фрагмента
-Fragmentation Shot,Fragmentation Shot
-Fragments of Faith,Fragments of Faith
-Free Action,Free Action
-Freeze Grenade,Freeze Grenade
+Fragmentation Shot,Осколочный выстрел
+Fragments of Faith,Фрагменты веры
+Free Action,Свободное действие
+Freeze Grenade,Замораживающая граната
 Freezes the target solid.,Полностью замораживает цель.
-Freezing Fan,Freezing Fan
-Freezing Gust,Freezing Gust
-Freezing Vortex,Freezing Vortex
-Frenzied Attack,Frenzied Attack
-Frenzied Peck,Frenzied Peck
-Frightening Speed,Frightening Speed
-Frigid Aura,Frigid Aura
-Frigid Blitz,Frigid Blitz
-Frigid Discharge,Frigid Discharge
-Frigid Flurry,Frigid Flurry
-Frigid Trail,Frigid Trail
-Frigid Vortex,Frigid Vortex
+Freezing Fan,Ледяной веер
+Freezing Gust,Ледяной порыв
+Freezing Vortex,Ледяной вихрь
+Frenzied Attack,Бешеная атака
+Frenzied Peck,Бешеный клевок
+Frightening Speed,Пугающая скорость
+Frigid Aura,Ледяная аура
+Frigid Blitz,Ледяной блиц
+Frigid Discharge,Ледяной разряд
+Frigid Flurry,Ледяной шквал
+Frigid Trail,Ледяной след
+Frigid Vortex,Ледяной вихрь
 Front Damage,Фронтальный урон
-Frontal Block,Frontal Block
-Frost Aura,Frost Aura
-Frost Blast,Frost Blast
-Frost Breath,Frost Breath
-Frost Fan,Frost Fan
-Frost Nova,Frost Nova
-Frost Patch,Frost Patch
-Frost Shard,Frost Shard
-Frost Spit,Frost Spit
-Frost Storm,Frost Storm
-Frost Tomb,Frost Tomb
-Frost Trap,Frost Trap
-Frost Volley,Frost Volley
-Frostbite Aura,Frostbite Aura
-Frostblades,Frostblades
-Frostfire Flurry,Frostfire Flurry
-Frostfire Ward,Frostfire Ward
-Frozen Abyss,Frozen Abyss
-Frozen Barrier,Frozen Barrier
-Frozen Burst,Frozen Burst
-Frozen Demise,Frozen Demise
-Frozen Fusillade,Frozen Fusillade
-Frozen Ground,Frozen Ground
-Frozen Missile,Frozen Missile
-Frozen Teeth,Frozen Teeth
-Frozen breaches in the ice that deal heavy damage and apply chill.,"Замерзшие разломы во льду, которые наносят большой урон и накладывают эффект охлаждения."
-Fulgent Aura,Fulgent Aura
-Fulgent Fence,Fulgent Fence
-Fulgor,Fulgor
-Fulgor Sphere,Fulgor Sphere
-Full Counter,Full Counter
+Frontal Block,Фронтальный блок
+Frost Aura,Аура инея
+Frost Blast,Ледяной взрыв
+Frost Breath,Ледяное дыхание
+Frost Fan,Ледяной веер
+Frost Nova,Ледяная нова
+Frost Patch,Ледяное пятно
+Frost Shard,Осколок льда
+Frost Spit,Ледяной плевок
+Frost Storm,Ледяной шторм
+Frost Tomb,Ледяная гробница
+Frost Trap,Ледяная ловушка
+Frost Volley,Ледяной залп
+Frostbite Aura,Аура обморожения
+Frostblades,Ледяные клинки
+Frostfire Flurry,Ледяной шквал
+Frostfire Ward,Ледяной оберег
+Frozen Abyss,Замёрзшая бездна
+Frozen Barrier,Ледяной барьер
+Frozen Burst,Ледяной взрыв
+Frozen Demise,Ледяная гибель
+Frozen Fusillade,Ледяная канонада
+Frozen Ground,Замёрзшая земля
+Frozen Missile,Ледяной снаряд
+Frozen Teeth,Ледяные зубья
+Frozen breaches in the ice that deal heavy damage and apply chill.,"Замерзшие разломы во льду, которые наносят большой урон и накладывают эффект заморозки."
+Fulgent Aura,Сияющая аура
+Fulgent Fence,Сияющее ограждение
+Fulgor,Фулгор
+Fulgor Sphere,Сфера Фулгора
+Full Counter,Полный контратакующий удар
 Fully attune to elements and temporarily lose dual attacks.,"Полная настройка на стихии, временно отключающая двойные атаки."
-Fulminate,Fulminate
-Fumigate,Fumigate
-Function Gyro,Function Gyro
-Furious Pounce,Furious Pounce
-Furious Retaliation,Furious Retaliation
-Furious Screech,Furious Screech
-Fury,Fury
-Fury of the Storm,Fury of the Storm
+Fulminate,Фульминация
+Fumigate,Фумигация
+Function Gyro,Функциональный гироскоп
+Furious Pounce,Яростный прыжок
+Furious Retaliation,Яростное возмездие
+Furious Screech,Яростный визг
+Fury,Ярость
+Fury of the Storm,Ярость шторма
 Fuse Time,Время запала
 Gain 50%% damage reduction. You are still susceptible to conditions and control effects.,Получите снижение урона на 50%%. Вы по-прежнему уязвимы к состояниям и эффектам контроля.
 Gain a fire aura and damage nearby foes.,"Вы получаете огненную ауру и наносите урон противникам поблизости, когда обращаетесь к силе Огня. Также срабатывает на умениях-форсажах."
@@ -367,123 +367,123 @@ Gain increased condition damage.,Получите увеличенный уро�
 Gain life force when taking damage.,Получайте жизненную силу при получении урона.
 "Gain stacks when striking or being struck by an enemy. When this ends, damage nearby enemies based on the number of stacks.","Получайте стаки при нанесении или получении ударов от врага. Когда эффект заканчивается, нанесите урон ближайшим врагам в зависимости от количества стаков."
 Gain superspeed. Your next spear skill always critically strikes.,Получить сверхскорость. Ваша следующая атака копьём завершится критическим попаданием.
-Gain swiftness and summon a swarm of vampiric shrimp that siphon health from nearby foes.,"Даровать себе Быстроту и призвать стаю креветок-вампиров, которые высасывают здоровье у противников поблизости."
-Gain swiftness from a gust of wind that launches nearby foes.,Порыв ветра дарует вам Быстроту и отбрасывает противников поблизости.
+Gain swiftness and summon a swarm of vampiric shrimp that siphon health from nearby foes.,"Даровать себе быстроту и призвать стаю креветок-вампиров, которые высасывают здоровье у противников поблизости."
+Gain swiftness from a gust of wind that launches nearby foes.,Порыв ветра дарует вам быстроту и отбрасывает противников поблизости.
 Gaining vitality.,Получение живучести.
-Gale,Gale
-Gale Breath,Gale Breath
-Gale Strike,Gale Strike
-Galloping Slash,Galloping Slash
-Galvanic Bomb,Galvanic Bomb
-Galvanic Sensitivity,Galvanic Sensitivity
+Gale,Шквал
+Gale Breath,Дыхание шквала
+Gale Strike,Удар шквала
+Galloping Slash,Галопирующий разрез
+Galvanic Bomb,Гальваническая бомба
+Galvanic Sensitivity,Гальваническая чувствительность
 Galvanic Sensitivity removes Harmonic Sensitivity and prevents it from being applied for the duration.,Galvanic Sensitivity снимает Harmonic Sensitivity и предотвращает её наложение на время действия.
-Galvanize,Galvanize
-Garish Pillar,Garish Pillar
-Gaseous State,Gaseous State
-Gash,Gash
+Galvanize,Гальванизация
+Garish Pillar,Яркий столп
+Gaseous State,Газообразное состояние
+Gash,Глубокий порез
 Gather the elements to become the ultimate being.,"Соберите элементы, чтобы стать высшим существом."
 Gather up debris into your tornado form and send it flying.,Втянуть мусор в ваш торнадо и отправить его в полёт.
 "Gather up dust into your tornado form, making it shoot out dust devils that blind foes.","Соберите пыль в свою форму торнадо, заставляя её выпускать пылевых дьяволов, ослепляющих врагов."
-Gathering Plague,Gathering Plague
-Gaze of Darkness,Gaze of Darkness
-Gear Shield,Gear Shield
+Gathering Plague,Собирающаяся чума
+Gaze of Darkness,Взгляд тьмы
+Gear Shield,Механический щит
 Generate a poison cloud.,Выпустить отравляющее облако.
-Germinate,Germinate
-Geyser,Geyser
-Geyser Slam,Geyser Slam
-Ghastly Breach,Ghastly Breach
-Ghastly Claws,Ghastly Claws
-Ghastly Prison,Ghastly Prison
-Ghastly Rampage,Ghastly Rampage
-Ghostly Arrow,Ghostly Arrow
-Ghostly Grasp,Ghostly Grasp
+Germinate,Прорастание
+Geyser,Гейзер
+Geyser Slam,Удар гейзера
+Ghastly Breach,Призрачный пролом
+Ghastly Claws,Призрачные когти
+Ghastly Prison,Призрачная тюрьма
+Ghastly Rampage,Призрачное неистовство
+Ghostly Arrow,Призрачная стрела
+Ghostly Grasp,Призрачный захват
 Ghostly cannon fire.,Призрачный пушечный огонь.
 Ghostly pool that applies boons to the undead and conditions to the living.,"Призрачный омут, накладывающий благословения на нежить и состояния на живых."
-Giant Flurry,Giant Flurry
-Giant Kick,Giant Kick
-Giant Snowball,Giant Snowball
-Giant Stomp,Giant Stomp
+Giant Flurry,Гигантский шквал
+Giant Kick,Гигантский пинок
+Giant Snowball,Гигантский снежок
+Giant Stomp,Гигантский топот
 "Give might and fury to yourself, then spread boons you have to allies.","Дайте себе мощь и ярость, затем распространите свои благословения на союзников."
 Give yourself random boons and your foe random conditions whenever you are struck.,"Даруйте себе случайные благословения, а врагу — случайные состояния всякий раз, когда вас бьют."
-Glacial Blow,Glacial Blow
-Glacial Drift,Glacial Drift
-Glacial Midnight,Glacial Midnight
-Glaciate,Glaciate
-Gladiator's Defense,Gladiator's Defense
-Glaring Burst,Glaring Burst
-Gleam Saber,Gleam Saber
-Gleaming Blade,Gleaming Blade
-Gleaming Disc,Gleaming Disc
-Glob Shot,Glob Shot
-Globolla Marble,Globolla Marble
+Glacial Blow,Ледяной удар
+Glacial Drift,Ледяной дрейф
+Glacial Midnight,Ледяная полночь
+Glaciate,Заморозка
+Gladiator's Defense,Защита гладиатора
+Glaring Burst,Ослепляющий взрыв
+Gleam Saber,Сияющая сабля
+Gleaming Blade,Сияющий клинок
+Gleaming Disc,Сияющий диск
+Glob Shot,Выстрел сгустком
+Globolla Marble,Мрамор Глоболлы
 "Globolla marbles refresh Nova Launch when they bounce on party members, but explode if they connect with the ground.","Мрамор Глоболлы обновляет Nova Launch при отскоке от участников группы, но взрывается при контакте с землей."
 Glue Puddle Duration,Длительность лужи клея
-Glue Shot,Glue Shot
-Glue Trail,Glue Trail
-Glyph of Alignment,Glyph of Alignment
-Glyph of Elemental Harmony,Glyph of Elemental Harmony
-Glyph of Elemental Power,Glyph of Elemental Power
-Glyph of Elementals,Glyph of Elementals
-Glyph of Equality,Glyph of Equality
-Glyph of Lesser Elementals,Glyph of Lesser Elementals
-Glyph of Rejuvenation,Glyph of Rejuvenation
-Glyph of Renewal,Glyph of Renewal
-Glyph of Storms,Glyph of Storms
+Glue Shot,Выстрел клеем
+Glue Trail,Клейкий след
+Glyph of Alignment,Глиф выравнивания
+Glyph of Elemental Harmony,Глиф стихийной гармонии
+Glyph of Elemental Power,Глиф стихийной силы
+Glyph of Elementals,Глиф стихий
+Glyph of Equality,Глиф равенства
+Glyph of Lesser Elementals,Глиф малых стихий
+Glyph of Rejuvenation,Глиф омоложения
+Glyph of Renewal,Глиф обновления
+Glyph of Storms,Глиф бурь
 Glyph of Unity,Глиф единства
-Glyph of the Stars,Glyph of the Stars
-Glyph of the Tides,Glyph of the Tides
+Glyph of the Stars,Глиф звёзд
+Glyph of the Tides,Глиф приливов
 Glyph. Daze nearby foes.,Глиф. Ошеломите ближайших врагов.
-Gnawed,Gnawed
-Gorefrost,Gorefrost
-Gorge,Gorge
-Gormandize,Gormandize
+Gnawed,Обглоданный
+Gorefrost,Морозная ярость
+Gorge,Ущелье
+Gormandize,Обжорство
 Gorseval's mere presence causes all foes within range to take damage every 3 seconds.,Само присутствие Gorseval заставляет всех врагов в радиусе действия получать урон каждые 3 секунды.
-Grand Finale,Grand Finale
-Grant aegis to allies around you and poison your marked target. Gain stealth if malice is at or above the threshold.,"Даровать Эгиду союзникам вокруг вас и отравить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
+Grand Finale,Гранд-финал
+Grant aegis to allies around you and poison your marked target. Gain stealth if malice is at or above the threshold.,"Даровать эгиду союзникам вокруг вас и отравить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
 Grant allies the ability to steal life with their strikes.,Дарует союзникам способность похищать жизнь своими атаками.
 Grant barrier to allies.,Дарует барьер союзникам.
 Grant boons and remove movement-impairing conditions from allies.,"Даёт союзникам дары и снимает с них состояния, ограничивающие передвижение."
 Grant boons to nearby allies and summon a dust storm that inflicts conditions.,"Дать дары союзникам поблизости и вызвать пылевую бурю, которая накладывает состояния."
 "Grant boons to nearby allies as you launch a wave of temporal energy that damages and stops enemies it passes through, then returns to you. Touching the returning wave reduces the recharge of this skill.","Дарует благословения ближайшим союзникам, выпуская волну энергии времени, которая наносит урон и останавливает врагов на своем пути, а затем возвращается к вам. Если коснуться возвращающейся волны, время перезарядки этого навыка сокращается."
 Grant boons to yourself and nearby allies.,Дарует благословения вам и ближайшим союзникам.
-Grant fury to allies around you and blind your marked target. Gain stealth if malice is at or above the threshold.,"Даровать Ярость союзникам вокруг вас и ослепить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
+Grant fury to allies around you and blind your marked target. Gain stealth if malice is at or above the threshold.,"Даровать ярость союзникам вокруг вас и ослепить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
 Grant might to allies around you and weaken your marked target. Gain stealth if malice is at or above the threshold.,"Даровать мощь союзникам вокруг вас и ослабить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
-Grant protection to allies around you and inflict vulnerability on your marked target. Gain stealth if malice is at or above the threshold.,"Даровать Протекцию союзникам вокруг вас и сделать отмеченную цель уязвимой. Стать невидимым, если злобность равна или превышает порог."
+Grant protection to allies around you and inflict vulnerability on your marked target. Gain stealth if malice is at or above the threshold.,"Даровать протекцию союзникам вокруг вас и сделать отмеченную цель уязвимой. Стать невидимым, если злобность равна или превышает порог."
 Grant protection to nearby allies.,Дарует протекцию ближайшим союзникам.
-Grant quickness to allies around you and slow your marked target. Gain stealth if malice is at or above the threshold.,"Даровать Проворство союзникам вокруг вас и замедлить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
+Grant quickness to allies around you and slow your marked target. Gain stealth if malice is at or above the threshold.,"Даровать проворство союзникам вокруг вас и замедлить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
 Grant resistance to allies around you and inflict torment on your marked target. Gain stealth if malice is at or above the threshold.,"Даровать сопротивляемость союзникам вокруг вас и вызвать у отмеченной цели боль. Стать невидимым, если злобность равна или превышает порог."
 Grant superspeed to allies around you and immobilize your marked target. Gain stealth if malice is at or above the threshold.,"Дать сверхскорость союзникам вокруг вас и обездвижить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
-Grant swiftness to allies and summon a swarm of locusts that siphons health to you and your allies from nearby foes.,"Даровать союзникам Быстроту и призвать рой саранчи, которая вытягивает у противников поблизости здоровье для вас и ваших союзников."
-Grant swiftness to nearby allies and remove movement-impairing conditions from them.,"Даровать Быстроту союзникам поблизости и снять с них состояния, ограничивающие передвижение."
-Grant vigor to allies around you and chill your marked target. Gain stealth if malice is at or above the threshold.,"Даровать Энергичность союзникам вокруг вас и заморозить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
+Grant swiftness to allies and summon a swarm of locusts that siphons health to you and your allies from nearby foes.,"Даровать союзникам быстроту и призвать рой саранчи, которая вытягивает у противников поблизости здоровье для вас и ваших союзников."
+Grant swiftness to nearby allies and remove movement-impairing conditions from them.,"Даровать быстроту союзникам поблизости и снять с них состояния, ограничивающие передвижение."
+Grant vigor to allies around you and chill your marked target. Gain stealth if malice is at or above the threshold.,"Даровать энергичность союзникам вокруг вас и заморозить отмеченную цель. Стать невидимым, если злобность равна или превышает порог."
 Grants boons and applies Erratic Energy to the attacked target.,Дарует благословения и накладывает «Беспорядочную энергию» на атакованную цель.
 Grants might to your pet when you attack.,"Дарует мощь вашему питомцу, когда вы атакуете."
-Grappling Line,Grappling Line
-Grasping Darkness,Grasping Darkness
-Grasping Dead,Grasping Dead
-Grasping Earth,Grasping Earth
-Grasping Horror,Grasping Horror
-Grasping Shadows,Grasping Shadows
-Grasping Vines,Grasping Vines
-"Grasping arms attack nearby targets, inflicting poison and torment.","Хватающие руки атакуют ближайшие цели, накладывая яд и боль."
-Gravedigger,Gravedigger
-Gravitational Wave,Gravitational Wave
-Gravity Hammer,Gravity Hammer
-Gravity Wave,Gravity Wave
-Gravity Well,Gravity Well
-Great Bludgeoning,Great Bludgeoning
-Greater Death Mark,Greater Death Mark
+Grappling Line,Абордажный крюк
+Grasping Darkness,Хватка тьмы
+Grasping Dead,Хватка мертвецов
+Grasping Earth,Хватка земли
+Grasping Horror,Хватка ужаса
+Grasping Shadows,Хватка теней
+Grasping Vines,Хватка лоз
+"Grasping arms attack nearby targets, inflicting poison and torment.","Хватающие руки атакуют ближайшие цели, накладывая отравление и боль."
+Gravedigger,Могильщик
+Gravitational Wave,Гравитационная волна
+Gravity Hammer,Гравитационный молот
+Gravity Wave,Волна гравитации
+Gravity Well,Гравитационный колодец
+Great Bludgeoning,Великое сокрушение
+Greater Death Mark,Великая метка смерти
 Greater Healing,Великое исцеление
 Greatly increase your endurance recovery rate. Gain might when evading attacks.,Значительно увеличивает скорость восстановления вашей выносливости. Дарует мощь при уклонении от атак.
 Greatsword Damage,Урон двуручного меча
-Greatsword Slice,Greatsword Slice
-Greatsword Swing,Greatsword Swing
+Greatsword Slice,Рассечение двуручным мечом
+Greatsword Swing,Удар двуручным мечом
 "Gree creates a fan of 5 cascades, starting at the edges of a 180-degree arc and moving toward the center. Rippling thorn barriers travel along these lines, damaging and knocking back anything struck by them. When the barriers reach the end of their track, they create a circular rot cage of barriers surrounding a zone of noxious blight. Players caught in the rot cage gain a stack of Plague Rot.","Gree создает веер из 5 каскадов, начиная с краев 180-градусной дуги и двигаясь к центру. Барьеры из колючих волн движутся вдоль этих линий, нанося урон и отбрасывая всех, кого заденут. Когда барьеры достигают конца пути, они создают круговую клетку гнили, окружающую зону вредоносного поражения. Игроки, попавшие в клетку гнили, получают заряд Plague Rot."
 "Gree creates a fan of 5 cascades, starting at the edges of a 180-degree arc and moving towards the center. Rippling thorn barriers travel along these lines, damaging and knocking back anything struck by them. When the barriers reach the end of their track, they create a circular rot cage of barriers surrounding a zone of noxious blight.","Gree создает веер из 5 каскадов, начиная с краев 180-градусной дуги и двигаясь к центру. Барьеры из колючих волн движутся вдоль этих линий, нанося урон и отбрасывая всех, кого заденут. Когда барьеры достигают конца пути, они создают круговую клетку гнили, окружающую зону вредоносного поражения."
 "Greer creates a fan of 5 cascades, starting at the edges of a 180-degree arc and moving toward the center. Rippling thorn barriers travel along these arcs, damaging and knocking back anything struck by them. When the barriers reach the end of their track, they create a circular rot cage surrounding a zone of noxious blight. Players caught in the rot cage gain a stack of Plague Rot.","Greer создает веер из 5 каскадов, начиная с краев 180-градусной дуги и двигаясь к центру. Барьеры из колючих волн движутся вдоль этих дуг, нанося урон и отбрасывая всех, кого заденут. Когда барьеры достигают конца пути, они создают круговую клетку гнили, окружающую зону вредоносного поражения. Игроки, попавшие в клетку гнили, получают заряд Plague Rot."
 "Greer creates a fan of 5 cascades, starting at the edges of a 180-degree arc and moving toward the center. Rippling thorn barriers travel along these lines, damaging and knocking back anything struck by them. When the barriers reach the end of their track, they create a circular rot cage of barriers surrounding a zone of noxious blight.","Greer создает веер из 5 каскадов, начиная с краев 180-градусной дуги и двигаясь к центру. Барьеры из колючих волн движутся вдоль этих линий, нанося урон и отбрасывая всех, кого заденут. Когда барьеры достигают конца пути, они создают круговую клетку гнили, окружающую зону вредоносного поражения."
 "Greer encircles himself in a barrier, protecting himself from further harm while his Greerlings attack his foes. Players entering the barrier will be knocked back.","Greer окружает себя барьером, защищаясь от дальнейшего урона, пока его Greerlings атакуют врагов. Игроки, вошедшие в барьер, будут отброшены."
-"Greer exhales lingering clouds of poisonous gas that travel outward to form 3 conical areas. The gas clouds stay in place for several seconds, poisoning foes inside them. If a victim of the gas gains 20 stacks of poison, they will be converted into 1 stack of Plague Rot.","Greer выдыхает затяжные облака ядовитого газа, которые распространяются наружу, образуя 3 конические области. Облака газа остаются на месте в течение нескольких секунд, отравляя врагов внутри. Если жертва газа получает 20 зарядов яда, они преобразуются в 1 заряд Plague Rot."
+"Greer exhales lingering clouds of poisonous gas that travel outward to form 3 conical areas. The gas clouds stay in place for several seconds, poisoning foes inside them. If a victim of the gas gains 20 stacks of poison, they will be converted into 1 stack of Plague Rot.","Greer выдыхает затяжные облака ядовитого газа, которые распространяются наружу, образуя 3 конические области. Облака газа остаются на месте в течение нескольких секунд, отравляя врагов внутри. Если жертва газа получает 20 зарядов отравления, они преобразуются в 1 заряд Plague Rot."
 "Greer exhales lingering clouds of poisonous gas that travel outward to form 3 roughly conical areas. The gas clouds stay in place for several seconds, poisoning foes inside them.","Greer выдыхает затяжные облака ядовитого газа, которые распространяются наружу, образуя 3 конические области. Облака газа остаются на месте в течение нескольких секунд, отравляя врагов внутри."
 "Greer leaps into the air toward a targeted player. When he lands, targets directly under him will be knocked back and gain a stack of Plague Rot. Greer then fires cascades of rot walls that ripple outward, inflicting damage, knockback, and bleeding on anyone hit by them. The final rot wall stays in place, blocking player projectiles that hit it.","Greer прыгает в воздух в сторону выбранного игрока. При приземлении цели прямо под ним будут оттолкнуты и получат заряд Plague Rot. Затем Greer выпускает каскады стен гнили, которые расходятся наружу, нанося урон, отталкивая и вызывая кровотечение у всех, кого заденут. Последняя стена гнили остается на месте, блокируя снаряды игроков."
 "Greer leaps into the air towards a targeted player. When Greer lands, targets directly under him will be knocked back. He then fires cascades of rot walls that ripple outward, inflicting damage, knockback, and bleeding on anyone hit by them. The final rot wall stays in place, blocking player projectiles that hit them.","Greer прыгает в воздух в сторону выбранного игрока. При приземлении Greer цели прямо под ним будут оттолкнуты. Затем он выпускает каскады стен гнили, которые расходятся наружу, нанося урон, отталкивая и вызывая кровотечение у всех, кого заденут. Последняя стена гнили остается на месте, блокируя снаряды игроков."
@@ -498,4 +498,4 @@ Greer rapidly fires spores in a cone in front of him. Players in this cone will 
 "Greer targets 3 players, preferring the farthest away, and then fires a torrent of exploding spores along a line that moves towards the initial position of the target. The spores explode on impact, inflicting damage, poison, and confusion.","Greer выбирает 3 игроков, отдавая предпочтение самым дальним, а затем выпускает поток взрывающихся спор вдоль линии, которая движется к начальной позиции цели. Споры взрываются при попадании, нанося урон, отравление и замешательство."
 "Greer targets up to 3 foes, preferring the most distant combatants. He slams his fist down, creating a damaging sphere that will then fire a blob of blight that follows the targeted enemy for 12 seconds, firing multiple smaller projectiles as it moves. If it hits a targeted foe, it will also create a stationary blob of blight that fires projectiles for several seconds.","Greer выбирает до 3 врагов, отдавая предпочтение самым дальним бойцам. Он ударяет кулаком по земле, создавая поражающую сферу, которая затем выпускает сгусток гнили, преследующий выбранную цель в течение 12 секунд и выпускающий несколько мелких снарядов по мере движения. Если он попадает в выбранную цель, он также создает стационарный сгусток гнили, который выпускает снаряды в течение нескольких секунд."
 "Greer's power has been allowed to build for too long. Time is up, the battle is lost, and all perishes to his decay. Better luck next time.","Сила Greer слишком долго накапливалась. Время вышло, битва проиграна, и всё погибает от его разложения. Повезет в следующий раз."
-Grenade,Grenade
+Grenade,Граната

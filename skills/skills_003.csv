@@ -40,9 +40,9 @@ A melee blowout.,Удар ближнего боя.
 A melee daze.,Ошеломление в ближнем бою.
 A melee stun.,Оглушение в ближнем бою.
 "A mutated Matthias charges and fires a beam shot directly in front of him, dealing massive damage to all targets hit.","Мутировавший Маттиас заряжается и выпускает лучевой выстрел прямо перед собой, нанося огромный урон всем поражённым целям."
-"A number of players closest to Decima are targeted with bolts of Discordant Thunder. If a bolt's area of effect strikes a conduit, it gains some charge.","Несколько игроков, ближайших к Decima, становятся целями для разрядов «Дискордантного грома». Если область действия разряда попадает в проводник, он получает заряд."
+"A number of players closest to Decima are targeted with bolts of Discordant Thunder. If a bolt's area of effect strikes a conduit, it gains some charge.","Несколько игроков, ближайших к Decima, становятся целями для разрядов Discordant Thunder. Если область действия разряда попадает в проводник, он получает заряд."
 "A persistent electrical field that increases in damage over time appears under any player hit by Sparkwave. Upon reaching maximum damage, it also dazes and applies vulnerability.","Постоянное электрическое поле, урон от которого со временем увеличивается, появляется под любым игроком, пораженным Sparkwave. При достижении максимального урона оно также ошеломляет и накладывает уязвимость."
-A pistol attack that inflicts poison.,"Выстрел из пистолета, накладывающий яд."
+A pistol attack that inflicts poison.,"Выстрел из пистолета, накладывающий отравление."
 "A platform bursts into flame, dealing fire damage, stripping boons, and applying cripple and weakness.","Платформа вспыхивает пламенем, нанося урон огнём, снимая благословения и накладывая хромоту и слабость."
 A platform has been violently torn apart.,Платформа была яростно разорвана на части.
 A pool of poison left behind after purging the volatile-poison condition.,"Лужа яда, оставшаяся после очистки состояния volatile-poison."
@@ -78,7 +78,7 @@ A sweeping attack that knocks targets back.,"Широкая атака, отбр
 A sweeping tail strike that inflicts bleeding.,"Широкий удар хвостом, накладывающий кровотечение."
 "A swirling blade comprised of toxic gasses returns to Prototype Arsenite, striking everything in its path for high damage.","Вращающееся лезвие из токсичного газа возвращается к Prototype Arsenite, поражая всё на своем пути и нанося высокий урон."
 "A swirling blade comprised of toxic gasses slowly tracks its target. After a short delay or upon striking the target, the blade reverses course at high speed, striking everything in its path. Drops Boiling Aether at the location from which it reversed course.","Вращающееся лезвие из токсичного газа медленно преследует цель. После небольшой задержки или при попадании в цель лезвие меняет направление на высокой скорости, поражая всё на своем пути. Оставляет Boiling Aether в точке, где оно сменило направление."
-"A swirling vortex applies agony, weakness, and chill.","Вращающийся вихрь, накладывающий агонию, слабость и холод."
+"A swirling vortex applies agony, weakness, and chill.","Вращающийся вихрь, накладывающий агонию, слабость и заморозку."
 A targeted area attack.,Направленная атака по области.
 A teleporting attack.,Телепортирующая атака.
 A terrible cackle reverberates through your soul.,Ужасающий хохот отдается эхом в вашей душе.
@@ -97,22 +97,22 @@ A whirling orb of sleet and ice that deals heavy area-of-effect damage if not ab
 A whirling orb of sleet and ice that deals heavy area-of-effect damage if not absorbed upon landing. Cannot be mitigated.,"Вращающаяся сфера из мокрого снега и льда, наносящая тяжёлый урон по области, если её не поглотить при приземлении. Нельзя смягчить."
 A zone of bone-chilling cold. Rapidly deals heavy damage.,Зона леденящего холода. Быстро наносит тяжёлый урон.
 A.E.D.,A.E.D.
-Aberrant Will,Aberrant Will
+Aberrant Will,Искажённая воля
 Above 50%,Выше 50%
 Absolute Resolution Radius,Радиус абсолютной решимости
-Absolute Zero,Absolute Zero
-Abstraction,Abstraction
-Abyss Rift,Abyss Rift
-Abyssal Blitz,Abyssal Blitz
-Abyssal Blot,Abyssal Blot
-Abyssal Fire,Abyssal Fire
-Abyssal Force,Abyssal Force
-Abyssal Raze,Abyssal Raze
+Absolute Zero,Абсолютный ноль
+Abstraction,Абстракция
+Abyss Rift,Разлом Бездны
+Abyssal Blitz,Натиск Бездны
+Abyssal Blot,Пятно Бездны
+Abyssal Fire,Огонь Бездны
+Abyssal Force,Сила Бездны
+Abyssal Raze,Опустошение Бездны
 Abyssal Raze Cooldown Reduction,Снижение перезарядки Бездонного разрушения
-Abyssal Strike,Abyssal Strike
-Acerbic Cut,Acerbic Cut
-Acid Bomb,Acid Bomb
-Acid Spray,Acid Spray
+Abyssal Strike,Удар Бездны
+Acerbic Cut,Едкий разрез
+Acid Bomb,Кислотная бомба
+Acid Spray,Кислотные брызги
 "Activate a fire shield that burns enemies who strike you, granting might for each burn applied.","Активируйте огненный щит, который сжигает врагов, атакующих вас, и даёт мощь за каждое наложенное горение."
 "Activate your Photon Forge, gaining access to new skills. Generate heat while Photon Forge is active. Take damage if you overheat. Disables use of kits for a short duration.","Активируйте Photon Forge, получив доступ к новым навыкам. Генерируйте тепло, пока активна Photon Forge. Получайте урон при перегреве. Отключает использование наборов на короткое время."
 "Activate your slick shoes, enabling you to move at superior speeds.","Активируйте свои скользкие ботинки, позволяющие вам передвигаться с превосходной скоростью."
@@ -150,52 +150,52 @@ Additional Time per Note,Дополнительное время за ноту
 Additional-Hit Healing,Исцеление от дополнительных ударов
 Additional-Hit Life Force,Жизненная сила от дополнительного удара
 Additional-Hit Recharge Reduction,Сокращение перезарядки от дополнительных ударов
-Addle,Addle
+Addle,Одурманивание
 Adina channels deadly earth beams and scatters them around the arena.,Adina направляет смертоносные лучи земли и рассеивает их по арене.
 "Adina conjures stalagmites that cannot be evaded or blocked. They will detonate if anyone gets close, inflicting heavy damage and destroying the underlying pillar.","Adina призывает сталагмиты, от которых нельзя уклониться или заблокировать. Они детонируют, если кто-то подойдёт близко, нанося тяжёлый урон и разрушая колонну под ними."
 Adina hurls forth a damaging cascade of stone and applies might to herself.,Adina обрушивает разрушительный каскад камней и накладывает на себя мощь.
-Adina raises a pillar that kills nearby foes and sends out a shock wave that cripples and immobilizes those who don't jump over it.,"Adina поднимает колонну, которая убивает ближайших врагов и испускает ударную волну, накладывающую увечье и обездвиживание на тех, кто не перепрыгнул через неё."
+Adina raises a pillar that kills nearby foes and sends out a shock wave that cripples and immobilizes those who don't jump over it.,"Adina поднимает колонну, которая убивает ближайших врагов и испускает ударную волну, накладывающую увечье и неподвижность на тех, кто не перепрыгнул через неё."
 Adina sends out a shock wave that transforms the arena into a new shape.,"Adina испускает ударную волну, которая меняет форму арены."
 Adina sets off a terrain cascade that pulls anyone caught in it and destroys the furthest pillar along the cascade.,"Adina запускает каскад местности, который притягивает всех попавших в него и разрушает самую дальнюю колонну вдоль каскада."
 "Adina shoots rocks that explode upon impact, causing shrapnel pieces to blind those they hit and to deal high damage.","Adina стреляет камнями, которые взрываются при ударе, вызывая осколки, ослепляющие тех, кого они задевают, и наносящие высокий урон."
-"Adina turns her skin into diamond, reflecting projectiles and applying boons to herself. After two seconds, her skin will cast Radiant Blindness to those who are not facing away.","Adina превращает свою кожу в алмаз, отражая снаряды и накладывая на себя благословения. Через две секунды её кожа наложит «Сияющее слепоту» на тех, кто не отвернулся."
+"Adina turns her skin into diamond, reflecting projectiles and applying boons to herself. After two seconds, her skin will cast Radiant Blindness to those who are not facing away.","Adina превращает свою кожу в алмаз, отражая снаряды и накладывая на себя благословения. Через две секунды её кожа наложит Radiant Blindness на тех, кто не отвернулся."
 Adina's defiance bar must be broken or she will kill all her foes. She can only be broken from the rotating blue region.,"Шкалу стойкости Adina необходимо сломать, иначе она убьёт всех своих врагов. Её можно сломать только из вращающейся синей области."
 Adrenaline,Адреналин
 Adrenaline If Not Attacked,"Адреналин, если не атакован"
 Adrenaline Interval,Интервал адреналина
-Adrenaline Rush,Adrenaline Rush
+Adrenaline Rush,Прилив адреналина
 Adrenaline per Boon Removed,Адреналин за снятое благо
 Adrenaline per Enemy Struck,Адреналин за пораженного врага
 Adrenaline to Flow Conversion Rate,Коэффициент преобразования адреналина в поток
-Advancing Strike,Advancing Strike
-Aegis,Aegis
+Advancing Strike,Наступательный удар
+Aegis,Эгида
 Aegis Refresh,Обновление Эгиды
-Aerial Agility,Aerial Agility
-Aerial Support,Aerial Support
+Aerial Agility,Воздушная ловкость
+Aerial Support,Воздушная поддержка
 "After a delay, deliver a circular attack to foes around you. Increases flow rate if it hits.",После небольшой задержки нанесите круговой удар по врагам вокруг вас. При попадании увеличивает скорость потока.
 "After a short channel, unleash a blast of compressed magic that stuns enemies. Nearby allies and your tethered ally gain stability. Heal your tethered ally based on each enemy you hit.","После короткого канала высвободите взрыв сжатой магии, оглушающий врагов. Близлежащие союзники и ваш связанный союзник получают устойчивость. Исцелите связанного союзника в зависимости от количества пораженных врагов."
 "After a short delay, release a torrent of flame. Allies are granted might, while damage and burning is increased based on might on you.","После короткой задержки выпустите поток пламени. Союзники получают мощь, а урон и горение увеличиваются в зависимости от вашего мощи."
-"After using a Lava Axe ability, your next Lava Axe attack fires twice.",После использования способности Лавового топора ваша следующая атака Лавовым топором срабатывает дважды.
-Afterburner,Afterburner
+"After using a Lava Axe ability, your next Lava Axe attack fires twice.",После использования способности Лавового топора ваша следующая атака Lava Axe срабатывает дважды.
+Afterburner,Форсаж
 Aftershock Damage,Урон от афтершока
 Aftershock Radius,Радиус афтершока
-Agonizing Rune,Agonizing Rune
-Agonizing Swipe,Agonizing Swipe
-Agony,Agony
-Aid of the Water Djinn,Aid of the Water Djinn
-Aim-Assisted Rocket,Aim-Assisted Rocket
-Air Attunement,Air Attunement
-Air Blast,Air Blast
-Air Bubble,Air Bubble
-Air Pocket,Air Pocket
-Air Sphere,Air Sphere
-Alacrity,Alacrity
+Agonizing Rune,Мучительная руна
+Agonizing Swipe,Мучительный взмах
+Agony,Агония
+Aid of the Water Djinn,Помощь Водяного джинна
+Aim-Assisted Rocket,Ракета с наведением
+Air Attunement,Воздушная настройка
+Air Blast,Воздушный взрыв
+Air Bubble,Воздушный пузырь
+Air Pocket,Воздушный карман
+Air Sphere,Сфера воздуха
+Alacrity,Алакрити
 All elements are now tightly woven together.,Все элементы теперь тесно переплетены.
 "All icicles fire at the same target in an inward-facing circular sequence that tracks the target. As health drops, more projectiles are fired.","Все сосульки летят в одну цель по круговой траектории, направленной внутрь, которая отслеживает цель. По мере снижения здоровья выпускается больше снарядов."
 All incoming attacks heal you.,Все входящие атаки исцеляют вас.
 All outgoing attacks are rendered useless.,Все исходящие атаки становятся бесполезными.
-All spear skills are illuminated while standing within the Symbol of Luminance.,"Все навыки копья подсвечиваются, пока вы стоите внутри Символа светимости."
-Alliance Tactics,Alliance Tactics
+All spear skills are illuminated while standing within the Symbol of Luminance.,"Все навыки копья подсвечиваются, пока вы стоите внутри Symbol of Luminance."
+Alliance Tactics,Тактика Альянса
 Allied Heal per Pulse,Исцеление союзников за импульс
 Allied Healing,Исцеление союзников
 Allied Target Radius,Радиус цели для союзников
@@ -207,15 +207,15 @@ Ally Boon Radius,Радиус блага для союзников
 Ally Duration,Длительность для союзника
 Ally Healing,Исцеление союзника
 Ally Stacks,Стаки союзника
-Ally Ward,Ally Ward
+Ally Ward,Союзный оберег
 Ally-Healing,Исцеление союзника
-Ambush,Ambush
-Ambush Assault,Ambush Assault
+Ambush,Засада
+Ambush Assault,Засадная атака
 Ammo Reloaded,Боезапас перезаряжен
 Ammo Restored,Боезапас восстановлен
 Ammunition Recovered,Боезапас восполнен
 Ammunition Used,Боезапас использован
-Amplifying Slice,Amplifying Slice
+Amplifying Slice,Усиливающий разрез
 An area blowout.,Взрыв по площади.
 An area daze.,Ошеломление по площади.
 An area melee attack.,Атака ближнего боя по площади.
@@ -239,76 +239,76 @@ An unblockable slam that dazes foes and inflicts additional stacks of bleeding t
 "An unleashed wave of energy that damages, stuns, and applies Unseen Burden.","Высвобожденная волна энергии, которая наносит урон, оглушает и накладывает Невидимое бремя."
 "Analyze a disabled foe, applying vulnerability.","Проанализируйте выведенного из строя врага, наложив уязвимость."
 "Analyze a stealthed foe, applying vulnerability.","Проанализируйте скрытого врага, наложив уязвимость."
-Ancestral Grace,Ancestral Grace
-Anchor,Anchor
+Ancestral Grace,Милость предков
+Anchor,Якорь
 "Anchor a rock to your foe, making them sink.","Прикрепите камень к врагу, заставляя его тонуть."
-Ancient Echo,Ancient Echo
-Anguish Swipe,Anguish Swipe
-Anguished Bolt,Anguished Bolt
-Anguished Wail,Anguished Wail
+Ancient Echo,Древнее эхо
+Anguish Swipe,Удар мучения
+Anguished Bolt,Болт мучения
+Anguished Wail,Вопль мучения
 "Ankka pulls targets into Void-touched ground, dealing heavy damage over time.","Ankka притягивает цели в область, затронутую Бездной, нанося значительный периодический урон."
-Annihilate,Annihilate
-Antivenom Draught,Antivenom Draught
-Antivenom Draught: Backfired,Antivenom Draught: Backfired
+Annihilate,Аннигиляция
+Antivenom Draught,Противоядие
+Antivenom Draught: Backfired,Противоядие: Обратный эффект
 Anyone standing amongst the thorns of the rose bouquet feels their sting!,"Любой, кто стоит среди шипов букета роз, почувствует их укол!"
-Apocalypse Rain,Apocalypse Rain
+Apocalypse Rain,Апокалиптический дождь
 Applies additional stacks of bleeding to foes at closer range.,Накладывает дополнительные стаки кровотечения на врагов на ближней дистанции.
 Applies bleeding and Vampiric Infection to foes.,Накладывает кровотечение и Vampiric Infection на врагов.
 Applies bleeding to foes who are vulnerable.,Накладывает кровотечение на уязвимых врагов.
 Applies conditions and reduces outgoing damage by 10%.,Накладывает состояния и снижает исходящий урон на 10%.
-"Applies poison and Sulfuric Acid, and grants protection and might to Ura.","Накладывает яд и Серную кислоту, а также даёт протекцию и мощь Ura."
+"Applies poison and Sulfuric Acid, and grants protection and might to Ura.","Накладывает отравление и Серную кислоту, а также даёт протекцию и мощь Ura."
 Applies vulnerability.,Накладывает уязвимость.
 Apply Buff/Condition,Наложить бафф/состояние
 Apply confusion to nearby foes. You gain resolution.,Наложите замешательство на ближайших врагов. Вы получаете решимость.
 "Apply protection to you and your allies, then increase the duration of all boons currently existing on you and your allies. Gain magnetic aura.","Наложите протекцию на себя и союзников, затем увеличьте длительность всех действующих на вас и ваших союзников благословений. Получите магнитную ауру."
 Apply protection to yourself.,Наложите протекцию на себя.
 Approaching Doom,Приближающаяся гибель
-Aqua Jet,Aqua Jet
-Aqua Siphon,Aqua Siphon
-Aqua Surge,Aqua Surge
-Aquatic Assassin,Aquatic Assassin
-Aquatic Aura,Aquatic Aura
-Aquatic Barrage,Aquatic Barrage
-Aquatic Burst,Aquatic Burst
-Aquatic Detainment,Aquatic Detainment
-Aquatic Domain,Aquatic Domain
-Aquatic Slash,Aquatic Slash
-Aquatic Stance,Aquatic Stance
-Aquatic Vortex,Aquatic Vortex
+Aqua Jet,Водная струя
+Aqua Siphon,Водный сифон
+Aqua Surge,Водный всплеск
+Aquatic Assassin,Водный убийца
+Aquatic Aura,Водная аура
+Aquatic Barrage,Водный заградительный огонь
+Aquatic Burst,Водный взрыв
+Aquatic Detainment,Водное удержание
+Aquatic Domain,Водная область
+Aquatic Slash,Водный удар
+Aquatic Stance,Водная стойка
+Aquatic Vortex,Водный вихрь
 Aquatic magic ripples through the foe's body and inflicts damage.,"Водная магия проходит сквозь тело врага, нанося урон."
-Arc Detonator,Arc Detonator
-Arc Divider,Arc Divider
-Arc Lightning,Arc Lightning
+Arc Detonator,Дуговой детонатор
+Arc Divider,Дуговой рассекатель
+Arc Lightning,Дуговая молния
 "Arc your hammer, creating a ring of jagged rock to damage your enemies.","Взмахните молотом, создавая кольцо из острых камней, чтобы нанести урон врагам."
-Arcane Blast,Arcane Blast
-Arcane Brilliance,Arcane Brilliance
-Arcane Echo,Arcane Echo
-Arcane Shield,Arcane Shield
-Arcane Thievery,Arcane Thievery
-Arcane Wave,Arcane Wave
+Arcane Blast,Магический взрыв
+Arcane Brilliance,Магическое сияние
+Arcane Echo,Магическое эхо
+Arcane Shield,Магический щит
+Arcane Thievery,Магическое воровство
+Arcane Wave,Магическая волна
 Arcane. Blast foes in the target area with an energy wave for critical damage.,"Магия. Поразите врагов в целевой области волной энергии, нанося критический урон."
-Arcing Affliction,Arcing Affliction
-Arcing Arrow,Arcing Arrow
-Arcing Jade,Arcing Jade
-Arcing Mists,Arcing Mists
-Arcing Slice,Arcing Slice
+Arcing Affliction,Дуговое поражение
+Arcing Arrow,Дуговая стрела
+Arcing Jade,Дуговой нефрит
+Arcing Mists,Дуговой туман
+Arcing Slice,Дуговой разрез
 Arcing damage from a nearby ally.,Дуговой урон от ближайшего союзника.
 Area Heal,Исцеление области
 Area Pulse Heal,Импульсное исцеление области
 Arming Time,Время взведения
-Armor of Earth,Armor of Earth
+Armor of Earth,Доспех земли
 Arrow Cost,Стоимость стрел
 Arrows Restored,Стрелы восстановлены
-Artillery Barrage,Artillery Barrage
-Artillery Slash,Artillery Slash
+Artillery Barrage,Артиллерийский обстрел
+Artillery Slash,Артиллерийский удар
 "Artillery shells hail down from the Breachmaker, obliterating everything around Lion's Court.","Артиллерийские снаряды обрушиваются с Breachmaker, уничтожая всё вокруг Lion's Court."
 "As Decima gains Charge, her fluxlance attacks deal extra damage.","Когда Decima получает Заряд, её атаки потоковым копьём наносят дополнительный урон."
 "As it turns out, the searing-hot flames left in the wake of rolling fire boulders cause quite the burning sensation.","Как оказалось, обжигающее пламя, остающееся после катящихся огненных валунов, вызывает сильное жжение."
 "As you become more waterlogged, you become more susceptible to the largos' water magic. If you become fully waterlogged at maximum stacks, you will be assassinated.","По мере накопления воды вы становитесь более уязвимы к магии воды ларгосов. Если вы полностью пропитаетесь водой при максимальном количестве эффектов, вас убьют."
 "Ash Legion assassins strike from the shadows, backstabbing their targets.","Ассасины Ash Legion наносят удары из теней, атакуя цели в спину."
-Ashen Assault,Ashen Assault
-Ashen Blast,Ashen Blast
-Assassin's Signet,Assassin's Signet
+Ashen Assault,Пепельный штурм
+Ashen Blast,Пепельный взрыв
+Assassin's Signet,Печать ассасина
 Assaults enemies with a blast of foul breath.,Атакует врагов залпом зловонного дыхания.
 "Assume a defensive stance, blocking incoming attacks.","Примите оборонительную стойку, блокируя входящие атаки."
 "Assume a mobile, vaporous form, returning to a downed state when the effect ends.","Примите подвижную, парообразную форму, возвращаясь в состояние нокаута, когда эффект заканчивается."
@@ -318,8 +318,8 @@ Assaults enemies with a blast of foul breath.,Атакует врагов зал
 Assumed the form of a massive juggernaut.,Принята форма массивного джаггернаута.
 Assumed the form of a moving plague.,Принята форма движущейся чумы.
 Assumed the form of a powerful lich.,Принята форма могущественного лича.
-Astral Surge,Astral Surge
-Astral Wisp,Astral Wisp
+Astral Surge,Астральный всплеск
+Astral Wisp,Астральный огонёк
 Attack Interval,Интервал атаки
 Attack Radius,Радиус атаки
 Attack Range,Дальность атаки
@@ -330,7 +330,7 @@ Attack enemies with a second vicious attack.,Напасть на противн�
 Attack foes in front of you with a series of strikes.,Атаковать противников прямо перед собой серией ударов.
 "Attack foes in the target area, inflicting them with conditions. Gain stacks of Crushing Abyss for each target struck, up to the maximum.","Атакуйте врагов в целевой области, накладывая на них состояния. Получайте уровни эффекта «Crushing Abyss» за каждую поражённую цель, до максимума."
 Attack nearby foes.,Атакуйте ближайших врагов.
-Attack of Opportunity,Attack of Opportunity
+Attack of Opportunity,Атака по возможности
 Attack while reflecting projectiles.,"Атаковать, одновременно отражая снаряды."
 "Attack with a final, powerful strike that applies might for each foe you strike.","Атакуйте финальным мощным ударом, который накладывает мощь за каждого пораженного врага."
 Attack with a pecking frenzy and make your foe vulnerable.,Заклевать противника в безумной атаке и оставить его уязвимым.
@@ -345,53 +345,53 @@ Attribute Increase,Увеличение атрибутов
 "Attune to earth, gaining superior damage-over-time and defensive abilities.","Настройтесь на землю, получая превосходные способности периодического урона и защиты."
 "Attune to fire, gaining heavy damage and burning abilities.","Настройтесь на огонь, получая способности к высокому урону и горению."
 "Attune to water, gaining superior support and healing abilities.","Настройтесь на воду, получая превосходные способности поддержки и исцеления."
-Attuning Stance,Attuning Stance
-Aura Slicer,Aura Slicer
-Aurora Beam,Aurora Beam
-Automatic Fire,Automatic Fire
-Avalanche,Avalanche
-Avatar of Lyssa,Avatar of Lyssa
-Avatar of Melandru,Avatar of Melandru
-Awakened Soldier Swing,Awakened Soldier Swing
-Axes of Symmetry,Axes of Symmetry
+Attuning Stance,Настраивающая стойка
+Aura Slicer,Рассекатель ауры
+Aurora Beam,Луч Авроры
+Automatic Fire,Автоматический огонь
+Avalanche,Лавина
+Avatar of Lyssa,Аватар Lyssa
+Avatar of Melandru,Аватар Меландру
+Awakened Soldier Swing,Взмах пробуждённого солдата
+Axes of Symmetry,Топоры симметрии
 Back Damage,Урон в спину
-Backbreaker,Backbreaker
+Backbreaker,Сломанный хребет
 "Backfire. The bomb explodes in your hands, damaging you and damaging and knocking down enemies around you.","Обратный эффект. Бомба взрывается у вас в руках, нанося урон вам, а также нанося урон и сбивая с ног врагов вокруг вас."
-Backhand,Backhand
-Backstab,Backstab
+Backhand,Удар тыльной стороной ладони
+Backstab,Удар в спину
 Backstab Bonus,Бонус удара в спину
-Balanced Stance,Balanced Stance
-Balanced Strike,Balanced Strike
+Balanced Stance,Сбалансированная стойка
+Balanced Strike,Сбалансированный удар
 Balthazar uses his flaming sword to smite you.,"Balthazar использует свой пылающий меч, чтобы покарать вас."
-Balthazar's Flame,Balthazar's Flame
+Balthazar's Flame,Пламя Balthazar
 "Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced it also grants resistance to nearby allies.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также даёт сопротивляемость ближайшим союзникам.
 "Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced it also inflicts chilled on enemies that it strikes.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также накладывает заморозку на пораженных врагов.
 "Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced it also inflicts torment on enemies that it strikes.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также накладывает боль на пораженных врагов.
 "Band Together. After using this skill, your next Legendary Renegade skill activates instantly and is enhanced. When this skill is enhanced, it also grants barrier to nearby allies.",Сплочение. После использования этого навыка ваш следующий навык легендарного ренегата активируется мгновенно и усиливается. При усилении этот навык также накладывает барьер на ближайших союзников.
-Bandage,Bandage
-Bandage Blast,Bandage Blast
-Bandage Self,Bandage Self
+Bandage,Бинт
+Bandage Blast,Взрыв перевязки
+Bandage Self,Самоперевязка
 Bandage your wounds and heal yourself.,"Перевязать свои раны, исцелив себя."
 Bandages,Бинты
-Bandit's Defense,Bandit's Defense
-Bane Signet,Bane Signet
-Banish,Banish
-Banish Enchantment,Banish Enchantment
-Banished,Banished
-Banner of Defense,Banner of Defense
-Banner of Discipline,Banner of Discipline
-Banner of Strength,Banner of Strength
-Banner of Tactics,Banner of Tactics
-Barbed Pull,Barbed Pull
-Barbed Spear,Barbed Spear
-Barrage,Barrage
+Bandit's Defense,Защита бандита
+Bane Signet,Печать погибели
+Banish,Изгнание
+Banish Enchantment,Изгнание чар
+Banished,Изгнан
+Banner of Defense,Знамя защиты
+Banner of Discipline,Знамя дисциплины
+Banner of Strength,Знамя силы
+Banner of Tactics,Знамя тактики
+Barbed Pull,Колючий рывок
+Barbed Spear,Колючее копьё
+Barrage,Заградительный огонь
 Barrage the target area with a hail of arrows that cripple.,"Обстрелять выбранную область градом стрел, которые делают противников хромыми."
 Barrier,Барьер
-Barrier Burst,Barrier Burst
+Barrier Burst,Взрыв барьера
 Barrier Increase per Affinity,Увеличение барьера за сродство
 Barrier Increase per Interval,Увеличение барьера за интервал
 Barrier Radius,Радиус барьера
-Barrier Signet,Barrier Signet
+Barrier Signet,Печать барьера
 Barrier on Detonation,Барьер при детонации
 Barrier on hit,Барьер при попадании
 Barrier per Boon,Барьер за каждое благо
@@ -405,80 +405,80 @@ Base Healing,Базовое исцеление
 Base Health Damage,Базовый урон здоровью
 Base Movement Speed,Базовая скорость передвижения
 Base Pull,Базовое притягивание
-Bash,Bash
+Bash,Удар
 Bash your foe with your staff.,Сильно ударить посохом по противнику.
 Bashes the target.,Прыгнуть и отбросить назад противников поблизости.
 Basic attack with claws of living shadow.,Базовая атака когтями живой тени.
-Basilisk Venom,Basilisk Venom
-Battering Slash,Battering Slash
-Battle Dance,Battle Dance
-Battle Maul,Battle Maul
+Basilisk Venom,Яд василиска
+Battering Slash,Сокрушающий удар
+Battle Dance,Боевой танец
+Battle Maul,Боевой молот
 Battle Presence Radius,Радиус боевого присутствия
-Battle Roar,Battle Roar
-Battle Standard,Battle Standard
-Bayonet Thrust,Bayonet Thrust
-Beaming Smile,Beaming Smile
-Bear Stance,Bear Stance
+Battle Roar,Боевой рык
+Battle Standard,Боевой штандарт
+Bayonet Thrust,Удар штыком
+Beaming Smile,Сияющая улыбка
+Bear Stance,Стойка медведя
 Beast. Gain regeneration.,Зверь. Получает регенерацию.
-Beastmode,Beastmode
-"Become a Reaper of Grenth, chilling and poisoning nearby foes.","Станьте Жнецом Грента, накладывая на врагов холод и отравление."
+Beastmode,Режим зверя
+"Become a Reaper of Grenth, chilling and poisoning nearby foes.","Станьте Reaper of Grenth, накладывая на врагов заморозку и отравление."
 "Become a wisp of natural energy, traversing to the targeted location. When you reach the target, heal nearby allies and grant protection to your pet. Recharge is reduced if you heal another ally.","Станьте сгустком природной энергии, перемещаясь к выбранной цели. По прибытии исцелите ближайших союзников и дайте протекцию своему питомцу. Время перезарядки сокращается, если вы исцеляете другого союзника."
 Become surrounded in a magnetic shield that reflects projectiles.,Отразить снаряды при помощи магнитной энергии.
-Become the Bear,Become the Bear
-Become the Raven,Become the Raven
-Become the Snow Leopard,Become the Snow Leopard
-Become the Wolf,Become the Wolf
-Bee's Sting,Bee's Sting
-Beguiling Haze,Beguiling Haze
-Belch,Belch
+Become the Bear,Станьте Медведем
+Become the Raven,Станьте Вороном
+Become the Snow Leopard,Станьте Снежным барсом
+Become the Wolf,Станьте Волком
+Bee's Sting,Жало пчелы
+Beguiling Haze,Обманчивая дымка
+Belch,Отрыжка
 Below 25%,Ниже 25%
 Below 50%,Ниже 50%
 "Berg leaps forward with his hammer, dealing damage upon contact.","Berg прыгает вперёд со своим молотом, нанося урон при контакте."
 "Berg swings his hammer in a massive overhead smash, dealing a large amount of damage to all targets on impact.","Berg размахивает молотом в мощном ударе сверху, нанося огромный урон всем целям при попадании."
 "Berg swings his hammer, bashing his target.","Berg размахивает молотом, ударяя свою цель."
 "Berg swings his hammer, damaging foes.","Berg размахивает молотом, нанося урон врагам."
-Berserk,Berserk
+Berserk,Берсерк
 Berserk Duration Increase,Увеличение длительности Берсерка
-Berserker Stance,Berserker Stance
-Berserker's Power,Berserker's Power
-Berserker's Stance,Berserker's Stance
-Beseech Dwayna to restore health and grant regeneration to allies at target location.,"Воззвать к Двайне, чтобы восстановить здоровье и даровать регенерацию союзникам в указанной области."
-Beseech Dwayna to restore your health.,"Воззвать к Двайне, чтобы восстановить здоровье."
+Berserker Stance,Стойка берсерка
+Berserker's Power,Сила берсерка
+Berserker's Stance,Стойка берсерка
+Beseech Dwayna to restore health and grant regeneration to allies at target location.,"Воззвать к Dwayna, чтобы восстановить здоровье и даровать регенерацию союзникам в указанной области."
+Beseech Dwayna to restore your health.,"Воззвать к Dwayna, чтобы восстановить здоровье."
 Beseech Kormir to remove 3 conditions from you.,"Воззвать к Кормиру, чтобы снять с вас 3 состояния."
-Beseech Kormir to remove one condition from your allies at the target location.,Умолить Кормир снять одно состояние с ваших союзников в указанном месте.
-Big Hit,Big Hit
-Big Ol' Bomb,Big Ol' Bomb
-Big Shot,Big Shot
-Binding Blade,Binding Blade
-Binding Roots,Binding Roots
-Binding Shadow,Binding Shadow
+Beseech Kormir to remove one condition from your allies at the target location.,Умолить Kormir снять одно состояние с ваших союзников в указанном месте.
+Big Hit,Сильный удар
+Big Ol' Bomb,Большая бомба
+Big Shot,Мощный выстрел
+Binding Blade,Связывающий клинок
+Binding Roots,Связывающие корни
+Binding Shadow,Связывающая тень
 Birds of prey periodically assault players. Dodging transfers the birds to nearby enemies for 4 seconds.,Хищные птицы периодически атакуют игроков. Уклонение переносит птиц на ближайших врагов на 4 секунды.
-Bite,Bite
+Bite,Укус
 Bite a foe and gain health.,Укусить противника и получить здоровье.
 Bite your foe for severe damage.,Укусить противника и нанести ему серьёзный урон.
 Bite your foe to recover health.,"Укусить противника, чтобы восстановить свое здоровье."
 Bite your foe.,Укусите врага.
-Biting Aura,Biting Aura
-Biting Swarm,Biting Swarm
-Blade Burst,Blade Burst
+Biting Aura,Кусачая аура
+Biting Swarm,Кусачий рой
+Blade Burst,Взрыв клинков
 Blade Damage,Урон клинка
-Blade Leap,Blade Leap
-Blade Renewal,Blade Renewal
-Blade Thrust,Blade Thrust
-Bladecall,Bladecall
+Blade Leap,Прыжок клинка
+Blade Renewal,Обновление клинка
+Blade Thrust,Удар клинком
+Bladecall,Зов клинков
 Blades Created,Созданные клинки
 Blades Launched,Запущенные клинки
-Bladesong Dissonance,Bladesong Dissonance
-Bladesong Distortion,Bladesong Distortion
-Bladesong Harmony,Bladesong Harmony
-Bladesong Sorrow,Bladesong Sorrow
+Bladesong Dissonance,Диссонанс клинков
+Bladesong Distortion,Искажение клинков
+Bladesong Harmony,Гармония клинков
+Bladesong Sorrow,Скорбь клинков
 Bladestorm,Вихрь клинков
 Bladestorm Damage,Урон вихря клинков
-Bladetrail,Bladetrail
-Bladeturn Requiem,Bladeturn Requiem
+Bladetrail,След клинка
+Bladeturn Requiem,Реквием поворота клинка
 Blast Damage,Взрывной урон
 Blast Delay,Задержка взрыва
-Blast Gyro,Blast Gyro
+Blast Gyro,Взрывной гироскоп
 Blast Radius,Радиус взрыва
 Blast a foe with a plague that transfers one condition to them.,"Ударить противника чумой, которая переносит на него одно состояние."
 "Blast demonic energy in front of you, inflicting conditions on enemies it hits.","Выпустите демоническую энергию перед собой, накладывая состояния на пораженных врагов."
@@ -494,8 +494,8 @@ Blasts an area around each target with chaotic energy. Does increased damage to 
 Blasts foes.,Поражает врагов взрывами.
 Blasts nearby foes.,Поражает ближайших врагов взрывами.
 "Blasts the platform with solar energy, damaging enemies in the area.","Поражает платформу солнечной энергией, нанося урон врагам в области."
-Blaze,Blaze
-Blaze Breaker,Blaze Breaker
-Blazing Barrage,Blazing Barrage
-Blazing Edge,Blazing Edge
+Blaze,Пламя
+Blaze Breaker,Разрушитель пламени
+Blazing Barrage,Огненный залп
+Blazing Edge,Огненный край
 Bleed and weaken nearby foes.,Вызывает кровотечение и ослабляет ближайших врагов.

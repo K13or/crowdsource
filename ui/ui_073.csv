@@ -133,14 +133,12 @@ Golems can't replace this cat.,Големы не заменят этого ко�
 "Goliath Grouper[pl:""Groupers""]",[Групер-голиаф|Групперы-голиафы|Групперов-голиафов]
 Golnik the Wicked,Гольник Злобный
 "Golsah, the Rune[s] of Honor","Голса, рун[а|ы|] чести"
-Gon Rageshot,Gon Rageshot
+Gon Rageshot,Гон Яростный Стрелок
 Gon Rageshot appreciates your help.,Gon Rageshot ценит вашу помощь.
 Gone but not forgotten.,"Ушёл, но не забыт."
 Gong Blast,Взрыв гонга
 Good Deed: %str1%,Доброе дело: %str1%
 Good Defense,Хорошая защита
-"Good job! If the dredge weren't worried about us before, you've certainly given them reason to now.I owe you one.— Gon Rageshot","Отлично! Если дреджи раньше о нас не беспокоились, теперь вы точно дали им повод. Я у вас в долгу. — Gon Rageshot"
-"Good job! See how the remains of the shadow creature are sparkling? That means there is an item for you to <c=@Quest>loot</c>. Even if another adventurer helps you to kill a monster, it won't impact the amount of loot you receive.Move close to the monster's remains and use <c=@Quest>F</c> to loot.","Отлично! Видите, как искрятся останки теневого существа? Это значит, что для вас есть предмет, который можно <c=@Quest>собрать</c>. Даже если другой искатель приключений поможет вам убить монстра, это не повлияет на количество получаемой добычи. Подойдите к останкам монстра и используйте <c=@Quest>F</c>, чтобы собрать добычу."
 "Good job! You should know that Guild Wars 2 has <c=@Quest>personalized loot</c> for each monster. If someone helps you kill a monster, you each get your own loot and don't need to compete for items.","Отлично! Знайте, что в Guild Wars 2 у каждого монстра есть <c=@Quest>личная добыча</c>. Если кто-то помогает вам убить монстра, каждый получает свою добычу, и вам не нужно соревноваться за предметы."
 Good job! You've discovered a secret of the jotun.,Отлично! Вы раскрыли секрет ётунов.
 Good to Go,Готов к отправке
@@ -152,7 +150,7 @@ Goop-Covered Satchel[s],"[Сумка|Сумки|Сумок], покрытая с
 Goopy Electrum,Липкий электрум
 Gorrik (Return To Season 4),Горрик (Возвращение к 4 сезону)
 Gorrik / Ramses,Горрик / Рамзес
-Gorrik could have picked this one up himself.,Горрик мог бы подобрать это сам.
+Gorrik could have picked this one up himself.,Gorrik мог бы подобрать это сам.
 Gorrik's Prison Journal,Тюремный дневник Горрика
 Gorrik's Research Journal,Исследовательский дневник Горрика
 Gorseval beckons for souls.,Горсеваль призывает души.
@@ -218,7 +216,7 @@ Gradient Glasses (Down) Skin[s],[Облик|Облика|Обликов] очк�
 Gradient Glasses (Up) Skin[s],[Облик|Облика|Обликов] очков с градиентом (вверх)
 Gradient Glasses Package,Набор «Градиентные очки»
 Gradient Glasses Package now available!,Набор «Градиентные очки» теперь доступен!
-Grallis Crushspecter,Grallis Crushspecter
+Grallis Crushspecter,Граллис Крушспектр
 "Grammie West's Best Recipes, Vol. 96","Лучшие рецепты бабушки Вест, том 96"
 Gramophone[s],Граммофон[|а|ов]
 Grand Archivist Vivienne,Великий архивариус Вивьен
@@ -234,7 +232,7 @@ Grand Frost Legion Chest,Великий сундук Легиона Льда
 Grand Icebrood Saga Cache[s],Большой тайник[|а|ов] Icebrood Saga
 Grand Lion Griffon Skin[s],[Облик|Облика|Обликов] Большого льва-грифона
 Grand Lyceum Waypoint,Путевая точка Великого лицея
-Grand Master Kyren,Grand Master Kyren
+Grand Master Kyren,Великий мастер Кайрен
 Grand Piazza has been recaptured!,Grand Piazza отбита!
 Grand Raid Chest,Большой рейдовый сундук
 Grand Strike Chest,Большой ударный сундук
@@ -243,7 +241,7 @@ Grand Weapon Crate[s],Большой ящик[|а|ов] с оружием
 Grandfather Clock[s],Экземпляр[|а|ов] дедушкиных часов
 Grandmaster Armorsmith's Mark[s],[Знак|Знака|Знаков] великого мастера-бронника
 Grandmaster Artificer's Mark[s],[Знак|Знака|Знаков] великого мастера-артефактора
-Grandmaster Craftsman Hobbs,Grandmaster Craftsman Hobbs
+Grandmaster Craftsman Hobbs,Грандмастер-ремесленник Хоббс
 Grandmaster Decorations,Грандмастерские украшения
 Grandmaster Elder Djinn Emine holds this somewhere in the Domain of Vabbi.,Грандмастер Старший джинн Эмине держит это где-то в Domain of Vabbi.
 Grandmaster Huntsman's Mark[s],[Знак|Знака|Знаков] великого мастера-охотника
@@ -319,7 +317,7 @@ Graster Beakerbane leads a warband of diehard scientists. He's set up shop in th
 Grateful armor dealer,Благодарный торговец бронёй
 Grateful merchant,Благодарный торговец
 Grateful weapons dealer,Благодарный торговец оружием
-Grath Clashcrag,Grath Clashcrag
+Grath Clashcrag,Грат Клэшкраг
 Grave Defense Recording[s],[Запись|Записи|Записей] «Защита могилы»
 Grave Defiler Recording[s],[Запись|Записи|Записей] «Осквернитель могилы»
 Grave Dye[s],[Краска|Краски|Красок] «Могила»
@@ -409,7 +407,6 @@ Great job! You unlocked the recipe for a Practice Poultry Dinner. Its recipe wil
 Great job! You unlocked the recipe for Practice Maintenance Oils. Its recipe will now appear in your production pane. Both of your crafted items should be in your inventory. Open your inventory now so you can use your Practice Maintenance Oil.,"Отличная работа! Вы открыли рецепт Тренировочных масел для обслуживания. Его рецепт теперь появится на вашей панели производства. Оба созданных предмета должны быть в вашем инвентаре. Откройте инвентарь сейчас, чтобы использовать ваше Тренировочное масло для обслуживания."
 Great job! You unlocked the recipe for Practice Sharpening Stones. Its recipe will now appear in your production pane. Both of your crafted items should be in your inventory. Open your inventory now so you can use your Sharpening Stones.,"Отличная работа! Вы открыли рецепт Тренировочных точильных камней. Его рецепт теперь появится на вашей панели производства. Оба созданных предмета должны быть в вашем инвентаре. Откройте инвентарь сейчас, чтобы использовать ваши Точильные камни."
 Great job! You unlocked the recipe for Practice Tuning Crystals. Its recipe will now appear in your production pane. Both of your crafted items should be in your inventory. Open your inventory now so you can use your Practice Tuning Crystals.,"Отличная работа! Вы открыли рецепт Тренировочных кристаллов настройки. Его рецепт теперь появится на вашей панели производства. Оба созданных предмета должны быть в вашем инвентаре. Откройте инвентарь сейчас, чтобы использовать ваши Тренировочные кристаллы настройки."
-Great job! You're more comfortable with your weapon already. Let's keep practicing on another target.Tip: Remember that you can review combat controls and other gameplay tips at any time in the hint menu.,"Отличная работа! Вы уже чувствуете себя увереннее с оружием. Давайте продолжим тренировку на другой цели.Совет: Помните, что вы можете в любое время просмотреть управление боем и другие игровые подсказки в меню подсказок."
 Great Jungle Wurm 3 Pack[s],[Набор|Набора|Наборов] Великий джунглевый червь 3
 Great Jungle Wurm Chest,Великий сундук джунглевого червя
 Great Jungle Wurm Spike[s],Шип[|а|ов] Великого джунглевого червя
@@ -426,10 +423,10 @@ Great skelk group members,Великие члены группы скелков
 Great Sledge (Level 44),Великая Кувалда (Уровень 44)
 Great Steamblade Skin[s],[Облик|Облика|Обликов] Великого парового клинка
 Great Swing,Великий Взмах
-Great Tree,Great Tree
+Great Tree,Великое Дерево
 Great Turtle Highlands,Великие Черепашьи Нагорья
 Great Work in Sparkfly Fen,Великая Работа в Sparkfly Fen
-Great work! Now train your essence manipulation Mastery on Jormag's minions outside the walls of the keep.,Отличная работа! Теперь тренируйте мастерство манипуляции сущностью на приспешниках Йормага за стенами крепости.
+Great work! Now train your essence manipulation Mastery on Jormag's minions outside the walls of the keep.,Отличная работа! Теперь тренируйте мастерство манипуляции сущностью на приспешниках Jormag за стенами крепости.
 Great work—we've broken open their nest! Now let's clean it out.,Отличная работа — мы пробили их гнездо! Теперь давай вычистим его.
 Great Zehtuka's Horn[s],Рог[|а|ов] Великого Зехтуки
 "Great! Now locate the recipe for the practice bolt of jute and create one of those using the ""Craft"" button.",Отлично! Теперь найдите рецепт тренировочного мотка джута и создайте его с помощью кнопки «Создать».

@@ -27,8 +27,8 @@ Infested Hound,Заражённый пёс
 Infiltrate further into the Citadel to find Gaheron.,"Проникните глубже в Цитадель, чтобы найти Гахерона."
 Infiltrate the pirate lair with Agent Cass.,Проникните в пиратское логово вместе с агентом Касс.
 Infiltration Cube,Куб для проникновения
-Infinite Gentle Swing,Infinite Gentle Swing
-Infinite Mind,Infinite Mind
+Infinite Gentle Swing,Бесконечный Мягкий удар
+Infinite Mind,Бесконечное сознание
 Inflict poison when struck by foes.,При получении удара от противника накладывает эффект отравления.
 Inflicts Bleeding and Vulnerability,Наносит кровотечение и уязвимость.
 Inflicts Bleeding • Causes Fear • Buffs Allies • Knocks Back • Creates Whirlwinds,Наносит кровотечение • Вызывает страх • Усиливает союзников • Отбрасывает назад • Создаёт вихри
@@ -90,84 +90,84 @@ Input password.,Введите пароль.
 Input received. Merge successful. Crystal tuning completed.,Получено подтверждение. Слияние успешно. Настройка кристалла завершена.
 Inputting value. ERROR: Modulation array failure. Performing system restart.,Ввод значения. ОШИБКА: Сбой модуля модуляции. Выполняется перезапуск системы.
 Inputting value. ERROR: Ratio incorrect. System error.,Ввод значения. ОШИБКА: Неверное соотношение. Системная ошибка.
-Inquest Agent,Inquest Agent
-Inquest Agent Irro,Inquest Agent Irro
-Inquest Agent Uno,Inquest Agent Uno
-Inquest Barrier Generator,Inquest Barrier Generator
-Inquest Blaster Krewe Leader,Inquest Blaster Krewe Leader
-Inquest Cannon,Inquest Cannon
-Inquest Cannon Control Console,Inquest Cannon Control Console
-Inquest Commanding Engineer,Inquest Commanding Engineer
-Inquest Communication Device,Inquest Communication Device
+Inquest Agent,Агент Inquest
+Inquest Agent Irro,Агент Inquest Ирро
+Inquest Agent Uno,Агент дознания Уно
+Inquest Barrier Generator,Генератор барьеров Inquest
+Inquest Blaster Krewe Leader,Лидер отряда «Креве» Inquest
+Inquest Cannon,Пушка Инквизитора
+Inquest Cannon Control Console,Консоль управления пушкой Inquest
+Inquest Commanding Engineer,Главный инженер Inquest
+Inquest Communication Device,Устройство связи Inquest
 Inquest Component,Компонент Inquest
-Inquest Console,Inquest Console
-Inquest Conspirator,Inquest Conspirator
-Inquest Conspirators,Inquest Conspirators
-Inquest Containment Console,Inquest Containment Console
-Inquest Containment Pod,Inquest Containment Pod
-Inquest Containment Tube,Inquest Containment Tube
-Inquest Data Security Officer,Inquest Data Security Officer
-Inquest Data Wall,Inquest Data Wall
-Inquest Destroyer Releasing Golem,Inquest Destroyer Releasing Golem
-Inquest Document,Inquest Document
-Inquest Engineer Artto,Inquest Engineer Artto
-Inquest Envoy,Inquest Envoy
-Inquest Equipment,Inquest Equipment
-Inquest Executive Engineer,Inquest Executive Engineer
-Inquest Experiment Beaker,Inquest Experiment Beaker
-Inquest Experimental Aspect Suit,Inquest Experimental Aspect Suit
-Inquest Golemaestro,Inquest Golemaestro
-Inquest Golemancer Staff,Inquest Golemancer Staff
-Inquest Gunner,Inquest Gunner
-Inquest Infiltrator,Inquest Infiltrator
-Inquest Infinite Intelligence Interpreter,Inquest Infinite Intelligence Interpreter
-Inquest Instruction Specialist,Inquest Instruction Specialist
-Inquest Instructional Pamphlets,Inquest Instructional Pamphlets
-Inquest Insurgent,Inquest Insurgent
-Inquest Jump Pad,Inquest Jump Pad
-Inquest Kingpin,Inquest Kingpin
-Inquest Krewe,Inquest Krewe
-Inquest Krewe Chief,Inquest Krewe Chief
-Inquest Krewe Leader,Inquest Krewe Leader
-Inquest Lead Engineer,Inquest Lead Engineer
-Inquest Magnetizer,Inquest Magnetizer
-Inquest Mega Blaster,Inquest Mega Blaster
-Inquest Missile,Inquest Missile
-Inquest Notes,Inquest Notes
-Inquest Papers,Inquest Papers
-Inquest Perimeter Defense Cannon,Inquest Perimeter Defense Cannon
-Inquest Physicist,Inquest Physicist
-Inquest Pollution,Inquest Pollution
-Inquest Power Conduit,Inquest Power Conduit
-Inquest Prison Core,Inquest Prison Core
-Inquest Recording Device,Inquest Recording Device
-Inquest Refuse,Inquest Refuse
-Inquest Research Data,Inquest Research Data
-Inquest Research Outpost,Inquest Research Outpost
-Inquest Sapper Device,Inquest Sapper Device
-Inquest Scanner Drone,Inquest Scanner Drone
-Inquest Scientist,Inquest Scientist
-Inquest Search-and-Rescue Golem,Inquest Search-and-Rescue Golem
-Inquest Search-and-Rescue Specialist,Inquest Search-and-Rescue Specialist
-Inquest Security Gate,Inquest Security Gate
-Inquest Sentry,Inquest Sentry
-Inquest Slacker,Inquest Slacker
-Inquest Storage Tank,Inquest Storage Tank
-Inquest Supervisor,Inquest Supervisor
+Inquest Console,Консоль Inquest
+Inquest Conspirator,Заговорщик из Inquest
+Inquest Conspirators,Заговорщики из Inquest
+Inquest Containment Console,Консоль сдерживания Inquest
+Inquest Containment Pod,Контейнер для образцов Inquest
+Inquest Containment Tube,Контейнер Inquest
+Inquest Data Security Officer,Офицер службы безопасности данных Inquest
+Inquest Data Wall,Информационная стена Inquest
+Inquest Destroyer Releasing Golem,Инквизиторский Разрушитель выпускает голема.
+Inquest Document,Документ Inquest
+Inquest Engineer Artto,Инженер-инквизитор Артто
+Inquest Envoy,Посланник Inquest
+Inquest Equipment,Снаряжение Inquest
+Inquest Executive Engineer,Главный инженер Inquest
+Inquest Experiment Beaker,Экспериментальная колба Инквизитора
+Inquest Experimental Aspect Suit,Экспериментальный комплект искателя
+Inquest Golemaestro,Мастер големов из Гильдии Инквизиторов
+Inquest Golemancer Staff,Посох големанта Inquest
+Inquest Gunner,Стрелок-исследователь
+Inquest Infiltrator,Член организации «Inquest» (под прикрытием)
+Inquest Infinite Intelligence Interpreter,Интерпретатор бесконечного интеллекта Inquest
+Inquest Instruction Specialist,Специалист по инструктажу Inquest
+Inquest Instructional Pamphlets,Инструкционные буклеты Inquest
+Inquest Insurgent,Повстанец из «Inquest»
+Inquest Jump Pad,Платформа для прыжков Inquest
+Inquest Kingpin,Главарь Inquest
+Inquest Krewe,Группа исследователей
+Inquest Krewe Chief,Главарь группы «Inquest»
+Inquest Krewe Leader,Главарь группы «Inquest»
+Inquest Lead Engineer,Главный инженер Inquest
+Inquest Magnetizer,Магнетизатор Инквизитора
+Inquest Mega Blaster,Мега-бластер Инквизитора
+Inquest Missile,Ракетный снаряд Inquest
+Inquest Notes,Заметки Inquest
+Inquest Papers,Бумаги Inquest
+Inquest Perimeter Defense Cannon,Оборонительная пушка «Inquest»
+Inquest Physicist,Физик Inquest
+Inquest Pollution,Загрязнение от Inquest
+Inquest Power Conduit,Силовой кондуктор Inquest
+Inquest Prison Core,Ядро тюрьмы Inquest
+Inquest Recording Device,Устройство записи Inquest
+Inquest Refuse,Отходы Inquest
+Inquest Research Data,Данные исследований Inquest
+Inquest Research Outpost,Исследовательский аванпост Inquest
+Inquest Sapper Device,Инженерное устройство «Взрывник»
+Inquest Scanner Drone,Сканер-бот Inquest
+Inquest Scientist,Учёный из «Inquest»
+Inquest Search-and-Rescue Golem,Поисково-спасательный голем Inquest
+Inquest Search-and-Rescue Specialist,Специалист по поиску и спасению из организации «Inquest»
+Inquest Security Gate,Охранный шлюз Inquest
+Inquest Sentry,Страж Inquest
+Inquest Slacker,Ленивый член Inquest
+Inquest Storage Tank,Резервуар для хранения «Inquest»
+Inquest Supervisor,Руководитель отряда «Inquest»
 Inquest Supplies,Припасы Инквизитора
-Inquest Supply Cart,Inquest Supply Cart
-Inquest Survey Equipment,Inquest Survey Equipment
-Inquest Switch,Inquest Switch
-Inquest Synergetics Panel,Inquest Synergetics Panel
-Inquest Teleporter,Inquest Teleporter
+Inquest Supply Cart,Телега с припасами Inquest
+Inquest Survey Equipment,Оборудование для исследований Inquest
+Inquest Switch,Переключатель Инквизитора
+Inquest Synergetics Panel,Панель синергетических исследований Inquest
+Inquest Teleporter,Телепорт Inquest
 Inquest Teleporter Component,Компонент телепорта Inquest
-Inquest Tent,Inquest Tent
-Inquest Test Subject Container,Inquest Test Subject Container
-Inquest Testing Room,Inquest Testing Room
-Inquest Weapon Crate,Inquest Weapon Crate
+Inquest Tent,Палатка Inquest
+Inquest Test Subject Container,Контейнер для испытуемых организации «Inquest»
+Inquest Testing Room,Испытательная комната Inquest
+Inquest Weapon Crate,Ящик с оружием Inquest
 Inquest Weapons Pile,Куча оружия Inquest
-Inquest Webbi,Inquest Webbi
-Inquest Worker,Inquest Worker
+Inquest Webbi,Инквизитор Вебби
+Inquest Worker,Рабочий Inquest
 Inquest above all!,Прежде всего – интересы Inquest!
 Inquest agents are invading the Opticalium! Stop them before they oust the good guys!,"Агенты Inquest вторгаются в Оптикум! Остановите их, пока они не изгнали оттуда хороших парней!"
 Inquest agents have sent a bomber to destroy the power grid.,"Агенты Inquest отправили диверсанта, чтобы уничтожить энергосеть."
@@ -211,7 +211,7 @@ Inspect Drill Bit,Осмотреть сверло
 Inspires Crew Members • Grants Swashbuckler's Daring to Allies upon Defeat,Вдохновляет членов экипажа • При поражении дарует союзникам умение «Смелость пирата».
 Instigador Heitor,Подстрекатель Эйтор
 Instructions?,Инструкции?
-Instructor Kaeli,Instructor Kaeli
+Instructor Kaeli,Инструктор Каэли
 "Intel, pal. Intel. That's my job. Who's the boss of these Inquest? Who's the boss of that boss? What are they looking for? What do they know that we don't know that we don't want them to know we know?","Интеллект, приятель. Интеллект. Это моя работа. Кто здесь главный среди этих «Инквизиторов»? А кто командует этим боссом? Что они ищут? Что они знают такого, чего мы не знаем, и что мы не хотим, чтобы они знали, что мы об этом знаем?"
 Intense heat creates invulnerability to melee attacks and will ignite attackers.,Сильная жара создает неуязвимость к атакам ближнего боя и поджигает атакующих.
 Intent. Unyielding. Resolve!,Решимость. Непреклонность. Стойкость!
@@ -249,7 +249,7 @@ Internal—thermostat—malfunctioning.,Внутренний термостат 
 Interrogate the Inquest.,Допросите членов Inquest.
 Interrupt Boon Destruction,Прервать уничтожение благодати
 Interrupter activates in: %str1%,Прерывание активируется через: %str1%
-Interspatial Translocator,Interspatial Translocator
+Interspatial Translocator,Межпространственный телепортатор
 Intimidates Foes • Enrages at 25%% • Applies Weakness to Knocked Down Foes,Устрашает врагов • Впадает в ярость при 25%% здоровья • Накладывает эффект «Слабость» на сбитых с ног врагов.
 Intimidation,Запугивание
 Into the breeze!,Встретим ветер!
@@ -267,10 +267,10 @@ Inuki,Инуки
 Invaders in this holy place? How rude!,Наглые захватчики оскверняют это священное место!
 Invaders! Defend the armory!,На нас напали! Защитите арсенал!
 Inventar,Инвентарь
-"Inventar-Knopf ""Kompakt"" deaktivieren","Отключить кнопку «Компактный вид» инвентаря."
+"Inventar-Knopf ""Kompakt"" deaktivieren",Отключить кнопку «Компактный вид» инвентаря.
 Inventor Lori'pette,Изобретатель Лорипетт
 Inventor Shminkta,Изобретатель Шминкта
-"Inventors? I am interested in our host, Lord Caudecus.","Изобретатели? Меня интересует наш хозяин, лорд Кодекус."
+"Inventors? I am interested in our host, Lord Caudecus.","Изобретатели? Меня интересует наш хозяин, лорд Caudecus."
 Investigate Tomb,Исследовать гробницу
 Investigate cow,Исследовать корову.
 Investigate for feathers,Осмотритесь в поисках перьев.
@@ -280,7 +280,7 @@ Investigate the Cathedral of Hidden Depths.,Исследуйте Собор Ск
 Investigate the Inquest's Involvement in Dredge Activities.,"Выясните, какую роль играет Inquest в деятельности Дреджей."
 Investigate the bandit camp.,Исследуйте лагерь бандитов.
 Investigate the clearing.,Осмотрите поляну.
-Investigate the destroyer source with Taimi.,Исследуйте источник разрушительной энергии вместе с Тайми.
+Investigate the destroyer source with Taimi.,Исследуйте источник разрушительной энергии вместе с Taimi.
 Investigate the last stable.,Исследуйте последнюю стабильную версию.
 Investigate the rumors of wurm activity in Challdar Gorges.,Расследуй слухи об активности червей в Challdar Gorges.
 Investigate the rumors of wurm activity in Whisperwill Bogs.,Расследуйте слухи об активности змеев в Болотах Шёпота.
@@ -288,7 +288,7 @@ Investigate the rumors of wurm activity on Jelako Beach.,Расследуйте 
 Investigate the stables.,Осмотрите конюшни.
 Investigate your surroundings.,Осмотритесь.
 Investigation sites reached,Достигнуты точки исследования
-Investigator Eleni,Investigator Eleni
+Investigator Eleni,Следопыт Элени
 Investigator Ellen Kiel,Следователь Эллен Киль
 Invigorator Rifle Prototype,Прототип «Боевого Оживленца»
 Invisibility Fading,Невидимость рассеивается
@@ -299,15 +299,15 @@ Io,Ио
 Ioan,Иоан
 Ione Storm,Айоне Шторм
 Ionic Barrier,Ионный барьер
-Iori Emberwing,Iori Emberwing
+Iori Emberwing,Иори Эмбервинг
 "Iowerth: Focus on the image of a Wyld Hunter, accompanied by his human squire. He faces his enemy, a vast army of corpses.",Иоверт: Сосредоточьтесь на образе охотника из диких земель и его спутника-люди. Они стоят перед лицом врага — огромной армии мертвецов.
 "Iowerth: His struggle is your struggle. His courage, your courage. You are as one. Your breath quickens and your heart beats faster.","Иоверт: Его борьба – это ваша борьба. Его мужество – ваше мужество. Вы едины. Ваше дыхание учащается, и сердце бьётся быстрее."
 "Iowerth: Prepare yourself, champion. The ritual begins.","Иоверт: Будь готов, чемпион. Ритуал начинается."
-"Iowerth: Your enemies surround you. Now, in this moment...you are with Riannoc.","Иоверт: Враги окружают тебя. Но сейчас, в этот момент... ты вместе с Рианнок."
+"Iowerth: Your enemies surround you. Now, in this moment...you are with Riannoc.","Иоверт: Враги окружают тебя. Но сейчас, в этот момент... ты вместе с Riannoc."
 Ira inapropiada,Неуместная ярость.
 Irate Bee,Разъярённая пчела
 Irate Tourist,Разгневанный турист
-Ireko Tradecamp,Ireko Tradecamp
+Ireko Tradecamp,Торговый лагерь Иреко
 "Ireko, huh? Doesn't sound Krytan.","Иреко, да? Звучит не по-крайтански."
 Iremm Swiftdance,Иремм Свифтданс
 Iriun,Ириун
@@ -322,7 +322,7 @@ Irrefrenable,Неудержимый
 Irritierendes Lager,Раздражающий лагерь
 Irukandji,Ируканджи
 Irving,Ирвинг
-Is Xunlai's innovation and dominance coming at the expense of a free and open market?,Не подавляет ли инновационная деятельность и доминирование Сюньлая принципы свободного и открытого рынка?
+Is Xunlai's innovation and dominance coming at the expense of a free and open market?,Не подавляет ли инновационная деятельность и доминирование Xunlai принципы свободного и открытого рынка?
 Is it dangerous here?,Здесь опасно?
 "Is it me, or does Charrgate Haven move farther away every time we walk there?","Это мне кажется, или Чаргатская гавань с каждым разом оказывается всё дальше от нас?"
 Is it the emptiness the vortex moves around?,"Разве пустота не является тем, что вращается вокруг вихря?"
@@ -355,7 +355,7 @@ Is this the part about quaggan?,Это часть про квагганов?
 Is this your whole krewe?,Это вся твоя команда?
 Is this...your choya?,Это... твоя чойя?
 Isabaeux Navarre,Изабе Обернар
-"Isgarren's arrival has given you a surge of determination, empowering you to redouble your efforts against the Midnight King.",Прибытие Исгаррена вселило в вас прилив решимости и вдохновило удвоить усилия в борьбе против Короля Ночи.
+"Isgarren's arrival has given you a surge of determination, empowering you to redouble your efforts against the Midnight King.",Прибытие Isgarren вселило в вас прилив решимости и вдохновило удвоить усилия в борьбе против Короля Ночи.
 Island Wurm[s],островной черв[ь|и|и]
 Isn't Kudu a girl's name?,Разве Куду не женское имя?
 "Isn't it obvious? I make a discovery, I'm going to investigate the heck out of it.","Разве это не очевидно? Если я делаю открытие, то обязательно его тщательно изучу."

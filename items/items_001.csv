@@ -1,7 +1,7 @@
 english,translate
-"""Acquired"" Boots","""Acquired"" Boots"
-"""Acquired"" Leather Shoes","""Acquired"" Leather Shoes"
-"""Acquired"" Shoes","""Acquired"" Shoes"
+"""Acquired"" Boots",«Приобретённые» сапоги
+"""Acquired"" Leather Shoes",«Приобретённые» кожаные туфли
+"""Acquired"" Shoes",«Приобретённые» туфли
 """After your riveting success today, you deserve applause. Don't let Teyo's deeds sully what you've accomplished.""
 Double-click to gain 50 luck.","«После такого захватывающего успеха ты заслуживаешь оваций. Не позволяй деяниям Тейо запятнать то, чего ты добился».
 Дважды щёлкните, чтобы получить 50 удачи."
@@ -14,14 +14,14 @@ Double-click to gain 50 luck.","«Поразительная работа! Ка�
 """Bercilak was a powerful foe, and you bested him in fair combat. Be proud of yourself.""
 Double-click to gain 50 luck.","«Берсилак был могучим врагом, и ты одолел его в честном бою. Гордись собой».
 Дважды щёлкните, чтобы получить 50 удачи."
-"""Dragon"" Protein","""Dragon"" Protein"
+"""Dragon"" Protein",«Драконий» протеин
 """Even while acting as bait for Two-Blade Pete, you showed great courage. The Seraph, and I personally, owe you for your service.""
 Double-click to gain 50 luck.","«Даже будучи приманкой для Пита Двуклинка, ты проявил большую отвагу. Серафимы, да и я лично, в долгу перед тобой».
 Дважды щёлкните, чтобы получить 50 удачи."
 """Gadd's lab was quite the fortuitous discovery. There were...unforeseen side effects, but you handled yourself brilliantly.""
 Double-click to gain 50 luck.","«Лаборатория Гэдда оказалась весьма счастливой находкой. Были... непредвиденные побочные эффекты, но ты держался блестяще».
 Дважды щёлкните, чтобы получить 50 удачи."
-"""Hope for Tomorrow""","""Hope for Tomorrow"""
+"""Hope for Tomorrow""",«Надежда на завтра»
 """I gotta have more cowbell, baby!""","«Мне нужно больше коровьего колокольчика, детка!»"
 """I know a guy who knows a guy who can definitely get you in.""","«Я знаю парня, который знает парня, который точно тебя проведёт»."
 """I wonder what the green bits are...""","«Интересно, что это за зелёные кусочки...»"
@@ -33,26 +33,26 @@ Double-click to gain 50 luck.","«Великий позор, что предат
 Дважды щёлкните, чтобы получить 50 удачи."
 """Just Tillie"" 
 032 Dusk XIIV
-Obscure","""Just Tillie"" 
+Obscure","«Просто Тилли» 
 032 Dusk XIIV
 Obscure"
-"""Laughter on the Wind""","""Laughter on the Wind"""
-"""Legendary"" Backpack Buckle Prong","""Legendary"" Backpack Buckle Prong"
+"""Laughter on the Wind""",«Смех на ветру»
+"""Legendary"" Backpack Buckle Prong",«Легендарный» зубец пряжки рюкзака
 """Let the loss of Ysvelta be a constant reminder of why we must stay strong against the Nightmare.""
 Double-click to gain 50 luck.","«Пусть утрата Исвельты вечно напоминает, почему мы должны твёрдо стоять против Кошмара».
 Дважды щёлкните, чтобы получить 50 удачи."
 """Nature's candy"" is not candy.",«Природная конфета» — вовсе не конфета.
 """Of course it's not just an empty bottle. It came with a certificate of authenticity!""","«Разумеется, это не просто пустая бутылка. К ней прилагался сертификат подлинности!»"
-"""Recovered"" Charr Artifact","""Recovered"" Charr Artifact"
-"""Recovered"" Norn Weapons","""Recovered"" Norn Weapons"
-"""Shadow and Sun""","""Shadow and Sun"""
+"""Recovered"" Charr Artifact",«Найденный» чаррский артефакт
+"""Recovered"" Norn Weapons",«Найденное» норнское оружие
+"""Shadow and Sun""",«Тень и солнце»
 """Solvi will be sorely missed, but he died a hero's death free of corruption. We have you to thank for that.""
 Double-click to gain 50 luck.","«Солви будет очень не хватать, но он погиб смертью героя, не тронутый порчей. И этим мы обязаны тебе».
 Дважды щёлкните, чтобы получить 50 удачи."
 """The Black Lion Trade company apologizes for any damage items may have received in transit.""",«Торговая компания Black Lion приносит извинения за любые повреждения предметов при перевозке».
-"""The Storm That Consumes All""","""The Storm That Consumes All"""
+"""The Storm That Consumes All""","«Буря, что поглощает всё»"
 """These are way less terrifying than the last version.""","«Эти куда менее ужасающие, чем прошлая версия»."
-"""These bleached bones... A sentinel of Kormir?""",«Эти выбеленные кости... Часовой Кормир?»
+"""These bleached bones... A sentinel of Kormir?""",«Эти выбеленные кости... Часовой Kormir?»
 """To keep cool while things heat up is a rare quality. You're a true testament to the Blood Legion.""
 Double-click to gain 50 luck.","«Сохранять хладнокровие, когда становится жарко, — редкое качество. Ты истинное доказательство доблести Blood Legion».
 Дважды щёлкните, чтобы получить 50 удачи."
@@ -60,150 +60,150 @@ Double-click to gain 50 luck.","«Сохранять хладнокровие, �
 Double-click to gain 50 luck.","«Сегодня ты показал мне, что хитрость режет глубже ножа. Трибул превосходил нас числом, но мы выстояли. Славная работа».
 Дважды щёлкните, чтобы получить 50 удачи."
 """True greatness comes for those who have wisdom to do right, the courage to embark, and the power to follow through."" -Logan Thackeray","«Истинное величие приходит к тем, у кого есть мудрость поступать правильно, отвага отправиться в путь и сила довести дело до конца». -Логан Такерей"
-"""We Carry Her Loss Together""","""We Carry Her Loss Together"""
+"""We Carry Her Loss Together""",«Мы несём утрату вместе»
 """We never would have discovered the depths of Zamon's treachery without you. You've made me, the Seraph, and Kryta very proud.""
 Double-click to gain 50 luck.","«Без тебя мы никогда не узнали бы, насколько глубоко зашло предательство Замона. Ты заставил гордиться и меня, и Серафимов, и всю Крайту».
 Дважды щёлкните, чтобы получить 50 удачи."
-"""We Sing Her Story""","""We Sing Her Story"""
+"""We Sing Her Story""",«Мы поём её историю»
 """We'd have lost much had the stag died. Today was a triumph for nature, thanks to you.""
 Double-click to gain 50 luck.","«Мы многое потеряли бы, погибни олень. Сегодняшний день — торжество природы, и это твоя заслуга».
 Дважды щёлкните, чтобы получить 50 удачи."
 """With Korag gone, his remaining tribe may finally know peace. Take pride in their new beginning, Slayer.""
-Double-click to gain 50 luck.","«Теперь, когда Корага не стало, остатки его племени наконец обретут покой. Гордись их новым началом, Истребитель».
+Double-click to gain 50 luck.","«Теперь, когда Korag не стало, остатки его племени наконец обретут покой. Гордись их новым началом, Истребитель».
 Дважды щёлкните, чтобы получить 50 удачи."
-+1 Agony Infusion,+1 Agony Infusion
-+10 Agony Infusion,+10 Agony Infusion
++1 Agony Infusion,Инфузия агонии +1
++10 Agony Infusion,Инфузия агонии +10
 +10% Gathering Bonus Banner,Знамя «+10% к бонусу добычи»
 +10% Karma and 10% Experience Banner,Знамя «+10% к карме и +10% к опыту»
 +10% Kill Gold and 15% Magic Find Banner,Знамя «+10% к золоту за убийства и +15% к поиску магии»
 +10% Magic Find Banner,Знамя «+10% к поиску магии»
-+11 Agony Infusion,+11 Agony Infusion
-+12 Agony Infusion,+12 Agony Infusion
-+13 Agony Infusion,+13 Agony Infusion
-+14 Agony Infusion,+14 Agony Infusion
-+15 Agony Infusion,+15 Agony Infusion
++11 Agony Infusion,Инфузия агонии +11
++12 Agony Infusion,Инфузия агонии +12
++13 Agony Infusion,Инфузия агонии +13
++14 Agony Infusion,Инфузия агонии +14
++15 Agony Infusion,Инфузия агонии +15
 +15% Gathering and 10% Swiftness Banner,Знамя «+15% к добыче и +10% к быстроте»
-+16 Agony Infusion,+16 Agony Infusion
-+17 Agony Infusion,+17 Agony Infusion
-+18 Agony Infusion,+18 Agony Infusion
-+19 Agony Infusion,+19 Agony Infusion
-+2 Agony Infusion,+2 Agony Infusion
-+20 Agony Infusion,+20 Agony Infusion
-+21 Agony Infusion,+21 Agony Infusion
-+22 Agony Infusion,+22 Agony Infusion
-+23 Agony Infusion,+23 Agony Infusion
-+24 Agony Infusion,+24 Agony Infusion
-+3 Agony Infusion,+3 Agony Infusion
-+3 Simple Infusion,+3 Simple Infusion
-+4 Agony Infusion,+4 Agony Infusion
-+5 Agony Infusion,+5 Agony Infusion
-+5 Simple Infusion,+5 Simple Infusion
++16 Agony Infusion,Инфузия агонии +16
++17 Agony Infusion,Инфузия агонии +17
++18 Agony Infusion,Инфузия агонии +18
++19 Agony Infusion,Инфузия агонии +19
++2 Agony Infusion,Инфузия агонии +2
++20 Agony Infusion,Инфузия агонии +20
++21 Agony Infusion,Инфузия агонии +21
++22 Agony Infusion,Инфузия агонии +22
++23 Agony Infusion,Инфузия агонии +23
++24 Agony Infusion,Инфузия агонии +24
++3 Agony Infusion,Инфузия агонии +3
++3 Simple Infusion,+3 простые инфузии
++4 Agony Infusion,Инфузия агонии +4
++5 Agony Infusion,Инфузия агонии +5
++5 Simple Infusion,+5 простых инфузий
 +5% Experience Public Banner,Общее знамя «+5% к опыту»
 +5% Gold from Kills Banner,Знамя «+5% к золоту за убийства»
 +5% Karma Banner,Знамя «+5% к карме»
-+6 Agony Infusion,+6 Agony Infusion
-+7 Agony Infusion,+7 Agony Infusion
-+7 Simple Infusion,+7 Simple Infusion
-+8 Agony Infusion,+8 Agony Infusion
-+9 Agony Infusion,+9 Agony Infusion
-1 Provisioner Token,1 Provisioner Token
-"1,000 ""Gold""","1,000 ""Gold"""
-10 Astral Acclaim,10 Astral Acclaim
-10 Slot Craftsman's Bag,10 Slot Craftsman's Bag
-10 Slot Equipment Box,10 Slot Equipment Box
-10 Slot Invisible Bag,10 Slot Invisible Bag
-10 Slot Invisible Pack,10 Slot Invisible Pack
-10 Slot Iron Box,10 Slot Iron Box
-10 Slot Oiled Pack,10 Slot Oiled Pack
-10 Slot Safe Box,10 Slot Safe Box
-10 Slot Thin Leather Pack,10 Slot Thin Leather Pack
-10 Slot Trick-or-Treat Bag,10 Slot Trick-or-Treat Bag
-10 Slot Wool Bag,10 Slot Wool Bag
++6 Agony Infusion,Инфузия агонии +6
++7 Agony Infusion,Инфузия агонии +7
++7 Simple Infusion,+7 простых инфузий
++8 Agony Infusion,Инфузия агонии +8
++9 Agony Infusion,Инфузия агонии +9
+1 Provisioner Token,1 жетон снабженца
+"1,000 ""Gold""","1,000 «золота»"
+10 Astral Acclaim,10 астральной славы
+10 Slot Craftsman's Bag,Сумка ремесленника на 10 ячеек
+10 Slot Equipment Box,Коробка для снаряжения на 10 ячеек
+10 Slot Invisible Bag,Невидимая сумка на 10 ячеек
+10 Slot Invisible Pack,Невидимый ранец на 10 ячеек
+10 Slot Iron Box,Железная коробка на 10 ячеек
+10 Slot Oiled Pack,Промасленный ранец на 10 ячеек
+10 Slot Safe Box,Надёжная коробка на 10 ячеек
+10 Slot Thin Leather Pack,Ранец из тонкой кожи на 10 ячеек
+10 Slot Trick-or-Treat Bag,Мешок «Сласти или страсти» на 10 ячеек
+10 Slot Wool Bag,Шерстяная сумка на 10 ячеек
 10 Slots,10 ячеек
-"100 ""Gold""","100 ""Gold"""
-100 Astral Acclaim,100 Astral Acclaim
-100 Fractal Relics,100 Fractal Relics
-"100,000 ""Gold""","100,000 ""Gold"""
-1000 Unbound Magic,1000 Unbound Magic
-1000 Volatile Magic,1000 Volatile Magic
-101 Things the Mordant Crescent Doesn't Want You to Know!,101 Things the Mordant Crescent Doesn't Want You to Know!
-12 Slot Bag,12 Slot Bag
-12 Slot Coarse Leather Pack,12 Slot Coarse Leather Pack
-12 Slot Cotton Bag,12 Slot Cotton Bag
-12 Slot Craftsman's Bag,12 Slot Craftsman's Bag
-12 Slot Equipment Box,12 Slot Equipment Box
-12 Slot Invisible Bag,12 Slot Invisible Bag
-12 Slot Invisible Pack,12 Slot Invisible Pack
-12 Slot Oiled Pack,12 Slot Oiled Pack
-12 Slot Safe Box,12 Slot Safe Box
-12 Slot Steel Box,12 Slot Steel Box
+"100 ""Gold""",100 «золота»
+100 Astral Acclaim,100 астральной славы
+100 Fractal Relics,100 реликвий фракталов
+"100,000 ""Gold""","100,000 «золота»"
+1000 Unbound Magic,1000 несвязанной магии
+1000 Volatile Magic,1000 летучей магии
+101 Things the Mordant Crescent Doesn't Want You to Know!,"101 факт, которые Mordant Crescent не хочет вам открывать!"
+12 Slot Bag,Сумка на 12 ячеек
+12 Slot Coarse Leather Pack,Ранец из грубой кожи на 12 ячеек
+12 Slot Cotton Bag,Хлопковая сумка на 12 ячеек
+12 Slot Craftsman's Bag,Сумка ремесленника на 12 ячеек
+12 Slot Equipment Box,Коробка для снаряжения на 12 ячеек
+12 Slot Invisible Bag,Невидимая сумка на 12 ячеек
+12 Slot Invisible Pack,Невидимый ранец на 12 ячеек
+12 Slot Oiled Pack,Промасленный ранец на 12 ячеек
+12 Slot Safe Box,Надёжная коробка на 12 ячеек
+12 Slot Steel Box,Стальная коробка на 12 ячеек
 12 Slots,12 ячеек
 "12 Slots. If possible, crafting materials and upgrade components will fill this bag before other empty spaces. The contents of this bag will not move when inventory is sorted.",12 ячеек. По возможности материалы для ремесла и компоненты улучшений заполняют эту сумку прежде других свободных мест. Содержимое этой сумки не перемещается при сортировке инвентаря.
 12 Slots. Items in this bag will never appear in a sell-to-vendor list and will not move when inventory is sorted.,12 ячеек. Предметы в этой сумке никогда не появляются в списке продажи торговцу и не перемещаются при сортировке инвентаря.
-15 Slot Craftsman's Bag,15 Slot Craftsman's Bag
-15 Slot Darksteel Box,15 Slot Darksteel Box
-15 Slot Equipment Box,15 Slot Equipment Box
-15 Slot Invisible Bag,15 Slot Invisible Bag
-15 Slot Invisible Pack,15 Slot Invisible Pack
-15 Slot Linen Bag,15 Slot Linen Bag
-15 Slot Oiled Pack,15 Slot Oiled Pack
-15 Slot Rugged Leather Pack,15 Slot Rugged Leather Pack
-15 Slot Safe Box,15 Slot Safe Box
+15 Slot Craftsman's Bag,Сумка ремесленника на 15 ячеек
+15 Slot Darksteel Box,Коробка из тёмной стали на 15 ячеек
+15 Slot Equipment Box,Коробка для снаряжения на 15 ячеек
+15 Slot Invisible Bag,Невидимая сумка на 15 ячеек
+15 Slot Invisible Pack,Невидимый ранец на 15 ячеек
+15 Slot Linen Bag,Льняная сумка на 15 ячеек
+15 Slot Oiled Pack,Промасленный ранец на 15 ячеек
+15 Slot Rugged Leather Pack,Ранец из прочной кожи на 15 ячеек
+15 Slot Safe Box,Надёжная коробка на 15 ячеек
 15 Slots,15 ячеек
 "15 Slots. If possible, crafting materials and upgrade components will fill this bag before other empty spaces. The contents of this bag will not move when inventory is sorted.",15 ячеек. По возможности материалы для ремесла и компоненты улучшений заполняют эту сумку прежде других свободных мест. Содержимое этой сумки не перемещается при сортировке инвентаря.
 15 Slots. Items in this bag will never appear in a sell-to-vendor list and will not move when inventory is sorted.,15 ячеек. Предметы в этой сумке никогда не появляются в списке продажи торговцу и не перемещаются при сортировке инвентаря.
-15-Slot Gift Box,15-Slot Gift Box
-18 Slot Craftsman's Bag,18 Slot Craftsman's Bag
-18 Slot Equipment Box,18 Slot Equipment Box
-18 Slot Invisible Bag,18 Slot Invisible Bag
-18 Slot Invisible Pack,18 Slot Invisible Pack
-18 Slot Mithril Box,18 Slot Mithril Box
-18 Slot Oiled Box,18 Slot Oiled Box
-18 Slot Oiled Pack,18 Slot Oiled Pack
-18 Slot Safe Box,18 Slot Safe Box
-18 Slot Silk Bag,18 Slot Silk Bag
-18 Slot Thick Leather Pack,18 Slot Thick Leather Pack
+15-Slot Gift Box,Подарочная коробка на 15 ячеек
+18 Slot Craftsman's Bag,Сумка ремесленника на 18 ячеек
+18 Slot Equipment Box,Коробка для снаряжения на 18 ячеек
+18 Slot Invisible Bag,Невидимая сумка на 18 ячеек
+18 Slot Invisible Pack,Невидимый ранец на 18 ячеек
+18 Slot Mithril Box,Мифриловая коробка на 18 ячеек
+18 Slot Oiled Box,Промасленная коробка на 18 ячеек
+18 Slot Oiled Pack,Промасленный ранец на 18 ячеек
+18 Slot Safe Box,Надёжная коробка на 18 ячеек
+18 Slot Silk Bag,Шёлковая сумка на 18 ячеек
+18 Slot Thick Leather Pack,Ранец из толстой кожи на 18 ячеек
 18 Slots,18 ячеек
 "18 Slots. If possible, consumable items will fill this pack before other empty spaces. The contents of this pack will not move when inventory is sorted.",18 ячеек. По возможности расходуемые предметы заполняют этот ранец прежде других свободных мест. Содержимое этого ранца не перемещается при сортировке инвентаря.
 "18 Slots. If possible, crafting materials and upgrade components will fill this bag before other empty spaces. The contents of this bag will not move when inventory is sorted.",18 ячеек. По возможности материалы для ремесла и компоненты улучшений заполняют эту сумку прежде других свободных мест. Содержимое этой сумки не перемещается при сортировке инвентаря.
 18 Slots. Items in this bag will never appear in a sell-to-vendor list and will not move when inventory is sorted.,18 ячеек. Предметы в этой сумке никогда не появляются в списке продажи торговцу и не перемещаются при сортировке инвентаря.
 18 Slots. Items in this box will never appear in a sell-to-vendor list and will not move when inventory is sorted.,18 ячеек. Предметы в этой коробке никогда не появляются в списке продажи торговцу и не перемещаются при сортировке инвентаря.
-1st Place World Tournament Series Finisher,1st Place World Tournament Series Finisher
-2 Gold,2 Gold
+1st Place World Tournament Series Finisher,Первое место — добивающий приём Мировой турнирной серии
+2 Gold,2 золота
 20 Slot,20 ячеек
-20 Slot Black Lion Satchel,20 Slot Black Lion Satchel
-20 Slot Craftsman's Bag,20 Slot Craftsman's Bag
-20 Slot Equipment Box,20 Slot Equipment Box
-20 Slot Fractal Bag,20 Slot Fractal Bag
-20 Slot Fractal Exotic Equipment Box,20 Slot Fractal Exotic Equipment Box
-20 Slot Fractal Rare Equipment Box,20 Slot Fractal Rare Equipment Box
-20 Slot Fractal Uncommon Equipment Box,20 Slot Fractal Uncommon Equipment Box
-20 Slot Gossamer Bag,20 Slot Gossamer Bag
-20 Slot Hardened Leather Pack,20 Slot Hardened Leather Pack
-20 Slot Invisible Bag,20 Slot Invisible Bag
-20 Slot Invisible Pack,20 Slot Invisible Pack
-20 Slot Oiled Pack,20 Slot Oiled Pack
-20 Slot Orichalcum Box,20 Slot Orichalcum Box
-20 Slot Safe Box,20 Slot Safe Box
+20 Slot Black Lion Satchel,Сумка Black Lion на 20 ячеек
+20 Slot Craftsman's Bag,Сумка ремесленника на 20 ячеек
+20 Slot Equipment Box,Коробка для снаряжения на 20 ячеек
+20 Slot Fractal Bag,Фрактальная сумка на 20 ячеек
+20 Slot Fractal Exotic Equipment Box,Коробка для экзотического фрактального снаряжения на 20 ячеек
+20 Slot Fractal Rare Equipment Box,Коробка для редкого фрактального снаряжения на 20 ячеек
+20 Slot Fractal Uncommon Equipment Box,Коробка для необычного фрактального снаряжения на 20 ячеек
+20 Slot Gossamer Bag,Сумка из тонкого шёлка на 20 ячеек
+20 Slot Hardened Leather Pack,Ранец из закалённой кожи на 20 ячеек
+20 Slot Invisible Bag,Невидимая сумка на 20 ячеек
+20 Slot Invisible Pack,Невидимый ранец на 20 ячеек
+20 Slot Oiled Pack,Промасленный ранец на 20 ячеек
+20 Slot Orichalcum Box,Орихалковая коробка на 20 ячеек
+20 Slot Safe Box,Надёжная коробка на 20 ячеек
 "20 Slot. If possible, weapons and armor of exotic rarity will fill this box before other empty spaces.",20 ячеек. По возможности оружие и броня экзотической редкости заполняют эту коробку прежде других свободных мест.
 "20 Slot. If possible, weapons and armor of rare rarity will fill this box before other empty spaces.",20 ячеек. По возможности оружие и броня редкой редкости заполняют эту коробку прежде других свободных мест.
 "20 Slot. If possible, weapons and armor of uncommon rarity will fill this box before other empty spaces.",20 ячеек. По возможности оружие и броня необычной редкости заполняют эту коробку прежде других свободных мест.
 20 Slots,20 ячеек
 "20 Slots
 <c=@flavor>""A crime scene is only fresh once—you'd best have all of your gear on you when you arrive."" —Marjory</c>","20 ячеек
-<c=@flavor>«Место преступления свежо лишь однажды — лучше приходи туда сразу со всем снаряжением». —Марджори</c>"
+<c=@flavor>«Место преступления свежо лишь однажды — лучше приходи туда сразу со всем снаряжением». —Marjory</c>"
 "20 Slots
 <c=@flavor>""I was crafting a new pouch for Frostbite's snacks and had some extra leather, so I thought you might like one."" —Rox</c>","20 ячеек
 <c=@flavor>«Я шила новый мешочек для лакомств Фростбайта, и осталось немного кожи — вот я и подумала, что тебе такой пригодится». —Рокс</c>"
 "20 Slots
 <c=@flavor>""I've learned not to keep money on display. Try one for yourself—you might even forget you're carrying it."" —Kasmeer</c>","20 ячеек
-<c=@flavor>«Я усвоила, что деньги лучше не выставлять напоказ. Попробуй сама — можешь даже забыть, что несёшь их с собой». —Касмир</c>"
+<c=@flavor>«Я усвоила, что деньги лучше не выставлять напоказ. Попробуй сама — можешь даже забыть, что несёшь их с собой». —Kasmeer</c>"
 "20 Slots
 <c=@flavor>""It's not actually bigger on the inside, but the compression field can give that impression! Just don't put your hand in for long."" —Taimi</c>","20 ячеек
-<c=@flavor>«На самом деле внутри не больше, но поле сжатия создаёт такое впечатление! Только не суй руку туда надолго». —Тайми</c>"
+<c=@flavor>«На самом деле внутри не больше, но поле сжатия создаёт такое впечатление! Только не суй руку туда надолго». —Taimi</c>"
 "20 Slots
 <c=@flavor>""They, uhh, don't let you take any watchknight parts back home as proof of the kill."" —Braham</c>","20 ячеек
-<c=@flavor>«Они, э-э, не дают забрать домой ни одной детали часового рыцаря в доказательство убийства». —Брейхам</c>"
+<c=@flavor>«Они, э-э, не дают забрать домой ни одной детали часового рыцаря в доказательство убийства». —Braham</c>"
 "20 Slots. If possible, consumable items will fill this pack before other empty spaces. The contents of this pack will not move when inventory is sorted.",20 ячеек. По возможности расходуемые предметы заполняют этот ранец прежде других свободных мест. Содержимое этого ранца не перемещается при сортировке инвентаря.
 "20 slots. If possible, containers and consumable items will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.",20 ячеек. По возможности контейнеры и расходуемые предметы заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
 "20 Slots. If possible, crafting materials and upgrade components will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.",20 ячеек. По возможности материалы для ремесла и компоненты улучшений заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
@@ -213,127 +213,127 @@ Double-click to gain 50 luck.","«Теперь, когда Корага не с�
 "20 slots. If possible, weapons and armor will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted. Items in this box will never appear in a sell-to-vendor list and will not move when inventory is sorted.",20 ячеек. По возможности оружие и броня заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря. Предметы в этой коробке никогда не появляются в списке продажи торговцу и не перемещаются при сортировке инвентаря.
 20 Slots. Items in this box will never appear in a sell-to-vendor list and will not move when inventory is sorted.,20 ячеек. Предметы в этой коробке никогда не появляются в списке продажи торговцу и не перемещаются при сортировке инвентаря.
 20 Slots. Items in this pack will never appear in a sell-to-vendor list and will not move when inventory is sorted.,20 ячеек. Предметы в этом ранце никогда не появляются в списке продажи торговцу и не перемещаются при сортировке инвентаря.
-20-Slot Equipment Pact Box,20-Slot Equipment Pact Box
-20-Slot Fractally Stitched Pouch,20-Slot Fractally Stitched Pouch
-20-Slot Tengu Bag,20-Slot Tengu Bag
-210 Proof Rotgut,210 Proof Rotgut
+20-Slot Equipment Pact Box,Коробка снаряжения Пакта на 20 ячеек
+20-Slot Fractally Stitched Pouch,Фрактально сшитый мешочек на 20 ячеек
+20-Slot Tengu Bag,Сумка тенгу на 20 ячеек
+210 Proof Rotgut,Сивуха 210 градусов
 24 Slots,24 ячейки
 "24 slots. If possible, containers and consumable items will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.",24 ячейки. По возможности контейнеры и расходуемые предметы заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
 "24 slots. If possible, junk items will fill this box first before other empty slots. The contents of this box will not move when inventory is sorted.",24 ячейки. По возможности хлам заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
 24 slots. Weapons and armor will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted. Items in this box will never appear in a sell-to-vendor list.,24 ячейки. По возможности оружие и броня заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря. Предметы в этой коробке никогда не появляются в списке продажи торговцу.
-24-Slot Courier's Locker,24-Slot Courier's Locker
-24-Slot Courier's Pannier,24-Slot Courier's Pannier
-24-Slot Courier's Saddlebag,24-Slot Courier's Saddlebag
-24-Slot Cowrie League Saddlebag,24-Slot Cowrie League Saddlebag
-24-Slot Gossamer Saddlebag,24-Slot Gossamer Saddlebag
-24-Slot Hamaseen Pannier,24-Slot Hamaseen Pannier
-24-Slot Hardened Leather Pannier,24-Slot Hardened Leather Pannier
-24-Slot Marshal's Locker,24-Slot Marshal's Locker
-24-Slot Marshal's Pannier,24-Slot Marshal's Pannier
-24-Slot Marshal's Saddlebag,24-Slot Marshal's Saddlebag
-24-Slot Nomad's Locker,24-Slot Nomad's Locker
-24-Slot Orichalcum Locker,24-Slot Orichalcum Locker
-250 Trade Contracts,250 Trade Contracts
-28 Slot Black Lion Satchel,28 Slot Black Lion Satchel
+24-Slot Courier's Locker,Ларец курьера на 24 ячейки
+24-Slot Courier's Pannier,Корзина курьера на 24 ячейки
+24-Slot Courier's Saddlebag,Седельная сумка курьера на 24 ячейки
+24-Slot Cowrie League Saddlebag,Седельная сумка Лиги Каури на 24 ячейки
+24-Slot Gossamer Saddlebag,Седельная сумка из тонкого шёлка на 24 ячейки
+24-Slot Hamaseen Pannier,Корзина хамасинов на 24 ячейки
+24-Slot Hardened Leather Pannier,Корзина из закалённой кожи на 24 ячейки
+24-Slot Marshal's Locker,Ларец маршала на 24 ячейки
+24-Slot Marshal's Pannier,Корзина маршала на 24 ячейки
+24-Slot Marshal's Saddlebag,Седельная сумка маршала на 24 ячейки
+24-Slot Nomad's Locker,Ларец кочевника на 24 ячейки
+24-Slot Orichalcum Locker,Орихалковый ларец на 24 ячейки
+250 Trade Contracts,250 торговых контрактов
+28 Slot Black Lion Satchel,Сумка Black Lion на 28 ячеек
 28 Slots,28 ячеек
 "28 slots. If possible, containers and consumable items will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.",28 ячеек. По возможности контейнеры и расходуемые предметы заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
 "28 slots. If possible, junk items will fill this box first before other empty slots. The contents of this box will not move when inventory is sorted.",28 ячеек. По возможности хлам заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
 28 slots. Weapons and armor will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted. Items in this box will never appear in a sell-to-vendor list.,28 ячеек. По возможности оружие и броня заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря. Предметы в этой коробке никогда не появляются в списке продажи торговцу.
-28-Slot Courier's Locker,28-Slot Courier's Locker
-28-Slot Courier's Pannier,28-Slot Courier's Pannier
-28-Slot Courier's Saddlebag,28-Slot Courier's Saddlebag
-28-Slot Cowrie League Saddlebag,28-Slot Cowrie League Saddlebag
-28-Slot Gossamer Saddlebag,28-Slot Gossamer Saddlebag
-28-Slot Hamaseen Pannier,28-Slot Hamaseen Pannier
-28-Slot Hardened Leather Pannier,28-Slot Hardened Leather Pannier
-28-Slot Marshal's Locker,28-Slot Marshal's Locker
-28-Slot Marshal's Pannier,28-Slot Marshal's Pannier
-28-Slot Marshal's Saddlebag,28-Slot Marshal's Saddlebag
-28-Slot Nomad's Locker,28-Slot Nomad's Locker
-28-Slot Orichalcum Locker,28-Slot Orichalcum Locker
-2nd Place World Tournament Series Finisher,2nd Place World Tournament Series Finisher
-30 Elegy Mosaics,30 Elegy Mosaics
-300 Ascalonian Tears,300 Ascalonian Tears
-300 Bandit Crests,300 Bandit Crests
-300 Deadly Blooms,300 Deadly Blooms
-300 Flame Legion Charr Carvings,300 Flame Legion Charr Carvings
-300 Geodes,300 Geodes
-300 Knowledge Crystals,300 Knowledge Crystals
-300 Manifestos of the Moletariate,300 Manifestos of the Moletariate
-300 Seals of Beetletun,300 Seals of Beetletun
-300 Shards of Zhaitan,300 Shards of Zhaitan
-300 Symbols of Koda,300 Symbols of Koda
-300 Tales of Dungeon Delving,300 Tales of Dungeon Delving
+28-Slot Courier's Locker,Ларец курьера на 28 ячеек
+28-Slot Courier's Pannier,Корзина курьера на 28 ячеек
+28-Slot Courier's Saddlebag,Седельная сумка курьера на 28 ячеек
+28-Slot Cowrie League Saddlebag,Седельная сумка Лиги Каури на 28 ячеек
+28-Slot Gossamer Saddlebag,Седельная сумка из тонкого шёлка на 28 ячеек
+28-Slot Hamaseen Pannier,Корзина хамасинов на 28 ячеек
+28-Slot Hardened Leather Pannier,Корзина из закалённой кожи на 28 ячеек
+28-Slot Marshal's Locker,Ларец маршала на 28 ячеек
+28-Slot Marshal's Pannier,Корзина маршала на 28 ячеек
+28-Slot Marshal's Saddlebag,Седельная сумка маршала на 28 ячеек
+28-Slot Nomad's Locker,Ларец кочевника на 28 ячеек
+28-Slot Orichalcum Locker,Орихалковый ларец на 28 ячеек
+2nd Place World Tournament Series Finisher,Второе место — добивающий приём Мировой турнирной серии
+30 Elegy Mosaics,30 мозаик элегии
+300 Ascalonian Tears,300 аскалонских слёз
+300 Bandit Crests,300 бандитских гербов
+300 Deadly Blooms,300 смертоносных цветов
+300 Flame Legion Charr Carvings,300 чаррских резных фигурок Flame Legion
+300 Geodes,300 жеод
+300 Knowledge Crystals,300 кристаллов знания
+300 Manifestos of the Moletariate,300 манифестов Кротариата
+300 Seals of Beetletun,300 печатей Битлтуна
+300 Shards of Zhaitan,300 осколков Зайтана
+300 Symbols of Koda,300 символов Коды
+300 Tales of Dungeon Delving,300 сказаний о походах в подземелья
 32 Slots,32 ячейки
 "32 Slots
 
 Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 ячейки
 
-Можно обменять на версию без привязки к душе у торговцев в Амнуне."
+Можно обменять на версию без привязки к душе у торговцев в Amnoon."
 "32 slots. If possible, containers and consumable items will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.",32 ячейки. По возможности контейнеры и расходуемые предметы заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
 "32 slots. If possible, crafting materials and upgrade components will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.
 Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 ячейки. По возможности материалы для ремесла и компоненты улучшений заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
-Можно обменять на версию без привязки к душе у торговцев в Амнуне."
+Можно обменять на версию без привязки к душе у торговцев в Amnoon."
 "32 slots. If possible, junk items will fill this box first before other empty slots. The contents of this box will not move when inventory is sorted.",32 ячейки. По возможности хлам заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
 "32 slots. If possible, junk items will fill this box first before other empty slots. The contents of this box will not move when inventory is sorted.
 Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 ячейки. По возможности хлам заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
-Можно обменять на версию без привязки к душе у торговцев в Амнуне."
+Можно обменять на версию без привязки к душе у торговцев в Amnoon."
 "32 slots. If possible, weapons and armor will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted.
 Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 ячейки. По возможности оружие и броня заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря.
-Можно обменять на версию без привязки к душе у торговцев в Амнуне."
+Можно обменять на версию без привязки к душе у торговцев в Amnoon."
 "32 slots. Items in this box will never appear in a sell-to-vendor list and will not move when inventory is sorted.
 Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 ячейки. Предметы в этой коробке никогда не появляются в списке продажи торговцу и не перемещаются при сортировке инвентаря.
-Можно обменять на версию без привязки к душе у торговцев в Амнуне."
+Можно обменять на версию без привязки к душе у торговцев в Amnoon."
 32 slots. Weapons and armor will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted. Items in this box will never appear in a sell-to-vendor list.,32 ячейки. По возможности оружие и броня заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря. Предметы в этой коробке никогда не появляются в списке продажи торговцу.
 "32 slots. Weapons and armor will fill this box before other empty spaces. The contents of this box will not move when inventory is sorted. Items in this box will never appear in a sell-to-vendor list.
 Can be exchanged for a non-soulbound version at merchants in Amnoon.","32 ячейки. По возможности оружие и броня заполняют эту коробку прежде других свободных мест. Содержимое этой коробки не перемещается при сортировке инвентаря. Предметы в этой коробке никогда не появляются в списке продажи торговцу.
-Можно обменять на версию без привязки к душе у торговцев в Амнуне."
-32-Slot Courier's Locker,32-Slot Courier's Locker
-32-Slot Courier's Pannier,32-Slot Courier's Pannier
-32-Slot Courier's Saddlebag,32-Slot Courier's Saddlebag
-32-Slot Cowrie League Saddlebag,32-Slot Cowrie League Saddlebag
-32-Slot Gossamer Saddlebag,32-Slot Gossamer Saddlebag
-32-Slot Hamaseen Pannier,32-Slot Hamaseen Pannier
-32-Slot Hardened Leather Pannier,32-Slot Hardened Leather Pannier
-32-Slot Hero's Trusty Backpack,32-Slot Hero's Trusty Backpack
-32-Slot Marshal's Locker,32-Slot Marshal's Locker
-32-Slot Marshal's Pannier,32-Slot Marshal's Pannier
-32-Slot Marshal's Saddlebag,32-Slot Marshal's Saddlebag
-32-Slot Nomad's Locker,32-Slot Nomad's Locker
-32-Slot Orichalcum Locker,32-Slot Orichalcum Locker
-3rd Place World Tournament Series Finisher,3rd Place World Tournament Series Finisher
-4 Gold,4 Gold
+Можно обменять на версию без привязки к душе у торговцев в Amnoon."
+32-Slot Courier's Locker,Ларец курьера на 32 ячейки
+32-Slot Courier's Pannier,Корзина курьера на 32 ячейки
+32-Slot Courier's Saddlebag,Седельная сумка курьера на 32 ячейки
+32-Slot Cowrie League Saddlebag,Седельная сумка Лиги Каури на 32 ячейки
+32-Slot Gossamer Saddlebag,Седельная сумка из тонкого шёлка на 32 ячейки
+32-Slot Hamaseen Pannier,Корзина хамасинов на 32 ячейки
+32-Slot Hardened Leather Pannier,Корзина из закалённой кожи на 32 ячейки
+32-Slot Hero's Trusty Backpack,Верный рюкзак героя на 32 ячейки
+32-Slot Marshal's Locker,Ларец маршала на 32 ячейки
+32-Slot Marshal's Pannier,Корзина маршала на 32 ячейки
+32-Slot Marshal's Saddlebag,Седельная сумка маршала на 32 ячейки
+32-Slot Nomad's Locker,Ларец кочевника на 32 ячейки
+32-Slot Orichalcum Locker,Орихалковый ларец на 32 ячейки
+3rd Place World Tournament Series Finisher,Третье место — добивающий приём Мировой турнирной серии
+4 Gold,4 золота
 4 Slots,4 ячейки
-4th Place World Tournament Series Finisher,4th Place World Tournament Series Finisher
-5 Provisioner Tokens,5 Provisioner Tokens
+4th Place World Tournament Series Finisher,Четвёртое место — добивающий приём Мировой турнирной серии
+5 Provisioner Tokens,5 жетонов снабженца
 5 Slots,5 ячеек
-500 Airship Parts,500 Airship Parts
-500 Astral Acclaim,500 Astral Acclaim
-500 Ley Line Crystals,500 Ley Line Crystals
-500 Lumps of Aurillium,500 Lumps of Aurillium
-8 Slot Craftsman's Bag,8 Slot Craftsman's Bag
-8 Slot Equipment Box,8 Slot Equipment Box
-8 Slot Invisible Bag,8 Slot Invisible Bag
-8 Slot Invisible Pack,8 Slot Invisible Pack
-8 Slot Jute Bag,8 Slot Jute Bag
-8 Slot Oiled Pack,8 Slot Oiled Pack
-8 Slot Rawhide Leather Pack,8 Slot Rawhide Leather Pack
-8 Slot Reinforced Bronze Box,8 Slot Reinforced Bronze Box
-8 Slot Safe Box,8 Slot Safe Box
+500 Airship Parts,500 частей воздушных кораблей
+500 Astral Acclaim,500 астральной славы
+500 Ley Line Crystals,500 кристаллов лей-линий
+500 Lumps of Aurillium,500 кусков ауриллия
+8 Slot Craftsman's Bag,Сумка ремесленника на 8 ячеек
+8 Slot Equipment Box,Коробка для снаряжения на 8 ячеек
+8 Slot Invisible Bag,Невидимая сумка на 8 ячеек
+8 Slot Invisible Pack,Невидимый ранец на 8 ячеек
+8 Slot Jute Bag,Джутовая сумка на 8 ячеек
+8 Slot Oiled Pack,Промасленный ранец на 8 ячеек
+8 Slot Rawhide Leather Pack,Ранец из сыромятной кожи на 8 ячеек
+8 Slot Reinforced Bronze Box,Укреплённая бронзовая коробка на 8 ячеек
+8 Slot Safe Box,Надёжная коробка на 8 ячеек
 8 Slots,8 ячеек
 "8 Slots, Items in this box will never appear in a sell-to-vendor list and will not move when inventory is sorted.",8 ячеек. Предметы в этой коробке никогда не появляются в списке продажи торговцу и не перемещаются при сортировке инвентаря.
 "8 Slots. If possible, crafting materials and upgrade components will fill this bag before other empty spaces. The contents of this bag will not move when inventory is sorted.",8 ячеек. По возможности материалы для ремесла и компоненты улучшений заполняют эту сумку прежде других свободных мест. Содержимое этой сумки не перемещается при сортировке инвентаря.
-8th Anniversary Supply Drop Requisition,8th Anniversary Supply Drop Requisition
-8th Anniversary Supply Drop: Week Four,8th Anniversary Supply Drop: Week Four
-8th Anniversary Supply Drop: Week One,8th Anniversary Supply Drop: Week One
-8th Anniversary Supply Drop: Week Three,8th Anniversary Supply Drop: Week Three
-8th Anniversary Supply Drop: Week Two,8th Anniversary Supply Drop: Week Two
+8th Anniversary Supply Drop Requisition,Заявка на снабжение к 8-й годовщине
+8th Anniversary Supply Drop: Week Four,Снабжение к 8-й годовщине: четвёртая неделя
+8th Anniversary Supply Drop: Week One,Снабжение к 8-й годовщине: первая неделя
+8th Anniversary Supply Drop: Week Three,Снабжение к 8-й годовщине: третья неделя
+8th Anniversary Supply Drop: Week Two,Снабжение к 8-й годовщине: вторая неделя
 9 Slots,9 ячеек
-9th Anniversary Supply Drop Requisition,9th Anniversary Supply Drop Requisition
-9th Anniversary Supply Drop: Week Four,9th Anniversary Supply Drop: Week Four
-9th Anniversary Supply Drop: Week One,9th Anniversary Supply Drop: Week One
-9th Anniversary Supply Drop: Week Three,9th Anniversary Supply Drop: Week Three
-9th Anniversary Supply Drop: Week Two,9th Anniversary Supply Drop: Week Two
+9th Anniversary Supply Drop Requisition,Заявка на снабжение к 9-й годовщине
+9th Anniversary Supply Drop: Week Four,Снабжение к 9-й годовщине: четвёртая неделя
+9th Anniversary Supply Drop: Week One,Снабжение к 9-й годовщине: первая неделя
+9th Anniversary Supply Drop: Week Three,Снабжение к 9-й годовщине: третья неделя
+9th Anniversary Supply Drop: Week Two,Снабжение к 9-й годовщине: вторая неделя
 <c=#9BE8E4>This item does not yield Memories of Otter when salvaged.< /c >,<c=#9BE8E4>При разборе этот предмет не даёт Воспоминаний о Выдре.< /c >
 <c=#9BE8E4>This item is not part of the Priory's History collection.</c>,<c=#9BE8E4>Этот предмет не входит в коллекцию «Priory's History».</c>
 <c=#9BE8E4>This item is not part of the Vigil's Honor collection.</c>,<c=#9BE8E4>Этот предмет не входит в коллекцию «Честь Дозора».</c>
@@ -483,7 +483,7 @@ This item only has value as part of a collection.","<c=@flavor>«Ага! А я �
 —Помощник шерифа Дженкс</c>"
 "<c=@flavor>""Another day, perhaps.""
 —Vollym</c>","<c=@flavor>«Может быть, в другой день».
-—Воллим</c>"
+—Vollym</c>"
 "<c=@flavor>""Aquadynamic for extreme thrusting power.""
 —Mei Shadowwalker</c>","<c=@flavor>«Гидродинамична для мощнейших выпадов».
 —Мэй Теневая Странница</c>"
@@ -587,7 +587,7 @@ This item only has value as part of a collection.","<c=@flavor>«Пока еда
 —Anonymous Vabbian Trade Official</c>","<c=@Flavor>«Дело — это жизнь, а жизнь хороша!»
 —Аноним, торговый чиновник Ваббии</c>"
 "<c=@flavor>""By Bangar's blade!""
-—Blood Legion</c>","<c=@flavor>«Клянусь клинком Бангара!»
+—Blood Legion</c>","<c=@flavor>«Клянусь клинком Bangar!»
 —Blood Legion</c>"
 "<c=@flavor>""By the time most soldiers get here, they need a new pair.""
 —Arcanist Repth</c>","<c=@flavor>«К тому времени, как большинство солдат сюда добираются, им нужна новая пара».
@@ -681,7 +681,7 @@ This item only has value as part of a collection.","<c=@flavor>«Пока еда
 "<c=@flavor>""Destroyers came; we were ready.""
 —Bordekka</c>","<c=@flavor>«Разрушители пришли — мы были готовы».
 —Бордекка</c>"
-"<c=@flavor>""Detective work's no court of law—but some of the same arguments work in both."" —Marjory</c>","<c=@flavor>«Сыск — это тебе не суд, но кое-какие доводы работают и там и там». —Марджори</c>"
+"<c=@flavor>""Detective work's no court of law—but some of the same arguments work in both."" —Marjory</c>","<c=@flavor>«Сыск — это тебе не суд, но кое-какие доводы работают и там и там». —Marjory</c>"
 "<c=@flavor>""Did they really ride dolyaks? Must have been hard work climbing up those beasts.""—Leandra</c>","<c=@flavor>«Они правда ездили на дольяках? Наверное, тяжко было забираться на этих зверюг».—Леандра</c>"
 "<c=@flavor>""Did you see the size of that thing?""
 —Travis</c>","<c=@flavor>«Видел размеры этой штуки?»
@@ -717,7 +717,7 @@ This item only has value as part of a collection.","<c=@flavor>«Пока еда
 "<c=@flavor>""Don't just go around touching things. I learned that the unpleasant way.""
 —Recruit Tochacatl</c>","<c=@flavor>«Не трогай всё подряд без разбора. Я усвоила это неприятным способом».
 —Recruit Tochacatl</c>"
-"<c=@flavor>""Don't make that face. Engineering isn't good or evil, it's just blueprints. Which I improved on, and you're welcome."" —Taimi</c>","<c=@flavor>«Не делай такое лицо. Инженерия не добрая и не злая, это просто чертежи. Которые я улучшила, и не за что». —Тайми</c>"
+"<c=@flavor>""Don't make that face. Engineering isn't good or evil, it's just blueprints. Which I improved on, and you're welcome."" —Taimi</c>","<c=@flavor>«Не делай такое лицо. Инженерия не добрая и не злая, это просто чертежи. Которые я улучшила, и не за что». —Taimi</c>"
 "<c=@flavor>""Don't mind the centaur blood.""
 —Corporal Lebeau</c>","<c=@flavor>«Не обращай внимания на кровь кентавра».
 —Corporal Lebeau</c>"
@@ -746,7 +746,7 @@ This item only has value as part of a collection.","<c=@flavor>«Пока еда
 "<c=@flavor>""Dredge mines are lined with torches for light.""
 —Priory Field Guide to Dredge</c>","<c=@flavor>«Шахты дреджей освещены факелами».
 —Priory Field Guide to Dredge</c>"
-"<c=@flavor>""Drink deep, and grant me your power!"" - Kodan's Bane, The Huntsman of Jormag</c>","<c=@flavor>«Пей до дна и даруй мне свою силу!» - Погибель коданов, Охотник Йормага</c>"
+"<c=@flavor>""Drink deep, and grant me your power!"" - Kodan's Bane, The Huntsman of Jormag</c>","<c=@flavor>«Пей до дна и даруй мне свою силу!» - Погибель коданов, Охотник Jormag</c>"
 "<c=@flavor>""Dye these black for the ultimate in tactical armor.""
 —Tactician Lyan</c>","<c=@flavor>«Покрась это в чёрный ради максимальной тактической брони».
 —Тактик Лайан</c>"

@@ -1,9 +1,8 @@
 english,translate
-You have received a fragment of Scarlet's Journal.,Вы получили фрагмент дневника Скарлет.
+You have received a fragment of Scarlet's Journal.,Вы получили фрагмент дневника Scarlet.
 You have received a gift!,Вы получили подарок!
 You have received extra map-bonus reward points.,Вы получили дополнительные очки бонусной награды карты.
 You have recently overheated and cannot reactivate Photon Forge.,Вы недавно перегрелись и не можете снова включить Photon Forge.
-You have recently transferred and may not perform another transfer at this time.Transfer Availability In: %str1%,Вы недавно совершали перенос и пока не можете выполнить ещё один.Перенос будет доступен через: %str1%
 You have removed your motivation and are now tracking tier 1 rifts.,Вы убрали своё побуждение и теперь отслеживаете разломы 1-го уровня.
 You have repeated the maximum PvP rank %num1% time[s].,Вы повторили максимальный ранг PvP %num1% [раз|раза|раз].
 You have rescued Queen Jennah!,Вы спасли Queen Jennah!
@@ -23,7 +22,7 @@ You have successfully cooked a meal.,Вы успешно приготовили 
 You have successfully fended off the Aetherblades in this area. Go assist your allies in the other areas.,Вы успешно отбили Эфирные клинки в этой области. Помогите союзникам в других областях.
 You have successfully fended off the Aetherblades. Meet your allies at the rendezvous point to prepare for the final standoff.,"Вы успешно отбили Эфирные клинки. Встретьтесь с союзниками в точке сбора, чтобы приготовиться к последнему противостоянию."
 You have successfully made a drink.,Вы успешно приготовили напиток.
-You have successfully thwarted Joko's ambush!,Вы успешно сорвали засаду Джоко!
+You have successfully thwarted Joko's ambush!,Вы успешно сорвали засаду Joko!
 You have succumbed to Sabetha's Firestorm.,Вы пали от Огненной бури Сабеты.
 You have tamed a %str1%!,Вы приручили: %str1%!
 You have tear instability.,У вас нестабильность разрывов.
@@ -70,7 +69,7 @@ You hear a loud rumbling and clanking coming from the east.,С востока д
 You hear an ancient voice on the wind.,Вы слышите древний голос на ветру.
 You hear the crunching of fallen leaves and smell the acrid tang of approaching rain.,Вы слышите хруст опавшей листвы и чуете едкий привкус приближающегося дождя.
 You heard the boss. Ready. Aim...,Вы слышали начальника. Готовься. Целься...
-You helped Braham take back Cragstead!,Вы помогли Брейхаму отбить Крагстед!
+You helped Braham take back Cragstead!,Вы помогли Braham отбить Крагстед!
 You helped cripple the centaur war machine.,Вы помогли подорвать военную машину кентавров.
 You helped drive the ogres from Cadem Forest. Much appreciated!,Вы помогли выгнать огров из Cadem Forest. Премного благодарны!
 You helped Fyra Redtail.,Вы помогли Фире Рыжехвостой.
@@ -80,7 +79,7 @@ You helped make this a moot to remember. Party on!,Вы помогли сдел�
 You helped Pastkeeper Saballa.,Вы помогли хранительнице прошлого Сабалле.
 You helped restore the balance of nature.,Вы помогли восстановить равновесие природы.
 You helped Rox take back North Nolan Hatchery!,Вы помогли Рокс отбить North Nolan Hatchery!
-You helped sabotage the Speakers' plans in Echovald.,Вы помогли сорвать планы Ораторов в Эховальде.
+You helped sabotage the Speakers' plans in Echovald.,Вы помогли сорвать планы Ораторов в Echovald.
 You helped Scar Stripeclaw.,Вы помогли Скару Полосатому Когтю.
 You helped Sesto Headsplitter.,Вы помогли Сесто Головорубу.
 You helped the hylek ward off hunger.,Вы помогли хилекам отвести голод.
@@ -131,7 +130,6 @@ You may now equip three core specializations. Visit the build tab of your Hero p
 You may now equip two core specializations. Visit the build tab of your Hero panel to equip a second specialization.,"Теперь вы можете снарядить две основные специализации. Откройте вкладку сборки на панели героя, чтобы снарядить вторую специализацию."
 You may now interact with the chest to claim your reward.,"Теперь вы можете взаимодействовать с сундуком, чтобы забрать награду."
 You may only guest in worlds within your home territory.,Гостить можно только в мирах вашей домашней территории.
-"You may only guest on %num1% different worlds at a time. You will be eligible to guest on a new world of your choosing in %str1%. Each time you guest on a world, that world becomes one of your eligible guest worlds for the next %num2%-hour period.You are currently eligible to guest on the following worlds: %str2%","Гостить можно одновременно лишь в %num1% разных мирах. Вы сможете выбрать новый мир для гостевания через %str1%. Каждый раз, когда вы гостите в мире, он становится одним из ваших доступных гостевых миров на следующие %num2% ч.Сейчас вы можете гостить в следующих мирах: %str2%"
 You may only have one rentable contract NPC out at a time.,Одновременно можно вызвать лишь одного NPC по арендному контракту.
 You may only play with one character per match. Please use your initial character to rejoin the match in progress.,"В одном матче можно играть лишь одним персонажем. Вернитесь в идущий матч тем персонажем, которым начинали."
 You may only use that command while in a mission or explorable area.,Эту команду можно применять только в задании или исследуемой области.
@@ -183,8 +181,8 @@ You must be on a roller beetle mount in order to attempt this adventure.,"Что
 You must be on the correct story step to use this.,"Чтобы это использовать, нужно находиться на нужном шаге сюжета."
 You must be on the surface of the water to summon your skiff.,"Чтобы призвать свою лодку, нужно быть на поверхности воды."
 You must be on your skiff to collect this.,"Чтобы собрать это, нужно быть на своей лодке."
-You must be present during Decima's demise to open this chest.,"Чтобы открыть этот сундук, нужно присутствовать при гибели Децимы."
-You must be present during Greer's demise to open this chest.,"Чтобы открыть этот сундук, нужно присутствовать при гибели Грира."
+You must be present during Decima's demise to open this chest.,"Чтобы открыть этот сундук, нужно присутствовать при гибели Decima."
+You must be present during Greer's demise to open this chest.,"Чтобы открыть этот сундук, нужно присутствовать при гибели Greer."
 You must be repesenting a guild to perform this action.,"Чтобы совершить это действие, нужно представлять гильдию."
 You must be representing a guild to make a claim.,"Чтобы заявить права, нужно представлять гильдию."
 You must be riding a skyscale to begin tethering an astral spellbomb.,"Чтобы начать привязывать астральную чарную бомбу, нужно ехать на скайскейле."
@@ -208,7 +206,7 @@ You must complete Qadim's challenge before moving forward!,"Прежде чем 
 You must complete the Duress chapter of the Guild Wars 2: Secrets of the Obscure story to access Convergences.,"Чтобы получить доступ к Схождениям, нужно завершить главу «Принуждение» сюжета Guild Wars 2: Secrets of the Obscure."
 You must complete the puzzle to access this portal.,"Чтобы получить доступ к этому порталу, нужно решить головоломку."
 You must complete the River of Souls event to purchase this item.,"Чтобы купить этот предмет, нужно завершить событие «River of Souls»."
-You must complete the Statues of Grenth events to purchase this item.,"Чтобы купить этот предмет, нужно завершить события «Статуи Гренса»."
+You must complete the Statues of Grenth events to purchase this item.,"Чтобы купить этот предмет, нужно завершить события «Статуи Grenth»."
 You must complete the tutorial before you can use this level-boost item.,"Прежде чем использовать этот предмет повышения уровня, нужно пройти обучение."
 You must complete the Warclaw Companion achievement to purchase a warclaw.,"Чтобы купить варклоу, нужно выполнить достижение «Спутник-варклоу»."
 "You must decide whether to consume this boost to permanently boost your character to level 80 before you can leave the Silverwastes. When you consume this boost, you'll receive the following:","Прежде чем покинуть Серебряные Пустоши, вы должны решить, применять ли это повышение, чтобы навсегда поднять персонажа до 80-го уровня. Применив его, вы получите:"
@@ -217,12 +215,12 @@ You must defeat a boss encounter in the Mythwright Gambit raid instance.,Нуж�
 You must defeat Cairn the Indomitable to purchase this item.,"Чтобы купить этот предмет, нужно победить Cairn the Indomitable."
 You must defeat Cardinal Adina to purchase this item.,"Чтобы купить этот предмет, нужно победить Cardinal Adina."
 You must defeat Cardinal Sabir to purchase this item.,"Чтобы купить этот предмет, нужно победить Cardinal Sabir."
-You must defeat Decima in the raid encounter to purchase this item.,"Чтобы купить этот предмет, нужно победить Дециму в рейдовой схватке."
-You must defeat Deimos to purchase this item.,"Чтобы купить этот предмет, нужно победить Деймоса."
+You must defeat Decima in the raid encounter to purchase this item.,"Чтобы купить этот предмет, нужно победить Decima в рейдовой схватке."
+You must defeat Deimos to purchase this item.,"Чтобы купить этот предмет, нужно победить Deimos."
 You must defeat Gorseval the Multifarious to purchase this item.,"Чтобы купить этот предмет, нужно победить Gorseval the Multifarious."
-You must defeat Greer in the raid encounter to purchase this item.,"Чтобы купить этот предмет, нужно победить Грира в рейдовой схватке."
+You must defeat Greer in the raid encounter to purchase this item.,"Чтобы купить этот предмет, нужно победить Greer в рейдовой схватке."
 You must defeat Matthias Gabrel to purchase this item.,"Чтобы купить этот предмет, нужно победить Матиаса Габреля."
-You must defeat Mordremoth to open this pod.,"Чтобы открыть этот кокон, нужно победить Мордремота."
+You must defeat Mordremoth to open this pod.,"Чтобы открыть этот кокон, нужно победить Mordremoth."
 You must defeat Qadim the Peerless to purchase this item.,"Чтобы купить этот предмет, нужно победить Qadim the Peerless."
 You must defeat Qadim to purchase this item.,"Чтобы купить этот предмет, нужно победить Кадима."
 You must defeat Sabetha the Saboteur to purchase this item.,"Чтобы купить этот предмет, нужно победить Сабету Диверсантку."
@@ -283,7 +281,7 @@ You must have full endurance to use this skill.,"Чтобы применить �
 "You must have Icebrood Saga episodes ""No Quarter"" or ""Jormag Rising"" unlocked and train the United Legions Waystation Synchronization Mastery to use this.","Чтобы это использовать, нужны разблокированные эпизоды Icebrood Saga «Без пощады» или «Jormag Rising» и изученное мастерство «Синхронизация промежуточных станций Объединённых легионов»."
 You must have Ley Line Gliding to unlock this skill.,"Чтобы разблокировать это умение, нужно «Ley Line Gliding»."
 You must have mounts unlocked to interact with this crate.,"Чтобы взаимодействовать с этим ящиком, нужны разблокированные ездовые животные."
-You must have one of Dwayna's artifacts to clear pollution.,"Чтобы очистить загрязнение, нужен один из артефактов Двайны."
+You must have one of Dwayna's artifacts to clear pollution.,"Чтобы очистить загрязнение, нужен один из артефактов Dwayna."
 You must have Recovery Mushrooms unlocked in order to use this.,"Чтобы это использовать, нужно разблокировать Грибы восстановления."
 You must have Stealth Gliding to unlock this skill.,"Чтобы разблокировать это умение, нужно «Stealth Gliding»."
 You must have the appropriate attunement enhancement in order to progress in this event.,"Чтобы продвинуться в этом событии, нужно соответствующее усиление настройки."
@@ -432,7 +430,6 @@ You must train Crystal Forger in Dragon Slayer Mastery track to purchase this.,"
 You must train Itzel Language in Itzel Lore Mastery and unlock the appropriate collection to purchase this item.,"Чтобы купить этот предмет, нужно изучить «Язык ицелей» в мастерстве «Знания ицелей» и открыть соответствующую коллекцию."
 You must train the Follows Advice Mastery to purchase this item.,"Чтобы купить этот предмет, нужно изучить мастерство «Follows Advice»."
 You must train the Mastery ability Exalted Acceptance and unlock the Astralaria III collection to purchase this item.,"Чтобы купить этот предмет, нужно изучить способность мастерства «Признание Возвышенных» и открыть коллекцию «Астралария III»."
-You must unlock the Advanced Logistics Mastery in the Pact Commander line to use this option.Loot that drops will instantly enter your inventory without you interacting to loot as long as you have inventory space.,"Чтобы использовать эту настройку, нужно разблокировать мастерство «Передовая логистика» в ветви «Командир Пакта».Выпавшая добыча будет сразу попадать в инвентарь без взаимодействия, пока в нём есть место."
 You must unlock the Boneskinner's Rib in the wardrobe to purchase this.,"Чтобы это купить, нужно разблокировать в гардеробе «Ребро Костедёра»."
 You must unlock the Boneskinner's Spine in the wardrobe to purchase this.,"Чтобы это купить, нужно разблокировать в гардеробе «Хребет Костедёра»."
 You must unlock the Boneskinner's Totem in the wardrobe to purchase this.,"Чтобы это купить, нужно разблокировать в гардеробе «Тотем Костедёра»."

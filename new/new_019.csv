@@ -1,12 +1,12 @@
 english,translate
-Lionguard Jennen,Lionguard Jennen
-Lionguard Keene,Lionguard Keene
-Lionguard Longbow,Lionguard Longbow
-Lionguard Peltgnaw,Lionguard Peltgnaw
-Lionguard Polearm,Lionguard Polearm
-Lionguard Sentry,Lionguard Sentry
-Lionguard Speargun,Lionguard Speargun
-Lionguard Trap,Lionguard Trap
+Lionguard Jennen,Львиный страж Дженнен
+Lionguard Keene,Львиный страж Кин
+Lionguard Longbow,Длинный лук Львиной стражи
+Lionguard Peltgnaw,Львиный страж Пелтгнау
+Lionguard Polearm,Древковое оружие Львиной стражи
+Lionguard Sentry,Часовой Львиной стражи
+Lionguard Speargun,Гарпунное ружьё Львиной стражи
+Lionguard Trap,Ловушка Львиной стражи
 Lionscout,Львиный разведчик
 Lionscout Pilfar,Львиный разведчик Пилфар
 Lionscout Tunnira,Львиная разведчица Туннира
@@ -17,7 +17,7 @@ Listen to Aurene's message.,Выслушайте послание Аурены.
 Listen to Crecia and Bangar.,Послушайте Кресию и Бангара.
 Listen to Taimi's request.,Выслушайте просьбу Тайми.
 Listen to the prisoner.,Выслушайте пленника.
-Listened to %num1% of 5 Conversations between Aurene and Soo-Won,Прослушано %num1% из 5 разговоров Аурены и Су-Вон
+Listened to %num1% of 5 Conversations between Aurene and Soo-Won,Прослушано %num1% из 5 разговоров Aurene и Су-Вон
 Listened to %num1%/%num2% Audio Logs,Прослушано %num1%/%num2% аудиозаписей
 Listened to %num1%/%num2% Delegate Updates,Прослушано %num1%/%num2% докладов делегатов
 Listened to %num1%/%num2% Entries,Прослушано %num1%/%num2% записей
@@ -40,7 +40,7 @@ Live well and waste nothing.,Живи достойно и ничего не тр
 Live well.,Живи хорошо.
 "Live, again.",Живи снова.
 "Live, my puppet! Live!","Живи, моя марионетка! Живи!"
-Livia is keeping her platform shielded. Each unshielded platform destroyed removes one stack.,Ливия удерживает щит на своей платформе. Каждая уничтоженная незащищённая платформа снимает один стак.
+Livia is keeping her platform shielded. Each unshielded platform destroyed removes one stack.,Livia удерживает щит на своей платформе. Каждая уничтоженная незащищённая платформа снимает один стак.
 Livia's Magic Shield,Магический щит Ливии
 Livor Crushspirit,Ливор Сокрушитель Духа
 "Llama Mini Choice Box[pl:""Boxes""]",[Коробка|Коробки|Коробок] выбора мини-ламы
@@ -68,7 +68,7 @@ Locked until you progress the collection.,Заблокировано до про
 Locks eyes to turn foes to stone.,"Встречается взглядом, обращая врагов в камень."
 Lodestone Collected,Самоцвет собран
 Lodestone Delivered,Самоцвет доставлен
-Lodge Keeper Kevach,Lodge Keeper Kevach
+Lodge Keeper Kevach,Хранитель ложи Кевач
 Log wood %num2% times in Bitterfrost Frontier.,Нарубите дерева %num2% раз на Bitterfrost Frontier.
 Log wood %num2% times in Bjora Marches.,Нарубите дерева %num2% раз в Bjora Marches.
 Log wood %num2% times in Bloodstone Fen.,Нарубите дерева %num2% раз в Bloodstone Fen.
@@ -87,9 +87,9 @@ Log wood %num2% times in the Domain of Istan.,Нарубите дерева %num
 Log wood %num2% times in the Domain of Kourna.,Нарубите дерева %num2% раз во Владении Курна.
 Log wood %num2% times in the Sandswept Isles.,Нарубите дерева %num2% раз на Sandswept Islesх.
 Log wood %num2% times in the Silverwastes.,Нарубите дерева %num2% раз в Серебряных Пустошах.
-Logan is empowered by his anger.,Гнев придаёт Логану сил.
-Logan sent me to help.,Логан прислал меня на помощь.
-Logan wants to speak to you.,Логан хочет с тобой поговорить.
+Logan is empowered by his anger.,Гнев придаёт Logan сил.
+Logan sent me to help.,Logan прислал меня на помощь.
+Logan wants to speak to you.,Logan хочет с тобой поговорить.
 Logan's Protection,Защита Логана
 Logbook,Судовой журнал
 Logged Wood %num1%/%num2% Times in Bitterfrost Frontier,Дерево нарублено %num1%/%num2% раз на Bitterfrost Frontier
@@ -112,7 +112,7 @@ Logged Wood %num1%/%num2% Times in the Sandswept Isles,Дерево нарубл
 Logged Wood %num1%/%num2% Times in the Silverwastes,Дерево нарублено %num1%/%num2% раз в Серебряных Пустошах
 Logi Fishersson,Логи Фишерссон
 Loner Skritt,Скритт-одиночка
-"Long ago, after we came south, Jormag turned on the spirits and took Owl from us. She once protected this land, nurturing all under her powerful, silent wings. Now we're all that's left to protect the land in Owl's stead. But a deathly chill is coming over Snowden Drifts, and we few cannot stop it by ourselves.","Давным-давно, когда мы пришли на юг, Йормаг обратился против духов и забрал у нас Сову. Когда-то она хранила эту землю, укрывая всех своими могучими бесшумными крыльями. Теперь защищать землю вместо Совы остались только мы. Но на Snowden Drifts надвигается смертельный холод, и нам одним его не остановить."
+"Long ago, after we came south, Jormag turned on the spirits and took Owl from us. She once protected this land, nurturing all under her powerful, silent wings. Now we're all that's left to protect the land in Owl's stead. But a deathly chill is coming over Snowden Drifts, and we few cannot stop it by ourselves.","Давным-давно, когда мы пришли на юг, Jormag обратился против духов и забрал у нас Сову. Когда-то она хранила эту землю, укрывая всех своими могучими бесшумными крыльями. Теперь защищать землю вместо Совы остались только мы. Но на Snowden Drifts надвигается смертельный холод, и нам одним его не остановить."
 Long may he reign!,Да будет долгим его правление!
 Long-Range Damage,Урон на дальней дистанции
 Look Closer,Присмотреться
@@ -154,11 +154,11 @@ Looted %num1%/%num2% Essence Chests in Bjora Marches,Вскрыто %num1%/%num2
 Looted %num1%/%num2% Hidden Chests in Darkrime Delves,Вскрыто %num1%/%num2% скрытых сундуков в Darkrime Delves
 Looted a Skritt Burglar Chest,Сундук скритта-взломщика вскрыт
 Lopp,Лопп
-Lord Joko's blessings upon you.,Да пребудет с тобой благословение владыки Джоко.
-Lord Valodor,Lord Valodor
+Lord Joko's blessings upon you.,Да пребудет с тобой благословение владыки Joko.
+Lord Valodor,Лорд Валодор
 Lore Located,Предание найдено
-Lorica Ripclash,Lorica Ripclash
-Lose one stack of this effect when struck by an enemy attack. Complete the Heart of Grenth event with at least one stack of this effect remaining for achievement credit.,"Вражеская атака снимает один стак этого эффекта. Завершите событие «Сердце Гренса», сохранив хотя бы один стак, чтобы получить зачёт достижения."
+Lorica Ripclash,Лорика Рвущий Лязг
+Lose one stack of this effect when struck by an enemy attack. Complete the Heart of Grenth event with at least one stack of this effect remaining for achievement credit.,"Вражеская атака снимает один стак этого эффекта. Завершите событие «Сердце Grenth», сохранив хотя бы один стак, чтобы получить зачёт достижения."
 Loss of endurance regeneration.,Потеря восстановления выносливости.
 Lost Artifact[s],Утраченный артефакт[|а|ов]
 Lost Cartographer,Заблудившийся картограф
@@ -167,11 +167,11 @@ Lost Supplies,Утерянные припасы
 "Low health increasingly slows your movement speed, up to 33%%. Endurance regenerates 33%% faster.","Чем ниже здоровье, тем сильнее падает ваша скорость передвижения — вплоть до 33%%. Выносливость восстанавливается на 33%% быстрее."
 Low on endurance.,Выносливость на исходе.
 Low-Pressure Lift,Подъём низкого давления
-Loyalist Iris,Loyalist Iris
-Loyalist Spy,Loyalist Spy
-Loyalist Vasil,Loyalist Vasil
-Loyalist forces have been pushed from Heitor's Territory. A final battle in Zakiros looms.,Силы лоялистов выбиты из Heitor's Territory. Приближается решающая битва в Закиросе.
-Loyalist forces have been pushed from Nyedra Surrounds. A final battle in Zakiros looms.,Силы лоялистов выбиты из Nyedra Surrounds. Приближается решающая битва в Закиросе.
+Loyalist Iris,Лоялистка Ирис
+Loyalist Spy,Шпион-лоялист
+Loyalist Vasil,Лоялист Васил
+Loyalist forces have been pushed from Heitor's Territory. A final battle in Zakiros looms.,Силы лоялистов выбиты из Heitor's Territory. Приближается решающая битва в Zakiros.
+Loyalist forces have been pushed from Nyedra Surrounds. A final battle in Zakiros looms.,Силы лоялистов выбиты из Nyedra Surrounds. Приближается решающая битва в Zakiros.
 Lucy,Люси
 Ludlow,Ладлоу
 Lukas Vasburg,Лукас Васбург
@@ -187,10 +187,10 @@ Lure in and kill the Eye of Zhaitan.,Выманите и убейте Eye of Zha
 Lure the White Mantle into a trap.,Заманите White Mantle в ловушку.
 Lush Kelp Bed,Густые заросли водорослей
 Luvis Gutslit,Лувис Потрошитель
-Lyhr forges a key at Droknar's Forge in: %str1%,Лир выкует ключ в Droknar's Forge через: %str1%
-"Lyhr has been corrupted by Kryptis invaders. When his defiance bar is broken, the Kryptis corrupting him will materialize and can be defeated.","Лира осквернили захватчики-криптисы. Когда его шкала стойкости будет сломана, осквернившие его криптисы материализуются, и их можно будет победить."
-Lyhr has boosted your regret. You can now damage Kryptis foes that are shielded by regret.,"Лир усилил ваше сожаление. Теперь вы можете наносить урон криптисам, укрытым щитом сожаления."
-Lyhr will attempt to forge a key in: %str1%,Лир попытается выковать ключ через: %str1%
+Lyhr forges a key at Droknar's Forge in: %str1%,Lyhr выкует ключ в Droknar's Forge через: %str1%
+"Lyhr has been corrupted by Kryptis invaders. When his defiance bar is broken, the Kryptis corrupting him will materialize and can be defeated.","Lyhr осквернили захватчики-криптисы. Когда его шкала стойкости будет сломана, осквернившие его криптисы материализуются, и их можно будет победить."
+Lyhr has boosted your regret. You can now damage Kryptis foes that are shielded by regret.,"Lyhr усилил ваше сожаление. Теперь вы можете наносить урон криптисам, укрытым щитом сожаления."
+Lyhr will attempt to forge a key in: %str1%,Lyhr попытается выковать ключ через: %str1%
 Lyssa's Frustration,Досада Лиссы
 M.E.T.A. Golem,Голем М.Е.Т.А.
 MONSTER ONLY Bat Unarmed,ТОЛЬКО МОНСТР: летучая мышь без оружия
@@ -227,9 +227,9 @@ MONSTER ONLY Vampire Beast Unarmed,ТОЛЬКО МОНСТР: зверь-вам�
 MONSTER ONLY Vigil Sword,ТОЛЬКО МОНСТР: боец Дозора с мечом
 Ma! We got another dead chicken! That cross ol' hen musta pecked it to death.,"Ма! У нас ещё одна дохлая курица! Похоже, та злющая наседка её заклевала."
 Ma'am...,Госпожа...
-Mabon and Lyhr open the Wizard's Tower in: %str1%,Мабон и Лир откроют Wizard's Tower через: %str1%
-Mabon reaches Droknar's Light in: %str1%,Мабон достигнет Droknar's Light через: %str1%
-Mabon will begin attempting to cleanse Lyhr in: %str1%,Мабон начнёт попытки очистить Лира через: %str1%
+Mabon and Lyhr open the Wizard's Tower in: %str1%,Mabon и Lyhr откроют Wizard's Tower через: %str1%
+Mabon reaches Droknar's Light in: %str1%,Mabon достигнет Droknar's Light через: %str1%
+Mabon will begin attempting to cleanse Lyhr in: %str1%,Mabon начнёт попытки очистить Lyhr через: %str1%
 Mach the Carny,Мах Балаганщик
 Mada,Мада
 Maddie,Мэдди
@@ -239,7 +239,7 @@ Made It Up the Volcano,Подъём на вулкан пройден
 Made It through the Defenses without Being Hit by Turrets,Оборона пройдена без попаданий турелей
 Made It to the Workshop without Being Hit by Turrets,До мастерской добрались без попаданий турелей
 Made Sure All the Flame Legion Cubs Felt Okay,Все детёныши Flame Legion чувствуют себя хорошо
-Made it to the top of the Arm of Abaddon.,Вершина Длани Абаддона покорена.
+Made it to the top of the Arm of Abaddon.,Вершина Длани Abaddon покорена.
 Made of Tar,Сделан из смолы
 Made of flammable tar.,Сделан из горючей смолы.
 "Maeva's home in Lion's Arch is a prominent building, well-known for the inventor's eccentricities. Many people try to catch a sneak glimpse of the old asura while she's at work here; those who have succeeded are given the best of care in the Lion's Arch infirmaries.","Дом Маэвы в Lion's Arch — приметное здание, знаменитое чудачествами изобретательницы. Многие пытаются украдкой взглянуть на старую асуру за работой; тем, кому это удалось, оказывают лучший уход в лазаретах Lion's Arch."
@@ -257,10 +257,10 @@ Magic residue left behind by peculiar magic. Stack six in order to transform.,"�
 Magic-Leaking Pipe,Труба с утечкой магии
 Magical Agitation,Магическое возмущение
 Magical Scroll,Магический свиток
-Magister Claus,Magister Claus
-Magister Keadin,Magister Keadin
-Magister Laella,Magister Laella
-Magister Lairu,Magister Lairu
+Magister Claus,Магистр Клаус
+Magister Keadin,Магистр Кидин
+Magister Laella,Магистр Лаэлла
+Magister Lairu,Магистр Лайру
 Magnificent!,Великолепно!
 Maguuma Guardian,Страж Магуумы
 "Maim your target with an immobilizing strike, then deliver a devastating blow that inflicts heavy bleeding.","Калечит цель обездвиживающим ударом, а затем наносит сокрушительный удар, вызывающий сильное кровотечение."
@@ -286,21 +286,21 @@ Makes you feel rejuvenated. Applies regeneration.,Придаёт бодрост�
 Makeshift Barricade,Самодельная баррикада
 Makeshift Jade Drone,Самодельный нефритовый дрон
 Making wine in: %str1%,Изготовление вина через: %str1%
-Makk the Silent,Makk the Silent
+Makk the Silent,Макк Молчаливый
 Mala Greenbow,Мала Зелёный Лук
 Malfunctioning,Неисправен
 Malfunctioning golems: %num1%,Неисправных големов: %num1%
 Malice Empowerment,Усиление злобы
 Malice Threshold,Порог злобы
 Malignant Fog,Пагубный туман
-Mallyx,Mallyx
+Mallyx,Малликс
 "Malodorous Mass[pl:""Masses""]",Зловонная масса
 Malvaisus,Мальвайсус
 Malyck: Hmm.,Малик: Хм.
 Malyck: Take a look at that.,Малик: Взгляни-ка на это.
 Manages Objective Upgrades,Управляет улучшениями объектов
 Manda,Мэнда
-Mangonel Gearstrip,Mangonel Gearstrip
+Mangonel Gearstrip,Мангонель Шестерёнка
 "Manifest yourself some time, Wayfinder. I'm coming.","Явись как-нибудь, Искатель пути. Я иду."
 Manta Ray,Манта
 Mantled in death.,Облачён в смерть.
@@ -348,7 +348,7 @@ Matchmaking,Подбор соперников
 Matchmaking lockout is active. Teams are being assigned for the next season.,Подбор соперников заблокирован. Идёт распределение команд на следующий сезон.
 Mathael,Матаэль
 Mattul Krighest,Маттул Кригхест
-Maul Shadowharm,Maul Shadowharm
+Maul Shadowharm,Маул Теневред
 Maully,Молли
 Maw Loudsnarl,Мау Громкий Рык
 Maw of Nourys,Пасть Нуриса
@@ -364,7 +364,7 @@ Maximum targets,Максимум целей
 May Dwayna bless you.,Да благословит тебя Двайна.
 "May I take a moment of your time, Commander?","Можно вас на минуту, командир?"
 May Lyssa aid you.,Да поможет тебе Лисса.
-May Melandru blaze your path.,Да проложит Меландру твой путь.
+May Melandru blaze your path.,Да проложит Melandru твой путь.
 May Wolf walk beside you.,Да идёт Волк рядом с тобой.
 May all your theories be sound.,Пусть все твои теории будут верны.
 May courage guide your hand.,Да направит твою руку отвага.
@@ -390,7 +390,7 @@ Maybe let them finish killing all the shadow monsters first.,"Может, сна
 Maybe there's something around here I could light it with.,"Может, тут найдётся чем это поджечь."
 Maybe they'll come back.,"Может, они вернутся."
 Maybe you'll think twice next time.,"Может, в следующий раз подумаешь дважды."
-Mayor Osborne,Mayor Osborne
+Mayor Osborne,Мэр Осборн
 Me? Not at all. But I had help.,Я? Вовсе нет. Но мне помогли.
 Meal Feast: Double-click to set out a Feast of Veggie Burgers to share with anyone in the area. Feast stays active for 5 minutes.,"Пир: дважды щёлкните, чтобы выставить пир из овощных бургеров для всех в округе. Пир длится 5 минут."
 Meatoberfest is the greatest event in the history of meat-themed events. And my cows are the stars...when cooked just right.,Мясофест — величайшее событие в истории мясных событий. И мои коровы — главные звёзды... если приготовить их как надо.
@@ -424,19 +424,19 @@ Meet Branthyn outside Ascalon Settlement.,Встретьтесь с Бранти
 Meet Caithe at Dreamer's Terrace.,Встретьтесь с Кейт на Террасе Сновидца.
 Meet Caithe in the Grove.,Встретьтесь с Кейт в Роще.
 Meet Caithe near Gleaner's Cove.,Встретьтесь с Кейт у Бухты Собирателя.
-Meet Eir Stegalkin at her Hoelbrak homestead.,Встретьтесь с Eir Stegalkin в её усадьбе в Хоэльбраке.
-Meet Eir at her Hoelbrak homestead.,Встретьтесь с Эйр в её усадьбе в Хоэльбраке.
+Meet Eir Stegalkin at her Hoelbrak homestead.,Встретьтесь с Eir Stegalkin в её усадьбе в Hoelbrak.
+Meet Eir at her Hoelbrak homestead.,Встретьтесь с Эйр в её усадьбе в Hoelbrak.
 Meet Eir at her homestead.,Встретьтесь с Эйр в её усадьбе.
 Meet Eir outside Highpass Haven.,Встретьтесь с Эйр за пределами Хайпасс-Хейвена.
 Meet Faren in Divinity's Reach. Find out why he insists on seeing you.,"Встретьтесь с Фареном в Divinity's Reach. Выясните, почему он так настаивает на встрече."
 Meet Forgal at Vigil Keep.,Встретьтесь с Форгалом в Vigil Keep.
 Meet Hiroki at the Seraph camp.,Встретьтесь с Хироки в лагере Серафимов.
 Meet Malyck and Caithe at Venlin Vale.,Встретьтесь с Маликом и Кейт в Долине Венлин.
-Meet Trahearne at Concordia to decide the Pact's next step.,"Встретьтесь с Трихерном в Конкордии, чтобы решить, что Пакт предпримет дальше."
+Meet Trahearne at Concordia to decide the Pact's next step.,"Встретьтесь с Трихерном в Concordia, чтобы решить, что Пакт предпримет дальше."
 Meet Tribune Desertgrave's agent at the Serrated Blade.,Встретьтесь с агентом трибуна Дезертгрейв в «Зазубренном клинке».
-Meet Zojja and reconsider the situation.,Встретьтесь с Зойей и пересмотрите положение дел.
+Meet Zojja and reconsider the situation.,Встретьтесь с Zojja и пересмотрите положение дел.
 Meet Zojja at the Snaff Memorial Laboratory in Rata Sum.,Встретьтесь с Зойей в Лаборатории памяти Снаффа в Rata Sum.
-Meet Zojja in her lab to discuss the Infinity Ball.,"Встретьтесь с Зойей в её лаборатории, чтобы обсудить Infinity Ball."
+Meet Zojja in her lab to discuss the Infinity Ball.,"Встретьтесь с Zojja в её лаборатории, чтобы обсудить Infinity Ball."
 Meet the Order representatives at the Pale Tree's garden in the Grove.,Встретьтесь с представителями орденов в саду Pale Tree в Роще.
 Meet the Order representatives east of Lychcroft Mere.,Встретьтесь с представителями орденов к востоку от Lychcroft Mere.
 Meet the Preceptors at the Agora in Lion's Arch.,Встретьтесь с наставниками на Агоре в Lion's Arch.
@@ -456,7 +456,7 @@ Meeting an Old Friend.,Встреча со старым другом.
 Megalaser attacks avoided: %num1%/%num2%,Уклонений от атак мегалазера: %num1%/%num2%
 Megasloth,Мегаленивец
 Megyn Vardfoetir,Мегин Вардфётир
-Melandru lives in all life.,Меландру живёт во всём живом.
+Melandru lives in all life.,Melandru живёт во всём живом.
 Melandru's Sorrow,Скорбь Меландру
 Melee Attack. +200%% damage.,Атака ближнего боя. +200%% урона.
 Melee Warrior,Воин ближнего боя
@@ -465,14 +465,14 @@ Melee • Causes Bleeding Damage • Causes Vampiric Infection,Ближний б
 Melee • Enhances Allies,Ближний бой • Усиливает союзников
 Melee • Vampiric,Ближний бой • Вампиризм
 Melinda,Мелинда
-Meliore,Meliore
-Melniza Burnspecter,Melniza Burnspecter
+Meliore,Мелиора
+Melniza Burnspecter,Мельниза Жгучий Призрак
 Melora,Мелора
 Melt hearts.,Растопите сердца.
 Meltdown,Расплавление
 Melydiod,Мелидиод
 Member of the Kennel,Член Псарни
-"Members of the Lionguard, including a knight of the Vigil, have gone missing in Lion's Arch. Reports indicate they may have been dragged into the sewers by something living beneath the city. Almorra has asked us to check it out.","Члены Львиной стражи, включая рыцаря Дозора, пропали в Lion's Arch. По сообщениям, их могло утащить в канализацию нечто, живущее под городом. Альморра попросила нас это проверить."
+"Members of the Lionguard, including a knight of the Vigil, have gone missing in Lion's Arch. Reports indicate they may have been dragged into the sewers by something living beneath the city. Almorra has asked us to check it out.","Члены Львиной стражи, включая рыцаря Дозора, пропали в Lion's Arch. По сообщениям, их могло утащить в канализацию нечто, живущее под городом. Almorra попросила нас это проверить."
 Membrane regrowth time,Время восстановления мембраны
 Memory 6.,Воспоминание 6.
 Memory Projection,Проекция воспоминаний
@@ -480,10 +480,10 @@ Memory Projector,Проектор воспоминаний
 Memory of Dhuum's Last Stand,Воспоминание о последнем бое Дуума
 "Memory[pl:""Memories""] of Sunrise",Воспоминание о Рассвете
 "Memory[pl:""Memories""] of Twilight",Воспоминание о Сумерках
-Mender Aviala,Mender Aviala
+Mender Aviala,Целительница Авиала
 Menderes,Мендерес
 Mending Trance,Врачующий транс
-Menecia Cubminder,Menecia Cubminder
+Menecia Cubminder,Менеция Нянька Детёнышей
 Mennerheim Bolt-thrower,Меннерхейм Метатель Болтов
 Merc Target,Наёмничья мишень
 Mercenary Captain,Капитан наёмников

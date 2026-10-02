@@ -1,26 +1,26 @@
 english,translate
-Stone Sweep,Stone Sweep
-Stone Tide,Stone Tide
-Stone Volley,Stone Volley
-Stonestrike,Stonestrike
-Stoning,Stoning
+Stone Sweep,Каменный взмах
+Stone Tide,Каменный прилив
+Stone Volley,Каменный залп
+Stonestrike,Каменный удар
+Stoning,Закидывание камнями
 Stop blocking and swing out with an attack.,Снять блок и провести ответную атаку.
-Storm Blast,Storm Blast
+Storm Blast,Штормовой взрыв
 Storm Damage,Урон от шторма
 Storm Duration,Длительность шторма
-Storm Spirit,Storm Spirit
-Storm Summoning,Storm Summoning
-Storm of Swords,Storm of Swords
-Storm's Edge,Storm's Edge
-Stormfall,Stormfall
-Stow Bomb Kit,Stow Bomb Kit
-Stow Elixir Gun,Stow Elixir Gun
-Stow Flamethrower,Stow Flamethrower
-Stow Grenade Kit,Stow Grenade Kit
-Stow Med Kit,Stow Med Kit
-Stow Mortar Kit,Stow Mortar Kit
-Stow Tome,Stow Tome
-Stow Tool Kit,Stow Tool Kit
+Storm Spirit,Дух шторма
+Storm Summoning,Призыв шторма
+Storm of Swords,Шторм мечей
+Storm's Edge,Грань шторма
+Stormfall,Штормовой обвал
+Stow Bomb Kit,Убрать набор бомб
+Stow Elixir Gun,Убрать эликсирную пушку
+Stow Flamethrower,Убрать огнемет
+Stow Grenade Kit,Убрать набор гранат
+Stow Med Kit,Убрать аптечку
+Stow Mortar Kit,Убрать миномёт
+Stow Tome,Убрать фолиант
+Stow Tool Kit,Убрать набор инструментов
 Stow the mortar kit.,Убрать миномёт.
 Stow your bomb kit.,Убрать ваш набор бомб.
 Stow your elixir gun.,Убрать вашу эликсирную пушку.
@@ -29,9 +29,9 @@ Stow your grenade kit.,Убрать ваш набор гранат.
 Stow your med kit.,Убрать вашу аптечку.
 Stow your tome.,Убрать ваш фолиант.
 Stow your tool kit.,Убрать ваш набор инструментов.
-Stream Strike,Stream Strike
-Strength of the Pack,Strength of the Pack
-Strike,Strike
+Stream Strike,Потоковый удар
+Strength of the Pack,Сила стаи
+Strike,Удар
 Strike Damage per Blade Spent,Урон от удара за потраченный клинок
 Strike Delay,Задержка удара
 Strike Heal Cooldown,Перезарядка исцеления от удара
@@ -48,7 +48,7 @@ Strike at foes in front of you and launch two blades of light at your target. Ea
 "Strike enemies around you, inflicting multiple conditions.","Поразите врагов вокруг себя, накладывая несколько состояний."
 "Strike enemies around you, inflicting vulnerability and gaining quickness. Gain additional quickness for each foe you hit.","Поразите врагов вокруг себя, накладывая уязвимость и получая проворство. Получайте дополнительную проворство за каждого пораженного врага."
 "Strike enemies around you, inflicting weakness, gaining barrier, and gaining additional barrier per target hit.","Поразите врагов вокруг себя, накладывая слабость, получая барьер и дополнительный барьер за каждую пораженную цель."
-"Strike enemies in front of you and roll backward, breaking immobilizing effects. Gain access to Helmet Breaker.","Ударьте врагов перед собой и отпрыгните назад, снимая эффекты обездвиживания. Получите доступ к Разрушителю шлемов."
+"Strike enemies in front of you and roll backward, breaking immobilizing effects. Gain access to Helmet Breaker.","Ударьте врагов перед собой и отпрыгните назад, снимая эффекты неподвижности. Получите доступ к Helmet Breaker."
 Strike fear into nearby foes.,Вселить страх в противников поблизости.
 Strike foes in front of you with a storm of jabs.,Обрушить на противников прямо перед вами шквал тычков.
 "Strike foes in front of you with bear claws, making them vulnerable.","Поразите врагов перед собой медвежьими когтями, делая их уязвимыми."
@@ -78,14 +78,14 @@ Strike your foe repeatedly with a shadowy assault. Evades while active.,Нане
 Strike your foe with a final powerful thrust that does extra damage and inflicts bleeding against foes below the health threshold.,"Ударьте врага финальным мощным выпадом, который наносит дополнительный урон и накладывает кровотечение на врагов с уровнем здоровья ниже порогового."
 Strike your foe with a final powerful thrust.,Ударьте врага финальным мощным выпадом.
 "Strike your foe with a flurry of strikes, distorting the space around you, making you evade attacks.","Ударьте врага шквалом ударов, искажая пространство вокруг себя и позволяя уклоняться от атак."
-Strike your foe with both weapons. Gain quickness for each strike that hits.,Ударить противника оружием в обеих руках. Вам будет даровано Проворство при каждом попадании.
+Strike your foe with both weapons. Gain quickness for each strike that hits.,Ударить противника оружием в обеих руках. Вам будет даровано проворство при каждом попадании.
 Strike your foe with flame.,Нанести противнику удар пламенем.
 Strike your foe with rending force. Follow up this attack with a dual strike that deals increased damage against foes you struck with the first.,"Нанести противнику сокрушительный удар. Продолжить эту атаку двойным ударом, который наносит повышенный урон противникам, пораженным первым ударом."
 Strike your foe with shocking force.,Ударить противника с шокирующей силой.
 "Strike your foe, charging them with static and causing lightning to strike repeatedly for a short period of time.","Ударьте врага, зарядив его статическим электричеством и заставляя молнии неоднократно бить в него в течение короткого периода времени."
 "Strike your foe, refreshing your focus and bleeding your target. Inflict vulnerability if your target is focused.","Ударьте врага, обновляя свою концентрацию и вызывая кровотечение у цели. Наложите уязвимость, если ваша цель сфокусирована."
 Strike your foes repeatedly. Enemies hit by all strikes become chilled.,"Ударить противников несколько раз подряд. Враги, пораженные всеми ударами, будут заморожены."
-Strike your foes with empowered energy. Deals increased damage based on attacks blocked by Imperial Guard.,"Поразить противников мощной энергией. Нанесенный урон будет увеличен пропорционально числу атак, заблокированных умением Императорский страж."
+Strike your foes with empowered energy. Deals increased damage based on attacks blocked by Imperial Guard.,"Поразить противников мощной энергией. Нанесенный урон будет увеличен пропорционально числу атак, заблокированных умением Imperial Guard."
 Strike your foes with lightning.,Ударить противников молнией.
 Strike your opponent with your serrated blade.,Ударить противника зазубренным клинком.
 Strike your target and remove boons. Damage and boon removal are increased against foes not using skills.,"Нанесите удар по цели и снимите с неё благословения. Урон и снятие благословений увеличиваются против врагов, не использующих навыки."
@@ -108,39 +108,39 @@ Striking an enemy with Perforate siphons health from them.,Удар по вра�
 Striking foes grants you might and inflicts poison.,Удары по врагам дают вам мощь и накладывают отравление.
 Struck by a lightning bolt.,Поражен ударом молнии.
 Struck targets are susceptible to incapacitation and being dragged away by wind sprites.,Пораженные цели уязвимы к оглушению и притягиванию ветряными духами.
-Stun,Stun
+Stun,Оглушение
 Stun nearby attacking foes with an electric shock (only once per 2 seconds for each attacker).,Оглушайте ближайших атакующих врагов электрическим разрядом (не чаще одного раза в 2 секунды для каждого атакующего).
 Stun on Melee Hit,Оглушение при ударе в ближнем бою
 Stun your foe.,Оглушите врага.
 StunBreak,Снятие оглушения
-Stunning Rush,Stunning Rush
-Sublime Conversion,Sublime Conversion
-Sulfuric Froth,Sulfuric Froth
-Summon,Summon
-Summon 7-Series Golem,Summon 7-Series Golem
-Summon Blood Fiend,Summon Blood Fiend
-Summon Bone Fiend,Summon Bone Fiend
-Summon Bone Minions,Summon Bone Minions
-Summon Crablings,Summon Crablings
-Summon Cyclone Bow,Summon Cyclone Bow
-Summon D-Series Golem,Summon D-Series Golem
-Summon Druid Spirit,Summon Druid Spirit
-Summon Flesh Golem,Summon Flesh Golem
-Summon Flesh Wurm,Summon Flesh Wurm
-Summon Healing Spring,Summon Healing Spring
+Stunning Rush,Оглушающий рывок
+Sublime Conversion,Возвышенное превращение
+Sulfuric Froth,Серная пена
+Summon,Призыв
+Summon 7-Series Golem,Призвать голема 7-й серии
+Summon Blood Fiend,Призвать кровавого изверга
+Summon Bone Fiend,Призвать костяного изверга
+Summon Bone Minions,Призвать костяных миньонов
+Summon Crablings,Призвать крабиков
+Summon Cyclone Bow,Призвать лук циклона
+Summon D-Series Golem,Призвать голема D-серии
+Summon Druid Spirit,Призвать духа друида
+Summon Flesh Golem,Призвать голема из плоти
+Summon Flesh Wurm,Призвать червя из плоти
+Summon Healing Spring,Призвать целебный источник
 Summon Interval,Интервал призыва
-Summon Kryptis Turret,Summon Kryptis Turret
-Summon Madness,Summon Madness
-Summon Power Suit,Summon Power Suit
-Summon Shadow Fiend,Summon Shadow Fiend
-Summon Spirits,Summon Spirits
-Summon Sylvan Hound,Summon Sylvan Hound
+Summon Kryptis Turret,Призвать криптис-турель
+Summon Madness,Призвать безумие
+Summon Power Suit,Призвать силовой костюм
+Summon Shadow Fiend,Призвать теневого изверга
+Summon Spirits,Призвать духов
+Summon Sylvan Hound,Призвать лесного гончую
 Summon a 7-Series attacking golem to fight for you.,"Призывает атакующего голема 7-й серии, который будет сражаться на вашей стороне."
 Summon a D-Series defensive golem.,Призывает защитного голема D-серии.
 Summon a Druid Spirit to fight at your side.,"Призвать духа друида, чтобы он сражался на вашей стороне."
 Summon a Mistfire Wolf to fight at your side.,"Призовите Mistfire Wolf, чтобы он сражался на вашей стороне."
 Summon a Power Suit which you or your allies can enter and use to combat enemies.,"Призвать силовой костюм, в который можете войти вы или ваши союзники, чтобы сражаться с врагами."
-Summon a massive hammer from the Mists to strike the ground. Recharge Coalescence of Ruin if you strike an enemy.,"Призвать из Туманов огромный молот, который бьёт по земле. Если вы нанесли противнику урон, умение Слияние разорения будет перезаряжено."
+Summon a massive hammer from the Mists to strike the ground. Recharge Coalescence of Ruin if you strike an enemy.,"Призвать из Туманов огромный молот, который бьёт по земле. Если вы нанесли противнику урон, умение Coalescence of Ruin будет перезаряжено."
 Summon a meteor to strike a random enemy.,"Призвать метеор, который поразит случайного врага."
 "Summon a projectile of air that circles around you, damaging foes. While this projectile is active, your chance to critically strike is increased. <c=@reminder>Summoning a circular projectile refreshes the duration of all other circular projectiles.</c>","Призвать снаряд воздуха, кружащийся вокруг вас и наносящий урон врагам. Пока этот снаряд активен, ваш шанс критического удара повышен. <c=@reminder>Призыв кругового снаряда обновляет длительность всех остальных круговых снарядов.</c>"
 "Summon a projectile of earth that circles around you, damaging foes. While this projectile is active, you take reduced damage from strikes. <c=@reminder>Summoning a circular projectile refreshes the duration of all other circular projectiles.</c>","Призвать снаряд земли, кружащийся вокруг вас и наносящий урон врагам. Пока этот снаряд активен, вы получаете уменьшенный урон от ударов. <c=@reminder>Призыв кругового снаряда обновляет длительность всех остальных круговых снарядов.</c>"
@@ -159,7 +159,7 @@ Summon an energy barrier that causes enemy projectiles to heal upon impact. Alli
 Summon an intense windstorm that damages and dazes foes.,"Вызвать сильный шторм, наносящий противникам урон и ошеломляющий их."
 Summon skeletal hands to cripple foes in the target area.,"Призвать руки-скелеты, которые вызывают хромоту у противников в выбранной области."
 "Summon spectral claws to slash your foe in a quick flurry of strikes, gaining life force per strike. This attack deals increased damage per stack of vulnerability on your target.","Призвать спектральные когти, чтобы быстро полоснуть врага серией ударов, получая жизненную силу за каждый удар. Эта атака наносит увеличенный урон за каждый стак уязвимости на вашей цели."
-Summon two Hounds of Balthazar to fight at your side.,"Призовите двух гончих Бальтазара, чтобы они сражались рядом с вами."
+Summon two Hounds of Balthazar to fight at your side.,"Призовите двух Hounds of Balthazar, чтобы они сражались рядом с вами."
 Summon your jade mech at the target area. Foes in the area are damaged. The recharge time of this skill is based on how damaged your mech is.,"Призвать вашего нефритового меха в целевую область. Враги в этой области получают урон. Время перезарядки этого навыка зависит от того, насколько поврежден ваш мех."
 "Summon your jade sphere, creating a combo field and granting boons to allies in its radius based on its element.","Призвать вашу нефритовую сферу, создавая комбо-поле и даруя союзникам в радиусе действия благословения, зависящие от её стихии."
 Summons a meteor to strike the target location. Deals heavy damage that decreases with distance from the impact point.,"Призывает метеор, который поражает целевую область. Наносит тяжёлый урон, который уменьшается с увеличением расстояния от точки удара."
@@ -168,45 +168,45 @@ Summons an icy monstrosity that fixates on the target.,"Призывает ле�
 Summons icy spheres that orbit the caster.,"Призывает ледяные сферы, которые вращаются вокруг заклинателя."
 Summons lightning to smite enemies.,"Призывает молнию, чтобы поразить врагов."
 Summons the fires of Balthazar to burn and weaken enemies.,"Призывает пламя Balthazar, чтобы сжечь и ослабить врагов."
-Sun Edge,Sun Edge
-Sun Ripper,Sun Ripper
-Sun Spirit,Sun Spirit
-Sundered Platform,Sundered Platform
-Sundering Leap,Sundering Leap
-Sundering Smash,Sundering Smash
-Sundering Volley,Sundering Volley
-Sunspot,Sunspot
-Super Elixir,Super Elixir
+Sun Edge,Солнечное лезвие
+Sun Ripper,Солнечный потрошитель
+Sun Spirit,Дух солнца
+Sundered Platform,Разрушенная платформа
+Sundering Leap,Разрушительный прыжок
+Sundering Smash,Разрушительный удар
+Sundering Volley,Разрушительный залп
+Sunspot,Солнечное пятно
+Super Elixir,Суперэликсир
 "Supercharge an arrow with wind magic, and then launch it at incredible speed.","Зарядить стрелу магией ветра, а затем выпустить её с невероятной скоростью."
-Supercharged Cartridges,Supercharged Cartridges
+Supercharged Cartridges,Заряженные картриджи
 Supercharged Damage Increase,Увеличение урона от суперзаряда
 "Superchills the surrounding area, damaging nearby foes.","Суперохлаждает окружающую область, нанося урон ближайшим врагам."
-Superconducting Signet,Superconducting Signet
-Supernova,Supernova
-Supersonic Arrow,Supersonic Arrow
-Superspeed,Superspeed
-Supply Crate,Supply Crate
-Surge of Darkness,Surge of Darkness
-Surge of the Mists,Surge of the Mists
-Surging Flames,Surging Flames
-Surging Maw,Surging Maw
-Surprise Shot,Surprise Shot
-Surrender,Surrender
+Superconducting Signet,Сверхпроводящая печать
+Supernova,Сверхновая
+Supersonic Arrow,Сверхзвуковая стрела
+Superspeed,Сверхскорость
+Supply Crate,Ящик с припасами
+Surge of Darkness,Всплеск тьмы
+Surge of the Mists,Всплеск Туманов
+Surging Flames,Всплеск пламени
+Surging Maw,Всплеск пасти
+Surprise Shot,Внезапный выстрел
+Surrender,Сдаться
 Surrounded by a dark aura that reduces incoming condition damage and causes torment each time you are struck (1-second cooldown per attacker).,"Окружен тёмной аурой, которая снижает входящий урон от состояний и накладывает боль каждый раз, когда вас атакуют (перезарядка 1 секунда для каждого атакующего)."
-Swap,Swap
+Swap,Смена
 Swap places with your clone. Immobilize nearby foes.,Обменяться местами с вашим клоном. Обездвижить противников поблизости.
 "Swap places with your shadow flare, causing it to detonate and deal damage to enemies at your original location. Deals increased damage to your marked target.","Поменяйтесь местами со своей теневой вспышкой, заставляя её взорваться и нанести урон врагам в вашей исходной точке. Наносит увеличенный урон вашей помеченной цели."
 Swap your Legendary Alliance Stance skills.,Сменить умения вашей Стойки легендарного союза.
-Sweep,Sweep
-Sweep the Mold,Sweep the Mold
+Sweep,Подсечка
+Sweep the Mold,Смести плесень
 "Sweep your foes along the ground, crippling them.","Сбейте врагов с ног подсечкой, накладывая увечье."
 Sweep your hammer forward to send flames rushing at your enemies.,"Взмахнуть молотом, отправляя вперёд пламя, которое обрушивается на ваших врагов."
 Sweep your mace back for a second blow.,Замахнуться булавой для второго удара.
 Sweeping attack that knocks back targets.,"Размашистая атака, отбрасывающая цели."
 Sweeping attack.,Размашистая атака.
-Swift Cut,Swift Cut
-Swiftness,Swiftness
-Swing,Swing
+Swift Cut,Быстрый разрез
+Swiftness,Быстрота
+Swing,Взмах
 Swing a holographic blade.,Взмахнуть голографическим клинком.
 "Swing an uppercut at your target, crippling them and granting vigor to nearby allies. Gain Nature's Strength if you hit an enemy. 
 <c=@reminder>This skill cannot activate Force of Nature.</c>","Нанесите апперкот по цели, нанося ей урон и лишая равновесия, а также даруя энергичность находящимся рядом союзникам. Если вы попадете по врагу, получите эффект «Nature's Strength».
@@ -219,84 +219,84 @@ Swing your mace at your foe.,Взмахнуть булавой и ударить
 "Swing your spear, sending out a wave of light in front of you that damages enemies and heals allies.","Взмахните копьём, посылая перед собой волну света, которая наносит урон врагам и исцеляет союзников."
 "Swing your spear. If your enemy is far away, throw your spear instead.","Взмахните копьём. Если враг далеко, вместо этого метните копьё."
 "Swing your staff a second time, striking multiple enemies.","Взмахните посохом во второй раз, поражая нескольких врагов."
-Swipe,Swipe
+Swipe,Удар
 "Swipe at enemies in front of you, cleaving them.","Ударьте врагов перед собой, нанося урон по площади."
 "Swipe at your foe, knocking them back.","Ударьте врага, отбрасывая его назад."
 "Swipe past your foe's defenses, exposing their vulnerability.","Пробейте защиту врага, обнажая его уязвимость."
 Swipe your staff at your foe.,Стукнуть посохом по противнику.
 "Swipes forward, creating a cascading wind that knocks back targets.","Взмахните вперёд, создавая каскадный ветер, который отбрасывает цели."
 "Swipes the air, dealing damage at close range.","Взмахните в воздухе, нанося урон на ближней дистанции."
-Swirling Strike,Swirling Strike
-Swirling Winds,Swirling Winds
+Swirling Strike,Вихревой удар
+Swirling Winds,Вихревые ветры
 Swirling darkness damages and cripples enemies caught within it.,"Вихревая тьма наносит урон и накладывает увечье на врагов, попавших в неё."
 Swirling shadows rip targets apart as they are pulled toward the center of the rift.,"Вихревые тени разрывают цели, притягивая их к центру разлома."
-Swoop,Swoop
+Swoop,Пикирование
 Swoop at a target.,Пикируйте на цель.
 "Swoop at your foe, making them vulnerable.","Пикируйте на врага, делая его уязвимым."
-Sword Arc,Sword Arc
+Sword Arc,Дуга меча
 Sword Radius,Радиус меча
-Sword Spin,Sword Spin
+Sword Spin,Вращение меча
 Sword Strike Damage,Урон от удара мечом
 Sword Strike Range,Дальность удара мечом
-Sword Wave,Sword Wave
-Sword of Decimation,Sword of Decimation
-Sword of Wrath,Sword of Wrath
-Symbiotic Shielding,Symbiotic Shielding
+Sword Wave,Волна меча
+Sword of Decimation,Меч опустошения
+Sword of Wrath,Меч гнева
+Symbiotic Shielding,Симбиотический щит
 Symbol Damage,Урон символа
 Symbol Duration,Длительность символа
 Symbol Radius,Радиус символа
-Symbol of Blades,Symbol of Blades
-Symbol of Energy,Symbol of Energy
-Symbol of Faith,Symbol of Faith
-Symbol of Ignition,Symbol of Ignition
-Symbol of Judgment,Symbol of Judgment
-Symbol of Light,Symbol of Light
-Symbol of Luminance,Symbol of Luminance
-Symbol of Protection,Symbol of Protection
-Symbol of Punishment,Symbol of Punishment
-Symbol of Resolution,Symbol of Resolution
-Symbol of Spears,Symbol of Spears
-Symbol of Swiftness,Symbol of Swiftness
-Symbol of Vengeance,Symbol of Vengeance
+Symbol of Blades,Символ клинков
+Symbol of Energy,Символ энергии
+Symbol of Faith,Символ веры
+Symbol of Ignition,Символ воспламенения
+Symbol of Judgment,Символ правосудия
+Symbol of Light,Символ света
+Symbol of Luminance,Символ сияния
+Symbol of Protection,Символ защиты
+Symbol of Punishment,Символ наказания
+Symbol of Resolution,Символ решимости
+Symbol of Spears,Символ копий
+Symbol of Swiftness,Символ стремительности
+Symbol of Vengeance,Символ возмездия
 Symbol that burns and removes effects from foes and removes conditions from allies.,"Символ, который обжигает и снимает эффекты с врагов, а также снимает состояния с союзников."
-Syncopate,Syncopate
-Tactical Blow,Tactical Blow
-Tactical Reload,Tactical Reload
-Tactical Strike,Tactical Strike
-Tail Lash,Tail Lash
-Tail Slam,Tail Slam
-Tail Stab,Tail Stab
-Tail Swipe,Tail Swipe
-Tail Whip,Tail Whip
-Tailored Victory,Tailored Victory
-Tainted Bolts,Tainted Bolts
-Tainted Shackles,Tainted Shackles
-Take Root,Take Root
+Syncopate,Синкопа
+Tactical Blow,Тактический удар
+Tactical Reload,Тактическая перезарядка
+Tactical Strike,Тактический удар
+Tail Lash,Удар хвостом
+Tail Slam,Хлопок хвостом
+Tail Stab,Укол хвостом
+Tail Swipe,Взмах хвостом
+Tail Whip,Удар хвостом
+Tailored Victory,Сшитая победа
+Tainted Bolts,Зараженные болты
+Tainted Shackles,Зараженные оковы
+Take Root,Укоренение
 Take less damage from taunted foes.,Получайте меньше урона от провоцируемых врагов.
 Take no damage from incoming attacks.,Не получайте урона от входящих атак.
 Take reduced damage.,Получайте сниженный урон.
 Take reduced physical damage.,Получайте сниженный физический урон.
 "Take root at your current location, becoming immobile, but causing several turrets to grow nearby.","Укоренитесь на текущем месте, став неподвижным, но создав рядом несколько турелей."
-Takedown,Takedown
-Taking damage from a fluxlance attack while under the effects of Harmonic Sensitivity causes extra damage.,Получение урона от атаки флюкс-копья под действием Гармонической чувствительности наносит дополнительный урон.
-Taking damage from a spark while under the effects of Galvanic Sensitivity causes extra damage.,Получение урона от искры под действием Гальванической чувствительности наносит дополнительный урон.
-Tale of the August Queen,Tale of the August Queen
-Tale of the Honorable Rogue,Tale of the Honorable Rogue
-Tale of the Second Scion,Tale of the Second Scion
-Tale of the Soulkeeper,Tale of the Soulkeeper
-Tale of the Tortured Mastermind,Tale of the Tortured Mastermind
-Tale of the Valiant Marshal,Tale of the Valiant Marshal
-Tantrum,Tantrum
+Takedown,Добивание
+Taking damage from a fluxlance attack while under the effects of Harmonic Sensitivity causes extra damage.,Получение урона от атаки флюкс-копья под действием Harmonic Sensitivity наносит дополнительный урон.
+Taking damage from a spark while under the effects of Galvanic Sensitivity causes extra damage.,Получение урона от искры под действием Galvanic Sensitivity наносит дополнительный урон.
+Tale of the August Queen,Сказание об Августейшей королеве
+Tale of the Honorable Rogue,Сказание о благородном разбойнике
+Tale of the Second Scion,Сказание о втором наследнике
+Tale of the Soulkeeper,Сказание о Хранителе душ
+Tale of the Tortured Mastermind,Сказание о мученике-стратеге
+Tale of the Valiant Marshal,Сказание о доблестном маршале
+Tantrum,Истерика
 "Tap into your connection with the Mists, empowering your legends for a short period of time.","Используйте свою связь с Туманами, усиливая свои легенды на короткий период времени."
-Tar Font,Tar Font
-Tar Pool,Tar Pool
+Tar Font,Источник смолы
+Tar Pool,Лужа смолы
 "Target foe becomes entangled by vines, and is unable to move until they have been destroyed.","Целевой враг опутывается лианами и не может двигаться, пока они не будут уничтожены."
-Targeted Expulsion,Targeted Expulsion
+Targeted Expulsion,Целевое изгнание
 Targets Dazed,Цели оглушены
 Targets a foe with a massive burst of frost magic. The damage done by this attack is distributed among all enemies caught in the blast.,"Нацеливается на врага мощным всплеском магии льда. Урон от этой атаки распределяется между всеми врагами, попавшими в зону взрыва."
 "Targets all players and launches a bouncing projectile toward their location, leaving fire after each bounce.","Выбирает целью всех игроков и запускает рикошетящий снаряд в их сторону, оставляя огонь после каждого отскока."
 "Targets an area, leaving behind a damaging ice combo field.","Выбирает область, оставляя после себя ледяное комбо-поле, наносящее урон."
-"Targets designated for Temporal Realignment take 80% of their health in damage, split between any nearby allies.","Цели, назначенные для Временной перенастройки, получают 80% урона от своего здоровья, распределенного между ближайшими союзниками."
+"Targets designated for Temporal Realignment take 80% of their health in damage, split between any nearby allies.","Цели, назначенные для Temporal Realignment, получают 80% урона от своего здоровья, распределенного между ближайшими союзниками."
 Targets per Arrow,Целей на стрелу
 Targets per Axe,Целей за топор
 Targets per Field,Целей за поле
@@ -307,42 +307,42 @@ Targets per Shard,Целей за осколок
 Targets per Shell,Целей за снаряд
 Targets take extreme damage that is split evenly between allies directly nearby.,"Цели получают огромный урон, который распределяется поровну между ближайшими союзниками."
 Targets the farthest player with a beam of continuous icy doom.,Нацеливается на самого дальнего игрока лучом непрерывной ледяной гибели.
-Taste for Blood,Taste for Blood
-Taste of Death,Taste of Death
-Taunt,Taunt
-Taw Shot,Taw Shot
+Taste for Blood,Жажда крови
+Taste of Death,Вкус смерти
+Taunt,Насмешка
+Taw Shot,Удар пальцем
 "Tears the ground apart, knocking back enemies.","Разрывает землю, отбрасывая врагов."
-Technobabble,Technobabble
-Tectonic Shift,Tectonic Shift
-Tectonic Upheaval,Tectonic Upheaval
-Teeth from the Deep,Teeth from the Deep
-Teleport,Teleport
-Teleport Displacement Field,Teleport Displacement Field
-Teleport Lunge,Teleport Lunge
+Technobabble,Техноболтовня
+Tectonic Shift,Тектонический сдвиг
+Tectonic Upheaval,Тектонический переворот
+Teeth from the Deep,Зубы из глубин
+Teleport,Телепортация
+Teleport Displacement Field,Поле телепортационного смещения
+Teleport Lunge,Телепортационный выпад
 Teleport Radius,Радиус телепортации
 Teleport Range,Дальность телепортации
 "Teleport behind your target and drag any spinning axes back at your target. Returning axes also inflict torment, and enemies struck by a number of axes will be immobilized.","Телепортируйтесь за спину цели и притяните все вращающиеся топоры обратно к ней. Возвращающиеся топоры также накладывают боль, а враги, пораженные несколькими топорами, будут обездвижены."
 Teleport to an enemy and slam them into the ground.,Телепортируйтесь к врагу и вбейте его в землю.
 "Teleport to the foe marked by Isolate, recharge Perforate, and gain soul shards. Gain additional soul shards if there are no other enemies nearby.","Телепортируйтесь к врагу, отмеченному «Изоляцией», перезарядите «Перфорацию» и получите осколки души. Получите дополнительные осколки души, если поблизости нет других врагов."
 Teleport to the target location.,Телепортироваться в выбранное место.
-"Teleport to your target and release a cascade of psychic energy, damaging nearby enemies. Refresh your Mind the Gap skill. The initial impact stuns foes struck if you have Clarity.","Телепортируйтесь к цели и выпустите каскад психической энергии, нанося урон ближайшим врагам. Обновите навык «Умственная пропасть». Первоначальный удар оглушает пораженных врагов, если у вас есть «Ясность»."
+"Teleport to your target and release a cascade of psychic energy, damaging nearby enemies. Refresh your Mind the Gap skill. The initial impact stuns foes struck if you have Clarity.","Телепортируйтесь к цели и выпустите каскад психической энергии, нанося урон ближайшим врагам. Обновите навык Mind the Gap. Первоначальный удар оглушает пораженных врагов, если у вас есть «Ясность»."
 "Teleports to a new corner, creating astral explosions along the way.","Телепортируется в новый угол, создавая по пути астральные взрывы."
-Tempest of Flame,Tempest of Flame
-Tempest's Spike,Tempest's Spike
-Temporal Curtain,Temporal Curtain
-Temporal Realignment,Temporal Realignment
-Temporal Rift,Temporal Rift
-Temporal Shred,Temporal Shred
-Temporal Vortex,Temporal Vortex
-Tentacle Slash,Tentacle Slash
-Terraform,Terraform
-Terrestrial Cryoflash,Terrestrial Cryoflash
-Terrify,Terrify
+Tempest of Flame,Огненная буря
+Tempest's Spike,Шип бури
+Temporal Curtain,Временная завеса
+Temporal Realignment,Временная перестройка
+Temporal Rift,Временной разлом
+Temporal Shred,Временной разрез
+Temporal Vortex,Временной вихрь
+Tentacle Slash,Удар щупальцем
+Terraform,Терраформирование
+Terrestrial Cryoflash,Наземная криовспышка
+Terrify,Устрашение
 Terrify all foes in front of you with a wave of fear.,Запугать всех противников прямо перед собой волной страха.
-Terrifying Apparition,Terrifying Apparition
-Terrifying Howl,Terrifying Howl
-Terrorstorm,Terrorstorm
-Test of Faith,Test of Faith
+Terrifying Apparition,Устрашающее привидение
+Terrifying Howl,Устрашающий вой
+Terrorstorm,Шторм ужаса
+Test of Faith,Испытание веры
 Tether Distance,Дистанция привязи
 "Tether yourself to your target. If they move beyond the range threshold, pull them to you. Grants might and reveals your target every second.","Привяжите себя к цели. Если она выйдёт за пределы радиуса действия, притяните её к себе. Дарует мощь и раскрывает вашу цель каждую секунду."
 Tethered Ally Heal per Target,Исцеление привязанного союзника за цель
@@ -352,7 +352,7 @@ The Apocalypse Bringer summons a reaper of flesh on an enemy if there is no near
 The Apocalypse Bringer summons forth allies if its defiance is not broken.,"Вестник Апокалипсиса призывает союзников, если его шкала стойкости не разбита."
 The Blue Guardian distributes its magic to a point that must be absorbed before it unleashes devastating damage.,"Синий Страж распределяет свою магию в точку, которую необходимо поглотить, прежде чем он нанесет разрушительный урон."
 "The Blue Guardian pulses energy every 3 seconds, damaging all foes in range.","Синий Страж пульсирует энергией каждые 3 секунды, нанося урон всем врагам в радиусе действия."
-"The Brood Queen charges, knocking away foes in her path.","Приказать вашему голему из плоти даровать себе Устойчивость и напасть на противника, сбивая с ног или отбрасывая противников у себя на пути."
+"The Brood Queen charges, knocking away foes in her path.","Приказать вашему голему из плоти даровать себе устойчивость и напасть на противника, сбивая с ног или отбрасывая противников у себя на пути."
 "The Brood Queen lashes out, sinking poisonous fangs into her foes as she knocks them down.","Brood Queen наносит удар, вонзая ядовитые клыки во врагов и сбивая их с ног."
 The Brood Queen unleashes its webs to pull and slow opponents.,"Brood Queen выпускает паутину, чтобы притянуть и замедлить противников."
 The Broodmother lashes out with poisonous fangs.,Мать выводка наносит удар ядовитыми клыками.
@@ -377,12 +377,12 @@ The Eye deals damage to all nearby enemies in its line of sight.,Око нано
 The Fallen pulse a volatile aura that deals damage to all foes every 3 seconds.,"Падшие пульсируют нестабильной аурой, которая наносит урон всем врагам каждые 3 секунды."
 "The Green Guardian creates unstable spikes of magic, teleporting players caught in the impact.","Зелёный страж создает нестабильные магические шипы, телепортируя игроков, попавших в зону удара."
 "The Green Guardian pulses energy every 3 seconds, damaging all foes in range.","Зелёный страж пульсирует энергией каждые 3 секунды, нанося урон всем врагам в радиусе действия."
-"The Greerling leaps into the air toward a targeted player. When it lands, targets directly under it will be knocked back and gain a stack of Plague Rot. The Greerling then fires cascades of rot walls that ripple outward, inflicting damage, knockback, and bleeding on anyone they hit. The final rot wall stays in place, blocking player projectiles that hit it.","Грирлинг подпрыгивает в воздух в сторону выбранного игрока. При приземлении цели прямо под ним будут оттолкнуты и получат заряд Гнили чумы. Затем Грирлинг выпускает каскады стен гнили, которые расходятся наружу, нанося урон, отталкивание и кровотечение всем, кого они заденут. Финальная стена гнили остается на месте, блокируя снаряды игроков, которые в неё попадают."
+"The Greerling leaps into the air toward a targeted player. When it lands, targets directly under it will be knocked back and gain a stack of Plague Rot. The Greerling then fires cascades of rot walls that ripple outward, inflicting damage, knockback, and bleeding on anyone they hit. The final rot wall stays in place, blocking player projectiles that hit it.","Грирлинг подпрыгивает в воздух в сторону выбранного игрока. При приземлении цели прямо под ним будут оттолкнуты и получат заряд Plague Rot. Затем Грирлинг выпускает каскады стен гнили, которые расходятся наружу, нанося урон, отталкивание и кровотечение всем, кого они заденут. Финальная стена гнили остается на месте, блокируя снаряды игроков, которые в неё попадают."
 "The Greerling leaps into the air towards a targeted player. When the Greerling lands, targets directly under it will be knocked back. It then fires cascades of rot walls that ripple outward, inflicting damage, knockback, and bleeding on anyone they hit. The final rot wall stays in place, blocking player projectiles that hit them.","Грирлинг подпрыгивает в воздух в сторону выбранного игрока. При приземлении Грирлинга цели прямо под ним будут оттолкнуты. Затем он выпускает каскады стен гнили, которые расходятся наружу, нанося урон, отталкивание и кровотечение всем, кого они заденут. Финальная стена гнили остается на месте, блокируя снаряды игроков, которые в неё попадают."
 "The Greerling places a stacking indicator on several players. If the indicated number of players are within the circle when time runs out, the rot eruption is stabilized and only does damage. If a player is within more than one stacking circle, they are instantly killed. If there are not enough players within the circle, a rot eruption occurs and the Greerling gains 2 empowered stacks.","Грирлинг размещает индикатор накопления на нескольких игроках. Если указанное количество игроков находится внутри круга к моменту истечения времени, извержение гнили стабилизируется и наносит только урон. Если игрок находится более чем в одном круге накопления, он мгновенно погибает. Если внутри круга недостаточно игроков, происходит извержение гнили, и Грирлинг получает 2 заряда усиления."
 The Greerling rapidly fires exploding spores in a cone in front of it. Players in this cone will be directly targeted by the spores.,Грирлинг быстро выпускает взрывающиеся споры конусом перед собой. Игроки в этом конусе станут прямыми целями для спор.
 "The Greerling stomps 3 times in quick succession. The first two stomps hit all targets in a circle around the impact point dealing damage, inflicting poison, and applying vulnerability. The third stomp creates a wave of corruption.","Грирлинг топает 3 раза подряд. Первые два топота поражают все цели в круге вокруг точки удара, нанося урон, вызывая отравление и накладывая уязвимость. Третий топот создает волну порчи."
-"The Greerling sweeps its claw in a 60-degree cone, damaging, bleeding, poisoning, and knocking back targets. This attack sets up Rake the Rot, the next attack in the chain.","Грирлинг делает взмах когтем в 60-градусном конусе, нанося урон, кровотечение, отравление и отбрасывая цели. Эта атака подготавливает «Грабли гнили» — следующую атаку в цепочке."
+"The Greerling sweeps its claw in a 60-degree cone, damaging, bleeding, poisoning, and knocking back targets. This attack sets up Rake the Rot, the next attack in the chain.","Грирлинг делает взмах когтем в 60-градусном конусе, нанося урон, кровотечение, отравление и отбрасывая цели. Эта атака подготавливает Rake the Rot — следующую атаку в цепочке."
 "The Greerling sweeps its claw in a 60-degree cone, damaging, crippling, poisoning, and knocking back targets. This attack sets up Stomp the Mould, the final attack in the chain.","Грирлинг делает взмах когтем в 60-градусном конусе, нанося урон, увечье, отравление и отбрасывая цели. Эта атака подготавливает «Топот плесени» — финальную атаку в цепочке."
 "The Greerling targets 3 players, preferring the farthest away, and then fires a torrent of exploding spores along a line that moves towards the initial position of the target. The spores explode on impact, inflicting damage, poison, and confusion.","Грирлинг выбирает 3 игроков, отдавая предпочтение самым дальним, а затем выпускает поток взрывающихся спор по линии, которая движется к начальной позиции цели. Споры взрываются при ударе, нанося урон, отравление и замешательство."
 "The Jade Soldier explodes on death, dealing massive damage.","Нефритовый солдат взрывается при смерти, нанося огромный урон."
@@ -402,11 +402,11 @@ The Magma Elemental explodes upon death.,Magma Elemental взрывается п
 "The Mindblade targets a nearby enemy and, after a short delay, begins creating damaging fields of psychic energy around their target. These fields persist and deal heavy damage in an area.",The Mindblade выбирает ближайшего врага и после небольшой задержки начинает создавать вокруг своей цели разрушительные поля психической энергии. Эти поля сохраняются и наносят тяжёлый урон по области.
 The Minister of Morale emits a volatile pulse that deals damage to all foes.,"Minister of Morale испускает нестабильный импульс, который наносит урон всем врагам."
 The Mists tears shoot out projections at player locations. Tears can be closed by stepping into their void.,"Разрывы Туманов выпускают проекции в местах нахождения игроков. Разрывы можно закрыть, войдя в их пустоту."
-The Prestige,The Prestige
+The Prestige,Престиж
 The Pyre Guardian damages and burns foes that get to close.,"Огненный страж наносит урон и сжигает врагов, которые подходят слишком близко."
 The Red Guardian distributes its magic to a point that must be absorbed before it unleashes devastating damage.,"Красный страж распределяет свою магию в точку, которую необходимо поглотить, прежде чем он нанесет разрушительный урон."
 "The Red Guardian pulses energy every 3 seconds, damaging all foes in range.","Красный страж пульсирует энергией каждые 3 секунды, нанося урон всем врагам в радиусе действия."
-The Ripper,The Ripper
+The Ripper,Потрошитель
 The River of Souls drains the life essence of all living beings who set foot in its stream.,"River of Souls высасывает жизненную сущность всех живых существ, ступивших в её поток."
 "The River of Souls indiscriminately unleashes its wrath upon you and any nearby targets, dealing damage and inflicting stun.","River of Souls без разбора обрушивает свой гнев на вас и любые близлежащие цели, нанося урон и оглушая."
 "The Seeker pulses magic damage every second, hitting all enemies in range.","Искатель пульсирует магическим уроном каждую секунду, поражая всех врагов в радиусе действия."
@@ -418,12 +418,12 @@ The Vale Guardian sends slow-moving projectiles at you that deal damage on hit.,
 The Voice fires an arrow that bounces between nearby targets.,"Голос выпускает стрелу, которая отскакивает между ближайшими целями."
 "The Voice fires an arrow that splits and tracks enemies, creating immobilizing traps at each point of impact.","Голос выпускает стрелу, которая разделяется и преследует врагов, создавая обездвиживающие ловушки в каждой точке попадания."
 "The Voice leaps backward, leaving behind a trap that immobilizes enemies.","Голос совершает прыжок назад, оставляя после себя ловушку, которая обездвиживает врагов."
-The Whisper of Jormag covers the ground with volatile ice magic that deals periodic damage.,"Шёпот Jormag покрывает землю нестабильной ледяной магией, наносящей периодический урон."
-The Whisper of Jormag pulses a volatile aura that deals damage every 3 seconds to all foes.,"Шёпот Jormag пульсирует нестабильной аурой, наносящей урон всем противникам каждые 3 секунды."
-The Whisper of Jormag summons deadly ice tornadoes.,Шёпот Jormag призывает смертоносные ледяные торнадо.
-The Whisper of Jormag targets a foe with a massive burst of frost magic. The damage done by this attack is distributed among all enemies caught in the blast.,"Шёпот Jormag нацеливается на противника мощным всплеском магии льда. Урон от этой атаки распределяется между всеми врагами, попавшими под удар."
-"The Whisper of Jormag targets all enemies with deadly ice shards. While a target may evade their own shards, they may not evade others' shards.","Шёпот Jormag нацеливается на всех врагов смертоносными ледяными осколками. Хотя цель может уклониться от своих осколков, она не может уклониться от чужих."
-The World Ends in Decay,The World Ends in Decay
+The Whisper of Jormag covers the ground with volatile ice magic that deals periodic damage.,"The Whisper of Jormag покрывает землю нестабильной ледяной магией, наносящей периодический урон."
+The Whisper of Jormag pulses a volatile aura that deals damage every 3 seconds to all foes.,"The Whisper of Jormag пульсирует нестабильной аурой, наносящей урон всем противникам каждые 3 секунды."
+The Whisper of Jormag summons deadly ice tornadoes.,The Whisper of Jormag призывает смертоносные ледяные торнадо.
+The Whisper of Jormag targets a foe with a massive burst of frost magic. The damage done by this attack is distributed among all enemies caught in the blast.,"The Whisper of Jormag нацеливается на противника мощным всплеском магии льда. Урон от этой атаки распределяется между всеми врагами, попавшими под удар."
+"The Whisper of Jormag targets all enemies with deadly ice shards. While a target may evade their own shards, they may not evade others' shards.","The Whisper of Jormag нацеливается на всех врагов смертоносными ледяными осколками. Хотя цель может уклониться от своих осколков, она не может уклониться от чужих."
+The World Ends in Decay,Мир заканчивается в тлене
 The anomaly overloads with energy and deals massive damage to all foes.,Аномалия перегружается энергией и наносит огромный урон всем противникам.
 The anomaly unleashes its new power.,Аномалия высвобождает свою новую силу.
 The arcs can only strike enemies touching the ground.,"Дуги могут поразить только тех врагов, которые касаются земли."
@@ -432,10 +432,10 @@ The arcs can only strike enemies touching the ground.,"Дуги могут по�
 "The boneskinner spews a noxious cloud, launching enemies and applying torment. Extinguishes torches.","Boneskinner извергает ядовитое облако, подбрасывая врагов и накладывая боль. Гасит факелы."
 "The cauldron discharges some energy, causing minor damage.","Котёл разряжает часть энергии, нанося незначительный урон."
 The caustic ooze flails around to attack enemies.,"Едкая слизь извивается, атакуя врагов."
-The chain of frost between the Whisper of Jormag and one of its foes deals damage to those who touch it.,"Цепь мороза между Шепотом Jormag и одним из его врагов наносит урон тем, кто к ней прикасается."
+The chain of frost between the Whisper of Jormag and one of its foes deals damage to those who touch it.,"Цепь мороза между Whisper of Jormag и одним из его врагов наносит урон тем, кто к ней прикасается."
 The combination of energies results in a deadly explosion.,Комбинация энергий приводит к смертоносному взрыву.
 The cooldown of your next pistol skill is reduced.,Время перезарядки вашего следующего навыка копья сокращено.
-The damage of True Strike is increased.,Урон Истинного Удара увеличен.
+The damage of True Strike is increased.,Урон True Strike увеличен.
 The death of the anomaly creates a surging heat.,Смерть аномалии создает волну жара.
 The demonic tears shoot out projections at player locations. Tears can be closed by stepping into their void.,"Демонические разломы выпускают проекции в места нахождения игроков. Разломы можно закрыть, встав в их пустоту."
 The destroyer jumps into the air and slams down with tremendous force.,Разрушитель подпрыгивает в воздух и обрушивается вниз с огромной силой.
@@ -455,7 +455,7 @@ The ground erupts with deadly skeletal fingers that deal damage and corrupt boon
 The harp is playing in the background.,На фоне играет арфа.
 "The heavy bomb explodes, dealing massive damage to foes and the platform.","Тяжёлая бомба взрывается, нанося огромный урон врагам и платформе."
 The hologram's presence causes all foes within range to take damage every 3 seconds.,Присутствие голограммы заставляет всех врагов в радиусе действия получать урон каждые 3 секунды.
-"The hydra bites with two heads, applying bleeding, poison, and chill.","Гидра кусает двумя головами, накладывая кровотечение, яд и холод."
+"The hydra bites with two heads, applying bleeding, poison, and chill.","Гидра кусает двумя головами, накладывая кровотечение, отравление и заморозку."
 The hydra spits a fireball that leaves behind a burning field.,"Гидра извергает огненный шар, оставляющий после себя область горения."
 "The hydra teleports to a new platform, knocking back foes when it appears.","Гидра телепортируется на новую платформу, отбрасывая врагов при появлении."
 The hydra unleashes a deadly flurry of meteors at all its foes while also applying boons to itself.,"Гидра обрушивает смертоносный шквал метеоров на всех своих врагов, одновременно накладывая благословения на себя."
@@ -502,7 +502,7 @@ The troll lashes out with its sharpened appendages.,Порезать проти�
 The voltaic wisp immobilizes foes with steady streams of paralyzing shocks from its tail.,Вольтовый огонёк обездвиживает врагов постоянными потоками парализующих разрядов из своего хвоста.
 The water is charged with an electrical current.,Вода заряжена электрическим током.
 The whispering shadow assails all enemies with waves of supernatural cold and darkness. Each pulse of damage also grants it one stack of Empowered.,Шепчущая тень атакует всех врагов волнами сверхъестественного холода и тьмы. Каждый импульс урона также даёт ей один стак Усиления.
-"The whispering shadow becomes vulnerable to defiance damage and repeatedly targets enemies who carry life-fire. While channeling, Guttering Light damages all enemies in the life-fire's radius. Upon completion, life-fire is removed from the target and the whispering shadow gains a stack of Inevitable Darkness.","Шепчущая тень становится уязвимой к урону по шкале стойкости и неоднократно выбирает целью врагов, несущих жизненный огонь. Во время подготовки Мерцающий свет наносит урон всем врагам в радиусе действия жизненного огня. По завершении жизненный огонь удаляется с цели, а Шепчущая тень получает стак Неизбежной тьмы."
+"The whispering shadow becomes vulnerable to defiance damage and repeatedly targets enemies who carry life-fire. While channeling, Guttering Light damages all enemies in the life-fire's radius. Upon completion, life-fire is removed from the target and the whispering shadow gains a stack of Inevitable Darkness.","Шепчущая тень становится уязвимой к урону по шкале стойкости и неоднократно выбирает целью врагов, несущих жизненный огонь. Во время подготовки Guttering Light наносит урон всем врагам в радиусе действия жизненного огня. По завершении жизненный огонь удаляется с цели, а Шепчущая тень получает стак Неизбежной тьмы."
 "The whispering shadow creates multiple fissures in the ground that erupt with razor-sharp blades of ice. As health drops, more fissures are created.","Шепчущая тень создает в земле несколько трещин, из которых извергаются острые как бритва ледяные клинки. По мере снижения здоровья создается больше трещин."
 "The whispering shadow flash-freezes a large swath of terrain in front of itself, damaging everything in the area.","Шепчущая тень мгновенно замораживает большую полосу местности перед собой, нанося урон всему в этой области."
 The whispering shadow summons a hailstorm of exploding ice shards that rain down on several opponents. Each attack deals increased damage to secondary targets.,"Шепчущая тень призывает град взрывающихся ледяных осколков, которые обрушиваются на нескольких противников. Каждая атака наносит увеличенный урон вторичным целям."

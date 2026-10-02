@@ -58,7 +58,7 @@ The bivouac has been secured.,Бивуак взят под охрану.
 "The corruption was threatening to engulf Fort Cadence. Your participation has slowed down enough to give us time to formulate a more permanent solution. The fort's not safe, but the situation is no longer as dire as it was.","Скверна угрожала поглотить Fort Cadence. Ваше участие замедлило её распространение, дав нам время на поиск более надёжного решения. Форт ещё не в безопасности, но ситуация уже не так критична, как была."
 "The destroyers at Pinion Pass were overpowered, thanks to your assistance. This small victory has given the Priory time to regroup, but the destroyers will return. As long as Primordus lives, we'll have no rest. Perhaps one day, you will end it all. I've seen your strength, and I believe you're capable of such a feat. Good luck, %str1%.
 
-—Kruppa","Разрушители в Перевале Пинион были побеждены благодаря вашей помощи. Эта маленькая победа дала Приорату время перегруппироваться, но разрушители вернутся. Пока жив Примордус, покоя нам не будет. Возможно, однажды вы положите этому конец. Я видел вашу силу и верю, что вы способны на такой подвиг. Удачи, %str1%.
+—Kruppa","Разрушители в Перевале Пинион были побеждены благодаря вашей помощи. Эта маленькая победа дала Приорату время перегруппироваться, но разрушители вернутся. Пока жив Primordus, покоя нам не будет. Возможно, однажды вы положите этому конец. Я видел вашу силу и верю, что вы способны на такой подвиг. Удачи, %str1%.
 
 —Kruppa"
 "The disruption you created in the centaur camps sure made a difference! It'll take them a while to recover, and with their captives now released, the centaurs' trade will be in shambles. You've done a great thing.","Устроенный вами переполох в лагерях кентавров определённо изменил ситуацию! Им потребуется время, чтобы оправиться, а с освобождением пленников торговля кентавров будет разрушена. Вы сделали великое дело."
@@ -105,11 +105,11 @@ The krait in Slavers Deeps have their tails between their legs. they won't be ha
 —Diantha"
 "The ranch is starting to look half-good. Unless disaster strikes, I think my job is done here. That means your job is done too. Here's your payment.","Ранчо начинает выглядеть неплохо. Если не случится катастрофы, думаю, моя работа здесь закончена. А значит, и ваша тоже. Вот ваша оплата."
 "The residents of Sorrow's Eclipse and I have heard of what you did to the Svanir. Your methods of infiltration are clever. You made the Svanir scramble, which bought us time to recoup. Thank you for your service to our land. May Koda's blessing fall upon you.
-—Deep Water","Жители «Печали затмения» и я слышали о том, что вы сделали с Сваниром. Ваши методы проникновения умны. Вы заставили Сванира суетиться, что дало нам время на восстановление. Спасибо за вашу службу нашей земле. Да пребудет с вами благословение Коды.
+—Deep Water","Жители «Печали затмения» и я слышали о том, что вы сделали с Svanir. Ваши методы проникновения умны. Вы заставили Svanir суетиться, что дало нам время на восстановление. Спасибо за вашу службу нашей земле. Да пребудет с вами благословение Коды.
 —Deep Water"
 The road to Lion's Arch is more secure.,Дорога к Lion's Arch стала безопаснее.
 The roads to Black Haven are much safer since you took care of the bandits in the area.,"Дороги к Black Haven стали намного безопаснее с тех пор, как вы разобрались с бандитами в этом районе."
-"The skaalds will know the name ""Dawnwynn!""","Скальды узнают имя «Dawnwynn!»"
+"The skaalds will know the name ""Dawnwynn!""",Скальды узнают имя «Dawnwynn!»
 The skritt are a little safer.,Скритты теперь в относительной безопасности.
 The skritt are impressed.,Скритты впечатлены.
 The sounds of frequent explosions caused by the Separatists is hard on the ears. You certainly made dealing with them easier for us. And given us some momentary peace.,"Звуки частых взрывов, вызванных сепаратистами, бьют по ушам. Вы, безусловно, облегчили нам борьбу с ними. И подарили нам мгновения покоя."
@@ -168,7 +168,7 @@ Train with the militia,Тренируйтесь с ополчением
 "Train, discipline, and deliver rations to Seraph militia, receive intelligence from scouts, extinguish fires, and secure rations from the beached ships along the piers.","Тренируйтесь, дисциплинируйте и доставляйте пайки ополчению Сераф, получайте разведданные от разведчиков, тушите пожары и охраняйте пайки с выброшенных на берег кораблей вдоль пирсов."
 Training assisted.,Обучение проведено.
 Tuyere Command Post is running smoothly.,Командный пункт Tuyere работает без сбоев.
-Twinspur Haven,Twinspur Haven
+Twinspur Haven,Приют Твинспер
 "Twinspur Haven is safe and open for travelers, thanks to your efforts on our behalf. You will always have a warm welcome here.",Twinspur Haven в безопасности и открыт для путников благодаря вашим усилиям. Здесь вам всегда будут рады.
 Tyria's Hero,Герой Тирии
 Ulta Metamagicals Thanks You,Ульта Метамаджикалс благодарит вас
@@ -251,7 +251,7 @@ Well Met,Рады встрече
 "While you were fighting the Darkhoof centaurs, I had some time to read some of the scrolls that have been recovered from their camps. There are some alarming insights on their heirarchyhierarchy. I'll have to give this further study.Thank you for making Scholar's Cleft a safer place for me and my brethren to work.","Пока вы сражались с кентаврами Темнокопыта, у меня было время прочесть некоторые свитки, найденные в их лагерях. Там есть тревожные сведения об их иерархии. Мне нужно будет изучить это подробнее.Спасибо, что сделали Раскол Учёного более безопасным местом для работы меня и моих собратьев."
 Whispers of Wind appreciates that.,Шёпот Ветра ценит это.
 Win over the grawl by killing icebrood trolls and building shrines to Chokocooka.,"Расположите к себе grawl, убивая ледяных троллей и возводя святилища Chokocooka."
-Win the favor of the circus,Win the favor of the circus
+Win the favor of the circus,Заслужи расположение цирка
 Winning the War,Победа в войне
 "Wipe out dredge and creatures they disturb, destroy their unrefined ore, and fill in boreholes.","Уничтожьте дрегов и существ, которых они потревожили, уничтожьте их неочищенную руду и засыпьте буровые скважины."
 Wipe out the ghosts haunting Ascalon City and help the Blood Legion retake the city for the charr.,"Уничтожьте призраков, преследующих Ascalon City, и помогите Blood Legion отвоевать город для чарр."
@@ -377,7 +377,7 @@ You helped Hrouda,Вы помогли Hrouda
 You helped Hune.,Вы помогли Hune.
 You helped Hunter Glynis.,Вы помогли Hunter Glynis.
 You helped Hunter Neida.,Вы помогли Hunter Neida.
-You helped Infinite Mind.,Вы помогли Infinite Mind
+You helped Infinite Mind.,Вы помогли Infinite Mind.
 You helped Jenrys.,Вы помогли Jenrys.
 You helped Kastaz Strongpaw.,Вы помогли Kastaz Strongpaw.
 You helped Kelgg.,Вы помогли Kelgg.
@@ -492,8 +492,8 @@ You honor the spirit of Hare.,Вы чтите дух Зайца.
 You know where to find me.,"Вы знаете, где меня найти."
 You make a difference.,Вы меняете мир к лучшему.
 You make headway into the mursaat ruins,Вы продвигаетесь в руины мурсаатов
-"You really could be one of Hullgarden's own. Not gonna lie, I didn't see it comin'. Can't thank you enough!","Ты и правда мог бы быть своим в Халлгардене. Не буду врать, я этого не ожидал. Спасибо тебе огромное!"
-"You really did a number on those ettin. Junction Haven is a critical link in the supply chain between Lion's Arch and the norn lands. Without your efforts, the chain may have very well broken down. Now adventurers and citizens of Lion's Arch alike will be able to enjoy the continued flow of goods from distant Hoelbrak. Thank you for helping.",Ты здорово разделался с этими эттинами. Перекресток Приюта — критически важное звено в цепочке поставок между Lion's Arch и землями норнов. Без твоих усилий эта цепь могла бы легко разорваться. Теперь искатели приключений и граждане Lion's Arch смогут наслаждаться бесперебойным потоком товаров из далекого Хоэльбрака. Спасибо за помощь.
+"You really could be one of Hullgarden's own. Not gonna lie, I didn't see it comin'. Can't thank you enough!","Ты и правда мог бы быть своим в Hullgarden. Не буду врать, я этого не ожидал. Спасибо тебе огромное!"
+"You really did a number on those ettin. Junction Haven is a critical link in the supply chain between Lion's Arch and the norn lands. Without your efforts, the chain may have very well broken down. Now adventurers and citizens of Lion's Arch alike will be able to enjoy the continued flow of goods from distant Hoelbrak. Thank you for helping.",Ты здорово разделался с этими эттинами. Перекресток Приюта — критически важное звено в цепочке поставок между Lion's Arch и землями норнов. Без твоих усилий эта цепь могла бы легко разорваться. Теперь искатели приключений и граждане Lion's Arch смогут наслаждаться бесперебойным потоком товаров из далекого Hoelbrak. Спасибо за помощь.
 "You really put the hurt on those dredge in Molengrad. With you causing a distraction, I was able to slip in to mine and out again with just enough combat to work up a sweat.","Вы действительно задали жару этим дрегам в Molengrad. Пока вы отвлекали их, я смог проскользнуть внутрь, добыть руду и выбраться обратно, успев при этом лишь слегка вспотеть в бою."
 "You should know that I have the greatest respect for the job you did in helping us make the area around Temperus Point a safer place to conduct our business. Finally, our caravans and patrols, who had been beaten down by the attacks of hoards of hostile creatures and the odd ghost, can travel the roads and byways safely.","Вы должны знать, что я глубоко уважаю ту работу, которую вы проделали, помогая нам сделать окрестности Temperus Point более безопасным местом для ведения наших дел. Наконец-то наши караваны и патрули, измотанные атаками орд враждебных существ и странных призраков, могут безопасно передвигаться по дорогам и тропам."
 You should know that your efforts were greatly appreciated.,"Знайте, что ваши усилия были высоко оценены."

@@ -246,7 +246,7 @@ This item only has value as part of a collection.","<c=@flavor>«Простак 
 —Brother Vince</c>","<c=@flavor>«Эти кружки делают на совесть. Они не разобьются о голову бандита и остановят кентаврскую стрелу, не пролив ни капли эля».
 —Брат Винс</c>"
 "<c=@flavor>""These still have a little residual arcane energy. We are going to need every little magical scrap and crumb to defeat Zhaitan.""
-—Scholar Blix</c>","<c=@flavor>«В них ещё осталась остаточная чародейская энергия. Нам понадобится каждый магический клочок и крошка, чтобы одолеть Зайтана».
+—Scholar Blix</c>","<c=@flavor>«В них ещё осталась остаточная чародейская энергия. Нам понадобится каждый магический клочок и крошка, чтобы одолеть Zhaitan».
 —Scholar Blix</c>"
 "<c=@flavor>""These summoning stones have led to great breakthroughs in some of my more boot-related research.""
 —Scholar Inka</c>","<c=@flavor>«Эти камни призыва привели к великим прорывам в кое-каких моих исследованиях, связанных с обувью».
@@ -283,7 +283,7 @@ This item only has value as part of a collection.","<c=@flavor>«Простак 
 "<c=@flavor>""They love these sticks.""
 —Braxa Scalehunter</c>","<c=@flavor>«Они обожают эти палки».
 —Бракса Чешуйница</c>"
-"<c=@flavor>""They said I set a record, but hey, who's counting?"" —Braham</c>","<c=@flavor>«Говорят, я поставил рекорд, но кто их считает?» —Брейхам</c>"
+"<c=@flavor>""They said I set a record, but hey, who's counting?"" —Braham</c>","<c=@flavor>«Говорят, я поставил рекорд, но кто их считает?» —Braham</c>"
 "<c=@flavor>""They said it couldn't be done, but I did it. The legions first tactical torch.""
 —Tactician Lyan</c>","<c=@flavor>«Говорили, что это невозможно, но я это сделал. Первый тактический факел легионов».
 —Тактик Лайан</c>"
@@ -330,7 +330,7 @@ This item only has value as part of a collection.","<c=@flavor>«Простак 
 "<c=@flavor>""This chestplate could take a whole dredge tank round at point-blank range and still keep you from feeling it.""
 —Explorer Brokkar</c>","<c=@flavor>«Этот нагрудник выдержит выстрел дреджского танка в упор, и ты всё равно ничего не почувствуешь».
 —Explorer Brokkar</c>"
-"<c=@flavor>""This city's got the right idea sometimes. It's my kind of party! And you know, we did some good together on the way."" —Braham</c>","<c=@flavor>«Иногда этот город соображает что надо. Вот это по мне праздник! И знаешь, по пути мы вместе сделали немало хорошего». —Брейхам</c>"
+"<c=@flavor>""This city's got the right idea sometimes. It's my kind of party! And you know, we did some good together on the way."" —Braham</c>","<c=@flavor>«Иногда этот город соображает что надо. Вот это по мне праздник! И знаешь, по пути мы вместе сделали немало хорошего». —Braham</c>"
 "<c=@flavor>""This comes straight from the heart. Ha! Get it?""
 —Kona Timberrend</c>","<c=@flavor>«Это прямо от сердца. Ха! Уловил?»
 —Кона Древорез</c>"
@@ -375,7 +375,7 @@ This item only has value as part of a collection.","<c=@flavor>«Простак 
 —Guardian Infinite Mind</c>","<c=@flavor>«Это всего лишь инструмент большей машины».
 —Страж Бесконечный Разум</c>"
 "<c=@flavor>""This is it. Every step you take past here is straight into Zhaitan.""
-—Lightbringer Ives</c>","<c=@flavor>«Вот и всё. Каждый шаг отсюда — прямиком в Зайтана».
+—Lightbringer Ives</c>","<c=@flavor>«Вот и всё. Каждый шаг отсюда — прямиком в Zhaitan».
 —Светоносец Айвз</c>"
 "<c=@flavor>""This is mostly fireproof. Calculations indicate that you'll be fine if you aim the flamethrower away from you.""
 —Jezza</c>","<c=@flavor>«Это в основном огнеупорно. Расчёты показывают, что с тобой всё будет хорошо, если направлять огнемёт в сторону от себя».
@@ -426,7 +426,7 @@ This item only has value as part of a collection.","<c=@flavor>«Простак 
 —Brikk</c>","<c=@flavor>«Этот для моего любимого эксперимента: разобьётся ли он?»
 —Брикк</c>"
 "<c=@flavor>""This piece was anointed by Vollym himself. Wear it proudly!""
-—Johan</c>","<c=@flavor>«Этот предмет освятил сам Воллим. Носи его с гордостью!»
+—Johan</c>","<c=@flavor>«Этот предмет освятил сам Vollym. Носи его с гордостью!»
 —Йохан</c>"
 "<c=@flavor>""This pin might be a little too tactical.""
 —Tactician Lyan</c>","<c=@flavor>«Этот значок может быть чуточку слишком тактическим».
@@ -481,7 +481,7 @@ This item only has value as part of a collection.","<c=@flavor>«Простак 
 —Изыскатель Эрикк</c>"
 "<c=@flavor>""This well-worn doll belonged to Cobiah Marriner's little sister, Biviane, who had her young life taken from her under the piers of Lion's Arch.""</c>","<c=@flavor>«Эта потрёпанная кукла принадлежала младшей сестре Кобии Марринера, Бивиане, чью юную жизнь отняли под пирсами Lion's Arch».</c>"
 "<c=@flavor>""This will come in handy once the Svanir threat increases.""
-—Tactician Sebastian</c>","<c=@flavor>«Это пригодится, когда угроза со стороны Сванира усилится».
+—Tactician Sebastian</c>","<c=@flavor>«Это пригодится, когда угроза со стороны Svanir усилится».
 —Tactician Sebastian</c>"
 "<c=@flavor>""Thorns can be as beautiful as they are painful.""
 —Diantha</c>","<c=@flavor>«Шипы могут быть столь же прекрасны, сколь и болезненны».
@@ -588,7 +588,7 @@ This item only has value as part of a collection.","<c=@flavor>«Использ�
 —Мастер Шепчущих</c>"
 "<c=@flavor>""Vishen Steelshot: immediately regroup with Steel warband at Terra Carorunda Waypoint for an important assignment.""</c>",<c=@flavor>«Вишен Сталестрел: немедленно воссоединиться со отрядом Стали у путевой точки „Terra Carorunda“ для важного задания».</c>
 "<c=@flavor>""Vollym himself used to dual wield two of these at a time.""
-—Johan</c>","<c=@flavor>«Сам Воллим когда-то сражался сразу двумя такими».
+—Johan</c>","<c=@flavor>«Сам Vollym когда-то сражался сразу двумя такими».
 —Йохан</c>"
 "<c=@flavor>""Walk a mile in these shoes.""
 —Lionscout Tunnira</c>","<c=@flavor>«Пройди милю в этой обуви».
@@ -638,7 +638,7 @@ This item only has value as part of a collection.","<c=@flavor>«Использ�
 "<c=@flavor>""We carry with us great burdens, but oftentimes it's those burdens that shield us from danger.""
 —Bladed Softness</c>","<c=@flavor>«Мы несём на себе тяжкое бремя, но зачастую именно оно ограждает нас от опасности».
 —Клинковая Мягкость</c>"
-"<c=@flavor>""We caught the killer, but they were no lone crook. Looking for part-time work in the investigation business?"" —Marjory</c>","<c=@flavor>«Убийцу мы поймали, но он был не одиночкой. Не ищешь подработку в сыскном деле?» —Марджори</c>"
+"<c=@flavor>""We caught the killer, but they were no lone crook. Looking for part-time work in the investigation business?"" —Marjory</c>","<c=@flavor>«Убийцу мы поймали, но он был не одиночкой. Не ищешь подработку в сыскном деле?» —Marjory</c>"
 "<c=@flavor>""We chain ourselves to fate by the decisions we make.""
 —Warden Scourgejaw</c>","<c=@flavor>«Мы приковываем себя к судьбе решениями, которые принимаем».
 —Страж Скорджо</c>"
@@ -685,7 +685,7 @@ This item only has value as part of a collection.","<c=@flavor>«Использ�
 "<c=@flavor>""We have all the jewlery from this site we can handle. That is a beautiful artifact though.""
 —Magister Razermane</c>","<c=@flavor>«У нас уже столько драгоценностей с этого места, сколько мы можем осилить. Хотя артефакт красивый».
 —Магистр Рейзермейн</c>"
-"<c=@flavor>""We heard fighting over the ridge, but Ryland ordered us to hold the pass. If we chased the fight, we would have been surrounded.""</c>","<c=@flavor>«Мы слышали бой за хребтом, но Райленд приказал держать перевал. Погнались бы за схваткой — нас бы окружили».</c>"
+"<c=@flavor>""We heard fighting over the ridge, but Ryland ordered us to hold the pass. If we chased the fight, we would have been surrounded.""</c>","<c=@flavor>«Мы слышали бой за хребтом, но Ryland приказал держать перевал. Погнались бы за схваткой — нас бы окружили».</c>"
 "<c=@flavor>""We hold our war paint in this jar. When the battle is over, we give it to the hero. In this case, that would be you.""
 —Atzintli</c>","<c=@flavor>«В этом кувшине мы держим боевую раскраску. Когда битва окончена, мы отдаём её герою. В данном случае — тебе».
 —Ацинтли</c>"
@@ -833,12 +833,12 @@ This item only has value as part of a collection.","<c=@flavor>«Использ�
 — Priory Field Guide to Munitions</c>","<c=@flavor>«Обычно многословный в любых темах, Приорат становится краток, когда речь о правильном применении боеприпасов. Направь на врага. Отойди».
 —Priory Field Guide to Munitions</c>"
 "<c=@flavor>""While some may pray to Balthazar, this reminds me that a soldier's peace is inevitable.""
-—Sergeant Yarbrough</c>","<c=@flavor>«Пусть кто-то и молится Бальтазару, это напоминает мне, что покой солдата неизбежен».
+—Sergeant Yarbrough</c>","<c=@flavor>«Пусть кто-то и молится Balthazar, это напоминает мне, что покой солдата неизбежен».
 —Sergeant Yarbrough</c>"
 "<c=@flavor>""Who ever planned this operation should have read this first—who destroys a perfectly good gate?""
 —Agent Siobhan</c>","<c=@flavor>«Тому, кто спланировал эту операцию, стоило бы сперва это прочесть — кто вообще ломает исправные ворота?»
 —Agent Siobhan</c>"
-"<c=@flavor>""Who knew Braham actually had it in him? Good thing I didn't lose my eye.""</c>","<c=@flavor>«Кто бы знал, что Брейхам и правда на такое способен? Хорошо, что я не лишился глаза».</c>"
+"<c=@flavor>""Who knew Braham actually had it in him? Good thing I didn't lose my eye.""</c>","<c=@flavor>«Кто бы знал, что Braham и правда на такое способен? Хорошо, что я не лишился глаза».</c>"
 "<c=@flavor>""Who knew wurms had teeth?""
 —Diah </c>","<c=@flavor>«Кто знал, что у вирмов есть зубы?»
 —Диа </c>"
@@ -1045,7 +1045,7 @@ This item only has value as part of a collection.","<c=@flavor>«Да, да, э�
 "<c=@flavor>""You're one of us now. Just don't let it go to your head."" -Cap</c>",<c=@flavor>«Теперь ты один из нас. Только не дай этому вскружить тебе голову». —Кэп</c>
 "<c=@flavor>""You've got some bite after all—just not enough to best the best.""
 —Vollym</c>","<c=@flavor>«В тебе всё же есть хватка — просто не настолько, чтобы одолеть лучших».
-—Воллим</c>"
+—Vollym</c>"
 "<c=@flavor>""Your enemy doesn't stand a chance now!""</c>",<c=@flavor>«Теперь у твоего врага нет ни шанса!»</c>
 "<c=@flavor>""Your lucky day! I usually keep things this shiny.""
 —Mrr'kkant</c>","<c=@flavor>«Твой счастливый день! Обычно я держу вещи именно такими блестящими».
@@ -1057,7 +1057,7 @@ This item only has value as part of a collection.","<c=@flavor>«Да, да, э�
 —Warden Llew</c>","<c=@flavor>«Твоя сила и храбрость вдохновляют нас всех».
 —Страж Ллью</c>"
 "<c=@flavor>""Zhaitan may be big, but every little cut adds up.""
-—Warmaster Chan</c>","<c=@flavor>«Зайтан может быть велик, но каждый маленький порез складывается в итог».
+—Warmaster Chan</c>","<c=@flavor>«Zhaitan может быть велик, но каждый маленький порез складывается в итог».
 —Военачальник Чан</c>"
 <c=@flavor>A barrel of 100 bags of supplies from Scarlet's Alliance troops.<c>,<c=@flavor>Бочка со 100 мешками припасов от войск Scarlet's Alliance.<c>
 "<c=@flavor>A beautiful red flower, treated to last forever.</c>","<c=@flavor>Прекрасный красный цветок, обработанный так, чтобы сохраниться навечно.</c>"
@@ -1089,7 +1089,7 @@ This item only has value as part of a collection.","<c=@flavor>«Да, да, э�
 Found in Lion's Arch.","<c=@flavor>Запретный город. Запретная любовь.</c>
 Найдено в Lion's Arch."
 <c=@flavor>A fossilized piece of a gargoyle.</c>,<c=@flavor>Окаменелый обломок горгульи.</c>
-<c=@flavor>A fragment of Aurene's Brand set in a pendant.</c>,<c=@flavor>Осколок Клейма Аурены в подвеске.</c>
+<c=@flavor>A fragment of Aurene's Brand set in a pendant.</c>,<c=@flavor>Осколок Клейма Aurene в подвеске.</c>
 <c=@flavor>A full heart offers refuge.</c>,<c=@flavor>Полное сердце дарует приют.</c>
 <c=@flavor>A gift from a grateful tree.<c>,<c=@flavor>Дар от благодарного дерева.<c>
 <c=@flavor>A gift given in gratitude from the leaders of Tyria.</c>,"<c=@flavor>Дар, преподнесённый в благодарность вождями Тирии.</c>"
@@ -1138,8 +1138,8 @@ Found in Lion's Arch.","<c=@flavor>Запретный город. Запретн
 <c=@flavor>A precious jewel found in the depths of the ocean.</c>,"<c=@flavor>Драгоценный камень, найденный в глубинах океана.</c>"
 <c=@flavor>A prized possession of guilds in ancient times.</c>,<c=@flavor>Ценное достояние гильдий древних времён.</c>
 "<c=@flavor>A prophecy is fulfilled, and new legends mark a beginning.</c>","<c=@flavor>Пророчество сбылось, и новые легенды знаменуют начало.</c>"
-<c=@flavor>A rare and beautiful shell from far-off Istan.</c>,<c=@flavor>Редкая и красивая раковина с далёкого Истана.</c>
-<c=@flavor>A rare copy of Zinn's research into the power of souls.</c>,<c=@flavor>Редкая копия исследований Зинна о силе душ.</c>
+<c=@flavor>A rare and beautiful shell from far-off Istan.</c>,<c=@flavor>Редкая и красивая раковина с далёкого Istan.</c>
+<c=@flavor>A rare copy of Zinn's research into the power of souls.</c>,<c=@flavor>Редкая копия исследований Zinn о силе душ.</c>
 <c=@flavor>A Rata Sum award for extraordinary genius.</c>,<c=@flavor>Награда Rata Sum за выдающуюся гениальность.</c>
 <c=@flavor>A remnant of the presumed-extinct gargoyles.</c>,"<c=@flavor>Останки горгулий, считающихся вымершими.</c>"
 <c=@flavor>A replica of the Thackeray family ring.</c>,<c=@flavor>Копия фамильного кольца Такереев.</c>

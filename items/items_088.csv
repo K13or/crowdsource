@@ -25,7 +25,7 @@ Recipe: Jade Tech Hammer,Рецепт: Jade Tech Hammer
 Recipe: Jade Tech Hat,Рецепт: Jade Tech Hat
 Recipe: Jade Tech Heavy Boots,Рецепт: Jade Tech Heavy Boots
 Recipe: Jade Tech Heavy Leggings,Рецепт: Jade Tech Heavy Leggings
-Recipe: Jade Tech Helmet,Recipe: Jade Tech Helmet
+Recipe: Jade Tech Helmet,Рецепт: шлем из джейд-технологий
 Recipe: Jade Tech Light Boots,Рецепт: Jade Tech Light Boots
 Recipe: Jade Tech Light Gloves,Рецепт: Jade Tech Light Gloves
 Recipe: Jade Tech Light Shoulderpads,Рецепт: Jade Tech Light Shoulderpads
@@ -59,7 +59,7 @@ Recipe: Jerk Poultry Flatbread Sandwich,Рецепт: Jerk Poultry Flatbread San
 Recipe: Jolly Bow,Рецепт: Jolly Bow
 Recipe: Jorms Plush,Рецепт: Jorms Plush
 Recipe: Karka Toughness Station,Рецепт: Karka Toughness Station
-Recipe: Kastaz Strongpaw Stuffed Poultry,Recipe: Kastaz Strongpaw Stuffed Poultry
+Recipe: Kastaz Strongpaw Stuffed Poultry,Рецепт: фаршированная птица Кастаза Сильная Лапа
 Recipe: Keep Construct Rubble,Рецепт: Keep Construct Rubble
 Recipe: Keeper's Artifact,Рецепт: Keeper's Artifact
 Recipe: Keeper's Bastion,Рецепт: Keeper's Bastion
@@ -102,9 +102,9 @@ Recipe: Keeper's Warfists,Рецепт: Keeper's Warfists
 Recipe: Keeper's Warhammer,Рецепт: Keeper's Warhammer
 Recipe: Keeper's Wristguards,Рецепт: Keeper's Wristguards
 Recipe: Keeper's Zealot Inscription,Рецепт: Keeper's Zealot Inscription
-Recipe: Keeper's Zealot's Insignia,Recipe: Keeper's Zealot's Insignia
-Recipe: Kimchi Pancakes,Recipe: Kimchi Pancakes
-Recipe: Kimchi Tofu Stew,Recipe: Kimchi Tofu Stew
+Recipe: Keeper's Zealot's Insignia,Рецепт: инсигния рвения хранителя
+Recipe: Kimchi Pancakes,Рецепт: кимчи-блинчики
+Recipe: Kimchi Tofu Stew,Рецепт: тушеное тофу с кимчи
 Recipe: Knight's Darksteel Imbued Inscription,Рецепт: Knight's Darksteel Imbued Inscription
 Recipe: Knight's Intricate Gossamer Insignia,Рецепт: Knight's Intricate Gossamer Insignia
 Recipe: Knight's Intricate Linen Insignia,Рецепт: Knight's Intricate Linen Insignia
@@ -205,7 +205,7 @@ Recipe: Leftpaw's Warfists,Рецепт: Leftpaw's Warfists
 Recipe: Leftpaw's Warhammer,Рецепт: Leftpaw's Warhammer
 Recipe: Leftpaw's Wristguards,Рецепт: Leftpaw's Wristguards
 Recipe: Legendary Inscription,Рецепт: Legendary Inscription
-Recipe: Legendary Obsidian Armor,Recipe: Legendary Obsidian Armor
+Recipe: Legendary Obsidian Armor,Рецепт: легендарная обсидиановая броня
 Recipe: Leopard Totem,Рецепт: Leopard Totem
 Recipe: Lepidoptera,Рецепт: Lepidoptera
 Recipe: Light of Dwayna,Рецепт: Light of Dwayna
@@ -228,7 +228,7 @@ Recipe: Lightborne Sword,Рецепт: Lightborne Sword
 Recipe: Lightborne Torch,Рецепт: Lightborne Torch
 Recipe: Lightborne Warhorn,Рецепт: Lightborne Warhorn
 Recipe: Lightning Aspect Crystal,Рецепт: Lightning Aspect Crystal
-Recipe: Liquid Flame,Recipe: Liquid Flame
+Recipe: Liquid Flame,Рецепт: жидкое пламя
 Recipe: Liturgy,Рецепт: Liturgy
 Recipe: Longbow,Рецепт: Longbow
 Recipe: Longevity Noodles,Рецепт: Longevity Noodles
@@ -252,9 +252,9 @@ Recipe: Lunatic Templar Greaves,Рецепт: Lunatic Templar Greaves
 Recipe: Lunatic Templar Helm,Рецепт: Lunatic Templar Helm
 Recipe: Lunatic Templar Pauldrons,Рецепт: Lunatic Templar Pauldrons
 Recipe: Lunatic Templar Tassets,Рецепт: Lunatic Templar Tassets
-Recipe: Lye,Recipe: Lye
+Recipe: Lye,Рецепт: щёлок
 Recipe: Mace,Рецепт: Mace
-Recipe: Machined Weapon Core,Recipe: Machined Weapon Core
+Recipe: Machined Weapon Core,Рецепт: обработанное оружейное ядро
 Recipe: Maddening Tower,Рецепт: Maddening Tower
 Recipe: Magnanimous Maintenance Oil,Рецепт: Magnanimous Maintenance Oil
 Recipe: Magnanimous Maintenance Oil Station,Рецепт: Magnanimous Maintenance Oil Station
@@ -265,7 +265,7 @@ Recipe: Maguuma Lily Orichalcum Amulet,Рецепт: Maguuma Lily Orichalcum Amu
 Recipe: Maguuma Lily Orichalcum Earring,Рецепт: Maguuma Lily Orichalcum Earring
 Recipe: Maguuma Lily Orichalcum Ring,Рецепт: Maguuma Lily Orichalcum Ring
 Recipe: Maintenance Oil Station,Рецепт: Maintenance Oil Station
-Recipe: Maize Balm,Recipe: Maize Balm
+Recipe: Maize Balm,Рецепт: бальзам из маиса
 Recipe: Major Rune of Exuberance,Рецепт: Major Rune of Exuberance
 Recipe: Major Rune of Perplexity,Рецепт: Major Rune of Perplexity
 Recipe: Major Rune of the Mad King,Рецепт: Major Rune of the Mad King
@@ -321,11 +321,11 @@ Recipe: Man o' War,Рецепт: Man o' War
 Recipe: Mantodea,Рецепт: Mantodea
 Recipe: Marauder Intricate Gossamer Insignia,Рецепт: Marauder Intricate Gossamer Insignia
 Recipe: Marauder Orichalcum Imbued Inscription,Рецепт: Marauder Orichalcum Imbued Inscription
-Recipe: Marjory's Experimental Chili,Recipe: Marjory's Experimental Chili
+Recipe: Marjory's Experimental Chili,Рецепт: экспериментальное чили Марджори
 Recipe: Mark of the Unnamed,Рецепт: Mark of the Unnamed
 Recipe: Mashed Purple Potatoes,Рецепт: Mashed Purple Potatoes
 Recipe: Masterwork Rift Motivation,Рецепт: Masterwork Rift Motivation
-Recipe: Match Grade Standard Rifle,Recipe: Match Grade Standard Rifle
+Recipe: Match Grade Standard Rifle,Рецепт: стандартная винтовка высшего класса
 Recipe: Mathilde's Artifact,Рецепт: Mathilde's Artifact
 Recipe: Mathilde's Bastion,Рецепт: Mathilde's Bastion
 Recipe: Mathilde's Blade,Рецепт: Mathilde's Blade
@@ -346,7 +346,7 @@ Recipe: Mathilde's Spire,Рецепт: Mathilde's Spire
 Recipe: Mathilde's Trident,Рецепт: Mathilde's Trident
 Recipe: Mathilde's Wand,Рецепт: Mathilde's Wand
 Recipe: Mathilde's Warhammer,Рецепт: Mathilde's Warhammer
-Recipe: Meat Carver,Recipe: Meat Carver
+Recipe: Meat Carver,Рецепт: мясницкий нож
 Recipe: Meaty Asparagus Skewer,Рецепт: Meaty Asparagus Skewer
 Recipe: Meaty Rice Bowl,Рецепт: Meaty Rice Bowl
 Recipe: Meteorite Ingot,Рецепт: Meteorite Ingot
@@ -397,12 +397,12 @@ Recipe: Minstrel's Pearl Siren,Рецепт: Minstrel's Pearl Siren
 Recipe: Minstrel's Pearl Speargun,Рецепт: Minstrel's Pearl Speargun
 Recipe: Minstrel's Pearl Stinger,Рецепт: Minstrel's Pearl Stinger
 Recipe: Minstrel's Pearl Trident,Рецепт: Minstrel's Pearl Trident
-Recipe: Mintberry Swirl Ice Cream,Recipe: Mintberry Swirl Ice Cream
+Recipe: Mintberry Swirl Ice Cream,Рецепт: мятно-ягодное мороженое с завитком
 Recipe: Mistbreaker,Рецепт: Mistbreaker
 Recipe: Mistcleaver,Рецепт: Mistcleaver
 Recipe: Mistrender,Рецепт: Mistrender
-Recipe: Mizin,Recipe: Mizin
-Recipe: Moogooloo Harpoon,Recipe: Moogooloo Harpoon
+Recipe: Mizin,Рецепт: мизин
+Recipe: Moogooloo Harpoon,Рецепт: гарпун Мугулу
 Recipe: Moogooloo Speargun,Рецепт: Moogooloo Speargun
 Recipe: Moogooloo Trident,Рецепт: Moogooloo Trident
 Recipe: Moonstone Orichalcum Amulet,Рецепт: Moonstone Orichalcum Amulet
@@ -455,8 +455,8 @@ Recipe: Mournstone Earring,Рецепт: Mournstone Earring
 Recipe: Mournstone Ring,Рецепт: Mournstone Ring
 Recipe: Mummy Tonic,Рецепт: Mummy Tonic
 Recipe: Mushroom Loaf,Рецепт: Mushroom Loaf
-Recipe: Mushroom Soup,Recipe: Mushroom Soup
-Recipe: Mushrooms Yakkington,Recipe: Mushrooms Yakkington
+Recipe: Mushroom Soup,Рецепт: грибной суп
+Recipe: Mushrooms Yakkington,Рецепт: грибы Яккингтон
 Recipe: Mystic Aspect,Рецепт: Mystic Aspect
 Recipe: Mystic Mote,Рецепт: Mystic Mote
 Recipe: Mythwright Gambit Pillar,Рецепт: Mythwright Gambit Pillar
@@ -479,8 +479,8 @@ Recipe: Nadijeh's Harpoon Gun,Рецепт: Nadijeh's Harpoon Gun
 Recipe: Nadijeh's Herald,Рецепт: Nadijeh's Herald
 Recipe: Nadijeh's Impaler,Рецепт: Nadijeh's Impaler
 Recipe: Nadijeh's Leggings,Рецепт: Nadijeh's Leggings
-Recipe: Nadijeh's Marshal's Inscription,Recipe: Nadijeh's Marshal's Inscription
-Recipe: Nadijeh's Marshal's Insignia,Recipe: Nadijeh's Marshal's Insignia
+Recipe: Nadijeh's Marshal's Inscription,Рецепт: гравировка маршала Надиджи
+Recipe: Nadijeh's Marshal's Insignia,Рецепт: инсигния маршала Надиджи
 Recipe: Nadijeh's Masque,Рецепт: Nadijeh's Masque
 Recipe: Nadijeh's Musket,Рецепт: Nadijeh's Musket
 Recipe: Nadijeh's Pauldrons,Рецепт: Nadijeh's Pauldrons

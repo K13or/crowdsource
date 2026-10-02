@@ -25,9 +25,9 @@ Droknar's Light Fractal Research,Исследование фрактала Drokn
 Droknar's Light—Engorged Ice Elemental,Droknar's Light — Раздутый Ледяной элементаль
 Droknar's Light—Galene the Seething,Droknar's Light — Галена Неистовая
 Drolgg overcome with exhaustion in: %str1%,Дролгг обессилеет через: %str1%
-Drone Race,Drone Race
+Drone Race,Гонка дронов
 Drooburt isn't around the Super Adventure Box. Maybe he's lost somewhere.,"Друбурт не рядом с Super Adventure Box. Возможно, он где-то потерялся."
-Drooburt's Ghost,Drooburt's Ghost
+Drooburt's Ghost,Призрак Друбурта
 Drooburt's Wares,Товары Друбурта
 Drop a bomb while gliding.,Сбросить бомбу во время планирования.
 Drop a decoy to distract the toys.,"Сбросить приманку, чтобы отвлечь игрушки."
@@ -256,7 +256,6 @@ Dry Silver Dye[s],[Краска|Краски|Красок] «Сухое сере
 Dry Top Exploration,Исследование Dry Top
 Dry Wheat,Сухая пшеница
 Dryground residents thank you.,Жители Сухой земли благодарят вас.
-"Dryground Village is grateful for your generous assistance. The village defenses are all we have against the hostile creatures that stalk the area. Without them, we would be in great danger.Please continue to be a boon to those in need.—Laudren","Деревня Драйграунд благодарна за вашу щедрую помощь. Деревенская оборона — это всё, что у нас есть против враждебных существ, рыскающих в этой местности. Без неё мы были бы в большой опасности.Пожалуйста, продолжайте быть благословением для нуждающихся.—Лаудрен"
 Dual Chop,Двойная рубка
 Dual Edge,Двойное лезвие
 Dual Peaks (Level 44),Двойные пики (Уровень 44)
@@ -296,7 +295,7 @@ Duelist's Chain Helm,Цепной шлем дуэлянта
 Duelist's Chain Pauldrons,Цепные наплечники дуэлянта
 Dug deep.,Глубоко покопался.
 Duidda appeciates your help against the pirates.,Дуидда ценит вашу помощь в борьбе с пиратами.
-Duke Barradin,Duke Barradin
+Duke Barradin,Герцог Баррадин
 "Duke's Testimony[pl:""Testimonies""]",Свидетельство герцога
 Dull Claw[s],[Тупой коготь|Тупые когти|Тупых когтей]
 Dull Fang[s],[Тупой клык|Тупые клыки|Тупых клыков]
@@ -344,7 +343,6 @@ Dungeoneer's Grandmaster Chest[s],[Сундук грандмастера под�
 "Dunkleosteus[pl:""Dunkleosteus""]",[Дункелеостеус|Дункелеостеусы|Дункелеостеусов]
 "Duo Arena[pl:""Arenas""]",Арена для дуэлей[|и|ей]
 Duo Demo Map,Дуо-демо-карта
-"Duo has tips now! If you want to add new ones, navigate to System.DuoTips or Gw2.System.Tips and either add your tip to an existing DuoTipDef or add a new DuoTipDef.All tips support [CommonMark](https://commonmark.org/help/) markdown.","Теперь в игре есть подсказки для дуэтов! Если вы хотите добавить новые, перейдите в System.DuoTips или Gw2.System.Tips и добавьте свою подсказку либо к существующему DuoTipDef, либо создайте новый DuoTipDef. Все подсказки поддерживают [CommonMark](https://commonmark.org/help/) markdown."
 Duo Lesson Map,Дуо-учебная карта
 Duo Test Sector,Дуо-тестовый сектор
 Duo Tests,Дуо-тесты
@@ -362,10 +360,10 @@ Duration per Instrument,Длительность за инструмент
 "During the night, use the Celestial Cartographer's Gear near Shifting Waves, who stands in Snow Climb at Frostgorge Sound.","Ночью используйте Celestial Cartographer's Gear рядом с Блуждающей Волной, стоящей на Снежном Взгорье в Frostgorge Sound."
 "During the night, use the Celestial Cartographer's Gear near the chest at the end of Wall Breach Blitz in Diessa Plateau.",Ночью используйте Celestial Cartographer's Gear рядом с сундуком в конце Блиц-прорыва стены на Diessa Plateau.
 "During the night, use the Celestial Cartographer's Gear near the chest at the Shattered Ice Ruins in Frostgorge Sound.",Ночью используйте Celestial Cartographer's Gear рядом с сундуком у Разрушенных Ледяных Руин в Frostgorge Sound.
-"During the night, use the Celestial Cartographer's Gear near the chest at the top of the Vizier's Tower in the Straits of Devastation to chart the human constellation Eye of Grenth.","Ночью используйте Celestial Cartographer's Gear рядом с сундуком на вершине Башни Визиря в Проливах Опустошения, чтобы нанести на карту человеческое созвездие Око Грента."
+"During the night, use the Celestial Cartographer's Gear near the chest at the top of the Vizier's Tower in the Straits of Devastation to chart the human constellation Eye of Grenth.","Ночью используйте Celestial Cartographer's Gear рядом с сундуком на вершине Башни Визиря в Проливах Опустошения, чтобы нанести на карту человеческое созвездие Око Grenth."
 "During the night, use the Celestial Cartographer's Gear near the chest of the Griffonrook Run in Lornar's Pass.",Ночью используйте Celestial Cartographer's Gear рядом с сундуком в Забеге Грифонов в Lornar's Pass.
 "During the night, use the Celestial Cartographer's Gear near the chest of the Tribulation Rift Scaffolding in Dredgehaunt Cliffs.",Ночью используйте Celestial Cartographer's Gear рядом с сундуком у Лесов Разлома Испытаний в Dredgehaunt Cliffs.
-"During the night, use the Celestial Cartographer's Gear near the Sylvan Chest after uncovering the secrets of the hidden garden in Mount Maelstrom to chart the human constellation, Gnarl of Melandru.","Ночью используйте Celestial Cartographer's Gear рядом с Лесным Сундуком после раскрытия секретов скрытого сада на Mount Maelstrom, чтобы нанести на карту человеческое созвездие Сук Меландру."
+"During the night, use the Celestial Cartographer's Gear near the Sylvan Chest after uncovering the secrets of the hidden garden in Mount Maelstrom to chart the human constellation, Gnarl of Melandru.","Ночью используйте Celestial Cartographer's Gear рядом с Лесным Сундуком после раскрытия секретов скрытого сада на Mount Maelstrom, чтобы нанести на карту человеческое созвездие Сук Melandru."
 "During this tutorial, your current goals are displayed in the top right corner of your screen. To close this hint, click the X in the corner of this window.","Во время этого обучения ваши текущие цели отображаются в правом верхнем углу экрана. Чтобы закрыть эту подсказку, нажмите на X в углу этого окна."
 Durmand Priory Asura Gate,Асурийские врата Durmand Priory
 Durmand Priory Book[s],[Книга|Книги|Книг] Durmand Priory
@@ -382,7 +380,7 @@ Durmand's Pen (Infused),Перо Дурманда (насыщенное)
 Dusk and Dawn Shoulders skin is now available!,Образ наплечников «Сумерки и Рассвет» теперь доступен!
 Dusk and Dawn Shoulders Skin[s],[Облик|Облика|Обликов] наплечников «Сумерки и Рассвет»
 Dusk Dye[s],[Краска|Краски|Красок] «Сумерки»
-"Duskk's World 1 Super Boom Box[pl:""Boxes""]",Супер-бумбокс мира Даска
+"Duskk's World 1 Super Boom Box[pl:""Boxes""]",[Супер-бумбокс|Супер-бумбокса|Супер-бумбоксов] Duskk из 1-го мира
 "Duskk's World 2 Super Boom Box[pl:""Boxes""]",Мир Дускка: супер-[коробка|коробки|коробок]
 Dusky Dye[s],[Краска|Краски|Красок] «Сумрак»
 Dusky Green,Тусклый зелёный
@@ -479,7 +477,7 @@ Dwarven Treasure,Дварфское сокровище
 Dwarven Weapon Part,Дварфская часть оружия
 Dwayna Artifact Held,Артефакт Двайны удерживается
 Dwayna Court,Двор Двайны
-"Dwayna Statue <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• Free of Zhaitan's influence, the statue lies dormant.","Dwayna Statue <c=#a9a9a9>[lbracket]Беспрепятственно[rbracket]</c><br>• Свободная от влияния Зайтана, статуя бездействует."
+"Dwayna Statue <c=#a9a9a9>[lbracket]Uncontested[rbracket]</c><br>• Free of Zhaitan's influence, the statue lies dormant.","Dwayna Statue <c=#a9a9a9>[lbracket]Беспрепятственно[rbracket]</c><br>• Свободная от влияния Zhaitan, статуя бездействует."
 Dwayna Statue <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• Healing is impaired in the area.,Dwayna Statue <c=#ff8c00>[lbracket]Оспаривается[rbracket]</c><br>• В этой области ослаблено исцеление.
 Dwayna Statue[s],[Статуя|Статуи|Статуй] Двайны
 Dwayna's Axe Skin[s],[Облик|Облика|Обликов] топора Двайны
